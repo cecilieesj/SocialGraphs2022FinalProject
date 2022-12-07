@@ -1,0 +1,48 @@
+{{Infobox film
+| name           = Escapade in Florence
+| image          = File:1962-florence-1.jpg
+| caption        = 
+| director       =Steve Previn
+| producer       =
+| writer         =Edward Fenton<br>Maurice Tombragel<br>Bob Wehling
+| music          = 
+| cinematography = 
+| studio = Walt Disney Studios
+| distributor    = Buena Vista
+| release       = [[1962]]
+| time        = 
+| language       = English
+| budget         = 
+| gross          = 
+|imdb_id =}}
+'''''Escapade in Florence''''' is a two-part episode of the ''Disneyland'' television show which was released theatrically in some countries. It was shot on location in Florence, [[Italy]].<ref>Walt Disney, "Disney Paints Bright Picture", ''Los Angeles Times'' (1923-Current File) [Los Angeles, Calif] 25 Mar 1962: D4.</ref>
+
+The film was released in September 2013 on DVD via the Disney Movie Club Exclusives.<ref>http://openvaultdisney.com/2013/08/27/escapade-in-florence-coming-to-dvd-via-the-dmc/</ref><ref>http://openvaultdisney.com/2013/09/21/escapade-in-florence-now-available-to-own-on-dvd/</ref>
+
+==Plot==
+Mystery and suspense follow [[Annette Funicello]] and [[Tommy Kirk]] as they play students studying in the enchanting city of Florence, Italy. As the two find romance among the city's magnificent art and architecture, they discover that her paintings are at the center of an elaborate art forgery ring involving Florence's most treasured masterpieces. Danger soon finds them when they uncover the mastermind behind the plot and they're thrown into an ancient dungeon. It's now up to Annette to save the day, but will help arrive in time?
+
+==Gallery==
+<gallery>
+1962-florence-2.jpg
+1962-florence-3.jpg
+1962-florence-4.jpg
+1962-florence-5.jpg
+Tumblr n0waitinD31qiceiuo1 1280.jpg
+Tumblr n7eevrUFeO1qhcrb0o1 1280.jpg
+091312 PG FromTheArchives WonderfulWorldOfColor 5.png
+091312 PG FromTheArchives WonderfulWorldOfColor 5.5.png
+Tumblr my2y0j2zmf1r2k74to1 500.jpg
+</gallery>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb|title/tt0055961|Escapade in Florence: Part 1}}
+* {{IMDb|title/tt0561051|Escapade in Florence: Part 2}}
+
+{{Wikipedia}}
+[[Category:Walt Disney anthology series episodes]]
+[[Category:Television episodes]]
+[[Category:Multi-part episodes]]

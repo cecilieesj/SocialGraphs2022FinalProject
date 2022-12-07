@@ -1,0 +1,80 @@
+{{Infobox film
+|image = SP001-010title.jpg
+|director = [[Riley Thomson]]
+|producer = [[Walt Disney]]
+|music = [[Charles Wolcott]]
+|studio = [[Walt Disney Productions]]
+|distributor = Standard Oil
+|release = [[January 4]], [[1939]]
+|language = English
+|preceded = ''[[The Pointer]]''
+|followed = ''[[Tugboat Mickey]]''
+|imdb_id = 0168189
+|imagewidth = 250px
+}}'''''The Standard Parade''''' is a promotional animated short from [[1939]], made for Standard Oil's Disney character marketing campaigns.
+
+In the same way as the ''[[ Parade of the Award Nominees|Parade of the Award Nominees]]'' short, [[Mickey Mouse]] leads the parade except this time it is with various other Disney characters that are holding signs and banners that promote the campaign.
+
+==Characters==
+* [[Mickey Mouse]]
+* [[Minnie Mouse]]
+* [[Donald Duck]]
+* [[Goofy]]
+* [[Pluto]]
+* [[Toby Tortoise]]
+* [[The Three Little Pigs (characters)|The Three Little Pigs]]
+* [[Big Bad Wolf]]
+* [[Happy]]
+* [[Grumpy]]
+* [[Sleepy]]
+* [[Dopey]]
+* [[Doc]]
+* [[Bashful]]
+* [[Sneezy]]
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+29702.jpg
+MickeyParadeLeader.jpg
+29705.jpg
+29706.jpg
+29707.jpg
+29708.jpg
+29709.jpg
+29710.jpg
+29711.jpg
+29712.jpg
+29713.jpg
+29714.jpg
+29715.jpg
+SP001-014electroliers.jpg
+SP001-013dopey.jpg
+SP001-012oldstyle.jpg
+SP001-011flatmickey.jpg
+SP001-009oddnumbering.jpg
+SP001-008rearsensation.jpg
+SP001-007mickeyadvanced.jpg
+SP001-006illuminated.jpg
+SP001-005queen.jpg
+SP001-004donalddrawings.jpg
+SP001-003march11.jpg
+SP001-002haters.jpg
+SP001-001smoker.jpg
+Mickey blowing a whistle.jpeg
+</gallery>
+===Videos===
+<gallery position="center" captionalign="center">
+The Standard Parade 1939
+</gallery>
+
+{{DEFAULTSORT:Standard Parade, The}}
+
+{{Mickey-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Minnie Mouse shorts]]
+[[Category:Donald Duck shorts]]
+[[Category:Goofy shorts]]
+[[Category:Pluto shorts]]
+[[Category:1939 shorts]]
+[[Category:Promotional shorts]]

@@ -1,0 +1,83 @@
+{{Marvel Database:Film Template
+| Image                   = The Punisher (1989 film) Poster 002.jpg
+| Title                   = The Punisher
+| Aliases                 = 
+
+| Directors               = Mark Goldblatt
+| Producers               = Robert Mark Kamen
+| ComicWriters            = [[Gerry Conway]]; [[Ross Andru]]; [[John Romita Sr.]]
+| StoryWriters            = Boaz Yakin
+| ScreenplayWriters       = Robert Mark Kamen; Boaz Yakin
+| Musicians               = Dennis Dreith
+| Cinematographers        = Ian Baker
+| Editors                 = Stephanie Flack; Tim Wellburn
+| ProductionCompanies     = New World Pictures
+| Distributors            = Carolco Pictures
+| Running Time            = 92 minutes
+| Rating                  = '''MPAA:''' Rated R
+| Budget                  = $9 million
+| Release Date            = October 5, 1989
+| US Release Date         = April 25, 1991
+
+| AM ID                   = the-punisher-v39669
+| IMDB ID                 = 0098141
+| Marvel Movies           = The Punisher (1989)
+
+| Tagline                 = Justice with a vengeance.
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[Frank Castle (Earth-58627)|Punisher (Frank Castle)]]}}
+'''Supporting Characters:'''
+* {{Only|[[Jake Berkowitz (Earth-58627)|Jake Berkowitz]]}}
+* {{Only|[[Samantha Leary (Earth-58627)|Sam Leary]]}}
+'''Antagonists:'''
+* {{Only Dies|[[Gianni Franco (Earth-58627)|Gianni Franco]]}}
+* {{Only Dies|[[Hideko Tanaka (Earth-58627)|Lady Tanaka]]}}
+* {{Only Dies|[[Dino Moretti (Earth-58627)|Dino Moretti]]}}
+* {{Only Dies|[[Lady Tanaka's Daughter (Earth-58627)|Tanaka]]}}
+* {{Only Dies|[[Sato (Earth-58627)|Sato]]}}
+* {{Only Dies|[[Tomio (Earth-58627)|Tomio]]}}
+'''Other Characters:'''
+* {{Only|[[Tommy Franco (Earth-58627)|Tommy Franco]]}}
+* {{Only|[[Shake (Earth-58627)|Shake]]}}
+* {{Only|[[Terrone (Earth-58627)|Terrone]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+'''Locations:'''
+* {{a|[[Earth-58627]]}}
+'''Items:'''
+* {{a|[[Punisher's Arsenal]]}}
+<!--'''Vehicles:'''
+* <br/>-->
+
+| Plot                    = {{Quote|Come on god, answer me. for years I'm asking why, why are the innocent dead and the guilty alive? Where is justice? Where is punishment? Or have you already answered, have you already said to the world here is justice, here is punishment, here, in me.|[[Frank Castle (Earth-58627)|Frank Castle]]}}
+
+| Cast                    = * [[wikipedia:Dolph Lundgren|Dolph Lundgren]] as [[Frank Castle (Earth-58627)|Punisher (Frank Castle)]]
+* [[wikipedia:Louis Gossett Jr.|Louis Gossett, Jr.]] as [[Jake Berkowitz (Earth-58627)|Jake Berkowitz]]
+* [[wikipedia:Jeroen Krabbé|Jeroen Krabbe]] as [[Gianni Franco (Earth-58627)|Gianni Franco]] 
+* [https://www.imdb.com/name/nm0263583/?ref_=nv_sr_1?ref_=nv_sr_1 Nancy Everhard] as [[Samantha Leary (Earth-58627)|Sam Leary]]
+* [https://www.imdb.com/name/nm0594540/?ref_=nv_sr_1?ref_=nv_sr_1 Kim Miyori] as [[Hideko Tanaka (Earth-58627)|Lady Tanaka]]
+* [[wikipedia:Bryan Marshall|Bryan Marshall]] as [[Dino Moretti (Earth-58627)|Dino Moretti]]
+* [[wikipedia:Barry Otto|Barry Otto]] as [[Shake (Earth-58627)|Shake]]
+* [https://www.imdb.com/name/nm0740304/?ref_=nv_sr_1?ref_=nv_sr_1 Brian Rooney] as [[Tommy Franco (Earth-58627)|Tommy Franco]]
+* [https://www.imdb.com/name/nm0594557/?ref_=nv_sr_1?ref_=nv_sr_1 Zoshka Mizak] as [[Hideko Tanaka's adoptive daughter (Earth-58627)|Tanaka's adoptive daughter]]
+* [https://www.imdb.com/name/nm0945390/?ref_=nv_sr_1?ref_=nv_sr_1 Kenji Yamaki] as [[Sato (Earth-58627)|Sato]]
+* [https://www.imdb.com/name/nm0437125/?ref_=nv_sr_1?ref_=nv_sr_1 Hirofumi Kanayama] as [[Tomio (Earth-58627)|Tomio]]
+* [https://www.imdb.com/name/nm0101668/?ref_=nv_sr_1?ref_=nv_sr_1 Todd Boyce] as [[Terrone (Earth-58627)|Terrone]]
+* [[Wikipedia:Lani Tupu|Lani John Tupu]] as [[Laccone (Earth-58627)|Laccone]]
+
+| Notes                   = {{YouTube|'''Punisher (1989 film) Trailer'''|[[File:The Punisher (1989) trailer|370px]]|380}} 
+* Additional taglines were:
+** If you're innocent, he's just the protection you want...and all the protection you need. But if you're guilty, he gives no warning...and shows no mercy.
+** If society won't punish the guilty, he will.
+** Judge. Jury. Executioner. All in a day's work.
+** The guilty will be punished
+* '''The Punisher''' was partially well received by fans and critics, scoring a 28% at Rotten Tomatoes,<ref>[https://www.rottentomatoes.com/m/1030887_punisher? The Punisher (1989 film) at Rotten Tomatoes]</ref> a reviewing movie site.
+*The ''Official Handbook of the Marvel Universe A to Z Hardcover Vol 4'' officially named the world the movie's events take place in as Earth-58627.
+*The film was adapted into a comic, {{cl|Punisher Movie Special Vol 1 1}}, in 1990.
+| Trivia                  = * Released as Direct-to-video in US and some non-US, and some outside US as theatrical release.
+* One of the biggest complaints of this movie was that Frank Castle did not wear his trademark skull shirt.{{Citation}} Rather, he used daggers with a tiny skull on the pommel.
+| Links                   = * [[Marvel Films#Direct-to-Video Films|Marvel Films]]
+}}
+[[ru:Каратель (фильм)]]

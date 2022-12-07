@@ -1,0 +1,91 @@
+{{Marvel Database:Film Template
+| Image                   = Marvel Rising Battle of the Bands Poster 001.jpg
+| Image2                  = 
+| Aliases                 = 
+| Universe                = Earth-TRN684
+
+| Directors               = Sol Choi; Alfred Gimeno
+| Producers               = 
+| ScreenplayWriters       = Margaret Dunlap
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = 
+| Running Time            = 21 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = August 28, 2019
+
+| Previous Film           = Marvel Rising: Heart of Iron
+| Next Film               = Marvel Rising: Operation Shuri
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{a|[[Gwendolyn Stacy (Earth-TRN684)|Ghost Spider (Gwen Stacy)]]}}
+'''Supporting Characters:'''
+* {{a|[[Secret Warriors (Earth-TRN684)|Secret Warriors]]}}
+** {{a|[[Riri Williams (Earth-TRN684)|Ironheart (Riri Williams)]]}}
+** {{a|[[Kamala Khan (Earth-TRN684)|Ms. Marvel (Kamala Khan)]]}}
+** {{a|[[Doreen Green (Earth-TRN684)|Squirrel Girl (Doreen Green)]]}}
+** {{a|[[Dante Pertuz (Earth-TRN684)|Inferno (Dante Pertuz)]]}}
+** {{a|[[Rayshaun Lucas (Earth-TRN684)|Patriot (Shaun Lucas)]]}}
+** {{a|[[America Chavez (Earth-TRN684)|Ms. America Chavez]]}}
+* {{a|[[Mary Janes (Earth-TRN684)|The Mary Janes]]}}
+** {{a|[[Mary Jane Watson (Earth-TRN684)|Em Jay Watson]]}}
+** {{a|[[Gloria Grant (Earth-TRN684)|Glory Grant]]}}
+** {{a|[[Elizabeth Brant (Earth-TRN684)|Betty Brant]]}}
+
+'''Antagonists:'''
+* {{1st|[[Melissa Gold (Earth-TRN684)|Screaming Mimi (Melissa Gold)]]}}
+
+'''Other Characters:'''
+* {{a|[[Tippy-Toe (Earth-TRN684)|Tippy-Toe]]}}
+* {{a|[[George Stacy (Earth-TRN684)|Captain George Stacy]]}}
+
+'''Races and Species:'''
+*  {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Squirrels]]}}
+
+'''Locations:'''
+*{{RecapOnly|[[Chicago (Illinois)|Chicago]]}}
+* {{a|[[Earth-TRN684]]}}
+
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = Gwen Stacy finds herself in a busy day, as the Ghost-Spider is highly requested just as The Mary Janes are about to compete in a battle of the bands.
+
+
+| Cast                    = * [[wikipedia:Dove Cameron|Dove Cameron]] as Ghost-Spider / Gwen Stacy
+
+* [[wikipedia:Sofia Wylie|Sofia Wylie]] as Ironheart / Riri Williams
+
+* [[wikipedia:Kathreen Khavari|Kathreen Khavari]] as Ms. Marvel / Kamala Khan
+
+* [[wikipedia:Tyler Posey|Tyler Posey]] as Inferno / Dante Pertuz
+
+* [[wikipedia:Milana Vayntrub|Milana Vayntrub]] as Squirrel Girl / Doreen Green
+
+* [[wikipedia:Cierra Ramirez|Cierra Ramirez]] as Ms. America Chavez
+
+* [[wikipedia:Kamil McFadden|Kamil McFadden]] as Patriot / Rayshaun Lucas
+
+* [[wikipedia:Dee Bradley Baker|Dee Bradley Baker]] as Tippy-Toe
+
+* [[wikipedia:Tara Strong|Tara Strong]] as Screaming Mimi / Melissa Gold, Mary Jane Watson
+
+* [[wikipedia:Skai Jackson|Skai Jackson]] as Glory Grant
+
+| Notes                   = 
+| Trivia                  =  Melissa Gold's band is "Screaming Mimi and the [[Thunderbolts]]", an allusion to the best-known team of her Earth-616 incarnation. In addition, the other bandmembers resemble [[Erik Josten (Earth-616)|Atlas]], [[Helen Takahama (Earth-616)|Jolt]] and [[Karla Sofen (Earth-616)|Moonstone]].
+| Links                   = * [[Marvel Films#Marvel Rising|Marvel Films]]
+
+==Videos==
+<gallery>
+file:Marvel Rising Battle of the Bands Starring Dove Cameron, Sofia Wylie and Skai Jackson
+</gallery>
+
+}}
+[[Category:Short Films]]

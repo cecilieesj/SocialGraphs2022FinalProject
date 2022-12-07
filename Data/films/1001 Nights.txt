@@ -1,0 +1,35 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|director = 
+|producer = 
+|writer = Arash Amel
+|starring = 
+|music = 
+|cinematography =
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = English
+|budget = 
+|imdb_id = 
+|website = }}
+'''''1001 Nights''''' is an upcoming American film written by Arash Amel, based on the collection of folk tales of the same name.
+
+==Production==
+On October 10, 2022, ''Deadline'' reported that a live-action ''1001 Nights'' film was in development with Arash Amel writing the screenplay, and would also serve as an executive producer.<ref>[https://deadline.com/2022/10/disney-fantasy-sci-fi-movie-arabian-nights-1001-rise-arash-amel-1235139732/ ‘One Thousand And One Nights’ Fantasy & Sci-Fi Reimagining In Works At Disney; ‘Rise’ Scribe Arash Amel To Pen Movie]</ref>
+
+==References==
+{{Reflist}}
+
+==External Links==
+*{{WP|1001 Night (upcoming film)|1001 Nights}}
+
+{{DISPLAYTITLE:''1001 Nights''}}
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Disney films]]
+[[Category:Films based on books]]

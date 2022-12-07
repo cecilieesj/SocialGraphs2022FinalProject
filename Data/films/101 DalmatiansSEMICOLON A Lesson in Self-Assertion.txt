@@ -1,0 +1,22 @@
+{{Infobox film
+| name           = 101 Dalmatians: A Lesson in Self-Assertion
+| image          = 101 self asserting.png
+| caption        = 
+| director       = 
+| producer       = 
+| music          = 
+| cinematography =  
+| studio         = Walt Disney Productions
+| distributor    = Walt Disney Educational Media Company
+| release        = September [[1981]]
+| time           = 8 minutes
+| language       = English}}'''''101 Dalmatians: A Lesson in Self-Assertion''''' is a [[1981]] Disney educational live-action/animated short, part of the ''Disney's Animated Classics: Lessons in Living'' series. The short features clips from ''[[One Hundred and One Dalmatians]]''.
+
+==Synopsis==
+The film teaches how to stand up to a bully through self-assertion.
+
+{{101 Dalmatians}}
+[[Category:1981 films]]
+[[Category:Educational films]]
+[[Category:101 Dalmatians]]
+[[Category:Disney Educational Productions]]

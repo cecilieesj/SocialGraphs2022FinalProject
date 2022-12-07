@@ -1,0 +1,39 @@
+{{Infobox character
+|image = Bruno von Stickle 1.gif
+|name = Bruno von Stickle
+|films = ''[[Herbie Goes to Monte Carlo]]''
+|actor = Eric Braeden
+|occupation = Racecar driver
+|home = Germany
+|likes = Winning and blocking driver's paths
+|dislikes = Losing
+|status = Active}}'''Bruno von Stickle''' is a character in ''[[Herbie Goes to Monte Carlo]]''.
+
+==Role in the film==
+Bruno is a dark-haired, mustached German driver with experience in the "European Racing Circuit". His car is a powerful Porsche 917 clone painted in the colors of the German national flag and bearing the number 17. He is deemed to be a formidable contender prior to and during the race.
+
+==Trivia==
+*In fact, as referred in the movie, the kit car is a Lazer 917 GT coupé with numerous components including the engine and chassis from the Beetle.
+*Bruno's last word "Schwein" after being beaten by [[Herbie]] is the German word for "Pig" or "Swine".
+
+==Gallery==
+<gallery widths="150" captionalign="center" spacing="small" position="center">
+Bruno von Stickle 2.jpg
+Bruno von Stickle 3.jpg|Bruno's Porsche 917
+Bruno von Stickle 4.jpg
+Stickle and Gilbert.jpg|Bruno with Claude Gilbert
+Bruno's defeat.png|Bruno's defeat
+Herbie-Goes-To-Monte-Carlo-23.png
+</gallery>
+{{CharacterStub}}
+{{The Love Bug}}
+[[Category:The Love Bug characters]]
+[[Category:German characters]]
+[[Category:Villains]]
+[[Category:Live-action villains]]
+[[Category:Disney characters]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Live-action characters]]
+[[Category:Neutral characters]]
+[[Category:Adults]]

@@ -1,0 +1,25 @@
+{{Infobox film
+|name = The Dreaming Man
+|director = Rebecca Wang
+|producer = JianJun Wang, Tong Du, Shengze Chai
+|starring = Chen Bolin<br>Lin Yun<br>Zhang Yunlong
+|studio = [[Walt Disney Pictures]]<br>SMG Pictures
+|image = E754f134-ce9d-4737-bcee-454bdcef9557.jpg
+|distributor = China Film Co. Ltd
+|release = [[December 8]], [[2017]]
+|language = Mandarin
+}}'''''The Dreaming Man''''' (Chinese: '''假如王子睡着了 ''Jiǎ rú wáng zǐ shuì zhe le''''', lit: "If the Prince falls asleep") is a Chinese romantic comedy film starring Chen Bolin, Lin Yun and Zhang Yunlong. This film is a loose remake of the [[1995]] [[Hollywood Pictures]] film ''[[While You Were Sleeping]]''.
+
+It is the first Chinese film produced by SMG Pictures and [[Walt Disney Pictures]] China.<ref>{{Cite news|url=http://chinafilminsider.com/disney-unveils-first-chinese-language-rom-com/|title=Disney Unveils Its First Chinese-Language Rom-Com|publisher=China News Sider|access-date=2017-06-23|language=en}}</ref> The film was released on [[December 8]], [[2017]].<ref name="IE 2">{{cite news|title=《假如王子睡着了》定档 陈柏霖林允演绎童话爱情|url=http://ent.sina.com.cn/m/c/2017-11-02/doc-ifynmzrs6012706.shtml?cre=tianyi&mod=pcentc&loc=11&r=97&doct=0&rfunc=26&tj=none&tr=97|accessdate=11-02-2017|work=Sina|date=11-02-2017}}</ref>
+
+== Reception ==
+This film received CN¥5.32 million in total.
+
+==References==
+{{Reflist|30em}}[[zh:假如王子睡着了]]
+{{DEFAULTSORT:Dreaming Man, The}}
+[[Category:2017 films]]
+[[Category:Live-action films]]
+[[Category:Disney films]]
+[[Category:Remakes]]
+[[Category:Buena Vista International films]]

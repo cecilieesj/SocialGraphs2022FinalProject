@@ -1,0 +1,31 @@
+{{Infobox film
+|name = Martha
+| series            = 
+| image             = File:1923-martha-1.jpg
+| image size        = 
+| alt               = 
+| caption           = 
+| director          = [[Walt Disney]]
+| producer          = 
+| story artist      = 
+| narrator          = 
+| voice actor       = 
+| musician          = 
+| animator          = 
+| layout artist     = 
+| background artist = 
+| studio            = [[Laugh-O-Gram Studio]]
+| distributor       = 
+| release      = 1923
+| color process     = Black and white
+| time           = 
+| country           = United States
+| language          = Silent film
+| preceded by       = 
+| followed by       = 
+}}
+'''''Martha''''' is a short film made by [[Walt Disney]] in [[1923]]. It was black and white, and also silent. It was made in the [[United States]].
+
+{{Wikipedia}}
+[[Category:Articles with Wikipedia content]]
+[[Category:Animated shorts]]

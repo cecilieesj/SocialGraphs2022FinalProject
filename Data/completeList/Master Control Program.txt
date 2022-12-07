@@ -1,0 +1,95 @@
+{{Infobox character
+|name = Master Control Program
+|image = Mcp.png
+|films = ''[[TRON]]''
+|games = ''[[Tron (video game)|Tron]]<br>[[Kingdom Hearts II]]''
+|voice = [[David Warner]] (movie)<br>[[Corey Burton]] (''Kingdom Hearts II'')
+|alias = MCP<br>Master C
+|occupation = Master control program
+|home = [[ENCOM]] Mainframe Computer System
+|likes = Power
+|dislikes = Users
+|powers = Control over the system<br>Cybernetic barrier<br>Program torture
+|status = Derezzed}}
+{{Quote|I'd like to go against you and see what you're made of.|MCP, before [[Kevin Flynn]] gets digitized}}
+
+The '''Master Control Program''' (usually abbreviated as '''MCP''') is the main antagonist of the [[1982]] [[The Walt Disney Company|Disney]] film, ''[[TRON|Tron]]''. It was a computer program created by [[Ed Dillinger]] that ruled inside [[ENCOM]]'s mainframe computer to overview the game system, but rebelled itself and decided to get rid of the humans (users, as it usually refers to them). During the rule of the MCP, many programs were enslaved and pitted against the program's henchmen, led by [[Commander Sark|Sark]].
+
+==Background==
+===Personality===
+MCP is highly intelligent and yet ruthless. It apparently wants to get rid of humans and especially users.
+
+===Physical appearance===
+MCP appears as two pointed red cylinders balanced on both points with a sphere between them. The top half has a humanoid face.
+
+==Appearances==
+===''[[Tron]]''===
+Originally created by ENCOM founder [[Walter Gibbs]], the MCP was at first only a chess program which was left embedded in the company's computer systems.
+
+Years later, Dillinger wrote the MCP to administer the company's computer network; however, the MCP had the capacity to learn and grew beyond the confines of its original programming. It began to steal data from other systems, and took control of several companies and institutions. Its intelligence - and ambition - grew nearly out of control, and the MCP grew to desire nothing less than world domination. In its own words, it said it could run things 900-1200 times better than any human. Dillinger once stated to it that he had made it too greedy, and was surprised that the MCP had made it into the Kremlin's computer system. Dillinger appeared to begin having reservations about letting the MCP get so powerful, which are realized when it threatens to expose his unsavory deeds to the Wall Street Journal if he tries to move against it. It then asks him (although in a tone that makes it sound more like an order) about a Chinese language program it had requested.
+
+Eventually, however, the MCP caused its own downfall. It digitized former ENCOM programmer Flynn, who had come dangerously close to uncovering Dillinger's schemes. Flynn, in the computer world, allied himself with [[Tron (character)|Tron]], a security program; their combined efforts resulted in the de-resolution of the MCP by throwing a [[Identity Disc|disc]] into the base of the MCP. The MCP then reverted back to its original chess program appearance (which, in the digital universe, appeared as an old man in a control chair) followed by this program vanishing as it was deleted.
+
+===''[[Tron: Legacy]]''===
+Ed Dillinger Jr. contacts a mysterious person called MCTRL_751 who ends the talk with the words 'End of Line', implying that the Master Control Program may have in fact survived its De-Resolution somehow (possibly a backup copy, though he addresses the contact as "Dad", implying it is in fact [[Ed Dillinger]] himself, possibly having digitized himself into [[The Grid]], becoming the successor of the MCP).
+
+==Video games==
+===[[Kingdom Hearts (series)|''Kingdom Hearts'' series]]===
+[[File:Master Control Program KHII.png|right|100px|Master Control Program, as he appears in ''Kingdom Hearts II'']]
+The Master Control Program appears in the ''Kingdom Hearts'' series as an antagonist in Hollow Bastion's computer system. This version, however, is actually an alternate version of the original MCP encountered in the film, and was created by [[Ansem the Wise]] when the latter copied ENCOM's computer system to store his research. Although stored away at first, the MCP was reactivated and managed to create an army of digital Heartless through the data it collected along with his number two Sark as the commander of the army, while the Tron of this system was locked away.
+
+In ''[[Kingdom Hearts II]]'', the MCP attempted to gain access to the [[Door to Darkness#Kingdom Hearts II|D.T.D.]] and take over the world. For a short while, the MCP did have access to it, and immediately activated the emergency self-destruct mechanism for the town. But with help from Sora and Co., Tron was able to keep it out, and created a new password. Eventually however, the MCP found another front to fight from, and managed to bring Heartless into [[Hollow Bastion]] by reactivating the Heartless manufacturer in Ansem's lab. After Tron was freed, the MCP was confronted by the group and even after transferring his power to Sark, the MCP is deleted by Cid's program, although this is accomplished by Tron sacrificing himself like in the original film. After it is shown that Tron survived, Tron afterwards takes over the MCP's role as the system of Hollow Bastion.
+
+In ''[[Kingdom Hearts 3D: Dream Drop Distance|Dream Drop Distance]]'', the Master Control Program was briefly mentioned by [[Xemnas]] to Sora while in ''[[The Grid]]'', on how Ansem the Wise, copied it to serve his own ends.
+
+==Gallery==
+<gallery position="center" captionalign="center" widths="150" spacing="small">
+Tron-disneyscreencaps.com-1137.jpg
+Tron-disneyscreencaps.com-3531.jpg|The MCP locking onto Flynn.
+Tron-disneyscreencaps.com-9793.jpg
+MCP.jpg
+Mcp2.jpg
+MCP_3D_Graphic.jpg
+MCP_and_Sark.jpg|Sark communicating with the MCP.
+Tron-disneyscreencaps.com-8502.jpg
+tron-mcp.jpg
+mcp.jpg
+tron-disneyscreencaps.com-10068.jpg
+tron-disneyscreencaps.com-10083.jpg|The MCP generates a shield to protect its center.
+TronVsMCP.png
+tron-disneyscreencaps.com-10280.jpg
+Mcp_blue.jpg|The MCP turning blue.
+Tron-disneyscreencaps.com-10283.jpg
+tron-disneyscreencaps.com-10304.jpg|The gap in the shield.
+tron-disneyscreencaps.com-10311.jpg|Tron throws his disc at the MCP's center.
+tron-disneyscreencaps.com-10312.jpg
+tron-disneyscreencaps.com-10330.jpg
+MCP_Original_Face.jpg|The original face of Master Control Program.
+Vinylmation_MCP.jpg|Vinylmation of MCP.
+MCP_Figure.jpg|Master Control Program figure.
+Master Control Program Kingdom Hearts.png
+MCP's death 2.jpg|MCP's death (''Kingdom Hearts II'').
+</gallery>
+
+{{TronWiki|MCP}}
+{{Tron}}
+{{Kingdom Hearts}}
+[[es:El Control Central de Programas]]
+[[Category:Villains]]
+[[Category:Machines]]
+[[Category:Kingdom Hearts characters]]
+[[Category:Disney characters]]
+[[Category:Tron characters]]
+[[Category:Monsters]]
+[[Category:Henchmen]]
+[[Category:Characters in video games]]
+[[Category:Deceased characters]]
+[[Category:Those destroyed]]
+[[Category:Main antagonists]]
+[[Category:Programs]]
+[[Category:Kingdom Hearts Bosses]]
+[[Category:Video game bosses]]
+[[Category:Bosses]]
+[[Category:Live-action characters]]
+[[Category:Live-action villains]]
+[[Category:Animated characters]]

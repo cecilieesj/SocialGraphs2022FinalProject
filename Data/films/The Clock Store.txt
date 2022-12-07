@@ -1,0 +1,46 @@
+{{Infobox film
+|image = Ss-clockstore.jpg
+|imagewidth = 250px
+|name = The Clock Store
+|director = [[Wilfred Jackson]]
+|producer = [[Walt Disney]]
+|writer = 
+|music = [[Frank Churchill]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[September 30]], [[1931]]
+|time = 8:48
+|preceded = ''[[Egyptian Melodies]]''
+|followed = ''[[The Spider and the Fly]]''
+}}
+'''''The Clock Store''''' is a black-and-white ''[[Silly Symphony]]'' that was released on [[September 30]], [[1931]]. The short is also known as '''''In a Clock Store'''''.
+
+==Synopsis==
+A lone lamplighter walks down the street lighting the streetlamps as he goes. He stops outside a clock store where, inside, the products perform their various alarms and dances. A fight breaks out between two alarm clocks and everyone watches to see who will win.
+
+==Releases==
+===Television===
+*''[[Donald's Quack Attack]]'', episode #79
+
+==='''DVD'''===
+*''[[Walt Disney Treasures: Wave Six|Walt Disney Treasures]]: More Silly Symphonies''
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150" captionalign="center">
+Tumblr lkx2qn4UIx1qhcrb0o1 1280.jpg
+14805.jpg
+14806.jpg
+14807.jpg
+Tumblr n23pjcvuEl1qhcrb0o1 1280.jpg
+14810.jpg
+14811.jpg
+14812.jpg
+Clock store 1931-1.jpg
+</gallery>
+
+{{Silly Symphony}}
+{{DEFAULTSORT:Clock Store, The}}
+[[Category:Animated shorts]]
+[[Category:Silly Symphonies]]
+[[Category:1931 shorts]]

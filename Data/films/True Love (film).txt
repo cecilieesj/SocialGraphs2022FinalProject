@@ -1,0 +1,41 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox_film
+|name = True Love
+|director = Gareth Edwards
+|writer = Gareth Edwards
+|producer = Gareth Edwards<br>Kiri Hart
+|starring = John David Washington<br>[[Gemma Chan]]<br>[[Allison Janney]]<br>Ken Watanabe<br>Sturgill Simpson<br>Marc Menchaca
+|studio = [[20th Century Studios]]<br>New Regency
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|music = 
+|language = English
+|editor = 
+|cinematography = Greg Fraiser<br>Oren Soffer
+|release = [[October 6]], [[2023]]}}
+'''''True Love''''' is an upcoming American science-fiction film written, directed and produced by Gareth Edwards. It is scheduled to be released on [[October 6]], [[2023]].
+
+==Cast==
+*John David Washington as TBA
+*[[Gemma Chan]] as TBA
+*[[Allison Janney]] as TBA
+*Ken Watanabe as TBA
+*Sturgill Simpson as TBA
+*Marc Menchaca as TBA
+
+==Production==
+On February 6, 2020, ''Variety'' reported that Gareth Edwards had been hired to direct the film at New Regency.<ref>[https://variety.com/2020/film/news/gareth-edwards-rogue-one-new-regency-1203495962/ ‘Rogue One’ Director Gareth Edwards Sets Sci-Fi Film at New Regency (EXCLUSIVE)]</ref>
+
+On May 5, 2021, ''Deadline'' reported that John David Washington had been cast in the lead role, with other cast members the following month.<ref>[https://deadline.com/2021/05/john-david-washington-gareth-edwards-true-love-new-regency-1234750641/ John David Washington To Star In Gareth Edwards Next Film ‘True Love’ At New Regency]</ref><ref>[https://deadline.com/2021/06/danny-mcbride-gemma-chan-benedict-wong-john-david-washington-gareth-edwards-new-regency-1234781073/ Danny McBride, Gemma Chan & Benedict Wong Eyed To Join John David Washington In Gareth Edwards’ Next Film At New Regency]</ref>
+
+On January 17, 2022, ''The Wrap'' reported that filming had officially began.<ref>[https://www.thewrap.com/gareth-edwards-greig-fraser-new-movie-tr Gareth Edwards to Reunite With ‘Rogue One’ Cinematographer Greig Fraser on New Film ‘True Love’]</ref>
+
+==References==
+{{Reflist}}
+
+
+{{DISPLAYTITLE:''True Love''}}
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:20th Century Studios films]]
+[[Category:2023 films]]

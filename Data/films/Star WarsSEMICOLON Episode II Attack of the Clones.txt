@@ -1,0 +1,1871 @@
+{{Top|real|can|title=''Star Wars'': Episode II ''Attack of the Clones''}}
+{{Otheruses|Star Wars: Episode II Attack of the Clones}}
+{{Multiple issues|redlink|citation}}
+{{Movie
+|image=[[File:Attack-Clones-Poster.jpg]]
+|movie name=''Star Wars'': Episode II<br />''Attack of the Clones''
+|director=[[George Lucas]]
+|producer=[[Rick McCallum]]
+|writer=*George Lucas {{C|story/screenplay}}
+*[[Jonathan Hales]] {{C|screenplay}}
+|starring=*[[Ewan McGregor]]
+*[[Natalie Portman]]
+*[[Hayden Christensen]]
+*[[Frank Oz]]
+*[[Ian McDiarmid]]
+*[[Pernilla August]]
+*[[Ahmed Best]]
+*[[Oliver Ford Davies]]
+*[[Temuera Morrison]]
+*[[Anthony Daniels]]
+*[[Silas Carson]]
+*[[Kenny Baker]]
+*[[Samuel L. Jackson]]
+*[[Christopher Lee]]
+|music=[[John Williams]]
+|release date=[[May 16]], [[2002]]<ref name="Season 2 Directors">{{SWYoutube|u0Z7i0LnXOg|Mandalorian Season 2 Directors, We Celebrate a Birthday, and More!|archivedate=20200515034925}}</ref>
+|runtime=142 min.
+|budget=$120,000,000
+|language=English
+|timeline=[[22 BBY]]<ref name="SWGA>''[[Star Wars: Galactic Atlas]]''</ref>
+|series=[[Prequel trilogy]], [[Star Wars saga|''Star Wars'' saga]]
+|preceded by=[[Star Wars: Episode I The Phantom Menace|Episode I ''The Phantom Menace'']]
+|followed by=[[Star Wars: Episode III Revenge of the Sith|Episode III ''Revenge of the Sith'']]}}
+{{Quote|The shroud of the dark side has fallen. Begun, the Clone War has.|Yoda|Star Wars: Episode II Attack of the Clones}}
+'''''Star Wars'': Episode II ''Attack of the Clones''''' is a [[2002]] film directed by [[George Lucas]] and written by Lucas and [[Jonathan Hales]]. It is the second part of the ''[[Star Wars]]'' [[prequel trilogy]].
+
+The film is set ten years after the [[Battle of Naboo]], when [[the galaxy]] is on the brink of civil war. Under the leadership of renegade [[Jedi Master]] [[Count]] [[Dooku]], thousands of systems threaten to secede from the [[Galactic Republic|Republic]]. When an assassination attempt is made on Senator [[Padmé Amidala]], the former [[Queen]] of [[Naboo]], Jedi apprentice [[Anakin Skywalker]] is assigned to protect her, while his mentor [[Obi-Wan Kenobi]] is assigned to investigate the assassination attempt. Soon the Jedi are drawn into the heart of the [[Confederacy of Independent Systems|Separatist]] [[Separatist Crisis|movement]], and the beginning of a new threat to the galaxy: the [[Clone Wars]].
+
+''Attack of the Clones'' was the first ''Star Wars'' film to use a high-definition [[Wikipedia:24p|digital 24-frame]] system for most of its live-action scenes. The film was a financial success, grossing over $600 million at the worldwide box office. However, for the first time, a ''Star Wars'' film did not earn the highest box-office sales for the year; ''Attack of the Clones'' ended up fourth behind ''[[Wikipedia:The Lord of the Rings: The Two Towers|The Lord of the Rings: The Two Towers]]'', ''[[Wikipedia:Harry Potter and the Chamber of Secrets (film)|Harry Potter and the Chamber of Secrets]]'', and ''[[Wikipedia:Spider-Man (2002 film)|Spider-Man]]''.
+
+==Opening crawl==
+{{Opening crawl
+|name=Episode II<br />ATTACK OF THE CLONES
+|text=There is unrest in the Galactic
+Senate. Several thousand solar
+systems have declared their
+intentions to leave the Republic.
+
+This separatist movement,
+under the leadership of the
+mysterious Count Dooku, has
+made it difficult for the limited
+number of Jedi Knights to maintain
+peace and order in the galaxy.
+
+Senator Amidala, the former
+Queen of Naboo, is returning
+to the Galactic Senate to vote
+on the critical issue of creating
+an ARMY OF THE REPUBLIC
+to assist the overwhelmed
+Jedi....}}
+
+==Plot summary==
+Ten years after the events of [[Star Wars: Episode I The Phantom Menace|''The Phantom Menace'']], the [[Galactic Republic]] is in crisis. A [[Confederacy of Independent Systems|Separatist movement]] led by former [[Jedi Master]] [[Count]] [[Dooku]], alias the [[Sith Lord]] [[Darth]] Tyranus, is threatening the peace, causing the [[Galactic Senate]] to debate a [[Military Creation Act]] to form a standing army for the Republic's protection. [[Senator]] [[Padmé Amidala]], former [[Queen]] of [[Naboo]], returns to [[Coruscant]] to vote against the Act, even though there are no longer enough Jedi to maintain peace and justice in [[the galaxy]].
+
+[[File:Attack_of_the_clones_1.jpg|thumb|left|250px|[[Anakin Skywalker]] and [[Obi-Wan Kenobi]] chase [[Zam Wesell]] through [[Coruscant]].]]
+Upon her arrival on Coruscant, she narrowly escapes an [[Plot to assassinate Senator Amidala|assassination attempt]] that claims the life of her decoy, [[Cordé]]. As a result, [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] requests that [[Jedi Knight]] [[Obi-Wan Kenobi]] and his apprentice, [[Anakin Skywalker]], protect her.
+
+That night, the assassin [[Zam Wesell]] makes another attempt on Amidala's life, though the Jedi are able to foil her plot. They pursue her through [[Imperial City|Galactic City]], eventually disarming her in the [[Outlander Club]]. Upon being questioned by Obi-Wan and Anakin outside the bar, she is killed by a [[Kamino saberdart|saberdart]], fired by [[Jango Fett|a mysterious man]], before the Jedi can learn the name of her employer. Returning to the [[Jedi Temple]], Obi-Wan is assigned by [[Jedi High Council|the council]] to track down the assassin's killer. Meanwhile, Anakin continues his task of protecting the Senator, and is asked to escort her back to her home planet of Naboo. Anakin welcomes the opportunity, as he often becomes angry and frustrated by Obi-Wan's criticism, and is glad to have an opportunity to be on his own. Further, he has become infatuated with Padmé, and relishes the chance to spend time with her. [[Junior Representative]] [[Jar Jar Binks]] assumes the Senator's duties in her absence.
+
+[[File:JangoVSKenobiAOTC.jpg|thumb|right|250px|Obi-Wan engages [[Jango Fett]] on [[Kamino]].]]
+During the investigation, Obi-Wan is led to a mysterious planet called [[Kamino]]&mdash;missing from the [[Jedi Archives]]&mdash;where he discovers a secret [[Grand Army of the Republic|clone army]] being developed for the Republic. He is told by [[Prime Minister]] [[Lama Su]] that the army was ordered almost ten [[Standard year|years]] ago by Jedi Master [[Sifo-Dyas]]&mdash;although Obi-Wan was "under the impression" that Sifo-Dyas was killed before that time. A [[bounty hunter]] named Jango Fett was hired as the template for the clones. Obi-Wan meets Jango on Kamino, and believes him to be the killer he has been tracking. He tries to capture Jango, which leads to a titanic one-on-one fight between them. Jango makes use of his blasters and missile equipment, managing to defeat Obi-Wan by sending him plummeting into the raging sea below. Thinking he is dead, Jango departs Kamino with his son [[Boba Fett|Boba]]. Unable to capture Jango, Obi-Wan places a [[homing beacon]] on his ship, ''[[Slave I]]'', and follows him to the planet of [[Geonosis]].
+
+[[File:Attack_of_the_clones_3.jpg|thumb|left|250px|Anakin and [[Padmé Amidala|Padmé]] spend time on [[Naboo]].]]
+Meanwhile, Anakin and Padmé have been spending much time together on Naboo, enjoying each other's company and playfully frolicking in the fields. Eventually, Anakin reveals his deep love for her, vowing to do whatever she requests. However, Padmé resists, explaining that it would be impossible for the two of them to be together, since she is a Senator and he is a Jedi. Anakin is angered by this, and experiences inner conflict between his strong desires for her and his duties as a Jedi.
+
+Anakin is also troubled by a newfound sense that [[Shmi Skywalker Lars|his mother]] is in grave danger, and he beckons for Padmé to accompany him to his home planet of [[Tatooine]]&mdash;in the process disobeying Obi-Wan's orders to remain on Naboo. Upon arriving, Anakin tracks down his former owner [[Watto]], from whom he learns that his mother has married a [[moisture farmer]] named [[Cliegg Lars]], and travels to the [[Lars Homestead|Lars moisture farm]]. There, Anakin and Padmé find [[C-3PO]], and the droid introduces Anakin to his step-brother [[Owen Lars|Owen]]. Cliegg tells Anakin the horrible truth, that his mother was kidnapped a month ago by a pack of [[Tusken Raider]]s. Anakin travels through the night, and finds her tied and beaten in a [[Tusken village|Tusken camp]]. Within moments, she dies in his arms. Enraged and heartbroken, he massacres the Tusken community: men, women and even children. On Coruscant, [[Yoda]] senses a terrible darkness in [[the Force]] as the slaughter continues ([[Qui-Gon Jinn]]'s voice shouts "Anakin, Anakin, no!" during this scene). Anakin then brings his mother's body back to the homestead, where her funeral is held.
+
+On Geonosis, Obi-Wan overhears a meeting between Count Dooku and the leaders of the commerce guilds, and learns that they are behind the separatist movement and have built up a [[Separatist Droid Army|new droid army]]. He also learns that it was [[Nute Gunray]] who ordered the assassination of Amidala, as revenge for the defeat of the [[Trade Federation]] at the [[Battle of Naboo]]. Obi-Wan transmits his findings to the Council, relayed by way of Anakin and Padmé's ship, though he is surrounded by [[droideka]]s and captured before he can finish his report.
+
+[[File:Battle_of_Geonosis.png|thumb|250px|The [[First Battle of Geonosis]]]]
+Now that the Jedi council knows of Dooku's army, Jedi Master [[Mace Windu]] leads [[Jedi assault team|a battalion]] of Jedi to Geonosis. Unbeknownst to them, Anakin and Padmé also make their way there to rescue Obi-Wan. Meanwhile, Representative Binks calls for Chancellor Palpatine to be given emergency powers, with which he can call the recently discovered clone army into battle.
+
+Back on Geonosis, Count Dooku tries to persuade Obi-Wan to join him, warning him that Darth Sidious is now in control of the Senate. Obi-Wan refuses to believe him, saying that the Jedi would have known if that was the case. Anakin and Padmé arrive on the planet, but are quickly captured by Jango Fett and sentenced to death, joining Obi-Wan in the [[Petranaki Arena|Geonosis arena]], where they are to be executed. Moments before heading outside, Padame and Anakin confess their love to each other. In the high stands, Count Dooku, Nute Gunray, [[Rune Haako]], [[Poggle the Lesser]], Jango Fett and Boba Fett watch the start of the planned execution. The trio are forced to battle a [[reek]], a [[nexu]] and an [[acklay]] while in chains. During their struggle, Mace Windu arrives with his Jedi [[Geonosis strike team|strike team]], and they [[First Battle of Geonosis|battle]] Dooku's droid army in the arena. Upon seeing so many Jedi in one place, Jango Fett jetpacks down to the arena floor, and engages Windu. After a short struggle, Windu [[Death|kills]] Jango due to his jetpack malfunctioning. While the Jedi put up a fight, they are eventually overwhelmed by the Droid Army's numerical advantage, and appear to be heading into defeat. Yoda unexpectedly arrives with the Republic's new clone army, but only a handful of Jedi had survived. Those killed include [[Sta-Den Eekin]],<ref>[[Star Wars: Complete Locations (2016)|''Star Wars: Complete Locations'']]</ref> [[Sephjet Josall/Legends|Sephjet Josall]], [[Sar Labooda]], [[Khaat Qiyn]], [[Que-Mars Redath-Gom]], [[Fi-Ek Sirch]], [[Nicanas Tassu]], [[Coleman Trebor]], and about 160 other Jedi.[[File:Dooku_vs_yoda.jpg|thumb|left|[[Dooku]] and [[Yoda]] battle each other.]]
+An even larger battle erupts outside the arena between the Republic's clone army and the Droid Army of the Confederacy of Independent Systems. Nute Gunray and Rune Haako subsequently retreat in Gunray's ship. The Clone Army gains the upper hand, which eventually leads to the Droid Army retreating. Poggle the Lesser entrusts Count Dooku with the early plans for the [[DS-1 Death Star Mobile Battle Station|Death Star]]. Dooku attempts to escape, but Obi-Wan and Anakin track him to a secret hangar, where they engage him in combat. Unfortunately, they are no match for Dooku's now-revealed mastery of the [[Dark side of the Force|dark side]] and the [[lightsaber combat]] [[Form II|style]] that he employs. He fires [[Force lightning]] at Anakin, injures Obi-Wan and cuts off Anakin's right arm. Yoda appears just as Dooku is about to escape, and the two masters of the Force go head-to-head in a fierce duel. Dooku, realizing he can't defeat Yoda, attempts to topple a large pillar on Obi-Wan and Anakin as a distraction. While Yoda uses the Force to divert the pillar, Dooku flees in his [[solar sailer]]. Flying to an [[The Works|industrial sector]] of Coruscant, he meets up with his master, Darth Sidious, who is pleased that the [[Clone Wars|war]] has begun as planned.
+
+In the Jedi Temple, Obi-Wan, Mace and Yoda ponder Dooku's warning that Darth Sidious is controlling the Senate. Yoda is hesitant to believe this, stating that the dark side is capable of creating fear and mistrust. He and Windu agree that they should nevertheless closely monitor the Senate. Meanwhile, Chancellor Palpatine and a number of senators, including [[Bail Prestor Organa|Bail Organa]], oversee the launching of massive clone trooper forces.
+
+Back at Naboo, Anakin, with a new [[Cybernetics|mechanical arm]], and Padmé hold a [[Wedding of Anakin Skywalker and Padmé Amidala|secret wedding]], with C-3PO and [[R2-D2]] as the only witnesses.
+
+==Development==
+Principal photography lasted from [[June 26]] to [[September 20]], [[2000]].{{Fact}} Filming primarily occurred at [[Fox Studios, Sydney]], with additional location shooting in [[Tunisia]] desert. During the Tunisia shoot, the final scene intended for {{Film|III}} was shot to avoid returning to the country for a single scene. Other filming locations included the [[Plaza de España]] Seville in Spain, and in Italy at the Villa del Balbianello on [[Lake Como]] and the [[Caserta Palace]]. Pick-up shots took place in [[Ealing Studios]].
+
+In December [[2001]], it was rumored that members of [[Wikipedia:*NSYNC|*NSYNC]] were filmed as extras in ''Attack of the Clones''.<ref name="TFN1">{{Cite_web|url=http://www.theforce.net/latestnews/story/More_Bizarre_Episode_II_Rumors_69715.asp|title=More Bizarre Episode II Rumors|date=2001-12-17|publisher=TheForce.Net|archivedate=20170202164844}}</ref> In the following days, the story gained momentum, and it was reported that three band members&mdash;[[Wikipedia:Joey Fatone|Joey Fatone]], [[Wikipedia:JC Chasez|JC Chasez]], and [[Wikipedia:Chris Kirkpatrick|Chris Kirkpatrick]]<ref name="EW1">{{Cite_web|url=http://ew.com/article/2002/06/03/behind-n-sync-cameos-episode-ii|title=Behind the 'N Sync cameos in "Episode II"|author=Fonseca, Nicholas|date=2002-06-03|publisher=Entertainment Weekly|archivedate=20170625163749}}</ref>&mdash;were given parts as Jedi and Naboo citizens<ref name="IGN">{{Cite_web|url=http://www.ign.com/articles/2002/01/05/move-over-cantina-band-here-come-nsync|title=Move Over, Cantina Band: Here Come N'Sync|author=Davidson, Paul|date=2002-01-05|publisher=IGN|archivedate=20160405144723}}</ref> by producer [[Rick McCallum]].<ref name="Mtv">{{Cite_web|url=http://www.mtv.com/news/1451630/star-wars-goes-pop-nsync-film-cameos-for-episode-ii|title='Star Wars' Goes Pop: 'NSYNC Film Cameos For 'Episode II'|author=Dangelo, Joe|date=2002-01-02|publisher=MTV|archivedate=20200207212946}}</ref> [[Lucasfilm]] later confirmed the news but denied the rumor that it was done by [[George Lucas]] as a favor to his daughters [[Katie Lucas|Katie]] and [[Amanda Lucas|Amanda]], who were fans of the band. Also, [[Wikipedia:Justin Timberlake|Justin Timberlake]] acknowledged that he and [[Wikipedia:Lance Bass|Lance Bass]] were not involved, but that Joey Fatone's brother Steve was.<ref name="EW1" /> Many ''Star Wars'' fans reacted negatively to the news, seeing this incident as further evidence of Star Wars "selling out," similar to some Star Wars fans' reactions to Jar Jar Binks or the [[Ewok]]s.<ref name="IGN2">{{Cite_web|url=http://www.ign.com/articles/2002/01/11/nsync-not-nstar-wars-after-all|title=N'Sync Not N'Star Wars After All|author=Davidson, Paul|date=2002-01-11|publisher=IGN|archivedate=20180930234602}}</ref> On January 12, 2002, a ''[[Saturday Night Live]]'' sketch showed a satirical "first look" at ''Attack of the Clones'', wherein the movie ground to a halt to allow *NSYNC to perform an impromptu musical number entitled "I'm a Jedi Knight in these Jedi Days."<ref name="SNL">{{Cite_web|url=http://snl.jt.org/detail.php?i=200201129|title=Episode: 01.12.02 (9 of 13)|publisher=SNL Archives|archivedate=20070622050018}}</ref> Joey Fatone later announced that the singers' parts had been cut from the film because of the negative fan reaction. However, Lucasfilm's [[Lynne Hale]] denied this, saying that it was up to Lucas, and that "the final edit of the film is what he determines it will be."<ref name="E">{{Cite_web|url=http://www.eonline.com/news/article/index.jsp?uuid=2f676e77-703c-4e86-bf06-cf5c0104f0a1|title='N Sync Cut from "Clones"?|author=Armstrong, Mark|date=2002-01-10|publisher=E! Entertainment|archivedate=20080503072749}}</ref>
+
+==Release==
+In the lead-up to release, Lucasfilm released another series of web documentaries, and experimented with other promotional tools, including [[Episode II Select]], [[Ahmed Best]]'s on-set videos,<ref>{{SWArchive|url=episode-ii/video/archive_onlocation.html|text=on location Video Archive|archivedate=20010413223435}}</ref> ''[[Star Wars: Connections]]'' and ''[[R2-D2: Beneath the Dome]]''.{{Fact}} On [[May 11]], 2002, [[Wikipedia:TV Guide|TV Guide]] released [[Gallery of TV Guide covers|three different covers]] to promote the film.<ref name="Season 2 Directors" />
+
+===Merchandising===
+The film's [[Star Wars Episode II: Attack of the Clones (soundtrack)|soundtrack]] was released by Sony on April 23, 2002.
+
+A [[Star Wars: Episode II Attack of the Clones (novelization)|book version]] of the movie was written by [[R. A. Salvatore]]. It includes scenes created by Salvatore and unique to the novel. The book's prologue describes Anakin, while flying to [[Ansion]] with Obi-Wan, having a nightmare of his mother turning into glass and shattering. The following pages relate the events leading up to Shmi Skywalker's capture by Tusken Raiders and Cliegg Lars's loss of his leg while attempting to rescue her. These scenes give a more detailed insight into Shmi's life on the moisture farm and her relationships with Cliegg, Owen, Beru, and C-3PO than can be provided in the film. Interspersed with these events are scenes of Senator Amidala on Naboo prior to her departure for Coruscant to vote on the [[Military Creation Act]]. She discusses with her sister the question of retiring from politics to start a family and receives reports about the unrest (briefly mentioned in the film) among spice miners on Naboo's moons. The book also delves more deeply than the film into the father-son relationship of Jango and Boba Fett, making Jango's death more emotionally meaningful. (However, it also has several inaccuracies concerning Jango. For example, the author referred to his armor as gray, when it is actually white with blue accents.) The first of [[Boba Fett (books)|the ''Boba Fett'' series of young adult novels]] draws upon this material.
+
+===Home video===
+[[File:Episodeiidvd.jpg|thumb|200px|''Attack of the Clones'' on [[Star Wars home video releases|DVD]]]]
+''Star Wars Episode II: Attack of the Clones'' was [[Star Wars home video releases|released on VHS and DVD]] on November 12, 2002. The VHS included six deleted scenes and a segment of ''Star Wars: Connections''. This would be the final VHS release of any kind for ''Star Wars'' in the United States. As such, there is no way to acquire a full VHS set for the prequel trilogy since there would not be one for ''Revenge of the Sith''. However, it did receive a VHS release in the UK and in Australia. The DVD contains [[List of changes in Star Wars re-releases#2002 Star Wars Episode II: Attack of the Clones DVD|certain elements edited or added]] by George Lucas that make the DVD a slightly different version from its theatrical release.
+
+*Disc 1
+**DVD Menu themes based on planets from the movie: Coruscant, Kamino and Geonosis
+**Available subtitles: English
+**Available Audio Tracks: English (Dolby Digital 5.1 EX), Spanish (Dolby Digital 2.0 Surround), French (Dolby Digital 2.0 Surround)
+**Commentary by writer-director George Lucas, producer Rick McCallum, animation director Rob Coleman, and ILM visual effects supervisors John Knoll, Roger Guyett, and sound designer Ben Burtt
+**DVD Credits with Blooper reels
+
+*Disc 2
+**Main DVD Menu's theme is based on the Jedi Library
+**Eight exclusive [[Scenes cut from Star Wars|deleted scenes]] with introductions of George Lucas, Rick McCallum and Ben Burtt
+**"From Puppets to Pixels: Digital Characters in Episode II": all-new full-length documentary about the creation of digital characters in Episode II
+**"State of the Art: The Previsualization of Episode II": witness the vital role of the animatics team
+**"Films Are Not Released: They Escape" sound documentary
+**Three featurettes examining the story line, action scenes, and love story through behind-the-scenes footage and interviews with the cast and filmmakers
+**12-part Web documentary
+**"Across the Stars" music video: an original composition by John Williams crafted exclusively for this DVD
+**Exclusive production photos
+**One-sheet posters
+**International outdoor campaign
+**Trailers and TV spots
+**"[[R2-D2: Beneath the Dome]]" mockumentary trailer
+**ILM visual effects breakdown montage
+**Exclusive DVD-ROM content
+**Production photo gallery
+**DVD-ROM content includes a free trial of Hyperspace
+
+The film was released on [[Wikipedia:Blu-ray|Blu-ray]] in [[September]] [[2011]].<ref>{{SWArchive|url=movies/saga/bluraymay4/index.html|text=Bring the Complete Collection Home: Star Wars: The Complete Saga on Blu-Ray|archivedate=20110507103835}}</ref>
+
+On [[April 7]], [[2015]], the Walt Disney Studios, 20th Century Fox, and Lucasfilm jointly announced the digital releases of the six released ''Star Wars'' films. As Lucasfilm had retained digital distribution rights to Episodes I through III and V through VI, Walt Disney Studios Home Entertainment released ''Attack of the Clones'' for digital download on [[April 10]], 2015.<ref>{{SW|url=news/the-star-wars-digital-movie-collection-coming-april-10|text=The ''Star Wars'' Digital Movie Collection Coming April 10}}</ref>
+
+Despite the [[The Walt Disney Company|Walt Disney Company's]] [[2012]] purchase of Lucasfilm Ltd. and the release rights to all future ''Star Wars'' films, Fox was to retain original distribution rights to [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], which they co-produced and co-financed, in perpetuity in all media worldwide. Fox was also to retain theatrical, nontheatrical, and home video rights worldwide for the franchise's five subsequent films, which Lucasfilm produced and financed independently, through [[May]] [[2020]], at which time ownership was to transfer to Disney. This complex relationship between Fox and Disney, particularly in regards to Fox's perpetual rights to Episode IV, was to create an obstacle for any future boxed set comprising all nine films.<ref name="Hollywood Reporter">{{Cite_web|url=https://www.hollywoodreporter.com/news/tangled-rights-could-tie-up-384541|title=Tangled Rights Could Tie Up Ultimate 'Star Wars' Box Set (Analysis)|author=Masters, Kim|date=2012-10-30|work=The Hollywood Reporter|archivedate=20200215125918}}</ref> On [[December 14]], [[2017]], The Walt Disney Company announced that it was acquiring most of Fox's parent company, [[Wikipedia:21st Century Fox|21st Century Fox]], including the film studio and all distribution rights to ''A New Hope''.<ref name="Acquire">{{DisneyCompany|url=walt-disney-company-acquire-twenty-first-century-fox-inc-spinoff-certain-businesses-52-4-billion-stock-2|text=The Walt Disney Company To Acquire Twenty-First Century Fox, Inc., After Spinoff Of Certain Businesses, For $52.4 Billion In Stock|archivedate=20200617112439}}</ref> On [[March 20]], [[2019]], the [[Wikipedia:Acquisition of 21st Century Fox by Disney|deal]] was officially completed.<ref>{{Cite_web|url=https://www.hollywoodreporter.com/news/disney-closes-fox-deal-creating-global-content-powerhouse-1174498|title=Disney Closes $71.3 Billion Fox Deal, Creating Global Content Powerhouse|author=Georg Szalai, Paul Bond|date=2019-03-19|work=[[Wikipedia:The Hollywood Reporter|The Hollywood Reporter]]|archivedate=20200611175708}}</ref> On [[April 12]], 2019, a Blu-ray box set containing the nine main installments of the ''[[Star Wars]]'' [[Star Wars saga|saga]] remastered in 4K was reportedly announced to be in development for a [[2020]] release.<ref>{{Cite_web|url=https://www.thedigitalfix.com/film/content/105409/exclusive-skywalker-saga-4k|title=Exclusive: Disney are working on a 4K Blu-ray box set for Star Wars: The Skywalker Saga (updated)|date=2019-04-12|work=[https://www.thedigitalfix.com/film The Digital Fix: Film]|archivedate=20190506104719}}</ref>
+
+==Reception==
+The film grossed $310,676,740 in the United States and $338,721,588 overseas, a huge financial success which nevertheless was overshadowed by the even greater box-office success of ''The Phantom Menace''. Also, it was not the top-grossing film of the year, the first time a ''Star Wars'' film has not had that distinction. The films that out-earned it were [[Wikipedia:Spider-Man (2002 film)|''Spider-Man'']], [[Wikipedia:Harry Potter and the Chamber of Secrets (film)|''Harry Potter and the Chamber of Secrets'']], and [[Wikipedia:The Lord of the Rings: The Two Towers|''The Lord of the Rings: The Two Towers'']], all of which enjoyed a more favorable critical reception as well.
+
+Initial reviews of the film were mixed, with general admiration for the action sequences and [[Wikipedia:Special effect|special effects]], and criticism of the more traditional cinematic elements such as character development and dialogue, particularly with respect to the relationship between Padmé and Anakin. The marketing of the film reacted to this by downplaying the subplot by the time of the DVD release and emphasizing Yoda's popular fight scene. The dialogue was noted to be "leaden" and "flat" by critics. The acting was also disparaged by some critics for these same characteristics.
+
+==Credits==
+{{Credits
+|cast=
+*'''[[Ewan McGregor]]''' as '''[[Obi-Wan Kenobi]]'''
+*'''[[Natalie Portman]]''' as '''[[Padmé Amidala|Padmé]]'''
+*'''[[Hayden Christensen]]''' as '''[[Anakin Skywalker]]'''
+*'''[[Christopher Lee]]''' as '''Count [[Dooku]]'''
+*'''[[Samuel L. Jackson]]''' as '''[[Mace Windu]]'''
+*'''[[Frank Oz]]''' as the voice of '''[[Yoda]]'''
+*'''[[Ian McDiarmid]]''' as '''[[Darth Sidious|Supreme Chancellor Palpatine]]'''
+*'''[[Pernilla August]]''' as '''[[Shmi Skywalker Lars|Shmi Skywalker]]'''
+*'''[[Temuera Morrison]]''' as '''[[Jango Fett]]'''
+*'''[[Jimmy Smits]]''' as '''[[Bail Prestor Organa|Senator Bail Organa]]'''
+*'''[[Jack Thompson]]''' as '''[[Cliegg Lars]]'''
+*'''[[Leeanna Walsman]]''' as '''[[Zam Wesell]]'''
+*'''[[Ahmed Best]]''' as '''[[Jar Jar Binks]]''' and '''[[Achk Med-Beq]]'''
+*'''[[Rose Byrne]]''' as '''[[Dormé]]'''
+*'''[[Oliver Ford Davies]]''' as '''[[Sio Bibble]]'''
+*'''[[Ronald Falk]]''' as the voice of '''[[Dexter Jettster]]'''
+*'''[[Jay Laga'aia]]''' as '''[[Gregar Typho|Captain Typho]]'''
+*'''[[Andrew Secombe]]''' as the voice of '''[[Watto]]'''
+*'''[[Anthony Daniels]]''' as '''[[C-3PO]]'''
+*'''[[Silas Carson]]''' as '''[[Ki-Adi-Mundi]]''' and '''[[Nute Gunray]]'''
+*'''[[Ayesha Dharker]]''' as '''[[Jamillia|Queen Jamillia]]'''
+*'''[[Daniel Logan]]''' as '''[[Boba Fett]]'''
+*'''[[Joel Edgerton]]''' as '''[[Owen Lars]]'''
+*'''[[Bonnie Maree Piesse]]''' as '''[[Beru Whitesun Lars|Beru]]'''
+*'''[[Anthony Phelan]]''' as the voice of '''[[Lama Su]]'''
+*'''[[Rena Owen]]''' as the voice of '''[[Taun We]]'''
+*'''[[Alethea McGrath]]''' as '''[[Jocasta Nu|Madame Jocasta Nu]]'''
+*'''[[Susie Porter]]''' as '''[[Hermione Bagwa]]'''
+*'''[[Matt Doran]]''' as '''[[Elan Sel'Sabagno|Elan Sleazebaggano]]'''
+*'''[[Alan Ruscoe]]''' as '''[[Lott Dod]]''' and '''[[Plo Koon]]''' {{C|archive footage}}
+*'''[[Matt Sloan]]''' as '''[[Plo Koon]]'''
+*'''[[Veronica Segura]]''' as '''[[Cordé]]'''
+*'''[[David Bowers]]''' as '''[[Mas Amedda]]'''
+*'''[[Steve John Shepherd]]''' as '''[[Theomet Danlé|Naboo Lieutenant]]'''
+*'''[[Bodie Taylor]]''' as '''[[Clone Trooper]]'''
+*'''[[Matthew Rowan]]''' as '''[[Orn Free Taa|Senator Orn Free Taa]]'''
+*'''[[Steven Boyle]]''' as '''[[Ask Aak|Senator Ask Aak]]''' and '''[[Passel Argente]]'''
+*'''[[Zachariah Jensen]]''' as '''[[Kit Fisto]]'''
+*'''[[Alex Knoll]]''' as '''[[J. K. Burtola|J.K.Burtola]]'''
+*'''[[Phoebe Yiamkiati]]''' as '''[[Mari Amithest]]'''
+*'''[[Kenny Baker]]''' as '''[[R2-D2]]'''
+*'''[[Jerome Blake]]''' as '''[[Oppo Rancisis]]''', '''[[Mas Amedda]]''' (ADR work)
+*'''[[Hassani Shapi]]''' as '''[[Eeth Koth]]'''
+*'''[[Gin Clarke]]''' as '''[[Adi Gallia]]'''
+*'''[[Khan Bonfils]]''' as '''[[Saesee Tiin]]'''
+*'''[[Michaela Cottrell]]''' as '''[[Even Piell]]'''
+*'''[[Dipika O'Neill Joti]]''' as '''[[Depa Billaba]]'''
+|crew=
+*Directed By &mdash; [[George Lucas]]
+*Screenplay By &mdash; George Lucas
+*Executive Producer &mdash; George Lucas
+*Executive of Photography &mdash; [[David Tattersall]], B.S.C.
+*Production Designer &mdash; [[Gavin Bocquet]]
+*Editor and Sound Designer &mdash; [[Ben Burtt]]
+*Costume Designer &mdash; [[Trisha Biggar]]
+*Casting by &mdash; [[Robin Curland]]
+*Music by &mdash; [[John Williams]]
+*Visual Effects Supervisors &mdash; [[John Knoll]], [[Pablo Helman]], [[Ben Snow]], [[Dennis Muren]], A.S.C.
+*Animation Director &mdash; [[Rob Coleman]]
+*Concept Design Supervisors &mdash; [[Doug Chiang]], [[Erik Tiemens]], [[Ryan Church]]
+*Production Supervisoer &mdash; [[Stephen Jones]]
+*First Assistant Director &mdash; [[James McTeigue]]
+*Second Assistant Director &mdash; [[Claire Richardson]]
+*Second Second Assistant Director &mdash; [[Paul Sullivan]]
+*High Definition Supervisor &mdash; [[Fred Meyers]]
+*Supervising Art Director &mdash; [[Peter Russell]]
+*Art Directors &mdash; [[Jonathan Lee]], [[Ian Gracie]], [[Phil Harvey]], [[Michelle McGahey]], [[Fred Hole]]
+*Assistant Art Directors &mdash; [[Jacinta Leong]], [[Clive Memmott]]
+*Art Department Coordinator &mdash; [[Colette Birrell]]
+*Draftspeople &mdash; [[Andrew Powell]], [[Edward Cotton]], [[Peter Milton]], [[Damien Drew]]
+*Junior Draftspeople &mdash; [[Mark Bartholomew]], [[Andrew Chan]], [[Cindi Knapton]], [[Paul Ocolisan]]
+*Set Model Makers &mdash; [[Ben Collins]], [[Kerryanne Jensen]], [[Michael Kelm]]
+*Conceptual Researcher &mdash; [[David Craig]]
+*Graphics/3d Modeler &mdash; [[Pheng Sisopha]]
+*Art Department Runners &mdash; [[Roderick England]], [[Chris Penn]]
+*Art Department Supervisor &mdash; [[Fay David]]
+*Concept Artists &mdash; [[Iain McCaig]], [[Dermot Power]], [[Jay Shuster]], [[Ed Natividad]], [[Marc Gabbana]], [[Kurt Kaufman]], [[Phil Shearer]], [[Ravi Bansal]]
+*Storyboard Artists &mdash; [[Mark Sexton]], [[Rodolfo Damaggio]]
+*Sculptor &mdash; [[Tony Lees]]
+*Concept Sculptors &mdash; [[Robert E. Barnes]], [[Michael Murnane]], [[Tony McVey]]
+*Concept Model Makers &mdash; [[John Goodson]], [[John Duncan]], [[Carol Bauman]], [[R. Kim Smith]]
+*Art Department Assistants &mdash; [[Bethwyn Garswood]], [[Ryan Mendoza]], [[Roel Robles]], [[Matthew Saxon]], [[Michael Smale]]
+*Pre-Visualization/Effects Supervisors &mdash; [[Daniel D. Gregoire]], [[David Dozoretz]]
+*Pre-Visualization/Effects Artists &mdash; [[Euisung Lee]], [[Robert Kinkead]], [[Raymond Wong]], [[Brian Christian]], [[Gary Lee]], [[Bradley Alexander]], [[Paul Topolos]], [[Simon Dunsdon]], [[Brian Pohl]], [[Katie Cole]]
+*Stunt Coordinator/Swordmaster &mdash; [[Nick Gillard]]
+*Assistant Stunt Coordinator &mdash; [[Richard Boué]]
+*Obi-Wan Stunt Double &mdash; [[Nash Edgerton]]
+*Jango Stunt Double &mdash; [[Scott Mclean]]
+*Dooku Stunt Double &mdash; [[Kyle Rowling]]
+*Padmé Stunt Doubles &mdash; [[Gill Stratham]], [[Carly Harrop]]
+*Stunt Performers &mdash; [[Daniel Stevens]], [[Avril Wynne]], [[Chris Mitchell]], [[Jon Heaney]], [[Ray Anthony]], [[Dean Gould]], [[Dar Davies]], [[Robert Simper]], [[Joss Gower]]
+*Production Manager (Tunisia) &mdash; [[Peter Heslop]]
+*Script Supervisor &mdash; [[Jayne-Ann Tenggren]]
+*Unit Manager &mdash; [[Tic Carroll]]
+*Production Coordinators &mdash; [[Paul Ranford]], [[Isobel Thomas]], [[Anna Hall]]
+*Assistant Production Coordinators &mdash; [[Jacqueline King]], [[Polly Leach]]
+*Executive Assistants to George Lucas &mdash; [[Jane Bay]], [[Sarita Patel]]
+*Assistant to George Lucas &mdash; [[Anne Merrifield]]
+*Australian Assistant to Rick McCallum &mdash; [[Jacqui Louez]]
+*US Assistants to Rick McCallum &mdash; [[ArdeesRabang Jundis]], [[Alvin Lopez]]
+*IT Manager &mdash; [[Paul Matwiy]]
+*Network Manager &mdash; [[Peter Hricak]]
+*Unit Nurse &mdash; [[Jacquie Robertson]]
+*Extras Casting &mdash; [[Maura Fay]], [[Ros Breden]]
+*Casting Assistant &mdash; [[Vanessa Sulman]]
+*Artists' Assistants &mdash; [[Jill Goldberg]], [[Leonard Thomas]], [[Chloe Moss]], [[Alice Lanagan]]
+*Third Assistant Director &mdash; [[Gordon Westman]]
+*Set PA &mdash; [[Sam Smith]]
+*Special Visual Effects Produced At [[Industrial Light & Magic]], Marin County, California
+*Costume standby &mdash; [[Jamella Hassan]]
+*[[Javva the Hutt]] &mdash; [[Michael Smith]]
+|uncredited=
+*'''[[David Healey]]''' as '''[[Rune Haako]]'''
+*'''[[Tux Akindoyeni]]''' as '''[[Agen Kolar]]'''
+*'''[[Amy Allen]]''' as '''[[Aayla Secura]]'''
+*'''[[Marton Csokas]]''' as the voice of '''[[Poggle the Lesser]]'''
+*'''[[Mimi Daraphet]]''' as '''[[Bultar Swan]]'''
+*'''[[Nicole Fantl]]''' as '''[[Lexi Dio]]'''
+*'''[[Sandi Finlay]]''' as '''[[Sly Moore]]'''
+*'''[[Stephen George]]''' as '''[[Ronet Coorr]]'''
+*'''[[Hilton Howson]]''' as '''[[Toonbuck Toora/Legends|Toonbuck Toora]]'''
+*'''[[Nalini Krishan]]''' as '''[[Barriss Offee]]'''
+*'''[[Natalie Lewis]]''' as '''[[Teckla Minnau]]'''
+*'''[[Amanda Lucas]]''' as '''[[Adnama]]'''
+*'''[[Jett Lucas]]''' as '''[[Zett Jukassa]]'''
+*'''[[Katie Lucas]]''' as '''[[Lunae Minx]]'''
+*'''[[Lily Nyamwasa]]''' as '''[[Stass Allie]]'''
+*'''[[Mary Oyaya]]''' as '''[[Luminara Unduli]]'''
+*'''[[Susie Porter]]''' as the voice of '''[[FLO]]'''
+*'''[[Kyle Rowling]]''' as '''[[Joclad Danva]]'''
+*'''[[Zeynep Selcuk]]''' as '''[[Zey Nep]]'''
+*'''[[Orli Shoshan]]''' as '''[[Shaak Ti]]'''
+*'''[[Christopher Truswell]]''' as the voice of '''[[Wat Tambor]]''', '''[[Shu Mai]]''', '''[[San Hill]]''' and '''[[Sun Fac]]'''
+*'''[[Ian Watkin]]''' as '''[[COO-2180/Legends|COO-2180]]'''
+*'''[[Matthew Wood]]''' as the voice of '''[[Magaloof]]''' and '''[[Seboca]]'''
+*'''[[Sara Elizabeth Joyce]]''' as '''unidentified bounty hunter'''
+
+'''Uncredited crew'''
+*UI motion graphics by &mdash; [[Noel Rubin]]
+}}
+
+==Appearances==
+{{App
+|c-characters=
+*[[2934]] {{1st}}
+*[[3464]] {{1st}}
+*[[Ask Aak]] {{1st}}
+*[[Paddy Accu]] {{1st}}
+*[[Chon Actrion]] {{1st}} {{C|Bust only}}
+*[[Maxiron Agolerga]] {{1st}}
+*[[Stass Allie]] {{1st}}
+*[[Mas Amedda]]
+*[[Padmé Amidala]]
+*[[Mari Amithest]] {{1st}}
+*[[Passel Argente]]
+*[[Ashla (Jedi)|Ashla]] {{1st}}
+*[[ASN-121]] {{1st}}
+*[[Hermione Bagwa]] {{1st}}
+*[[Sio Bibble]]
+*[[Depa Billaba]]
+*[[Jar Jar Binks]]
+*[[Dud Bolt]] {{Hologram}}
+*[[Buffy]] {{1st}}
+*[[Sora Bulq]] {{1st}}
+*[[Waks Burr]] {{1st}}
+*[[J. K. Burtola]] {{1st}}
+*[[C-3PO]]
+*[[Chian]] {{1st}}
+*[[COO-2180]] {{1st}}
+*[[Cordé]] {{1st}}
+*[[CT-411]] "Ponds" {{1st}}
+*[[Theomet Danlé]] {{1st}}
+*[[Braata Danlos]] {{1st}} {{C|Statue only}}
+*[[Oakie Dokes]] {{1st}}
+*[[Lexi Dio]] {{1st}}
+*[[Tox Don]] {{1stID|Tox Don}}
+*[[Saylind Donels]] {{1st}}
+*[[Dooku|Dooku/Darth Tyranus]] {{1st}}
+*[[Dormé]] {{1st}}
+*[[Tundra Dowmeia]] {{1st}}
+*[[Pa Dua]] {{1stID|Pa Dua}}
+*[[Sifo-Dyas]] {{1stm}}
+*[[Sun Fac]] {{1st}}
+*[[Kalyn Farnmir]] {{1st}}
+*[[Onaconda Farr]]
+*[[Dannl Faytonni]] {{1st}}
+*[[Boba Fett]]
+*[[Jango Fett]] {{1st}}
+*[[Kit Fisto]] {{1st}}
+*[[FLO]] {{1st}}
+*[[Adi Gallia]]
+*[[Forch Gomou]] {{1st}}
+*[[Tarados Gon]] {{1st}}
+*[[Nute Gunray]]
+*[[Kral Grek]] {{1st}}
+*[[Rune Haako]]
+*[[Mett Habble]] {{1st}}
+*[[Nar Hida]] {{1st}}
+*[[San Hill]] {{1st}}
+*[[Bairdon Jace]] {{1st}}
+{{!}}
+*[[Jamillia]] {{1st}}
+*[[Palo Jemabie]] {{1stm}}
+*[[Jempa]] {{1st}}
+*[[Sarissa Jeng]] {{1st}}
+*[[Dexter Jettster]] {{1st}}
+*[[Qui-Gon Jinn]] {{Voice}}
+*[[Sephjet Josall]] {{1st}}
+*[[Zett Jukassa]] {{1st}}
+*[[Denaria Kee]] {{1st}}
+*[[Obi-Wan Kenobi]]
+*[[Ki-Adi-Mundi]]
+*[[Agen Kolar]] {{1st}}
+*[[Plo Koon]]
+*[[Eeth Koth]]
+*[[Sar Labooda]] {{1st}}
+*[[Cliegg Lars]] {{1st}}
+*[[Edern Lars]] {{1st}} {{C|Grave only}}
+*[[Owen Lars]] {{1stID|Lars}}
+*[[Shmi Skywalker Lars]]
+*[[Liam]] {{1st}}
+*[[Hat Lo]] {{1st}}
+*[[Magaloof]] {{1st}}
+*[[Shu Mai]] {{1st}}
+*[[Achk Med-Beq]] {{1st}}
+*[[Mick]] {{1st}}
+*[[Cat Miin]] {{1st}}
+*[[Teckla Minnau]] {{1st}}
+*[[Sly Moore]] {{1st}}
+*[[Jobal Naberrie]] {{Del}}
+*[[Pooja Naberrie]] {{Del}}
+*[[Ruwee Naberrie]] {{Del}}
+*[[Ryoo Naberrie]] {{Del}}
+*[[Sola Naberrie]] {{Del}}
+*[[Jocasta Nu]] {{1st}}
+*[[Po Nudo]]
+*[[Agira Nyrat]] {{1st}}
+*[[Barriss Offee]] {{1st}}
+*[[Bail Prestor Organa]] {{1st}}
+*[[Pablo-Jill]] {{1st}}
+*[[Ister Paddie]] {{1st}}
+*[[Darth Sidious|Sheev Palpatine/Darth Sidious]]
+*[[Pampy]]
+*[[Even Piell]]
+*[[Poggle the Lesser]] {{1st}}
+{{!}}
+*[[Khaat Qiyn]] {{1st}}
+*[[R2-D2]]
+*[[R2-H7]] {{1st}}
+*[[R2-L3]] {{1st}}
+*[[R3-T7]] {{1st}}
+*[[R4-P17]] {{1st}}
+*[[R5-D4]]
+*[[Oppo Rancisis]]
+*[[Que-Mars Redath-Gom]] {{1st}}
+*[[Réillata]] {{1stm}} {{Imo}}
+*[[RIC-920]] {{1st}}
+*[[Boles Roor]] {{Hologram}}
+*[[Gume Saam]] {{1st}}
+*[[Ko Sai]] {{1st}}
+*[[Seboca]] {{1st}}
+*[[Aayla Secura]] {{1st}}
+*[[Fi-Ek Sirch]] {{1st}}
+*[[Sistros Nevet]] {{1st}} {{C|Statue only}}
+*[[Elan Sel'Sabagno]] {{1st}}
+*[[Anakin Skywalker]]
+*[[Lama Su]] {{1st}}
+*[[Supi]] {{1st}}
+*[[Bultar Swan]] {{1st}}
+*[[Orn Free Taa]]
+*[[Bufon Taire]] {{1st}}
+*[[Wat Tambor]] {{1st}}
+*[[Nicanas Tassu]] {{1st}}
+*[[Shaak Ti]] {{1st}}
+*[[Saesee Tiin]]
+*[[Tikkes]]
+*[[Ela Tips]] {{1st}}
+*[[Toonbuck Toora]]
+*[[Zil Topur]] {{1st}}
+*[[Coleman Trebor]] {{1st}}
+*[[Nank Tun]] {{1st}}
+*[[Gregar Typho]] {{1st}}
+*[[Bogg Tyrell]] {{1st}}
+*[[Luminara Unduli]] {{1st}}
+*[[Unidentified Clone Captain (Geonosis)|Unidentified Clone Captain]] {{1st}}
+*[[Unidentified Clone Commander (Geonosis)|Unidentified Clone Commander]] {{1st}}
+*[[Unidentified clone trooper (First Battle of Geonosis)|Unidentified clone trooper]] {{1st}}
+*[[Versé]] {{1st}}
+*[[Ayy Vida]] {{1st}}
+*[[Dar Wac]] {{1st}}
+*[[Watto]]
+*[[Taun We]] {{1st}}
+*[[Zam Wesell]] {{1st}}
+*[[Beru Whitesun Lars|Beru Whitesun]]
+*[[Mace Windu]]
+*[[Rogwa Wodrata]] {{1st}}
+*[[Yoda]]
+*[[Tan Yuster]] {{1st}}
+*[[Graf Zapalo]]
+|l-characters=
+*[[2934/Legends|2934]] {{1st}}
+*[[5TE]] {{1st}}
+*[[6/298]] {{1st}}
+*[[81]]
+*[[81-X]]
+*[[8EX]]
+*[[Ask Aak/Legends|Ask Aak]]
+*[[Paddy Accu/Legends|Paddy Accu]]
+*[[Acros-Krik]] {{1st}}
+*[[Chon Actrion/Legends|Chon Actrion]] {{1st}} {{C|Bust only}}
+*[[Adnama]] {{1st}}
+*[[Nyrat Agira]] {{1st}}
+*[[Maxiron Agolerga/Legends|Maxiron Agolerga]]
+*[[Aisala]] {{1st}}
+*[[Stass Allie/Legends|Stass Allie]] {{1st}}
+*[[Mas Amedda/Legends|Mas Amedda]]
+*[[Padmé Amidala/Legends|Padmé Amidala]]
+*[[Mari Amithest/Legends|Mari Amithest]] {{1st}}
+*[[Onie Arkmen]] {{1st}}
+*[[Ashla (Jedi)/Legends|Ashla]] {{1st}}
+*[[ASN-121/Legends|ASN-121]] {{1st}}
+*[[Hermione Bagwa/Legends|Hermione Bagwa]] {{1st}}
+*[[Ix Bantagash]] {{1st}}
+*[[Sio Bibble/Legends|Sio Bibble]]
+*[[Depa Billaba/Legends|Depa Billaba]]
+*[[Jar Jar Binks/Legends|Jar Jar Binks]]
+*[[Ony Bobissia]] {{1st}}
+*[[Kell Borean]] {{1st}}
+*[[Lillea Bringbit]] {{1st}}
+*[[Sora Bulq/Legends|Sora Bulq]] {{1st}}
+{{!}}
+*[[Waks Burr/Legends|Waks Burr]] {{1st}}
+*[[J. K. Burtola/Legends|J. K. Burtola]] {{1st}}
+*[[Slyther Bushforb]]
+*[[Onyeth Canavar]] {{1st}}
+*[[Jynne Celwik]] {{1st}}
+*[[Lowle Ch'red]] {{1st}}
+*[[C-3PO/Legends|C-3PO]]
+*[[CC-6454]] "Ponds" {{1st}} {{Ret}}
+*[[Chian/Legends|Chian]] {{1st}}
+*[[CLE-004 window cleaning droid/Legends|CLE-004]]
+*[[COO-2180/Legends|COO-2180]]
+*[[CRC-09/571]] {{1st}}
+*[[Ronet Coorr]]
+*[[Cordé/Legends|Cordé]]
+*[[Theomet Danlé/Legends|Theomet Danlé]] {{1st}}
+*[[Immi Danoo]] {{1st}}
+*[[Joclad Danva]]
+*[[Darsana]] {{Del}}
+*[[Aliza Darsk]] {{1st}}
+*[[Lexi Dio/Legends|Lexi Dio]]
+*[[Oakie Dokes/Legends|Oakie Dokes]] {{1st}}
+*[[Porro Dolphe/Legends|Porro Dolphe]]
+*[[Dooku/Legends|Dooku/Darth Tyranus]]
+*[[Dormé/Legends|Dormé]]
+*[[Bille Doshun]] {{1st}}
+*[[Tundra Dowmeia/Legends|Tundra Dowmeia]]
+*[[Sta-Den Eekin/Legends|Sta-Den Eekin]]
+*[[ES-PSA]]
+*[[Lumas Etima]] {{1st}}
+*[[Sun Fac/Legends|Sun Fac]] {{1st}}
+*[[Kalyn Farnmir/Legends|Kalyn Farnmir]] {{1st}}
+*[[Onaconda Farr/Legends|Onaconda Farr]]
+*[[Dannl Faytonni/Legends|Dannl Faytonni]] {{1st}}
+*[[Boba Fett/Legends|Boba Fett]]
+{{!}}
+*[[Jango Fett/Legends|Jango Fett]]
+*[[Kit Fisto/Legends|Kit Fisto]]
+*[[FLO/Legends|FLO]] {{1st}}
+*[[Hayde Gofai]] {{1st}}
+*[[Forch Gomou/Legends|Forch Gomou]] {{C|possible appearance}}
+*[[Tarados Gon/Legends|Tarados Gon]] {{1st}}
+*[[Faime Gosan]] {{1st}}
+*[[Rune Haako/Legends|Rune Haako]]
+*[[Mett Habble/Legends|Mett Habble]]
+*[[Hadiss/Legends|Hadiss]] (bone only)
+*[[Nar Hida/Legends|Nar Hida]] {{1st}}
+*[[San Hill/Legends|San Hill]]
+*[[Honka]] {{1st}}
+*[[Zo Howler]]
+*[[INS-444 window installation droid|INS-444]]
+*[[Ror Ithh]] {{1st}}
+*[[Ko Itub]] {{1st}}
+*[[Rina Itub]] {{1st}}
+*[[Bairdon Jace/Legends|Bairdon Jace]] {{1st}}
+*[[Jamillia/Legends|Jamillia]] {{1st}}
+*[[Jempa/Legends|Jempa]] {{1st}}
+*[[Sarrissa Jeng]]
+*[[Dexter Jettster/Legends|Dexter Jettster]]
+*[[Qui-Gon Jinn/Legends|Qui-Gon Jinn]] (voice)
+*[[Joshua Jinzler]] {{1st}}
+*[[JN-66 analysis droid/Legends|JN-66]]
+*[[Sephjet Josall/Legends|Sephjet Josall]] {{1st}}
+*[[Zett Jukassa/Legends|Zett Jukassa]] {{1st}}
+*[[Dixon Just]] {{1st}}
+*[[Denaria Kee/Legends|Denaria Kee]] {{1st}}
+*[[Tas Kee]] {{1st}}
+*[[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]]
+{{!}}
+*[[Ki-Adi-Mundi/Legends|Ki-Adi-Mundi]]
+*[[Agen Kolar/Legends|Agen Kolar]] {{1st}}
+*[[Plo Koon/Legends|Plo Koon]]
+*[[Eeth Koth/Legends|Eeth Koth]]
+*[[Kaycee Kollenz/Legends|Kaycee Kollenz]]
+*[[Fo Kuna]]
+*[[Sar Labooda/Legends|Sar Labooda]] {{1st}}
+*[[Beru Whitesun Lars/Legends|Beru Lars]]
+*[[Cliegg Lars/Legends|Cliegg Lars]]
+*[[Owen Lars/Legends|Owen Lars]]
+*[[Liam/Legends|Liam]] {{1st}}
+*[[Ame Llom]] {{1st}}
+*[[Hat Lo/Legends|Hat Lo]] {{1st}}
+*[[Pons Lo]] {{1st}}
+*[[Reha Logg]] {{1st}}
+*[[Sel Maa]] {{1st}}
+*[[Sir Mac]] {{1st}}
+*[[Magaloof/Legends|Magaloof]] {{1st}}
+*[[Shu Mai/Legends|Shu Mai]]
+*[[Di Mantid]] {{1st}}
+*[[Reina March]] {{1st}}
+*[[Roth-Del Masona]] {{1st}}
+*[[Lela Nalle Mayn]] {{1st}}
+*[[Achk Med-Beq/Legends|Achk Med-Beq]] {{1st}}
+*[[Mick/Legends|Mick]] {{1st}}
+*[[Ichi-Tan Micoda]] {{1st}}
+*[[Cat Miin/Legends|Cat Miin]] {{1st}}
+*[[Teckla Minnau/Legends|Teckla Minnau]]
+*[[Lunae Minx]] {{1st}}
+*[[Yee Moh]] {{1st}}
+*[[Fensi Moisk]] {{1st}}
+*[[Wilst Molan]] {{1st}}
+*[[Sly Moore/Legends|Sly Moore]]
+*[[Eos Morne]] {{1st}}
+*[[N'a-kee-tula]] {{Del}} {{Hologram}}
+*[[Jobal Naberrie/Legends|Jobal Naberrie]] {{Del}}
+*[[Pooja Naberrie/Legends|Pooja Naberrie]] {{Del}}
+*[[Ruwee Naberrie/Legends|Ruwee Naberrie]] {{Del}}
+*[[Ryoo Naberrie/Legends|Ryoo Naberrie]] {{Del}}
+{{!}}
+*[[Sola Naberrie/Legends|Sola Naberrie]] {{Del}}
+*[[Mya Nalle]] {{1st}}
+*[[Yma Nalle]] {{1st}}
+*[[Nandi]]
+*[[Yim Neher]] {{1st}}
+*[[Zey Nep]] {{1st}}
+*[[Seib Nod]] {{1st}}
+*[[Jocasta Nu/Legends|Jocasta Nu]]
+*[[Po Nudo/Legends|Po Nudo]]
+*[[Barriss Offee/Legends|Barriss Offee]]
+*[[N.J. Opuh]] {{1st}} {{C|scenes cut}}
+*[[Bail Prestor Organa/Legends|Bail Prestor Organa]]
+*[[Hoit Pa'Doit]] {{1st}}
+*[[Pablo-Jill/Legends|Pablo-Jill]] {{1st}}
+*[[Ister Paddie/Legends|Ister Paddie]]
+*[[Palo]] {{Mo}}
+*[[Palpatine/Legends|Palpatine/Darth Sidious]]
+*[[Pampy/Legends|Pampy]]
+*[[Mois Parcon]] {{1st}}
+*[[Yalka Pho]] {{1st}}
+*[[Booton Piton]] {{1st}}
+*[[Kar Plaushe]] {{1st}}
+*[[Poggle the Lesser/Legends|Poggle the Lesser]] {{1st}}
+*[[Artuo Pratuhr]] {{1st}}
+*[[Khaat Qiyn/Legends|Khaat Qiyn]] {{1st}}
+*[[R2-D2/Legends|R2-D2]]
+*[[R2-L3/Legends|R2-L3]] {{1st}}
+*[[R3-T7/Legends|R3-T7]] {{1st}}
+*[[R4-J1]] {{1st}}
+*[[R4-P17/Legends|R4-P17]]
+*[[R4-T8]] {{1st}}
+*[[R5-C7]] {{1st}}
+*[[R5-D4/Legends|R5-D4]]
+*[[Oppo Rancisis/Legends|Oppo Rancisis]]
+*[[Que-Mars Redath-Gom/Legends|Que-Mars Redath-Gom]] {{1st}}
+*[[Rednax]] {{1st}}
+*[[Dyemma Reel/Legends|Dyemma Reel]] {{1st}}
+*[[Ren-Quarr]] {{1st}}
+*[[Palee Ruda]] {{1st}}
+{{!}}
+*[[Ekim Ryelli]] {{1st}}
+*[[Gume Saam/Legends|Gume Saam]] {{1st}}
+*[[Ko Sai/Legends|Ko Sai]] {{1st}}
+*[[Whimper Save]] {{1st}}
+*[[Scohontas]] {{1st}}
+*[[Seboca/Legends|Seboca]] {{1st}}
+*[[Aayla Secura/Legends|Aayla Secura]]
+*[[Elan Sel'Sabagno/Legends|Elan Sel'Sabagno]]
+*[[Cian Shee]] {{1st}}
+*[[Nardi Shodu]] {{1st}}
+*[[Roan Shryne]] {{1st}} {{Ret}}
+*[[Sidewa]] {{1st}}
+*[[Sifo-Dyas/Legends|Sifo-Dyas]] {{Mo}}
+*[[Civ Sila]] {{1st}}
+*[[Necil Sing]] {{1st}}
+*[[Fi-Ek Sirch/Legends|Fi-Ek Sirch]] {{1st}}
+*[[Anakin Skywalker/Legends|Anakin Skywalker]]
+*[[Shmi Skywalker Lars/Legends|Shmi Skywalker Lars]]
+*[[SP-4 analysis droid/Legends|SP-4]]
+*[[Lama Su/Legends|Lama Su]]
+*[[Supi/Legends|Supi]] {{1st}}
+*[[Bultar Swan/Legends|Bultar Swan]]
+*[[Orn Free Taa/Legends|Orn Free Taa]]
+*[[Bufon Taire/Legends|Bufon Taire]] {{1st}}
+*[[Wat Tambor/Legends|Wat Tambor]]
+*[[Nicanas Tassu/Legends|Nicanas Tassu]] {{1st}}
+*[[Lexa Tcheil/Legends|Lexa Tcheil]] {{1st}}
+*[[Shaak Ti/Legends|Shaak Ti]]
+*[[Saesee Tiin/Legends|Saesee Tiin]]
+*[[Tikkes/Legends|Tikkes]]
+*[[Ela Tips/Legends|Ela Tips]] {{C|possible appearance}}
+*[[Toonbuck Toora/Legends|Toonbuck Toora]]
+*[[Pedric Tosh]]
+*[[Ganwick Trag]] {{1st}}
+*[[Coleman Trebor/Legends|Coleman Trebor]]
+*[[Zil Topur/Legends|Zil Topur]] {{1st}}
+*[[Traavis]]
+{{!}}
+*[[Nank Tun/Legends|Nank Tun]] {{1st}}
+*[[Gregar Typho/Legends|Gregar Typho]]
+*[[Bogg Tyrell/Legends|Bogg Tyrell]] {{1st}}
+*[[Tyyx/Legends|Tyyx]]
+*[[Luminara Unduli/Legends|Luminara Unduli]]
+*[[Unidentified Human male (Jendirian Valley)]] {{1st}}
+*[[Gondrin Upal/Legends|Gondrin Upal]] {{1st}}
+*[[Gorothin Vagger]]
+*[[Versé/Legends|Versé]]
+*[[Rosha Vess]] {{1st}}
+*[[Kristoff Vestswe]] {{1st}}
+*[[Ayy Vida/Legends|Ayy Vida]] {{1st}}
+*[[Dar Wac/Legends|Dar Wac]]
+*[[Watto/Legends|Watto]]
+*[[Taun We/Legends|Taun We]]
+*[[Nor Wedd]] {{1st}}
+*[[Zam Wesell/Legends|Zam Wesell]]
+*[[Nic Whoma]] {{1st}}
+*[[Daro Willits]] {{1st}}
+*[[Mace Windu/Legends|Mace Windu]]
+*[[Sne Wo]] {{1st}}
+*[[Rogwa Wodrata/Legends|Rogwa Wodrata]] {{1st}}
+*[[Yoda/Legends|Yoda]]
+*[[Tan Yuster/Legends|Tan Yuster]] {{1st}}
+*[[Graf Zapalo/Legends|Graf Zapalo]]
+|c-creatures=
+*[[Arthropod]] {{1st}}
+**[[Kouhun]] {{1st}}
+*[[Aiwha]] {{1st}}
+*[[Bantha]]
+*[[Bird]]
+**[[Nuna]]
+**[[Odupiendo]] {{1st}}
+**[[Pelikki]]
+*[[Eopie]]
+*[[Gundark]] {{Mo}}
+*[[Insect]]
+**[[Bee]] {{1st}}
+**[[Fly]] {{1st}}
+*[[Nexu]] {{1st}}
+*[[Reptile]]
+**[[Acklay]] {{1st}}
+**[[Massiff]] {{1st}}
+**[[Orray]] {{1st}}
+**[[Reek]] {{1st}}
+*[[Scurrier]]
+*[[Shaak]]
+|l-creatures=
+*[[Arthropod/Legends|Arthropod]]
+**[[Acklay/Legends|Acklay]]
+**[[Kouhun/Legends|Kouhun]]
+*[[Aiwha/Legends|Aiwha]]
+*[[Akul]] {{C|Teeth only}}
+*[[Bantha/Legends|Bantha]]
+*[[Bee/Legends|Bee]]
+*[[Greysor]] {{1st}} {{C|Statue only}} {{Del}}
+*[[Gundark/Legends|Gundark]] {{Mo}}
+*[[Eopie/Legends|Eopie]]
+*[[Fly/Legends|Fly]]
+*[[Massiff/Legends|Massiff]]
+*[[Nexu/Legends|Nexu]]
+*[[Nuna/Legends|Nuna]]
+*[[Odupiendo/Legends|Odupiendo]]
+*[[Orray/Legends|Orray]]
+*[[Reek/Legends|Reek]]
+*[[Roga]] {{C|Cut}}
+*[[Scurrier/Legends|Scurrier]]
+*[[Shaak/Legends|Shaak]]
+|c-droids=
+*[[Analysis droid]] {{1stm}}
+**[[JN-66 analysis droid]] {{1stm}} {{Imo}}
+**[[SP-4 analysis droid]] {{1stm}} {{Imo}}
+*[[Astromech droid]]
+**[[R-series]]
+***[[R2 series astromech droid]]
+***[[R3-series astromech droid]]
+***[[R4 astromech droid]]
+****[[R4-P Astromech]] {{1st}}
+***[[R5 series astromech droid]]
+*[[Battle droid]]
+**[[B-series battle droid]]
+***[[B1-series battle droid]]
+****[[OOM-series battle droid]]
+*****[[OOM command battle droid]]
+*****[[OOM pilot battle droid]]
+***[[B2-series super battle droid]] {{1st}}
+**[[Droideka]]
+***[[W-series droideka]] {{1st}}
+**[[DSD1 dwarf spider droid]] {{1st}}
+**[[OG-9 homing spider droid]] {{1st}}
+*[[Cam droid]]
+**[[Senate hovercam droid]]
+*[[CLE-004 window cleaning droid]] {{1st}}
+*[[Messenger droid|Courier droid]] {{1st}}
+**[[ASN courier droid]] {{1st}}
+*[[Droid tank]] {{1st}}
+**[[IG-227 Hailfire-class droid tank|IG-227 ''Hailfire''-class droid tank]] {{1st}}
+*[[Kitchen droid]] {{1st}}
+**[[COO-series cook droid]] {{1st}}
+{{!}}
+*[[Labor droid]]
+**[[RIC-series general labor droid]] {{1st}}
+**[[Short-Range Transport droid]] {{1st}}
+*[[Pilot droid]]
+**[[FA-4 pilot droid]] {{1st}}
+*[[Protocol droid]]
+**[[3PO-series protocol droid]]
+*[[Repair droid]]
+**[[DUM-series pit droid]]
+**[[INS-444]] {{1st}}
+**[[Otoga-222 maintenance droid]]
+**[[WED Treadwell repair droid]]
+***[[WED-15-XT Treadwell droid]]
+*[[Service droid]] {{1st}}
+**[[WA-7 waitress droid]] {{1st}}
+*[[Training droid]]
+**[[Marksman-H training remote]]
+|l-droids=
+*[[3PO-series protocol droid/Legends|3PO-series protocol droid]]
+*[[ASN-121/Legends|ASN-121]]
+*[[B1-Series battle droid]]
+*[[B2 super battle droid/Legends|B2 super battle droid]]
+*[[CLE-004 window cleaning droid/Legends|CLE-004 window cleaning droid]]
+*[[COO cook droid]]
+*[[DSD1 dwarf spider droid/Legends|DSD1 dwarf spider droid]]
+*[[DUM-series pit droid/Legends|DUM-series pit droid]]
+*[[FA-4 pilot droid/Legends|FA-4 pilot droid]]
+*[[IG-227 Hailfire-class droid tank/Legends|IG-227 ''Hailfire''-class droid tank]]
+*[[INS-444 window installation droid]]
+*[[JN-66 analysis droid/Legends|JN-66 analysis droid]] {{Imo}}
+*[[Labor droid/Legends|Labor droid]]
+{{!}}
+*[[OG-9 homing spider droid/Legends|OG-9 homing spider droid]]
+*[[OOM command battle droid/Legends|OOM command battle droid]]
+*[[R2-series astromech droid]]
+*[[R3-series astromech droid/Legends|R3-series astromech droid]]
+*[[R4-series agromech droid]]
+**[[R4-P/Legends|R4-P]]
+*[[R5-series astromech droid]]
+*[[Refueling droid/Legends|Refueling droid]]
+*[[RIC-series general labor droid/Legends|RIC-series general labor droid]]
+*[[SP-4 analysis droid/Legends|SP-4 analysis droid]] {{Imo}}
+*[[SRT autonomous short-range transport]]
+*[[WA-7 service unit]]
+*[[WED-15 Treadwell]]
+*[[W-series droideka/Legends|W-series droideka]]
+|c-events=
+*[[Republic Era]] {{Imo}}
+**[[Clone Wars]] {{1st}}
+***[[First Battle of Geonosis]] {{1st}}
+**[[Coronation of Queen Amidala]] {{Imo}}
+**[[Funeral of Shmi Skywalker Lars]] {{1st}}
+**[[Mission to rescue Shmi Skywalker Lars]] {{1st}}
+**[[Naboo miners' strikes]] {{1stm}}
+**[[Separatist Crisis]] {{1st}}
+***[[Border dispute on Ansion]] {{1stm}}
+***[[Dogfight over Geonosis]] {{1st}}
+***[[Mission to Kamino (Separatist Crisis)|Mission to Kamino]] {{1st}}
+***[[Plot to assassinate Senator Amidala]] {{1st}}
+**[[Wedding of Anakin Skywalker and Padmé Amidala]] {{1st}}
+|l-events=
+*[[Clone Wars/Legends|Clone Wars]]
+**[[First Battle of Geonosis/Legends|First Battle of Geonosis]]
+*[[Separatist Crisis/Legends|Separatist Crisis]]
+**[[Mission to Ansion]] {{Mo}}
+**[[Plot to assassinate Senator Amidala]]
+**[[Mission to Kamino (Separatist Crisis)|Mission to Kamino]]
+**[[Mission to Tatooine (Separatist Crisis)|Mission to Tatooine]]
+**[[Dogfight over Geonosis/Legends|Dogfight over Geonosis]]
+*[[Wedding of Anakin Skywalker and Padmé Amidala/Legends|Wedding of Anakin Skywalker and Padmé Amidala]]
+|c-locations=
+*[[Extragalactic]] {{1st}}
+**[[Kamino system]] {{1st}}
+***[[Kamino]] {{1st}}
+****[[Tipoca City]] {{1st}}
+*****[[Central Armory]] {{1st}}
+*****[[Tipoca City Military Complex]] {{1st}}
+******[[Egg Lab]] {{1st}}
+*****[[Jango Fett's apartment]] {{1st}}
+**[[Rishi Maze]] {{1st}} {{C|Map only}}
+*[[The galaxy]]
+**[[Ando Prime]] {{1st}} {{Hologram}}
+***[[Andobi Mountains]] {{1st}} {{Hologram}}
+**[[Bogden]] {{1stm}}
+**[[Core Worlds]]
+***[[Corusca sector]]
+****[[Coruscant subsector]]
+*****[[Coruscant system]]
+******[[Coruscant]]
+*******[[Imperial City|Galactic City]]
+********[[Champalan Embassy]] {{1st}}
+********[[CoCo Town]] {{1st}}
+*********[[Dex's Diner]] {{1st}}
+********[[Corusca Circus]] {{1st}}
+********[[Coruscant Underworld]] {{1st}}
+*********[[Uscru District]] {{1st}}
+**********[[Uscru Entertainment District]] {{1st}}
+***********[[Outlander Club]] {{1st}}
+***********[[Vos Gesal Hotel]] {{1st}}
+***********[[Vos Gesal Street]] {{1st}}
+********[[Federal District]]
+*********[[Imperial Palace|Jedi Temple]]
+**********[[Analysis Rooms]] {{Del}}
+**********[[Council Towers]]
+***********[[High Council Tower]]
+************[[Jedi Council Chamber]]
+***********[[Reassignment Council Tower]]
+***********[[Tower of First Knowledge]]
+***********[[Tower of Reconciliation]]
+**********[[Jedi Archives]] {{1st}}
+**********[[Temple Spire]]
+**********[[Yoda's quarters]] {{1st}}
+*********[[Senate apartment complex]] {{1st}}
+**********[[Padmé's Apartment]] {{1st}}
+*********[[Imperial Executive Building|Senate Office Building]] {{1st}}
+**********[[Emperor's office|Chancellor's office]] {{1st}}
+*********[[Imperial Plaza|Senate Plaza]]
+**********[[Avenue of the Core Founders]]
+**********[[Galactic Senate Building]]
+***********[[Galactic Senate Chamber]]
+************[[Chancellor's podium]]
+*********[[Trade Federation office tower]] {{1st}}
+********[[Greth Lan-Dwu Corp. electrical power-generating plant]] {{1st}}
+********[[Industrial District]] {{1st}}
+*********[[The Works]] {{1st}}
+**********[[Inquisitorius Headquarters|LiMerge Power building]] {{1st}}
+***********[[Coruscant tower secret hangar]] {{1st}}
+********[[Port Quarter]] {{1st}}
+*********[[Western spaceport]] {{1st}}
+******[[Coruscant Prime]]
+{{!}}
+**[[Mid Rim Territories]]
+***[[Ansion]] {{1stm}}
+***[[Chommell sector]]
+****[[Naboo system]]
+*****[[Naboo]]
+******[[Lake Country]] {{1st}}
+*******[[Varykino]] {{1st}}
+********[[Room of Morning Mists]] {{1st}}
+******[[Theed]]
+*******[[Great Hall (Naboo)|Great Hall]]
+*******[[Palace Courtyard]] {{1st}}
+*******[[Theed Royal Palace]]
+********[[Theed Hangar]]
+********[[Throne room (Theed Royal Palace)|Throne room]]
+**[[Moons of Bogden]] {{1stm}}
+**[[Outer Rim Territories]]
+***[[Arkanis sector]]
+****[[Geonosis system]] {{1st}}
+*****[[Ea]] {{1st}}
+*****[[Geonosis]] {{1st}}
+******[[Badlands of N'g'zi]] {{1st}}
+******[[Dooku's hangar]] {{1st}}
+******[[E'Y-Akh Desert]] {{1st}}
+******[[Im'g'twe Hills]] {{1st}}
+******[[Stalgasin hive]] {{1st}}
+*******[[Dooku's tower]] {{1st}}
+*******[[Geonosian droid factories]] {{1st}}
+*******[[Geonosian catacombs]] {{1stm}}
+********[[Petranaki Arena]] {{1st}}
+*******[[Sector 5-1-5 (Geonosis)|Sector 5-1-5]] {{1st}}
+*******[[Stalgasin hive spires]] {{1st}}
+*******[[Trade Federation landing zones]] {{1st}}
+*****[[Rings of Geonosis]] {{1st}}
+****[[Tatoo system]]
+*****[[Tatoo I]]
+*****[[Tatoo II]]
+*****[[Tatooine]]
+******[[Jundland Wastes]]
+*******[[B'Thazoshe Bridge]] {{1st}}
+*******[[Great Chott salt flat]]
+********[[Lars Homestead]]
+******[[Mos Eisley]] {{Mo}}
+******[[Mos Espa]]
+*******[[Watto's junkshop]]
+******[[Tusken Raider camp (Anakin Skywalker)|Tusken Raider camp]] {{1st}}
+***[[Moons of Bogden]] {{1stm}}
+***[[Spice Triangle]]
+***[[Subterrel]] {{1stm}}
+|l-locations=
+*[[Ansion/Legends|Ansion]] {{Mo}}
+*[[Bogden/Legends|Bogden]] {{Mo}}
+**[[Kohlma]] {{1stm}} {{Imo}}
+*[[Coruscant/Legends|Coruscant]]
+**[[Galactic City]]
+***[[CoCo Town/Legends|CoCo Town]]
+****[[Dex's Diner/Legends|Dex's Diner]]
+***[[Raith Sienar's private spire]]
+***[[Senate District]]
+****[[Ambassadorial Sector]]
+*****[[500 Republica/Legends|''500 Republica'']]
+******[[Senate Apartment Complex]]
+*******[[Padmé Amidala's apartment]]
+****[[Senate Plaza]]
+*****[[Avenue of the Core Founders/Legends|Avenue of the Core Founders]]
+*****[[Republic Executive Building]]
+*****[[Senate Building]]
+***[[Temple district|Temple Precinct]]
+****[[Jedi Temple]]
+***[[Sector 943|The Works]]
+****[[LiMerge Building]]
+***[[Uscru Entertainment District/Legends|Uscru Entertainment District]]
+****[[Outlander Club/Legends|Outlander Club]]
+*[[Geonosis/Legends|Geonosis]]
+**[[Geonosian spire]]
+***[[Geonosian War Room]]
+***[[Stalgasin hive/Legends|Stalgasin hive]]
+**[[Geonosis droid foundries]]
+**[[Petranaki arena]]
+{{!}}
+*[[Kamino/Legends|Kamino]]
+**[[Tipoca City/Legends|Tipoca City]]
+***[[Kamino Space Traffic Control]]
+***[[Clone military education complex]]
+*[[Kohlma]] {{Imo}}
+*[[Naboo/Legends|Naboo]]
+**[[Lake Country/Legends|Lake Country]]
+***[[Varykino/Legends|Varykino]]
+**[[Theed/Legends|Theed]]
+***[[Palace Courtyard/Legends|Palace Courtyard]]
+***[[Theed Royal Palace/Legends|Theed Royal Palace]]
+***[[Theed Spaceport/Legends|Theed Spaceport]]
+*[[Rishi/Legends|Rishi]] {{Mo}}
+*[[Shadda-Bi-Boran/Legends|Shadda-Bi-Boran]] {{Del}}
+*[[Subterrel/Legends|Subterrel]] {{Mo}}
+*[[Tatooine/Legends|Tatooine]]
+**[[Jundland Wastes/Legends|Jundland Wastes]]
+***[[B'Thazoshe Bridge/Legends|B'Thazoshe Bridge]]
+**[[Lars homestead]]
+**[[Mos Eisley/Legends|Mos Eisley]] {{Mo}}
+**[[Mos Espa/Legends|Mos Espa]]
+***[[Wald's Parts]]
+|c-organizations=
+*[[Beru Whitesun's family]]
+*[[Brotherhood of Cognizance]] {{1st}}
+**[[Pontifex]] {{1st}}
+*[[Chef]]
+*[[Cliegg Lars' quadrille]] {{1stm}}
+*[[Con artist]] {{1st}}
+*[[Confederacy of Independent Systems]] {{1st}}
+**[[Commerce Guild]] {{1st}}
+***[[Commerce Guild Punitive Security Forces]] {{1stm}} {{Imo}}
+***[[Presidente]] {{1st}}
+**[[Confederacy military]] {{1st}}
+***[[Confederacy of Independent Systems Navy]] {{1st}}
+***[[Separatist Droid Army]] {{1st}}
+****[[Army infantry corps]] {{1st}}
+**[[Corporate Alliance]] {{1st}}
+***[[Corporate Alliance Policy Administration Directorate]] {{1stm}} {{Imo}}
+***[[Magistrate]]
+**[[Executive Separatist Council]] {{1st}}
+**[[Geonosian droid army]] {{1st}}
+***[[Unidentified battle droid legion]] {{1st}}
+**[[Head of State]] {{1st}}
+**[[InterGalactic Banking Clan]] {{1st}}
+***[[Chairman]] {{1st}}
+***[[InterGalactic Banking Clan Collections and Security Division]] {{1stm}} {{Imo}}
+***[[Muunilinst Banking Clan]] {{1st}}
+**[[Techno Union]] {{1st}}
+***[[Foreman]] {{1st}}
+***[[Techno Union Droid Army]] {{1stm}}
+**[[Trade Federation]]
+***[[Viceroy of the Trade Federation]]
+*[[Four Sages of Dwartii]] {{1st}} {{C|Statue only}}
+**[[Philosopher]] {{1st}} {{C|Statue only}}
+{{!}}
+*[[Galactic Republic]]
+**[[Coruscant Security Force]] {{1stm}} {{Imo}}
+**[[Galactic Senate]]
+***[[Junior Representative]] {{1st}}
+***[[Loyalist]] {{1st}}
+***[[Loyalist Committee]] {{1st}}
+****[[Alderaanian delegation]] {{1st}}
+****[[Malastare delegation]]
+****[[Mon Calamari faction]]
+****[[Naboo delegation]]
+***[[Senate Guard]]
+***[[Senator]]
+**[[Office of the Chancellor]]
+***[[Emperor's Royal Guard]]
+***[[Supreme Chancellor]]
+***[[Vice Chair]]
+**[[Republic courts]] {{Mo}}
+**[[Republic Military]] {{1st}}
+***[[Grand Army of the Republic]] {{1st}}
+****[[Aayla Secura's unit]] {{1st}}
+****[[Clone cadet]] {{1st}}
+****[[Clone trooper]] {{1st}}
+*****[[Clone Captain]] {{1st}}
+*****[[Clone Commander]] {{1st}}
+*****[[Clone commando]] {{1stm}} {{Imo}}
+*****[[Clone Lieutenant]] {{1st}}
+*****[[Clone Sergeant]] {{1st}}
+****[[Jedi General]] {{1st}}
+****[[Yoda's regiment]]{{1st}}
+*****[[Yoda's squad]] {{1st}}
+****[[Unidentified SPHA-T squadron]] {{1st}}
+***[[Galactic Republic Navy]] {{1st}}
+****[[Clone trooper pilot]] {{1st}}
+**[[Republic courts]] {{Mo}}
+***[[Supreme Court]] {{1stm}}
+*[[Geonosian hive]] {{1st}}
+*[[Gladiator]] {{1st}}
+*[[Governor]]
+{{!}}
+*[[House of Organa]]
+**[[First Chairman]] {{1st}}
+**[[Viceroy]]
+*[[House Serenno]] {{1st}}
+**[[Count]] {{1st}}
+***[[Count of Serenno]] {{1st}}
+*[[Jedi]]
+**[[Jedi Order]]
+***[[Bear Clan]] {{1st}}
+***[[Chief Librarian]] {{1st}}
+***[[Consular Jedi]] {{1st}}
+***[[Grand Master]]
+***[[Jedi assault team]] {{1st}}
+***[[Jedi High Council]]
+***[[Jedi Knight]]
+***[[Jedi Master]]
+***[[Jedi Initiate|Jedi youngling]] {{1st}}
+***[[Padawan]]
+*[[Law enforcement agency]]
+*[[Legislative Youth Program]] {{1stm}}
+*[[Librarian]] {{1st}}
+*[[Mandalorian]] {{1st}}
+*[[Naberrie family]]
+*[[Picador]] {{1st}}
+*[[Police officer]]
+*[[Queen]]
+*[[Royal House of Naboo]]
+**[[Monarch of Naboo]]
+**[[Naboo Royal Handmaidens]]
+***[[Wardrobe mistress]] {{1stID}}
+**[[Naboo Royal Advisory Council]]
+***[[Governor of Naboo]]
+***[[Master of Sciences]]
+*[[Royal Naboo Security Forces]]
+**[[Captain]]
+**[[Naboo Royal Space Fighter Corps]]
+**[[Naboo Palace Guard]]
+**[[Security Guard]]
+*[[Sergeant]] {{1st}}
+*[[Scientist]]
+*[[Sith]]
+**[[Dark Lord of the Sith]] {{1stID|Dark Lord of the Sith}}
+**[[Darth]]
+**[[Sith apprentice]]
+**[[Sith Lord]]
+**[[Sith Master]]
+*[[Waiter]]
+*[[Zealots of Psusan]] {{1st}}
+|l-organizations=
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]] {{1st}}
+**[[Commerce Guild/Legends|Commerce Guild]] {{1st}}
+**[[Confederacy military/Legends|Confederacy military]] {{1st}}
+***[[Separatist Droid Army/Legends|Separatist Droid Army]] {{1st}}
+**[[Corporate Alliance/Legends|Corporate Alliance]] {{1st}}
+**[[Geonosian Industries]] {{1st}}
+**[[Head of State/Legends|Head of State]] {{1st}}
+**[[House Dooku]] {{1st}}
+***[[Count/Legends|Count]] {{1st}}
+****[[Count of Serenno/Legends|Count of Serenno]] {{1st}}
+**[[InterGalactic Banking Clan/Legends|InterGalactic Banking Clan]] {{1st}}
+**[[Separatist Droid Army/Legends|Separatist Droid Army]] {{1st}}
+**[[Techno Union/Legends|Techno Union]] {{1st}}
+**[[Trade Federation of Planets|Trade Federation]]
+*[[Galactic Republic/Legends|Galactic Republic]]
+**[[Supreme Chancellor/Legends|Supreme Chancellor]]
+**[[Galactic Senate/Legends|Galactic Senate]]
+**[[Grand Army of the Republic/Legends|Grand Army of the Republic]] {{1st}}
+***[[Clone trooper/Legends|Clone trooper]]
+****[[Clone trooper sergeant]]
+****[[Clone trooper lieutenant]]
+****[[Clone trooper captain]]
+****[[Clone trooper commander]]
+**[[Red Guard]]
+{{!}}
+*[[Jedi Order/Legends|Jedi Order]]
+**[[Grand Master/Legends|Grand Master]]
+**[[Jedi High Council/Legends|Jedi High Council]]
+**[[Jedi Initiate/Legends|Jedi Initiate]]
+***[[Bear Clan/Legends|Bear Clan]]
+**[[Jedi librarian/Legends|Jedi librarian]]
+**[[Jedi Knight/Legends|Jedi Knight]]
+**[[Jedi Master/Legends|Jedi Master]]
+**[[Padawan/Legends|Padawan]]
+**[[Youngling/Legends|Youngling]]
+*[[Mandalorian/Legends|Mandalorian]]
+*[[Order of the Sith Lords]]
+**[[Dark Lord of the Sith/Legends|Dark Lord of the Sith]]
+*[[Royal House of Naboo/Legends|Royal House of Naboo]]
+**[[Monarch of Naboo/Legends|Monarch of Naboo]]
+|c-species=
+*[[Aleena]]
+*[[Anx]]
+*[[Aqualish]]
+**[[Ualaq]]
+*[[Arcona]] {{Hologram}}
+*[[Balosar (species)|Balosar]]
+*[[Besalisk]] {{1st}}
+*[[Bith]]
+*[[Cerean]]
+*[[Chagrian]]
+*[[Clawdite]] {{1st}}
+*[[Dug]]
+*[[Geonosian]] {{1st}}
+*[[Gossam]]
+*[[Gran]]
+*[[Gungan]]
+**[[Otolla]]
+*[[Holwuff]] {{1st}}
+*[[Human]]
+**[[Alderaanian]]
+**[[Chalactan]]
+**[[Cloning|Clone]]
+**[[Corellian]]
+**[[Naboo (people)|Naboo]]
+**[[Serennian]] {{1st}}
+*[[Iktotchi]]
+*[[Ishi Tib]]
+*[[Ithorian]]
+*[[Jawa]]
+*[[Kaminoan]] {{1st}}
+*[[Kel Dor]]
+*[[Klatooinian]]
+*[[Koorivar]]
+{{!}}
+*[[Lannik (species)|Lannik]]
+*[[Leffingite]] {{1st}}
+*[[Mirialan]] {{1st}}
+*[[Muun]] {{1st}}
+*[[Nautolan]] {{1st}}
+*[[Neimoidian]]
+*[[Nikto]]
+**[[Kajain'sa'Nikto]]
+*[[Nuknog]]
+*[[Ongree]] {{1st}}
+*[[Pacithhip]]
+*[[Quarren]]
+*[[Rodian]]
+*[[Skakoan]] {{1st}}
+*[[Sneevel]] {{Hologram}}
+*[[Sullustan]]
+*[[Swokes Swokes]]
+*[[Sy Myrthian]]
+*[[Tarnab]]
+*[[Theelin]] {{Hologram}}
+*[[Thisspiasian]]
+*[[Tholothian]]
+*[[Togruta]] {{1st}}
+*[[Toydarian]]
+*[[Tusken Raider]]
+*[[Twi'lek]]
+*[[Umbaran]] {{1st}}
+*[[Vulptereen]] {{Hologram}}
+*[[Vurk]] {{1st}}
+*[[Weequay]]
+*[[Whiphid]]
+*[[Yoda's species]]
+*[[Zabrak]]
+**[[Iridonian]]
+|l-species=
+*[[Aleena/Legends|Aleena]]
+*[[Anselmi/Legends|Anselmi]] {{Del}}
+*[[Aqualish/Legends|Aqualish]]
+*[[Arcona/Legends|Arcona]] {{Hologram}}
+*[[Balosar (species)/Legends|Balosar]]
+*[[Besalisk/Legends|Besalisk]]
+*[[Bith/Legends|Bith]]
+*[[Shadda-Bi-Boran (species)|Boranian]] {{Del}} {{Hologram}}
+*[[Bothan/Legends|Bothan]] {{C|Bust only}}
+*[[Cerean/Legends|Cerean]]
+*[[Chagrian/Legends|Chagrian]]
+*[[Chalactan/Legends|Chalactan]]
+*[[Clawdite/Legends|Clawdite]]
+*[[Dug/Legends|Dug]]
+*[[Geonosian/Legends|Geonosian]]
+*[[Gossam/Legends|Gossam]]
+*[[Gran/Legends|Gran]]
+*[[Gungan/Legends|Gungan]]
+*[[Holwuff/Legends|Holwuff]]
+*[[Human/Legends|Human]]
+**[[Cloning/Legends|Clone]]
+**[[Naboo (people)/Legends|Naboo]]
+*[[Ithorian/Legends|Ithorian]]
+*[[Jawa/Legends|Jawa]]
+*[[Kaminoan/Legends|Kaminoan]]
+*[[Kel Dor/Legends|Kel Dor]]
+*[[Koorivar/Legends|Koorivar]]
+*[[Korun/Legends|Korun]]
+{{!}}
+*[[Leffingite/Legends|Leffingite]]
+*[[Mirialan/Legends|Mirialan]]
+*[[Muun/Legends|Muun]]
+*[[Nautolan/Legends|Nautolan]]
+*[[Neimoidian/Legends|Neimoidian]]
+*[[Ongree/Legends|Ongree]]
+*[[Quarren/Legends|Quarren]]
+*[[Rodian/Legends|Rodian]]
+*[[Shi'ido]] {{C|Aqualish form}}
+*[[Skakoan/Legends|Skakoan]]
+*[[Sullustan/Legends|Sullustan]]
+*[[Togruta/Legends|Togruta]]
+*[[Toydarian/Legends|Toydarian]]
+*[[Tusken Raider/Legends|Tusken Raider]]
+*[[Twi'lek/Legends|Twi'lek]]
+*[[Umbaran/Legends|Umbaran]]
+*[[Vurk/Legends|Vurk]]
+*[[Weequay/Legends|Weequay]]
+*[[Whiphid/Legends|Whiphid]]
+*[[Yoda's species/Legends|Yoda's species]]
+*[[Zabrak/Legends|Zabrak]]
+|c-vehicles=
+*[[Berenko-class speeder|''Berenko''-class speeder]] {{1st}}
+*[[KE-8 Enforcer Ship]] {{1st}}
+*[[Repulsorcraft]]
+**[[Observation Ship]] {{1st}}
+**[[Podracer]] {{C|On a holoscreen}}
+***[[Vulptereen 327]] {{C|On a holoscreen}}
+**[[Speeder]]
+***[[Airspeeder]]
+****[[EasyRide passenger airspeeder]]
+****[[Koro-2 all-environment Exodrive airspeeder]] {{1st}}
+****[[T-16 skyhopper]]
+****[[XJ-6 airspeeder]] {{1st}}
+***[[Landspeeder]]
+****[[V-35 Courier]]
+***[[Speeder bike]]
+****[[Flitknot Speeder Bike]] {{1st}}
+**[[Swoop]]
+***[[Zephyr-G swoop]] {{1st}}
+*[[Space station]] {{Hologram}}
+**[[Battle station]] {{Hologram}}
+***[[Death Star]] {{Hologram}}
+****[[DS-1 Death Star Mobile Battle Station]] {{Hologram}} {{1stID|Ultimate Weapon}}
+*[[Starship]]
+**[[Assault ship]] {{1st}}
+***[[Acclamator-class transgalactic military assault ship|''Acclamator''-class transgalactic military assault ship]] {{1st}}
+**[[Core ship]] {{1st}}
+**[[Cruiser]]
+***[[Diamond-class cruiser|''Diamond''-class cruiser]] {{1st}}
+***[[Gozanti-class cruiser]]
+****''[[Krayt's Honor]]''
+***[[J-type diplomatic barge]] {{1st}}
+**[[Firespray-31-class patrol and attack craft|''Firespray-31''-class patrol and attack craft]]
+***''[[Slave I]]''
+**[[Freighter]]
+***[[AA-9 Freighter-Liner]] {{1st}}
+****''[[Jendirian Valley]]'' {{1st}}
+***[[Bulk freighter]] {{1st}}
+****[[Action series]] {{1st}}
+*****[[Action VI bulk freighter]] {{1st}}
+***[[YT-1300 light freighter]]
+**[[Gunship]]
+***[[Low Altitude Assault Transport/infantry]] {{1st}}
+****[[Low Altitude Assault Transport carrier]] {{1st}}
+**[[Hardcell-class interstellar transport|''Hardcell''-class interstellar transport]] {{1st}}
+**[[Lucrehulk-class LH-3210 cargo freighter|''Lucrehulk''-class LH-3210 cargo freighter]]
+***[[Lucrehulk-class Battleship|''Lucrehulk''-class Battleship]] {{Del}}
+**[[Shuttle]]
+***[[Sheathipede-class transport shuttle|''Sheathipede''-class transport shuttle]]
+****''[[Lapiz Cutter]]''
+***[[Taylander shuttle]] {{1st}}
+**[[Starfighter]]
+***[[Delta-7 Aethersprite-class light interceptor|Delta-7 ''Aethersprite''-class light interceptor]] {{1st}}
+****[[Obi-Wan Kenobi's Delta-7 Aethersprite-class light interceptor|Obi-Wan Kenobi's Delta-7 ''Aethersprite''-class light interceptor]] {{1st}}
+***[[N-1 starfighter]]
+***[[Nantex-class territorial defense starfighter|''Nantex''-class territorial defense starfighter]] {{1st}}
+**[[Yacht]]
+***[[H-type Nubian yacht]] {{1st}}
+****[[Padmé Amidala's H-type Nubian yacht (Malevolence)|Padmé Amidala's H-type Nubian yacht]] {{1st}}
+***[[Solar sailer]] {{1st}}
+****[[Punworcca 116-class interstellar sloop|''Punworcca 116''-class interstellar sloop]] {{1st}}
+*****[[Count Dooku's Punworcca 116-class interstellar sloop|Count Dooku's ''Punworcca 116''-class interstellar sloop]] {{1st}}
+*[[Walker]]
+**[[All-terrain vehicle]]
+***[[All Terrain Tactical Enforcer]] {{1st}}
+**[[Self-Propelled Heavy Artillery Turbolaser]] {{1st}}
+|l-vehicles=
+*[[AA-9 Coruscant freighter]]
+**[[Jendirian Valley/Legends|''Jendirian Valley'']]
+*[[Acclamator-class assault ship|''Acclamator''-class assault ship]]
+*[[Action VI transport]]
+*[[All Terrain Tactical Enforcer/Legends|All Terrain Tactical Enforcer]]
+*[[BC-714 luxury transport]]
+*[[Coruscant civilian transport]]
+*[[Delta-7 Aethersprite-class light interceptor/Legends|Delta-7 ''Aethersprite''-class light interceptor]]
+*[[Diamond-class cruiser/Legends|''Diamond''-class cruiser]]
+*[[EasyRide passenger airspeeder/Legends|EasyRide passenger airspeeder]]
+*[[Fantail-class destroyer/Legends|''Fantail''-class destroyer]]
+*[[Firespray-31-class patrol and attack craft/Legends|''Firespray-31''-class patrol and attack craft]]
+**''[[Slave I/Legends|Slave I]]''
+*[[Flitknot speeder]]
+*[[Gaba-18 airspeeder]]
+*[[Geonosian executioner cart]]
+*[[Giga-class transport/Legends|''Giga''-class transport]]
+**''[[Ultimo Vista/Legends|Ultimo Vista]]''
+*[[Gondola Speeder]]
+*[[Gozanti Cruiser]]
+*[[Gunship/Legends|Gunship]]
+**[[Low Altitude Assault Transport/infantry/Legends|Low Altitude Assault Transport/infantry]]
+***[[Low Altitude Assault Transport/carrier]]
+*[[H-type Nubian yacht/Legends|H-type Nubian yacht]]
+*[[Hardcell-class interstellar transport/Legends|''Hardcell''-class interstellar transport]]
+*[[J-type diplomatic barge/Legends|J-type diplomatic barge]]
+*[[J12 twin-pod airspeeder]]
+*[[KE-8 Enforcer]]
+*[[Koro-2 all-environment exodrive airspeeder|Koro-2 Exodrive airspeeder]]
+{{!}}
+*[[Lucrehulk-class battleship|''Lucrehulk''-class battleship]]
+*[[Core ship/Legends|''Lucrehulk''-class Core Ship]]
+*[[M-31 airspeeder|M31-Speeder]]
+*[[Magnaline 3000 airbus]]
+*[[N-1 starfighter/Legends|N-1 starfighter]]
+*[[Naboo speeder bus]]
+*[[Nantex-class territorial defense starfighter/Legends|''Nantex''-class territorial defense starfighter]]
+*[[Observation Ship/Legends|Observation Ship]]
+*[[Podracer/Legends|Podracer]] {{C|On a holoscreen}}
+**[[Vulptereen 327/Legends|Vulptereen 327]] {{C|On a holoscreen}}
+*[[Power chair]]
+*[[Punworcca 116-class interstellar sloop/Legends|''Punworcca 116''-class interstellar sloop]]
+*[[Repulsorlift/Legends|Senatorial platform]]
+*[[Self-Propelled Heavy Artillery|Self-Propelled Heavy Artillery-Turbolaser]]
+*[[Sheathipede-class transport shuttle/Legends|''Sheathipede''-class transport shuttle]]
+**''[[Lapiz Cutter/Legends|Lapiz Cutter]]''
+*[[Taylander shuttle/Legends|Taylander shuttle]]
+*[[V-35 Courier/Legends|V-35 Courier]]
+*[[XJ-6 airspeeder/Legends|XJ-6 airspeeder]]
+*[[YT-1300 light freighter/Legends|YT-1300 light freighter]]
+*[[Zephyr-G swoop/Legends|Zephyr-G swoop]]
+|c-technology=
+*[[Antenna]]
+**[[Integrated Comms Antenna]]
+*[[Armor]]
+**[[Clone trooper armor]] {{1st}}
+***[[Phase I clone trooper armor]] {{1st}}
+**[[Helmet]]
+***[[Even-class training helmet]] {{1st}}
+***[[Jedi youngling helmet]] {{1st}}
+***[[Odd-class training helmet]] {{1st}}
+**[[Mandalorian armor]]
+***[[Boba Fett's armor|Jango Fett's armor]] {{Ret}}
+***[[Macrobinocular viewplate]]
+***[[Mandalorian vambrace]]
+***[[Rangefinder]]
+*[[Behavioral modification biochip]] {{1stm}} {{Imo}}
+*[[Blaster]]
+**[[Blaster carbine]]
+***[[DC-15A blaster carbine]] {{1st}}
+**[[Blaster pistol]]
+***[[Hold-out blaster]]
+****[[ELG-3A blaster pistol]]
+***[[KYD-21 blaster pistol]] {{1st}}
+***[[WESTAR-34 blaster pistol]] {{1st}}
+**[[Blaster rifle]]
+***[[DC-15A blaster rifle]] {{1st}}
+***[[E-5 blaster rifle]]
+**[[Sonic blaster]] {{1st}}
+***[[Geonosian sonic blaster]] {{1st}}
+*[[Comlink booster pack]]
+*[[Containment field]] {{1st}}
+*[[Deflector shield]]
+*[[Electrostatic repeller]]
+*[[Force pike]]
+*[[Fork]]
+*[[Forward command center]] {{1st}}
+*[[Growth jar]] {{1st}}
+*[[Headset]]
+*[[Holo-map]]
+*[[Holobook]] {{1st}}
+*[[Holocam]]
+*[[Homing beacon]] {{1st}}
+*[[Hyperspace transport ring]] {{1st}}
+**[[Syliure-31 hyperspace docking ring]] {{1st}}
+*[[Ion cannon]]
+*[[Jetpack]]
+**[[JT-12 jetpack]] {{1st}}
+**[[Z-6 jetpack]]
+*[[Kamino saberdart]] {{1st}}
+*[[Lightsaber]]
+**[[Curved-hilt lightsaber]] {{1st}}
+***[[Dooku's lightsaber]] {{1st}}
+**[[Shoto lightsaber]] {{1st}}
+***[[Yoda's lightsaber]] {{1st}}
+**[[Aayla Secura's lightsaber]] {{1st}}
+**[[Agen Kolar's lightsaber]] {{1st}}
+**[[Anakin Skywalker's first lightsaber]] {{1st}}
+**[[Barriss Offee's lightsaber]] {{1st}}
+**[[Bultar Swan's lightsaber]] {{1st}}
+**[[Coleman Trebor's lightsaber]] {{1st}}
+**[[Jocasta Nu's lightsaber]] {{1st}}
+**[[Ki-Adi-Mundi's lightsaber]]
+**[[Kit Fisto's lightsaber]] {{1st}}
+**[[Luminara Unduli's lightsaber]] {{1st}}
+**[[Mace Windu's lightsaber]] {{1st}}
+**[[Obi-Wan Kenobi's second lightsaber]] {{1st}}
+**[[Pablo-Jill's lightsaber]] {{1st}}
+**[[Shaak Ti's lightsaber]] {{1st}}
+**[[Stass Allie's lightsaber]] {{1st}}
+*[[LR1K sonic cannon]] {{1st}}
+*[[Mass-driver cannon]] {{1st}}
+*[[Melee weapon]]
+**[[Gaderffii stick]]
+*[[Missile]]
+**[[Guided missile]] {{1st}}
+*[[Moisture vaporator]]
+**[[GX-8 water vaporator]]
+*[[Polearm]]
+**[[Pike]]
+*[[Power coupling]]
+{{!}}
+*[[Pressure suit]] {{1st}}
+*[[Projectile launcher]] {{1st}}
+*[[Reactor]]
+*[[Repulsorlift chair]] {{1st}}
+*[[Repulsorpod]]
+*[[Retractable wrist blades]] {{1st}}
+*[[Rocket booster]] {{1st}}
+*[[Scomp link]]
+*[[Slugthrower]]
+**[[Slugthrower rifle]]
+***[[KiSteer 1284 projectile rifle/Legends|KiSteer 1284 projectile rifle]] {{1st}}
+*[[Stuncuffs]]
+*[[Superlaser]] {{Hologram}}
+*[[Turbolaser]]
+*[[Turret]]
+*[[Vibroblade]] {{1st}}
+*[[Viewscreen]]
+*[[Whipcord thrower]]
+|l-technology=
+*[[Cloning/Legends|Cloning]]
+*[[Cloning tank]]
+*[[Comlink/Legends|Comlink]]
+**[[Secure-A3 comlink]]
+*[[Containment field/Legends|Containment field]]
+*[[DC-15A blaster rifle/Legends|DC-15A blaster rifle]]
+*[[DC-15S]]
+*[[ELG-3A blaster pistol/Legends|ELG-3A blaster pistol]]
+*[[Forward Command Center]]
+*[[Geonosian sonic blaster/Legends|Geonosian sonic blaster]] {{1st}}
+*[[Growth jar/Legends|Growth jar]] {{1st}}
+*[[Hologram/Legends|Hologram]]
+*[[Holograph]] {{Del}}
+*[[Holomap]]
+*[[Holoprojector/Legends|Holoprojector]]
+*[[JT-12 jetpack/Legends|JT-12 jetpack]]
+*[[Lightsaber/Legends|Lightsaber]]
+**[[Curved-hilt lightsaber/Legends|Curved-hilt lightsaber]]
+***[[Dooku's lightsaber/Legends|Dooku's lightsaber]]
+**[[Lightsaber shoto]]
+***[[Yoda's lightsaber/Legends|Yoda's lightsaber]]
+**[[Stass Allie's lightsaber/Legends|Stass Allie's lightsaber]] {{1st}}
+**[[Kit Fisto's lightsaber/Legends|Kit Fisto's lightsaber]] {{1st}}
+**[[Obi-Wan Kenobi's second lightsaber/Legends|Obi-Wan Kenobi's second lightsaber]]
+**[[Agen Kolar's lightsaber/Legends|Agen Kolar's lightsaber]] {{1st}}
+**[[Barriss Offee's lightsaber/Legends|Barriss Offee's lightsaber]]
+**[[Aayla Secura's lightsaber/Legends|Aayla Secura's lightsaber]] {{1st}}
+**[[Anakin Skywalker's first lightsaber/Legends|Anakin Skywalker's first lightsaber]]
+**[[Shaak Ti's lightsaber/Legends|Shaak Ti's lightsaber]] {{1st}}
+**[[Luminara Unduli's lightsaber/Legends|Luminara Unduli's lightsaber]]
+**[[Mace Windu's lightsaber/Legends|Mace Windu's lightsaber]]
+*[[LR1K sonic cannon/Legends|LR1K sonic cannon]] {{1st}}
+*[[Mechno-arm/Legends|Mechno-arm]]
+*[[Mk I Saberdart]]
+*[[MK II Paladin blaster rifle]]
+*[[S-5 heavy blaster pistol]]
+*[[Sonic blaster/Legends|Sonic blaster]]
+*[[WESTAR-34 blaster pistol/Legends|WESTAR-34 blaster pistol]]
+*[[Wristband blades]]
+*[[ZX miniature flame projector/Legends|ZX miniature flame projector]]
+*[[Z-6 jetpack/Legends|Z-6 jetpack]]
+|c-miscellanea=
+*[[Alcohol]]
+**[[Ale]]
+***[[Trandoshan ale]] {{1st}} {{Ret}}
+**[[Corellian red]] {{1st}} {{Ret}}
+**[[Liquor]] {{1st}} {{Ret}}
+***[[Bitterfruit liquor]] {{1st}} {{Ret}}
+**[[Merenzane Gold]] {{1st}} {{Ret}}
+**[[Port in a Storm]] {{1st}} {{Ret}}
+**[[Prow]] {{1st}} {{Ret}}
+**[[Starfire 'skee]] {{1st}} {{Ret}}
+**[[Wine]] {{Ret}}
+***[[Andoan wine]] {{1st}} {{Ret}}
+*[[Antennapalps]] {{1st}}
+*[[Beach]]
+*[[Binary star]]
+*[[Blanket]]
+*[[Bronzium]]
+*[[Brooch of Luristan]] {{1st}}
+*[[Burial]]
+*[[Cane]]
+**[[Gimer stick]]
+**[[Staff of Command]] {{1st}}
+*[[Changeling]]
+*[[Chromium]]
+*[[City]]
+**[[Ecumenopolis]]
+*[[Clone template]] {{1st}}
+*[[Clothing]]
+**[[Cloak]]
+***[[Serennian cloak]] {{1st}}
+***[[Umbaran shadow cloak]] {{1st}}
+**[[Mantle]]
+***[[Mantle of the supreme representative]]
+**[[Naboo crest headdress]] {{1st}}
+**[[Padmé Amidala's wardrobe]]
+***[[Beaded indigo gown]] {{1st}}
+***[[Black corset dress with metallic-effect skirt]] {{1st}}
+***[[Dark velvet dress with gold panel]] {{1st}}
+***[[Embroidered overcoat]] {{1st}}
+***[[Lakeside gown]] {{1st}}
+***[[Packing gown]] {{1st}}
+***[[Padmé Amidala's wedding dress]] {{1st}}
+***[[Starfighter uniform disguise]] {{1st}}
+***[[Summer meadow dress]] {{1st}}
+**[[Robe]]
+***[[Shimmerbird tongue robe]] {{1st}}
+**[[Poncho]]
+*[[Constitution of Naboo]] {{1stm}}
+*[[Dallorian alloy]] {{1st}}
+*[[Death Star plans]]
+*[[Democracy]]
+*[[Dream]] {{C|First appearance, with voice only}}
+*[[Emergency Powers Act]] {{1st}}
+*[[Entry dome]]
+*[[Death penalty|Execution]] {{Mo}}
+*[[Factory]] {{1st}}
+**[[Weapons factory]] {{1st}}
+*[[Flight helmet]]
+*[[Flight suit]]
+*[[Foodstuff]]
+**[[Cake]]
+***[[Sic-Six-layer cake]] {{1st}}
+**[[Fruit]]
+***[[Shuura]] {{1st}}
+**[[Sandwich]]
+***[[Shawda club sandwich]] {{1st}}
+**[[Vaporator mushroom]] {{Mo}}
+*[[Flower of life]] {{1st}}
+*[[The Force]]
+**[[Chosen One]]
+**[[Dark side of the Force]]
+**[[Disturbance in the Force]]
+**[[Force power]]
+***[[Force deflection]]
+***[[Force jump]]
+***[[Force lightning]]
+***[[Force vision]]
+***[[Mind trick]]
+***[[Taming beasts]] {{1st}}
+**[[Force spirit]] {{C|As a disembodied voice}}
+**[[Light side of the Force]]
+*[[Fuel]] {{Mo}}
+*[[Funeral]]
+*[[Galaxy]] {{1st}} {{C|Map only}}
+*[[Geonosian accord]] {{1st}}
+*[[Great Plan]]
+*[[Hand-to-hand combat]]
+*[[Heart]] {{1stm}}
+*[[Hotel]] {{1st}}
+*[[Hyperspace]]
+*[[Immortality]]
+*[[Jedi Code]] {{Imo}}
+*[[Jedi training]]
+*[[Jedi Trials]] {{Mo}}
+*[[Keldabe kiss/Canon|Keldabe kiss]] {{1st}}
+{{!}}
+*[[Language]]
+**[[Binary]]
+**[[Clawdite (language)|Clawdite]] {{1st}}
+**[[Fett Code]] {{1st}}
+**[[Galactic Basic Standard]]
+**[[Geonosian hive-mind]] {{1st}}
+**[[Gossam (language)|Gossam]] {{1st}}
+**[[Huttese]]
+**[[Rodian (language)|Rodian]]
+**[[Skakoverbal]] {{1st}}
+**[[Tusken]]
+*[[Lethorn]]
+*[[Library]] {{1st}}
+*[[Lightsaber combat]]
+**[[Form I]] {{1st}}
+**[[Jar'Kai]] {{1st}}
+*[[Maker]] {{Mo}}
+*[[Mandalorian (writing system)|Mandalorian]] {{1st}}
+*[[Manganese brass]] {{1st}}
+*[[Mark of Illumination|Mark of illumination]]
+*"[[May the Force be with you]]"
+*[[Meditation]]
+*[[Milk]]
+**[[Blue milk]]
+*[[Military Creation Act]] {{1stm}}
+*[[Mushroom]] {{1stm}}
+*[[Naval warfare]]
+*[[Neck ring]] {{1st}}
+*[[Ocean]]
+*[[Odupiendo-racing]] {{1st}}
+*Pajamas {{1st}}
+*[[Parsec]] {{Mo}}
+*[[Petranaki]] {{1st}}
+*[[Pillow]]
+*[[Planetary ring]] {{1st}}
+*[[Politics]]
+*[[Pourstone]]
+*[[Project Stardust]] {{1st}}
+*[[Realspace]]
+*[[Refugee]] {{1st}}
+*[[Regiment]] {{1st}}
+*[[Reproduction]] {{1st}} {{C|Appears as cloning}}
+*[[Republic crest]] {{1st}}
+*[[Separatist hex icon]] {{1st}}
+*[[Sleep]]
+*[[Slythmonger]] {{1st}}
+*[[Silver]]
+**[[Serenno silver]] {{1st}}
+*[[Spaceport]]
+*[[Spice]] {{1st}}
+*[[Star map]]
+*[[Suicide]] {{Mo}}
+*[[Surface warfare]]
+*[[Symbol of the Royal House of Naboo]]
+*[[Tech dome]]
+*[[Throne]]
+*[[Time]]
+**[[Standard minute]] {{Mo}}
+**[[Standard month]] {{1stm}}
+**[[Standard year]] {{Mo}}
+*[[Train station]] {{1st}}
+*[[Transparisteel]]
+*[[Uris silk]] {{1st}}
+*[[Waterworld]] {{1st}}
+*[[Wedding fabric]] {{1st}} {{Ret}}
+*[[Zeyd cloth]]
+|l-miscellanea=
+*[[Binary/Legends|Binary]]
+*[[Clothing/Legends|Clothing]]
+**[[Akul-tooth headdress]] {{1st}}
+**[[Amulet of Trust]]
+**[[Padmé Amidala's wardrobe/Legends|Padmé Amidala's wardrobe]]
+***[[Naboo crest/Legends|Naboo crest]]
+***[[Packing gown/Legends|Packing gown]]
+***[[Padmé Amidala's wedding dress/Legends|Padmé Amidala's wedding dress]]
+***[[Thousand Moons young matron's dress]]
+**[[Sybarion gown]] {{1st}}
+**[[Tactical pilot suit]] {{1st}}
+*[[Flower of life emblem/Legends|Flower of life emblem]]
+*[[Foodstuff/Legends|Foodstuff]]
+**[[Cake/Legends|Cake]]
+***[[Kowakian crumb cake]] {{1st}}
+**[[Fruit/Legends|Fruit]]
+***[[Shuura/Legends|Shuura]]
+*[[The Force/Legends|The Force]]
+**[[Dark side of the Force/Legends|Dark side of the Force]]
+***[[Force lightning/Legends|Force lightning]]
+**[[Tutaminis|Force Absorb]]
+**[[Force deflection/Legends|Force deflection]]
+**[[Telekinesis/Legends|Force Push]]
+**[[Force vision/Legends|Force vision]]
+**[[Force ghost]] (Voice only)
+*[[Fuel/Legends|Fuel]] {{Mo}}
+*[[Funeral/Legends|Funeral]]
+*[[Galactic Basic Standard/Legends|Galactic Basic Standard]]
+*[[Geonosian (language)|Geonosian]]
+*[[Gran (language)/Legends|Gran]] language
+*[[Gungan Basic]]
+*[[Heart/Legends|Heart]] {{Mo}}
+*[[Hyperspace/Legends|Hyperspace]]
+*[[Language/Legends|Language]]
+**[[Binary/Legends|Binary]]
+**[[Huttese/Legends|Huttese]]
+{{!}}
+*[[Lightsaber combat/Legends|Lightsaber combat]]
+**[[Cho mai/Legends|Cho mai]]
+**[[Cho mok/Legends|Cho mok]]
+**[[Cho sun/Legends|Cho sun]]
+**[[Dun Möch/Legends|Dun Möch]]
+**[[Form I/Legends|Form I: Shii-Cho]]
+**[[Form II/Legends|Form II: Makashi]]
+**[[Form III/Legends|Form III: Soresu]]
+**[[Form IV/Legends|Form IV: Ataru]]
+**[[Form V/Legends|Form V: Shien / Djem So]]
+**[[Form VI/Legends|Form VI: Niman]]
+**[[Form VII/Legends|Form VII: Juyo / Vaapad]]
+**[[Jar'Kai/Legends|Jar'Kai]]
+**[[Sai]]
+**[[Sai cha/Legends|Sai cha]]
+**[[Shiak]]
+**[[Shiim/Legends|Shiim]]
+**[[Sun djem/Legends|Sun djem]]
+*[[Realspace/Legends|Realspace]]
+*[[Skakoverbal/Legends|Skakoverbal]]
+*[[Transparisteel/Legends|Transparisteel]]
+*[[Vaporator mushroom/Legends|Vaporator mushroom]] {{1st}}
+*[[Visgura thread]]
+}}
+
+==Sources==
+{{Scroll box|
+{{Incomplete_list}}
+{{Mediacat|soundcat=Audio files from Star Wars: Episode II Attack of the Clones|imagecat=Images from Star Wars: Episode II Attack of the Clones}}
+*{{InsiderCite|1|Anthony Daniels: Remembering That Galaxy Far, Far Away}}
+*{{SWArchive|url=episode-ii/bts/production/news20000409.html|text=Digital Camera Use Finalized|archivedate=20050228175012}}
+*{{SWArchive|url=site/homingbeacon/61.html|text=Homing Beacon #61: Episode II Easter Eggs|archivedate=20021014235826}}
+*{{SWArchive|url=episode-ii/news/2002/08/news20020801.html|text=Episode II On DVD & VHS|archivedate=20020806195354}}
+*{{SWArchive|url=episode-ii/feature/20021008/index.html|text=Episode II: Unlocking the DVD|archivedate=20021008234223}}
+*{{SWArchive|url=episode-ii/feature/20021011/index.html|text=Making it BIG: Episode II -- The IMAX Experience.|archivedate=20021012060125}}
+*{{SW|url=news/swcvi-the-future-of-star-wars-in-3d|text=SWCVI: The Future of Star Wars in 3D}}
+*''[[Star Wars in 100 Scenes]]''
+*{{SW|url=news/the-star-wars-digital-movie-collection-coming-april-10|text=The ''Star Wars'' Digital Movie Collection Coming April 10}}
+*{{SWYoutube|CO2OLQ2kiq8|''Star Wars'': Episode II ''Attack of the Clones'' - Trailer|archivedate=20200605194123}}
+*{{SWYoutube|6DACKXQTaRQ|''Star Wars'': Episode II ''Attack of the Clones'' - Digital Movie Collection Trailer|archivedate=20181218042752}}
+*{{SW|url=series/clone-wars/destroy-malevolence-episode-guide|text="Destroy ''Malevolence''" Episode Guide &ndash; ''The Clone Wars''}}
+*{{SW|url=series/clone-wars/cargo-of-doom-episode-guide|text="Cargo of Doom" Episode Guide &ndash; ''The Clone Wars''}}
+*{{SW|url=news/much-to-learn-you-still-have-7-things-you-might-not-know-about-sullustans|text=Much to Learn You Still Have: 7 Things You Might Not Know About Sullustans|archivedate=20210422070953}}
+*{{SW|url=news/much-to-learn-you-still-have-7-things-you-might-not-know-about-jawas|text=Much to Learn You Still Have: 7 Things You Might Not Know About Jawas|20211029101753}}
+*''[[Star Wars: The Lightsaber Collection]]''
+*{{SW|url=series/the-mandalorian/chapter-3-guide|text="Chapter 3: The Sin" Episode Guide}}
+*{{SWKidsYoutube|qGo0Irzje3I|Yoda &#124; Star Wars Full Circle|archivedate=20210220031245if_}}
+*''[[Star Wars: The Skywalker Saga: The Official Collector's Edition]]''
+*{{SW|url=series/the-bad-batch/cut-and-run-episode-guide|text="Cut and Run" Episode Guide}}
+*{{SW|url=series/the-bad-batch/decommissioned-episode-guide|text="Decommissioned" Episode Guide}}
+*{{SW|url=series/the-bad-batch/bounty-lost-episode-guide|text="Bounty Lost" Episode Guide}}
+*{{SW|url=series/the-bad-batch/war-mantle-episode-guide|text=War-Mantle Episode Guide}}
+*{{SW|url=series/the-bad-batch/return-to-kamino-episode-guide|text="Return to Kamino" Episode Guide}}
+*{{SW|url=news/ships-of-the-galaxy-naboo-n-1-starfighter|text=Ships of the Galaxy: Naboo N-1 Starfighter|int=Ships of the Galaxy: Naboo N-1 Starfighter}}
+*{{SW|url=news/coolest-star-wars-nightspots|text=7 of the Coolest ''Star Wars'' Nightspots}}
+*{{SW|url=news/clones-at-20-r-a-salvatore-episode-ii|text=''Clones'' at 20 &#124; R.A. Salvatore on Adapting Episode II}}
+*{{SW|url=news/clones-at-20-star-wars-attack-of-the-clones-quotes|text=''Clones'' at 20 &#124; 20 Unforgettable Quotes from ''Star Wars: Attack of the Clones''}}
+*{{SW|url=news/clones-at-20-roel-robles-count-dooku-lightsaber|text=''Clones'' at 20 &#124; Concept Artist Roel Robles on the Design Origins of Count Dooku's Unique Lightsaber Hilt}}
+*{{SW|url=news/clones-at-20-rob-coleman-interview|text=''Clones'' at 20 &#124; Rob Coleman on Bringing Yoda, Dexter Jettster, and More to Digital Life|archivedate=20220516131119}}
+*{{SW|url=news/clones-at-20-trisha-biggar-interview|text=''Clones'' at 20 &#124; Costume Designer Trisha Biggar Reflects on Her Most Challenging Film|archivedate=20220516140720}}
+*{{SW|url=news/clones-at-20-hayden-christensen-interview|text=''Clones'' at 20 &#124; Hayden Christensen Looks Back at His First Steps as Anakin Skywalker}}
+*{{SW|url=news/star-wars-pride-month-covers|text=Marvel and Lucasfilm Celebrate Pride Month with Special ''Star Wars'' Covers}} {{Imo}}
+*{{SW|url=news/obi-wan-kenobi-everything-you-need-to-know|text=Obi-101: Everything You Need to Know About Obi-Wan Kenobi}}
+*{{SW|url=news/10-obi-wan-kenobi-moments|text=10 of Obi-Wan Kenobi's Greatest Moments (So Far)}}
+*{{SW|url=news/obi-wan-wednesdays-week-1|text=Obi-Wan Wednesdays: Reva Figure Revealed and More!}}
+*{{SWYoutube|YQ8iIp33_EY|Ewan McGregor and Hayden Christensen Take The Stage At SWCA 2022 &#124; Star Wars Celebration Live!|archivedate=20220527012839}}
+*{{SWYoutube|swclPDFHKNk|Star Wars Celebration LIVE! - DAY 1|archivedate=20220526203352}}
+*{{SWYoutube|jqcv2RJ83nE|Star Wars Celebration LIVE! - DAY 2|archivedate=20220527162850}}
+*{{SW|url=news/swca-2022-attack-of-the-chords-panel|text=SWCA 2022: 4 Things We Learned From the Attack of the Chords Panel}}
+*{{SW|url=news/swca-2022-lucasfilm-publishing-behind-the-page-panel|text=SWCA 2022: 7 Things We Learned from the Lucasfilm Publishing Behind the Page Panel}}
+*{{SWYoutube|cN3xxVrOxbM|Star Wars: Attack of the Clones 20th Anniversary Celebration &#124; Star Wars Celebration Anaheim 2022|archivedate=20220528224831}}
+*{{SW|url=news/swca-2022-attack-of-the-clones-20-panel|text=SWCA 2022: 8 Things We Learned from the ''Star Wars: Attack of the Clones'' 20th Anniversary Panel}}
+*{{SW|url=news/swca-2022-cosplay-competition|text=SWCA 2022: Meet Marietta Ivanova, the Cosplay Competition Winner Who Brought a Geonosian to Life}}
+*{{SW|url=news/swca-2022-star-wars-hunters-panel|text=SWCA 2022: 7 Things We Learned from the ''Star Wars: Hunters'' Panel}}
+*{{SWYoutube|9JAFxVEiLAU|Obi-Wan Kenobi Leaves Tatooine, Deborah Chow and Moses Ingram Talk Reva, and More!|archivedate=20220609191948}}
+*{{SW|url=news/inside-the-lucasfilm-archive-obi-wan-kenobi-props-1|text=Inside the Lucasfilm Archive: An Elegant Weapon and Other Jedi Artifacts from the ''Obi-Wan Kenobi'' Limited Series}}
+*{{SW|url=news/charles-soule-star-wars-interview|text=As His 100th ''Star Wars'' Comic Hits Shelves, Charles Soule Looks Back}}
+*{{SW|url=series/obi-wan-kenobi/part-ii-guide|text=Obi-Wan Kenobi Part II Episode Guide}}
+*{{SW|url=series/obi-wan-kenobi/part-v-guide|text=Obi-Wan Kenobi Part V Episode Guide}}
+*{{SW|url=news/from-the-pages-of-star-wars-insider-warren-fu-interview|text=From the Pages of ''Star Wars Insider'': Artist Warren Fu on His First Steps to Envisaging General Grievous}}
+*{{SW|url=news/marvel-star-wars-attack-of-the-clones-variant-covers|text=Marvel Celebrates 20 Years of ''Star Wars: Attack of the Clones'' With Variant Cover Series &ndash; Exclusive Reveal}}
+*{{SW|url=news/marvel-star-wars-comics-december-2022|text=Yoda Goes to a Strange World and More from Marvel's December 2022 ''Star Wars'' Comics &ndash; Exclusive}}
+*{{SW|url=series/andor/andor-season-1-episode-4-episode-guide|text=''Andor'' &#124; Season 1, Episode 4 &ndash; Episode Guide}}
+*{{SW|url=news/saga-chronicles-star-wars-attack-of-the-clones-mike-blanchard|text=Saga Chronicles: Lucasfilm's Mike Blanchard on the Digital Innovation Behind ''Star Wars: Attack of the Clones''}}
+*{{SW|url=series/andor/andor-season-1-episode-10-episode-guide|text=''Andor'' &#124; "Episode 10, One Way Out" Episode Guide}}}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+*{{SW|url=films/star-wars-episode-ii-attack-of-the-clones|text=''Star Wars'': Episode II ''Attack of the Clones''}}
+*{{Lucasfilm|url=productions/episode-ii|text=Star Wars: Episode II Attack of the Clones|archivedate=20180330041654}}
+*{{Imdb|url=title/tt0121765|title={{PAGENAME}}}}
+*{{WP|Star Wars: Episode II – Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones''}}
+*[http://www.theasc.com/magazine/sep02/exploring/index.html American Cinematographer: George Lucas Interview] - Discusses the role of ''Episode II'' in digital filmmaking {{C|[https://web.archive.org/web/20180104061556/https://theasc.com/magazine/sep02/exploring/index.html Backup link]}}
+*[http://www.culture.com/articles/854/star-wars-episode-ii-attack-of-the-clones-production-notes.phtml ''Star Wars Episode II: Attack of the Clones'' Official Production Notes]
+
+{{Episode_II_multimedia}}
+{{Star_Wars}}
+
+{{Interlang
+|bg=Междузвездни войни: Епизод II – Клонираните атакуват
+|ca=L'Atac dels Clons
+|cs=Star Wars: Epizoda II Klony útočí
+|de=Episode II – Angriff der Klonkrieger#kanon
+|el=Star Wars: Επεισόδιο 2 - Η Επίθεση των Κλώνων
+|es=Star Wars: Episodio II El Ataque de los Clones
+|fa=قسمت دوم: حمله‌ی کلون‌ها
+|fi=Tähtien sota: Episodi II – Kloonien hyökkäys
+|fr=Star Wars épisode II : L'Attaque des Clones
+|ga=Eipeasóid II: Attack of the Clones
+|hu=Csillagok háborúja II: A klónok támadása
+|is=Episode II: Attack of the Clones
+|it=Star Wars: Episodio II L'attacco dei cloni
+|ja=スター・ウォーズ エピソード2/クローンの攻撃
+|ka=ვარსკვლავური ომები, ეპიზოდი II: კლონთა შეტევა
+|ko=스타워즈: 에피소드 2 클론의 습격
+|nl=Star Wars Episode II: Attack of the Clones
+|no=Star Wars Episode II: Klonene angriper
+|pl=Atak klonów
+|pt=Star Wars Episódio II: Ataque dos Clones
+|ru=Звёздные войны. Эпизод II: Атака клонов
+|sl=Napad klonov
+|sv=Star Wars Episod II: Klonerna Anfaller
+|tr=Star Wars: Bölüm II Klonların Saldırısı
+|uk=Зоряні війни. Епізод II: Атака клонів
+|zh=星球大战II：克隆人进攻
+}}
+
+[[Category:Saga films|2]]
+[[Category:2002 releases]]

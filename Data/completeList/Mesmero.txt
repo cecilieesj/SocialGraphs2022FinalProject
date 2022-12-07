@@ -1,0 +1,48 @@
+{{Infobox character
+|name= Mesmero
+|image=Mesmero_USM.png
+|films=
+|shows=''[[Ultimate Spider-Man]]''
+|games=
+|rides=
+|actor=
+|actress= 
+|voice= [[Dwight Schultz]]
+|animator=
+|model=
+|designer=
+|inspiration=The Marvel Comics character of the same name
+|awards=
+|fullname=Vincent (last name unrevealed)
+|alias=Mesmero
+|personality=
+|appearance=
+|birthday=
+|occupation=
+|alliance=
+|goal=
+|home=
+|family=
+|pets=
+|friends=
+|minions=
+|enemies=[[Spider-Man]]<br>[[Wolverine]]<br>[[Hulk]]<br>[[Thing]]
+|likes=
+|dislikes=
+|powers=Hypnosis
+|weapons=
+|fate=
+|quote=}}'''Mesmero''' (first name '''Vincent''') is a mutant super-villain with the power of hypnosis. He's an enemy of the [[Wolverine]] and [[Spider-Man]].
+
+==History==
+===[[Ultimate Spider-Man]]===
+After [[Spider-Man]] and [[Wolverine]] stop Mesmero's hypnotized citizens and send him to jail, he uses his powers to make the heroes switch bodies. After a difficult battle against [[Sabretooth]], Spider-Man, and Wolverine (in each other's body) go to Mesmero's cell and treathen him into changing them back.
+
+{{USMWiki}}
+[[Category:Marvel Comics characters]]
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Ultimate Spider-Man characters]]
+[[Category:Mutants]]
+[[Category:Animated characters]]
+[[Category:Villains]]

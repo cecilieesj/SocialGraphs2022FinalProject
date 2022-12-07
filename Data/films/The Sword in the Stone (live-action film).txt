@@ -1,0 +1,28 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox Film
+|name = The Sword in the Stone
+|director = Juan Carlos Fresnadillo
+|producer = Brigham Taylor
+|writer = Bryan Cogman
+|cinematography = Enrique Chediak
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Disney+]]
+|release = 
+|language = English}}
+'''''The Sword in the Stone''''' is an upcoming, live-action, musical remake of the [[The Sword in the Stone|1963 animated film of the same name]], based on the book by T. H. White. ''Game of Thrones'' writer, Bryan Cogman is penning the script, with Brigham Taylor as producer.<ref>[http://collider.com/sword-in-the-stone-remake-coming-from-disney-game-of-thrones-writer/ Disney Developing SWORD IN THE STONE Remake with GAME OF THRONES Writer]</ref>
+
+On [[February 8]], [[2018]], it was confirmed that the film will not be released in theaters, but on [[Disney+]].<ref>[https://screenrant.com/disney-streaming-original-movies-sword-stone-remake/ Disney Streaming Original Movies include Sword in the Stone] </ref>
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{The Sword in the Stone}}
+{{Disney+}}
+{{DEFAULTSORT:Sword in the Stone}}
+[[Category:The Sword in the Stone]]
+[[Category:Live-action films]]
+[[Category:Remakes]]
+[[Category:Films based on books]]
+[[Category:Disney films]]
+[[Category:Upcoming]]

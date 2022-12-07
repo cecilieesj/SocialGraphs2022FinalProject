@@ -1,0 +1,40 @@
+{{Infobox film
+|image = Comets - Time Capsules of the Solar System.png
+|name = Comets: Time Capsules of the Solar System
+|director = Charles L. Finance
+|producer = 
+|writer = Charles L. Finance
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = Media Four Productions <br /> for <br /> Walt Disney Telecommunications and Non-Theatrical Company
+|distributor = Walt Disney Educational Media Company
+|release = September 1981<ref>{{cite web|url= https://d23.com/a-to-z/comets-time-capsules-of-the-solar-system-film/ |title= Comets: Time Capsules of the Solar System (film) |publisher= [[D23]] }}</ref>
+|time = 11 minutes
+|language = English
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = tt1600488
+|tv_com_id = }}
+'''''Comets: Time Capsules of the Solar System''''' is an educational film about comets released by Walt Disney Educational Media Company in 1981.
+
+==Television==
+*''[[Ludwig's Think Tank]]''
+
+==Videos==
+<gallery position="center" spacing="small" widths="400" captionalign="center">
+Comets- Time Capsules of the Solar System (1981)-2
+</gallery>
+==References==
+{{Reflist}}
+{{DISPLAYTITLE:''Comets: Time Capsules of the Solar System''}}
+[[Category:Documentaries]]
+[[Category:Educational films]]
+[[Category:Films]]
+[[Category:Unrated films]]
+[[Category:1981 films]]

@@ -1,0 +1,24 @@
+{{Infobox film
+|image = Building_tire.jpg
+|imagewidth = 250px
+|name = The Building of a Tire
+|director = 
+|producer = [[Walt Disney]]
+|writer = 
+|studio = [[Walt Disney Productions]]
+|distributor = Firestone Tire and Rubber Company
+|release = [[February 14]], [[1946]]
+|language = English
+}}
+'''''The Building of a Tire''''' is a [[1946]] Disney animated short film. It was sponsored by the Firestone Tire and Rubber Company.
+
+==Gallery==
+<gallery>
+1946-tire-2.jpg
+1946-tire-3.jpg
+</gallery>
+
+{{EpisodeStub}}
+{{DEFAULTSORT:Building of a Tire, The}}
+[[Category:1946 shorts]]
+[[Category:Animated shorts]]

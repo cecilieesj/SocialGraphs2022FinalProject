@@ -1,0 +1,90 @@
+{{Species Infobox
+|image = Spatter image.jpg
+|name = Blotlings
+|games = ''[[Epic Mickey]]''<br>''[[Epic Mickey 2: The Power of Two]]''<br>''[[Epic Mickey: Power of Illusion]]''
+|behaviour = Aggressive, passive, relentless, harmless (if paint is absorbed)
+|appearance = Slime-like creatures made of paint and thinner
+|occupation = Soldiers of the [[The Blot]] (formerly)
+|alignment = Bad/Good
+|home = [[The Wasteland]]
+|members = {{Scroll|[[The Blot]] (progenitor)<br>Seers<br>Spatters<br>Dropwings<br>Sweepers<br>Spladooshes<br>Slobbers
+*Deloris
+One-Eyed Spatters (inside [[Blotworx]])<br>Bloticles<br>[[Shadow Blot]]}}
+|abilities = Absorption of paint and thinner; abilities vary
+}}'''The Blotlings''' are the essential backbone of the [[The Blot|Blot]] army. Like the [[The Blot|Blot]], they are creations of [[paint]] and [[thinner]] and are vulnerable to the two substance.
+
+==Background==
+Blotlings come in different varieties, and there are also different varieties within those. Although all of the Blotlings serve the Blot, some are the direct spawn of him, while others are former inhabitants of the [[The Wasteland|Wasteland]] turned into blottlings. They can be found everywhere in the Wasteland, except in [[Mean Street]], probably because this sector is under the protection of Oswald. They're very aggressive creatures, the fact is that they attack anything that is not a blottling. Although the Blotlings are mostly a mindless collective, some Blotlings like the Sweepers and [[Shadow Blot]] are more intelligent than others.
+
+==Appearances==
+===''[[Epic Mickey]]''===
+The Blotlings are one of the main types of enemies encountered in the game. [[Mickey Mouse]] has the choice of either destroying a Blotling with thinner or turning it ally with the player using paint. Mickey can also use [[Bunny Children]] to devour the blotlings for him. After the Blot is freed from its prison, it spawns more Blotlings to attack, including a special type called Bloticles to suck the paint from all over Wasteland. Once the Blot is destroyed, the Blotling threat ceases.
+
+===''[[Epic Mickey 2: The Power of Two]]''===
+In ''[[Epic Mickey 2: The Power of Two]]'', the new Blotling, the Dropwing, replaces the Seer from the first game. Also, one-eyed Spatters appear in the game, controlling [[Blotworx]] from the inside. However, neither the Blot nor the Bloticles reappear. Despite Wasteland being restored in the first game, it appears that evil Blotlings remain. Apparently the Paint rain didn't turn them all good or they somehow got turned back to their evil way of living, as some of the originals are found across the Wasteland and at [[Disney Gulch]]. Apart from that there is no difference on how to fight them, you can even use [[Oswald the Lucky Rabbit|Oswald]]'s electricity to stun them for a while.
+
+==Trivia==
+*The Sweeper Blotlings largely resemble the [[Magic Brooms|Brooms]] from ''[[Fantasia]]''.
+*Apparently, the remaining Blotlings in the end of ''[[Epic Mickey]]'' were not affected by raining paint at the end of the game and wandered Wasteland until they found homes in [[Blot Alley]] and [[Disney Gulch]].
+*Some Blotlings will not remain an ally if they lose paint. An example of this is when a befriended Spladoosh can revert to an enemy again after two hits from a miss-target from a Beetleworx or a large blotling like a Slobber.
+*If you use Thinner on a Blotling, it will melt into the ground. The way they melt, if reversed, may look like the way Spatters had spawned in earlier concept art by appearing as a bubbling dark pile then jumping out of the ground.
+*A reformed Blotling, although it will not directly target Mickey, can hit Mickey, which will cause damage if he gets in the way of an enemy Blotling that has been targeted by the reformed Blotling.
+*Blotlings with red eyes are much more dangerous than green-eyed Blotlings. They first appear after you come back from the Jungle and return to [[Tortooga]] (if you didn't get Starkey to leave the Jungle: by not defeating all the Beetleworx and Spladooshes). All Red-eyed Blotlings are also in the final levels (including "Inside the Blot").
+
+==Gallery==
+===Promotional images===
+====Renders====
+<gallery widths="124" position="center">
+Spatter image.jpg|Spatters
+Spladooshes_1.jpg|Spladooshes
+Sweepers_1.jpg|Sweepers
+Slobber_1.jpg|Slobbers
+Epic Mickey Dropwing.jpg|Dropwings
+Epic Mickey Pirate Spatter.jpg|A Pirate Spatter in Ventureland
+Epic Mickey Lonesome Manor Spatter.jpg|A Spatter from Lonesome Manor
+Epic Mickey Harlequin Blotling.jpg|A Harlequin Blotling in Dark Beauty Castle
+</gallery>
+===Concept art===
+<gallery widths="124" position="center">
+em-boss-fight1.jpg|Concept of Mickey fighting a Slobber
+Go_blob_by_hamilton74-d5it7vj.jpg|Concept art for the Spladoosh
+</gallery>
+===Screenshots===
+<gallery widths="124" position="center">
+382px-Mickey trying to paint a Dropling.jpg|Mickey encountering a Dropling in ''Epic Mickey 2''.
+spatterepic-mickey-power-of-illusion.jpg|A Spatter in [[Epic Mickey: Power of Illusion]]
+Seers.jpg|The Seers.
+Spladoosh_epic_mickey.jpg
+1rst_4Splashdooshes.jpg
+Sweepers_2.png|A befriended Sweeper
+Sweeper_epic_mickey.jpg|Mickey and a Sweeper near an anchor near Skull Island
+Slobber_MiniBoss.jpg|The first Slobber that you encounter
+EMP_SlobberInhale.jpg|That same Slobber trying to inhale Mickey
+Deloris.png|Deloris
+epicmickeyslobber.jpg
+Epicmickeyslobber01.jpg
+Epicmickeyslobber02.jpg
+disney-epic-mickey-2-the-power-of-two-fort-wasteland-screenshots.jpg
+Slobber ice cream share.png
+</gallery>
+===Miscellaneous===
+<gallery position="center">
+Seer_pin.jpg|Seer pin from ''Epic Mickey 2: The Power of Two''.
+images- sweeper3.jpeg
+Epic Mickey Graphic Novel - Spatter.PNG|A Spatter in the graphic novel
+</gallery>
+
+{{Epic Mickey}}
+[[Category:Characters introduced in video games]]
+[[Category:Epic Mickey characters]]
+[[Category:Henchmen]]
+[[Category:Characters]]
+[[Category:Villains]]
+[[Category:Monsters]]
+[[Category:Disney characters]]
+[[Category:Character groups]]
+[[Category:Armies]]
+
+[[Category:Disney Interactive Studios characters]]
+[[Category:Creatures]]
+[[Category:Neutral characters]]

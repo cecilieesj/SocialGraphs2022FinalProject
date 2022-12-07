@@ -1,0 +1,54 @@
+{{Infobox character
+|image = AMatW - Sonny.png
+|films = ''[[Ant-Man and the Wasp]]''<br>''[[Armor Wars]]'' (upcoming)
+|actor = [[Walton Goggins]]
+|alias=Little Weasel<br>Southern Gentleman
+|personality = Ruthless, greedy, opportunistic, charismatic, treacherous, sophisticated, psychopathic, cowardly, despicable, rude, unfriendly
+|appearance = Hazel eyes, brown hair
+|occupation = Weapons dealer<br>Gangster
+|alignment = Bad
+|affiliations = Black Market
+|goal = To get his hands on Pym's lab and sell it for profit (failed)
+|minions = Uzman, Anitolov, Knox, Stoltz
+|enemies = [[Scott Lang]], [[Hope van Dyne]], [[Hank Pym]], [[Luis]], [[Ghost]], [[Dave (Marvel)|Dave]], [[Kurt|Kurt]], [[Ghost]]
+|likes = Money, evil, injustice, stealing technology, deals
+|dislikes = Defeat, wasting time, getting arrested, heroism, justice, Ghost
+|weapons = Guns
+|fate = Get arrested by the Police and sent to prison with his henchmen
+|quote = I want that lab, boys... whatever it takes!!|fullname = Sonny Burch|status=Arrested}}
+{{Quote|You think that I don't know what you've been building? With all of this? Quantum technology. And you can forget nano-tech. Forget A.I. Forget cryptocurrency. Quantum energy is the future. It's the next gold rush. I want in.|Sonny Burch ordering his men to steal Pym's lab.}}
+
+'''Sonny Burch''' is a [[Marvel Comics]] character who is the secondary antagonist of the [[2018]] [[Marvel Studios]] film, ''[[Ant-Man and the Wasp]]''. He is an infamous black-market dealer with many dealers with many connections who desires to steal technology from Hank Pym in order to bring profits to himself and his gang.
+
+Sonny Burch was created by Robin D. Laws, John Jackson Miller and Jorge Lucas. 
+
+==Background==
+===Personality===
+As an infamous crime lord, Burch has proven himself to be quite greedy and opportunistic in nature; upon hearing of Pym's technology that can be quite beneficial for his own purposes, he decided to steal it; even double-crossing Pym's daughter's Hope by arranging both her and her father to be arrested by the FBI. However, his greed and stubbornness proved to be his downfall as his obsession towards Pym's lab has allowed both Hope and [[Scott Lang]] to defeat him and his men before having them arrested for their crimes.
+
+==Role in the film==
+Burch first appears when [[Hope van Dyne]], under the alias "Susan", arrives at his restaurant in order to buy a part for her father [[Hank Pym]]. As it turns out, Hank intends to use the part for his laboratory (which can be miniaturized) to open up a portal to the quantum realm in order to save Hope's mother [[Janet van Dyne|Janet]] (who is trapped inside the Quantum Realm). However, Burch reveals that, because of his FBI contact Stoltz, he knows Hope has been lying about her identity and how she and her father have been building quantum tech. He then offers to strike a deal with Hope so that he can profit from selling quantum energy, although Hope refuses. In response, Burch refuses to give her the part yet keeps the money anyway as compensation for him not revealing their true identities. While attempting to leave the restaurant, and also ordering his minions to find out who Hope and her father are working with (reasoning that if they wouldn't sell to him they must be dealing with someone else), Hope dons her Wasp suit and easily defeats Burch's henchmen while taking the part for herself, outraging him. However, Ghost then appears and steals both the part and Hank Pym's miniature lab from Wasp, Pym, and Ant-Man. Witnessing this, Burch angrily orders his men to track down the lab and kill anyone who stands in their way.
+
+Burch eventually tracks down Scott's business partners [[Luis]], [[Dave (Marvel)|Dave]], and [[Kurt|Kurt]], who reveals that the trio is currently in the house of [[Bill Foster]] and [[Ghost]]. With this information, Burch informs his contact Stoltz at the FBI. However, Luis warns Scott, who rushes home due to his house arrest, which leaves Pym and Hope to be arrested and for their lab to be taken by Burch.
+
+However, Scott manages to help break Hope and Pym free from custody and retrieve the lab from Burch, much to the latter's anger. The trio then set the plot of using the lab to open up the portal to save Janet. However, Burch and his men arrive to stop this, forcing Scott and Hope fight back against them while Pym finally rescues Janet from the quantum energy. Janet then uses her extracted quantum power to cure Ava of her condition, and Burch ends up being apprehended by Ant-Man and Wasp (with the help of Luis, Dave, and Kurt).
+
+== Gallery ==
+<gallery position="center">
+Sonny_Burch (comics).jpg|Sonny Burch in the original comics
+</gallery>
+
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Sonny Burch|Marvel Cinematic Universe Wiki}}
+
+{{Marvel Cinematic Universe}}
+[[Category:Villains]]
+[[Category:Ant-Man characters]]
+[[Category:Males]]
+[[Category:Live-action characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Thieves]]
+[[Category:Marvel Comics characters]]
+[[Category:Businesspeople]]
+[[Category:Mobsters]]
+[[Category:Acquired characters]]

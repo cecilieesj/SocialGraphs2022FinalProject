@@ -1,0 +1,104 @@
+{{MoveTagged|Frankenstein: Legend of Terror|20220216080206}}
+{{Marvel Database:Film Template
+| Image                   = Kyofu Densetsu- Kaiki! Furankenshutain.jpg
+| Aliases                 = 恐怖伝説 怪奇！フランケンシュタイン<br>Monster of Frankenstein<br>Frankenstein: Legend of Terror
+
+| Directors               = Yugo Serikawa; Toyoo Ashida
+| Producers               = Yoshiaki Koizumi
+| ComicWriters            = [[Gary Friedrich]]; [[Mike Ploog]]; [[Mary Shelley]]
+| StoryWriters            = 
+| ScreenplayWriters       = Akiyoshi Sakai
+| Musicians               = Kentaro Haneda
+| Cinematographers        = 
+| Editors                 = 
+| ProductionCompanies     = Toei Animation
+| Distributors            = TV Asahi
+| Running Time            = 98 Minutes
+| Rating                  = 
+| Language                = Japanese
+| Budget                  = 
+| Release Date            = July 27, 1981
+
+| IMDB ID                 = 0270954
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only Dies|[[Frankenstein's Monster (Earth-TRN134)|Frankenstein's Monster]]}}
+'''Supporting Characters:'''
+* {{a|[[Lucky (Earth-TRN134)|Lucky]]}}
+'''Antagonists:'''
+* {{a|[[Zuckel (Earth-TRN134)|Zuckel]]}}
+'''Other Characters:'''
+* <br/>
+'''Locations:'''
+* {{Only|[[Earth-TRN134]]}}
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = '''JAPANESE CAST'''
+
+'''Hōsei Komatsu''' as Frankenstein's Monster
+
+'''Nachi Nozawa''' as Dr. Victor Frankenstein
+
+'''Ichirō Nagai''' as Grandfather
+
+'''Jouji Yanami''' as Inspector Belbo
+
+'''Kei Tomiyama''' as Skel
+
+'''Mami Koyama''' as Emily Frankenstein
+
+'''Minori Matsushima''' as Elizabeth Frankenstein
+
+'''Yoku Shioya''' as Phillip
+
+'''Banjou Ginga''' as Detective 1
+
+'''Kaneto Shiozawa''' as Detective 2
+
+'''Kei Tomiyama''' as Sukeru
+
+'''Keiko Yamamoto''' as Housekeeper
+
+'''Makoto Terada''' as Dean
+
+
+'''ENGLISH CAST'''
+
+'''Greg Finley''' as Victor Frankenstein
+
+'''Rebecca Forstadt''' as Emily
+
+'''Dan Woren''' as Detective 1 and Mob 2
+
+'''Joe Perry''' as Farmer Father, Mob 1, Sergeant and Wedding Guest 2
+
+'''Louise Chamis''' as Emma
+
+'''Michael Reynolds''' as Grandpa Frankenstein
+
+'''Richard Epcar''' as Franken
+
+'''Robert V. Barron''' as Detective 2, Mob 3, Wedding Guest 4 and Wedding Venue Worker
+
+'''Steve Kramer''' as Chief Insp. Belbeau
+
+'''Ted Lehmann''' as Chicken Farmer, Scientist and Wedding Guest 1
+
+'''Tom Wyner''' as Zuckel
+
+'''Tony Oliver''' as Phillip
+
+| Notes                   = '''''Kyōfu Densetsu Kaiki! Frankenstein''''' is a 1981 Japanese animated television film based on Mary Shelley's novel and the Marvel comic book ''[[Frankenstein Vol 1|Monster of Frankenstein]]''. The film was dubbed into English and released in the U.S in 1984. The dubbed version never had an on-screen title but was advertised as both ''Monster of Frankenstein'' and ''Frankenstein: Legend of Terror''.
+| Trivia                  = A lot of online versions are 88 minutes long. People think this is because the film has been edited, but it's purely shorter due to the adverts being edited out.
+| Links                   = * [[Marvel Films#Foreign Films|Marvel Films]]
+}}
+[[Category:Toei]]

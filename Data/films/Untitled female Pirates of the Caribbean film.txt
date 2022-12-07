@@ -1,0 +1,35 @@
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Untitled female Pirates of the Caribbean film
+|director = 
+|writer = Christina Hodson
+|starring = Margot Robbie
+|producer = [[Jerry Bruckheimer]]<br>Tom Ackerley<br>Margot Robbie
+|studio = [[Walt Disney Pictures]]<br>Jerry Bruckheimer Films<br>LuckyChap Entertainment
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|cinematography = 
+|music = 
+|editor = 
+|time = 
+|language = English
+|release = 
+|budget = 
+|website = }}
+An '''Untitled female ''Pirates of the Caribbean'' film''' is a cancelled American action fantasy film. It was intended as a spin-off of the [[Pirates of the Caribbean]] franchise.
+
+==Cast==
+*Margot Robbie
+
+==Production==
+On June 26, 2020, ''The Hollywood Reporter'' reported that a female centric [[Pirates of the Caribbean]] film was in development, with Margot Robbie in the lead role.<ref>[https://www.hollywoodreporter.com/movies/movie-news/margot-robbie-christina-hodson-team-new-pirates-caribbean-movie-1298722/ Margot Robbie, Christina Hodson Reteam for New ‘Pirates of the Caribbean’ Movie for Disney (Exclusive)]</ref>
+
+On November 14, 2022, in an interview with ''Vanity Fair'', Margot Robbie revealed that the film is no longer in development.<ref>[https://www.vanityfair.com/hollywood/2022/11/margot-robbie-cover-babylon-star-on-navigating-hollywood Margot Robbie Is Nobody’s Barbie: The Babylon Star on Navigating Hollywood]</ref>
+
+==References==
+{{Reflist}}
+{{Pirates of the Caribbean}}
+[[Category:Films]]
+[[Category:Pirates of the Caribbean]]
+[[Category:Movies based on attractions]]
+[[Category:Cancelled projects]]

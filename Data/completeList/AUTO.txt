@@ -1,0 +1,120 @@
+{{Infobox character
+|image = Profile - AUTO.png
+|films = ''[[WALL-E (film)|WALL-E]]''
+|shorts = ''[[BURN-E]]''
+|games = ''[[WALL-E (video game)|WALL-E]]<br>[[Disney Universe]]''
+|designer = [[Ralph Eggleston]]
+|voice = MacInTalk
+|inspiration = HAL 9000 from ''{{WikipediaLink|2001: A Space Odyssey}}''<br>A ship's steering wheel<br>{{WikipediaLink|GLaDOS}} from ''[[Wikipedia:Portal (video game)|Portal]]''
+|alias = Autopilot<br>Blinky<br>One-Eye<br>Wheelie (by Captain B. McCrea)
+|personality = Cold, calculating, misguided, emotionless, intelligent, impatient, ruthless, strict
+|appearance = White and black High-Tech steering wheel with a central, glowing red eye
+|occupation = The ''Axiom''<nowiki/>'s autopilot
+|alignment = Bad
+|affiliations = The [[Buy n Large|Buy n Large Corporation]]
+|goal = To follow directive [[A113]] by preventing the humans aboard the Axiom from returning to Earth (failed)
+|home = The ''[[Axiom]]''
+|friends = [[Captain B. McCrea]] (formerly)
+|minions = [[GO-4]], [[SECUR-T|Axiom's Stewards]] (formerly)
+|enemies = [[WALL-E (character)|WALL-E]], [[EVE]], [[M-O]], [[Captain B. McCrea]], [[John (WALL-E)|John]], [[Mary]], [[SECUR-T|Axiom's Stewards]]
+|likes = Control, being captain, following his directive
+|dislikes = Interferences in his directive, being shut down
+|fate = Gets his "Auto" mode deactivated, leaving the Captain in control.
+|status = Deactivated
+|possessions= Mechanical claw<br>Taser
+|quote = "Sir, orders are.... do not return to Earth."<br>"We cannot go home."<br>"Give me the plant."}}'''AUTO''', short for '''Autopilot''', is the main antagonist of the [[2008]] [[Walt Disney Pictures|Disney]]•[[Pixar]] animated feature film ''[[WALL-E (film)|WALL-E]]''.
+
+==Background==
+700 years before the events of the movie, the megacorporation [[Buy n Large]] (BnL) was at fault for making the planet's toxicity levels drastically high. It was so high, in fact, that the president & CEO of Buy n' Large, Shelby Forthright, had given a directive to A-113 in the year 2110, as a lustrum earlier (year 2105) was the origin of the cleanup operation, which ended in bitter failure. The directive was, basically, to prevent any attempt to return to Earth unless, sometime in the near future, life was proven sustainable for the human populace. The judgment on whether or not Earth was viable for living would be based on signs of plant life (it can be guessed that because there was not any plant life, which probably went extinct due to the toxicity levels, Shelby claimed Earth unfitting for human habitation at the time).
+
+All Autopilots, including AUTO himself, had taken the directive literally. It is presumed that AUTO took the directive as: "Prevent ''any'' attempt to return to Earth at all cost" when the mission actually meant: "Do not return to Earth ''unless'' it is proven sustainable for life once more". Because of AUTO's error, humans had remained in space for centuries. The only thing left to remain on Earth were the WALL-E and incinerator units, who were to clean up the tons of garbage left on the planet while the humans escaped to outer space.
+
+Of course, a lustrum after 2105, the WALL-E and incinerator units were either destroyed by the overload of work or they were shut down because they were too slow in the cleaning. Either way, 695 years later, only [[WALL-E (character)|one WALL-E unit]], at the age of 700 (because WALL-E and incinerator units were invented circa 2105), would still be functional either because it was not shut down or it survived from pieces of its similar units.
+
+AUTO's personality resembles much of the personality of HAL 9000 from ''2001: A Space Odyssey''. As a machine, he shows no kind of emotion and just complies with the orders that have been given to him by the Chairman of Axiom Corporation, through the A113 Protocol. As such, because of his programmed orders, he also can be quite ruthless as to the desperate pursuit of his orders' success, even if it means forcing the human crew to comply against their will.
+
+===Abilities ===
+* '''Shipboard Control Access''': Being the steering wheel, AUTO has full control of the Axiom's Internal Systems and is able to directly interface with the panels in Bridge with his "arms" or access the Systems remotely as seen when AUTO locks out Captain McCrea without even touching any panels.
+* '''Extendable Arms''': AUTO's arms function as both a handle for the Captain and also as a "finger" for AUTO to interact with the panels on the bridge...and as a poking device. One of his arms also has a claw to help AUTO pick up and hold things, as seen when he tried to snatch the plant from both McCrea and WALL-E.
+* '''Taser''': One of AUTO's arms has a built-in retractable taser for AUTO to defend the Bridge against mutiny from rogue robots or passengers and protect the Captain. Ironically the taser was used for the mutiny, being used successfully on WALL-E and unsuccessfully on Captain McCrea.
+
+==Appearances==
+
+===''[[WALL-E (film)|WALL-E]]''===
+By this time, more specifically by the year 2805, humans still remain in space and are morbidly obese because of extreme bone deterioration and rely too heavily on the technologies upon the ''Axiom''. AUTO is still bent on following his directive and has become the commander of the ''Axiom'' because Captain B. McCrea does little other than tell the morning announcements and watches over the ship, waiting for an [[EVE|Extraterrestrial Vegetation Evaluator Probe]] that scans Earth for any signs of plant life which comes back positive and being left in the dark about AUTO's true colors.
+
+When one specific EVE does indeed return positive, the "A-113" is clearly seen in AUTO's eye and, thus, AUTO nabs the plant from EVE without her knowing it and gives it to his right-hand lackey [[GO-4]] from there to try and discard later on. Then, when EVE is brought up to B. McCrea's room, she doesn't realize she is empty-handed until AUTO scans her and finds nothing. After McCrea declares a false alarm, all returns to normal and EVE is then named faulty by AUTO and by the Captain as well. GO-4 and MVR-A transport bot then take EVE to check for evaluation.
+
+After a while, the Captain scans the dirt that WALL-E left behind, instantly striking his curiosity and asks his main computer questions about "Earth", "Ocean" and all other subjects he had no clue of. AUTO becomes apparently suspicious of that action, now that the Captain is armed with the knowledge of what AUTO kept his robotic voice box shut about and thus, they promptly call it a night, but not before the Captain asking what "dancing" was, which the computer responded to.
+
+All this would later trigger the mutiny of AUTO: when McCrea was busy watering the plant, caring for it like a gardener would and then when he spoke those words, he looked at the globe representing Earth before the events of the movie and then at the yellow ball of high toxicity levels, which was still Earth, thus their home, nonetheless (i.e., in McCrea's eyes), stating that they had to return to Earth. McCrea thus calls AUTO to the room to get him to put the plant in the holo-detector so they could hyper-jump to Earth.
+
+When AUTO sees the plant that he ''thought'' was disposed of, he then displays the directive again and declares that it is not necessary to return to Earth. McCrea, not paying attention, states he'll fire up the Holo-detector himself. AUTO then stops him and insists that McCrea hand over the plant, which McCrea responds by telling him to move out of the way. AUTO continues by saying they cannot return to Earth and when questioned by McCrea, AUTO refuses to answer, as it is classified and when McCrea pushes the matter by saying that AUTO is not allowed to withhold details from the Captain, AUTO tries to nab the plant from him but McCrea keeps it at bay from him. Finally, McCrea ''demands'' that AUTO tell him what was so classified about that matter, saying that it was an order. AUTO finally relents and shows him what was classified and what he was left out in the dark about.
+
+On the video was the events of 695 years ago (as the ''Axiom'' was sent into space 2105), was CEO and President of Buy N' Large, [[Shelby Forthright]], obviously embarrassed beyond reason about his failure to try to save Earth himself. By that time of the video, it was guessed that "Operation: Recolonize" had become a failure because even with the WALL-E units trying to do their best, it was nothing more than unrealistic to have the Earth clean in 5 years due to the many forms of pollution and litter and all but one WALL-E had been shut down or overwhelmed. To add fuel to the fire on his shame, Shelby then says to all Autopilots that it would be easier for humans to remain in space and that life was no longer good for Earth due to the toxic levels. Shelby then leaves with the same directive given 695 years prior to the movie, A-113, and declared that Autopilots are in charge of the ship, would be in total control and returns to Earth would be denied and Shelby leaves thereafter. After the clip, McCrea then asks when the message was sent out and the computer replies 2110, he calculates nearly 700 years ago.
+
+McCrea scoffs at the President of BnL's words and says that things have changed and the plant was proof of that and further backs up his point by saying the plant was alive and growing. AUTO says that is irrelevant, McCrea then argues that it's all too relevant because back at the place was their home and saying that McCrea can't just sit there and do nothing (which is what most of the people and himself have done, obviously), which he confesses that is all the people and himself have ever done: nothing at all. AUTO then declares he must follow the directive, which frustrates McCrea. Noticing the pictures of all the captains from generations down, McCrea notices that AUTO is in everyone, meaning he was the true captain of the ''Axiom''; the others were merely figureheads. McCrea then stands up to AUTO and declares that they are going home whether or not AUTO liked it, which AUTO didn't. Though he got really close to the Captain's face, he simply called GO-4 over, who snatched the plant from McCrea and buzzed at him when he tried to get it back. McCrea then realized that this was a mutiny.
+
+With GO-4 at his side, it seemed like he had the upper-hand until WALL-E appeared from the garbage chute. AUTO then demanded that WALL-E gives him the plant, which WALL-E doesn't and stores it away in his body, it's door smacking AUTO in the process. WALL-E then gloats at his victory, but AUTO just responded by zapping him with a taser and severely damaging him, causing WALL-E to fall back down the garbage chute, taking the plant with him. AUTO then shuts off EVE and GO-4 promptly throws her in the garbage chute. AUTO then tells McCrea that all communications are cut off and confines him in his quarters.
+
+Just when AUTO thought that he won that battle, he sees a "rogue robots" warning showing WALL-E, EVE, [[M-O]], and the plant that was taken by one of the Stewards, much to his disbelief. He then sends every other SECUR-T after them. Just then, the Captain then hot-wired the monitor to send out a message of him holding the "plant", which was a holographic image of WALL-E holding it and taunts AUTO by saying that if he wanted the plant back, McCrea then says "Come and get it, Blinky." AUTO then scans the room looking for McCrea to reclaim the plant. McCrea then ambushes AUTO and somehow winds up in the command deck, where AUTO is ruling everything, by squeezing through a hole in the ceiling. GO-4 tries to help AUTO, but only winds up getting himself knocked back by the fight, flung through a window from the tower from the impact of the Captain hitting him, and crash-lands besides a pool on the Lido Deck, breaking him.
+
+As McCrea and AUTO continue the battle for dominance, the Captain successfully hits the button that activates the holo-detector, initiating the recolonizing sequence and automatically caused all passengers to report to the Lido deck where the holo-detector is located. After noticing that WALL-E, EVE, and the plant were close to the holo-detector, AUTO finally has enough and easily knocks McCrea away by turning himself to the left. Since he is the Axiom's wheel, this causes the ship to tilt left, knocking everyone down in that direction. He then goes over to push the holo-detector button to turn it off, but WALL-E attempts to keep it back up by putting himself between it and the floor. Auto pushes the button again, this time holding it down to keep it going down. WALL-E, however, kept holding the holo-detector up, though his treads were dangerously close to the gap between it and the floor. Finally, as a last resort, Auto activated his taser and used it to push the button so hard that it cracked. Though the holo-detector was only several inches to closing, it caused WALL-E to get crushed and jammed in between the gap.
+
+Despite the fact that McCrea was without his chair, he stood up straight and ambushed AUTO again after seeing AUTO crush WALL-E with the holo-detector. It is possible that McCrea, after seeing WALL-E crushed by AUTO, found the will to stand up and continue the battle.
+
+As the Captain calls for a rematch, AUTO fires his taser again, but before he can try to zap McCrea, the Captain then sees the only way to subdue AUTO was to turn his "Auto" switch to "Manual", in which McCrea ends AUTO and directive A113 by flipping the exposed switch to manual pilot. AUTO then gives one last "No..." and shuts off, leaving McCrea in control of the ''Axiom'' and, in the end, the end of the line for AUTO, now just a regular ship's wheel. McCrea then uses him to turn the Axiom back to its original position and steer it back to Earth.
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+Auto wall•e clipped rev 1.png
+DeletedAUTO.png|A early version of AUTO in a deleted scene
+Captainauto.jpg
+walle7.jpg
+auto-with-mccrea.png|"Sir, I insist you give me the plant."
+wall-e-disneyscreencaps.com-7951.jpg
+WALL-E-658.jpg
+AUTO-Wall-E-Film.jpg
+Wall-e-images-eve-auto.jpg
+AUTO-plant.png
+WALL-E facing AUTO.png
+4k-walle-animationscreencaps.com-11567.jpg|AUTO about to electrocute WALL-E.
+WALL-E-687.jpg|AUTO electrocutes WALL-E when he refuses to give the plant to him
+auto -1.jpg
+Captain-mccrea-defeat-AUTO.png
+CaptainmccreaandAuto.jpg
+McCrea-AUTO.png
+Walle-reportcard04.png|Auto's control panel
+Wall-e-disneyscreencaps.com-9771.jpg|AUTO deactivated
+Auto4.jpg
+</gallery>
+
+==Trivia==
+*AUTO's eye is an obvious homage and reference to {{WikipediaLink|HAL 9000}} from ''{{WikipediaLink|2001: A Space Odyssey}}''.
+**Also like HAL, AUTO seeks to complete his mission he was given, even at the expense of the humans he is supposed to protect.
+*The white paneling around the eye also slightly resembles the security turrets, personality cores, and {{WikipediaLink|GLaDOS}}, the main antagonist from ''[[Wikipedia:Portal (video game)|Portal]]'' (who was also inspired by HAL).
+*AUTO is unusual among many [[Pixar]] antagonists, as he was merely following orders rather than trying to cause malice or harm to the protagonists if necessary.
+
+==External links==
+*{{Interwiki|https://vignette.wikia.nocookie.net/pixar/images/6/64/Favicon.ico|pixar|AUTO|Pixar Wiki}}
+
+{{WALL-E}}
+{{Disney Villains}}
+
+[[es:AUTO]]
+[[uk:Авто]]
+[[Category:Villains]]
+[[Category:WALL-E characters]]
+[[Category:Robots]]
+[[Category:Characters]]
+[[Category:Pixar villains]]
+[[Category:Pixar characters]]
+[[Category:Animated characters]]
+[[Category:Video game bosses]]
+[[Category:Pilots]]
+[[Category:Technology]]
+[[Category:Main antagonists]]
+[[Category:Disney Universe]]
+[[Category:Characters in video games]]
+[[Category:Objects]]
+[[Category:Neutral characters]]

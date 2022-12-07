@@ -1,0 +1,34 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|director = 
+|producer = Debra Martin Chase
+|writer = Aadrita Mukerji
+|starring = 
+|music = 
+|cinematography =
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = English
+|budget = 
+|imdb_id = 
+|preceded = ''[[The Princess Diaries 2: Royal Engagement]]''}}
+'''''The Princess Diaries 3''''' is a placeholder title for an upcoming American romantic comedy film, and a sequel to [[2004]]'s ''[[The Princess Diaries 2: Royal Engagement]]''.
+
+==Production==
+On November 15, 2022, ''The Hollywood Reporter'' reported that a third film in the franchise is officially in development, with Aadrita Mukerji writing the screenplay, though [[Anne Hathaway]] had not yet signed a deal to return.<ref>[https://www.hollywoodreporter.com/movies/movie-news/princess-diaries-3-in-the-works-disney-1235261402/ New ‘Princess Diaries’ Movie in the Works at Disney (Exclusive)]</ref>
+
+==References==
+{{Reflist}}
+
+{{The Princess Diaries}}
+{{DISPLAYTITLE:''The Princess Diaries 3''}}
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:Sequel films]]
+[[Category:The Princess Diaries]]
+[[Category:Films based on books]]

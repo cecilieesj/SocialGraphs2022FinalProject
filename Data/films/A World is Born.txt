@@ -1,0 +1,28 @@
+{{Stub}}
+
+{{Infobox film
+|name = A World is Born
+|director    = 
+|producer    = 
+|writer      = 
+|distributor = Walt Disney Productions
+|language = English
+|image = A world is born italian title.jpg
+|imagewidth = 250px
+|time = 20 minutes
+|release = [[1955]]}}'''''A World is Born''''' is a [[1955]] educational short about the creation of Earth.
+
+==Synopsis==
+Narrated by Holling C. Holling and set to an interpretation of Igor Stravinsky's ''[[The Rite of Spring|Rite of Spring]]'', taken from ''[[Fantasia]]'', this film depicts the first two billion years of the earth's existence, showing its early convulsions and upheavals and the first prehistoric monsters who inhabited it. The music is played by the Philadelphia Orchestra and conducted by [[Leopold Stokowski]].
+
+==Gallery==
+<gallery>
+Part of credits for a world is born.jpg
+Introductory note for a world is born.jpg
+</gallery>
+
+{{DEFAULTSORT:World is Born, A}}
+[[Category:1955 shorts]]
+[[Category:Animated shorts]]
+[[Category:Educational films]]
+[[Category:Fantasia]]

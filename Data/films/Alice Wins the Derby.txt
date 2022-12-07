@@ -1,0 +1,37 @@
+{{Infobox film
+|image =
+|name = Alice Wins the Derby
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[July 12]], [[1925]]
+|time = 6:53
+|preceded = ''[[Alice Gets Stage Struck]]''
+|followed = ''[[Alice Picks the Champ]]''
+}}
+'''''Alice Wins the Derby''''' is an animated short film that is part of the ''[[Alice Comedies]]'' that were released by Winkler Pictures in [[1925]]. It was in black and white and silent.
+
+==Summary==
+A combination auto race and horse derby. Pete tries to send Julius on a false detour, but Julius comes from behind to win the race!
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+Alice wins the derby 1large.jpg
+Alice wins the derby 2large.jpg
+Alice wins the derby 3large.jpg
+Alice wins the derby 4large.jpg
+Alice wins the derby 5large.jpg
+Alice wins the derby 6large.jpg
+1925-derby-2.jpg
+1925-derby-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=28 Alice Wins the Derby] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1925 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Pete Shorts]]

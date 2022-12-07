@@ -1,0 +1,30 @@
+{{Infobox film
+|image = File:ThumbnailImage.png
+|title = Alice Cans the Cannibals
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[January 1]], [[1925]]
+|time = 6:08
+|preceded = ''[[Alice the Piper]]''
+|followed = ''[[Alice the Toreador]]''
+}}
+'''''Alice Cans the Cannibals''''' is an animated short film that is part of the ''[[Alice Comedies]]'' that were released by Winkler Pictures in [[1925]]. It was in black and white and silent.
+
+==Summary==
+Alice and Julius drive their car into the sea where they become stranded on an island occupied by cannibals.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1925-cannibals-2.jpg
+1925-cannibals-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=21 Alice Cans the Cannibals] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:Alice Comedies]]
+[[Category:1925 shorts]]

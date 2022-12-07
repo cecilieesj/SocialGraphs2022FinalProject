@@ -1,0 +1,43 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Hercules
+|director = [[Guy Ritchie]]
+|producer = [[Anthony Russo]]<ref name="THR"/><br>[[Joe Russo]]<ref name="THR"/>
+|writer = Dave Callaham<br>[[Guy Ritchie]]
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]<br>AGBO
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release =
+|time = 
+|language = English 
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 12239410
+|tv_com_id = }}
+'''''Hercules''''' is an upcoming American musical film, and a live-action remake of the animated [[1997]] [[Hercules (film)|film of the same name]].<ref name="THR">{{Cite web|url=https://www.hollywoodreporter.com/heat-vision/hercules-live-action-remake-works-disney-shang-chi-writer-1292684|title='Hercules' Live-Action Remake in the Works From Disney, 'Shang-Chi' Writer (Exclusive)|website=The Hollywood Reporter|date=[[April 30]], [[2020]]}}</ref>
+
+==Production==
+On [[April 30]], [[2020]], a live-action remake of ''[[Hercules (film)|Hercules]]'' was announced, via ''The Hollywood Reporter''. ''[[Shang-Chi and the Legend of the Ten Rings]]'' writer, Dave Callaham is penned to write the script, while [[Marvel Studios|Marvel]] directors, Joe and Anthony Russo, are set to produce.<ref name="THR"/> The film will not be a literal adaptation of the original, but may contain a few elements. They added that they are unsure if their film will be a musical or not.<ref>{{cite web|url=https://collider.com/hercules-remake-changes-russo-brothers-disney/|title=Exclusive: Joe and Anthony Russo Say Their ‘Hercules’ Remake Won’t Be a “Literal Translation”|website=Collider|date=[[May 7]], 2020}}</ref>
+
+On June 17, 2022, ''Deadline'' reported that [[Guy Ritchie]] had been hired to direct the film, after previously working on ''[[Aladdin (2019 film)|Aladdin]]''.<ref>[https://deadline.com/2022/06/hurcules-guy-ritchie-live-action-movie-disney-aladdin-1235047935/ ‘Aladdin’ Director Guy Ritchie Teams With Disney & AGBO On Live-Action ‘Hercules’]</ref>
+
+On November 1, 2022, in an interview with ''Variety'', [[Anthony Russo]] and [[Joe Russo]] revealed that Ritchie is rewriting the script, and that the film will be a musical.<ref>[https://variety.com/2022/film/news/hercules-live-action-disney-tiktok-experimental-joe-russo-guy-ritchie-agbo-1235421454/ Disney’s Live-Action ‘Hercules’ Will Be ‘More Experimental’ and Inspired by TikTok, Says Producer Joe Russo]</ref>
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{Hercules}}
+{{DISPLAYTITLE:''Hercules''}}
+[[Category:Hercules]]
+[[Category:Live-action films]]
+[[Category:Remakes]]
+[[Category:Disney films]]

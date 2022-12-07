@@ -1,0 +1,520 @@
+[[File:Tumblr_lnzzx5V4PJ1qhcrb0o1_1280.jpg|thumb|''Theory Of The C-1 Auto Pilot'']]
+The following is a list of Training films produced for the [[United States]] Army and Navy by the Walt Disney Studio during World War II. Most of these films were not sole productions of Disney, but were collaborations with other entities such as the First Motion Picture Unit (FMPU) or Frank Capra's signal corps.
+
+Disney only produced the animated portions of these films. It should also be noted that many Disney artists and animators (as well as artists from other animation studios) worked at FMPU simultaneously, so not all FMPU films that include animation are Disney products.
+
+In many cases the studio did not receive credit, which has made the task of identification somewhat difficult. Additionally, many of these films were reissued and even retitled, re-numbered and even re-edited, so the original elements may not survive.
+
+This list is the most complete that can be found on the Internet as the information comes from various sources such as the long out of print book ''Donald Duck Joins Up'' by Richard Shale and other film indexes that deal with Army and Navy films.
+
+==Production for Armed Forces==
+===Series===
+{|class="wikitable sortable"
+|-
+!width=10|Series Title
+!width=200|Film Title
+!width=80|runtime 
+!width=50|Date
+!width=150|Notes
+|-
+|'''Why We Fight'''<br>(for U.S. Army)
+|
+# ''Prelude to War''
+# ''The Nazis Strike''
+# ''Divide and Conquer''
+# ''The Battle of Britain''
+# ''The Battle of Russia''
+# ''The Battle of China''
+# ''War Comes to America''
+| 16 of 53 min<br>13 of 40 min<br>? of 56 min<br>8 of 51 min<br>8 of 71 min<br>? of 62 min<br>8 of 64 min
+|(1942)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1944)<br>(1945)
+|Co-produced with Frank Capra.<br>The entire series can be found at [http://www.archive.org/ Archive.org].
+|-
+|'''Know your Enemies'''<br>(for U.S. Army)
+|
+# ''Know Your Enemy: Japan''
+# ''Here is Germany''
+| 18 of 63 min<br>2 of 53 min 
+|(1945)<br>(1945)
+|Co-produced with Frank Capra.<br>The entire series can be found at [http://www.archive.org/ Archive.org].<br>''Here is Germany'' was originally planned in 1943 under another name (''Know Your Enemy: Germany'') but was cancelled, then revised and completed in 1945 under its current title.<br>''Know Your Enemy: Japan'' had three production numbers at Disney.<br>''Know Your Ally: Britain'' did not feature animation from Disney but from rival studio Warner Brothers.
+|-
+|'''Orientation Series'''<br>(for U.S. Navy)
+|
+# ''Aircraft Welding''
+# ''The Equatorial Front''
+| 1 of ? min<br>12 of ? min 
+|(1943)<br>(1944)
+|Co-produced with Frank Capra.
+|-
+|'''Aircraft Production Processes Series [Mooney Project]'''<br>(for U.S. Navy)
+|
+#  ''Bending and Curving''
+#  ''Blanking and Punching''
+#  ''Forming Methods''
+#  ''Aircraft Riveting''
+#  ''Template Reproduction''
+#  ''Heat Treating''
+#  ''Mock-Up and Tooling [Aircraft Tooling]''
+#  ''Lofting and Layouts''
+#  (Unknown 9th title?)
+|37 of ? min<br>24 of ? min<br>40 of ? min<br>23 of ? min<br>18 of ? min<br>12 of ? min<br>19 of ? min<br>30 of ? min<br>? of ? min
+|(1942)<br>(1942)<br>(1942)<br>(1942)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(194?)
+|Richard Shale's book states there are nine films in this series, but only eight are listed.
+|-
+|'''Aerology Series'''<br>(for U.S. Navy)
+|
+#  ''Icing Conditions''
+#  ''Air Masses and Fronts''
+#  ''The Cold Front''
+#  ''Fog and now Ceiling Clods''
+#  ''The Occluded Front''
+#  ''Thunderstorms''
+#  ''V.T.B. Pilot Training''
+#  ''The Warm Front''
+#  ''Flying the Weather Map, Pt. 1 & 2''
+#  ''Flying the Weather Map, Pt. 3 & 4: The Howgozit Chart''
+#  ''Weather for the Navigator''
+|49 of ? min<br>25 of ? min<br>19 of ? min<br>24 of ? min<br>30 of ? min<br>39 of ? min<br>20 of ? min<br>20 of ? min<br>25 of ? min<br>? of 14 min<br>39 of ? min
+|(1942)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1944)
+| The films ''Flying the Weather Map'' (Part 1 and 2) and ''The Howgozit Chart'' (Part 3 and 4) together form a story arc. 
+|-
+|'''Fixed Gunnery and Fighter Tactics [Jacksonville Project]'''<br>(for U.S. Navy)
+|
+#  ''Use of the Illuminated in Gunnery Tactics''
+#  ''Fundamental Fixed Gunnery Approaches''
+#  ''Snoopers and How to Blast 'Em''
+#  ''Attack Against Bomber Formations''
+#  ''Offensive Tactics against Enemy Fighters''
+#  ''Defensive Tactics against Enemy Fighters''
+#  ''Fighter Escort''
+#  ''Combat Air Patrol''
+#  ''Conclusion and Summary''
+|78 min 
+|(1943)
+| The given runtime is of the series in whole rather than per individual film.
+<br>The series is also known as Fighter Pilot ace Thach's series<br>The 9th and 10th film in this series ''Snoopers and How to Blast 'Em'' and "[http://www.archive.org/details/DontKillYourFriends Don't Kill Your Friends]" contains no animation and has no Disney involvement.<br>Although the given running time is for the series as a whole, the running time of ''Offensive Tactics against Enemy Fighters'' is known to be 21 minutes.
+|- 
+|'''U.S. Army Identification Series - WEFT (Wings, Engine, Flight Tails)'''<br>(for U.S. Army)
+|
+#  ''B-25 Medium Bomber''
+#  ''A-20B Douglas Medium Bomber''
+#  ''A-24  Douglas Light Bomber''
+#  ''B-17F Douglas Heavy Bomber''
+#  ''B-24D Consolidated Heavy Bomber''
+#  ''A-31 Northrop Light Bomber''
+#  ''P-38E Lockheed Pursuit''
+#  ''C-60A Lockheed Medium Transport''
+#  ''C-54 Douglas Heavy Transport''
+#  ''C-53 and C-47 Douglas Medium Transport''
+#  ''A-28 Lockheed Light Bomber''
+| 101 min
+|(1942)
+| The runtime only represents what Disney contributed to this series as a whole, not per individual title. Small fragments of this series can be found on Walt Disney Treasures: Wave Three|Walt Disney Treasures: On the Front Lines.
+|-
+|'''U.S. Navy Identification - WEFT and Warships'''<br>(for U.S. Navy)
+|
+#  ''PBY Catalina''
+#  ''SBD Dauntless''
+#  ''F4U Corsair''
+#  ''F4F Wildcat''
+#  ''PB2Y Coronado''
+#  ''VBF Avenger''
+#  ''F2A Brewster''
+#  ''PBO Lockheed''
+#  ''SB2A Brewster''
+#  ''OS2U Kingfisher''
+#  ''SB2U Vindicator''
+#  (unknown title (part 12))
+#  (unknown title (part 13))
+| 73 min 
+| (1942)
+|The runtime only represents what Disney contributed to this series as a whole, not per individual title. Small fragments of this series can be found on Walt Disney Treasures: Wave Three|Walt Disney Treasures: On the Front Lines.
+|-
+|'''US Navy Identification 3-Point System Warships'''<br>(for US Navy)
+|
+#  ''Cruiser (introductory)
+#  ''Wichita Class''
+#  ''Astoria Class''
+#  ''Portland Class''
+#  ''Northampton Class''
+#  ''Pensaeola Class''
+#  ''Brooklyn Class''
+#  ''Ohama Class''
+#  ''Carriers (introductory)''
+#  ''Yorktown Class''
+#  ''Wasp Class''
+#  ''Ranger Class''
+#  ''Long Island Class''
+#  ''Lexington Class''
+#  ''Destroyers (introductory)''
+#  ''Warrington''
+#  ''Porter''
+#  ''Mayo''
+#  ''Sims''
+#  ''Benham''
+#  ''Blue''
+#  ''Fanning''
+#  ''McCall''
+#  ''Farragut''
+#  ''Four-Stacker''
+#  ''Hutchins Class''
+#  ''Fletcher Class''
+#  ''Mahan Class''
+#  ''Atlanta Class Carrier''
+#  ''Cleveland Class''
+#  ''Saratoga Class Carrier''
+#  ''Eric Class Auxiliary''
+#  ''Terror Class''
+#  ''Curtis Class''
+#  ''Prairie Fulton Class''
+#  ''Holland Class''
+#  ''Washington Class''
+| 135 min.
+|(1943)
+| The runtime only represents what Disney contributed to this series as a whole, not per individual title. Small fragments of this series can be found on Walt Disney Treasures: On the Front Lines.
+|-
+| '''Beechcraft Maintenance and Repair'''<br>(Beech Aircraft Corp., U.S. Army)
+|
+*. Service, Inspection and Maintenance of the AT-11: Landing Gear
+*. Service, Inspection and Maintenance of the AT-11: Wheels and Brakes
+*. Service, Inspection and Maintenance of the AT-11: Flight and Controls
+*. Service, Inspection and Maintenance of the AT-11: General Instructions
+*. Service, Inspection and Maintenance of the AT-11: Engine Changes
+*. Service, Inspection and Maintenance of the AT-10: Landing Gear
+*. Service, Inspection and Maintenance of the AT-10: Wheels and Brakes
+*. Service, Inspection and Maintenance of the AT-10: Flight and Controls
+*. Service, Inspection and Maintenance of the AT-10: General Instructions
+*. Service, Inspection and Maintenance of the AT-10: Engine Changes
+*. Service, Inspection and Maintenance of the AT-7: Landing Gear
+*. Service, Inspection and Maintenance of the AT-7: Wheels and Brakes
+*. Service, Inspection and Maintenance of the AT-7: Flight and Controls
+*. Service, Inspection and Maintenance of the AT-7: General Instructions
+*. Service, Inspection and Maintenance of the AT-7: Engine Changes
+*. Aircraft Wood Repair [Repairs of Wood Aircraft]: Small Scarf Patch and Doubler Patch
+*. Aircraft Wood Repair [Repairs of Wood Aircraft]: Stiffener Patch
+*. Aircraft Wood Repair [Repairs of Wood Aircraft]: Leading Edge Repairs
+*. Aircraft Wood Repair [Repairs of Wood Aircraft]: Bulkhead Repair
+
+| 359 min. 
+| (1943)
+|The runtime only represents what Disney contributed to this series as a whole, not per individual title. Small fragments of this series can be found on Walt Disney Treasures: Wave Three|Walt Disney Treasures: On the Front Lines.
+|-
+|'''Minneapolis Honeywell Project'''<br>(U.S. Army) 
+| 
+*Theory of the C-1 Auto Pilot part 1: Basic Principles
+*Theory of the C-1 Auto Pilot part 1: Control System
+*Operation of the C-1 Auto Pilot: Setting up for Fight
+*Operation of the C-1 Auto Pilot: Setting up for Bombing
+*Maintenance and servicing of the C-1 Auto Pilot: Servo Motor
+*Maintenance and servicing of the C-1 Auto Pilot: Flight Gyro
+*Maintenance and servicing of the C-1 Auto Pilot: The Amplifier
+*Maintenance and servicing of the C-1 Auto Pilot: The Directional Stabilizer
+*Maintenance and servicing of the C-1 Auto Pilot: Ground Check and Trouble Shooting
+*Electronic Control system of the C-1 Auto Pilot: Basic Electricity as Applied to Electronic Control system
+*Electronic Control system of the C-1 Auto Pilot: Basic Electronics as Applied to Electronic Control system
+
+| 121 min.
+| (1943)
+| Co-Production with Minneapolis-Honeywell Regulator Company.<br>The runtime only represents what Disney contributed to this series as a whole, not per individual title. Small fragments of this series can be found on Walt Disney Treasures: Wave Three|Walt Disney Treasures: On the Front Lines.
+|-
+|'''Rules of the Nautical Road'''<br>(for U.S. Navy) 
+|
+# ''The Halifax Incident
+# ''Introduction. Parts 1 and 2
+# ''Lights, Running and Anchor
+# ''City of Rome Incident
+# ''Towing Lights
+# ''Lights: Vessels Being Towed
+# ''Special Lights
+# ''Quiz on Lights and Day Signals
+# ''Visual Day Signals
+# ''Whistle Signals for Approaching Steam Vessels
+# ''Meeting Steam Vessels
+# ''The McCormick-Maru Incident (aka The McCormick-Yoshido Maru Incident)
+# ''Meeting at Night
+# ''Overtaking Situation
+# ''The Varanger-Dora Weems Incident
+# ''The Taurus-Gulf Trade Incident
+# ''Overtaking at Night
+# ''Crossing Steam Vessels
+# ''The El Isleo-Eastern Glade Incident
+# ''The Svea-Newport Incident
+# ''Crossing at Night
+# ''Rules in Fog. Parts 1 and 2
+# ''Empress of Ireland-Storstad Incident
+# ''Special Circumstances
+# ''The Beaver-Selja Incident
+# ''Special Steering and Sailing Rules
+| 6 of 6 min<br>22 of 22 min.<br>? of 17 min.<br>? of 5 min.<br>? of 7 min.<br>? of 10 min.<br>? of 28 min.<br>? of 14 min.<br>? of 13 min.<br>? of 17 min.<br>? of 17 min.<br>? of 4 min.<br>? of 20 min.<br>? of 15 min.<br>? of 5 min.<br>? of 3 min.<br>? of 15 min.<br>? of 15 min.<br>? of 5 min.<br>5 of 5 min.<br>? of 19 min.<br>? of 16 min.<br>? of 5 min.<br>? of 14 min.<br>? of 5 min.<br>? of 14 min.
+| (1942)<br>(1942)<br>(1942)<br>(1942)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)<br>(1943)
+|The list given in Shale's book is incorrect. Small fragments of this series can be found on Walt Disney Treasures: Wave Three|Walt Disney Treasures: On the Front Lines.
+|-
+|'''Glider Training'''<br>(U.S. Army)
+|
+#  ''Structure and Aerodynamics''
+#  ''Flying Operations''
+#  ''Instruments''
+#  ''Air Works''
+| 17 of 23 min
+| (1943)
+| The runtime represents this series as whole rather than per individual title.
+|-
+|'''The Mark 13-Modification I Aerial Torpedo''' (for U.S. Navy)
+|
+#  ''Mechanical Operation
+#  ''Depth Control Mechanism
+#  ''War Head Attachment
+#  ''The Gyro Mechanism, Part 1
+#  ''The Gyro Mechanism, Part 2
+#  ''Gyroscopic Creep and Precession in Torpedoes
+|121 min. 
+| (1943)
+| The runtime only represents what Disney contributed to this series as a whole, not per individual title.
+|-
+|*'''High Level Precision Bombing [Colonel Garland Project]'''<br>(for U.S. Army)
+|
+#  ''The Bombing Computers''
+#  ''Combat Bombing Procedures''
+|61 min. 
+|(1943)
+| The runtime only represents what Disney contributed to this series as a whole, not per individual title. The names given in Shale's book are incorrect.
+|-
+|'''Basic Maintenance of Primary Training Airplanes [Aeronca Project]'''<br>(U.S. Army,  Aeronca Aircaraft Corp.)
+|
+#   ''Preflight and Daily Inspections''
+#   ''Landing Gear, Wheels and Brakes''
+#   ''Propeller and Power Plant''
+#   ''Light Controls and Control Surfaces''
+#   ''Engine Change''
+| 112 min.
+| (1943)
+| The runtime only represents what Disney contributed to this series as a whole, not per individual title.
+|-
+|'''Carrier Rendezvous and Breakup'''<br>(U.S. Navy)
+|
+# ''Aircraft Rendezvous''
+# ''Aircraft Formation Brakeup''
+|44 min.
+| (1943)
+|The runtime only represents what Disney contributed to this series as a whole, not per individual title.
+|-
+|'''Automotive Electricity for Military Vehicles'''<br>(U.S. Army) (1944)
+|
+#  ''Principles of Automotive Electrical Circuits
+#  ''Principles of the Operation Generator
+#  ''Principles of the Starting Motor
+#  ''The Ignition Circuit
+#  ''Principles of Operation of the Generator Regulator 
+#  ''Principles of Operation of the Automotive Magneto 
+| ? of 13 min<br>? of 13 min<br>? of 14 min<br>? of 11 min<br>? of 12 min<br>? of 14 min
+|(1944)
+| The runtime of 13 minutes that Disney contributed cannot be attributed to each individual title. ''Principles of the Starting Motor'' can be found at [http://www.archive.org/details/gov.dod.dimoc.29892 archive.org].
+|-
+|'''Fundamentals of Artillery Weapons''' (for U.S. Army)
+|
+#   ''Types and Components of Cannon''
+#    'Types and Components of Carriages''
+| 3? of 28 min<br>3? of 19 min 
+| (1944)
+| Shale's book only lists the Disney material combined, but it is likely both films contained animation.
+|-
+|'''Theory of Simplex and Phantom Circuits'''<br>(for U.S. Army)
+| 
+# ''Balanced conditions''
+# ''Unbalanced conditions''
+| ? of 32 min
+|(1944)<br>(1944)
+| The runtime in Shale's book seems to be of both films combined.<br>The complete series can be found at [http://www.archive.org/search.php?query=Theory%20of%20Simplex%20and%20Phantom%20Circuits archive.org].
+|-
+| '''Tuning Transmitters'''<br>(for U.S. Army)
+|
+#''Setting Frequency''
+#''Amplifier and Antenna Tuning'''
+| ? of 16 min<br>? of 20 min
+| (1944)<br>(1944)
+| Shale's book does not list these as a series and thus the runtime of the Disney animation is given as 20 min. in total.
+|-
+| '''Job'''<br>(for U.S. Army)
+|
+#''Your Job in Germany''
+| 2 of 11 min 
+| (1944)
+| Companion film to ''Our Job in Japan'' which had no Disney involvement but which was co-created by Frank Capra.<br>''Your Job in Germany''
+|-
+|'''Burma Campaign'''<br>(for U.S. Army)
+|
+#''The Stilwell Road
+| 8 of 50 min 
+|(1945)
+| ''Burma Campaign'' was a series of three films but ''The Stilwell Road'' was the only film Disney contributed to. It can be found at [http://www.archive.org/details/TheStilwellRoad Archive.org].
+|-
+| '''Basic Map Reading'''<br>(for U.S. Army)
+|
+# Conventional Signs
+# Elevation, Distance and Grid
+# Direction, Orientation, and Location With Compass
+# Direction, Orientation, and Location Without a Compass
+# Photos and Photomaps
+| ? of 19 min<br>? of 27 in.<br>? of 34 min<br>? of 22 min<br> ? of 22 min.
+|(1945)<br>(1945)<br>(1945)<br>(1945)<br>(1945)
+| The Disney material in these films totals 16 minutes but Shale's book does not say how that total distributes over the 5 films.
+|}
+
+===One-Shots===
+{|class="wikitable sortable"
+|-
+!width=200|Film Title
+!width=70|runtime
+!width=50|Date
+!width=100|Notes
+|-
+|'''Four Methods of Flush Riveting'''<br />(for NFB)
+| 10 min
+| 1942
+| Entirely animated but the film was not created with the aim to entertain, but demonstrate use of tools. It can be found on [[Walt Disney Treasures: Wave Three|Walt Disney Treasures: On the Front Lines]].
+|-
+|'''Boys Anti-Tank Rifle'''<br />(for NFB)
+| 21 min
+| 1942
+| This film includes a comic animation segment which is also known as ''Stop that Tank!'' running 3 minutes. It can be found on [[Walt Disney Treasures: Wave Three|Walt Disney Treasures: On the Front Lines]].
+|-
+|'''Aircraft Carrier Landing Signals'''<br />(for U.S. Navy)
+| 15 of ? min
+| 1942
+|
+|-
+|'''Aircraft Carrier Mat Approaches and Landings'''<br />(for U.S. Navy)
+| 14 of ? min
+| 1942
+|
+|-
+|'''Protection against Chemical Warfare'''<br />(for U.S. Navy)
+| 9 of ? min
+| 1942
+|
+|-
+|'''Approaches and Landings'''<br />(for U.S. Navy)
+| 17 of ? min
+| 1942
+|
+|-
+|'''The Aleutian Islands [A.D.C. Project]'''<br />(U.S. Army)
+| 2 of 45 min
+| 1943
+| This film may be the same as Report from the Aleutians.
+|-
+| '''The Evasive Action'''<br />(U.S. Army)
+| 2 of ? min
+| 1943
+| This film is not in Shale's book but a short clip of it can be found on [[Walt Disney Treasures: Wave Three|Walt Disney Treasures: On the Front Lines]]. It includes both animation and live-action.
+|-
+| '''Ice formation on Aircraft'''<br />(for U.S. Army)
+| 48 min
+| 1943
+| This film is not in Shale's book, but an edited reissue print.
+|-
+| '''Air Transport Command'''<br />(U.S. Army)
+| 10 of ? min.
+| 1943
+|
+|-
+| '''Aircraft Carrier Landing Qualifications'''<br />(U.S. Navy)
+| 10 of ? min.
+| 1943
+|
+|-
+| '''British Torpedo Plane Tatics'''<br />(for U.S. Navy)
+| 11 min.
+| 1943
+| The film's total runtime is given rather than the Disney material alone. This film was originally supposed to be 17 minutes but was cut down for some reason.
+|-
+| '''Fast Company'''<br />(for U.S. Army)
+| 1 of x min.
+| 1943
+| This film was not released, but was co-produced with Frank Capra.
+|-
+| '''Substitution and Conversion'''<br />(for U.S. Army)
+| 20 of ? min.
+| 1943
+| Project 6021
+|-
+| '''Carburetion, Basic Principles'''<br />(for U.S. Army)
+| 12 of 27 min
+| 1944
+|
+|-
+| '''Battle of Cape Gloucester'''<br />(for U.S Army)
+| 3 of 58 min.
+| 1944
+| Also known as '''Attack! Battle of New Britain''', which can be found online.
+|-
+| '''Howitzer, 105&nbsp;mm M2A I and Carriage M2, Principles of Operation''' (U.S. Army)
+| 6 of min?
+| 1944
+|
+|-
+| '''Operation and Maintenance of the Electronic Turbo Supercharger''' (U.S. Army)
+| 39 min
+| 1944
+| Runtime of the film in whole rather than Disney's material.
+|-
+| '''Two Down and One to Go''' (U.S. Army)
+| 1 of 9 min.
+| 1944
+| Shale's book erroneously gives the runtime as 17 minutes. The film is shorter.
+|-
+| '''Attack in the Pacific''' (for O. W. I.)
+|15 of 52 min
+| 1944
+|
+|-
+| '''Air Brakes, Principles of operation'''<br />(for U.S. Army)
+| 9 of 25 min.
+| 1944
+| This film can be found at [http://www.archive.org/details/gov.ntis.ava07923-vnb1 The Internet Archive] but is a reissue print from 1967, as the runtime of the 1967 version is intact to the original 1944 version.
+|-
+| '''It's Your War, Too'''<br />(for U.S. Army)
+| 1 of 9 min
+| 1944
+|
+|-
+|'''The Case of the Tremendous Trifle'''<br />(for U.S. Army)
+| 2 of 20 min
+| 1944
+|
+|-
+| '''Electric Brakes Principles of Operation'''<br />(for U.S. Army)
+| 2 of 13 min
+| 1944
+|
+|-
+| '''Ward Care of Psychotic Patients''' (U.S. Army)
+| 29 of 41 min
+| 1944
+|
+|-
+| '''Dental Health'''<br />(for U.S. Army)
+| 8 of 22 min
+| 1945
+|Army number 8-2096.
+|-
+| '''On to Tokyo'''<br />(for U.S. Army)
+| 7 of 17 min
+| 1945
+|
+|}
+
+==DVD releases==
+Some of these propaganda and training films can be found uncut and uncensored on
+*[[Walt Disney Treasures: Wave Three|Walt Disney Treasures: On the Front Lines]]
+==External links==
+* [http://www.bcdb.com/cartoons/Walt_Disney_Studios/Shorts/Armed_Forces_Shorts/index.html ''The Big Cartoon Database'' - Disney's Armed Forces Shorts]
+*[http://www.disneyshorts.org/wartime/index.html ''The Encyclopedia of Disney Animated Shorts'' - Disney's Wartime and Armed Forces Shorts]
+{{Wikipedia}}
+{{DEFAULTSORT:Walt Disney's World War Ii Productions For Armed Forces}}
+[[Category:Lists]]
+[[Category:Animated shorts]]
+[[Category:Films]]
+[[Category:Non-Disney]]
+[[Category:World War II films]]
+[[Category:Lists of films]]

@@ -1,0 +1,80 @@
+{{Infobox character
+|image = Swedish Chef.jpg
+|films = ''[[w:c:muppets:The Muppet Movie|The Muppet Movie]]<br>[[w:c:muppets:The Great Muppet Caper|The Great Muppet Caper]]<br>[[w:c:muppets:The Muppets Take Manhattan|The Muppets Take Manhattan]]<br>[[The Muppet Christmas Carol]]<br>[[Muppet Treasure Island]]<br>[[w:c:muppets:Muppets from Space|Muppets from Space]]<br>[[w:c:muppets:It's a Very Merry Muppet Christmas Movie|It's a Very Merry Muppet Christmas Movie]]<br>[[The Muppets' Wizard of Oz]]<br>[[The Muppets (film)|The Muppets]]<br>[[Muppets Most Wanted]]''
+|shows = ''[[w:c:muppets:The Muppet Show|The Muppet Show]]<br>[[w:c:muppets:MuppeTelevision|MuppeTelevision]]<br>Muppets Tonight<br>[[The Muppets (TV series)|The Muppets]]<br>[[Muppet Babies (2018 series)|Muppet Babies]]<br>[[Muppets Now]]<br>[[Muppets Haunted Mansion]]''
+|rides = ''[[Muppet Vision 3-D]]''<br>''[[Midship Detective Agency]]''
+|animator = 
+|games = ''[[My Muppets Show]]<br>[[Disney Emoji Blitz]]<br>[[Disney Tsum Tsum]]<br>[[Disney Heroes: Battle Mode]]''
+|model = 
+|designer = [[Jim Henson]]<br>Don Sahlin
+|alias = Tom (dubbed for Danny Kaye, as his uncle)
+|occupation = Chef<br>Comedian<br>Actor<br>Performer
+|affiliations = [[The Muppets (franchise)|The Muppets]]
+|family = Unnamed uncle
+|minions = [[Angelo]]
+|actor = [[Jim Henson]] ([[1975]]-[[1990]])<br>[[Bill Barretta]] ([[1996]]-present)
+|likes = Cooking, singing
+|dislikes = Living things for foods getting away
+|powers = 
+|paraphernalia = Various kitchen utensils, cookware, axes, guns
+|voice = Matt Danner (2018 reboot)
+|status=Active}}
+{{Quote|Bork! Bork! Bork!|The Swedish Chef's catchphrase|The Muppets}}
+'''The Swedish Chef''' is the incomprehensible preparer of foodstuffs from ''[[Wikipedia:The Muppet Show|The Muppet Show]]''. A rather literal variation of the live-hand Muppet concept, the Swedish Chef is a humanoid character, with human hands rather than gloves.
+
+==Background==
+The Swedish Chef was a regular among the Muppets in ''The Muppet Show''. His sketches in it began with him singing his signature song in a trademark mock Swedish, a semi-comprehensible gibberish which parodies the characteristic vowel sounds of Swedish. After this introduction, the Chef continues to speak gibberish while preparing a particular recipe. His commentary is spiced with the occasional English word to clue the viewer into what he is attempting.
+
+In episode 316, Danny Kaye, portraying the chef's uncle in a sketch, claims that the Swedish Chef's first name is Tom. However, since Kaye was not a blood relative, in reality, this information may be considered apocryphal. Many years later on ''[[The Muppets (2015)|The Muppets]]'', [[Christina Applegate]] misinterprets his name as Megan in "Bear Left Then Bear Write", when he was actually just saying, "me, me."<ref>[https://twitter.com/BobKushell/status/653663904925548544 @BobKushell on Twitter] 4:09 PM - 12 Oct 2015</ref>
+
+The Swedish Chef has appeared in every Muppet movie to date and is one of only a handful of characters to have a speaking role in every film. In ''The Muppet Movie'', he operates the projector for the film. In ''[[Muppet Treasure Island]]'', he appears as the chef for the boars on the island, wearing a pig snout. The vegetables break the fourth wall regarding his appearance, commenting "well, how else did you think we were going to get him into this movie?"
+
+===Development===
+According to [[Brian Henson]] in one of his introductions for ''The Muppet Show'', [[Jim Henson]] had this tape that he used to play which was 'How to Speak Mock Swedish':<blockquote>"''He used to drive to work and I used to ride with him a lot. And he would drive to work trying to make a chicken sandwich in Mock Swedish or make a turkey casserole in Mock Swedish. It was the most ridiculous thing you had ever seen. And people at traffic lights used to stop and sort of look at him a little crazy. But that was the roots of the character that would eventually become the Swedish Chef''."</blockquote>Jim Henson had previously explored the idea of a funny foreign chef at the US Food Fair that took place in Hamburg, [[Germany]] in [[1961]], where ''Sam and Friends'' character Omar prepared a flaming salad while speaking in some quite comprehensible mock German that Henson and Jerry Juhl had previously scribbled down in phonetics.<ref>[http://www.henson.com/jimsredbook/2010/11/15/11-1969/ Jim Henson's Red Book], 11/1961 - "Jerry and I did show in Hamburg, Germany – Dept. of Agriculture."</ref>
+
+==Gallery==
+{{Gallerylink}}
+
+==Trivia==
+*The Chef's gibberish gained a life of its own with the creation of a Unix filter capable of converting standard English to Chefspeak in [[1992]]. The filter quickly became a staple of hacker culture and eventually spread to the mainstream with Swedish Chef translators on several Web sites such as Google. In [[2003]], Opera Software published a special Bork version of its internet browser that turned the MSN Web site into mock Swedish. Mozilla Firefox also contains a popular add-on called Bork Bork Bork! that allows the selective translation of text from Web pages of the user's choice.
+*While The Swedish Chef normally has live human hands, he also occasionally has Muppet hands.
+*It is implied that the Swedish Chef is, or has at least, married. A wedding ring has appeared on the Swedish Chef's left hand as early as [[2006]]. In [[2014]], a plush version of the character donning his ring was released to coincide with the release of ''[[Muppets Most Wanted]]''.
+*The Chef is one of the few regular characters from ''The Muppet Show'' whose original dialogue from the English version remains the same in most Non-English speaking countries.
+*According to the inside gatefold cover for ''The Muppet Revue'', The Swedish Chef was actually born in Denmark and moved to Sweden when he was a baby.
+*The Swedish Chef has appeared, at least briefly, in every Muppet film to date.
+
+==References==
+{{reflist}}
+{{MuppetsWiki}}
+{{The Muppets}}
+{{DisneyTsumTsum}}
+{{Disney Emoji Blitz}}
+{{Disney Heroes: Battle Mode}}
+{{DEFAULTSORT:Swedish Chef, The}}
+[[es:El Chef Sueco]]
+[[nl:The Swedish Chef]]
+[[pt-br:Chef Sueco]]
+[[Category:Males]]
+[[Category:Chefs]]
+[[Category:Muppet Treasure Island characters]]
+[[Category:Adults]]
+[[Category:Characters who break the Fourth Wall]]
+[[Category:Scandinavian characters]]
+[[Category:The Muppet Christmas Carol characters]]
+[[Category:Heroes]]
+[[Category:The Muppets characters]]
+[[Category:Musicians]]
+[[Category:The Muppets' Wizard of Oz characters]]
+[[Category:Muppets Most Wanted characters]]
+[[Category:Characters in Disney parks]]
+[[Category:Characters in video games]]
+[[Category:Singing characters]]
+[[Category:Acquired characters]]
+[[Category:Disney Junior characters]]
+[[Category:Live-action characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Comic characters]]
+[[Category:Disney Heroes: Battle Mode characters]]
+[[Category:Muppet Babies characters]]
+[[Category:Disney Emoji Blitz]]

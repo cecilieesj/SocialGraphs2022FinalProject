@@ -1,0 +1,36 @@
+{{Infobox character
+|image = Sticky Lou.jpg
+|name = Sticky Lou
+|games = ''[[Toontown Online]]''
+|appearance = Magenta Mouse
+|occupation = Shopkeeper
+|alignment = Good/Neutral}}
+'''Sticky Lou''' is a Mouse NPC and a shopkeeper toon residing in Blue Glue (Direct 2 You) on Loopy Lane in [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central]. Sticky Lou is also an NPC that you might have to rescue in the Sellbot VP Battle ''(Therefore, he is a SOS Toon)''. Completing the battle and rescuing him will give you his SOS Card, which is a 4-star Toons Hit SOS.
+
+==Toontasks==
+*Visit Sticky Lou ''(Blue Glue Direct 2 You, Loopy Lane)''
+*Recover Some Oil from Sellbots ''(Anywhere)''
+*Return To Sticky Lou
+*Recover some Grease from Lawbots ''(Anywhere)''
+*Return to Sticky Lou
+*Recover Water from Cashbots ''(Anywhere)''
+*Return to Sticky Lou.
+'''Reward: 3+ Laff'''
+
+==SOS Toon==
+Sticky Lou is also an SOS Toon. He is a 4-star Toons Hit. When called upon, he will use his Pixie Dust to all toons, making toons hit cogs no matter what accuracy it is.
+
+This SOS will last 1 Round.
+
+==Trivia==
+*All Toons hit SOS Toons have a Toon Name with a word starts with ''"S"'' ''(The other SOS Toons being Soggy Bottom and Soggy Neil).''
+*Many users have recreated Sticky, with the name - Stickylou.
+
+﻿
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Mice]]
+[[Category:Males]]
+[[Category:Animated characters]]
+[[Category:Characters in video games]]
+{{Toontown Online}}

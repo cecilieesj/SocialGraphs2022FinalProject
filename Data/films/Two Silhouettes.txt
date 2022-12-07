@@ -1,0 +1,37 @@
+{{Infobox film
+|image = 6813316457_55f6d4a062.jpg
+|imagewidth = 250px
+|name = Two Silhouettes
+|director = [[Jack Kinney]]
+|producer = [[Walt Disney]]
+|writer = 
+|studio = [[Walt Disney Productions]]
+|distributor = [[RKO Radio Pictures]]
+|release = [[August 15]], [[1946]]
+|language = English
+}}
+'''''Two Silhouettes''''' is an animated segment in the musical anthology film ''[[Make Mine Music]]''.
+
+==Synopsis==
+A ''rotoscoped'' silhouetted ballet fantasy set to the music of Dinah Shore.
+
+==Gallery==
+<gallery position="center" captionalign="center" widths="150" spacing="small">
+41905.jpg
+41906.jpg
+41907.jpg
+41908.jpg
+41909.jpg
+41910.jpg
+41911.jpg
+41912.jpg
+41913.jpg
+41914.jpg
+Tumblr lyu1uwu6PQ1r3jmn6o1 1280.png
+</gallery>
+
+{{Make Mine Music}}
+[[Category:Make Mine Music]]
+[[Category:1946 shorts]]
+[[Category:Animated shorts]]
+[[Category:Make Mine Music segments]]

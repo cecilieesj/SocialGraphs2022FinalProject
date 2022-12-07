@@ -1,0 +1,17 @@
+{{Infobox character
+|image = Tutorial Tom.png
+|name = Tutorial Tom
+|games = ''[[Toontown Online]]''
+|appearance = Sea Green shirt, light brown pants
+|alignment = Neutral}}
+'''Tutorial Tom''' is a Dog NPC toon with a sea green shirt, and light brown pants. He helps new toons, how to get started in the game, and only appears in the Toontorial of the gameplay, In that time, He teaches you how to use gags and gives you your very first gags, a Squirting Flower and a Cupcake, and starts you out and also gives you your first Toontask, to defeat a Flunky outside his shop. After you defeat the Flunky, Tutorial Tom comes to you and says to go back and get your reward from Toon HQ, he then says "Have Fun!" and goes in his blackhole.
+
+==Trivia==
+*At first, Tutorial Tom's face was a short face then later on the developers changed his face to a longer face.
+*Including Tutorial Tom, all the toons in the Toontorial are dogs.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Dogs]]
+[[Category:Males]]
+{{Toontown Online}}

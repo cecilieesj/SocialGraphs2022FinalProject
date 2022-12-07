@@ -1,0 +1,39 @@
+{{Infobox character
+|image = Midnight Man.jpg
+|shows = ''[[Moon Knight (TV series)|Moon Knight]]''
+|games = 
+|voice = 
+|inspiration =
+|fullname = Anton Mogart
+|affiliations = 
+|powers =
+|paraphernalia = 
+|actor= Gaspard Ulliel
+|alias = 
+|status = Unknown}}
+'''Anton Mogart''' is a [[Marvel Comics]] character that appears in ''[[Moon Knight (TV series)|Moon Knight]]'', played by the late Gaspard Ulliel.
+
+Anton Mogart was created by Doug Moench and Bill Sienkiewicz.
+
+He is a mysterious antiquities collector and an old friend of [[Scarlet Scarab|Layla El-Faouly]].
+
+== Trivia ==
+*This is Gaspard Ulliel's only [[The Walt Disney Company|Disney]] role, as well as one of his final roles, as he died in a skiing accident on [[January 19]], [[2022]].
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150">
+Moon Knight - 1x03 - The Friendly Type - Photography - Layla and Anton.jpg
+</gallery>
+
+==External Links==
+* {{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Anton Mogart|Marvel Cinematic Universe Wiki}}
+
+{{Marvel Cinematic Universe}}
+[[pt-br:Anton Mogart]]
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Moon Knight characters]]
+[[Category:Live-action characters]]
+[[Category:Martial Artists]]
+[[Category:Horsemen]]
+[[Category:Acquired characters]]

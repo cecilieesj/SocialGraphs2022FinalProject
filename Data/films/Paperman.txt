@@ -1,0 +1,63 @@
+{{Infobox film
+|name = Paperman
+|image = Paperman-Poster-paperman-33851422-1404-2048.jpg
+|caption = Poster illustrated by Jeff Turley
+|director = [[John Kahrs]]
+|producer = Kristina Reed<br>[[John Lasseter]]
+|music = [[Christophe Beck]]
+|studio = [[Walt Disney Animation Studios]]<br>[[Walt Disney Pictures]]
+|language = English
+|time = 7 minutes
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[November 2]], [[2012]] <small>(with ''[[Wreck-It Ralph (film)|Wreck-It Ralph]]'')</small>
+}}
+'''''Paperman''''' is a [[2012]] black-and-white 3D hand-drawn/computer animated short film produced by [[Walt Disney Animation Studios]]. The short blends traditional animation and computer animation. It is directed by John Kahrs. The short won both an Academy Award for Best Animated Short Film at the 85th Academy Awards, and the Annie Award for Best Animated Short Subject at the 40th Annie Awards. ''Paperman'' was the first animated short film produced by [[Walt Disney Animation Studios]] to win the Academy Award since [[It's Tough to Be a Bird|''It's Tough to Be a Bird'']], in [[1969]].
+
+==Plot==
+A man named [[George (Paperman)|George]] is standing on an elevated train platform in mid-20th century [[New York City]] when he is hit by a flying piece of paper. The paper belongs to a beautiful woman, [[Meg]], who accidentally dropped it as a gust of wind blew it away. The same thing happens to George when an incoming train dislodges one of his papers and blows it onto Meg's face, leaving a red lipstick mark on the paper. George is entranced by the lipstick mark and Meg's beauty, and therefore misses her departing on the train.
+
+George arrives at work, despondent over the fact that he will never see Meg again. That is, until, he looks out his window and sees her at the building across the street. After failing to get her attention by waving his arms, George uses a stack of contracts to get her attention by turning them into paper airplanes and throwing them into her open window despite repeated warnings from his boss. 
+
+Unfortunately, his efforts are met with only varying levels of failure. As he uses his last contract, he still hasn't gotten her attention, and in desperation, he uses the lipstick-marked paper, although this fails as well when he drops it. Meg then leaves her office, and George follows. Unfortunately, he fails to see which way she went, and heads home in disgust. However, the paper airplanes are not done with him yet.
+
+Many of the planes landed in a nearby alley, and when the lipstick paper lands amongst them, they take action and set off in pursuit of George and Meg. George is covered in airplanes, and is blown towards a train station by a heavily gusting wind, the airplanes seemingly stuck to him.
+
+Meanwhile, Meg is found by the lipstick airplane, and recognizing it, she follows it to a different train station. The two are finally brought together as the airplanes force them out onto the same platform at a third station where both their trains stop. The two finally meet, as the credits roll.
+
+==Cast==
+* [[George (Paperman)|George]] - [[John Kahrs]]
+*[[Meg]] - [[Kari Wahlgren]]
+*Boss - Jeff Turley
+
+==Development==
+Kahrs said that the idea for the short materialized when he was working as an animator at Blue Sky Studios. When describing the inspiration for the film's unique style of animation, which was created with a new in-house technology called Meander, Kahrs stated, "We brought together as best we could the expressiveness of 2D drawing immersed with the stability and dimensionality of CG. It really goes back to working with [[Glen Keane]] on ''[[Tangled]]'', watching him draw over all the images."
+
+The technique, called "final line advection", gives the artists and animators a lot more influence and control over the final product as everything is done within the same department; "In Paperman, we didn’t have a cloth department and we didn’t have a hair department. Here, folds in the fabric, hair silhouettes and the like come from of the commited design decision-making that comes with the 2D drawn process. Our animators can change things, actually erase away the CG underlayer if they want, and change the profile of the arm. And they can design all the fabric in that Milt Kahl kind-of way, if they want to."
+
+==Release==
+The short film premiered at the Annecy International Animated Film Festival in June 2012. The short's theatrical release was before the feature film ''[[Wreck-It Ralph (film)|Wreck-It Ralph]]'', in release on November 2, 2012. Although Disney Brochure 2013 stated ''[[Partysaurus Rex]]'' was shown with the film in the [[United Kingdom]], ''Paperman'' was actually shown with it.
+
+==Gallery==
+{{Gallerylink}}
+
+==Awards==
+Paperman won the Academy Award for best animated short film at the The 85th Annual Acad­emy Awards in 2013.<ref name="cartoon">{{cite news |url=http://blog.bcdb.com/academy-award-winning-animated-shorts/ |title=Academy Award Winning Animated Shorts|first=Dave|last=Koch|publisher=Big Cartoon News |date=20 February 2013|accessdate=20 February 2013 }}</ref> The film also won the Annie Award for Best Animated Short Subject in 2013.
+
+==Trivia==
+*In ''Wreck-It Ralph'', the piece of paper with Meg's lipstick can be seen on the bulletin board at Bad Anon.
+*After Paperman won the Academy Award for best animated short in 2013, producer Kristina Reed began throwing about three or four paper airplanes (with kisses on them, like the ones seen in the film) from her seat in the mezzanine. The paper planes landed nowhere near the stage, and the move went largely unnoticed by the crowd (and wasn't caught on television), but security nonetheless kicked her out of the Dolby Theatre auditorium. Luckily, after a short protest, security brought Reed back to her seat about 10 minutes later.
+*Part of this film's music score was later reused in the [[20th Century Studios]] film ''[[Free Guy]]'' (which was also composed by Christophe Beck).
+
+==References==
+{{Reflist}}
+{{wikipedia}}
+{{DISPLAYTITLE:''Paperman''}}
+[[Category:Animated shorts]]
+[[Category:Best Short Academy Award winners]]
+[[Category:Academy Award winning films]]
+[[Category:2012 shorts]]
+[[Category:3-D films]]
+[[Category:Featured shorts]]
+[[Category:Annie Award Winner]]
+[[Category:Academy Award Nominated films]]
+[[Category:Hybrid films]]

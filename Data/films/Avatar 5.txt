@@ -1,0 +1,54 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox_film
+|image = 
+|director = [[James Cameron]]
+|producer = James Cameron<br>Jon Landau
+|writer = James Cameron<br>Shane Salerno
+|starring = Sam Worthington<br>[[Zoe Saldana]]<br>Stephen Lang<br>[[Sigourney Weaver]]<br>Matt Gerald<br>[[Kate Winslet]]<br>Dileep Rao<br>David Thewlis
+|music = Simon Franglen
+|cinematography = Mauro Fiore
+|editor = 
+|studio = [[20th Century Studios]]<br>Lightstorm Entertainment 
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[December 22]], 2028
+|language = English
+|budget = 
+|preceded = ''[[Avatar 4]]''
+|followed = 
+|website = https://www.avatar.com/
+|imdb_id = 5637536}}
+'''''Avatar 5''''' is an upcoming epic science fiction film directed by [[James Cameron]] and produced by [[20th Century Studios]]. It is a direct sequel to ''[[Avatar 4]]'' and the final film in the franchise. It is set to be released on [[December 22]], 2028.
+
+==Cast==
+===Na'vi===
+*Sam Worthington as Jake Sully
+*[[Zoe Saldana]] as Neytiri
+*[[Kate Winslet]] as Ronal
+
+===Humans===
+*Dileep Rao as Dr. Max Patel
+*Matt Gerald as Corporal Lyle Wainfleet
+*Stephen Lang as Colonel Miles Quaritch
+*David Thewlis as TBA
+
+==Production==
+On July 31, 2017, ''Variety'' reported that [[20th Century Studios]] would develop sequels to ''Avatar'', with the fifth one being the final one in the franchise.<ref>[https://variety.com/2017/artisans/news/avatar-sequels-progress-to-next-level-as-weta-digital-begins-visual-effects-work-on-the-films-james-cameron-1202510639/ ‘Avatar’ Sequels Progress to Next Level as Weta Digital Begins Visual Effects Work]</ref>
+
+Filming on ''[[Avatar 4]]'' and ''Avatar 5'' have not begun yet, as James Cameron is waiting for the audience response to ''[[Avatar: The Way of Water]]'' and ''[[Avatar 3]]''.<ref>[https://deadline.com/2017/09/avatar-james-cameron-four-consecutive-sequels-1-billion-budget-1202176798/ ‘Avatar’ Starts Production Today On Four Consecutive Sequels At Over $1 Billion Budget]</ref>
+
+==References==
+{{Reflist}}
+
+==External Links==
+*{{IMDb|title/tt5637536}}
+*[[w:c:james-camerons-avatar:Avatar 5|Avatar 5]] on [[w:c:james-camerons-avatar|Avatar Wiki]]
+{{Avatar}}
+{{DISPLAYTITLE:''Avatar 5''}}
+[[Category:Avatar]]
+[[Category:Live-action films]]
+[[Category:Sequel films]]
+[[Category:20th Century Fox films]]
+[[Category:2028 films]]
+[[Category:3-D films]]
+[[Category:4DX films]]

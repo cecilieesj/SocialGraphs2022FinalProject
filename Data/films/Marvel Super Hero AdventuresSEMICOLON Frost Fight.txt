@@ -1,0 +1,107 @@
+{{Marvel Database:Film Template
+| Image                   = Marvel Super Hero Adventures Frost Fight.jpg
+| Aliases                 = 
+
+| Directors               = Mitch Schauer
+| Producers               = Trevor Bentley; Dan Buckley; Alan Fine; Cort Lane; Stan Lee; Jeph Loeb; Joe Quesada; Eric Radomski; Kari Rosenberg; A.J. Vargas; Stephen Wacker; Darrell Yeo
+| ComicWriters            = 
+| StoryWriters            = 
+| ScreenplayWriters       = Mark Banker
+| Musicians               = Kristopher Carter, Michael McCuistion, Lolita Ritmanis 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Walt Disney Studios Home Entertainment
+| Running Time            = 73 minutes
+| Rating                  = PG<ref>For fantasy action</ref>
+| Budget                  = 
+| Release Date            = December 11, 2015
+| IMDB ID                 = 5272052
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[Avengers (Earth-TRN838)|Avengers]]}}
+** {{Only|[[Anthony Stark (Earth-TRN838)|Iron Man (Tony Stark)]]}}
+** {{Only|[[Steven Rogers (Earth-TRN838)|Captain America (Steve Rogers)]]}}
+** {{Only|[[Bruce Banner (Earth-TRN838)|Hulk (Bruce Banner)]]}}
+** {{Only|[[Thor Odinson (Earth-TRN838)|Thor]]}}
+** {{Only|[[Carol Danvers (Earth-TRN838)|Captain Marvel (Carol Danvers)]]}}
+* {{Only|[[Humberto Lopez (Earth-TRN838)|Reptil (Humberto Lopez)]]}}
+'''Supporting Characters:'''
+* {{Only|[[Jolnir (Earth-TRN838)|Santa Claus (Jolnir)]]}}
+* {{Only|[[89P13 (Earth-TRN838)|Rocket Raccoon]]}}
+* {{Only|[[Groot (Earth-TRN838)|Groot]]}}
+'''Antagonists:'''
+* {{Only|[[Loki Laufeyson (Earth-TRN838)|Loki]]}}
+* {{Only|[[Ymir (Earth-TRN838)|Ymir]]}}
+* Giant [[Dinosaurs|Dinosaur]] {{Only}}
+'''Other Characters:'''
+* {{Only|[[Light Elves]]}}
+** {{Only|[[Athidel (Earth-TRN838)|Athidel]]}}
+** {{Only|[[Malitri (Earth-TRN838)|Malitri]]}}
+** {{Only|[[Jorokraken (Earth-TRN838)|Jorokraken]]}}
+* {{Only|[[Mrs. Claus (Earth-TRN838)|Mrs. Claus]]}}
+* Nick {{Only}}
+* {{Only|[[Howard Stark (Earth-TRN838)|Howard Stark]]}} {{FlashOnly}}
+* {{Only|[[Joseph Rogers (Earth-TRN838)|Joseph Rogers]]}} {{FlashOnly}}
+* {{Only|[[Sarah Rogers (Earth-TRN838)|Sarah Rogers]]}} {{FlashOnly}}
+* Mr. Lopez {{Only}} {{FlashOnly}}
+* Mrs. Lopez {{Only}} {{FlashOnly}}
+* {{Only|[[Jennifer Walters (Earth-TRN838)|She-Hulk (Jennifer Walters)]]}}
+* {{Mentioned|[[Heimdall (Earth-TRN838)|Heimdall]]}}
+* {{Mentioned|[[Frost Giants]]}}
+'''Locations:'''
+* {{Only|[[Earth-TRN838]]}}
+** {{Only|[[Earth|Midgard/Earth]]}}
+*** {{Only|[[North Pole]]}}
+*** Monuriki Island {{Only}}
+*** {{Only|[[United States of America]]}}
+**** {{Only|[[New York (State)|New York]]}}
+***** {{Only|[[New York City]]}}
+****** {{Only|[[Manhattan]]}}
+******* {{Only|[[Stark Tower|Avengers Tower]]}}
+** {{Mentioned|[[Asgard (Realm)|Asgard]]}}
+*** {{Mentioned|[[Asgard (City)|City of Asgard]]}}
+**** {{Only|[[Bifrost]]}}
+** {{Only|[[Niffleheim]]}}
+** {{Only|[[Alfheim]]}}
+*** Santa's House {{Only}}
+'''Items:'''
+* {{Only|[[Casket of Ancient Winters]]}}
+* {{Only|[[Casket of Ancient Power]]}}
+* Dimensional Gate Bridge {{Only}}
+* {{Only|[[Mjolnir]]}}
+* {{Only|[[Fossilized Amulet]]}}
+* {{Only|[[Iron Man Armor MK L (Earth-TRN838)|Iron Man Armor MK L]]}}
+* {{Only|[[Captain America's Shield]]}}
+* {{Only|[[Loki's Scepter]]}}
+'''Vehicles:'''
+* Santa's Sleigh {{Only}}
+* Rocket's Ship {{Only}}
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Mick Wingert|Mick Wingert]] as [[Anthony Stark (Earth-TRN838)|Iron Man (Tony Stark)]] and [[Athidel (Earth-TRN838)|Athidel]]
+* [[wikipedia:Matthew Mercer|Matthew Mercer]] as [[Steven Rogers (Earth-TRN838)|Captain America (Steve Rogers)]]
+* [[wikipedia:Travis Willingham|Travis Willingham]] as [[Thor Odinson (Earth-TRN838)|Thor]]
+* [[wikipedia:Fred Tatasciore|Fred Tatasciore]] as [[Bruce Banner (Earth-TRN838)|Hulk (Bruce Banner)]] and [[Ymir (Earth-TRN838)|Ymir]]
+* [[wikipedia:Grey DeLisle|Grey DeLisle]] as [[Carol Danvers (Earth-TRN838)|Captain Marvel (Carol Danvers)]]
+* Antony Del Rio as [[Humberto Lopez (Earth-TRN838)|Reptil (Humberto Lopez)]]
+* [[wikipedia:Trevor Devall|Trevor Devall]] as [[89P13 (Earth-TRN838)|Rocket Raccoon]], [[Just A Really Very Intelligent System (Earth-TRN838)|J.A.R.V.I.S.]] and [[Malitri (Earth-TRN838)|Malitri]]
+* [[wikipedia:Kevin Michael Richardson|Kevin Michael Richardson]] as [[Groot (Earth-TRN838)|Groot]]
+* [[wikipedia:Steven Blum|Steven Blum]] as [[Jolnir (Earth-TRN838)|Santa Claus (Jolnir)]] and Nick
+* Jane Singer as [[Mrs. Claus (Earth-TRN838)|Mrs. Claus]]
+* [[wikipedia:Troy Baker|Troy Baker]] as [[Loki Laufeyson (Earth-TRN838)|Loki]]
+
+| Notes                   = 
+===Trailer===
+<gallery>
+Marvel’s Super Hero Adventures Frost Fight Clip Loki Fights Captain America
+</gallery>
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Direct-to-Video Films|Marvel Films]]
+* [[w:c:christmas-specials:Marvel Super Hero Adventures: Frost Fight!|Marvel Super Hero Adventures: Frost Fight! at Christmas Specials Wiki]]
+}}
+[[ru:Приключения супергероев: Морозный бой!]]

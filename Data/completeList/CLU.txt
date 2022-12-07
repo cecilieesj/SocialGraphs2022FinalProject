@@ -1,0 +1,69 @@
+{{Infobox character
+|name=CLU
+|image=Clu mcp.png
+|films=''[[Tron]]''
+|shows=
+|games=
+|rides=
+|actor=[[Jeff Bridges]]
+|animator=
+|voice=
+|model=
+|designer=[[Steven Lisberger]]
+|inspiration=
+|awards=
+|alias=
+|personality=Skilled, calculating
+|appearance=Gray armor with glowing yellow circuit lines
+|occupation=Hacker program
+|alignment=Good
+|goal=To find evidence of [[Ed Dillinger]]'s wrongdoing
+|home=
+|likes=
+|dislikes=
+|powers=Computer hacking
+|weapons=[[Battle Tank]]
+|fate=Derezzed by the Master Control Program
+|quote="You think we can merge with this memory, Bit?"}}
+{{Quote|Forget it, mister high-and-mighty Master Control! You aren't making me talk.|CLU's final words}}
+'''CLU''' (short for '''Codified Likeness Utility''') is a character in the [[1982]] film, ''[[Tron]]''.
+
+==Appearances==
+===''[[Tron]]''===
+CLU was a hacker program created by his User, [[Kevin Flynn]], and is, thus, identical in appearance, although he spoke in a different voice. In [[1982]], Flynn utilized CLU to hack the [[ENCOM]] mainframe in an attempt to find evidence of [[Ed Dillinger]]'s fraud. Dillinger had stolen credit for video games Flynn had created for ENCOM, allowing him to Senior Executive of the company. While searching the system in a tank, [[Recognizer]]s are alerted of his presence, and begin pursuit. CLU manages to destroy several Recognizers, but is ambushed while escaping. While CLU manages to destroy the attacking Recognizer, his tank is struck by debris, sending it out of control and into a wall. More Recognizers arrive as CLU tries to escape the tank, capturing him.
+
+CLU is taken to the [[Master Control Program (MCP)]], who interrogates him. After being thrown onto a torture device, CLU defiantly refuses to tell the MCP information and is derezzed by the MCP, who takes away his functions. Shortly after his death, CLU's user, Flynn, is digitized into the system and takes over where CLU left off, eventually succeeding in bringing freedom to the system and exposing Dillinger as a fraud with the help of [[Tron (character)|Tron]], [[Ram]], and [[Yori (Tron)|Yori]]. Flynn is then made CEO of ENCOM.
+
+===''[[TRON: Legacy]]''===
+{{Main|CLU 2.0}}
+In [[1983]], Flynn creates a new system, the [[The Grid|Grid]], with the help of Tron and a completely new version of CLU, named [[CLU 2.0]]. The second CLU was initially created to oversee the new system; however, by 1989, this CLU would take over the system to create his own perfect system. To escape to the real world, CLU tries to take Flynn's identity disc, but is tricked during the pursuit and is ultimately reabsorbed by Flynn, resulting in an explosion that kills them both.
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150" captionalign="center">
+tron-disneyscreencaps.com-500.jpg|CLU driving a vehicle
+tron-disneyscreencaps.com-559.jpg
+tron-disneyscreencaps.com-590.jpg
+tron-disneyscreencaps.com-653.jpg
+tron-disneyscreencaps.com-664.jpg
+tron-disneyscreencaps.com-689.jpg|CLU about to run into a wall.
+tron-disneyscreencaps.com-707.jpg
+Tron-disneyscreencaps.com-773.jpg|"Got a pirate program here... says his name's Clu."
+tron-disneyscreencaps.com-798.jpg
+tron-disneyscreencaps.com-806.jpg
+tron-disneyscreencaps.com-811.jpg
+tron-disneyscreencaps.com-815.jpg
+tron-disneyscreencaps.com-881.jpg|CLU being derezzed.
+</gallery>
+
+{{TronWiki}}
+{{Tron}}
+[[Category:Programs]]
+[[Category:Characters]]
+[[Category:Deceased characters]]
+[[Category:Males]]
+[[Category:Tron characters]]
+[[Category:Those destroyed]]
+[[Category:Alternate Forms]]
+[[Category:Disney characters]]
+[[Category:Heroes]]
+[[Category:Live-action characters]]

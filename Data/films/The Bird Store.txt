@@ -1,0 +1,45 @@
+{{Infobox film
+|image = Ss-birdstore.jpg
+|imagewidth = 250px
+|name = The Bird Store
+|director = [[Wilfred Jackson]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = Marion Darlington<br>Purv Pullen<br>[[Walt Disney]]<br>[[Pinto Colvig]]
+|music = [[Frank Churchill]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[January 16]], [[1932]]<ref>[https://archive.org/details/motionpictureher107unse/page/n1415/mode/2up/ Motion Picture Herald (1932)]</ref>
+|time = 6:51
+|preceded = ''[[The Ugly Duckling (1931)|The Ugly Duckling]]''
+|followed = ''[[The Bears and Bees]]''
+}}
+'''''The Bird Store''''' is a black-and-white [[Silly Symphony|''Silly Symphony'']] that debuted on [[January 16]], [[1932]].
+
+==Synopsis==
+When a cat tries to catch a bird in the pet shop, the birds turn the tables as they band together against the cat.
+
+==Home video releases==
+'''DVD'''
+*''[[Walt Disney Treasures]]: More Silly Symphonies''
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150" captionalign="center">
+15605.jpg
+15606.jpg
+15607.jpg
+birdstore3.jpg|The Marx Brothers as birds renamed as the Four Marx Birds
+15610.jpg
+15611.jpg
+15612-2.jpg
+Tumblr n7piiwbFXM1qhcrb0o1 1280.jpg
+</gallery>
+
+==References==
+<references/>
+{{Silly Symphony}}
+{{DEFAULTSORT:Bird Store, The}}
+[[Category:Silly Symphonies]]
+[[Category:Animated shorts]]
+[[Category:1932 shorts]]

@@ -1,0 +1,54 @@
+{{Infobox character
+|image = VIN.png
+|shows = ''[[Fast Layne]]''
+|voice = [[Nate Torrence]]
+|inspiration = [[Herbie]]<br>[https://knight-rider.fandom.com/wiki/K.I.T.T._(2000) K.I.T.T.]
+|fullname = Vehicle Integrated Neurotech
+|alias = Project VIN
+|affiliations = 
+|home = 
+|parents = Cheryl Reed (creator/"mother")<br>Rob Reed (creator/"father")
+|siblings = [[Layne Reed]] ("sister")
+|likes = Having fun, being outside, jokes, going fast, car movies
+|dislikes = His boot, being cooped up, car crushers
+|powers = Self-driving<br>Boosters<br>Adjustable tires
+|status = Active}}'''VIN''' (short for '''Vehicle Integrated Neurotech''') is an intelligent self-driving car that appears in the mini-series, ''[[Fast Layne]]''.
+==Background==
+VIN is the most sophisticated car ever built, possessing advanced technology that is classified and worth stealing. VIN's creators are Rob and Cheryl Reed, who happen to be [[Layne Reed]]'s parents. At the time he never knew the identity of his creators, and since they are also Layne's parents this ironically makes them siblings. By "[[Mile 3: VIN Goes Wild]]", he refers himself as her brother.
+
+Despite being a self-driving car with sophisticated technology, VIN is somewhat immature and not so bright. He likes to get out and have fun, which often gets him into trouble.
+
+===Physical Appearance===
+VIN is an orange and black sport hatchback with automated gullwing doors and a visor like grille that projects his eyes. He has a white interior with white seating and orange seat belts. The dashboard features a touch screen center console and no steering wheel or pedals (unless VIN is switched to manual control). On top of the dash is VIN's modulator, which projects similar eyes seen at the front of the car. He has a heads up display windscreen and a hand print scanner built into the armrest.
+
+===Features===
+*'''Manual override:''' Despite being a self-driving car, VIN can be driven manually like a normal car. By DNA recognition, a steering wheel and foot pedals will pop up on the driver's side.
+*'''Boosters:''' VIN has jet boosters that allow him to jump over long distances.
+*'''Monster truck tires:''' VIN's tires can enlarge into monster truck like tires. They can also deploy spikes that enable him to drive up mountains or cliffs.
+*'''Plug Sockets:''' VIN comes with a selection of different plug sockets.
+*'''Servo Arm:''' Deploys from VIN's hood.
+*'''Climbing Gear:''' Hidden behind the back seat, VIN comes with climbing gear for mountain rescue operations. Deployed from the exhaust is a winch that can be used to lower and retract the climbing rope.
+*'''Smoke Deterrent:''' VIN can release black smoke from his rear.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150" captionalign="center">
+Mile 1 - The Voice in the Shed 1.jpg
+Mile 1 - The Voice in the Shed 4.jpg
+Mile 1 - The Voice in the Shed 5.jpg
+Mile 1 - The Voice in the Shed 9.jpg
+Mile 2 - Paid 2 drive 1.jpg
+Mile 2 - Paid to Drive 2.jpg
+Fast Layne poster.jpg
+Fast Layne cast.jpg
+</gallery>
+
+{{CharacterStub}}
+{{Fast Layne}}
+[[Category:Vehicles]]
+[[Category:Transportation]]
+[[Category:Technology]]
+[[Category:Fast Layne characters]]
+[[Category:Disney characters]]
+[[Category:Live-action characters]]
+[[Category:Anthropomorphic characters]]
+[[Category:Heroes]]

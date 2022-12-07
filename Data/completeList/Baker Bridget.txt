@@ -1,0 +1,14 @@
+{{Infobox character
+|image = Baker Bridget.jpg
+|games = ''[[Toontown Online]]''
+|occupation = Baker
+|alignment = Good}}
+'''Baker Bridget''' is a [[w:c:toontown:Toon|Toon]] NPC [[w:c:toontown:Mouse|mouse]]. She runs [[w:c:toontown:The Mostly Toasty Bread Company|The Mostly Toasty Bread Company]] on [[w:c:toontown:Walrus Way|Walrus Way]], in [[w:c:toontown:The Brrrgh|The Brrrgh]].
+
+==SOS Toon==
+﻿Baker Bridget is also an [[w:c:toontown:SOS Toon|SOS Toon]]. She is a 3-star Throw Restock. When rescued, she will reward toons who call her to Restock and every toon who is currently in battle with [[w:c:toontown:Throw Gags|Throw Gags]].
+[[Category:Toontown characters]]
+[[Category:Mice]]
+[[Category:Females]]
+[[Category:Characters]]
+{{Toontown Online}}

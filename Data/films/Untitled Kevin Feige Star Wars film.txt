@@ -1,0 +1,40 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|title = Untitled Kevin Feige Star Wars film
+|director = 
+|producer = [[Kevin Feige]]<br>[[Kathleen Kennedy]]
+|writer = [[Michael Waldron]]
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Lucasfilm]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = 
+|budget = 
+|gross = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 11026882
+|tv_com_id = }}
+'''''Untitled Kevin Feige Star Wars film''''' is an upcoming ''[[Star Wars]]'' film. 
+
+==Production==
+On September 25, 2019, ''The Hollywood Reporter'' reported that [[Kevin Feige]] and [[Kathleen Kennedy]] teamed up to develop a brand new Star Wars film for [[Lucasfilm]]. Alan Horn said that following the conclusion of the "Skywalker saga", Kennedy was pursuing a "new era in Star Wars storytelling" and it made sense for her to develop a film with Feige since he was a big fan of the franchise. Feige was said to have discussed having a major actor play a specific role in the film by that point.<ref>[https://www.hollywoodreporter.com/movies/movie-news/marvel-s-kevin-feige-developing-star-wars-movie-disney-1243481/ ‘Star Wars’ Shocker: Marvel’s Kevin Feige Developing New Movie for Disney (Exclusive)]</ref>
+
+On January 7, 2021, ''Deadline'' reported that [[Michael Waldron]] was hired to pen the script, after working on ''[[Loki (TV series)|Loki]]'' and ''[[Doctor Strange in the Multiverse of Madness]]''.<ref>[https://deadline.com/2021/01/loki-michael-waldron-kevin-feiges-star-wars-movie-as-part-of-newoverall-deal-with-disney-1234665495/ ‘Loki’ Exec Producer Michael Waldron Tapped To Write Kevin Feige’s ‘Star Wars’ Movie As Part Of New Deal With Disney]</ref>
+
+==References==
+{{Reflist}}
+
+{{FilmStub}}
+{{Star Wars}}
+[[Category:Star Wars Films]]
+[[Category:Upcoming films]]
+[[Category:Films]]
+[[Category:Lucasfilm]]

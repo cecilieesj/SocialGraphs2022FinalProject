@@ -1,0 +1,36 @@
+{{Infobox character
+|image = Chicken Boy.jpg
+|name = Chicken Boy
+|games = ''[[Toontown Online]]''
+|occupation = 
+|appearance = Yellow duck with a forest green shirt that has a picture of a soccer ball
+|alignment = Good/Neutral}}
+'''Chicken Boy''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC yellow [http://toontown.wikia.com/wiki/Duck Duck] who owns [http://toontown.wikia.com/wiki/Pea_Soup_Cafe Pea Soup Cafe] on [http://toontown.wikia.com/wiki/Walrus_Way Walrus Way], [http://toontown.wikia.com/wiki/The_Brrrgh The Brrrgh]. He will have a [http://toontown.wikia.com/wiki/Toontask Toontask] that will reward Toons a [http://toontown.wikia.com/wiki/Laff Laff] Boost. He wears a yellow-sleeved and green shirt with a football on it.
+
+==Toontask==
+1. Visit Chicken Boy on Walrus Way, The Brrrgh.
+
+2. Recover a Soccer Ball from one of the following [http://toontown.wikia.com/wiki/Cogs Cogs]:
+*[http://toontown.wikia.com/wiki/Head_Hunter Head Hunter] (Anywhere)
+*[http://toontown.wikia.com/wiki/Spin_Doctor Spin Doctor] (Anywhere)
+*[http://toontown.wikia.com/wiki/Money_Bags Money Bags] (Anywhere)
+*[http://toontown.wikia.com/wiki/Two-Face Two-Face] (Anywhere)
+
+3. Return Soccer Ball to Chicken Boy.
+
+'''Reward:''' +1 Laff Boost
+
+==Trivia==
+*Wearing a Soccer Ball T-Shirt and having to recover a Soccer Ball from one of the Cogs may indicate his passion for Soccer.
+*He wears an unreleased T-Shirt, meaning no Toon has the yellow-sleeved and green soccer ball T-shirt.
+
+
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Males]]
+[[Category:Ducks]]
+[[Category:Characters introduced in video games]]
+[[Category:Characters in video games]]
+[[Category:Animated characters]]
+{{Toontown Online}}

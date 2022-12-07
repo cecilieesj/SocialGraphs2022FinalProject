@@ -1,0 +1,64 @@
+{{Infobox Film
+|image = Title-boundin.jpg
+|director = [[Bud Luckey]]<br>Roger Gould
+|writer = Bud Luckey
+|music = Bud Luckey
+|studio = [[Pixar|Pixar Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Buena Vista Pictures]]
+|release = [[May 7]], [[2003]]<br>[[November 5]], [[2004]] (with ''[[The Incredibles]]'')
+|time = 4 minutes, 40 seconds
+|preceded = ''[[Mike's New Car]]''
+|followed = ''[[Jack-Jack Attack]]''
+|website = https://www.pixar.com/boundin
+|imdb_id = 0395479}}
+'''''Boundin'''''' is a [[2003]] [[Pixar]] short film. It was written and directed by [[Bud Luckey]].
+
+==Plot==
+In the west lives a [[lamb]] whose pride and joy is his wool. When a man comes and shears him, the lamb becomes depressed and uncomfortable without his wool. Later, a [[Jackalope]] arrives to the sulking lamb to teach him to bounce back from life's troubles by telling the lamb to conquer his fear without wool. The Jackalope tells the lamb that he can still bounce around the meadow, even without his wool. Getting used to jumping without wool, the lamb gets his wool back again as the time passes by. Some time later, the lamb gets sheared again and this time gets used to bouncing without wool, thanks to the Jackalope who helped him.
+
+==Voice Cast==
+*[[Bud Luckey]] as Narrator, [[Lamb]], and [[Jackalope]]
+
+==Trivia==
+*This is the first theatrical short to have dialogue. To date, this and ''[[Lava]]'' are the only [[Pixar Animation Studios|Pixar]] shorts to feature dialogue that aren't based on a pre-existing property. Indeed, the man talking on the radio in ''[[Day & Night]]'' is a recording of a speech by {{WikipediaLink|Wayne Dyer|Dr. Wayne Dyer}}.<ref>[http://www.pixar.com/short_films/Theatrical-Shorts/Day-and-Night Pixar.com]</ref>
+*[[Bud Luckey]], who performed all the voices, played [[Rick Dicker]] in ''[[The Incredibles]]'' and [[Chuckles the Clown]] in ''[[Toy Story 3]]''. He also worked on ''{{WikipediaLink|Sesame Street}}'' as the Alligator King in an animated short and voiced [[Eeyore]] in the [[2011]] Disney film ''[[Winnie the Pooh (film)|Winnie the Pooh]]''.
+**In ''[[Hawaiian Vacation]]'', according to commentary on the [[Pixar animated shorts compilation videos|Pixar shorts DVD collection]], the luau chant that Chuckles does roughly translates to "Bound and rebound", a line from this short.
+*In the first draft, Rick Dicker was going to sit on a chair and tell the story.
+*The car that the man drives is the same car model as [[Stanley (Cars)|Stanley]] from ''[[Cars]]''. There is a statue of Stanley in that film.
+*The hand that grabs the lamb belongs to [[Philip Sherman|the dentist]] from ''[[Finding Nemo]]''.
+**Additionally, the fish seen in this short are based on [[Tank Gang#Gurgle|Gurgle]].
+*The ''Cars'' DVD and Blu-Ray contain a version of ''Boundin''' with [[Mater]] as the Jackalope and [[Lightning McQueen]] as the lamb. [[Guido]] is also seen briefly as six prairie dogs.
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150" captionalign="center">
+Boundin poster.png|Poster
+Carsboundin.jpg|[[Stanley (Cars)|Stanley]] statue in ''[[Cars]]''.
+Boundin Prairie Dogs.jpg
+Boundin Dancing Trouts.jpg|The fish resembling [[Tank Gang#Gurgle|Gurgle]] from Finding Nemo
+Boundin Burrowing Owl.jpg
+Boundin Rattlesnake.jpg
+Boundin'1.jpg
+Boundin Jackalope Plush.jpg
+Boundin Lamb Plush.jpg
+Boundin Gopher Plush.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+== External links==
+*{{Interwiki|https://vignette.wikia.nocookie.net/pixar/images/6/64/Favicon.ico|pixar|Boundin'|Pixar Wiki}}
+
+{{The Incredibles}}
+{{DISPLAYTITLE:''Boundin'<nowiki/>''}}
+[[es:Boundin']]
+[[fr:Saute-mouton]]
+[[pl:Odbijany]]
+[[pt-br:Pular]]
+[[zh:跳跳羊]]
+[[Category:Animated shorts]]
+[[Category:The Incredibles]]
+[[Category:Pixar shorts]]
+[[Category:2003 shorts]]
+[[Category:Academy Award nominated films]]
+[[Category:Annie Award Winner]]

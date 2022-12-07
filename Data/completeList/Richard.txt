@@ -1,0 +1,33 @@
+{{Infobox character
+|name = Richard
+|image = Frocks25.jpg
+|rides = [[Food Rocks]]
+|voice = [[Little Richard]] 
+|inspiration = [[Little Richard]]|games = [[Walt Disney World Explorer]]}}'''Richard''' is a character in the attraction [[Food Rocks]] at [[Epcot]].
+
+== Appearances ==
+
+=== Food Rocks ===
+A pineapple caricature of [[Little Richard]], he sings a healthy eating themed version of "[[Tutti Frutti]]" and reappears to join the cast in "[[Choose Before You Chew]]".
+
+=== [[Walt Disney World Explorer]] ===
+A dancing sprite of Richard appears on the program's map of Epcot's [[Future World]] to represent the show.
+
+== Trivia ==
+* According to a [https://www.youtube.com/watch?v=PIDqHaDjDBI Tiara Talk Show podcast interview with the creative team behind Food Rocks], Little Richard kept slipping into the original lyrics of the song during recording sessions out of habit since it had been such a staple of his performing career for years.
+
+== Gallery ==
+<gallery>
+WDWExplorerTheLandPavilion.png|Richard in [[Walt Disney World Explorer]]
+Food Rocks Queue Poster Richard.jpg|thumb|Poster of Richard from the Food Rocks queue.
+</gallery>
+<br />{{CharacterStub}}
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Singing characters]]
+[[Category:Theme park characters]]
+[[Category:Foods]]
+[[Category:Food Rocks characters]]
+[[Category:Males]]
+[[Category:Musicians]]
+[[Category:Characters in video games]]

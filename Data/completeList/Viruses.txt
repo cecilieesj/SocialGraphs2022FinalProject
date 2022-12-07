@@ -1,0 +1,36 @@
+{{Infobox character
+|image = SUNP01.jpg
+|films = ''[[The Brave Little Toaster to the Rescue]]''
+|voice = Various
+|alias = Sparks
+|occupation = Computer viruses
+|home = Inside [[Wittgenstein]] (temporarily)
+|likes = Plaguing [[Wittgenstein]] and destroying his inner tubes and circuitry
+|dislikes = Being defeated
+|powers = Destruction of [[Wittgenstein]]'s inner tubes and circuitry
+|status = Destroyed}}
+
+The '''Viruses''', also known as the '''Sparks''', are minor antagonists from ''[[The Brave Little Toaster to the Rescue]]''.
+
+==Role in the film==
+They appear during the "[[Chomp and Munch]]" sequence as they plague [[Wittgenstein]] by destroying his inner tubes and circuitry while singing the chorus part of the song. When Wittgenstein is later revived by [[Radio]]'s WFC 11-12-55 tube, the viruses automatically get destroyed (though a few remaining ones form the word "Yipe!" before they too are destroyed) and are never seen again throughout the rest of the movie.
+
+==Trivia==
+*The viruses are similar to the [[w:c:mario:Virus|Viruses]] from the Nintendo puzzle video game, ''{{WikipediaLink|Dr. Mario}}''.
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small">
+SUNP02.JPG|Viruses' defeat
+</gallery>
+
+{{The Brave Little Toaster}}
+[[Category:The Brave Little Toaster characters]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Animated characters]]
+[[Category:Singing characters]]
+[[Category:Those destroyed]]
+[[Category:Villains]]
+[[Category:Anthropomorphic characters]]
+[[Category:Non-Disney characters]]
+[[Category:Deceased characters]]

@@ -1,0 +1,27 @@
+{{Infobox character
+|name = Zapotec
+|image = [[File:Zapotec.png|thumb]]
+|designer = Massimo De Vita
+|fullname = Professor Zachary Zapotec
+|alias = Zapotec, Professor Zapotec
+|personality =
+|appearance = Elderly, bearded anthropomorphic dog wearing a three-piece suit, a bowler hat, yellow/white [[Toon Gloves|toon gloves]] and yellow shoes
+|friends = [[Mickey Mouse]], [[Minnie Mouse]], [[Goofy]], [[Marlin (comic character)|Marlin]], [[Chief O'Hara]] 
+|enemies = [[Pete]]
+|home = [[Mouseton]]
+|occupation=*Archeologist
+*Director of Mouseton Museum|affiliations=*Mickey Mouse
+*Goofy
+*Professor Marlin|likes=History, Discovering historical mysteries, classic music|dislikes=Rock Music, causing anachronism in the history}}'''Zapotec''' is a professor from the Time Machine serial in the ''[[Mickey Mouse]]'' comics. He mainly appears in international releases. He first appeared in the comic story "Topolino e l'enigma di Mu", released in [[August 19]],[[1979]].
+
+==External links==
+{{Inducks character|ZAP}}
+
+{{CharacterStub}}
+[[Category:Mickey Mouse universe characters]]
+[[Category:Comic characters]]
+[[Category:Dogs]]
+[[Category:Professors]]
+[[Category:Males]]
+[[Category:Characters introduced in comics]]
+[[Category:Scientists]]

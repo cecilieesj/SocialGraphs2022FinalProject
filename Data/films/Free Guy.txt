@@ -1,0 +1,121 @@
+{{Infobox film	
+|image = Free Guy Final Poster.jpg
+|name = Free Guy
+|director = [[Shawn Levy]]
+|producer = [[Ryan Reynolds]]<br>[[Shawn Levy]]<br>Sarah Schechter<br>Greg Berlanti<br>Adam Kolbrenner
+|writer = Matt Lieberman {{small|(screenplay and story)}}<br>[[Zak Penn]] {{small|(screenplay)}}
+|starring = [[Ryan Reynolds]]<br>[[Jodie Comer]]<br>[[Lil Rel Howery]]<br>[[Utkarsh Ambudkar]]<br>[[Joe Keery]]<br>[[Taika Waititi]]
+|music = [[Christophe Beck]]
+|cinematography = George Richmond
+|editor = Dean Zimmerman
+|studio = [[20th Century Studios]]<br>[[21 Laps Entertainment]]<br>Berlanti Productions<br>[[Maximum Effort]]<br>Lit Entertainment Group<br>[[TSG Entertainment]]
+|distributor = [[20th Century Studios]]
+|release = [[August 13]], [[2021]]
+|time = 115 minutes
+|language = English
+|budget = $125 million
+|gross = $331.5 million
+|preceded = 
+|followed = 
+|website = https://www.20thcenturystudios.com/movies/free-guy
+|imdb_id = 6264654}}
+'''''Free Guy''''' is a [[2021]] American science fiction action comedy film directed by [[Shawn Levy]] from a screenplay by Matt Lieberman and [[Zak Penn]]. The film stars [[Ryan Reynolds]] as a bank teller named Guy, who discovers that he is actually a non-player character in an open-world video game called Free City. He then becomes the hero of the story and tries to save his friends from deletion by the game's creator. 
+
+Starring [[Jodie Comer]], [[Joe Keery]], [[Lil Rel Howery]], [[Utkarsh Ambudkar]], and [[Taika Waititi]], the film premiered at the Piazza Grande section of the 74th Locarno Film Festival in [[Switzerland]] on [[August 10]], 2021. Following a year-long delay because of the COVID-19 pandemic, ''Free Guy'' was released theatrically in the [[United States]] on [[August 13]], 2021 by [[20th Century Studios]]. The film has grossed $331.5 million worldwide, making it the eighth highest-grossing film of 2021, and received generally positive reviews from critics.
+==Synopsis==
+In the open-world video game ''Free City'', Guy (Reynolds) is a non-player character (NPC) working as a bank teller. Thanks to a program developed by programmers Millie (Comer) and Keys (Keery) inserted into ''Free City'' by the publisher Antoine (Waititi), Guy becomes aware of his world being a video game, and takes steps to make himself the hero, creating a race against time to save the game before the developers can shut it down.<ref name="syfy premise" /><ref name="ew reveal">{{cite web | url = https://ew.com/comic-con/2019/10/03/free-guy-ryan-reynolds-footage-poster-nycc/ | title = Ryan Reynolds turns videogame hero (or not) in first Free Guy footage and poster | first1 = Nick | last1 = Romano |first2= Tyler | last2= Aquilina | date = October 3, 2019 | accessdate = December 7, 2019 | work = [[Entertainment Weekly]] }}</ref>
+
+==Plot==
+''Free City'' is an open-world video game developed by Soonami Games. Its code was stolen from a game called ''Life Itself'', developed by Walter "Keys" McKey and Millie Rusk, and made into ''Free City'' by Soonami's head developer Antwan. Keys has since taken a job at Soonami, while Millie spends time within ''Free City'' as her avatar Molotov Girl to find evidence of her and Keys' code and prove they are the rightful owners of the code.
+
+In the game, Guy, a non-player character (NPC), works as a bank teller and spends time with his best friend Buddy, unaware his world is a video game. One day, he encounters Molotov Girl, who is singing the song he says his dream girl will like and begins to deviate from his programming. He takes a pair of sunglasses from a player who tries to rob his bank, through which he sees ''Free City'' from the player's head-up display. Guy speaks to Millie, and she initially thinks he's another player named "blue shirt Guy", and not an NPC. She tells him to level up to over 100 before she will speak to him again. Rather than leveling up through the typical destructive acts, Guy opts to become a good guy, completing missions within ''Free City'' to reach level 100, during which he becomes a worldwide sensation as players watch the progression of "blue shirt Guy".
+
+Millie and Guy meet again when she breaks into the Stash, another player's well-protected area within the game that holds evidence of her source code. Guy helps Millie escape the Stash, and Millie recognizes that Guy is becoming sentient and believes he can help her find their original code within the game world. Keys and Millie realize that Guy's self-awareness came about from artificial intelligence code containing Millie's personal preferences that Keys had included in ''Life Itself'', which in turn had led Guy to develop a romantic interest with Millie. When Millie tells Guy the truth of his situation, Guy breaks off their relationship, telling her that he's in love with her. However, after talking with Buddy about the situation, Guy realizes there was something more than love in that relationship and gains full sentience. Guy returns to Millie to agree to help before ''Free City'' is wiped from Soonami's servers to make way for its sequel, ''Free City 2'', in two days.
+
+Guy breaks into the Stash again with Buddy's help, but now its owner, recognizing Guy as "blue shirt Guy", gladly hands over the evidence. Guy's continued popularity threatens the launch of ''Free City 2'', and Antwan orders Keys and his new partner Mouser to reboot Guy's programming, but Keys refuses and is fired, and Antwan reboots Guy himself.
+
+In-game, Millie finds Guy without any memories of his sentience, but recalling Keys' advice that Guy would need a reminder, she kisses him. Guy's sentience is restored, and he recalls the location of the Island, part of ''Life Itself'' that will not be protected from the pending data wipe and is the only proof of Millie's and Keys' original code. As Guy and Millie persuade the other NPCs in the game that they are more than their programming, Antwan tries to delete Guy and Molotov Girl from the game. Keys interferes to protect them and direct them to the Island, broadcasting the effort to all of the ''Free City'' players who had been ejected from the game. Antwan then sends Dude, a bigger and unfinished copy of Guy developed for ''Free City 2'', into the game, but Guy is able to befriend him after a fight. Antwan takes a final step of destroying the game's servers with an ax, but Guy makes it to the Island in time, an event seen by gamers all over the world. Millie coerces Antwan to return the ''Free City'' code and intellectual property (IP) back to her and Keys.
+
+Without the support of Millie's and Keys' code, sales for ''Free City 2'' tank, and Antwan becomes wrapped up in several media controversies, resulting in him being ousted from Soonami. Keys, Mouser, and Millie start a new company with the recovered code to release ''Free Life'', bringing Guy, Buddy, Dude, and the other ''Free City'' NPCs into it. ''Free Life'' is a success, while, thanks to Guy, Millie realizes that Keys' code was in fact a love letter to her, and they embrace and kiss.
+
+Meanwhile, in ''Free Life'', Guy reunites with Buddy and they both begin to live their own lives without having to follow their original coding from ''Free City''.
+
+==Cast==
+*[[Ryan Reynolds]] as Guy ("Blue Shirt Guy")
+**Reynolds also portrays Dude, with his face superimposed onto Aaron W. Reed's body via special effects.
+*[[Jodie Comer]] as Millie Rusk / Molotov Girl<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/jodie-comer-joins-ryan-reynolds-free-guy-1170852|title='Killing Eve' Star Jodie Comer Joins Ryan Reynolds in 'Free Guy' (Exclusive)|website=The Hollywood Reporter|access-date=June 22, 2019}}</ref>
+*[[Joe Keery]] as Walter "Keys" McKeys
+*[[Lil Rel Howery]] as Buddy
+*[[Utkarsh Ambudkar]] as Mouser<ref>{{Cite web|url=https://ew.com/movies/2019/12/07/free-guy-trailer-ryan-reynolds-jodie-comer/|title=Game on! Ryan Reynolds, Jodie Comer star in first 'Free Guy' trailer|website=Entertainment Weekly|access-date=2019-12-08}}</ref>
+*[[Taika Waititi]] as Antwan<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/taika-waititi-utkarsh-ambudkar-join-foxs-action-comedy-free-guy-1197998|title=Taika Waititi, Utkarsh Ambudkar Join Fox's Action-Comedy 'Free Guy'|website=The Hollywood Reporter|access-date=June 22, 2019}}</ref><ref name="syfy premise">{{cite web|url=https://www.syfy.com/syfywire/free-guy-composer-grand-theft-auto-truman-show|title = Free Guy Composer Says Ryan Reynolds Comedy Will Be Grand Theft Auto Meets The Truman Show|first=Josh|last=Weiss|date =November 26, 2019|accessdate = December 7, 2019 | work = Syfy }}</ref>
+*Camille Kostek as Bombshell<ref>{{cite news |url=https://www.bostonherald.com/2019/06/01/hudson-and-jeff-yang-camille-kostek-and-ryan-reynolds-and-more/ |title=Hudson and Jeff Yang, Camille Kostek and Ryan Reynolds … and more |last=Vanni |first=Olivia |date=June 1, 2019 |work=Boston Herald |access-date=June 22, 2019}}</ref><ref>{{Cite web|last=|first=|date=|title=Camille Kostek|url=https://www.instagram.com/tv/CF-pelPFHHr/|url-status=live|archive-url=|archive-date=|access-date=2020-10-06|website=Instagram|language=en|quote="I can’t wait for you to meet ‘Bombshell’..."}}</ref>
+*Britne Oldford as Barista
+*Camille Kostek as Bombshell
+*Matty Cardoraple as Keith, the gamer behind Revenjamin Buttons
+*[[Channing Tatum]] as Revenjamin Buttons, Keith's in-game avatar.
+*Mike Davine as Officer Johnny
+
+The film features cameo appearances from gamers and streamers [[w:c:youtube:Jacksepticeye|Jacksepticeye]], [[w:c:youtube:Ninja|Ninja]], [[w:c:youtube:Pokimane|Pokimane]], [[w:c:youtube:DanTDM|DanTDM]], and [[w:c:youtube:LazarBeam|LazarBeam]] who, in the film, provide commentary on Guy on their respective YouTube and Twitch channels from their own perspectives.<ref>{{cite news |url=https://www.hollywoodreporter.com/heat-vision/ryan-reynolds-free-guy-trailer-wows-new-york-comic-con-1245235 |title=First Look at Ryan Reynolds' 'Free Guy' Wows New York Comic Con |last=McMillan |first=Grahame |date=October 3, 2019 |work=The Hollywood Reporter |access-date=October 3, 2019}}</ref> Actor [[Chris Evans]], ''Good Morning America'' host Lara Spencer and, posthumously, ''Jeopardy!'' host [[Alex Trebek]] make cameo appearances as themselves.<ref>{{cite news |url=https://www.vulture.com/2020/10/ryan-reynolds-free-guy-trailer-2020-watch.html |title=Free Guy Trailer: Wreck-It Ryan Reynolds |last=Ivie |first=Devon |date=October 5, 2020 |work=Vulture |accessdate=October 5, 2020}}</ref> Other voice cameos in the film include [[Tina Fey]] as Keith's vacuuming mom, [[Hugh Jackman]] as a masked avatar in an alley, [[Dwayne Johnson]] as a bank robber, and [[John Krasinski]] as a silhouetted gamer.
+
+==Production ==
+''Free Guy'' had been in development at [[20th Century Studios|20th Century Fox]] prior to its acquisition by Disney, and is one of the first Fox films to continue production under Disney ownership, as well as under the studio's new name 20th Century Studios.<ref name="ew reveal" /> [[Ryan Reynolds]], who produced the film along with Shawn Levy, said "I haven’t been this fully immersed and engaged in something since ''[[w:c:xmenmovies:Deadpool (film)|Deadpool]]''".<ref name="ew reveal" />
+
+The film started principal photography in Boston in May 2019, including around the city's Financial District.<ref>{{cite news |url=https://www.bostonglobe.com/lifestyle/names/2019/05/14/ryan-reynolds-strikes-pose-with-free-guy-cast-filming-ramps-boston/4u8NH4R4Zrche0PruCkNoO/story.html |title=Ryan Reynolds strikes a pose with 'Free Guy' cast as filming ramps up in Boston |last=Brown |first=Lillian |date=May 14, 2019 |work=The Boston Globe |access-date=June 22, 2019}}</ref><ref>{{Cite web | url = https://www.boston.com/culture/entertainment/2019/05/17/ryan-reynolds-movie-free-guy-sets-up-to-film-in-boston | title = Ryan Reynolds movie 'Free Guy' sets up to film in Boston | first = Kevin | last = Slane | date = May 17, 2019 | accessdate = December 7, 2019 | work = The Boston Globe }}</ref> Filming also took place in downtown Worcester, Massachusetts,<ref>{{cite news |url=https://www.masslive.com/worcester/2019/05/ryan-reynolds-movie-free-guy-transforms-downtown-worcester-into-car-chase-scene.html |title=Ryan Reynolds movie 'Free Guy' transforms downtown Worcester into car chase scene|date=May 22, 2019 |work=MassLive |access-date=June 22, 2019}}</ref> and Framingham, Massachusetts, in the former Framingham Bank building,<ref>{{cite news |url=https://www.metrowestdailynews.com/news/20190507/framingham-bank-to-be-featured-in-hollywood-movie-free-guy |title=Framingham bank to be featured in Hollywood movie 'Free Guy' |last=Haddadin |first=Jim |date=May 7, 2019 |work=The MetroWest Daily News |access-date=June 22, 2019}}</ref> and at the former Naval Air Station in South Weymouth, Massachusetts.<ref>{{cite web|url=https://www.patriotledger.com/news/20190521/life-goes-on-at-union-point-after-developers-ouster|title=Life goes on at Union Point after developer’s ouster|last=Trufant|first=Jessica|work=The Patriot Ledger|date=May 21, 2019|accessdate=October 27, 2020}}</ref>
+
+==Music==
+{{Main|Free Guy (soundtrack)}}
+
+The film's score was composed by [[Christophe Beck]].<ref>{{cite web |title=Christophe Beck to Score Shawn Levy's 'Free Guy' |url=https://filmmusicreporter.com/2019/10/16/christophe-beck-to-score-shawn-levys-free-guy/ |website=Film Music Reporter |access-date=August 29, 2021 |date=October 16, 2019 |url-status=live}}</ref> Levy had originally intended to use the song "Your Love" by The Outfield, but Reynolds suggested using "[[Fantasy]]" by [[Mariah Carey]] instead. Reynolds talked to Carey about getting permission to use it and she allowed them to use the song throughout the film.<ref>{{cite web |date=August 4, 2021 |last1=Ferme |first1=Antonio |title=Ryan Reynolds Talks About His 'Love' of Mariah Carey and Using Her Song 'Fantasy' in 'Free Guy' |url=https://variety.com/2021/scene/news/ryan-reynolds-mariah-carey-free-guy-1235034874/ |website=Variety }}</ref> A cover version of "Fantasy" sung by [[Jodie Comer]] was also used in the film. The ''[[Avengers]]'' theme and ''[[Star Wars]]'' theme, respectively by [[Alan Silvestri]] and [[John Williams]], appear in the film.
+
+==Release==
+''Free Guy'' was initially scheduled to be theatrically released in the United States on July 3, 2020, but was delayed due to the COVID-19 pandemic.<ref>{{cite web|url=https://www.thewrap.com/black-widow-moves-to-november-as-other-mcu-films-shift-back-to-2021-2022/|title=‘Black Widow’ Moves to November as Other MCU Films Shift Back to 2021, 2022|website=The Wrap|first=Brian|last=Welk|date=April 3, 2020|accessdate=April 3, 2020}}</ref><ref name=":0">{{Cite web|url=https://deadline.com/2019/12/free-guy-trailer-ryan-reynolds-shawn-levy-joe-keery-20th-century-fox-1202803053/|title=Fox Releases First Trailer For ‘Free Guy’; Ryan Reynolds Refers To Unlikely Superhero Origin Story As Modern-Day ‘Back To The Future’ – CCXP|last=Ramos|first=Dino-Ray|date=2019-12-07|website=Deadline|language=en|access-date=2020-01-25}}</ref><ref>{{cite web |url=https://www.hollywoodreporter.com/heat-vision/ryan-reynolds-star-action-comedy-free-guy-1133159 |title=Ryan Reynolds, Shawn Levy Team for Action Comedy 'Free Guy' Boy of Pandemic|last=Kit |first=Borys |date=September 28, 2018 |website=The Hollywood Reporter |access-date=June 22, 2019}}</ref> It was then moved to December 11, 2020.<ref>{{cite web|url=https://www.syfy.com/syfywire/ryan-reynolds-new-free-guy-release-date|title=Ryan Reynolds reveals Free Guy December new release date|website=SyFy|first=Benjamin|last=Bullard|date=April 5, 2020|accessdate=July 7, 2020}}</ref><ref>{{Cite web|last=Gemmill|first=Allie|date=2020-10-04|title=New 'Free Guy' Trailer Teaser Hypes Ryan Reynolds' Comedy That You'll (Probably) See in 2020|url=https://collider.com/free-guy-trailer-teaser-ryan-reynolds-jodie-comer/|access-date=2020-10-05|website=Collider|language=en-US}}</ref> In November 2020, the studio removed the film from its upcoming release schedule.<ref>{{Cite web|last= McClintock |first=Pamela |date=November 5, 2020|title=‘Free Guy,' 'Death on the Nile' Sail Out of 2020 Amid Ongoing COVID-19 Crisis |url= https://www.hollywoodreporter.com/news/free-guy-death-on-the-nile-sail-out-of-2020-amid-ongoing-covid-19-crisis |access-date=November 5, 2020 |website= The Hollywood Reporter}}</ref> On December 11, 2020, it was announced that the film would be released on March 26, 2021. It was then moved to May 21 the same year, then it was moved again to August 13.
+
+==Reception==
+On review aggregator website Rotten Tomatoes, the film holds an approval rating of 80% based on 280 reviews, with an average rating of 7.00/10. The website's critical consensus reads: "Combining a clever concept, sweet, self-aware humor, and a charming cast, ''Free Guy'' is frivolous fun." On Metacritic, the film has a weighted average score of 62 out of 100 based on 51 critics, indicating "generally favorable reviews".
+
+==Gallery==
+<gallery position="center" widths="185" captionalign="center">
+2020 - Free Guy Movie Poster.jpg|First Teaser Poster
+File:Free Guy Teaser Poster 2.jpg|Second Teaser Poster
+Free guy chinese new year poster.jpg|Chinese New Year poster
+Free guy chinese new year 2021 poster.png|Chinese New Year 2021 Poster
+Free Guy Official Poster.jpg|Previous Official Poster
+File:Free Guy Dolby Cinema Poster.jpg|Dolby Cinema Poster
+File:Free Guy IMAX Poster.jpg|IMAX Poster
+</gallery>
+
+==Videos==
+<gallery position="center" captionalign="center" widths="185">
+Free Guy Official Trailer 20th Century FOX
+Free Guy Meet the Cast of Free Guy 20th Century FOX
+FREE GUY New York Comic Con 2019
+Free Guy Trailer 2
+</gallery>
+
+==Trivia==
+*One of Guy's good deeds as a hero is saving a girl wearing similar clothes to [[Anna]] from ''[[Frozen]]'' (2013).
+*Weapons used by Guy during his fight against Dude include [[Captain America's Shield]], [[Hulk]]'s fist, and a [[Lightsaber]].
+*Captain America actor [[Chris Evans]] makes a cameo appearance as himself when Guy is seen with [[Captain America's Shield]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP|Free Guy}}
+*[https://www.20thcenturystudios.com/movies/free-guy Official website]
+
+{{Wikipedia}}
+{{Free Guy}}
+{{DISPLAYTITLE:''Free Guy''}}
+[[pt-br:Free Guy: Assumindo o Controle]]
+[[Category:Live-action films]]
+[[Category:2021 films]]
+[[Category:Films]]
+[[Category:20th Century Studios films]]
+[[Category:PG-13 rated films]]
+[[Category:3-D films]]
+[[Category:Free Guy]]
+[[Category:4DX films]]
+[[Category:IMAX films]]
+[[Category:Academy Award nominated films]]
+[[Category:Fox]]

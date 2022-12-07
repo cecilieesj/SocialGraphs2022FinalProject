@@ -1,0 +1,145 @@
+{{Infobox film
+|name= National Treasure
+|writer= '''Screenplay:'''<br>Jim Kouf<br>Marianne Wibberley<br>Cormac Wibberley<br>'''Story:'''<br>Jim Kouf<br>Oren Aviv<br>Charles Segars
+|producer= Jerry Bruckheimer<br>Jon Turteltaub
+|director=Jon Turteltaub
+|music= Trevor Rabin
+|distributor= [[Walt Disney Pictures]]<br>Jerry Bruckheimer Films
+|cinematography= Caleb Deschanel
+|release=[[November 19]], [[2004]]
+|time= 131 minutes
+|language= English
+|budget= $100,000,000
+|followed = ''[[National Treasure: Book of Secrets]]'' ([[2007]])
+|image = Movie national treasure.jpg
+|gross = $347.5 million}}
+'''''National Treasure''''' is a [[2004]] adventure film from [[Walt Disney Pictures]] written by Jim Kouf, [[Ted Elliott]], [[Terry Rossio]], Cormac Wibberley, and Marianne Wibberley, produced by [[Jerry Bruckheimer]], and directed by Jon Turteltaub.
+
+It is the first film in the ''National Treasure'' franchise and stars [[Nicolas Cage]], [[Diane Kruger]], Justin Bartha, [[Sean Bean]], [[Jon Voight]], Harvey Keitel, and [[Christopher Plummer]]. It is an adventure movie set in the United States about a search for a lost treasure, loosely based on the myth of a code on the back of the Declaration of Independence and involving stealing the document, which leads to a trail of clues and a back-story intertwined with the Knights Templar and the Freemasons.
+==Plot==
+The story centers on Benjamin Franklin Gates (Cage), an amateur cryptologist with a mechanical engineering degree from MIT and an American history degree from Georgetown who comes from a long line of treasure hunters that believe in the legend of a fantastic treasure trove of artifacts and gold, hidden by the Founding Fathers of the United States, and forgotten to all but a few. The first clue was given to Ben's great-great-great-great grandfather Thomas Gates ([[Jason Earles]]) by Charles Carroll, the last living signer of the Declaration of Independence, saying simply, "The secret lies with Charlotte."
+
+Using sophisticated computer arctic weather models, Ben, with his friend Riley Poole (Bartha) and financier Ian Howe (Bean), finds the wreckage of a Colonial ship, the ''Charlotte'', containing a meerschaum pipe engraved with a riddle. After examining the riddle, Ben deduces that the next clue is on the back of the Declaration of Independence. While Ben sees gaining access to such a highly guarded artifact as an obstacle, Ian finds no problem in stealing it. In the standoff, Ian escapes and the ''Charlotte'' explodes with Ben and Riley inside, nearly killing them.
+
+They attempt to warn the Department of Homeland Security, the FBI, and Dr. Abigail Chase (Kruger) at the National Archives, but no one takes them seriously, believing it to be too heavily guarded to be under any threat. Ben thinks otherwise, however, and decides to steal it to keep it from Ian. Ben and Riley manage to steal the Declaration during a 70th anniversary-gala, just before Ian arrives. Dr. Chase, who is holding a replica, is kidnapped by Ian who thinks she has the real one, and Ben has to engage in a car chase to rescue her. As she will not leave without the Declaration, and Ben will not let her leave with it, she is forced to go along with them.
+
+Ben and Riley agree that the only place to hide from the police would be Ben's father's (Voight) house. Despite his father's disbelief in the treasure, Ben manages to reveal an Ottendorf cipher on the back of the Declaration, referring to characters in the Silence Dogood letters. The coded message in the letters leads them to Independence Hall in Philadelphia, where they find special bifocals invented by [[Benjamin Franklin Gates]] inside of a brick from the building. Ben examines the back of the Declaration with the glasses, to find another clue. After a short chase, Ian gets the Declaration from Riley and Abigail, and the FBI arrests Ben, who has the glasses.
+
+When the FBI attempts to use Ben as bait to get the Declaration back, Ian arranges to have him escape by jumping from the deck of the USS ''Intrepid'', into the Hudson River, a feat not too difficult for Ben as a graduate of the Navy Diving and Salvage Training Center. Using Ben's father, Riley, and Abigail as leverage, Ian forces Ben to interpret the clue on the back of the declaration, a reference to a secret chamber under the Trinity Church in New York City. When they arrive at a seemingly dead end, Ben's father makes up another clue to keep Ian going, telling him a lantern is the clue to the Old North Church in Boston, referencing Paul Revere's ride. Ian goes to Boston with his men, leaving everyone else to die in the caverns.
+
+After Ian leaves, Ben reveals there is another exit that must be through the treasure room. They find a secret passage into another chamber. To their disappointment, they find it empty, and assume that the treasure was already moved. However, they realize a secondary exit must have been created in case of cave-ins. Ben examines the walls of the room, to find a hole the shape of the pipe from the ''Charlotte''. This lock opens a door into the true treasure room, containing artifacts from all periods of history.
+
+When they leave through the second exit and the FBI arrives, Ben discovers that the chief investigator, Special agent Peter Sadusky (Keitel), is a Freemason. Ben proposes to give the treasure to various museums around the world, with credit being given to the entire Gates family and Riley, with Dr. Chase not being penalized for the theft of the Declaration. However, Sadusky says that someone has to go to prison for the theft of the Declaration, so they fly to Boston, where Ian and his men are breaking the lock to gain entry to the Old North Church. FBI agents emerge from hiding and arrest them under charges of "kidnapping, attempted murder, and trespassing on government property." The U.S. government offers Ben and his friends ten percent of the treasure, but Ben only takes one percent and splits it with Riley. With his share, Ben and Abigail buy a mansion once owned by a man who knew Charles Carroll, and Riley buys a red Ferrari 360 Spider. The film ends with Abigail giving Ben a map and when he curiously asks what it leads to she just smiles a suggestive grin.
+
+==Clues and their meanings==
+*'''"The secret lies with ''Charlotte''"''' — refers to a ship that ended up frozen and preserved in the ice cap north of the Arctic Circle.
+*'''"The legend writ, the stain affected. The key in Silence undetected. Fifty-five in iron pen, Mr. Matlack can't offend"''' — Written on the stem of a meerschaum pipe. The pipe, found in a cask of gunpowder guarded by a skeletal captain, needed to be dipped in ink or a similar substance (in the film, blood is used) and then rolled across paper to read the clue, in the manner of a cylinder seal. The clue refers to the Declaration of Independence as well as the Silence Dogood Letters.
+*'''Ottendorf cipher on back of Declaration of Independence''' — Cipher where the key is the Silence Dogood letters. The cipher was written as a series of numbers (separated by dashes): the page number of the key text, the line on the page, and the letter in that line (disregarding spaces and punctuation). This piece of information is withheld from Ian at the beginning of the movie.
+**'''Ottendorf cipher solution''' — "The vision to see the treasured past, comes as the timely shadow crosses in front of the house of Pass and Stow" — refers to Independence Hall and the Liberty Bell.
+*'''$100 bill''' — The image of Independence Hall on the back supplies the specific time (2:22) to be at Independence Hall to find the next clue. Ben and team go to Independence Hall at 3:22 Eastern Daylight Saving Time because Daylight Saving was not established until World War I, as mentioned by Riley. Therefore, in 1776 when the painting was done, it would have been 2:22.
+*'''Ocular Device''' — Found in a hollow brick carved with the Masonic Square and compasses when the shadow from Independence Hall points to a specific brick in a nearby wall, the Ocular Device is needed to see the map in its entirety.
+*'''"Heere At The Wall"''' and the '''Trinity Church symbol''' — Found on the map when viewed through the Ocular Device, refers to Trinity Church in New York City on the intersection of Wall Street and Broadway which was originally called "D'Heere Street by the original Dutch settlers."
+*'''"Beneath Parkington Lane"''' — Found on the map when viewed through the Ocular Device when the lenses are adjusted. This refers to a Master Mason entombed in the Trinity Church Mausoleum, his tomb concealing the entrance to the underground location where the treasure was hidden: a secret temple of the Masons.
+*'''"Through The All-Seeing Eye"''' and the '''The Pipe''' — Pressing an eye engraved into the wall allowed the group to enter a hidden room, which was empty and is the main entrance to the treasure room and the exit. As the final clue, the pipe was not only a clue to the Declaration of Independence, but it is also the key to unlock the treasure room. The bowl of the pipe needed to be placed inside an imprint in the wall, which then allowed the stem of the pipe to turn the lock. The pipe bowl was then pushed to unlock the room that opens to the Templar Treasure and exit.
+==Cast==
+*[[Nicolas Cage]] as [[Benjamin Gates|Benjamin Franklin Gates]]
+*Justin Bartha as [[Riley Poole]]
+*[[Diane Kruger]] as [[Abigail Chase]]
+*[[Sean Bean]] as [[Ian Howe]]
+*[[Jon Voight]] as [[Patrick Henry Gates]]
+*Harvey Keitel as FBI Special Agent [[Peter Sadusky]]
+*[[Christopher Plummer]] as John Adams Gates
+*Yves Michel-Beneche as Museum Kid
+*[[Jason Earles]] as Thomas Gates
+*David Dayan Fisher as Shaw
+*Stewart Finlay-McLennan as Powell
+*Oleg Taktarov as Victor
+*Stephen A. Pope as Phil
+*Matthew Li as Henry
+*Annie Parisse as Agent Dawes
+
+==Home video releases==
+===Collector's Edition DVD===
+A special collector's edition, two-disc DVD set of the movie was released on December 18, 2007.
+===Blu-ray Disc===
+Disney released Blu-ray Disc versions of ''National Treasure'' and its sequel, ''National Treasure 2: Book of Secrets'', on May 20, 2008.
+==Soundtrack==
+===Track listing===
+{| class="wikitable"
+|-
+! Sl.No
+! Title
+! Length
+|-
+| 1
+| National Treasure Suite
+| 3:17
+|-
+| 2
+| Ben
+| 4:03
+|-
+| 3
+| Finding Charlotte
+| 1:04
+|-
+| 4
+| Library of Congress
+| 2:27
+|-
+| 5
+| Preparation Montage
+| 4:53
+|-
+| 6
+| Arrival at National Archives
+| 1:54
+|-
+| 7
+| The Chase
+| 4:22
+|-
+| 8
+| Declaration of Independence
+| 1:43
+|-
+| 9
+| Foot Chase
+| 3:34
+|-
+| 10
+| Spectacle Discovery
+| 3:18
+|-
+| 11
+| Interrogation
+| 4:30
+|-
+| 12
+| Treasure
+| 3:39
+|}
+
+==Sequels==
+===National Treasure: Book of Secrets===
+{{main|National Treasure: Book of Secrets}}
+Although the DVD commentary stated that there were no plans for a sequel, the film's box office gross of an unexpected $347.5 million worldwide warranted a second film, which was given the greenlight in 2005. ''[[National Treasure: Book of Secrets]]'', on DVD known as ''National Treasure 2: Book of Secrets'', was released on December 21, 2007.
+===National Treasure 3===
+Director Jon Turteltaub said that the filmmaking team will take its time on another ''National Treasure'' sequel, Though the second film ended with the question about page 47 of the President's book of secrets, Turteltaub responded in a press interview that the idea was not set in stone as the basis for ''National Treasure 3''. In an online press release Director Jon Turteltaub set a time table setting 2011 as the slated release date. As of [[2018]], the script was close to be completed but the Company still wasn't sold of the idea for the third film.
+
+==Trivia==
+* Before the movie got its rating, it was originally slated to be released under the [[Touchstone Pictures]] banner (which is part of Disney). When the film got its rating (which is PG), it was then put under the [[Walt Disney Pictures]] banner, as it is clear that it is a more family-friendly movie. This explains why the trailer shows Touchstone Pictures logo and when in theaters it had the Walt Disney Pictures logo instead.
+
+==External links==
+*[http://www.archives.gov/national-archives-experience/charters/treasure/index.html The National Archives "Our National Treasure" website]
+*[http://www.moviehole.net/news/20041116_4553.html Nicolas Cage interview for ''National Treasure''] at Movie Hole
+*[http://www.si.umich.edu/spies/methods-intelligence.html Secret Methods and Techniques - Intelligence letters] - From the collections at Clements Library
+
+{{National Treasure}}
+{{DISPLAYTITLE:''National Treasure''}}
+[[Category:Disney films]]
+[[Category:2004 films]]
+[[Category:Live-action films]]
+[[Category:Films]]
+[[Category:National Treasure]]
+[[Category:PG-rated films]]

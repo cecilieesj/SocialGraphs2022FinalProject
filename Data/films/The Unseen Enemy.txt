@@ -1,0 +1,30 @@
+{{Infobox film
+|name        = The Unseen Enemy
+|director    = 
+|producer    = 
+|writer      = 
+|distributor = Walt Disney Productions
+|language    = English
+|image = Image:833581.jpg
+|imagewidth = 250px|release = [[August 13]], [[1945]]}}'''''The Unseen Enemy''''' is a Disney educational animated short. The film is also known as '''''El Enemigo Invisible''''' or '''''What is Disease?'''''.
+
+==Gallery==
+<gallery position="center">
+Disney Unseen Enemy1-copy.jpg
+Disney Unseen Enemy2-copy-458x326.jpg
+Disney Unseen Enemy3-copy.jpg
+Disney Unseen Enemy4-copy.jpg
+Unseen enemy ants.jpg
+The unseen enemy tree.jpg
+The unseen enemy farmer.jpg
+The unseen enemy 1945.jpg
+The unseen enemy.jpg
+1945-unseen-2.jpg
+1945-unseen-3.jpg
+</gallery>
+
+{{DEFAULTSORT:Unseen Enemy, The}}
+[[Category:1945 shorts]]
+[[Category:Animated shorts]]
+[[Category:Educational films]]
+[[Category:World War II films]]

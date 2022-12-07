@@ -1,0 +1,97 @@
+{{Marvel Database:Film Template
+| Image                   = Nick Fury Agent of Shield film.jpg
+| Aliases                 = 
+
+| Directors               = Rod Hardy
+| Producers               = David Roessell
+| ScreenplayWriters       = David S. Goyer
+| Musicians               = Kevin Kiner
+| Cinematographers        = James Bartle
+| Editors                 = Drake Silliman
+| Distributors            = 20th Television
+| Running Time            = 90 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = May 26, 1998
+
+| AM ID                   = nick-fury-agent-of-shield-v343587
+| IMDB ID                 = 0119781
+| Marvel Movies           = Nick Fury: Agent of S.H.I.E.L.D.
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[Nicholas Fury (Earth-5724)|Nick Fury]]}} {{Rejoins||[[Supreme Headquarters International Espionage Law-Enforcement Division (Earth-5724)|S.H.I.E.L.D.]] as Executive Director}}
+'''Supporting Characters:'''
+* {{Only|[[Supreme Headquarters International Espionage Law-Enforcement Division (Earth-5724)|S.H.I.E.L.D.]]}}
+** {{Only Dies|[[Clay Quartermain (Earth-5724)|Agent Clay Quartermain]]}}
+** {{Only|[[Alexander Pierce (Earth-5724)|Agent Alexander Pierce]]}}
+** {{Only|[[Valentina Allegra de Fontaine (Earth-5724)|Contessa Valentina Allegra de Fontaine]]}}
+** {{Only|[[Timothy Dugan (Earth-5724)|Timothy Dugan]]}}
+** {{Only|[[Kathleen Neville (Earth-5724)|Agent Kate Neville]]}}
+** {{Only|[[Jack Pincer (Earth-5724)|General Director Jack Pincer]]}}
+** {{Only|[[Gabriel Jones (Earth-5724)|Vice Director Gabe Jones]]}}
+** S.H.I.E.L.D. Agents {{Only}}
+** {{Only Destruction|[[Life-Model Decoy|Nick Fury LMD]]}}
+'''Antagonists:'''
+* {{Only|[[Hydra (Earth-5724)|Hydra]]}}
+** {{Only|[[Wolfgang von Strucker (Earth-5724)|Baron Wolfgang von Strucker]]}} {{Rebirth}}
+** {{Only|[[Andrea von Strucker (Earth-5724)|Viper (Andrea von Strucker)]]}} {{Impersonates|[[Gail Runciter (Earth-5724)|Inspector Gail Runciter]]}}
+** {{Only Dies|[[Werner von Strucker (Earth-5724)|Werner von Strucker]]}}
+** {{Only Dies|[[Arnim Zola (Earth-5724)|Dr. Arnim Zola]]}}
+** Hydra Agents {{Only}}
+** Hydra's Lieutenants {{Only}} {{OnScreen}}
+** {{Only Destruction|[[Life-Model Decoy|Jack Pincer LMD]]}}
+'''Other Characters:'''
+* {{Mentioned|[[National Socialist German Workers Party (Earth-5724)|Nazi Germany]]}}
+** {{Mentioned|[[Adolf Hitler (Earth-5724)|Adolf Hitler]]}}
+* {{Mentioned|[[International Criminal Police Organization (Earth-5724)|Interpol]]}}
+** {{Only|[[Gail Runciter (Earth-5724)|Inspector Gail Runciter]]}}
+* {{Only|[[President of the United States (Earth-5724)|The President]]}} {{OnScreen}}
+'''Races and Species:'''
+* {{Only|[[Humans (Homo sapiens)|Humans]]}}
+* {{Only|[[Life-Model Decoy|LMDs]]}}
+'''Locations:'''
+* {{Only|[[Earth-5724]]}}
+** {{Only|[[Earth]]}}
+*** {{Only|[[Canada]]}}
+**** {{Only|[[Yukon]]}}
+***** Nick Fury's secret base {{Only}}
+*** {{Only|[[Europe]]}}
+**** {{Only|[[Germany]]}}
+***** {{Only|[[Berlin]]}}
+*** {{Only|[[United States of America]]}}
+**** {{Only|[[New York (State)|New York]]}}
+***** {{Only|[[New York City]]}}
+****** {{Only|[[Manhattan]]}}
+****** {{Vision|[[Upper New York Bay]]}}
+******* {{Vision|[[Statue of Liberty]]}}
+**** {{Only|[[Washington, D.C.]]}} {{OnScreen}}
+***** {{Only|[[White House]]}} {{OnScreen}}
+** {{Mentioned|[[Hell]]}}
+'''Items:'''
+* Death's Head Virus {{Only}}
+'''Vehicles:'''
+* {{Only|[[S.H.I.E.L.D. Helicarrier]]}}
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:David Hasselhoff|David Hasslehoff]] as [[Nicholas Fury (Earth-5724)|Nick Fury]]
+* [[wikipedia:Lisa Rinna|Lisa Rinna]] as [[Valentina Allegra de Fontaine (Earth-5724)|Contessa Valentina Allegra de Fontaine]]
+* [[wikipedia:Sandra Hess|Sandra Hess]] as [[Andrea von Strucker (Earth-5724)|Andrea von Strucker / Viper]]
+* [[wikipedia:Neil Roberts (actor)|Neil Roberts]] as [[Alexander Pierce (Earth-5724)|Alexander Pierce]]
+* [[wikipedia:Garry Chalk|Garry Chalk]] as [[Timothy Dugan (Earth-5724)|Timothy Dugan]]
+* Tracy Waterhouse as [[Kathleen Neville (Earth-5724)|Kate Neville]]
+* [[wikipedia:Tom McBeath|Tom McBeath]] as [[Jack Pincer (Earth-5724)|Jack Pincer]]
+* [[wikipedia:Ron Canada|Ron Canada]] as [[Gabriel Jones (Earth-5724)|Gabe Jones]]
+* Peter Haworth as [[Arnim Zola (Earth-5724)|Arnim Zola]]
+* Scott Heindl as [[Werner von Strucker (Earth-5724)|Werner von Strucker]]
+* Adrian Hughes as [[Clay Quartermain (Earth-5724)|Clay Quartermain]]
+* [[wikipedia:Campbell Lane|Campbell Lane]] as [[Wolfgang von Strucker (Earth-5724)|Wolfgang von Strucker]]
+* [[wikipedia:Terry David Mulligan|Terry David Mulligan]] as [[President of the United States (Earth-5724)|The President]]
+
+| Notes                   = 
+| Trivia                  = * Despite not possessing any score at Rotten Tomatoes, the movie didn't pleased much the fans and critics.<ref>[https://www.rottentomatoes.com/m/nick_fury_agent_of_shield Nick Fury: Agent of S.H.I.E.L.D. at Rotten Tomatoes]</ref>
+| Links                   = * [[Marvel Films#Television Films|Marvel Films]]
+}}
+[[ru:Обезглавить гидру]]
+[[Category:20th Century Fox]]

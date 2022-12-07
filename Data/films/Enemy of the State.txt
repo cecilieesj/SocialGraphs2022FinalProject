@@ -1,0 +1,99 @@
+{{WarningAlert}}
+{{Infobox film
+|name           = Enemy of the State
+|image          = File:Enemy of the State.jpg
+|caption        = Theatrical release poster
+|director       = [[Tony Scott]]
+|producer       = [[Jerry Bruckheimer]]
+|writer         = David Marconi
+|starring       = [[Will Smith]]<br>Gene Hackman<br>[[Jon Voight]]
+|music          = [[Harry Gregson-Williams]]<ref>{{cite web | url=http://www.musicfromthemovies.com/index5.php?option=com_content&view=article&id=%27%20.%20%283173%29%20.%20%27enemy%20of%20the%20state | title=Enemy Of The State Music Review | publisher=Music from the Movies | year=1998 | accessdate=}}</ref><br>Trevor Rabin
+|cinematography = Dan Mindel
+|editing        = [[Chris Lebenzon]]
+|studio         = [[Touchstone Pictures]]<br>Jerry Bruckheimer Films<br>Scott Free Productions
+|distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures]]
+|release     = [[November 20]], [[1998]]
+|time        = 132 minutes
+|country        = [[United States]]
+|language       = English
+|budget         = $90 million<ref name="MOJO">{{cite web | title=Enemy of the State box office | publisher=Box Office Mojo | url=http://www.boxofficemojo.com/movies/?id=enemyofthestate.htm | accessdate=}}</ref>
+|gross          = $250.6 million<ref name="MOJO" />
+|imdb_id = 0120660}}
+'''''Enemy of the State''''' is a [[1998]] American spy-thriller about a group of [[United States|U.S.]] National Security Agency agents conspiring to kill a U.S. Congressman and try to cover up the murder. It was written by David Marconi, directed by [[Tony Scott]], and produced by [[Jerry Bruckheimer]]. It stars [[Will Smith]] and Gene Hackman, with [[Jon Voight]], Lisa Bonet, and [[Regina King]] in supporting roles.
+
+==Plot==
+In the [[1990]]s, U.S. National Security Agency official Thomas Reynolds meets with congressman Phil Hammersley in a public park to discuss support for new counter-terrorism legislation the U.S. Congress is pushing that dramatically expands the surveillance powers of intelligence agencies on individuals and groups. Hammersley remains committed to blocking its passage, since he believes it would almost totally destroy the privacy of American citizens. Reynolds has his team murder Hammersley, spread painkiller pills over his car, place him in the car and push it in a lake to make it look like a drug-induced accident. In the aftermath, they discover too late that wildlife researcher Daniel Zavits had a camera aimed in the woods at their location. Zavits inspects the footage, transfers the video to an innocuous video game disc and flees the apartment ahead of Reynold's team.
+
+Zavits is eventually killed when he runs into the street in front of a fire truck but immediately prior, he bumped into an old college friend, labor lawyer Robert Clayton Dean, and slipped the disc into his shopping bag without his knowledge. When the NSA discovers that Dean might have the video, Reynolds' team raids his house and plants surveillance devices but the video does not turn up. The NSA then disseminates false evidence to implicate Dean of working with the mob family of Boss Paulie Pintero and seeing Rachel Banks, an ex-girlfriend he had an affair with. The subterfuge destroys Dean's life: he is dismissed from his job, his bank accounts are frozen, and his wife throws him out of the house.
+
+Dean believes Pintero is behind the smear campaign as revenge because Dean blackmailed him into backing off his clients in a prior case, with help from Banks' secretive contact "Brill". Dean sets up a face-to-face meet with Brill and the NSA sends an impostor "Brill" to intercept him but the real Brill rescues him. Brill explains that his pursuers are NSA agents and rids him of tracking devices hidden in his clothing. With Dean and Brill in hiding, the NSA agents kill Banks and frame Dean for the murder.
+
+Dean obtains the disc and Brill identifies Reynolds in the recovered video, but the disc is destroyed during an escape from an NSA raid. Brill, whose real name is Lyle, tells Dean of his past as a communications expert for the NSA; he was stationed in Iran in [[1979]] when the Iranian Revolution occurred; his partner, Rachel's father, was killed but Lyle made it out and has been in hiding since. Lyle tries to coax Dean into trying to run away, but Dean is adamant about clearing his name.
+
+Dean and Lyle trail another supporter of the surveillance bill, U.S. Congressman Sam Albert, by videotaping him having an affair with his aide. Dean and Lyle "hide" one of the NSA's bugs in Albert's room so Albert will find them and have the NSA start an investigation about Albert's tapping. Lyle also deposits into Reynolds' bank account to make it appear that he is taking bribes, putting enormous pressure on Reynolds.
+
+Lyle contacts Reynolds to set up a meeting to exchange the video and get Reynolds to incriminate himself. Reynolds' men instead ambush the meeting and hold Lyle and Dean at gunpoint, demanding the tape. Dean tells them that the Hammersley murder footage is in the hands of Pintero, whose office is under FBI surveillance. Dean, Reynolds, and the NSA team head into Pintero's restaurant. Pintero thinks they are after the inciminating video Dean blackmailed him with and the encounter devolves into a massive firefight that kills the mobsters, Reynolds, and several of his NSA team. Lyle escapes while the FBI rescues Dean and uncovers the entire conspiracy.
+
+The U.S. Congress is forced to abandon the passage plan to avoid a national scandal, though they cover up the NSA's involvement to prevent a large riot against the agency. Dean is cleared of all charges and is reunited with his wife. Lyle leaves Dean a "goodbye" message showing him relaxing in a tropical location.
+
+==Cast==
+*[[Will Smith]] as Robert Clayton Dean
+*Gene Hackman as Edward "Brill" Lyle
+*[[Jon Voight]] as Thomas Brian Reynolds
+*[[Jack Black]] as Fiedler
+*[[Barry Pepper]] as David Pratt
+*[[Regina King]] as Carla Dean
+*Ian Hart as John Bingham
+*Lisa Bonet as Rachel F. Banks
+*Jascha Washington as Eric Dean
+*James LeGros as Jerry Miller
+*Jake Busey as Krug
+*Scott Caan as Jones
+*[[Jamie Kennedy]] as Jamie Williams
+*[[Jason Lee]] as Daniel Leon Zavitz
+*Gabriel Byrne as Fake Brill
+*Stuart Wilson as Congressman Sam Albert
+*Anna Gunn as Emily Reynolds
+*Laura Cayouette as Christa Hawkins
+*Loren Dean as Loren Hicks
+*Bodhi Elfman as Van
+*Dan Butler as NSA Director Admiral Shaffer
+*[[Seth Green]] as Selby
+*Tom Sizemore as Boss Paulie Pintero
+*[[Jason Robards]] as Congressman Phil Hammersley
+*Philip Baker Hall as Attorney Mark Silverberg
+*Brian Markinson as Attorney Brian Blake
+*[[Larry King]] as Himself
+*Ivana Miličević as Ruby's Sales Clerk
+
+==Production==
+The story is set in both [[Washington, D.C.]], and Baltimore, and most of the filming was done in Baltimore. Location shooting began on a ferry in Fell's Point. In mid-January, the company moved to [[Los Angeles]] to complete production in April 1998.<ref>{{cite news|url=http://www.cinemareview.com/production.asp?prodid=399|title=ENEMY OF THE STATE - Production Notes|publisher=Cinema Review|date=May 20, 2013|author=Greg Huxtable}}</ref>
+
+[[Mel Gibson]] and Tom Cruise were considered for the part that went to [[Will Smith]], who took the role largely because he wanted to work with Gene Hackman, and had previously enjoyed working with producer [[Jerry Bruckheimer]] on ''Bad Boys''. [[George Clooney]] was also considered for a role in the film. [[Sean Connery]] was considered for the role that went to Hackman. The film's crew included a technical surveillance counter-measures consultant who also had a minor role as a spy shop merchant. Hackman had previously acted in a similar thriller about spying and surveillance film, ''The Conversation'' ([[1974]]).
+
+==Reception==
+''Enemy of the State'' received 71% positive reviews on the film-critics aggregator Rotten Tomatoes, with 84 critics surveyed.<ref>{{cite web |url=http://www.rottentomatoes.com/m/enemy_of_the_state |title=Enemy of the State Movie Reviews, Pictures |accessdate=|publisher=Rotten Tomatoes}}</ref> Metacritic displayed a normalized ranking of 67 out of 100 on the basis of 22 critics.<ref>{{cite web |url=http://www.metacritic.com/video/titles/enemyofthestate |title=Enemy of the State Reviews, Ratings, Credits |accessdate= |publisher=Metacritic}}</ref> Kenneth Turan of the ''Los Angeles Times'' expressed enjoyment in the movie, noting how its "pizazz [overcame] occasional lapses in moment-to-moment plausibility;"<ref>{{cite news |first=Kenneth |last=Turan |title=Enemy of the State: 'Enemy' Has a Little Secret: Let the (Nifty) Chase Begin |work=Los Angeles Times |accessdate= |url=http://articles.latimes.com/1998/nov/20/entertainment/ca-45382 |date=1998-11-20}}</ref> Janet Maslin of the ''New York Times'' approved of the film's action-packed sequences, but cited how it was similar in manner to the rest of the members of "Simpson's and Bruckheimer's school of empty but sensation-packed filming."<ref>{{cite news |first=Janet |last=Maslin |title=Enemy of the State: The Walls Have Ears, Eyes, and Cameras |work=New York Times |date=1998-11-20 |accessdate= |url=http://movies.nytimes.com/movie/review?res=9404E3DD1530F933A15752C1A96E958260}}</ref> In a combination of the two's views, Edvins Beitiks of the ''San Francisco Examiner'' praised many of the movie's development aspects, but criticized the overall concept that drove the film from the beginning &mdash; the efficiency of government intelligence &mdash; as unrealistic.<ref>{{cite news |first=Edvins |last=Beitiks |title=High-octane "Enemy' |work=San Francisco Examiner |date=1998-11-20|accessdate= |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/e/a/1998/11/20/WEEKEND7862.dtl}}</ref>
+
+Kim Newman considered ''Enemy of the State'' a "continuation of ''The Conversation''", the 1974 psychological thriller that starred Hackman as a paranoid, isolated surveillance expert.<ref>Newman in Pramaggiore & Wallis, pg 283. From [http://books.google.com/books?id=7CYJUwg69KsC&pg=PA283&lpg=PA283&dq=enemy+of+the+state+brill+the+conversation&source=bl&ots=Cr7ngipw_S&sig=hkGqynftcEg7xi5mbw0YBVOYs9s&hl=en&ei=uRaXTe3AMKXgiALBmZGdCQ&sa=X&oi=book_result&ct=result&resnum=4&ved=0CCgQ6AEwAw#v=onepage&q=enemy%20of%20the%20state%20brill%20the%20conversation&f=false Film: a critical introduction]</ref>
+
+''Movie Room Reviews'' gave the film 3 1/2 stars and said this about Will Smith in a more dramatic role; "''Enemy of the State'' gave him a chance to show that he could play the action hero without the swagger or funny antics, which likely helped his career."<ref>{{cite news |first=Zack |last=Mandell |title=Holiday Movie Month: "Enemy of the State" Review |work=Movie Room Reviews |date=2013-12-27|accessdate=2014-01-03 |url=http://www.movieroomreviews.com/reviews/holiday-movie-month-enemy-state-review}}</ref>
+
+===Box office===
+The film opened at #2, behind ''The Rugrats Movie'', grossing $20,038,573 over its first weekend in 2,393 theaters and averaging about $8,374 per venue.<ref>{{cite news |title=Rugrats' Outruns 'Enemy' |work=Los Angeles Times|url=http://articles.latimes.com/1998/nov/23/entertainment/ca-46816 |accessdate=2010-11-10 |first=Richard |last=Natale |date=1998-11-23}}</ref><ref>{{cite news |title=Weekend Box Office : 'Rugrats' Has Kid Power |work=Los Angeles Times |url=http://articles.latimes.com/1998/nov/24/entertainment/ca-47071 |accessdate=2010-11-10 |first=Robert W. |last=Welkos |date=1998-11-24}}</ref>
+
+==Real life==
+An episode of PBS' ''Nova'' titled "Spy Factory" reports that the film's portrayal of the NSA's capabilities are fiction: although the agency can intercept transmissions, connecting the dots is difficult.<ref>{{cite web|url=http://www.pbs.org/wgbh/nova/spyfactory/|title=Spy Factory|last=Bamford|first=James|author2=C. Scott Willis|date=February 3, 2009|work=NOVA|publisher=WGBH Educational Foundation|accessdate=|location=Boston}}</ref> However, in [[2001]], then-NSA director Gen. Michael Hayden, who was appointed to the position during the release of the film, told [[CNN]]'s Kyra Phillips that "I made the judgment that we couldn't survive with the popular impression of this agency being formed by the last Will Smith movie."<ref>{{cite web|url = http://edition.cnn.com/TRANSCRIPTS/0103/25/sm.16.html|title = Inside the NSA: The Secret World of Electronic Spying|date = March 25, 2001|publisher = CNN}}</ref> James Risen wrote in his [[2006]] book ''State of War: The Secret History of the CIA and the Bush Administration'' that Hayden "was appalled" by the film's depiction of the NSA, and sought to counter it with a PR campaign on behalf of the agency.<ref>{{cite web|url = http://swampland.time.com/2013/06/07/former-nsa-chief-was-worried-about-enemy-of-the-state-reputation/|title = Former NSA Chief Was Worried About "Enemy Of The State" Reputation|author = Zeke J Miller|publisher = Time|date = June 7, 2013}}</ref>
+
+In June [[2013]] the NSA's PRISM and Boundless Informant programs for domestic and international surveillance were uncovered by ''The Guardian'' and ''Washington Post'' as the result of information provided by whistleblower Edward Snowden. This information revealed capabilities such as collection of Internet browsing, email and telephone data of not only every American, but citizens of other nations as well. ''The Guardian'''s John Patterson opined that Hollywood depictions of NSA surveillance, including ''Enemy of the State'' and ''Echelon Conspiracy'', had "softened" up the American public to "the notion that our spending habits, our location, our every movement and conversation, are visible to others whose motives we cannot know."<ref>{{cite web|url = http://www.guardian.co.uk/film/shortcuts/2013/jun/16/hollywood-softened-us-up-nsa-surveillance|title = How Hollywood softened us up for NSA surveillance|date = 16 June 2013|publisher = The Guardian|author = John Patterson}}</ref>
+
+==References==
+{{reflist}}
+
+{{Wikipedia|Enemy of the State (film)}}
+{{DISPLAYTITLE:''Enemy of the State''}}
+[[Category:Articles containing mature content]]
+[[Category:Films]]
+[[Category:Touchstone Pictures films]]
+[[Category:Live-action films]]
+[[Category:1998 films]]
+[[Category:R-rated films]]

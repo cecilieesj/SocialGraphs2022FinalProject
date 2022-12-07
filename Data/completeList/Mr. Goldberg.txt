@@ -1,0 +1,19 @@
+{{Infobox_character
+|name = Mr. Goldberg
+|shows = [[Stanley (TV series)|Stanley]]
+|voice = [[Wallace Shawn]]
+|alignment = Good
+|family = Unnamed father or father-in-law<br>Unnamed mother or mother-in-law
+|friends = Lester<br>Stanley<br>Nancy<br>Samantha|partner=Nancy Goldberg (wife)|children=[[Lester Goldberg]] (son)<br>[[Samantha Goldberg]] (daughter)}}
+'''Mr. Goldberg '''is a minor character on [[Stanley (TV series)|Stanley]].
+{{CharacterStub}}
+
+{{Stanley}}
+{{DEFAULTSORT:Goldberg, Mr.}}
+[[Category:Stanley Characters]]
+[[Category:Males]]
+[[Category:Disney Junior characters]]
+[[Category:Playhouse Disney characters]]
+[[Category:Adults]]
+[[Category:Parents]]
+[[Category:Jewish characters]]

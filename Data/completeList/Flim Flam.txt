@@ -1,0 +1,22 @@
+{{Infobox character
+|image = Flim Flam.jpg
+|name = Flim Flam
+|games = ''[[Toontown Online]]''
+|inspiration = [[Minnie Mouse]]
+|alignment = Neutral}}
+'''Flim Flam''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC [http://toontown.wikia.com/wiki/Dog Dog] who owns [http://toontown.wikia.com/index.php?title=Flowery_Flute_Fleeces&action=edit&redlink=1 Flowery Flute Fleeces] (Flattering to Flautists!) on [http://toontown.wikia.com/wiki/Tenor_Terrace Tenor Terrance], [http://toontown.wikia.com/wiki/Minnie%27s_Melodyland Minnie's Melodyland].
+
+==SOS Toon==
+﻿Flim Flam is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. She is a 4-star Cog Miss. She makes all Cogs Miss for the current round used on.
+
+The Cog miss will only last 1 round.
+
+==Trivia==
+*The term "flimflam" is defined as "a confidence game."
+[[Category:Toontown characters]]
+[[Category:Females]]
+[[Category:Dogs]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Characters in video games]]
+{{Toontown Online}}

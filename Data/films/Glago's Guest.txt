@@ -1,0 +1,42 @@
+{{Infobox film
+| name           = Glago's Guest
+| image          = Glago's Guest poster.jpg
+| caption        = Poster for Glago's Guest
+| director       = [[Chris Williams]]
+| producer       = Chuck Williams
+| writer         = Chris Williams<br>Michael LaBash
+| studio         = [[Walt Disney Animation Studios]]
+| music          = Jon Brion
+| distributor    = [[Walt Disney Studios Motion Pictures]]
+| release       = [[June 10]], [[2008]]|preceded = ''[[How to Hook Up Your Home Theater]]''|followed = ''[[Tick Tock Tale]]''
+|imdb_id = 1256626}}
+'''''Glago's Guest''''' is a [[2008]] [[Walt Disney Animation Studios]] computer animated short film directed by Chris Williams. The film premiered at the Annecy International Animated Film Festival in June 2008.<ref name="Return3D"/>
+
+Animated in stereoscopic 3D,<ref name="Return3D">{{cite web |url=http://www.annecy.org/home/index.php?Page_ID=2027 |title=Animation and the Return of Stereoscopic 3D }}</ref> the short tells the story of a strange meeting between a Russian soldier guarding a Siberian outpost and an extraterrestrial.
+
+==Plot==
+"Glago's Guest" follows the intriguing and thought-provoking story of a lonely Russian soldier stationed in a remote Siberian outpost. When the soldier's solitude is interrupted one day by the arrival of a strange new "guest" named Lars, Glago is jolted out of his uneventful daily routine. Soon, though, he comes to realize that things aren't always what they appear to be. With its bold art direction, stark but stylish depiction of the frozen Russian landscape, and inspired computer animation, "Glago's Guest" is an exciting, entertaining, and original short film that uses the medium to full advantage.
+
+==Production==
+[[John Lasseter]] was so impressed with director Chris Williams' work on this short that he gave him the job of directing ''[[Bolt (film)|Bolt]]''.
+
+==Release==
+The film premiered at the Annecy International Animated Film Festival in June 2008,<ref name="Return3D"/> and was originally expected to be released theatrically preceding the [[Walt Disney Animation Studios|Disney]] animated feature film, ''[[Bolt (film)|Bolt]]''.<ref name="hookuphome">[http://mag.awn.com/?ltype=pageone&article_no=3454 Bill Desowitz (November 16, 2007); "How to Hook Up Your Animated Short at Disney"; Animation World Magazine.]</ref> The short is believed not to have tested well with audiences, and the spot with ''Bolt'' was eventually taken by the [[Pixar]] short, [[Tokyo Mater]].<ref name="TokyoMater">[http://hollywood-animated-films.suite101.com/article.cfm/tokyo_mater_3d_short_goes_in_front_of_bolt Dominic von Riedemann (December 11, 2008); "Tokyo Mater 3-D Short Goes in Front of Bolt"; Suite101.com]</ref>
+
+It was included in the Animation Show of Shows in 2008.
+
+==See also==
+*[http://www.animated-news.com/2008/please-welcome-glagos-guest/ Animated-news.com (June 23, 2008); "Please welcome Glago's Guest"; Animated News.]
+*[http://www.cgw.com/ME2/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications%3A%3AArticle&mid=8F3A7027421841978F18BE895F87F791&tier=4&id=44F12EF5F59D4EBFA078C31D1DE56588 Barbara Robertson (February 2009); "Short Subjects, Big Ideas"; Computer Graphics World]
+
+==References==
+<references />
+
+==External links==
+*[http://www.disneyanimation.com/projects/shorts/glago/index.html Official page at Walt Disney Animation Studios]
+
+{{Wikipedia}}
+{{DISPLAYTITLE:''Glago's Guest''}}
+[[Category:Articles with Wikipedia content]]
+[[Category:Animated shorts]]
+[[Category:2008 films]]

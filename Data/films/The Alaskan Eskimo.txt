@@ -1,0 +1,47 @@
+{{Infobox film
+| name           = The Alaskan Eskimo
+| image          = The alaskan eskimo.jpg
+| caption        = 
+| director       = [[James Algar]]
+| producer       = [[Walt Disney]]
+| writer         = [[Ted Sears]]
+| narrator       = 
+| starring       = 
+| music          = [[Oliver Wallace]]
+| cinematography = Alfred Milotte
+| editing        = 
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|RKO Radio Pictures]]
+| release        = [[February 18]], [[1953]]
+| time           = 27 minutes
+| country        = United States 
+| language       = English
+| budget         = 
+| imdb_id        = 0045485}}
+'''''The Alaskan Eskimo''''' is a [[1953]] American short documentary film produced by [[Walt Disney]]. It won an Academy Award at the 26th Academy Awards in [[1954]] for Documentary Short Subject.
+
+==Cast==
+*[[Winston Hibler]] as Narrator
+
+==Gallery==
+<gallery>
+1953-esquimau-4.jpg
+1953-esquimau-5.jpg
+1953-esquimau-6.jpg
+1953-esquimau-7.jpg
+1953-esquimau-8.jpg
+</gallery>
+
+{{Wikipedia}}
+{{FilmStub}}
+{{DEFAULTSORT:Alaskan Eskimo, The}}
+{{DISPLAYTITLE:''The Alaskan Eskimo''}}
+[[Category:Articles with Wikipedia content]]
+[[Category:1953 films]]
+[[Category:Live-action films]]
+[[Category:Disney films]]
+[[Category:1953 shorts]]
+[[Category:Documentaries]]
+[[Category:Live-action shorts]]
+[[Category:Academy Award winning films]]
+[[Category:People & Places]]

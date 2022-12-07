@@ -1,0 +1,51 @@
+{{Infobox film
+|image = Glass.jpg
+|director = [[M. Night Shyamalan]]
+|producer = M. Night Shyamalan<br>Jason Blum<br>Marc Bienstock
+|writer = M. Night Shyamalan
+|starring = [[James McAvoy]]<br>[[Bruce Willis]]<br>[[Samuel L. Jackson]]
+|cinematography = Mike Gioulakis
+|editor = Luke Ciarrochi
+|studio = [[Buena Vista Pictures Distribution|Buena Vista International]]<br>{{WikipediaLink|Blinding Edge Pictures}}<br>{{WikipediaLink|Blumhouse Productions}}
+|distributor = [[Universal Studios|Universal Pictures]] ([[United States]])<br>[[Walt Disney Studios Motion Pictures]] (International)
+|release = [[January 18]], [[2019]]
+|language = English
+|budget = $20 million
+|preceded =''[[Unbreakable]]''<br>''Split'' 
+|imdb_id = 6823368
+|music = West Dylan Thordson
+|time = 129 minutes
+|gross = $246 million}}'''''Glass''''' is an [[2019]] American superhero thriller film written, co-produced and directed by [[M. Night Shyamalan]]. The film is a sequel to Shyamalan's previous films: ''[[Unbreakable]]'' ([[2000]]) and ''Split'' ([[2016]]), cumulatively forming the ''Unbreakable'' trilogy, also known as the "Eastrail 177" trilogy.
+
+The film was released on [[January 18]], 2019 by Universal Pictures in North America and by [[Walt Disney Studios Motion Pictures]] in international territories.
+
+==Synopsis==
+Following the conclusion of ''Split'', David Dunn pursues Kevin Wendell Crumb's superhuman persona of The Beast in a series of escalating encounters while the shadowy presence of Elijah Price, going by "Mr. Glass", emerges as an orchestrator who holds secrets critical to both men.
+
+==Cast==
+*[[James McAvoy]] as Kevin Wendell Crumb/The Beast
+*[[Bruce Willis]] as [[The Overseer|David Dunn/The Overseer]]
+*[[Samuel L. Jackson]] as [[Elijah Price|Elijah Price/Mr. Glass]]
+*[[Sarah Paulson]] as Dr. Ellie Staple
+*[[Anya Taylor-Joy]] as Casey Cooke
+*Spencer Treat Clark as [[Joseph Dunn]]
+*Charlayne Woodard as [[Mrs. Price]]
+*[[M. Night Shyamalan]] as Jai
+
+==Videos==
+<gallery>
+Glass - Trailer Friday (Beast) (HD)
+Glass - Trailer Friday (David Dunn) (HD)
+Glass - Trailer Tomorrow (Mr. Glass) (HD)
+Glass (2019) - Offical Trailer UK-0
+</gallery>
+{{Unbreakable}}
+{{FilmStub}}
+[[Category:Films]]
+[[Category:2019 films]]
+[[Category:Sequel films]]
+[[Category:Live-action films]]
+[[Category:PG-13 rated films]]
+[[Category:Unbreakable]]
+[[Category:Buena Vista International films]]
+[[Category:4DX films]]

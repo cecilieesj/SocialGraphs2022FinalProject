@@ -1,0 +1,27 @@
+{{Infobox character
+|image = Barbara Seville.jpg
+|name = Barbara Sevile
+|games = ''[[Toontown Online]]''
+|occupation = Shopkeeper
+|alignment = Neutral}}
+'''Barbara Seville''' is a [http://toontown.wikia.com/wiki/Cat Cat] NPC shopkeeper who owns [http://toontown.wikia.com/wiki/Shave_and_a_Haircut_for_a_Song Shave and a Haircut for a Song] located in [http://toontown.wikia.com/wiki/Alto_Avenue Alto Avenue], [http://toontown.wikia.com/wiki/Minnie%27s_Melodyland Minnie's Melodyland]. She is a tall, lavender cat wearing a pink shirt and a blue skirt.
+
+==SOS Toon==
+﻿Barbara Seville is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. She is a 3-star [http://toontown.wikia.com/wiki/Sound_Gags Sound ]SOS. She uses a [http://toontown.wikia.com/wiki/Fog_Horn Fog Horn] to deal a damage of 40 to all [http://toontown.wikia.com/wiki/Cogs cogs] in play.
+
+This SOS Card will be grouped with all Sound Gags used on the same turn. Also, the SOS Card acts on its own, so if a regular Sound gag misses, there is still a chance that the SOS will hit.
+
+==Trivia==
+*In the 2010 Winter Caroling, she was one of the buildings needed for the [http://toontown.wikia.com/wiki/Snowman_head snowman head]. Her building is <u>Shave and a Haircut for a Song</u> located in [http://toontown.wikia.com/wiki/Alto_Avenue Alto Avenue], [http://toontown.wikia.com/wiki/Minnie%27s_Melodyland Minnie's Melodyland]. You are rewarded 100 [http://toontown.wikia.com/wiki/Jellybeans jellybeans] (and a Snowman Head, if you have visited the other Caroling buildings).
+
+*She is an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon] for a 3-star Sound Card. She uses a 40-damaging [http://toontown.wikia.com/wiki/Fog_Horn Fog Horn], 10 less damaging points than a maxed Fog Horn.
+
+*Her name comes from the opera of the Barber of Seville, which comes in mind to why she uses Sound(Fog Horn40) as her SOS.
+{{CharacterStub}}
+{{DEFAULTSORT:Seville, Barbara}}
+[[Category:Toontown characters]]
+[[Category:Females]]
+[[Category:Cats]]
+[[Category:Characters]]
+{{Toontown Online}}
+[[Category:Characters in video games]]

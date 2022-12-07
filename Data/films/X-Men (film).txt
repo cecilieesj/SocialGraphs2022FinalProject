@@ -1,0 +1,147 @@
+{{Marvel Database:Film Template
+| Image                   = X-Men (film) 2000.jpg
+| Aliases                 = 
+
+| Directors               = [[Bryan Singer]]
+| Producers               = [[Lauren Shuler Donner]]; [[Ralph Winter]]
+| ComicWriters            = [[Stan Lee]]; [[Jack Kirby]]
+| StoryWriters            = Tom DeSanto; Bryan Singer
+| ScreenplayWriters       = David Hayter
+| Musicians               = Michael Kamen
+| Cinematographers        = Newton Thomas Sigel
+| Editors                 = Steven Rosenblum; Kevin Stitt; John Wright
+| Distributors            = 20th Century Fox
+| ProductionCompanies     = Marvel Entertainment Group; The Donners' Company; Bad Hat Harry Productions
+| Running Time            = 104 minutes
+| Rating                  = '''MPAA:''' PG-13 for sci-fi action violence and language
+| Budget                  = $75 million
+| Release Date            = July 13, 2000
+| US Release Date         = July 14, 2000
+
+| AM ID                   = x-men-v187123
+| IMDB ID                 = 0120903
+| Marvel Movies           = X-Men (2000)
+| X-Men Movies            = X-Men (film)
+
+| Previous Film           = 
+| Next Film               = X2 (film)
+
+| Tagline                 = Trust a few. Fear the rest.
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1stHist|[[X-Men (Earth-10005)|X-Men]]}}
+** {{apn|[[Jean Grey (Earth-10005)|Dr. Jean Grey]]|X-Men: The Last Stand|X2 (film)}} {{1stHist}}
+** {{apn|[[Charles Xavier (Earth-10005)|Professor Charles Xavier]]|X-Men: The Last Stand|X2 (film)}} {{1stHist}}
+** {{apn|[[James Howlett (Earth-10005)|Wolverine (Logan)]]|X-Men Origins: Wolverine (film)|X-Men 2 Prequel: Wolverine Vol 1 1}} {{1stHist}} {{Joins}}
+** {{apn|[[Ororo Munroe (Earth-10005)|Storm (Ororo Munroe)]]|-|X2 (film)}} {{1st}}
+** {{apn|[[Scott Summers (Earth-10005)|Cyclops (Scott Summers)]]|X-Men Origins: Wolverine (film)|X2 (film)}}{{1stHist}}
+'''Supporting Characters:'''
+* {{apn|[[Marie D'Ancanto (Earth-10005)|Rogue (Marie D'Ancanto)]]|-|X2 (film)}} {{1st}} {{Flashback}} {{g|Joins [[Xavier Institute student body|Xavier School]]}}
+* {{Only Dies|[[Robert Kelly (Earth-10005)|Senator Robert Kelly]]}}
+'''Antagonists:'''
+* {{1stHist|[[Brotherhood of Mutants (Earth-10005)|Brotherhood of Mutants]]}}
+** {{apn|[[Erik Lehnsherr (Earth-10005)|Magneto (Erik Lehnsherr)]]|X-Men: The Last Stand|X2 (film)}} {{1stHist}} {{Flashback}}
+** {{apn|[[Victor Creed (Earth-10005)|Sabretooth (Victor Creed)]]|X-Men Origins: Wolverine|X-Men 2 Prequel: Wolverine Vol 1 1}} {{1stHist}}
+** {{Only Dies|[[Mortimer Toynbee (Earth-10005)|Toad (Mortimer Toynbee)]]}}
+** {{apn|[[Raven Darkhölme (Earth-10005)|Mystique (Raven Darkhölme)]]|X-Men: First Class (film)|X2 (film)}} {{1stHist}} {{g|Impersonates [[Henry Guyrich (Earth-10005)|Henry Guyrich]], [[Robert Drake (Earth-10005)|Bobby Drake]], [[Charles Xavier (Earth-10005)|Charles Xavier]], [[James Howlett (Earth-10005)|Wolverine]], [[Ororo Munroe (Earth-10005)|Storm]], [[Robert Kelly (Earth-10005)|Robert Kelly]]}}
+'''Other Characters:'''
+* {{1st|[[Edie Lehnsherr (Earth-10005)|Edie Lehnsherr]]}} {{FlashOnly}}
+* {{1st|[[Jakob Lehnsherr (Earth-10005)|Erik's Father]]}} {{FlashOnly}}
+* {{Only|[[David (Rogue's boyfriend) (Earth-10005)|David]]}} {{FlashOnly}}
+* {{Mentioned|[[Henry Guyrich (Earth-10005)|Henry Guyrich]]}} {{Deceased}}
+* [[Xavier Institute student body|Xavier School Students]] {{1st}}
+** {{apn|[[Katherine Pryde (Earth-10005)|Kitty Pryde]]|-|X2 (film)}} {{1st}} {{Cameo}}
+** {{apn|[[Jubilation Lee (Earth-10005)|Jubilee (Jubilation Lee)]]|-|X2 (film)}} {{1st}} {{Cameo}}
+** {{apn|[[Robert Drake (Earth-10005)|Bobby Drake]]|-|X2 (film)}} {{1st}}
+** {{apn|[[John Allerdyce (Earth-10005)|John Allerdyce]]|-|X2 (film)}} {{1st}} {{Cameo}}
+* {{1st|[[Weapon X (Earth-10005)|Weapon X Program]]}} {{Unnamed}} {{FlashOnly}}
+* {{Only|[[Priscilla D'Ancanto (Earth-10005)|Rogue's Mother]]}}
+* {{Only|[[Owen D'Ancanto (Earth-10005)|Rogue's Father]]}}
+* {{1st|[[United Nations (Earth-10005)|United Nations]]}}
+* {{1st|[[Stan Lee (Earth-10005)|Stan Lee]]}}
+'''Races and Species:'''
+* {{Flashback|[[Humans (Homo sapiens)|Humans]]}}
+* {{Flashback|[[Mutants (Homo superior)|Mutants]]}}
+'''Locations:'''
+* {{1st|[[Earth-10005]]}} {{Flashback}}
+** {{1st|[[Earth]]}} {{Flashback}}
+*** {{1st|[[United States of America]]}}
+**** {{1st|[[New York (State)|New York]]}}
+***** {{1st|[[Westchester County]]}}
+****** {{1st|[[North Salem]]}}
+******* {{1st|[[Salem Center]]}}
+******** {{1st|[[Xavier's School for Gifted Youngsters]]}}
+***** {{1st|[[New York City]]}}
+****** {{1st|[[Upper New York Bay]]}}
+******* {{1st|[[Ellis Island]]}}
+******* {{1st|[[Liberty Island]]}}
+******** {{1st|[[Statue of Liberty]]}}
+**** {{1st|[[Mississippi (State)|Mississippi]]}}
+***** {{1st|[[Meridian (Mississippi)|Meridian]]}}
+*** {{1st|[[Canada]]}} {{Flashback}}
+**** {{1st|[[Alberta|Northern Alberta]]}}
+***** {{1st|[[Laughlin City]]}}
+**** {{1st|[[British Columbia]]}} {{FlashOnly}}
+***** {{1st|[[Alkali Lake]]}} {{FlashOnly}}
+****** {{1st|[[Weapon X Facility]]}} {{FlashOnly}}
+*** {{1st|[[Poland]]}} {{FlashOnly}}
+**** {{1st|[[Oświęcim]]}} {{FlashOnly}}
+***** {{1st|[[Auschwitz-Birkenau|Auschwitz]]}} {{FlashOnly}}
+'''Items:'''
+* {{Mentioned|[[Mutant Registration Act]]}}
+* {{1st|[[Cyclops' Visor]]}}
+* {{1stHist|[[X-Uniforms]]}}
+* {{1stHist|[[Adamantium]]}}
+* {{1stHist|[[Magneto's Helmet]]}}
+* {{1stHist|[[Cerebro (Mutant Detector)|Cerebro]]}}
+'''Vehicles:'''
+* {{1stHist|[[X-Men Blackbird|X-Jet]]}}
+* Cyclops' Motorcycle
+'''Events:'''
+* [[World War II]][[Category:World War II]]
+* [[Holocaust (Event)|Holocaust]][[Category:Holocaust (Event)]]
+
+| Plot                    = 
+{{Quote|'''You're not the only one with gifts.'''|Professor X to Wolverine}}
+
+[[Mutants (Homo superior)|Mutants]] (''Homo sapiens superior'') are the next evolutionary step in the chain of humanity. Some children are born with an X-Factor (a unique genetic mutation). These usually manifest themselves at puberty and grant individuals special powers. These mutants are almost universally feared and loathed by rest of mankind.
+
+In Congress, Senator Robert Kelly attempts to pass a "Mutant Registration Act", which would force mutants to publicly reveal their identities and abilities. Magneto begins his plans to level the playing field between mutants and humans. Meanwhile, a girl named Marie (alias Rogue) runs away from her home in Meridian, Mississippi. She meets Logan (alias Wolverine) in Canada. Suddenly, both of them are attacked by Sabretooth, a mutant, and associate of Magneto. Cyclops and Storm arrive and save Wolverine and Rogue and bring them to the X-Mansion. Professor Charles Xavier runs the facility and leads a group of mutants who are trying to seek peace with the human race, educate young mutants in the responsible use of their powers, and stop Magneto from starting a war with humanity.
+
+Abducted by Mystique and Toad, Senator Kelly is brought to Magneto, who tests a machine on him that artificially induces mutation though Kelly manages to escape imprisonment with his new abilities. After an accident causes Rogue to use her powers on Wolverine, she is convinced by Mystique (disguised as Bobby Drake) that Xavier is angry with her and that she should leave the school. Xavier uses Cerebro to locate Rogue at a train station. Mystique infiltrates Cerebro and sabotages the machine. At the train station, Wolverine convinces Rogue to stay with Xavier but a fight ensues when Magneto, Toad, and Sabretooth arrive to take Rogue. Arriving at Xavier's school Kelly dissolves into a puddle of water when his mutation becomes unstable.
+
+The X-Men learn that Magneto intends to use Rogue's ability on himself to power his machine. Xavier attempts to use Cerebro to locate Rogue but falls into a coma. Jean Grey fixes it and uses Cerebro to find Magneto's machine on Liberty Island, which Magneto intends to use on the world leaders who are meeting for a summit on nearby Ellis Island. Just as the group arrives at the top of the statue and kill Toad, Magneto and Sabretooth incapacitate the group and continue with their plans. Magneto transfers his powers to Rogue who is forced to use them to start the machine. Wolverine breaks free and initiates a fight with Sabretooth but is thrown over the side of the statue.
+
+Wolverine returns, and Cyclops, with Jean's help, blasts Sabretooth out of the statue. With Jean stabilizing him, Storm uses her abilities to send Wolverine to the top of Magneto's machine. With time running out, Wolverine attempts to stop the machine and save Rogue, but Magneto, now having regained some of his strength, halts Wolverine's claws. Cyclops manages to find a clean shot, wounding Magneto and allowing Wolverine to destroy the machine. Placing his hand to her face, Wolverine succeeds in transferring his regenerative abilities to a dying Rogue. Professor Xavier recovers from his coma and the group learns that Mystique is still alive (after Wolverine stabbed her at Liberty Island) when they see her impersonating Senator Kelly on a news broadcast. In an attempt to help Wolverine learn more about his past, Xavier sends him to a military base near Alkali Lake. Xavier visits Magneto in his plastic prison cell, and the two play chess. Magneto warns his friend that he will continue his fight, to which Xavier promises that he (and the X-Men) will always be there to stop him.
+
+| Cast                    = * [[wikipedia:Patrick Stewart|Patrick Stewart]] as [[Charles Xavier (Earth-10005)|Professor Charles Xavier]]
+* [[wikipedia:Hugh Jackman|Hugh Jackman]] as [[James Howlett (Earth-10005)|Wolverine / Logan]]
+* [[wikipedia:Ian McKellen|Ian McKellen]] as [[Erik Lehnsherr (Earth-10005)|Magneto / Erik Lehnsherr]]
+** Brett Morris portrays a younger Magneto
+* [[wikipedia:Halle Berry|Halle Berry]] as [[Ororo Munroe (Earth-10005)|Storm / Ororo Munroe]]
+* [[wikipedia:Famke Janssen|Famke Janssen]] as [[Jean Grey (Earth-10005)|Dr. Jean Grey]]
+* [[wikipedia:James Marsden|James Marsden]] as [[Scott Summers (Earth-10005)|Cyclops / Scott Summers]]
+* [[wikipedia:Bruce Davison|Bruce Davison]] as [[Robert Kelly (Earth-10005)|Senator Robert Kelly]]
+* [[wikipedia:Rebecca Romijn|Rebecca Romijn-Stamos]] as [[Raven Darkhölme (Earth-10005)|Mystique]]
+* [[wikipedia:Ray Park|Ray Park]] as [[Mortimer Toynbee (Earth-10005)|Toad]]
+* [[wikipedia:Tyler Mane|Tyler Mane]] as [[Victor Creed (Earth-10005)|Sabretooth]]
+* [[wikipedia:Anna Paquin|Anna Paquin]] as [[Marie D'Ancanto (Earth-10005)|Rogue / Marie]]
+
+Additionally, Matthew Sharp portrays [[Henry Guyrich (Earth-10005)|Henry Guyrich]]. Rhona Shekter and Kenneth McGregor appear as Erik's [[Edie Lehnsherr (Earth-10005)|mother]] and [[Jakob Lehnsherr (Earth-10005)|father]], respectively. [[wikipedia:Shawn Roberts|Shawn Roberts]] portrays [[David (Rogue's boyfriend) (Earth-10005)|David]], Rogue's boyfriend. Donna Goodhand and John E. Nelles appear as Rogue's [[Priscilla D'Ancanto (Earth-10005)|mother]] and [[Owen D'Ancanto (Earth-10005)|father]], respectively. Kevin Rushton portrays cage fighter Stu. [[wikipedia:Sumela Kay|Sumela Kay]], [[wikipedia:Shawn Ashmore|Shawn Ashmore]], Katrina Florece, Alex Burton appear as [[Xavier's School for Gifted Youngsters]] students [[Katherine Pryde (Earth-10005)|Kitty Pryde]], [[Robert Drake (Earth-10005)|Bobby Drake]], [[Jubilation Lee (Earth-10005)|Jubilee]], and [[John Allerdyce (Earth-10005)|John Allerdyce]], respectively. [[wikipedia:Matt Weinberg|Matt Weinberg]] portrays Tommy, a boy at the beach. [[Stan Lee]] cameos as a hot dog vendor, while writers [[Tom DeSanto]] and [[David Hayter]] cameo as cops. Amy Leland provides the voice of [[Cerebro]]. David Black portrays the President of the United States.
+
+| Notes                   = * [[X-Men 2 Prequel: Wolverine Vol 1 1|X-Men 2 Prequel: Wolverine]] and [[X-Men 2 Prequel: Nightcrawler Vol 1 1|X-Men 2 Prequel: Nightcrawler]] take place after '''X-Men''' and before '''[[X2 (film)|X2]]'''.
+* [[X-Men Movie Prequel: Wolverine Vol 1 1|X-Men Movie Prequel: Wolverine]], [[X-Men Movie Prequel: Rogue Vol 1 1|X-Men Movie Prequel: Rogue]], [[X-Men Movie Prequel: Magneto Vol 1 1|X-Men Movie Prequel: Magneto]], the [[X-Men Movie Adaptation Vol 1 1|movie adaptation]] are not considered to be canonical anymore since they're contradicted by '''X-Men''', [[X-Men: First Class (film)|X-Men: First Class]] and [[The Wolverine (film)|The Wolverine]] films and [[X-Men: The Official Game]].
+* '''X-Men''' was pretty well received for the fans and critics, scoring a 81% at Rotten Tomatoes<ref>[https://www.rottentomatoes.com/m/xmen X-Men at Rotten Tomatoes]</ref> and a 64% at Metacritic,<ref>[http://www.metacritic.com/movie/x-men X-Men at Metacritic]</ref> both reviewing movie sites.
+| Trivia                  = 
+'''Other Taglines:'''
+* ''Change is coming. The evolution begins July 14th.''
+* ''Protecting Those Who Fear Them.''
+* ''The time is coming when all that we are afraid of will be all that can save us.''
+* ''Join the Revolution.''
+* ''We're Not What You Think.''
+* ''The future is here.''
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+* [http://www.thexverse.com/ TheXverse.com:] X-Men Movie News
+}}
+[[Category:20th Century Fox]]

@@ -1,0 +1,50 @@
+{{Marvel Database:Film Template
+| Image                   = 
+| Aliases                 = 
+
+| Directors               = Jonás Cuaron
+| Producers               = 
+| ScreenplayWriters       = Gareth Dunnet-Alcocer
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| ProductionCompanies     = Columbia Pictures, Marvel Entertainment
+| Distributors            = Sony Pictures Releasing
+| Running Time            = 
+| Rating                  = 
+| Budget                  = 
+| Release Date            = January 12, 2024
+
+| IMDB ID                 = 19845348
+| Spider-Man Films        = 
+| Marvel Movies           = {{PAGENAME}}
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* <br/>
+'''Supporting Characters:'''
+* <br/>
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* <br/>
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * {{WP|Bad Bunny}} as '''[[El Muerto|El Muerto / Juan-Carlos Sanchez]]'''<ref>{{cite web|url= https://deadline.com/2022/04/bad-bunny-spider-man-el-muerto-sonys-marvel-pic-1235009269/|title= Bad Bunny To Play Spider-Man Character El Muerto In Standalone Marvel Pic For Sony|work= Deadline|last= Kroll|first= Justin|coauthors= D'Alessandro, Anthony|date= April 25, 2022|accessdate= April 26, 2022}}</ref>
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}

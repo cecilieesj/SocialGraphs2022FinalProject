@@ -1,0 +1,337 @@
+{{Featured}}
+{{Infobox film
+|image = Tron Legacy Final Poster.png
+|name = TRON: Legacy
+|director = [[Joseph Kosinski]]
+|producer = Sean Bailey<br>Jeffrey Silver<br>[[Steven Lisberger]]
+|writer = Steven Lisberger<br>Lee Sternthal<br>[[Brian Klugman]]<br>'''Screenplay:'''<br>Richard Jeffries<br>Adam Horowitz<br>Edward Kistis
+|music = [[Daft Punk]]
+|cinematography = Claudio Miranda
+|editor = Claudio Miranda
+|studio = LivePlanet and Sean Bailey Productions<br>[[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[December 17]], [[2010]]
+|time = 126 minutes
+|language = English
+|budget = $170 million
+|gross = $172,062,763 (US)<br>$400,062,763 (Worldwide)
+|preceded = ''[[Tron]]'' ([[1982]])
+|imdb_id = 1104001}}
+
+'''''Tron: Legacy''''' (stylized as '''''TRON: Legacy''''') is a [[2010]] American film directed by [[Joseph Kosinski]] and produced by Steven Lisberger. It is the sequel to the [[1982]] film, ''[[Tron]]'' with actor [[Jeff Bridges]] reprising his roles as [[Kevin Flynn]] and [[CLU 2.0|CLU]], while [[Bruce Boxleitner]] reprises his roles as [[Alan Bradley]] and [[Tron (character)|Tron]]. [[Garrett Hedlund]] portrays Flynn's adult son, [[Sam Flynn|Sam]]. The other cast members include [[Olivia Wilde]], Beau Garrett, [[Michael Sheen]], and James Frain. The film's soundtrack was composed by the electronic music duo, [[Daft Punk]]. The film grossed just over $400 million worldwide, against its $170 million budget.
+
+==Plot==
+In 1989, Kevin Flynn ([[Jeff Bridges]]), the software engineer and CEO of [[ENCOM]] International, mysteriously disappears four years after losing his wife Jordan. Twenty years later, his son, Sam (Garrett Hedlund), now ENCOM's primary shareholder, takes little interest in the company beyond playing an annual practical joke on the board of directors. Sam is visited by his father's friend, ENCOM executive Alan Bradley (Bruce Boxleitner), urging Sam to investigate a message originating from Flynn's abandoned arcade. There, Sam unintentionally teleports himself to the Grid, a virtual reality created by his father.
+
+On the Grid, Sam is sent to compete against a masked program called Rinzler; who, having realized that Sam is a ''User'', takes him to CLU, a duplicate of Kevin Flynn from 1982 who acts as the Grid's ruler. CLU nearly kills Sam in a Light Cycle match; but Sam is rescued by Quorra (Olivia Wilde), an apprentice of his father's, who conveys him to his father, now an old man, outside CLU's territory. There, Flynn reveals to Sam that he had been working to create a "perfect" computer system and had appointed CLU and Tron, a security program created by Alan Bradley, as its co-creators. In the process thereof, Flynn discovered a series of "isomorphic algorithms" (ISOs), which carried the potential to resolve various mysteries in science, religion, and medicine, but CLU, considering these an aberration, betrayed Flynn, captured Tron, and destroyed all of the ISOs, with the sole exception of Quorra. Meanwhile, the "portal" permitting travel between the two worlds has closed, leaving Flynn a captive; whereafter CLU sent the message to Alan, to get Sam.
+
+Against his father's wishes, Sam returns to the Grid to find Zuse, a program promised to provide safe passage to the portal. At the ''End of Line Club'' owner Castor (Michael Sheen), reveals himself to be Zuse and betrays him to CLU's guards. In the resulting fight, Flynn rescues his son, Quorra is injured, and Zuse gains possession of Flynn's 'identity disc'. Knowing the disc works as a master key to the Grid, Zuse attempts to bargain with CLU; but CLU simply takes the disc and destroys the club. Flynn and Sam save the injured Quorra and stow away aboard a [[Solar Sailer|solar sailer]], where Flynn restores Quorra.
+
+Aboard a massive warship, Flynn recognizes Rinzler as Tron, reprogrammed by CLU, while CLU announces his desire to invade the material world. Sam thereafter reclaims Flynn's disc; whereupon CLU, Rinzler, and several guards pursue the protagonists in Light Jets. During the pursuit, Rinzler remembers his former identity and destroys CLU's Light Jet. CLU uses Tron's Light Jet to escape while Tron falls into the Sea of Simulation, where the colored lights on his armor change from orange to blue.
+
+CLU confronts the protagonists at the portal, where after attempting to reason with CLU, Flynn absorbs him, destroying themselves as well as CLU's army and warship, while Sam and Quorra transfer themselves to the real world.
+
+In Flynn's arcade, Sam backs up the system on his USB flash drive, and having deactivated it offers to take control of ENCOM and name Alan chairman of the board. Quorra meets Sam outside, and the two depart on his motorcycle; Sam showing Quorra a sunrise ''en route''.
+
+==Cast==
+*[[Garrett Hedlund]] as [[Sam Flynn]], a primary shareholder of ENCOM International. While investigating his father's disappearance, Sam is transported onto the Grid himself.
+**Owen Best plays the seven-year-old Sam Flynn.
+*[[Olivia Wilde ]] as [[Quorra]], an "isomorphic algorithm", adept warrior, and confidante of Kevin Flynn in the Grid. Flynn refers to her as his "apprentice" and has imparted volumes of information to her regarding the world outside of the Grid, which she longs to experience in person. Wilde describes Quorra as akin to Joan of Arc. Her hairstyle was influenced by singer Karen O. Wilde added that although "[Quorra] could have just been another slinky, vampy temptress", it was important for her to appeal to both men and women. She and Kevin Flynn are depicted as recreational Go players.
+*[[Jeff Bridges]] as [[Kevin Flynn]], the former CEO of ENCOM International and creator of the popular arcade game ''Tron'' based on his own experiences in ENCOM's virtual reality. He disappeared in 1989 while developing "a digital frontier that will reshape the human condition". Bridges also portrays CLU (Codified Likeness Utility), via digital makeup and voiceover, while John Reardon portrays CLU physically. CLU is a more advanced incarnation of Flynn's original computer-hacking program, designed as an "exact duplicate of himself" within the Grid.
+*[[Bruce Boxleitner]] as [[Alan Bradley]], an executive consultant for ENCOM International, close friend of Kevin Flynn, and a surrogate father figure for Sam. After receiving a cryptic page from the office at the shuttered Flynn's Arcade, he encourages Sam to investigate its origin. Boxleitner also portrays [[Tron (character)|Tron]], a security program originally developed by Bradley to monitor ENCOM's Master Control Program, and later reassigned by Flynn to defend the Grid, in flashback sequences via the same treatment as Bridges' younger self for CLU.
+*[[Michael Sheen]] as [[Castor|Castor/Zuse]], a vivacious and renowned program who runs the ''End of Line Club'' at the top of a tower in the system. Sheen describes his performance as containing elements of performers such as: Ziggy Stardust, Joel Grey from ''Cabaret'', and a bit of Frank-N-Furter from ''The Rocky Horror Picture Show''.
+*Beau Garrett as [[Gem]], one of four programs known as Sirens. The Sirens operate the Grid's game armory, equipping combatants with the armor needed to compete in the games, while also reporting to Castor.
+*[[Daft Punk]] as DJ programs at Castor's End of Line Club.
+*Yaya DaCosta, Serinda Swan, and Elizabeth Mathis as the other three Sirens.
+*Steven Lisberger as Shaddix, a bartender in the End of Line club.
+*Anis Cheurfa, a stunt actor, portrays the masked warrior Rinzler.
+*[[Jeffrey Nordling]] as Richard Mackey, chairman of ENCOM board.
+*Edie Mirman as the Computer Voice heard throughout the Grid.
+
+Cillian Murphy appears in an uncredited role as [[Edward Dillinger, Jr.]], head of the software design team for ENCOM and the son of former ENCOM Senior Executive [[Ed Dillinger]] (portrayed by [[David Warner]] in the [[Tron|original film]]). This sequel notably doesn't feature most characters from the original (such as the [[Master Control Program (MCP)|MCP]]) and barely features the titular character [[Tron (character)|Tron]].
+
+==Production==
+===Development===
+[[File:Tron2.jpg|thumb|left|Original sequel logo, from the test footage premiered at Comic-Con 2008.|alt=The logo "TR2N" in a stylized futuristic type resembling a neon display.]]
+There was speculation that Disney would make a sequel film, due to the original film's cult following. On [[July 29]], [[1999]], ZDnet News reported that a ''Tron'' sequel or remake was being considered by [[Pixar]]. In 2003, Disney released an official sequel to the original film in the form of the video game ''Tron 2.0'', leading to increased speculation over a pending film sequel. At the time of the games release, Lisberger suggested that any film sequel would have to meet the challenge of existing as a sequel to the video game.
+
+Throughout the next several years, many unfounded rumors that a ''Tron'' sequel was in production or being developed were reported by various news websites. On [[January 13]], [[2005]], ''Variety'' reported that Disney had hired [[Brian Klugman]] and Lee Sternthal to write a sequel to ''Tron''.
+
+At the 2008 San Diego Comic-Con, a preliminary teaser trailer (labeled as ''TR2N'' and directed by Joseph Kosinski) was shown as a surprise to convention guests. It depicted a yellow Program engaged in a light cycle battle with a blue Program, and it prominently featured Jeff Bridges reprising his role as an aged Kevin Flynn (from the first film). At the end of the trailer, the yellow Program showed his face, which appeared identical to Flynn's earlier program Clu (resembling the younger Flynn in ''Tron'').
+
+While the trailer did not confirm that a ''Tron'' sequel was in production, it showed that [[Disney]] was serious about a sequel. In an interview with Sci-Fi Wire, Bridges revealed that the test footage was not likely to appear in the finished movie. On [[July 23]], [[2009]], Disney revealed the current title at their Comic-Con 3D panel. Jeff Bridges explains that the title is in reference to the story's theme: "It's basically a story about a son's search for his father." They also showed a trailer similar to the one shown at Comic-Con 2008, with updated visuals. At the time, the film had just wrapped production and they had a year of post production ahead of them. Because none of the footage from inside the computer world was finished, they premiered concept images from the production. Art included the recognizer, which has been updated from the original film. Concept photos were also shown of Disc Wars, which has also been revised from the original film into a 16-game tournament. The arena is set up so that the game court organically changes, and all 16 games are going on at the same time. The boards also combine in real time until the last two Disc warriors are connected.
+[[File:Tron Legacy, light cycle, Comic-Con 2009.jpg|thumb|A life-size model of the light cycle exhibited at Comic-Con 2009.]]
+[[Light Cycles|Light cycles]] Light cycles make a return, with new designs by Daniel Simon. According to the press conference at Comic-Con 2009, a new vehicle appears called a "Light Runner," a two-seat version of the light cycle. It is said to be very fast, and has the unique ability to go off The Grid on its own power. We also get a glimpse at Kevin Flynn's own cycle, a "Second Generation Light Cycle" designed in 1989 by Flynn and is "still the fastest thing on The Grid." It incorporates some of the look of both films.
+
+A life-size model of the light cycle was put on display at a booth at Fan Expo 2009 in Toronto, Ontario from August 28–30, 2009, along with a special presentation of material from the production. The conceptual art shown at Comic-Con was shown in the session, along with some test film of the martial artists who play a more athletic style of Disc Wars. A segment from the movie showed Flynn's son entering the now-decrepit arcade, playing a ''Tron'' stand-up arcade video game, noticing a passage in the wall behind the ''Tron'' game and entering it, the passage closing behind him. Flynn's son makes the visit to the arcade after Alan Bradley receives a page from the disconnected phone number of the arcade. The footage was used later as part of the trailer released on March 5, 2010.
+
+The original character of Yori does not appear in the sequel; nor does her user, Dr. Lora Baines, even though the film refers to Alan Bradley being married to Lora. According to online media ''Sci Fi Wire:'' "Fans have been lobbying for actress Cindy Morgan to be in the movie." There are active campaigns online, such as "Yori Lives" on Facebook, which is independent of Morgan herself. "All I know is what I'm seeing online," Morgan said. "I am so thrilled and touched and excited about the fan reaction and about people talking about the first one and how it relates to the second one. I can't tell you how warm a feeling I get from that. It just means so much." No one from ''Tron: Legacy'' had contacted Morgan, and she did not directly speak with anyone from the Joseph Kosinski-directed sequel. As Dr. Lora Baines, Cindy Morgan had appeared with Bruce Boxleitner (as Alan Bradley) at the Encom Press Conference in San Francisco, April 2, 2010.
+
+===Writing===
+Bridges brought on board Bernie Glassman, a Zen Buddhist, to consult on the story and add spiritual subtext. The film's director and producers met with science consultants provided by the Science & Entertainment Exchange to create a "strong science foundation at key moments in the film."
+
+===Filming===
+[[File:Mahakaya 1 (1).jpg|thumb|A portion of Downtown Vancouver provided for the setting of ''Tron: Legacy''.|alt=Black and white picture of the downtown Vancouver cityscape, a mountain in seen in the background.]]
+Principal photography took place in Vancouver, British Columbia in April 2009, and lasted for approximately sixty-seven days. Many filming locations were established in Downtown Vancouver and its surroundings. Stage shooting for the film took place at the Canadian Motion Picture Park studio in Burnaby, a nearby suburb of the city. Kosinski devised and constructed twelve to fifteen of the film's sets, including Kevin Flynn's safe house, a creation he illustrated on a napkin for a visual effects test. "I wanted to build as much as possible. It was important to me that this world feel real, and anytime I could build something I did. So I hired guys that I went to architecture school with to work on the sets for this film, and hopefully people who watch the film feel like there’s a certain physicality to this world that hopefully they appreciate, knowing that real architects actually put this whole thing together." The film was shot in dual camera 3D using Pace Fusion rigs like [[James Cameron]]'s ''[[Wikipedia:Avatar (2009 film)|Avatar]]'', but unlike the Sony F950 cameras on that film, ''Tron'' used the F35's. "The benefit of [the F35s]," according to director Kosinski, "is that it has a full 35mm sensor which gives you that beautiful cinematic shallow depth of field." The film's beginning portions were shot in 2D, while forty minutes of the film were vertically enhanced for IMAX. Digital Domain was contracted to work on the visual effects, while companies such as Prime Focus Group, DD Vancouver, and Mr. X were brought on to collaborate with producer on the post-production junctures of ''Tron: Legacy''. Post-production wrapped on November 25, 2010.
+
+The sequences on the Grid were wholly shot in 3D, utilizing cameras specifically designed for it, and employed a 3D technique that combined other special effects techniques. The real-world sequences were filmed in 2D, and eventually altered using the three-dimensional element. Bailey stated that it was a challenge shooting ''Tron: Legacy'' in 3D because the cameras were bigger and heavier, and variations needed to be taken into account. Despite these concerns, he opined that it was a "great reason to go to the movies because it's an experience you just can't recreate on an iPhone or a laptop". In some sequences the image shows a fine mesh pattern and some blurring. That is not interference or a production fault, but indicates that that sequence is a flashback and to simulate an older form of video representation technology. Stunt work on the film was designed and coordinated by 87eleven, who also designed and trained fight sequences for ''[[Wikipedia:300 (film)|300]]'' and ''[[Wikipedia:Watchmen (film)|Watchmen]]''. Olivia Wilde described it as an honor to train with them.
+
+===Design===
+In defining his method for creating ''Tron: Legacy'', Kosinski declared that his main objective was to "make it feel real", adding that he wanted the audience to feel like filming actually occurred in the fictional universe. For this, many physical sets were built, as Kosinski "wanted the materials to be real materials: glass, concrete, steel, so it had this kind of visceral quality." Kosinki collaborated with people who specialized in fields outside of the film industry, such as architecture and automotive design. The looks for the Grid aimed for a more advanced version of the cyberspace visited by Flynn in ''Tron'', which Lisberger described as "a virtual Galapagos, which has evolved on its own". As Bailey put, the Grid would not have any influence from the internet as it had turned offline from the real world in the 1980s, and "grew on its own server into something powerful and unique". Kosinski added that as the simulation became more realistic, it would try to become closer to the real world with environmental effects such as rain and wind, and production designer Darren Gilford stated that there would be a juxtaposition between the variety of texture and color of the real world introduction in contrast with the "clean surfaces and lines" of the Grid. As the design team considered the lights a major part of the ''Tron'' look, particularly for being set in a dark world—described by effects art director Ben Procter as "dark silhouetted objects dipped in an atmosphere with clouds in-between, in a kind of Japanese landscape painting" where "the self-lighting of the objects is the main light source"—lighting was spread through every prop on the set, including the floor in Flynn's hideout. Lisberger also stated that while the original ''Tron'' "reflected the way cyberspace was", the sequel was "going to be like a modern day, like contemporary plus, in terms of how much resolution, the texturing, the feel, the style", adding that "it doesn’t have that Pong Land vibe to it anymore."
+
+The skintight suits worn by the actors were reminiscent of the outfits worn by the actors in the original film. Kosinski believed that the costumes could be made to be practical due to the computerized nature of the film, as physically illuminating each costume would be costly to the budget. Christine Bieselin Clark worked with Michael Wilkinson in designing the lighted costumes, which used electroluminescent lamps derived from a flexible polymer film and featured hexagonal patterns. The lights passed through the suit via Light Tape, a substance composed of Honeywell lamination and Sylvania phosphors. To concoct a color, a transparent 3M Vinyl film was applied onto the phosphor prior to lamination. While most of the suits were made out of foam latex, others derived from spandex, which was sprayed with balloon rubber, ultimately giving the illusion of a lean shape. The actors had to be compressed to compromise for the bulk of the electronics. In addition, Clark and Wilkinson designed over 140 background costumes. The two sought influence from various fashion and shoe designers in building the costumes. On the back of the suit was an illuminated disc, which consisted of 134 LED lights. It was attached to the suit via a magnet, and was radio-controlled. All the costumes had to be sewn in such a way that the stitches did not appear, as the design team figured that in a virtual environment the clothes would just materialize, with no need for buttons, zippers or enclosures. According to Neville Page, the lead designer for the helmets, "The art departments communicated very well with each other to realize Joe’s [...] vision. We would look over each other’s shoulders to find inspiration from one another. The development of the costumes came from trying to develop the form language which came from within the film."
+
+The majority of the suits were designed using ZBrush. A scan of an actor's body was taken, which was then encased to decipher the fabric, the location of the foam, amongst other concerns. With a computer numerical cutting of dense foam, a small scale output would be created to perfect fine details before initiating construction of the suit. Upon downloading the participant's body scan, the illustrations were overlaid to provide an output manufacturing element. Describing the computer numerical cutting process, Chris Lavery of Clothes on Film noted that it had a tendency to elicit bubbles and striations. Clark stated: "The [...] suit is all made of a hexagon mesh which we also printed and made the fabric from 3D files. This would go onto the hard form; it would go inside the mould which was silicon matrix. We would put those together and then inject foam into the negative space. The wiring harness is embedded into the mould and you get a torso. We then paint it and that’s your finished suit."
+
+===Sound and visual effects===
+[[File:CluTronLegacy.jpg|thumb|left|The likeness of a 35-year-old Bridges was taken from the 1984 film ''Against All Odds'', rather than the original ''Tron''.]]
+
+Crowd effects for the gaming arena were recorded at the 2010 San Diego Comic-Con International. During one of the ''Tron: Legacy'' panels, the crowd was given instruction via a large video screen while techs from [[Skywalker Sound]] recorded the performance. The audience performed chants and stomping effects similar to what is heard in modern sports arenas.
+
+It took two years and ten companies to create the 1,565 visual effects shots of ''Tron: Legacy''. The majority of the effects were done by Digital Domain, who created 882 shots under supervisor Eric Barba. The production team blended several special effect techniques, such as chroma keying, to allow more freedom in creating effects. Similar to ''Tron'', this approach was seen as pushing the boundaries of modern technology. "I was going more on instinct rather than experience," Kosinski remarked. Although he had previously used the technology in producing advertisements, this was the first time Kosinski used it a large scale simultaneously. Darren Gilford was approached as the production designer, while David Levy was hired as a concept artist. Levy translated Kosinski's ideas into drawings and other visual designs. "Joe's vision evolved the visuals of the first film," he stated. "He wanted the Grid to feel like reality, but with a twist." An estimated twenty to twenty-five artists from the art department developed concepts of the ''Tron: Legacy'' universe, which varied from real world locations to fully digital sets. Gilford suggested that there were between sixty to seventy settings in the film, split up into fifteen fully constructed sets with different levels of computer-created landscapes.
+
+Rather than utilizing makeup tactics, such as the ones used in ''A Beautiful Mind'', to give Jeff Bridges a younger appearance, the character of Clu was completely computer generated. To show that this version of Clu was created some time after the events of the original film, the visual effects artists based his appearance on how Bridges looked in ''Against All Odds'', released two years after ''Tron''. The effects team hired makeup artist [[Rick Baker]] to construct a molded likeness of a younger Bridges head to serve as their basis for their CG work. But soon, they scrapped the mould because they wished for it to be more youthful. There was no time to make another mould, so the team reconstructed it digitally. On-set, first Bridges would perform, being then followed by stunt double John Reardon who would mimic his actions. Reardon's head was replaced on post-production with the digital version of the young Bridges. Barba – who was involved in a similar experience for ''The Curious Case of Benjamin Button'' — stated that they used four microcameras with infrared sensors to capture all 134 dots on Bridges face that would be the basis of the facial movements, a similar process that was used in ''Avatar''. It took over two years to not only create the likeness of Clu, but also the character's movements (such as muscle movement). Bridges called the experience surreal and said it was "Just like the first ''Tron'', but for real!"
+
+===Music===
+{{main|Tron: Legacy (soundtrack)}}
+[[File:Daftpunklapremiere2010.jpg|thumb|For the soundtrack, Daft Punk went away from an exclusively electronic sound and incorporated orchestral elements.|alt=Two men wearing grey jumpsuits and robot helmets.]]
+
+The [[France|French]] electronic group [[Daft Punk]] composed the film score of ''Tron: Legacy'', which features over 24 tracks. The score was arranged and orchestrated by Joseph Trapanese. Jason Bentley served as the film's music supervisor. An electronic music fan, Kosinski stated that to replicate the innovative electronic ''Tron'' score by Wendy Carlos "rather than going with a traditional film composer, I wanted to try something fresh and different", adding that "there was a lot of interest from different electronic bands that I follow to work on the film" but he eventually picked Daft Punk. Kosinski added that he knew the band was "more than just dance music guys" for side projects such as their film ''[[Wikipedia:Daft Punk's Electroma|Electroma]]''. The duo were first contacted by producers in 2007, when ''Tron: Legacy'' was still in the early stages of production. Since they were touring at the time, producers were unsuccessful in contacting the group. They were again approached by Kosinski, eventually agreeing to take part in the film a year later. Kosinski added that Daft Punk were huge ''Tron'' fans, and that his meeting with them "was almost like they were interviewing me to make sure that I was going to hold up to the ''Tron'' legacy".
+
+The soundtrack started being composed before production had even begun, and is a notable departure from the band's previous works, as Daft Punk puts more emphasis on orchestral elements rather than relying solely on synthesizers. "Synths are a very low level of artificial intelligence," explained member Guy-Manuel de Homem-Christo, "whereas you have a Stradivarius that will live for a thousand years. We knew from the start that there was no way that we were going to do this film score with two synthesizers and a drum machine." "[[Derezzed]]" was taken from the album and released as its sole single. The album was released on December 3, 2010, and sold 71,000 copies in its first week in the United States. Peaking at number six on the ''Billboard'' 200, it eventually acquired a gold certification by the Recording Industry Association of America, denoting shipments of 500,000 copies. A remix album for the soundtrack, titled ''Tron: Legacy Reconfigured'', became available on April 5, 2011 to coincide with the film's home media release.
+
+Journey's "Separate Ways (Worlds Apart) and Eurythmics' Sweet Dreams (Are Made Of This) were playing in [[Flynn's Arcade]] in the movie, but both songs were never added to the soundtracks.
+
+==Marketing==
+On July 21, 2009, several movie-related websites posted they had received via mail a pair of "Flynn's Arcade" tokens along with a flash drive. Its content was an animated GIF that showed CSS code lines. Four of them were put together and part of the code was cracked, revealing the URL to Flynnlives.com, a fictitious site maintained by activists who believe Kevin Flynn is alive, even though he has been missing since 1989. Clicking on a tiny spider in the lower section of the main page led to a countdown clock that hit zero on July 23, 2009, 9:30&nbsp;pm PDT. Within the Terms of Use Section, an address was found. It lies in San Diego, California, USA near the city's convention center where the Comic-Con 2009 took place and some footage and information on the sequel was released. Flynn's Arcade was re-opened at that location, with several Space Paranoids arcade machines and a variety of '80s video games. A full-size light cycle from the new movie was on display.
+
+A ninth viral site, homeoftron.com, was found. It portrays some of the history of Flynn's Arcade as well as a fan memoir section On December 19, 2009 a new poster was revealed, along with the second still from the movie. Banners promoting the film paved the way to the 2010 Comic-Con convention center, making this a record third appearance for the film at the annual event. On October 19, 2010, a new banner was revealed, combining segments from the original Tron poster in it. In the poster, Sam reaches out for his disk in the air, with Quorra by his side in the world of Tron.
+
+[[File:Tron Legacy (2010) Theatrical Trailer -1 -4K- -5.1--2|thumb|250px|right|]]
+
+The first theatrical trailer was released on March 5, 2010 with ''[[Alice in Wonderland (2010 film)|Alice in Wonderland]]''. The trailer was also included with ''[[Toy Story 3]]''. Plus, a few featured scenes with Sam, Flynn, and the Tron world. The second trailer was attached to ''Step Up 3D''. Another trailer was attached to ''Resident Evil: Afterlife'' one was also attached to ''Harry Potter and the Deathly Hallows - Part 1''. On November 9, 2010, a new trailer was released. Sneak previews of the film aired on November 5 on [[Disney Channel]] during new episodes of ''[[The Suite Life on Deck]]'' and ''[[Pair of Kings]]''.
+
+[[The Walt Disney Company|Disney]] also partnered with Coke Zero to promote ''Tron: Legacy''. Said promotion included promotional in-store standees, as well as ''Tron: Legacy'' logos and character art on Coke Zero cans, bottles, and 2-liters, as well as pre-movie advertisements at movie theater chains, and extensive promotional material on the official Coke Zero website.
+
+===Theme parks and attractions===
+[[File:DisneywordTronMonorail.jpg|thumb|250px|alt=A monorail stamping a painted Light Cycle which leaves an orange trail behind. The second cart also has the Tron Legacy title.]]At the [[Walt Disney World]] in Florida, one [[Walt Disney World Monorail System|monorail]] train was decorated with special artwork depicting lightcycles with trailing beams of light, along with the film's logo. This ''Tron'' themed monorail, which was renamed the "Tronorail," was unveiled in March 2010.
+
+At the [[Disneyland Resort]] in California, a nighttime dance party named "[[ElecTRONica]]" premiered on October 8, 2010 and was set to close in May 2011, but it has been extended through Labor Day, in [[Hollywood Pictures Backlot]] at [[Disney California Adventure]]. Winners of America's Best Dance Crew, Poreotics, perform at ElecTRONica. As part of ElecTRONica, a sneak peek with scenes from the film is shown in 3D with additional in-theater effects in the MuppetVision theater.
+
+On October 29, 2010, the nighttime show, ''[[World of Color]]'' at [[Disney California Adventure]] began soft-openings after its second show of a ''Tron: Legacy'' themed encore using a Daft Punk music piece titled "The Game Has Changed" from the movie soundtrack, using new effects and projections on Paradise Pier attractions. The encore officially premiered on November 1, 2010 and had its final performance on March 30, 2011.
+
+On December 12, 2010 the show, ''Extreme Makeover Home Edition'' as part of a house rebuild constructed a ''Tron: Legacy'' themed bedroom for one of the occupants young boys. The black painted room not only consisted of life sized Tron city graphics but glowing blue line graphics on the walls, floor, and furniture, a desk with glowing red lit Recognizers for the legs and a Tron suit inspired desk chair, a Lightcycle shaped chair with blue lighting accents, projection mural system that projects Tron imagery on a glass wall partition, laptop computer, flat panel television, several Tron Legacy action figures, a daybed in black and shimmering dark blue and blue overhead lit panels.
+
+Disney was involved with the Ice Hotel in Jukkasjärvi, Sweden through association with designers Ian Douglas-Jones at I-N-D-J and Ben Rousseau to create "The Legacy of the River", a high-tech suite inspired by ''Tron: Legacy''. The suite uses electroluminescent wire to capture the art style of the film. It consists of over 60 square meters of 100mm thick ice equating to approximately six tons. 160 linear meters of electroluminescent wire were routed out, sandwiched and then glued with powdered snow and water to create complex geometric forms. The Ice Hotel is expected to get 60,000 visitors for the season which lasts December 2010 through April 2011.
+
+On November 19, 2010, the ''Tron: Legacy'' Pop Up Shop opened at Royal-T Cafe and Art Space in Culver City, California. The shop featured many of the collaborative products created as tie ins with the movie from brands such as Oakley, Hurley, and Adidas. The space was decorated in theme and the adjacent cafe had a tie in menu with ''Tron'' inspired dishes. The shop remained open until December 23, 2010.
+
+===Electronics and toys===
+Electronics and toy lines inspired by the movie were released during fall 2010.
+
+===Video games===
+[[File:2010_tron_evolution-wide-1-.jpg|thumb|250px]]
+A tie-in video game, entitled ''Tron: Evolution'', was released on November 25, 2010. The story sits between the original ''Tron'' film and ''Tron: Legacy''. Teaser trailers were released in November 2009, while a longer trailer was shown during the Spike Video Game Awards on December 12, 2009. IGN reviewed the PlayStation 3 version of the game but gave it only a "passable" 6 out of 10. There were also two games released for the iOS devices (iPhone, iPod, and iPad) as a tie-in to the movie: ''Tron'' and ''Tron: Legacy''.
+
+Disney commissioned N-Space to develop a series of multiplayer games based on ''Tron: Legacy'' for the Wii console. Propaganda Games developed the movie tie in game ''Tron: Evolution'' for the PlayStation 3, Xbox 360, and PC. Custom ''Tron'' branded gaming controllers have been released for Xbox 360, PlayStation 3, and Wii. IGN reviewed the controllers giving them a "great" score of 8.5 out of 10. A world based on ''Tron: Legacy'', [[The Grid]], appears in ''[[Kingdom Hearts 3D: Dream Drop Distance]]''.
+
+===Graphic novel===
+A tie-in 128-page graphic novel ''Tron: Betrayal ''was released by Disney Press on November 16, 2010. It includes an 11 page retelling of the original Tron story in addition to a story fitting between the original film and ''Tron: Legacy''. IGN reviewed the comic and gave it a "passable" score of 6.5 out of 10.
+
+===Screenings and release===
+On October 28, 2010, a 23-minute preview of the movie was screened on many IMAX theaters all over the world, (presented by ASUS). The tickets for this event were sold out within an hour on October 8. Stand-by tickets for the event were also sold shortly before the presentation started. Original merchandise from the movie was also available for sale.
+
+Some of the clips included in the presentation were seen in many of the film's trailers, but in complete form. That same day, a clip was released via the internet and the iTunes Store where Quorra apparently saved Sam in her lightrunner. Later, more scenes such as Sam encountering his father in the ''Tron'' world, and Sam geared up by the Sirens, were released. On November 20, a new clip was released where Sam and Alan Bradley met at Sam's apartment talking about his father, Kevin Flynn.
+
+Announced through the official ''Tron'' Facebook page, the red carpet premiere of the film was broadcast live on the internet. ''Tron Legacy'' was released in theaters on December 17, 2010, in the United States and United Kingdom. The film was originally set to be released in the UK on December 26, 2010, but was brought forward due to high demand. According to the latest trailer, the film will be presented in IMAX 3D and Disney Digital 3D. The film will also be released with D-BOX motion code in select theaters and released in 50 Iosono-enhanced cinemas, creating "3D sound".
+
+On December 10, 2010, in Toronto, Canada, a special premiere was hosted by George Strombolopolous organized through Twitter, open to the first 100 people who showed up at the CN Tower. After the movie ended the tower was lit up blue to mirror The Grid.
+
+On December 13, 2010, in select cities all over the United States, a free screening of the entire film in 3D was available to individuals on a first come, first serve basis. Free "Flynn Lives" pins were handed out to the attendees. The announcement of the free screenings was made on the official Flynn Lives Facebook page.
+
+On January 21, 2011, the German designer Michael Michalsky hosted the German premiere of the movie at his cultural event StyleNite during Berlin Fashion Week.
+
+==Reception==
+===Critical response===
+''Tron: Legacy'' has received mixed reviews from film critics. [http://rottentomatoes.com Rotten Tomatoes] gives the film a score of 50% based on 221 reviews, with an average score of 5.9/10. The site's consensus stated, "''Tron: Legacy'' boasts dazzling visuals, but its human characters and story get lost amidst its state-of-the-art production design." Metacritic, which assigns a weighted average score in the 0-100 range based on reviews from mainstream critics, calculated an average score of 49% for the film, based on reviews from 40 critics.
+
+Roger Ebert gave a positive review of ''Tron: Legacy'' giving it 3 out of 4 stars. He describes the film as a light show that "plays to the eyes and ears more than the mind" and he further praises the 3D and computer generated younger version of Jeff Bridges noting that "both [''Tron''] films, made so many years apart, can fairly lay claim to being state of the art." Ebert calls the plot a catastrophe, although he describes Jeff Bridges' performance as effective given the preposterous material, and credits the other actors for bringing humanity to their roles.
+
+Kyle Smith of the ''New York Post'' calls the film an "eyeball party" in praise of the visuals. The score by Daft Punk he says "surpasses magnificence" containing the qualities of the thundering work by Hans Zimmer on ''The Dark Knight'' and also of retro-’80s synthesizer music. Smith complains about the writing, calling it "buggy storytelling" and describing the one liners as "idiot speak", but ultimately he gave the film a score of 3 out of 4.
+
+Owen Gleiberman of ''Entertainment Weekly'' describes Joseph Kosinski's direction is "just intriguing enough to leave you hoping that when Sam finally locates his father ... the story will really take off" but is disappointed that it turns out a little too much like a bad old "trapped on Planet X" type of science fiction story.
+
+Gleiberman describes the landscapes as looking "like ''Blade Runner'' after gentrification" and praises the fluidity and elegance of the special effects, as well as the music admitting he "grooved on the look and the atmosphere" for much of the film. Bridges' beatnik Zen performance is likened to "a weary cyber version of the Dude" while he describes the role of Olivia Wilde as "pretty standard punk-arm-candy posing". He notes the film "injects you into a luminous action matrix and asks you to be happy with the ride" but is disappointed as it is another Hollywood film being overly consumed by its own effects. Josh Tyler of Cinemablend praised the film's 3D technical merits.
+
+Scott Tobias of The AV Club gave the film a D+ rating. Although he praises the cutting edge special effects, he argues that in an attempt to reach greatness the film takes itself too seriously and becomes dry and lacking in any joy.
+
+Michelle Alexandria of ''Eclipse'' magazine gave a positive review, stating that she "loved the [film's] story"; Kurt Loder of ''Reason'' magazine praises the slick work of director Kosinski and credits his undergraduate architectural studies which bring a monumental quality to the (IMAX) film. Impressed by the original vision he sees echoes of Fritz Lang's ''Metropolis'' and elements of Kubrick, noting that Castor's night club is "pure Milk bar". He praises the film for being realized at a high level and "about as brainy as this kind of genre fun gets". Rossiter Drake of ''7x7'' writes that ''Tron: Legacy'' is "Buoyed by its story, sometimes convoluted but hard to resist".
+
+Pete Hammond of ''Box Office'' magazine also praised the story, noting that "''Tron Legacy'' doesn't let Sam wander through this CGI enhanced universe without some sort of emotional payoff" and "''Legacy's'' great story and acting are matched by great effects".
+
+===Box-office performance===
+The film has grossed $172,062,763 in the [[United States]] and Canada, as of April 14, 2011, and $228,000,000 in other countries, as of May 1, 2011, for a worldwide total of $400,062,763. On its opening weekend, it earned $44,026,211 worldwide, Although it did not reach [[Walt Disney Pictures|Disney]]'s high expectations for a 3-D film similar to the success of ''Avatar'', it nevertheless was a box office success, selling more tickets than its predecessor (an achievement few sequels of 2010 succeeded in accomplishing) and was Disney's fourth film in 2010 to reach $400 million worldwide. It stayed in theaters until April 14, 2011.
+
+====North America====
+Based on pre-release audience surveys ''Tron Legacy'' was expected to take in $50 million at the box office on its opening weekend. It topped the box office with $17,509,781 on its first day and $44,026,211 throughout the weekend, far ahead of the other two new releases, ''Yogi Bear'' ($16.4 million) and ''How Do You Know'' ($7.5 million). It marked the 12th highest-grossing movie of 2010 and the largest one of December 2010. It is also the second largest ''Virtual Reality'' and ''Sci-Fi Chase'' movie and the third largest ''Man vs. Machine'' movie in the USA and Canada.
+
+====Other countries====
+It failed to top the box office on its overseas opening, since it earned only $20.3 million and ranked fourth behind ''Voyage of the Dawn Treader'', ''Let the Bullets Fly'', and ''Deathly Hallows: Part 1''. However, on its fifth weekend —Martin-Luther-King weekend — with $17.2 million and few competition, it reached the number one spot overseas with fellow Disney film ''[[Tangled]]'' about $2 million below in second place.
+
+In [[Japan]], its highest-grossing market after the USA and Canada, it debuted with $4,342,766 (including weekday previews), placing second for the weekend, and ended its box-office run with $25,155,442. In [[Russia]] and CIS, it began with $6,114,112 at number one and reached a total of $21,316,483. In China, it had an impressive opening of $10,624,412 but it quickly faded out for a final gross of $18,889,822. In the UK, Ireland, and Malta, it had a $3,062,649 opening at the top spot of the box office and ended with $16,221,225. Other $10-million-plus territories were Germany ($14,756,510), [[Australia]] ($14,505,106), Mexico ($14,298,825), and [[France]] and the Maghreb region ($11,549,298).
+
+===Home media===
+''Tron: Legacy'' was released by [[Walt Disney Studios Home Entertainment]] on Blu-ray Disc, [[DVD]], and digital download in North America on April 5, 2011. A five-disc box set entitled ''The Ultimate Tron Experience'' contains the Blu-ray 3D, Blu-ray, DVD, and digital copy of ''Tron: Legacy'', as well as ''Tron: The Original Classic'' in collectible packaging. A separate five-disc box set referred to as the ''Tron: 2-Movie Collection'' contains the same elements, except it does not include collectible packaging. A four-disc box set is also produced with the Blu-ray 3D. The film is also packaged as a two-disc DVD and Blu-ray combo pack, as well as a single-disc DVD version. ''Tron: Legacy'' will be released as a digital download in high definition or standard definition, including versions with or without the digital extras.
+
+A preview of the 10-part animated series ''[[Tron: Uprising]]'' is included in all versions of the home media release. The Blu-ray versions of ''Tron: Legacy'' also include an interactive bonus piece called ''The Next Day: Flynn Lives Revealed'' that explains what happened immediately following the end of the movie, as well as [[Disney Second Screen]]. ''Tron: Legacy'' will be the second Walt Disney Studios Home Entertainment release that includes Disney Second Screen, a feature accessible via a computer or iPad app download that provides additional content as the user views the film.
+
+40 minutes of the film were, although shot in 2.35:1, vertically enhanced for IMAX. These scenes are presented in 1.78:1 in a similar way to the Blu-ray release of ''The Dark Knight''.
+
+===Awards and nominations===
+''Tron: Legacy'' received an award for "Best Original Score" from the Austin Film Critics Association. The film was also nominated for "Excellence in Production Design for a Fantasy Film" by the Art Directors Guild, and for "Sound Editing" by The Academy of Motion Picture Arts and Sciences.
+{| class="wikitable sortable"
+|-
+! Award
+! Date
+! Recipient
+! Category
+! Result
+|- sizcache04179085146028798="78.0.1" sizset="false"
+| 83rd Academy Awards
+| February 27, 2011
+| Gwendolyn Yates Whittle and Addison Teague
+| Best Sound Editing
+|{{nom}}
+|-
+| Art Directors Guild
+| February 5, 2011
+| Darren Gilford
+| Excellence in Production Design for a Fantasy Film
+|{{nom}}
+|-
+| Austin Film Critics Association
+| style=white-space:nowrap| December 22, 2010
+| Daft Punk
+| Best Original Score
+|{{nom}}
+|-
+| Costume Designers Guild
+| February 22, 2011
+| Michael Wilkinson and Christine Bieselin Clark
+| Excellence in Fantasy Film
+|{{nom}}
+|-
+| MTV Movie Awards
+| June 5, 2011
+| Olivia Wilde
+| Best Breakout Star
+|{{nom}}
+|-
+| rowspan=7 |37th Saturn Awards
+| rowspan=7 |June 23, 2011
+|
+|Best Science Fiction Film
+|{{nom}}
+|-
+| [[Jeff Bridges]]
+|Best Actor
+|{{nom}}
+|-
+| Garrett Hedlund
+|Best Supporting Actor
+|{{nom}}
+|-
+| Daft Punk
+|Best Music
+|{{nom}}
+|-
+| Michael Wilkinson
+|Best Costume
+|{{nom}}
+|-
+| Darren Gilford
+| Best Production Design
+|{{won}}
+|-
+| Eric Barba, Steve Preeg, Karl Denham, Nikos Kalaitzidis
+|Best Special Effects
+|{{nom}}
+|}
+
+==Sequels and other media==
+===Sequels===
+Steven Lisberger stated on October 28, 2010, before the film's release, that a sequel was in planning and that Adam Horowitz and Edward Kitsis, screenwriters for ''Tron: Legacy'', were in the early stages of producing a script for the new film. Perry Nemiroff of Cinemblend speculated that ''Tron 3'' could be the first installment in a new trilogy. On January 13, 2011, ''Ain't It Cool News'' reported that the film was close to having its sequel announced as part of Disney's plan for ''Tron's'' future. On January 21, 2011, ''Tron-Sector'' reported an unsourced rumor that a sequel to ''Tron: Legacy'' has been green-lit and a teaser trailer will debut on the DVD and Blu-ray Disc release of ''Tron'' and ''Tron: Legacy''. Harry Knowles reported on the teaser calling it a "DVD Extra" and noting it had been filmed before Thanksgiving (i.e. before November 2010). On April 8, 2011, director Joseph Kosinski talked about the sequel, saying "we’re working on the story right now. Once we get a script we’re all really happy with, we’ll take it to the powers that be and see if we can go back to the grid. I think we will pick up with where Tron: Legacy left off with Sam and Quorra in the real world and what does that mean and the possibilities it opens up for the next chapter. It’s that relationship between the two of them that’s the next step.” On March 31, Korsinski say that the film's script will be expected in two week and it's working titled is ''Tr3n''.
+
+On June 7, 2011, it was reported that screenwriter David DiGilio (''[[Eight Below]]'') has been hired to draft a script for the sequel to ''Tron: Legacy''. ''Legacy'' screenwriters Adam Horowitz and Edward Kitsis were initially slated to return but were forced to drop out due to their ongoing work in developing the ABC television series ''[[Once Upon a Time]]''. It is currently unspecified whether or not ''Legacy'' director Joseph Kosinski will return to direct the sequel. On March 8, 2012, [[Bruce Boxleitner]] suggested that a sequel to ''Tron: Legacy'' could begin filming as early as 2014, after ''Legacy'' director Joseph Kosinski finishes his current film project, ''Oblivion''. On June 4, 2012, Horowitz and Kitsis confirmed they were developing a sequel and the character of Quorra would be returning for the film, as well as a cameo in ''Tron: Uprising''. On December 5, 2012, Jesse Wigutow was hired to rewrite the script for the film. This was later followed by the confirmation that Bruce Boxleitner and Garrett Hedlund will return for the third film.
+
+On [[May 29]], [[2015]], ''The Hollywood Reporter'' reported that not only a greenlight wasn't given for ''Tron 3'' despite pre-production and Disney's interest in Jared Leto for a role, but that Disney had decided to not move forward with a third film. The under-performance of ''[[Tomorrowland (film)|Tomorrowland]]'' at the box office, along with Disney's crowded film slate for the next few years has been cited as reasons for the cancellation. One source at Disney noted to ''Variety'' that it's possible production could be revisited in the future.
+
+===Television===
+A spin-off animated series called ''[[Tron: Uprising]]'' premiered June 7, 2012 on the [[Disney XD]] network across the USA. ''Tron: Legacy'' writers Adam Horowitz and Eddie Kitsis have revealed that the series will aim to tell the story of what happened in the Grid between films. Actors lined up as voices for the animation include [[Bruce Boxleitner]] as Tron, [[Elijah Wood]], [[Lance Henriksen]], [[Mandy Moore]], [[Emmanuelle Chriqui]], [[Paul Reubens]], Nate Corddry, and [[Olivia Wilde]], who reprises her role as Quorra.
+
+===Manga===
+A manga version of ''Tron: Legacy'' was released by Earth Star Entertainment in Japan on June 30, 2011.
+
+==Gallery==
+===Promotional Images===
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+Walt Disney Pictures Tron - Legacy Logo.jpg| Walt Disney logo of the film
+TRON-POSTER.jpg
+Tron Legacy 1366x768-1-.jpg
+Tron Legacy Poster 1.jpg
+Tron Legacy Poster 2.jpg
+Clu-Tron-Legacy-Poster.jpg
+Tron Legacy Poster 02.jpg
+Kevin-Flynn-Tron-Legacy-Poster.jpg
+Tron-Legacy.jpg
+Tron-yellow-billboard-movie-poster.jpg
+TRON-Legacy-Poster.jpg
+Tron Legacy Banner 01.jpg
+Tron Legacy Banner 02.jpg
+Tron Legacy Banner 04.jpg
+Tron Legacy Sam holding Quorra banner.jpg
+Tron-Legacy-Kevin and Clu banner.jpg
+Tron Legacy Poster 01.jpg
+Tron Legacy Poster 03.jpg
+Tron Legacy Poster 04.jpg
+Tron-legacy poster korean 01.jpg
+Tron-legacy poster korean 02.jpg
+Tron- legacy poster russian.jpg
+Tron Legacy Clash Poster.jpg
+Tron Legacy Poster 06.jpg
+Tron Legacy Poster 07.jpg
+Tron Legacy Poster 08.jpg
+Tron Legacy Poster 09.jpg
+Tron Legacy Poster 05.jpg
+</gallery>
+
+===Screenshots===
+<gallery widths="150" spacing="small" position="center">
+Tumblr nehtvpyoTv1qhcrb0o1 1280.jpg
+TronLegacyLogo.jpg
+Toys in Tron Legacy.jpeg
+Tumblr n5um26vvo11qahug3o1 1280.jpg
+Alan Bradley in Tron Legacy.jpeg
+Lightcycles in Tron Legacy.jpeg
+</gallery>
+
+===Miscellaneous===
+<gallery widths="150" spacing="small" position="center">
+DSF - TRON LEGACY EL Capitan Marquee.gif
+</gallery>
+
+{{Tron}}
+{{Kingdom Hearts}}
+{{Wikipedia}}
+{{DISPLAYTITLE:''Tron: Legacy''}}
+[[Category:2010 films]]
+[[Category:Live-action films]]
+[[Category:Articles with Wikipedia content]]
+[[Category:Tron]]
+[[Category:Sequel films]]
+[[Category:IMAX films]]
+[[Category:3-D films]]
+[[Category:PG-rated films]]
+[[Category:Sunset Showcase Theater]]
+[[Category:Academy Award nominated films]]
+[[Category:Hybrid films]]

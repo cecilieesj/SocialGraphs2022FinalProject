@@ -1,0 +1,50 @@
+{{Infobox film
+|image = The Dream Called EPCOT title screen.jpg
+|name = The Dream Called EPCOT
+|director = 
+|producer = 
+|writer = 
+|starring = {{WikipediaLink|Dick Tufeld}} (narrator)
+|music = 
+|cinematography = 
+|editor = 
+|studio = 
+|distributor = 
+|release = [[June 1]], [[1981]]
+|time = 15:25
+|language = English
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = 
+}}
+
+'''''The Dream Called EPCOT''''' is a [[1981]] film created to promote [[Epcot]] (then EPCOT Center) ahead of its 1982 opening. It ran on a loop at the EPCOT Preview Center in [[Walt Disney World]]'s [[Magic Kingdom]].
+
+The film, narrated by {{WikipediaLink|Dick Tufeld}}, describes the history of EPCOT's development, shows how Walt Disney World established the foundation for EPCOT, and goes behind the scenes at [[Walt Disney Imagineering]] (then known as WED Enterprises) to show the work in progress on EPCOT. Detailed models and illustrations are used to show what EPCOT would look like once completed.
+
+Versions of familiar early EPCOT songs are heard, including "[[Listen to the Land]]," "[[Universe of Energy (song)|Universe of Energy]]," "[[One Little Spark]]," "[[It's Fun to Be Free]]," and "[[Golden Dream]]." Also included is the [[Sherman Brothers]]' "Reach for New Horizons," created for Horizons, but ultimately not used in favor of "[[New Horizons]]."
+
+As part of Epcot's 35th anniversary in [[2017]], Disney released the film on YouTube.<ref>{{cite web |url=https://disneyparks.disney.go.com/blog/2017/09/view-the-dream-called-epcot-rare-1980-promo-video/ |publisher= [[Disney Parks Blog]] |title= View ‘The Dream Called EPCOT’ Rare 1980 Promo Video |date= September 28, 2017}}</ref>
+
+A 16mm copy of the film was auctioned in [[2020]] at a starting price of US$300; the winning bid was not disclosed.<ref>{{cite web |url= https://bid.vegalleries.com/The-Dream-Called-Epcot-16mm-Film_i37909550 |publisher= Van Eaton Galleries |title= "The Dream Called Epcot" 16mm Film.}}</ref>
+
+==Videos==
+<gallery position="center" widths="310" captionalign="center">
+The Dream Called EPCOT - Walt Disney World
+</gallery>
+
+==References==
+<references/>
+
+== External links ==
+* {{youtube|b2_zDLcnDiY}}
+{{DEFAULTSORT:Dream Called EPCOT, The}}
+[[Category:1981 films]]
+[[Category:Epcot]]
+[[Category:Promotional shorts]]
+[[Category:Walt Disney World Resort]]

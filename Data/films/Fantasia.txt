@@ -1,0 +1,412 @@
+{{Infobox film
+|image = Fantasia-poster-1940.jpg
+|director = {{WikipediaLink|Samuel Armstrong}}<br>[[James Algar]]<br>Bill Roberts<br>Paul Satterfield<br>Ford Beebe<br>[[Norman Ferguson]]<br>[[David Hand]]<br>Jim Handley<br>[[T. Hee]]<br>[[Wilfred Jackson]]<br>[[Hamilton Luske]]<br>[[Ben Sharpsteen]]
+|producer = [[Walt Disney]]<br>Ben Sharpsteen
+|writer = [[Joe Grant]]<br>[[Dick Huemer]]
+|starring = [[Deems Taylor]]<br>[[Leopold Stokowski]]
+|music = Various
+|cinematography = James Wong Howe
+|studio = [[Walt Disney Productions]]
+|distributor = Walt Disney Productions <small>(premiere)</small><br>[[RKO Radio Pictures]] <small>(wide release)</small>
+|release = [[November 13]], [[1940]]
+|time = 124 minutes (original 1940 version, 2000 restoration)<br>81 minutes (1942 edit)<br>115 minutes (all versions, 1946-1990)<br>120 minutes (1991 VHS release)
+|language = English
+|budget = $2,280,000 (estimated)
+|gross = $83,320,000
+|preceded = ''[[Pinocchio (film)|Pinocchio]]''
+|followed = ''[[Dumbo (1941 film)|Dumbo]]''<br>''[[Fantasia 2000]]''
+|website = http://movies.disney.com/fantasia
+|imdb_id = 0032455}}
+'''''Fantasia''''' is a [[1940]] American animated film, produced by [[Walt Disney Productions]] and given a wide release by [[RKO Radio Pictures]]. With story direction by [[Joe Grant]] and [[Dick Huemer]] and production supervision by [[Ben Sharpsteen]], it is the third feature in the [[Disney Animated Canon]]. The film consists of eight animated segments set to pieces of classical music conducted by [[Leopold Stokowski]]; seven of which are performed by the {{WikipediaLink|Philadelphia Orchestra}}. Music critic and composer [[Deems Taylor]] acts as the film's Master of Ceremonies, who introduces each segment in live action interstitial scenes.
+
+Disney settled on the film's concept as work neared completion on ''The Sorcerer's Apprentice'', an elaborate ''[[Silly Symphonies]]'' short designed as a comeback role for [[Mickey Mouse]] (who had declined in popularity during that time). As production costs grew higher and the project getting pushed back, he decided to make a feature-length film with other segments set to classical pieces. The soundtrack was recorded using multiple audio channels and reproduced with [[Fantasound]], a pioneering sound reproduction system that made ''Fantasia'' the first commercial film shown in stereophonic sound. Mickey was redesigned by [[Fred Moore]] into his current design starting in ''[[The Pointer]]'';, here, though, he is dressed in a red sorcerer robe and, to complete the look, he dons his master's [[Sorcerer Hat]]. The energy absorbs into his blood, whereupon he performs magical feats not unlike those of his mentor.
+
+''Fantasia'' was first released in theatrical roadshow engagements held in thirteen U.S. cities from November 13, 1940. It received mixed critical reaction and was unable to make a profit. In part, this was due to World War II cutting off the profitable European market, but due as well to the film's high production costs and the expense of leasing theaters and installing the Fantasound equipment for the roadshow presentations. Also, audiences who felt that Disney had suddenly gone "highbrow" stayed away, preferring the standard Disney cartoons. The film was subsequently reissued multiple times with its original footage and audio being deleted, modified, or restored in each version. As of 2012, ''Fantasia'' has grossed $76.4 million in domestic revenue and is the 22nd highest-grossing film of all time in the U.S. when adjusted for inflation. Walt's nephew [[Roy E. Disney]] co-produced a sequel released in 1999 titled ''[[Fantasia 2000]]''.
+
+The film gained a huge cult following since its first release, and is notably important to film industry as a milestone in the creation of the modern "music video".
+
+==Program description==
+The host and narrator of the film, Deems Taylor, introduces each piece in the program and gives background on the composer's original intent. Of course, there was no intent to deceive anyone into thinking that Disney's interpretation was the "original intent" of the composer.
+
+Some of the selections were shortened from their full length, for the sake of the film's running time. Of the eight pieces, four are presented virtually complete: ''Toccata and Fugue'', [[The Sorcerer's Apprentice]], the ''Dance of the Hours'' (which is actually expanded), and the ''Ave Maria''. The ''Nutcracker Suite'' is shorn of its ''Miniature Overture'' and ''March'', the twenty-five minute ''Rite of Spring'' (the longest segment in the film) is ten minutes shorter than the original 35-minute work, and the ''Pastoral Symphony'' segment is performed in a 20-minute version rather than Beethoven's complete 40-minute original. There are also small internal omissions in [[Night on Bald Mountain/Ave Maria|Night on Bald Mountain]].
+
+''Fantasia'' was produced on a budget of $2,280,000, to which $400,000 - nearly a fifth of the budget - went to the musical recording techniques.
+
+===''[[Toccata and Fugue in D Minor]]''===
+*Musical score: {{WikipediaLink|Johann Sebastian Bach}} – [[wikipedia:Toccata and Fugue in D minor, BWV 565|Toccata and Fugue in D Minor]] [[wikipedia:Bach-Werke-Verzeichnis|BWV]] 565 (Stokowski's own orchestration)
+*Directed by Samuel Armstrong
+*Story development: [[Lee Blair]], Elmer Plummer, and Phil Dike
+*Art direction: Robert Cormack
+*Background painting: Joe Stahley, John Hench, and Nino Carbe
+*Visual development: {{WikipediaLink|Oskar Fischinger}}
+*Animation: [[Cy Young]], Art Palmer, Daniel MacManus, George Rowley, Edwin Aardal, Joshua Meador, and Cornett Wood
+
+Without opening credits of any sort, curtains open to reveal an orchestra stand. Musicians are seen ascending the stand, taking their seats, and tuning their instruments. Master of ceremonies [[Deems Taylor]] arrives and delivers an introduction to the film. Conductor Leopold Stokowski appears and begins conducting the first strains of his own orchestration of the ''Toccata and Fugue in D Minor'', by Johann Sebastian Bach (originally written for solo organ).
+
+The first third of the ''Toccata and Fugue'' is in live-action and features an orchestra playing the piece, illuminated by abstract light patterns set in time to the music and backed by stylized (and superimposed) shadows. The first few parts of the piece are played in each of the three sound channels (first left, then right, then the middle, then all of them) as a demonstration of [[Fantasound]]. The number segues into an abstract animation piece—a first for the Disney studio—set in time to the music. ''Toccata and Fugue'' was inspired primarily by the work of German abstract animator Oskar Fischinger, who had actually worked for a brief time on this segment. The animation segues back into the live-action footage of Stokowski as the piece concludes, setting the precedent for the rest of the musical numbers.
+
+Although the Philadelphia Orchestra recorded the music for the film (excepting ''The Sorcerer's Apprentice''), they do not appear onscreen; the orchestra used onscreen in the film is made up of local Los Angeles musicians and [[Walt Disney Pictures|Disney]] studio employees like [[Jimmy MacDonald]] and [[Paul Smith]], who mime to the prerecorded tracks by Stokowski and the Philadelphia Orchestra. Originally, the Philadelphia Orchestra was slated to be filmed in the introduction and interstitial segments, but the union and budgetary considerations prevented this from coming to pass.
+
+===''[[Nutcracker Suite]]''===
+*Musical score: [[wikipedia:Pyotr Ilyich Tchaikovsky|Peter Tchaikovsky]] – ''[[Nutcracker Suite]] Op. 71a''
+*Directed by Samuel Armstrong
+*Story development: Sylvia Moberly-Holland, Norman Wright, Albert Heath, Bianca Majolie, and Graham Heid
+*Character designs: John Walbridge, Elmer Plummer, and Ethel Kulsar
+*Art direction: Robert Cormack, Al Zinnen, Curtiss D. Perkins, Arthur Byram, and Bruce Bushman
+*Background painting: John Hench, Ethel Kulsar, and Nino Carbe
+*Animation: [[Art Babbitt]], [[Les Clark]], Don Lusk, Cy Young, and Robert Stokes
+*Choreography: Jules Engel
+
+''The Nutcracker Suite'', a selection of pieces from Tchaikovsky's classic ballet, is a personified depiction of the changing of the seasons; first from summer to autumn, and then from autumn to winter. Unlike the ballet, this version has no plot. It features a variety of dances, just as in the original, but danced by animated [[Fairies|fairies]], fish, flowers, mushrooms, and leaves; no actual nutcracker is ever seen in this version. Many elements are rendered carefully and painstakingly using techniques such as dry brush and airbrush. The musical segments are as follows:
+
+As dawn breaks over a meadow, during the "Dance of the Sugar Plum Fairy"; tiny fairies sprinkle drops of dew on every flower and stern.
+
+A cluster of tiny mushrooms, dressed in long robes and coolie hats resembling Chinese (plus one little mushroom always out-of-step), perform the "Chinese Dance."
+
+Multicolored blossoms shaped like ballerinas perform the "Dance of the Flutes."
+
+A school of underwater goldfish performs a graceful "Arab Dance."
+
+High-kicking thistles, dressed like Cossacks, and orchids dressed like lovely Russian peasant girls, join together for the wild "Russian Dance."
+
+In the final musical segment, "Waltz of the Flowers," autumn fairies color everything they touch brown and gold with their wands. Then the frost fairies arrive and everything becomes part of an icy, jewellike pattern among falling snowflakes.
+
+One quaint novelty of the full-length roadshow version of ''Fantasia'' is that during his commentary on the ''Nutcracker Suite'', Deems Taylor observes that the complete ballet ''The Nutcracker'' "is never performed anymore." The United States did not see a complete staging of the ''Nutcracker'' until 1944, four years after ''Fantasia'', and George Balanchine's 1954 staging with the {{WikipediaLink|New York City Ballet}} established the modern tradition of performing the ballet at {{WikipediaLink|Christmas}} time.
+
+===''[[The Sorcerer's Apprentice]]''===
+[[File:Fantasia-disneyscreencaps.com-2363.jpg|thumb|250px|Sorcerer Mickey]]
+*Musical score: {{WikipediaLink|Paul Dukas}} – [[wikipedia:The Sorcerer's Apprentice (Dukas)|The Sorcerer's Apprentice]]
+*Directed by [[James Algar]]
+*Story development: [[Perce Pearce]] and Carl Fallberg
+*Art direction: Tom Codrick, Charles Phillipi, and Zack Schwartz
+*Background painting: Claude Coats, Stan Spohn, Albert Dempster, and Eric Hansen
+*Animation supervisors: [[Fred Moore]] and [[Vladimir "Bill" Tytla]]
+*Animation: [[Les Clark]], Riley Thompson, Marvin Woodward, [[Preston Blair]], Edward Love, Ugo D'Orsi, {{WikipediaLink|George Rowley}}, and Cornett Wood
+
+''The Sorcerer's Apprentice'', perhaps the best-known [[Mickey Mouse]] short after his debut in ''[[Steamboat Willie]]'' (1928), was adapted from Goethe's poem [[Wikipedia:The Sorcerer's Apprentice|"Der Zauberlehrling"]]. It is the story of wizard [[Yen Sid]]'s ambitious, but lazy, assistant who attempts to work some of the magical feats of his master before he knows how to properly control them. Mickey plays the role of the apprentice.
+
+After the music ends, Mickey and conductor Leopold Stokowski, seen in silhouette, congratulate each other with a live-action/animation handshake. In the original roadshow version, after Mickey leaves, Deems Taylor and the musicians applaud Mickey and Stokowski.
+
+===''[[The Rite of Spring]]''===
+[[File:Fantasia-disneyscreencaps com-4524.jpg|thumb|250px]]
+*Musical score: {{WikipediaLink|Igor Stravinsky}} – ''{{WikipediaLink|The Rite of Spring}}''
+*Directed by Bill Roberts and Paul Satterfield
+*Story development/research: William Martin, Leo Thiele, Robert Sterner, and [[John McLeish|John Fraser McLeish]]
+*Art direction: McLaren Stewart, Dick Kelsey, and [[John Hubley]]
+*Background painting: Ed Starr, {{WikipediaLink|Brice Mack}}, and Edward Levitt
+*Animation supervision: [[Wolfgang Reitherman]] and Joshua Meador
+*Animation: Philip Duncan, John McManus, Paul Busch, Art Palmer, Don Tobin, Edwin Aardal, and Paul B. Kossoff
+*Special camera effects: Gail Papineau and Leonard Pickley
+
+Disney's interpretation of ''The Rite of Spring'' features a condensed version of the history of the Earth from the formation of the planet to the first living creatures to the age, reign, and {{WikipediaLink|extinction}} of the dinosaurs. The sequence showcased realistically animated prehistoric creatures including ''[[Tyrannosaurus Rex]]'', ''Dimetrodon'', ''[[Parasaurolophus]]'', ''[[Apatosaurus]]'', ''[[Triceratops]]'', ''[[Ornithomimus]]'', and ''[[Stegosaurus]] (see list of dinosaurs used)'', and used extensive and complicated special effects to depict volcanoes, boiling lava, and earthquakes. The large carnivorous dinosaur attacking the ''Stegosaurus'' is a villainous ''Tyrannosaurus rex'' according to the preliminary introduction to the segment by Deems Taylor, and concept sketches by the artists. Disney also changed the order of the movements in the piece. The segment, after beginning with the first, second, and third movements, omits the fourth and reorders all the others. The ''Danse de la terre'' is placed near the end of the cartoon rather than midway through the work. At the end, the orchestra replays the slow introduction to the ''Rite'', which does not happen in the original work. (The original ends with a violent ''Sacrificial Dance'' - also omitted in the Disney version - and an orchestral crash.)
+
+The roadshow version of the film features a humorous moment omitted from the general release version. When Deems Taylor announces the title of the work, there is a sudden loud crash in the percussion section, and we see that the chimes player has accidentally fallen against his instrument. He sheepishly gets up, to the amused chuckling of Taylor and the other musicians.
+
+===Intermission/Meet the Soundtrack===
+*Directed by Ben Sharpsteen and David D. Hand
+*Key animation by Joshua Meador
+
+Deems Taylor announces a fifteen-minute intermission following the conclusion of ''The Rite of Spring''. The musicians are seen departing the orchestra stand, and the doors close to reveal a title card. In a proper roadshow of ''Fantasia'', the theater's curtains would close simultaneously with the closing doors on the screen, and the title card would remain projected for fifteen minutes while the guests are briefly excused. Following the intermission, the film would be started again. Onscreen, the stage doors are opened again, and Taylor and the orchestra musicians are seen returning to their respective places. The intermission did not appear in the 1990 version as well as the 1991 UK VHS release.
+
+After either the intermission (or ''The Rite of Spring'' in the 1990 version as well as the UK VHS release), a "jam session" in the orchestra is started by a bassist playing a jazzed-up version of a theme from the third movement of the Pastoral Symphony, which the clarinetist and other instruments take up. This is followed immediately by the brief ''Meet the Soundtrack'' sequence, which gives audiences a stylized example of how sound is rendered as waveforms to record the music for ''Fantasia''. The sequence features animation by effects animator Joshua Meador and his team, who give the soundtrack (initially a squiggly line which changes into various shapes based on the individual sounds played on the soundtrack) a distinct personality.
+
+The instruments are a harp, violin, flute, trumpet, bassoon, and percussion including the bass drum, snare drum, cymbals, and triangle.
+
+===''[[The Pastoral Symphony]]''===
+[[File:Fantasia Pastoral Symphony.jpg|thumb|250px]]
+*Musical score: Ludwig van Beethoven – ''[[Wikipedia:Symphony No. 6 (Beethoven)|Symphony No. 6 in F, Op.68 "Pastorale"]]''
+*Directed by Hamilton Luske, Jim Handley, and Ford Beebe
+*Story development: Otto Englander, Webb Smith, Erdman Penner, Joseph Sabo, [[Bill Peet]], and George Stallings
+*Character designs: James Bodrero, John P. Miller, Lorna S. Soderstrom
+*Art direction: Hugh Hennesy, Kenneth Anderson, J. Gordon Legg, Herbert Ryman, Yale Gracey, and Lance Nolley
+*Background painting: Claude Coats, Ray Huffine, W. Richard Anthony, Arthur Riley, Gerald Nevius, and Roy Forkum
+*Animation supervision: Fred Moore, [[Ward Kimball]], [[Eric Larson]], [[Art Babbitt]], [[Ollie Johnston]], and Don Towsley
+*Animation: Berny Wolf, Jack Campbell, Jack Bradbury, James Moore, Milt Neil, [[Bill Justice]], John Elliotte, Walt Kelly, Don Lusk, Lynn Karp, Murray McClellan, Robert W. Youngquist, and Harry Hamsel
+
+''The Pastoral Symphony'' utilized delicate color styling to depict a mythical ancient Greek world of centaurs, families of pegasi, the gods of Mount Olympus, fauns, cupids, unicorns, and other legendary creatures and characters of classical mythology. It tells the story of the mythological creatures gathering for a festival to honor Bacchus, the god of wine riding his horned donkey, Jacchus, which is disturbed by [[Zeus (Fantasia)|Zeus]], who decides to amuse himself by throwing lightning bolts at the attendees.
+
+Disney originally intended to use ''Cydalise'' by Gabriel Pierné as the music for the mythological section of the program. However, due to problems fitting the story to the music, the decision was made to abandon ''Cydalise'' for other music.
+
+This portion of the film was criticized for brief yet blatant nudity on the female centaurs. Other criticisms center on the racial images of a female centaur servant named Sunflower, who is part African human, part donkey, and two attendants to Bacchus, who are part African Amazons, part zebra. The servant has been excised from all prints in circulation since 1969 (often by the use of pan and zoom, so the scene doesn't focus on her), although the clip has recently turned up on various blogs and internet media.
+
+===''[[Dance of the Hours]]''===
+[[File:Fantasia-disneyscreencaps.com-12006.jpg|thumb|250px]]
+*Musical score: Amilcare Ponchielli – ''La Giaconda: Dance of the Hours''
+*Directed by T. Hee and Norm Ferguson
+*Character designs: Martin Provensen, James Bodrero, Duke Russell, Earl Hurd
+*Art direction: Kendall O'Connor, Harold Doughty, and Ernest Nordli
+*Background painting: Albert Dempster and Charles Conner
+*Animation supervision: Norm Ferguson
+*Animation: [[John Lounsbery]], Howard Swift, [[Preston Blair]], Hugh Fraser, Harvey Toombs, Norman Tate, Hicks Lokey, Art Elliott, Grant Simmons, Ray Patterson, and Franklin Grundeen.
+
+The dancers of the morning are represented by [[Madame Upanova]] and her ostrich students. The dancers of the afternoon are represented by [[Hyacinth Hippo]] and her hippo servants. (For this section the piece is expanded by a modified and reorchestrated repetition of the "morning" music.) The dancers of the sunset are represented by [[Elephanchine]] and her bubble-blowing elephant troupe. The dancers of the night are represented by [[Ben Ali Gator]] and his rival alligators. The finale sees the chaotic chase that ensues between all of the characters seen in the segment until they eventually decide to dance together.
+
+The segment ends with the palace collapsing in on itself.
+
+===''[[Night on Bald Mountain/Ave Maria]]''===
+[[File:Chernabog-walt-disney-characters-19629069-1280-768.jpg|thumb|250px]]
+*Musical score:
+**{{WikipediaLink|Modest Mussorgsky}} – ''{{WikipediaLink|Night on Bald Mountain}}''
+**{{WikipediaLink|Franz Schubert}} – "[[Wikipedia:Ave Maria (Schubert)|Ave Maria]]"
+*Directed by [[Wilfred Jackson]]
+*Story development: Campbell Grant, Arthur Heinemann, and Phil Dike
+*Art direction: Kay Nielsen, Terrell Stapp, Charles Payzant, and Thor Putnam
+*Background painting: Merle Cox, Ray Lockrem, Robert Storms, and W. Richard Anthony
+*Special English lyrics for ''Ave Maria'' by Rachel Field
+*Choral director: Charles Henderson
+*Operatic solo: Julietta Novis
+*Animation supervision: Vladimir Tytla
+*Animation: John McManus, William N. Shull, Robert W. Carlson, Jr., Lester Novros, and Don Patterson
+*Special animation effects: Joshua Meador, Miles E. Pike, John F. Reed, and Daniel MacManus
+*Special camera effects: Gail Papineau and Leonard Pickley
+
+The ''Night on Bald Mountain'' segment is a showcase for animator Bill Tytla, who gave the demon Chernabog a power and intensity rarely seen in Disney films. The devil known as Chernabog summons from their graves, empowered restless souls.
+[[File:Fantasia-disneyscreencaps.com-13708.jpg|thumb|250px]]
+The horror of the demons, ghosts, skeletons, vultures, ravens, firewomen, monstrous imps, witches, harpies, and other evil creatures in ''Night on Bald Mountain'' comes to an abrupt end with the sounds of church bells, which send Chernabog and his followers back into hiding, and the [[multiplane camera]] tracks away from Bald Mountain to reveal a line of faithful robed religious figures with lighted torches. The camera slowly follows them as they go through the forest and ruins of a cathedral to the sounds of ''Ave Maria''. The camera then zooms through a thicket to a skyline with a hill below, and a sunrise is shown shining beyond the horizon.
+
+==Production==
+===Origins===
+[[File:Leopold Stokowski LOC 26447u.jpg|thumb|250px|Leopold Stokowski.]]
+In 1936, [[Walt Disney]] felt that the studio's star character, [[Mickey Mouse]], needed a boost in popularity. He decided to feature the mouse in ''The Sorcerer's Apprentice'', a deluxe cartoon short based on the poem written by Johann Wolfgang von Goethe and set to the orchestral piece by Paul Dukas, that was also inspired by the original tale. The concept of matching animation to classical music was used as early as 1928 in Disney's cartoon series, the ''[[Silly Symphonies]]'', but he wanted to go beyond the usual slapstick, and produce shorts in which, as he put it, "sheer fantasy unfolds...action controlled by a musical pattern has great charm in the realm of unreality. " Upon receiving the rights to use the music by the end of July 1937, Disney considered using a well-known conductor to record the music for added prestige. He just happened to meet Leopold Stokowski, conductor of the Philadelphia Orchestra since 1912, at a restaurant in [[Hollywood]] by chance and discussed his plans for the short. Stokowski was happy to collaborate on the project and offered to conduct the piece at no cost.
+
+Following their meeting, Disney's New York representative ran into Stokowski on a train headed for the East. In writing to Disney, he reported that Stokowski was "really serious in his offer to do the music for nothing. In addition, he had some very interesting ideas on instrumental coloring, which would be perfect for an animation medium." In his excited response, Disney wrote that he felt "all steamed up over the idea of Stokowski working with us...The union of Stokowski and his music, together with the best of our medium, would be the means of a success and should lead to a new style of motion picture presentation." He had already begun working on a story outline and wished to use "the finest men...from color...down to animators" on the short. ''The Sorcerer's Apprentice'' was to be promoted as a "special" and rented to theaters as a unique film, outside of the Mickey Mouse cartoon series.
+
+[[File:Deems Taylor (1885-1966).jpg|thumb|250px|Deems Taylor.]]
+An agreement signed by Disney and Stokowski on December 16, 1937, allowed the conductor to "select and employ a complete symphony orchestra" for the recording. Disney hired a stage at the Culver Studios in California for the session. It began at midnight on January 9, 1938, and lasted for three hours using eighty-five Hollywood musicians. As production costs of the short film climbed to $125,000, it became clearer to Disney and his brother [[Roy O. Disney|Roy]], who managed the studio's finances, that the short could never earn such a sum back on its own. Roy suggested keeping any additional costs to a minimum. He said, "Because of its very experimental and unprecedented nature...we have no idea what can be expected from such a production." Ben Sharpsteen, a production supervisor on ''Fantasia'', noted that its budget was three to four times greater than the usual ''Silly Symphony'', but Disney "saw this trouble in the form of an opportunity. This was the birth of a new concept, a group of separate numbers—regardless of their running time—put together in a single presentation. It turned out to be a concert—something novel and of high quality."
+
+Ideas to produce a complete feature film were pursued in February 1938, when inquiries were made to extend Stokowski's contract. In August, Disney asked Stokowski's representative to have him return to the studios to select material for the new film, which was initially titled ''The Concert Feature''. The pair further thought of presenting the film with an on-screen host to introduce each number in the program. Both had heard composer and music critic [[Deems Taylor]] provide intermission commentary during radio broadcasts of the New York Philharmonic and agreed he would be most suitable for the role. Disney did contact Taylor about the project, but by then work on ''[[Pinocchio (film)|Pinocchio]]'', ''[[Bambi (film)|Bambi]]'', and development on his new Burbank studio kept him too busy to work on the new feature. In a change of plans, Taylor was asked during a call on September 3, 1938, leave to come to the studios as soon as possible. He left [[New York City]] for [[Los Angeles]] by train two days later for a month's visit.
+
+===Development===
+Taylor arrived at the studio one day after a series of meetings began to select the musical pieces for ''The Concert Feature''. Disney made story writers [[Joe Grant]] and [[Dick Huemer]] gather a preliminary selection of music and along with Stokowski, Taylor, and the heads of various departments, discussed their ideas. Each meeting was recorded verbatim by stenographers with participants being given a copy of the entire conversation for review. As selections were considered, a recording of the piece was located and played back at the next gathering. Disney did not contribute much to early discussions; he admitted that his knowledge of music was instinctive and untrained. In one meeting, he inquired about a piece "on which we might build something of a prehistoric theme...with animals." The group was considering ''[[The Firebird]]'' by Igor Stravinsky, but Taylor noted that his "''Le Sacre du printemps'' would be something on that order," to which Disney replied upon hearing a recording, "This is marvelous! It would be perfect for prehistoric animals. There would be something terrific in dinosaurs, flying lizards, and prehistoric monsters. There could be beauty in the settings."
+
+Numerous choices were discarded as talks continued, including ''Moto Perpetuo'' by Niccolò Paganini with "shots of dynamos, cogs, pistons, and whirling wheels" to show the production of a collar button. Other deletions were ''Prelude in G minor'' and ''Troika'' by Sergei Rachmaninoff and a rendition of "The Song of the Flea" by Mussorgsky which was to be sung by Lawrence Tibbett. On September 29, 1938, around sixty of Disney's artists gathered for a two-and-a-half hour piano concert while he provided a running commentary about the new musical feature. A rough version of ''The Sorcerer's Apprentice'' was also shown that, according to one attendee, had the crowd applauding and cheering "until their hands were red. " The final pieces were chosen the following morning, which included ''Toccata and Fugue in D minor'', ''Cydalise et le Chèvre-pied'' by Gabriel Pierné, ''The Nutcracker Suite'', ''Night on Bald Mountain'', ''Ave Maria'', ''Dance of the Hours'', ''Clair de Lune'' by Claude Debussy, ''The Rite of Spring'', and ''The Sorcerer's Apprentice''. Disney had already begun working out the details for the segments and showed greater enthusiasm and eagerness as opposed to his skepticism while starting ''Pinocchio''.
+
+''Clair de Lune'' was soon removed from the ''Fantasia'' program, but Disney and his writers encountered problems setting a concrete story to ''Cydalise''. Its opening march, "The Entry of the Little Fauns", attracted Disney to the piece, which at first provided suitable depictions of fans he wanted. On January 5, 1939, following a search for a stronger piece to fit the mythological theme, the piece was replaced with Beethoven's sixth symphony sections. Stokowski disagreed with the switch, believing that Disney's "idea of mythology...is not quite what this symphony is about." He was also concerned about the reception from classical music enthusiasts who would criticize Disney for venturing too far from the composer's intent. On the other hand, Taylor welcomed the change, describing it as "a stunning one", and saw "no possible objection to it."
+
+The new feature continued to be known as ''The Concert Feature'' or ''Musical Feature'' as late as November 1938. Hal Horne, a publicist for Disney's film distributor [[RKO Radio Pictures]], wished for a different title and gave the suggestion ''Filmharmonic Concert''. [[Stuart Buchanan]] then held a contest at the studio for a title that produced almost 1,800 suggestions including ''Bach to Stravinsky and Bach'' and ''Highbrowski by Stokowski''. Still, the favorite among the film's supervisors was ''Fantasia'', an early working title that had even grown on Horne, "It isn't the word alone but the meaning we read into it." From the beginning of its development, Disney expressed the greater importance of music in ''Fantasia'' compared to his past work: "In our ordinary stuff, our music is always under action, but on this...we're supposed to be picturing this music - not the music fitting our story." Disney had hoped that the film would bring classical music to people that, including himself, had "walked out on this kind of stuff."
+
+===Design and animation===
+[[File:Disney taylor stokowski.jpg|thumb|250px|Walt Disney acting out a scene in ''The Sorcerer's Apprentice'' for Taylor and Stokowski.]]
+Animation on ''The Sorcerer's Apprentice'' began on January 21, 1938, when [[James Algar]], the director of the segment, assigned animator [[Preston Blair]] to work on the scene when Mickey Mouse wakes from his dream. Each of the seven hundred members of staff at the time received a synopsis of the Goethe tale and were encouraged to complete a twenty-question form that requested their ideas on what action might take place. Layout artist Tom Codrick created what Dick Huemer described as "brilliantly colored thumbnails" from preliminary storyboard sketches using gouache paints, which featured the bolder use of color and lighting than any previous Disney short. Mickey was redesigned by animator Fred Moore who added pupils for the first time to achieve greater ranges of expression. Most of the segment was shot in live action, including a scene where a UCLA athlete was asked to run and jump across one of the studio's sound stages with barrels in the way, which was used for reference when Mickey traverses through the water.
+
+Disney had been interested in producing abstract animation since he saw ''A Color Box'' by Len Lye from 1935. He explained the work done in the ''Toccata and Fugue'' was "no sudden idea...they were something we had nursed along several years but we never had a chance to try". Preliminary designs included those from effects animator [[Cy Young]], who produced drawings influenced by the patterns on the edge of a piece of sound film. In late 1938 Disney hired Oskar Fischinger, a German artist who had produced numerous abstract animated films, including some with classical music, to work with Young. Upon review of three leica reels produced by the two, Disney rejected all three. According to Huemer all Fishinger "did was little triangles and designs...it didn't come off at all. Too dinky, Walt said. " Fischinger, like Disney, was used to having full control over his work and was not used to working in a group. Feeling his designs were too abstract for a mass audience, Fishinger left the studio in frustration, before the segment was completed, in October 1939. Disney had plans to make the ''Toccata and Fugue'' an experimental three-dimensional film, with audiences being given cardboard stereoscopic frames with their souvenir programs, but this idea was abandoned.
+
+In ''The Nutcracker Suite'', animator [[Art Babbitt]] is said to have credited The Three Stooges as a guide for animating the dancing mushrooms in the ''Chinese Dance'' routine. He drew with a music score pinned to his desk to work out the choreography so he could relate the action to the melody and the counterpoint, "those nasty little notes underneath...so something has to be related to that". The studio filmed professional dancers Joyce Coles and Marjorie Belcher wearing ballet skirts that resembled shapes of blossoms that were to sit above water for ''Dance of the Flutes''. An Arabian dancer was also brought in to study the movements for the goldfish in ''Arab Dance''.
+
+An early concept for ''The Rite of Spring'' was to extend the story to the age of mammals and the first humans and the discovery of fire and man's triumph. John Hubley, the segment's art director, explained that it was later curtailed by Disney to avoid controversy from creationists, who promised to make trouble should he connect evolution with humans. To better understand the history of the planet, the studio received guidance from Roy Chapman Andrews, the director of the American Museum of Natural History, English biologist Julian Huxley, paleontologist Barnum Brown, and astronomer Edwin Hubble. Animators studied comets and nebulae at the Mount Wilson Observatory and observed a herd of iguanas and a baby alligator brought into the studio. The camera was kept at a low position throughout the segment to heighten the immensity of the dinosaurs.
+
+For inspiration on the routines in ''Dance of the Hours'', animators studied real life ballet performers including [[Marge Champion]] and Irina Baronova. Animator [[John Hench]] was assigned to work on the segment but resisted as he knew little about ballet. Disney then gave Hench season tickets to the Ballet Russe de Monte Carlo with backstage access so he could learn more about it. Béla Lugosi, best known for his role in ''Dracula'', was brought in to provide reference poses for Chernabog. As animator Bill Tytla disliked the results, he used his colleague Wilfred Jackson to pose shirtless which gave him the images he needed. There were ideas of releasing scents throughout the theater during ''Fantasia'', including the smell of incense during ''Ave Maria''.
+
+Over one thousand artists and technicians were used in the making of ''Fantasia'', which features over 500 characters. Segments were color-keyed scene by scene, so the colors in a single shot would harmonize between proceeding and following ones. Before a segment's narrative pattern was complete, an overall color scheme was designed to the general mood of the music and patterned to correspond with the development of the subject matter. The studio's character model department would also sculpt three-dimensional clay models so the animators could view their subjects from all angles.
+
+===Soundtrack===
+====Recording====
+[[File:Phila AcademyofMusicl03.JPG|thumb|250px|The Philadelphia Academy of Music.]]
+Disney wanted to experiment with more sophisticated sound recording and reproduction techniques for ''Fantasia''. "Music emerging from one speaker behind the screen sounds thin, tinkly, and strainy. We wanted to reproduce such beautiful masterpieces...so that audiences would feel as though they were standing at the podium with Stokowski." For the recording of ''The Sorcerer's Apprentice'' in January 1938, engineers at Disney collaborated with RCA Corporation for using multiple audio channels, which allowed any desired dynamic balance to be achieved upon playback. In addition, the stage was altered acoustically with double plywood semi-circular partitions that separated the orchestra into five sections to increase reverberation. Though Fantasia's production developed, the setup used for ''The Sorcerer's Apprentice'' was abandoned for different multi-channel recording arrangements.
+
+On January 18, 1939, Stokowski signed an eighteen-month contract with Disney to conduct the remaining pieces with the Philadelphia Orchestra. Recording began that April and lasted for seven weeks at the Academy of Music, the orchestra's home, which was chosen for its excellent acoustics. Thirty-three microphones were placed around the orchestra in the recording sessions that captured the music onto eight optical sound recording machines placed in the hall's basement. Each one represented an audio channel that focused on a different section of instruments: cellos and basses, violins, brass, violas, and woodwinds, and timpani. The seventh channel was a combination of the first six, while the eighth provided an overall sound of the orchestra at a distance. A ninth was later added to provide a click track function for the animators to time their drawings to the music. In the forty-two days of recording, 483,000 feet of film was used. Disney paid all the expenses, including the musician's wages, stage personnel, a music librarian, and the orchestra's manager, that cost almost $18,000. When the finished recordings arrived at the studio, a meeting was held on July 14, 1939, to allow the artists working on each segment to listen to Stokowski's arrangements and suggest alterations in the sound to work more effectively with their designs.
+
+====Fantasound====
+The Disney brothers contacted David Sarnoff of RCA regarding the manufacture of a new system that would "create the illusion that the actual symphony orchestra is playing in the theater". Sarnoff backed out at first due to financial reasons but agreed in July 1939 to make the equipment so long as the Disneys could hold down the estimated 200,000 dollars in costs. Though it was not exactly known how to achieve their goal, engineers at Disney and RCA investigated many ideas and tests made with various equipment setups. The collaboration led to the development of [[Fantasound]], a pioneering stereophonic surround sound system which innovated some processes widely used today, including simultaneous multi-track recording, overdubbing, and noise reduction.
+
+[[File:Bill garity disney.jpg|thumb|250px|Disney's chief sound engineer William Garity.]]
+Fantasound employed two projectors running at the same time. With one containing the picture film with a mono soundtrack for backup purposes, the other ran a sound film that was mixed from the eight tracks recorded at the Academy to four: three of which contained the audio for the left, center, and right stage speakers respectively, while the fourth became a control track with amplitude and frequency tones that drove variable-gain amplifiers to control the volume of the three audio tracks. In addition were three "house" speakers placed on the left, right, and center of the auditorium that derived from the left and right stage channels, which acted as surround channels. Finally, as the original recording was captured at almost peak modulation to increase the signal-to-noise ratio, the control track was used to restore the dynamics to where Stokowski thought they should be. For this, a tone-operated gain-adjusting device was built to control the levels of each of the three audio tracks through the amplifiers.
+
+The illusion of sound traveling across the speakers was achieved with a device named the "pan pot", which directed the predetermined movement of each audio channel with the control track. Mixing the soundtrack required six people to operate the various pan pots in real-time, while Stokowski directed each level and pan change marked on his musical score. Disney ordered eight three-color oscillators from the newly-established Hewlett-Packard company to monitor the recording levels at lower frequencies, a predecessor from VU meters used today. Between the individual takes, prints, and remakes, approximately three million feet of sound film was used in the production of ''Fantasia''. Almost a fifth of the film's budget was spent on its recording techniques.
+
+==Release history==
+===Theatrical runs===
+====1940–1941 roadshows with Fantasound====
+[[File:Promises Promises at Broadway Theatre.JPG|thumb|250px|The Broadway Theatre.]]
+RKO balked at the idea of distributing ''Fantasia'', which is described as a "longhair musical", and believed its duration of two hours and five minutes plus intermission was too long for a general release. It relaxed its exclusive distribution contract with Disney, which wanted a more prestigious exhibit in the form of a limited-run roadshow attraction. Thirteen roadshows were held across the United States, each involving two daily screenings with seat reservations booked in advance at higher prices and a fifteen-minute intermission. Disney hired film salesman Irving Ludwig to manage the first eleven engagements, who was given specific instructions regarding each aspect of the film's presentation, including the setup of outside theater marquees and curtain and lighting cues. Patrons were taken to their seats by staff hired and trained by Disney and were given a program booklet illustrated by Gyo Fujikawa.
+
+The first roadshow opened at the Broadway Theatre in New York City on November 13, 1940. The Disneys had secured a year's lease with the venue that was fully equipped with Fantasound, which took personnel a week working around the clock to install. Proceeds made on the night went to the British War Relief Society for the efforts in the Battle of Britain. Ticket demand was so great that eight telephone operators were employed to handle the extra calls while the adjoining store was rented out to cater the box office bookings. ''Fantasia'' ran at the Broadway for forty-nine consecutive weeks, the longest run achieved by a film at the time. Its run continued for a total of fifty-seven weeks until February 28, 1942.
+
+The remaining twelve roadshows were held throughout 1941, which included a thirty-nine week run at the Carthay Circle Theatre in [[Los Angeles]] from January 29. ''Fantasia'' broke the long-run record at the venue in its twenty-eighth week; a record previously held by ''Gone with the Wind''. Its eight-week run at the Fulton Theatre in Pittsburgh attracted over 50,000 people with reservations being made from cities located one hundred miles from the venue. Engagements were also held at the Geary Theatre in [[San Francisco]] for eight months, the Hanna Theatre in Cleveland for nine weeks, the Majestic Theatre in Boston, the Apollo Theater in [[Chicago]], and also in Philadelphia, Detroit, Buffalo, Minneapolis, [[Washington, D.C.]], and Baltimore.
+
+''Fantasia'' grossed over $300,000 in the first sixteen weeks in New York, over $20,000 in the opening five weeks in San Francisco, and almost the same amount in the first ten weeks both in Los Angeles and Boston. The first eleven roadshows earned a total of $1.3 million by April 1941, but the $85,000 in production and installation costs of a single Fantasound setup, along with theaters having to be leased, forced Disney to exceed their loan limits. In addition, the onset of the Second World War prevented plans for a potential release in Europe, normally the source of as much as forty-five percent of the studio's income. Up to eighty-eight engagements were outlined across five years, but wartime demands for material limited the number of Fantasound prints to sixteen. All but one of the Fantasound setups were dismantled and given to the war effort. Upon acquiring the film's distribution rights in April 1941, RKO initially continued the roadshow booking policy but presented the film in mono, which was easier to exhibit. The combined average receipts from each roadshow were around $325,000, which placed ''Fantasia'' at an even greater loss than ''Pinocchio''.
+
+====1942, 1946, 1956, and 1963 runs====
+Disney allowed RKO to handle the general release of ''Fantasia'' but fought their decision to have the film cut. He gave in as the studio needed as much income as possible to remedy its finances, but refused to cut it himself: "You can get anybody you want to edit it...I can't do it." With no input from Disney, musical director [[Edward H. Plumb|Ed Plumb]] and Ben Sharpsteen reduced ''Fantasia'' first to an hour and forty minutes, then to an hour and twenty minutes by removing most of Taylor's commentary and the ''Toccata and Fugue'' segment. ''Fantasia'' was re-released in January 1942 at more popular prices with a mono soundtrack and was placed on the lower half of double bills with the Western film ''Valley of the Sun''.
+
+RKO reissued ''Fantasia'' once more on September 1, 1946, with the animated sequences complete and the scenes of Taylor, Stokowski, and the orchestra restored but shortened. Its running time was restored to one hour and fifty-five minutes. This edit would be the standard form for subsequent re-releases and was the basis for the 1990 restoration.
+
+{{Quote box|align=left|width=30%|quote="I wanted a special show just like Cinerama plays today...I had ''Fantasia'' set for a wide screen. I had dimensional sound...To get that widescreen I had the projector running sideways...I had the double frame. But I didn't get to building my cameras or my projectors because the money problem came in...The compromise was that it finally went out standard with dimensional sound. I think if I'd had the money and I could have gone ahead I'd have a really sensational show at that time. "|source=Walt Disney on the widescreen release in 1956.}}
+
+By 1955, the original sound negatives began to deteriorate, though a four-track copy had survived in good condition. Using the remaining Fantasound system at the studio, a three-track stereo copy was transferred across telephone wires onto the magnetic film at an RCA facility in Hollywood. This copy was used when ''Fantasia'' was reissued in stereo by [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]] in SuperScope, a derivative of the anamorphic widescreen CinemaScope format, on February 7, 1956. The projector featured an automatic control mechanism designed by Disney engineers that was coupled to a variable anamorphic lens, which allowed the picture to switch between its Academy standard aspect ratio of 1.33:1 to the wide ratio of 2.35:1 in twenty seconds without a break in the film. This was achieved by placing the cues that controlled the mechanism on a separate track in addition to the three audio channels. Only selected parts of the animation were stretched, while all live action scenes remained unchanged. This reissue garnered some criticism from viewers, as the widescreen format led to the cropping and reframing of the images.
+
+On February 20, 1963, ''Fantasia'' was re-released in both standard and SuperScope versions with stereo sound, though existing records are unclear. Its running time was fifty-six seconds longer than the previous issue, which is unexplained. This was the final release that occurred before Disney's death in 1966.
+
+====1969, 1977, 1982, 1985, and 1990 runs====
+''Fantasia'' began to make a profit from its $2.28 million budget after its return to theaters on December 17, 1969. The film was promoted with a psychedelic-styled advertising campaign, and it became popular among teenagers and college students who were reported to have taken drugs for a psychedelic experience. Animator [[Ollie Johnston]] recalled that young people "thought we were on a trip when we made it...every time we'd go to talk to a school or something, they'd ask us what we were on." Animator [[Art Babbitt]], who drew the mushrooms in the "Nutcracker Suite" segment, was asked if he worked under the influence of drugs, and he quipped, "Yes, it's true. I myself was addicted to Ex-Lax and Feen-a-Mint," which were both laxatives. The release is also noted for the controversial [[#Controversies|removal]] of four scenes from ''The Pastoral Symphony'' over racial stereotyping. ''Fantasia'' was issued on a regular basis, typically for exhibition in art houses in college towns, until the mid-1970s.
+
+The film was reissued nationwide once more on April 15, 1977, this time with simulated stereo sound. This edit featured the RKO distribution logo being replaced with that of Buena Vista Distribution since RKO had not been part of a release since 1946. It had not been removed earlier as the credit sequence would have required being re-shot. A two-and-a-half-minute reduction in the film's running time in this version remains unclear in existing records.
+
+[[File:Burn Notice Panel 3 2010 CC.jpg|thumb|250px|Tim Matheson (left) provided the narration in the 1985 re-release.]]
+For the 1982 and 1985 releases, Disney presented ''Fantasia'' with a completely new soundtrack recorded in Dolby Stereo. First released on April 2, 1982, this version of the film marked the first time a film's soundtrack had been digitally re-recorded in its entirety. To replace Stokowski's recordings, the noted film conductor [[Irwin Kostal]] was engaged. He directed a 121-piece orchestra and 50-voice choir for the recording that took place over eighteen sessions and cost $1 million. To maintain continuity with the animation Kostal based his performance on the tempos and pacing of the Stokowski recordings, including the cuts and revisions to ''The Rite of Spring''. However, for ''Night on Bald Mountain'', he used Mussorgsky's original orchestration instead of Leopold Stokowski's own edition that was part of the original soundtrack. The new recording also corrected a two-frame lag in projection caused by the old recording techniques used in the 1930s. Deems Taylor's scenes were deleted and a much briefer voiceover narration was recorded by Hugh Douglas as the studio felt the modern audience "is more sophisticated and knowledgeable about music." This version returned to around 400 theaters in 1985, this time with actor Tim Matheson providing the narration.
+
+For its fiftieth anniversary, ''Fantasia'' returned to 550 theaters nationwide on October 5, 1990, in its traditional 1946 version, including the live-action scenes with Taylor and the original Stokowski score. The film underwent a two-year restoration process which began after a six-month search to piece together the original negatives that had been in storage since 1946. Since then, this marked the first time that a release of the film had been processed from the original and not from a copy. Each of its 535,680 frames was restored at YCM Laboratories, and an untouched print from 1951 was used for guidance on color and tone. Theaters were required to have specific stereo equipment installed and to present the film in its original 1.33:1 aspect ratio with black borders on the side of their screens. The Stokowski soundtrack was digitally remastered using the 1955 magnetic soundtrack, with an estimated three thousand pops and hisses being removed in the process. The 1990 reissue of ''Fantasia'' went on to gross $25 million domestically.
+
+===Home media===
+====Audio====
+Disney considered releasing a multi-disc 78-rpm record album of ''Fantasia's'' soundtrack in conjunction with the film's 1940 roadshow release, but this idea was not realized. The soundtrack was ultimately released as a three-record LP set in sixteen countries by [[Disneyland Records]] in 1957 under the catalog number WDX-101. Disney was required to obtain permission from Stokowski, who initially rejected the deal unless the Philadelphia Orchestra Association received a share of the royalties. With nearly two hours of music, the ''Fantasia'' soundtrack album is the longest soundtrack album ever released of a Disney film.
+
+The ''Fantasia'' soundtrack album contains all of the musical selections but none of the commentary from the film. After stereo LPs became possible, [[Buena Vista Records]] released a stereo version of the soundtrack album.
+
+The original soundtrack was remastered and issued as a two-disc CD set by [[Walt Disney Records]] in 1991. It eventually sold 100,000 copies. This was re-released in 2006. In 1982, Buena Vista Records also released a two-disc edition of the re-recorded soundtrack conducted by Irwin Kostal. This was also issued on CD by Walt Disney Records.
+
+====Video====
+{{main|Fantasia (video)}}
+''Fantasia'' has received three home video releases. The first, featuring the 1990 restored theatrical version, was released on VHS and laserdisc on November 1, 1991, as part of the "[[Walt Disney Classics]]" line. The 50-day release prompted 9.25 million advance orders for cassettes and a record 200,000 for discs, doubling the figure of the previous record. The "Deluxe Edition" package included the film, a "making of" feature, a commemorative lithograph, a 16-page booklet, a two-disc soundtrack of the Stokowski score and a certificate of authenticity signed by [[Roy E. Disney]], the nephew of Walt. ''Fantasia'' became the biggest-selling sell-through cassette of all time with 14.2 million copies being purchased. The record was surpassed by ''[[Beauty and the Beast (1991 film)|Beauty and the Beast]]'' in December 1992. This version was also released as a DVD in 2000, outside of the U.S. in the United Kingdom and other countries, again under the "Walt Disney Classics" banner.
+
+In November 2000, ''Fantasia'' was released on video for the second time, this time along with ''[[Fantasia 2000]]'', on [[DVD]] with 5.1 surround sound. The films were issued both separately and in a three-disc set called ''The Fantasia Anthology''. A variety of bonus features were included on the bonus disc, ''The Fantasia Legacy''. This edition attempted to follow as closely as possible the runtime and format of the original roadshow version, and included additional restored live-action footage of Taylor and the orchestra, including the bookends to the film's intermission. Since the 2000 release, Deems Taylor's voice was re-recorded throughout by [[Corey Burton]] because most of the audio tracks to Taylor's restored scenes had deteriorated to the point that they could no longer be used.
+
+Both films were reissued again by [[Walt Disney Studios Home Entertainment]] in November 2010 separately, as a two-disc DVD/Blu-ray set and a combined DVD and Blu-ray four-disc (named the "Fantasia 2 Movie Collection") set that featured 1080p high-definition video and 7.1 surround sound. The 2010 version of ''Fantasia'' featured a new restoration by Reliance MediaWorks and a new sound restoration but was editorially identical to the 2000 version. This marked the first time the roadshow version was released in Europe. ''Fantasia'' was withdrawn from release and returned to the "[[Disney Vault]]" moratorium on April 30, 2011, along with ''[[Snow White and the Seven Dwarfs]]'' and ''[[Pinocchio (film)|Pinocchio]]''.
+
+As of now, the film has yet to have a wide Blu-ray/DVD re-release, but on April 20, 2021, the 2010 2-Movie Collection edition was repackaged with ''[[Celebrating Mickey]]'' as a [[Disney Movie Club Exclusive DVDs and Blu-rays|Disney Movie Club Exclusive]], known as "The Best of Mickey", except its menus are different.
+
+==International release==
+{| class="wikitable sortable"
+|-
+!Country
+!Title
+!Distributor
+!Date of release
+|-
+|France
+|Fantasia
+|RKO
+|November 1, 1946
+|-
+|Japan
+|ファンタジア
+|[[Daiei Film]]
+|September 23, 1955
+|}
+
+==Reception==
+===Critical response===
+Among those at the film's premiere was film critic Bosley Crowther of ''The New York Times'', who noted that "motion-picture history was made last night... ''Fantasia'' dumps conventional formulas overboard and reveals the scope of films for imaginative excursion... ''Fantasia'' ...is simply terrific. " Peyton Boswell, an editor at ''Art Digest'', called it "an aesthetic experience never to be forgotten." ''Time'' magazine described the premiere as "stranger and more wonderful than any of Hollywood's" and the experience of Fantasound "as if the hearer were in the midst of the music. As the music sweeps to a climax, it froths over the proscenium arch, boils into the rear of the theater, all but prances up and down the aisles." ''Dance Magazine'' devoted its lead story to the film, saying that "the most extraordinary thing about ''Fantasia'' is, to a dancer or balletomane, not the miraculous musical recording, the range of color, or the fountainous integrity of the Disney collaborators, but quite simply the perfection of its dancing." ''Variety'' also hailed ''Fantasia'', calling it "a successful experiment to lift the relationship from the plane of popular, mass entertainment to the higher strata of appeal to lovers of classical music." ''The Chicago Tribune'' assigned three writers to cover the film's Chicago premiere: society columnist Harriet Pribble; film critic Mae Tinee; and music critic Edward Barry. Pribble left amazed at the "brilliantly-attired audience", while Tinee felt the film was "beautiful...but it is also bewildering. It is stupendous. It is colossal. It is an overwhelmingly ambitious orgy of color, sound, and imagination." Barry was pleased with the "program of good music well performed...and beautifully recorded" and felt "pleasantly distracted" from the music to what was shown on the screen. In a breakdown of reviews from both film and music critics, Disney author Paul Anderson found 33% to be "very positive", 22% both "positive" and "positive and negative", and 11% negative.
+
+Those who adopted a more negative view were mostly music critics who resisted the idea of presenting classical music with visual images, arguing that doing so would rob the musical pieces of their integrity. As Stokowski feared, some critics were particularly turned off by the film's depiction of ''The Pastoral Symphony''. Composer and music critic Virgil Thomson praised Fantasound, which he thought offered "good transmission of music", but disliked the "musical taste" of Stokowski, except for ''The Sorcerer's Apprentice'' and ''The Rite of Spring''. Olin Downes of ''The New York Times'' too hailed the sound quality that Fantasound presented but felt that "much of ''Fantasia'' distracted from or directly injured the scores." Film critic Pauline Kael dismissed parts of ''Fantasia'' as "grotesquely kitschy". Music critic Benjamin DeCasseres, writing in ''The New York Journal and American'', denounced the film entirely for "bringing great music down to the level of jazz" and perpetuating "a travesty on great art." Some parents resisted paying the higher roadshow prices for their children, and several complained that the ''Night on Bald Mountain'' segment had frightened them.
+
+There were also a few negative reactions that were more political in nature, especially since the film's release happened when Nazi Germany reigned supreme in Europe. One review of the film written in this manner, by Dorothy Thompson for ''The New York Herald Tribune'' on November 25, 1940, was especially harsh. Thompson claimed that she "left the theater in a condition bordering on nervous breakdown", because the film was a "remarkable nightmare." Thompson compared the film to rampant Nazism; both, according to her, depicted "the abuse of power" and "the perverted betrayal of the best instincts." Thompson also claimed that the film depicted nature as being "titanic" while man was nothing more than "a moving lichen on the stone of time." Thus, she concluded that the film was "cruel", "brutal and brutalizing", and a negative "caricature of the Decline of the West." In fact, Thompson claimed that she was so distraught by the film that she even walked out of it before seeing the two last segments, ''Night on Bald Mountain'' and ''Ave Maria'' because she was not about to be subject to any more of the film's "brutalization".
+
+''Fantasia'' holds a "fresh" rating on Rotten Tomatoes, a website which aggregates film reviews. Its consensus—"A landmark in animation and a huge influence on the medium of the music video, Disney's ''Fantasia'' is a relentlessly inventive blend of the classics with phantasmagorical images." 96% of critics gave the film a positive review based on a sample of 50 reviews, with an average score of 8.6 out of 10. Among the website's "top critics" it holds a positive rating of 86% from seven reviews. [[Roger Ebert]] of the ''Chicago Sun-Times'' rated the film four stars out of four, and noted that throughout ''Fantasia'', "Disney pushes the edges of the envelope".
+
+Remarks have also been made about ''Fantasia'' not being a children's film. Reporting on the popular culture site Inside Pulse and in ''The Eagle'' newspaper, Robert Saucedo remembered to be "not the only one...having to sit through the movie as a kid fidgeting in your seat as the film delivers abstract image after abstract image", concluding that ''Fantasia'' is "for adults and very nerdy kids", while news and gossip website PopSugar included ''Fantasia'' in its "10 Movies That Scared Buzz Readers as Kids" list.
+
+===Awards and honors===
+''Fantasia'' ranked fifth at the 1940 National Board of Review Awards in the Top Ten Films category. In addition, Disney and Stokowski won a Special Award for the film at the 1940 New York Film Critics Circle Awards. ''Fantasia'' was the subject of two Academy Honorary Awards on February 26, 1942 — one for Disney, William Garity, John N. A. Hawkins, and the RCA Manufacturing Company for their "outstanding contribution to the advancement of the use of sound in motion pictures through the production of ''Fantasia''", and the other to Stokowski "and his associates for their unique achievement in the creation of a new form of visualized music in Walt Disney's production ''Fantasia'', thereby widening the scope of the motion picture as entertainment and as an art form".
+
+In 1990, ''Fantasia'' was selected for preservation in the United States [[National Film Registry]] by the Library of Congress as being "culturally, historically, or aesthetically significant". On the 100th anniversary of cinema in 1995, the Vatican included ''Fantasia'' in its list of 45 "great films" made under the Art category; the others being Religion and Values.
+
+''Fantasia'' is featured in three lists that rank the greatest American films as determined by the American Film Institute. The film ranked number 58 in 100 Years... 100 Movies in 1998 before it was dropped from its 10th Anniversary revision in 2007, though it was nominated for inclusion. The 10 Top 10 list formed in 2008 placed ''Fantasia'' fifth under Animation.
+
+===Controversies===
+In the late 1960s, four shots from ''The Pastoral Symphony'' were removed that depicted two characters in a racially-stereotyped manner. A black centaurette called [[Sunflower]] was depicted polishing the hooves of a white centaurette, and a second name [[Otika]] appeared briefly during the procession scenes with Bacchus and his followers. According to Disney archivist David Smith, the sequence was aired uncut on television in 1963 before the edits were made for the film's 1969 theatrical reissue. John Carnochan, the editor responsible for the change in the 1991 video release, said, "It's sort of appalling to me that these stereotypes were ever put in." Film critic Roger Ebert commented on the edit: "While the original film should, of course, be preserved for historical purposes, there is no need for the general release version to perpetrate racist stereotypes in a film designed primarily for children." The edits have been in place in all subsequent theatrical and home video reissues.
+
+In May 1992, the Philadelphia Orchestra Association filed a lawsuit against The Walt Disney Company and Buena Vista Home Video. As a co-creator of ''Fantasia'', the orchestra maintained that the group was entitled to half of the estimated $120 million in profits from video and laserdisc sales. The orchestra dropped its case in 1994 when the two parties reached an undisclosed settlement out of court. British music publisher Boosey & Hawkes filed a further lawsuit in 1993, contending that Disney did not have the rights to distribute ''The Rite of Spring'' in the 1991 video releases because the permission granted to Disney by Stravinsky in 1940 was only in the context of a film to be shown in theaters. The United States district court backed Boosey & Hawkes's case in 1996, but the Second Circuit Court of Appeals reversed the ruling in 1998, stating that Disney's original "license for motion picture rights extends to video format distribution."
+
+==Additional material==
+Disney had wanted ''Fantasia'' to be an ongoing project, with a new edition being released every few years. His plan was to substitute one of the original segments with a new one as it was complete, so the viewer would always see a new version of the film. From January to August 1941, story material was developed based on additional pieces, including ''Ride of the Valkyries'' by Richard Wagner, ''The Swan of Tuonela'' by Jean Sibelius, ''Invitation to the Dance'' by Carl Maria von Weber, ''Flight of the Bumblebee'' by Nikolai Rimsky-Korsakov, which was later adapted into the ''Bumble Boogie'' segment in ''[[Melody Time]]'' (1948), and there was even consideration for a segment inspired by the Polka and Fugue from ''Schwanda the Bagpiper'' by Jaromír Weinberger. The film's disappointing initial box office performance and the advent of World War II brought an end to these plans. Taylor had prepared introductions for ''[[The Firebird]]'' by Stravinsky, ''La Mer'' by Claude Debussy, ''Adventures in a Perambulator'' by John Alden Carpenter, ''Don Quixote'' by Richard Strauss, and ''Pictures at an Exhibition'' by Mussorgsky "to have them for the future in case we decided to make any one of them".
+
+''Clair de Lune'' was another segment that was part of the film's original program. After being completely animated, it was cut out of the final film to shorten its already long running time. The segment featured two egrets flying through the Everglades on a moonlit night. The sequence was later edited and re-scored for the ''Blue Bayou'' segment in ''[[Make Mine Music]]'' (1946). A workprint of the original was discovered and ''Clair de Lune'' was restored in 1992, complete with the original soundtrack of Stokowski with the Philadelphia Orchestra. It was included as a bonus feature in ''The Fantasia Anthology'' DVD in 2000.
+
+==Legacy==
+===Sequel===
+{{Quote box|width=28%|quote="''Fantasia'' is timeless. It may run 10, 20 or 30 years. It may run after I'm gone. ''Fantasia'' is an idea in itself. I can never build another ''Fantasia''. I can improve. I can elaborate. That's all. "|source=Walt Disney}}
+
+In 1980, the ''Los Angeles Times'' reported that animators [[Wolfgang Reitherman]] and Mel Shaw had begun work on ''Musicana'', "an ambitious concept mixing jazz, classical music, myths, modern art, and more, following the old ''Fantasia'' format." Animation historian Charles Solomon wrote that development took place between 1982 and 1983, which combined "ethnic tales from around the world with the music of the various countries." Proposed segments for the film included a battle between an ice god and a sun goddess set to ''Finlandia'' by Sibelius, one set in the Andes to the songs of Yma Sumac, and other featuring caricatures of [[Louis Armstrong]] and Ella Fitzgerald. However, the project was shelved in favor of ''[[Mickey's Christmas Carol]]''.
+
+[[Roy E. Disney]], the nephew of Walt, co-produced ''[[Fantasia 2000]]'' which entered production in 1990 and features seven new segments performed by the Chicago Symphony Orchestra with conductor [[James Levine]]. ''The Sorcerer's Apprentice'' is the only segment retained from the original film. ''Fantasia 2000'' premiered at Carnegie Hall on December 17, 1999, as part of a five-city live concert tour, followed by a four-month engagement in [[IMAX]] cinemas and a wide release in regular theaters, in 2000.
+
+===Parodies and spin-offs===
+''Fantasia'' is parodied in ''A Corny Concerto'', a Warner Bros. cartoon from 1943 of the ''Merrie Melodies'' series. The short features Elmer Fudd in the role of Taylor, wearing his style eyeglasses, who introduces two segments set to pieces by Johann Strauss (''Tales from the Vienna Woods'' and the ''Blue Danube Waltz'', both featuring Porky and Bugs and Daffy respectively). In 1976, Italian animator Bruno Bozzetto produced ''Allegro Non Troppo'', a feature-length parody of ''Fantasia''. [[Jerry Bruckheimer]] used the story of ''The Sorcerer's Apprentice'' as a basis for his ''[[The Sorcerer's Apprentice (film)|eponymous fantasy-adventure film]]'' in 2010.
+
+Disney are developing the ''Night on Bald Mountain'' sequence from ''[[Night on Bald Mountain (film)|the film]]'', with Matt Sazama and Burk Sharpless writing and executive producing the live-action film.
+
+In February 2016, it was announced Disney is developing a live-action version of ''[[The Nutcracker|Nutcracker Suite]]'', which was last depicted as a segment of the 1940 film. The feature film is titled, ''[[The Nutcracker and the Four Realms]]''.<ref>http://www.comingsoon.net/movies/news/663337-disneys-the-nutcracker-and-the-four-realms-lands-lasse-hallstrom-to-direct</ref>
+
+Shotaro Ishinomori, creator of the ''Godzilla'', ''Kamen'' ''Rider'', and ''Cyborg 009'' franchises, is believed to have been inspired by ''Fantasia'' when developing the [[w:c:cyborg009:The Mythos Cyborgs|Mythos Cyborgs]], a group of villains based on Greek mythological figures appearing in ''Cyborg 009''. This is mostly seen as being speculation on the grounds that two of the Mythos Cyborgs, namely the [[w:c:cyborg009:Hippo Man|Hippo Man]] and [[w:c:cyborg009:Pan (Manga)|Pan]], resemble the ballerina hippos and the satyrs, respectively.
+
+The animated television series ''The Simpsons'' references ''Fantasia'' in a few episodes. Matt Groening, the creator of the franchise, expressed a wish to make a parody film named ''Simpstasia''; it was never produced, partly because it would have been too difficult to write a feature-length script. In "Treehouse of Horror IV", director David Silverman had admired the animation in ''Night on Bald Mountain'' and made the first appearance of Devil Flanders resemble Chernabog. The episode "Itchy & Scratchy Land" references ''The Sorcerer's Apprentice'' in a snippet titled "Scratchtasia" that features the music and several shots parodying it exactly.
+
+''Fantasia'' is also referenced in the animated series ''South Park'' in the episode "Chef's Chocolate Salty Balls", where Mr. Hankey dons a wizard outfit and drives out an independent film festival by summoning a wave of sewage, similar to Mickey's dream of summoning a storm in ''The Sorcerer's Apprentice''.
+
+===Theme parks===
+[[File:MGM sorcererhat.jpg|thumb|250px|The Sorcerer's Hat in Disney's Hollywood Studios.]]
+[[The Sorcerer's Hat (Disney's Hollywood Studios)|The Sorcerer's Hat]] was once the icon of [[Disney's Hollywood Studios]], one of the four theme parks located at [[Walt Disney World]]. The structure was of the magic hat from ''The Sorcerer's Apprentice''. Still located at the resort is ''Fantasia Gardens'', a miniature golf course that integrates characters and objects from the film in each hole. The fireworks and water show ''[[Fantasmic!]]'' features scenes from ''The Sorcerer's Apprentice'' and other ''Fantasia'' segments on water projection screens, and involves the plot of Mickey as the apprentice doing battle with the [[Disney Villains]].
+
+For the 20th anniversary of [[Disneyland Paris]], Mickey was depicted in a special version of his ''Sorcerer's Apprentice'' outfit. His friends donned similar outfits, as well.
+
+===Video games===
+In 1991, a side-scrolling eponymous [[Fantasia (video game)|video game]] developed by Infogrames was released for the Sega Mega Drive/Genesis system. The player controls Mickey Mouse, who must find missing musical notes scattered across four elemental worlds based upon the film's segments.
+
+There are several film reel levels based on some of the movie's segments such as ''Sorcerer's Apprentice'' and ''Night on Bald Mountain'' that appear in the ''[[Epic Mickey]]'' games. Yen Sid and Chernabog also make cameo appearances in the games (Yen Sid narrates the openings and endings of the two games and served as the creator of the Wasteland. Chernabog appears as a painting in the first game and appears in the Night on Bald Mountain film reel levels in the second).
+
+The Disney/[[Square Enix]] crossover game series ''[[Kingdom Hearts (series)|Kingdom Hearts]]'' features Chernabog as a boss in the first installment. The ''Night on Bald Mountain'' piece is played during the fight. Yen Sid appears frequently in the series beginning with ''[[Kingdom Hearts II]]'', voiced in English by [[Corey Burton]]. '''Symphony of Sorcery''', a world based on the movie, appears in ''[[Kingdom Hearts 3D: Dream Drop Distance]]''. Like the '''Timeless River''' world in ''[[Kingdom Hearts II]]'', it is featured as a period of Mickey Mouse's past.
+
+A music game based on the film, ''[[Fantasia: Music Evolved]]'' has been developed by Harmonix in association with [[Disney Interactive]]. The game, which was developed for Xbox 360 and Xbox One, uses the Kinect device to put players in control of music in a manner similar to Harmonix' previous rhythm games, affecting the virtual environment and interactive objects within it. The game is based on licensed contemporary rock music such as [[Queen (band)|Queen]] and Bruno Mars.
+
+[[Sorcerer Mickey]] is also a purchasable character for ''[[Disney Infinity]]''.
+
+==Gallery==
+{{Gallerylink}}
+
+==Trivia==
+*The film's copyright was renewed on [[January 25]], [[1968]].<ref>[https://archive.org/details/catalogofc19683221213libr/page/41/mode/1up Catalog of Copyright Entries (1968 renewals)]</ref>
+*This is the first and only Disney film to have an intermission.
+*''Fantasia'' is the second Disney film out of the films in the animation canon to be preserved in the National Film Registry, having been preserved in 1990. The first being ''Snow White and the Seven Dwarfs'' (was preserved in 1989), the third being ''Pinocchio'' (was preserved in 1994) the fourth being ''Beauty and the Beast'' (was preserved in 2002) and the fifth being ''Bambi'' (was preserved in 2011).
+*With a running time of two hours and five minutes, ''Fantasia'' is the longest of all the Disney animated features.
+*The original Roadshow and Blu-ray releases have no credits of any kind, and it only shows the ''Fantasia'' title at the intermission. The 50th anniversary and VHS release have the Walt Disney Pictures logo, the ''Fantasia'' title at the beginning, and full closing credits, but don't expect to see this version anywhere else.
+*In 1995, the 100th anniversary of cinema, the Vatican compiled a list of forty-five "great films", with ''Fantasia'' listed in the art category.
+*''Ave Maria'' is the only part with lyrics in the entire film. Everything else is instrumental.
+*When Igor Stravinsky (1882-1971, the only featured composer still living in 1940) was contacted about the rights to use "The Rite of Spring," he offered to compose a completely new piece for Walt Disney. This was not taken, and Stravinsky hated Leopold Stokowski's re-orchestration and re-organization of the piece, the original order of the sections was jumbled, and two of them were completely left out.
+*The first American film to use stereophonic sound as well as the first and only film recorded in Fantasound.
+*First appearance of [[Mickey Mouse]] in a Disney animated feature film.
+*This is the only musical film with the letter 'F' on its title until the 1980 American teen musical film ''Fame'' released 40 years later.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP|Fantasia (film)}}
+*{{IMDb|title/tt0032455}}
+*{{Disney.com|movies|fantasia}}
+{{Fantasia}}
+{{Disney theatrical animated features}}
+{{DISPLAYTITLE:''Fantasia''}}
+[[ar:فانتازيا]]
+[[da:Fantasia]]
+[[de:Fantasia (1940)]]
+[[es:Fantasía]]
+[[fr:Fantasia]]
+[[it:Fantasia]]
+[[ja:ファンタジア]]
+[[nl:Fantasia]]
+[[no:Fantasia]]
+[[pl:Fantazja]]
+[[pt-br:Fantasia]]
+[[ru:Фантазия]]
+[[sv:Fantasia]]
+[[zh:幻想曲 (电影)]]
+[[Category:Disney animated features canon]]
+[[Category:1940 films]]
+[[Category:Disney films]]
+[[Category:Fantasia| ]]
+[[Category:Hybrid films]]
+[[Category:National Film Registry films]]
+[[Category:Animated films]]
+[[Category:Saving Mr. Banks]]
+[[Category:Compilation films]]
+[[Category:Traditionally Animated Films]]
+[[Category:Disney Vault Movies]]
+[[Category:Films based on books]]
+[[Category:G-rated films]]
+[[Category:Disney Dreams!]]
+[[Category:Mickey's Philharmagic]]
+[[Category:Disney Tsum Tsum]]
+[[Category:Epic Mickey transition levels]]
+[[Category:Academy Award winning films]]
+[[Category:Mickey Mouse]]

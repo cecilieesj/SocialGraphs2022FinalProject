@@ -1,0 +1,25 @@
+{{Infobox character
+|image = Stinky Ned.jpg
+|name = Stinky Ned
+|games = ''[[Toontown Online]]''
+|appearance = Brown Duck with wild strawberry shirt
+|alignment = Good/Neutral}}
+'''Stinky Ned''' is a [[Toon]] NPC brown Duck who owns [[King Neptoon's Cannery]] on Lighthouse Lane in Donald's Dock.
+
+==SOS Toon==
+Stinky Ned is also an SOS Toon. He is a 3-star Lure SOS. He uses Hypno Goggles to lure cogs into "sleep" mode.
+
+This SOS's Lure will last 3 Rounds.
+
+==Trivia==
+*There is some quite of confusion whether he is a 4-star or a 3-star SOS. The official Toontown website states he is a 3-star SOS.﻿
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Ducks]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Animated characters]]
+[[Category:Characters in video games]]
+[[Category:Characters introduced in video games]]
+{{Toontown Online}}

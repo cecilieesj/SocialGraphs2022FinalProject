@@ -1,0 +1,33 @@
+{{Infobox character
+|name = Able
+|image = Able.png
+|shows = ''[[Tron: Uprising]]''
+|voice = [[Reginald VelJohnson]]
+|home = [[Argon City]] 
+|occupation = Mechanic
+|status = Derezzed}}
+
+'''Able''' is a minor character in the [[Disney XD]] series, ''[[Tron: Uprising]]''. He owns a successful [[Light Cycles|light cycle]] garage, called Able's Garage, in [[Argon City]]. His employees include [[Beck]], [[Zed]], [[Mara]], and [[Link (Tron: Uprising)|Link]]. He acts as a grandfather figure to Beck. He is also one of the few programs who know that [[Tron (character)|Tron]] is still alive. He seems to be good friends with him, and supports the renegade. After saving [[Zed]] and [[Mara]] from [[Cyrus (Tron: Uprising)|Cyrus]]'s bombs, one of them attaches itself to him, and in the ensuing explosion, he gets derezzed.
+
+==Gallery==
+<gallery position="center">
+Able2.png
+</gallery>
+
+{{Tron}}
+[[pt-br:Able]]
+[[Category:Tron characters]]
+[[Category:Programs]]
+[[Category:Males]]
+[[Category:Mechanics]]
+[[Category:Mentors]]
+[[Category:Animated characters]]
+[[Category:Disney characters]]
+[[Category:Bosses]]
+[[Category:Characters]]
+[[Category:Deceased characters]]
+[[Category:Tron: Uprising characters]]
+[[Category:TV Animation characters]]
+[[Category:Heroes]]
+[[Category:Disney XD characters]]
+[[Category:Businesspeople]]

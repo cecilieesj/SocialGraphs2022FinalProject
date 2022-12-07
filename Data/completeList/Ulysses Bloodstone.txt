@@ -1,0 +1,36 @@
+{{Infobox character
+|name = Ulysses Bloodstone
+|image = Ulysees Bloodstone.jpg
+|films = ''[[Werewolf by Night (film)|Werewolf by Night]]'' 
+|shows = 
+|voice = 
+|actor = Richard Dixon
+|fullname = Ulysses Bloodstone
+|friends = 
+|enemies = 
+|powers = 
+|status = Deceased
+|family = Septimus Bloodstone † (father)<br>Frances Brisbane Bloodstone † (sister)
+|partner = Elise Bloodstone (ex-wife)<br>Verussa Bloodstone † (wife)
+|children = [[Elsa Bloodstone]] (daughter)}}
+'''Ulysses Bloodstone''' is a [[Marvel Comics]] character who's the father of [[Elsa Bloodstone]] and leader of a monster hunting group.
+
+Ulysses Bloodstone was created by Lein Wein, Marv Wolfman and John Warner.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+Werewolf By Night - Ulysses Bloodstone.jpg
+</gallery>
+
+{{CharacterStub}}
+{{Marvel Cinematic Universe}}
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Males]]
+[[Category:Acquired characters]]
+[[Category:Deceased characters]]
+[[Category:Marvel Comics characters]]
+[[Category:Live-action characters]]
+[[Category:Werewolf by Night characters]]
+[[Category:Parents]]
+[[Category:Zombies]]
+[[Category:Villains]]

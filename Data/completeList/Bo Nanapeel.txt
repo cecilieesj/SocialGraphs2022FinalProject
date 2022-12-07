@@ -1,0 +1,21 @@
+{{Infobox character
+|image = BoNanapeel.jpg
+|name = Bo Nanapeel
+|games = ''[[Toontown Online]]''
+|appearance = Orange monkey
+|occupation = Field Office SOS
+|alignment = Good}}
+'''Bo Nanapeel''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC orange [http://toontown.wikia.com/wiki/Monkey Monkey]. He is a Field Office SOS Toon. He is a 2-star [http://toontown.wikia.com/wiki/Lure_Gags Lure] [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon].
+==Trivia==
+*His name is a pun on "Banana Peel".
+
+{{CharacterStub}}
+
+{{DEFAULTSORT:Nanapeel, Bo}}
+[[Category:Toontown characters]]
+[[Category:Monkeys]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Characters in video games]]
+[[Category:Animated characters]]
+{{Toontown Online}}

@@ -1,0 +1,75 @@
+{{Infobox Film
+|image = BURN-E_title_card.png
+|director = [[Angus MacLane]]
+|writer = Angus MacLane
+|music = J. A. C. Redford
+|studio = [[Pixar|Pixar Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Home Entertainment]]
+|release = [[November 18]], [[2008]]
+|time = 7 minutes, 36 seconds
+|preceded = ''[[Presto]]''
+|followed = ''[[Tokyo Mater]]''<br>''[[Partly Cloudy]]''|producer=Galyn Susman}}'''''BURN-E''''' is a [[2008]] [[Pixar]] short film released on the ''[[WALL-E (film)|WALL-E]]'' Blu-ray and DVD.<ref>[http://www.slashfilm.com/2008/06/20/pixars-burn-e/ Slashfilm by Peter Sciretta June 20th, 2008]</ref> It was written and directed by ''WALL-E'' lead animator [[Angus MacLane]] and produced by [[Pixar Animation Studios]].
+
+It is a parallel spin-off from the feature film ''WALL-E''. A repair robot named [[BURN-E (character)|BURN-E]] is a minor character from the feature and the short is intercut with scenes from ''WALL-E'', which takes place concurrently.
+
+==Plot==
+The short begins with the words, "2805 AD, 821,190,000 miles from Earth," when [[EVE|EVE's]] [[Probe ship|spaceship]] is flying towards Saturn. [[WALL-E (character)|WALL-E]], who is clinging onto the side of the ship, then runs his hand through one of the rings (as seen in the movie). A small fragment of the ring starts moving at high speed away from Saturn, gets caught in Mars' gravity and catches fire while sling-shooting around Mars. It then shoots away past EVE's ship and straight towards the [[Axiom]] where it smashes into one of its lights. On the bridge, [[AUTO]] sees the damage and contacts [[SUPPLY-R]] (a supply robot), who summons [[BURN-E (character)|BURN-E]] (an engineering robot who is specifically designed for this job).
+
+SUPPLY-R hands him one of the three lamps which he stores inside himself and BURN-E, after shutting down the power for the lamp, goes outside and cuts out the base of the destroyed lamp. Meanwhile, WALL-E arrives at the ship and sees BURN-E, who is seating the new lamp in its socket. He waves at him and BURN-E sees and waves back, unaware that the lamp has already started drifting away and by the time he turns around, the lamp has drifted too far off into space. He desperately tries to get it back, but fails and turns back towards the door.
+
+BURN-E then goes back to SUPPLY-R, gets another lamp and starts the cycle again. Meanwhile, [[GO-4]] has just placed the plant inside life pod #12 and he goes to turn it on. At the same time, WALL-E goes in to retrieve the plant, but before he can get back to EVE, GO-4 launches the pod. Outside, BURN-E hears the pod launch, but dismisses the noise until he hears the pod explode. Surprised, he turns around and, in doing so, accidentally slices the lamp off with his still-activated blowtorch.
+
+SUPPLY-R, now annoyed, drops the third and final lamp in front of BURN-E and he takes it, embarrassed. Soon, he is almost finished welding the lamp in place when WALL-E and EVE, finished with their space dance, fly in through the airlock near BURN-E, the only entrance into the ship, and lock him out. BURN-E hears the door slam shut and starts thumping on it, trying to make it alert the others, but he ultimately realizes that he has been locked out.
+
+For a while, BURN-E travels around the airlock, waiting for the doors to open. Meanwhile, the garbage disposal is preparing to fire the cubes with EVE and WALL-E in them into space. EVE successfully breaks out of her garbage cube and then struggles to get WALL-E out. BURN-E sees the doors open and races towards them, realizing that he has a way in. Just as he approaches the doors, a WALL-A unit shuts the airlock after noticing the commotion between EVE, WALL-E and [[M-O]]. BURN-E despondently makes his way back to his own airlock.
+
+Later, BURN-E is scorching a flower shape into the deck in front of him by heating up his hand with his blowtorch when he realizes that he can use it to cut a hole in the door for himself. He does so and races back to SUPPLY-R, just as [[Captain B. McCrea|the captain]] and AUTO begin their final fight. BURN-E reaches SUPPLY-R and is just about to press his POW-R button for the lamp when AUTO turns the ship over. BURN-E is flung backwards and is taken through the path to the airlock where he has to cling onto the lamp to avoid floating off into space. The Captain then de-activates AUTO and rights the ship. BURN-E then tries to enter the ship, but it suddenly hyperjumps and BURN-E is caught in hyperspace, pinned to the side of the hull. The Axiom then lands on Earth at its landing dock. Released from the sudden acceleration, BURN-E falls forward with a groan.
+
+BURN-E, badly shaken, returns to where SUPPLY-R usually stands, but is very surprised to see that he has disappeared. BURN-E searches all over the ship, but can't find anyone. Finally, his search brings him to life pod #9. There, he sees several robots on the ground below and he spots SUPPLY-R. He waves to him and his hand hits the Launch button. The pod is then launched and it lands right behind SUPPLY-R. BURN-E jumps out of the pod and, giddily hopping over, presses SUPPLY-R's POW-R button, re-activating the lamp. As BURN-E whoops with victory, the door of the life pod, which was tossed into the air when BURN-E got out, falls back down to Earth and hits the same lamp, destroying it yet again. BURN-E fainted.
+
+After the credits, an arm comes out from SUPPLY-R's body and pats BURN-E's head as he says, in a dull, motionless voice, "There, There"
+
+== Cast ==
+*[[Angus MacLane]]: [[BURN-E (character)|BURN-E]]
+*[[Tessa Swigart]] : [[SUPPLY-R]]'s computer
+
+== Goofs ==
+*The Captain and AUTO's fight is much shorter than in the main film.
+*WALL-E can be seen waving at BURN-E while the [[Probe ship]] is pulling in, but in the film, WALL-E isn't shown to be waving at him. This is mainly because he was off-screen at the time.
+*The hull of the ship in the screen where BURN-E is welding the third lamp is different from the main film ''WALL-E''.
+*AD dates are supposed to be formatted with the year after "AD".
+*When the Airlock disposal opens (due to M-O getting stuck in the doors), BURN-E speeds towards the airlock just as it is about to close, but in the film when it closes, he is nowhere to be seen.
+
+==Trivia==
+*The tune that BURN-E hums is "Ode to Joy." At the end of the short, the song is played again, this time with opera singers.
+*The life pod used by BURN-E is Life Pod 9, while in the main film, WALL-E uses the Life Pod 12.
+*The tagline on the poster for this short is a reference to the film's actual tagline.
+*BIRD-E, FIX-IT, GRAB-E, 70, HLM-T and SR-V appear at the end.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150" captionalign="center">
+Burne 1large.jpg
+Burne 2large.jpg
+Burne 3large.jpg
+Burne 4large.jpg
+Burne 5large.jpg
+Burne 6large.jpg
+Burne poster.png|Poster
+</gallery>
+
+==References==
+{{Reflist}}
+== External links==
+*{{Interwiki|https://vignette.wikia.nocookie.net/pixar/images/6/64/Favicon.ico|pixar|BURN-E|Pixar Wiki}}
+
+{{WALL-E}}
+[[es:BURN-E]]
+[[fr:BURN-E]]
+[[pt-br:BURN-E]]
+[[zh:电焊工波力]]
+[[Category:Animated shorts]]
+[[Category:WALL-E]]
+[[Category:Pixar shorts]]
+[[Category:2008 films]]
+[[Category:Pixar films]]
+[[Category:2008 shorts]]

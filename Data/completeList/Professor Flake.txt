@@ -1,0 +1,14 @@
+{{Infobox character
+|image = Professor Flake.png
+|name = Professor Flake
+|games = ''[[Toontown Online]]''
+|appearance = Yellow Monkey with large eyes
+|occupation = Professor
+|alignment = Good/Neutral}}'''Professor Flake''' is a yellow [http://toontown.wikia.com/wiki/Monkey Monkey] found in [http://toontown.wikia.com/wiki/Precipitation_Foundation Precipitation Foundation], which is located on [http://toontown.wikia.com/wiki/Polar_Place Polar Place] in [http://toontown.wikia.com/wiki/The_Brrrgh The Brrrgh] right next to Toon HQ. Once you have completed all of the ToonTasks in [http://toontown.wikia.com/wiki/Donald%27s_Dreamland Donald's Dreamland], you are sent here to work for your [http://toontown.wikia.com/wiki/Lawbot Lawbot] Disguise Suit. Professor Flake will send you to every street in ToonTown in every Playground (all except The Brrrgh, because we know the weather is already snowy and cold) to collect weather data from a cog on each street. Once you have collected one, you return it to Prof. Flake in exchange a Lawbot Suit Part. There are 14 total suit parts. You start in [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central] by getting the weather there. Once you have gotten all suit parts, you can get [http://toontown.wikia.com/wiki/Jury_Notices Jury Notices] and then battle the [http://toontown.wikia.com/wiki/Chief_Justice C.J.]
+
+{{CharacterStub}}
+{{DEFAULTSORT:Flake, Professor}}
+[[Category:Toontown characters]]
+[[Category:Monkeys]]
+[[Category:Males]]
+{{Toontown Online}}

@@ -1,0 +1,55 @@
+{{Infobox Film
+|image = Lifted title card.png
+|director = [[Gary Rydstrom]]
+|writer = Gary Rydstrom
+|music = Michael Giacchino
+|studio = [[Pixar|Pixar Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Buena Vista Pictures]]
+|release = [[December 21]], [[2006]]<br>[[June 29]], [[2007]] (with ''[[Ratatouille]]'')
+|time = 5 minutes
+|preceded = ''[[Mater and the Ghostlight]]''
+|followed = ''[[Your Friend the Rat]]''}}'''''Lifted''''' is a [[2006]] [[Pixar Animation Studios|Pixar]] short film directed by [[Gary Rydstrom]]. This is the first film directed by Rydstrom, a seven-time Academy Award winning sound editor and mixer.
+==Plot==
+A young alien, [[Stu (Lifted)|Stu]], is in a spaceship taking an examination in abduction. He must snatch a sleeping human farmer, named [[Ernie]], under the watchful eye of his instructor, [[Mr. B]]. However, there is an array of thousands of unlabeled toggle switches he must manipulate to get the sleeping Ernie into the ship's tractor beam, and he is having trouble. He mistakenly propels Ernie into walls and occasionally the ceiling (never waking up from his slumber through it all). After repeated failures to successfully lift Ernie into the ship (he almost succeeds, but forgets to close the door on the bottom of the ship before turning off the tractor beam), Mr. B takes over, returns Ernie back to his room, and cleans up the mess that Stu had made.
+
+Ashamed over his failure, Stu starts whimpering, trying to hold his tears back from Mr. B, who generously allows Stu to launch the space ship back home. Full of glee, Stu takes hold of the joystick and starts to lift the ship into the air, but once again, he fails, and the space ship plummets to the Earth, crushing Ernie's house and leaving nothing but a crater with a tall pillar of dirt in the center, atop which Ernie is still sleeping soundly in his bed. The ship quickly lifts off again.
+
+During the end credits there is the sound of an alarm clock, Ernie waking up, then a [[Wilhelm scream]] as Ernie falls into the crater all around him, and finally, a thud.
+
+==Production==
+Production on the film began in mid-[[2005]] and was completed in the summer of [[2006]].<ref name=awm>[http://mag.awn.com/index.php?ltype=pageone&article_no=3187&page=4 Taylor Jessen. "2007's Oscar-Nominated Animated Shorts: Three Fords, a Vespa and a Kit Bike", ''Animation World Magazine'', 2-27-2007]</ref> It debuted with Pixar's theatrical release of ''[[Ratatouille]]'' ([[June 29]], [[2007]]). However, the short received a sneak peek at the 42nd Chicago International Film Festival.
+
+There were no large technological advances used in ''Lifted'', only the use of a new program called Jiggle. This program gives the animators a way to resonate, or jiggle, certain parts of a body. The animator can control how far out to resonate, such as only within a limb, or to stay away from specific parts of the body such as the face.<ref name=awm />
+
+==Trivia==
+* [[Tinny]] from ''[[Tin Toy]]'' can be seen under Ernie's bed as he is being abducted.
+* Ernie the farmer looks strangely like [[Alfredo Linguini]] from ''[[Ratatouille]]''. That is because it is an earlier model.
+* Mr. B and Stu are believed by some to be related to an idea that was abandoned in ''[[WALL-E (film)|WALL-E]]'', which is that the humans used to be gelatinous blobs (often called "Gels" in the film's production) that had similar looking bodies.
+* When Ernie falls off the cliff after the credits, the scream that is heard is the [[wikipedia:Wilhelm Scream|Wilhelm Scream]], a sound effect heard in many movies.
+* When in the spaceship, as Stu is attempting to pull Ernie out the window, and fails, Ernie hits the wall and a sound effect from Mac OSX can be heard.
+* According to director Gary Rydstrom, he says that the most important moment in the scene where the ship crashes is when Ernie's mailbox flag falls over. According to him, no one found the joke funny, but he did.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150" captionalign="center">
+Lifted Aliens.jpg|Mr. B. (left) with Stu (right)
+Lifted 2.jpg
+Lifted 3.jpg
+lifted-Tin-Toy-web.jpg|[[Tinny]] from ''[[Tin Toy]]'' under Ernie's bed
+lifted2.jpg
+Lifted Stu Plush.jpg|A plush of Stu
+</gallery>
+
+==References==
+<references />
+
+[[es:Lifted]]
+[[fr:Extra-terrien]]
+[[pt-br:Quase Abduzido]]
+[[ru:Похищение]]
+[[zh:綁架課]]
+[[Category:Animated shorts]]
+[[Category:Ratatouille]]
+[[Category:Pixar shorts]]
+[[Category:2006 shorts]]
+[[Category:Pixar films]]
+[[Category:Academy Award nominated films]]

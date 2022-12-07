@@ -1,0 +1,23 @@
+{{Upcoming|media=film}}
+{{Infobox_film
+|director=Richard Wong
+|producer=Ellen Goldsmith-Vein
+|distributor=[[Disney+]]
+|language=English
+|writer=Lauren Moon<br>Melissa de la Cruz
+|studio=[[Walt Disney Pictures]]
+}}
+{{NeedImage}}
+'''''29 Dates''''' is an upcoming [[Disney+]] original film, based on the novel of the same name.
+
+==Plot==
+A sixteen-year old Korean exchange student moves to the United States, and struggles against the academic pressure exerted by her ambitious parents.
+
+{{Stub}}
+{{Disney+}}
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Films based on books]]
+[[Category:Disney+ Originals]]
+[[Category:Live-action films]]
+[[Category:Upcoming]]

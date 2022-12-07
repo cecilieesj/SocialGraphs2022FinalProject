@@ -1,0 +1,84 @@
+{{Marvel Database:Film Template
+| Image                   = Thor Odinson (Earth-16828) and Darryl Jacobson (Earth-16828) from Team Thor 001.png
+| Aliases                 = What Thor Was Doing During Captain America: Civil War
+
+| Directors               = Taika Waititi
+| Producers               = Kevin Feige; Brad Winderbaum
+| Writers                 = Taika Waititi
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = Joel Negron
+| Distributors            = Marvel Studios
+| Running Time            = 3 minutes, 20 seconds
+| Rating                  = 
+| Budget                  = 
+| Release Date            = August 28, 2016
+| IMDB ID                 = 6016776
+| Marvel Movies           = Team Thor
+| MCU                     = Team Thor
+
+| Next Film               = Team Thor: Part 2
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Thor Odinson (Earth-16828)|Thor]]}}
+'''Supporting Characters:'''
+* {{1st|[[Darryl Jacobson (Earth-16828)|Darryl Jacobson]]}}
+* {{1st|[[Bruce Banner (Earth-16828)|Bruce Banner]]}}
+<!--'''Antagonists:'''
+* <br/>-->
+'''Other Characters:'''
+* {{Drawing|[[Avengers (Earth-16828)|Avengers]]}}
+** {{Photo|[[Anthony Stark (Earth-16828)|Iron Man (Tony Stark)]]}}
+** {{Drawing|[[Steven Rogers (Earth-16828)|Captain America (Steve Rogers)]]}}
+** {{Drawing|[[Vision (Earth-16828)|Vision]]}}
+** {{Drawing|[[Wanda Maximoff (Earth-16828)|Scarlet Witch (Wanda Maximoff)]]}}
+** {{Drawing|[[Clinton Barton (Earth-16828)|Hawkeye (Clint Barton)]]}}
+** {{Drawing|[[Natalia Romanoff (Earth-16828)|Black Widow (Natasha Romanoff)]]}}
+* {{Drawing|[[Nicholas Fury (Earth-16828)|Nick Fury]]}}
+* {{Drawing|[[Thanos (Earth-16828)|Thanos]]}}
+* {{Photo|[[Loki Laufeyson (Earth-16828)|Loki]]}}
+* {{Named|[[Jane Foster (Earth-16828)|Jane Foster]]}}
+'''Races and Species:'''
+* {{a|[[Asgardians]]}}
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{Drawing|[[Synthezoids]]}}
+* {{Drawing|[[Titans (Eternals)|Titanians]]}}
+* {{Photo|[[Frost Giants]]}}
+* {{Mentioned|[[Ravens]]}}
+'''Locations:'''
+* {{1st|[[Earth-16828]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[Australia]]}}
+** {{Drawing|[[Bifrost|Rainbow Bridge]]}}
+'''Items:'''
+* {{a|[[Mjolnir]]}}
+* {{a|[[Thor's Battle Armor]]}}
+* {{Drawing|[[Infinity Stones]]}}
+** {{Drawing|[[Space Throne]]}}
+** {{Drawing|[[Reality Stone|Aether]]}}
+** {{Drawing|[[Mind Stone]]}}
+** {{Drawing|[[Power Stone|The Orb]]}}
+** {{Drawing|[[Time Stone|Eye of Agamotto]]}}
+* {{Drawing|[[Captain America's Uniform]]}}
+* {{Drawing|[[Captain America's Shield]]}}
+* {{Drawing|[[Hawkeye's Bow]]}}
+* {{Drawing|[[Infinity Gauntlet (Item)|Infinity Gauntlet]]}}
+* {{Photo|[[Iron Man Armor MK III (Earth-199999)|Iron Man Armor MK III]]}}
+* {{Drawing|[[Loki's Scepter]]}}
+<!-- '''Vehicles:'''
+* <br/> -->
+
+==Videos==
+[[File:What Thor Was Doing During Captain America Civil War (Comic-Con 2016) Thor Ragnarok HD|left|300px]]<br clear="all" />
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Chris Hemsworth|Chris Hemsworth]] as [[Thor Odinson (Earth-16828)|Thor]]
+* Daley Pearson as [[Darryl Jacobson (Earth-16828)|Darryl Jacobson]]
+* [[wikipedia:Mark Ruffalo|Mark Ruffalo]] as [[Bruce Banner (Earth-16828)|Bruce Banner]]
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Marvel Studios|Marvel Films]]
+}}
+[[Category:Short Films]]

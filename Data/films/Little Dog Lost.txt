@@ -1,0 +1,40 @@
+{{Episode
+| series     = [[Walt Disney's Wonderful World of Color]]
+| title      = Little Dog Lost
+| season     = 9
+| number     = 15
+| image      = 1963-littledog-1.jpg
+| caption    = 
+| production = 
+| airdate    = [[January 13]], [[1963]]
+| writer     = Catherine Turney<br>Meindert de Jong (novel)
+| director   = Walter Perkins
+| previous   = "[[Three Tall Tales]]"
+| next       = [[Johnny Shiloh]]
+}}
+'''''Little Dog Lost''''' is a [[1963]] telefilm produced by [[Walt Disney Productions]]. It was originally broadcast on [[NBC]] as an episode on ''[[Walt Disney's Wonderful World of Color]]'' on [[January 13]], 1963. The film was directed by Walter Perkins.
+
+==Plot==
+The story of Candy, a little Welsh Corgi, who's raised by his family from a little puppy. But when he's grown up, he gets lost, has adventures, and learns to herd cattle before he's reunited with his family...only that's not where he wants to be. Little dog gets lost and finds a friend to share his journey with. Together they meet an array of characters that change both of the dogs lives. Through many trials and tribulations they finally find what they want most out of life...
+
+==Cast==
+*[[Winston Hibler]] as Narrator
+*Hollis Black as Carlson
+*Margaret Gerrity as Mother
+*Grace Bauer as Old Woman
+*Priscilla Overton as Katy
+*Dennis Yanglin as Bud
+*Norman Williams as Father
+*[[Walt Disney]] as Himself-Host
+
+==Gallery==
+<gallery>
+1963-littledog-2.jpg
+1963-littledog-3.jpg
+</gallery>
+[[Category:1963 films]]
+[[Category:Television episodes]]
+[[Category:Walt Disney anthology series episodes]]
+[[Category:Films about animals]]
+[[Category:Live-action films]]
+[[Category:Films]]

@@ -1,0 +1,24 @@
+{{Infobox_character
+|name = DJ Despicable
+|image = DJ Despicable 1.png
+|shows = ''[[Teamo Supremo]]''
+|voice = Casey Kasem
+|status = Arrested}}'''DJ Despicable''' is a one-time antagonist featured in ''[[Teamo Supremo]]''. He appears in the episode "[[Doin' the Supremo!]]".
+
+==Gallery==
+<gallery widths="150" position="center" spacing="small">
+DJ Despicable 2.png
+DJ Despicable 3.png
+DJ Despicable 4.png
+</gallery>
+
+{{CharacterStub}}
+{{Teamo Supremo}}
+[[Category:Teamo Supremo characters]]
+[[Category:Villains]]
+[[Category:TV Animation characters]]
+[[Category:Musicians]]
+[[Category:Males]]
+[[Category:Disney characters]]
+[[Category:Animated characters]]
+[[Category:Adults]]

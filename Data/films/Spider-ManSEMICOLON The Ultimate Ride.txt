@@ -1,0 +1,94 @@
+<br>
+{{Marvel Database:Film Template
+| Image                   = Spider-Man The Ultimate Ride 003.jpg
+| Aliases                 = Spider-man The Ultimate Ride; Tour Bus Swat Team; Adventure Heroes Laser Ride<ref>[https://www.niagarafallshotels.com/niagara-falls-attraction/adventure-city/  Adventure City] at NiagaraFallsHotels.com</ref>
+| Universe                = 
+
+| Directors               = Blacklight Attractions
+| Producers               = Blacklight Attractions
+| StoryWriters            = Blacklight Attractions
+| Musicians               = Danny Elfman
+| Cinematographers        = Blacklight Attractions
+| Editors                 = Blacklight Attractions
+| Distributors            = Blacklight Attractions
+| Running Time            = 5 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = April 10, 2003
+| Language                = English
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* [[Spider-Man|Spider-Man (Peter Parker)]] {{Only}}
+'''Supporting Characters:'''
+* [[Spider-Friends]] {{Only}}
+** {{Minor|You (Earth-1218)|You|Riders}}
+'''Antagonists:'''
+* [[Scorpion|Scorpion (Mac Gargan)]] {{Only}}
+* [[Lizard|Lizard (Dr. Curt Conners)]] {{Only}}
+* [[Electro|Electro (Max Dillon)]] {{Only}}
+* [[Green Goblin|Green Goblin (Norman Osborn)]] {{Only}}
+* [[Doctor Octopus|Doctor Octopus (Dr. Otto Octavius)]] {{Only}}
+'''Other Characters:'''
+* [[New York City Police Department|NYPD]] {{Only}}
+* [[Daily Bugle]] {{Only}}
+** [[J.J. Jameson]] {{Only}}
+* [[Venom|Venom (Eddie Brock)]] {{Poster}}
+* [[Kingpin|Kingpin (Wilson Fisk)]] {{Poster}}
+* [[Mysterio|Mysterio (Quentin Beck)]] {{Poster}}
+* [[Enforcers]] {{Poster}}
+** [[Ox|Ox (Bruno Sanchez)]] {{Poster}}
+** [[Montana|Montana]] {{Poster}}
+** [[Fancy Dan|Fancy Dan (Dan Rubinstein)]] {{Poster}}
+* [[Vulture|Vulture (Adrian Toomes)]] {{Poster}}
+* [[Carnage|Carnage (Cletus Kasady)]] {{Cameo}}
+* [[Hobgoblin|Hobgoblin]] {{Cameo}}
+* [[Kraven the Hunter|Kraven the Hunter (Sergei Kravinoff)]] {{Cameo}}
+'''Races and Species:'''
+* {{1st|[[Humans (Homo sapiens)|Humans]]}}
+* {{Cameo|[[Symbiotes]]}}
+'''Locations:'''
+* Unnamed reality
+** {{1st|[[Earth]]}}
+*** {{1st|[[United States of America]]}}
+**** {{1st|[[New York (State)|New York]]}}
+***** {{1st|[[New York City]]}}
+****** {{1st|[[Manhattan]]}}
+****** {{Cameo|[[Statue of Liberty]]}}
+'''Items:'''
+* {{a|[[Spider-Man's Suit]]}} and {{1st|[[Web-Shooters]]}}
+* {{1st|[[Scorpion's Suit]]}}
+* {{1st|[[Connors Formula|Conners Formula]]}}
+* {{1st|[[Pumpkin Bomb|Pumpkin Bombs]]}}
+* {{1st|[[Doctor Octopus' Tentacles]]}}
+* [[Venom (Symbiote)|Venom Symbiote]] {{Poster}}
+* {{Poster|[[Vulture's Wings]]}}
+* [[Carnage (Symbiote)|Carnage Symbiote]] {{Cameo}}
+* {{Cameo|[[Kraven's Lion's Head Vest]]}}
+'''Vehicles:'''
+* {{1st|[[Goblin Glider]]}}
+
+| Plot                    = The rider takes the position as one of [[Spider-Man]]'s "[[Spider-Friends]]", helping take down numerous villains loose in the city. First they briefly meet [[Daily Bugle]] Editor-In-Chief, [[J.J. Jameson]], who believes these villains' existence is the fault of Spider-Man, before encountering their first foe.
+
+The [[Scorpion]] is swiftly defeated before he can get to the rider, as they use their [[Web-Shooters]] to collapse some rubble above him.
+
+Next, [[Lizard]] reveals his plan to leak his [[Connors Formula|formula]] into the city's water supply, but the Spider-Friends damage some pipes, spraying him with nitrogen gas.
+
+[[Electro]] appears, shocking citizens aboard the subway before being short-circuited by a spray of water.
+
+[[Green Goblin]] then tries to attack the Spider-Friends directly, but Spider-Man grabs on to the bottom of his glider, ripping out important wires and causing the Goblin to crash.
+
+The Spider-Friends then find the last villain, [[Doctor Octopus]], in his hideout, as his men gather supplies. Thanks to the Spider-Friends' distracting him by knocking down crates, Spider-Man is able to knock out Doctor Octopus with another crate.
+
+As the Spider-Friends come to the end of the ride, they see the cast of villains, webbed up for collection by law enforcement.
+
+| Cast                    = 
+
+| Notes                   = * '''Spider-Man: The Ultimate Ride''' was a motion-based 3D dark ride at [[wikipedia:Marvel Adventure City|Marvel Adventure City]]. Riders are able to experience an adventure as they ride through [[New York City]], stopping several villains and their nefarious schemes alongside Spider-Man.
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Attractions]]

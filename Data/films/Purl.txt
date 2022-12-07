@@ -1,0 +1,90 @@
+{{Infobox film
+|image = Purl poster.jpg
+|director = [[Kristen Lester]]
+|writer = Kristen Leseter {{Small|(Story & Screenplay)}}<br>Michael Daley {{Small|(Story)}}<br>Bradley Furnish {{Small|(Story)}}<br>James Robertson {{small|(Story)}}
+|studio = [[Walt Disney Pictures]]<br>[[Pixar]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[August 12]]-[[August 16|16]], [[2018]] (Siggrph 2018)<br>[[January 18]], [[2019]] (El Capitan Theater)<ref name="Spark">{{Cite web|website=/Film|url=https://www.slashfilm.com/pixar-sparkshorts-short-films/|title=Pixar's Announces New Short Film Program, SparkShorts|date=January 11, 2019}}</ref><br>[[February 4]], 2019 (YouTube)
+|time = 8 minutes
+|language = English
+|followed = ''[[Smash and Grab]]''
+|website = https://www.pixar.com/sparkshorts#purl1
+|imdb_id = 8980868}}
+'''''Purl''''' is a computer-animated expermimental short film produced by [[Pixar]] and is part of Pixar's ''[[SparkShorts]]'' series. It premiered at Siggraph 2018.<ref name="Tweet">{{Cite web|url=https://twitter.com/roxxykristen/status/1012520535731855360|format=Tweet|author=Lester, Kristen|website=Twitter|date=June 29, 2018|title=I'm so excited to share my short film Purl at Siggraph! I'm grateful to everyone at Pixar who helped me tell this personal story and I'm proud to be a part of Pixar's experimental short program! #Pixar #animation #Purl #WIA}}</ref> The short was first announced by Kristen Lester on her Twitter account.<ref name="Tweet" /> It was subsequently released on YouTube on [[February 4]], [[2019]] and on [[Disney+]] in late 2019.<ref name="Spark" />
+
+==Synopsis==
+An earnest ball of yarn named Purl gets a job at a fast-paced, high energy, male-centric start-up. Things start to unravel as she tries to fit in with this close-knit group. Purl must ask herself how far is she willing to go to get the acceptance she yearns for and in the end is it worth it?
+
+==Plot==
+Purl is a small pink ball of yarn who has just been hired at B.R.O. Capital, a very male-centric business company of some sort. She displays a cheery disposition with her personal belongings even being made of yarn. Right away, her connection to her coworkers is limited as all the men have a virile attitude and do not get any of Purl's jokes, nor do they seem interested in hanging out with her. Feeling like she is at her lowest, Purl resolves to change her attitude by knitting herself a suit and giving herself a flat and square appearance.
+
+The change ends up working as she displays a more assertive and bombastic attitude that wins over her peers. As she happily heads out with the guys, another ball of yarn, a yellow one named Lacy, arrives and tries to introduce herself, but gets ignored by everyone. Realizing that she is facing the same distance she once did, Purl introduces herself to Lacy and then introduces her to the guys who reluctantly invite her in.
+
+Later, another new employee joins B.R.O. Capital with Purl, back to her normal round self, taking him to his new spot. As they enter the office room, it is now populated with both men and yarn women who are all happily conversing with each other.
+
+==Cast==
+*[[Bret Parker]] as [[Purl (character)|Purl]]
+*Emily Davis as Lacy
+*Office Bros:
+**Michael Daley
+**Michael Frederickson
+**Erik Langley
+**Jimmy Lillard
+**Austin Madison
+**Kelsey Mann
+**Kyle McDaniel
+**Victor Navone
+**Michael Yates
+*Office Ladies:
+**Aphton Corbin
+**Mitra Shahidi
+**[[Domee Shi]]
+
+==Trivia==
+*This is the third [[Pixar]] short film to be rated PG by the MPAA, after ''[[Party Central]]'' and ''[[Sanjay's Super Team]]''.
+**The scenes most likely affecting this include Purl cussing and her imagining herself vomiting with her office co-workers.
+*Noticeably, when Purl begins working at B.R.O. Capital, all the male workers are Caucasian. After she changes the atmosphere of the work place, non-Caucasian workers can be seen.
+*Bizarrely, all the yarn people appear to be female and not a single human female is seen.
+**It's also worth noting that Purl is the only yarn person to not have eyelashes.
+*While the male workers have motion blur for the animation, the yarn people have no motion burr to be in the style of how ''The Peanuts Movie'', ''The SpongeBob Movie: Sponge on the Run'', and other movies like ''Spider-Man: Into the Spider-Verse'' to have no motion blur for the animation.
+*This is the first Pixar project to not to feature [[John Lasseter]] in any capacity.
+*"Purl" is a kind of stitch often used in knitting. As knitting is often done with wool, it's fitting that the main character, an anthropomorphic ball of wool, is called Purl.
+*Purl’s gender is a female due to her gender pronouns. And thus everyone called her pronouns as a ‘She’ not a ‘He’.
+*She is an only female who doesn’t have any eyelashes.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150">
+Purl.jpg
+purl image.jpg
+Purl 1.jpg
+Purl 2.jpg
+Purl 3.jpg
+Purl 4.png
+Purl 5.jpg
+Purl 6.png
+</gallery>
+
+==Videos==
+<gallery position="center">
+Go Behind the Scenes of Purl Pixar SparkShorts
+Purl Pixar SparkShorts
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Interwiki|https://vignette.wikia.nocookie.net/pixar/images/6/64/Favicon.ico|pixar|Purl|Pixar Wiki}}
+*{{WP|Purl (2019 film)}}
+
+{{Disney+}}
+{{DISPLAYTITLE:''Purl''}}
+[[ar:بيرل]]
+[[pt-br:Purl]]
+[[Category:Pixar shorts]]
+[[Category:Animated shorts]]
+[[Category:Pixar]]
+[[Category:3-D films]]
+[[Category:SparkShorts]]
+[[Category:Featured shorts]]
+[[Category:Disney+ Originals]]

@@ -1,0 +1,35 @@
+{{Infobox character
+|image = Character Dr. Hudson.png
+|voice = [[Jim Cummings]]
+|occupation = Former KaneCo scientist
+|affiliation = The [[Burners]]}}
+'''Dr. Hudson''' is a KaneCo scientist and head of the Research and Development department.
+
+==History==
+Dr. Hudson was Jacob's student when [[Jacob (Motorcity)|Jacob]] and [[Abraham Kane|Kane]] were still partners. Hudson stayed in Deluxe when Jacob left. Kane started pushing them into more dangerous experiments.
+
+During one particularly dangerous project to create an highly volatile power core, Dr. Hudson called the Burners to stop
+
+Kane from destroying Motorcity. After being rescued by the Burners and making amends with Jacob, Hudson now assumedly assists them in his new lab in Motorcity.
+
+==Episodes==
+*102. "Power Trip"
+
+*118. "Threat Level: Texas"
+
+== Gallery ==
+{{Gallerylink}}
+==Trivia==
+*It is possible that Dr. Hudson is a reference to [[Doc Hudson]] from Disney/Pixar's ''[[Cars]]''.
+
+{{Motorcity}}
+{{DEFAULTSORT:Hudson, Dr.}}
+[[Category:Motorcity characters]]
+[[Category:Scientists]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Disney characters]]
+[[Category:Animated characters]]
+[[Category:Disney XD characters]]
+[[Category:TV Animation characters]]
+[[Category:Elderly characters]]

@@ -1,0 +1,21 @@
+{{Infobox film
+|name        = You and the Living Machine
+|director    = 
+|producer    = 
+|writer      = 
+|distributor = Walt Disney Productions
+|language    = English
+|image = Image:LivingMachine.jpg
+|imagewidth = 250px
+|time = 12 minutes
+|release = [[1957]]}}'''''You and the Living Machine''''' is a "You and Your..." short that originally aired on ''[[The Mickey Mouse Club]]''. It was updated in the early 1990s.
+
+==Synopsis==
+[[Jiminy Cricket]] shows how the "human machine" converts food into energy. He compares the human digestive system to a factory production line while explaining the importance of healthy food and exercise. He tells the story of a young boy who wants to stay healthy so that he can play and do all the fun things of life.
+
+==Trivia==
+*The animation of the beating heart in this short was later featured in the opening of the Disney music video version of [[Huey Lewis]]' "The Heart of Rock 'n' Roll", which was shown on both ''[[DTV]]'' and the primetime special ''Disney's DTV Valentine'' (later renamed ''Disney's DTV Romancin<nowiki>'</nowiki>'').
+[[Category:1957 shorts]]
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse Club]]
+[[Category:Educational films]]

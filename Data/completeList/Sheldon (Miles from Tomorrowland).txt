@@ -1,0 +1,36 @@
+{{Infobox character
+|image = Sheldon.png
+|name = Sheldon
+|shows = ''[[Miles from Tomorrowland]]''
+|voice = [[Dee Bradley Baker]]
+|home =Blobsberg (formally)<br>[[Zenith]]
+|owner = [[Blodger Blopp]]
+|likes = Digging, dirt
+|dislikes = 
+|powers = Flight<br>Giant holo drill
+|occupation = Blodger's pet robo-tortoise<br>Member of [[Mission Force One]]}}'''Sheldon''' is a character who appears in the [[Disney Junior]] animated series, ''[[Miles from Tomorrowland]]''. He is [[Blodger Blopp|Blodger's]] pet robot tortoise.
+== Background ==
+
+=== Abilities ===
+* '''Retractable jet wings: '''Sheldon is equipped with wings that allow him to fly
+* '''Holo Drill: '''Sheldon can create a holographic drill that allows him to tunnel underground.
+
+==Gallery==
+<gallery position="center" captionalign="center">
+Sheldon Concept.png|Concept design
+Connect and Protect 4.png
+Villain_After_Villain_1.jpg
+</gallery>
+
+{{CharacterStub}}
+{{Miles from Tomorrowland}}
+[[Category:Pets]]
+[[Category:Robots]]
+[[Category:Turtles]]
+[[Category:Miles from Tomorrowland characters]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Disney Junior characters]]
+[[Category:Characters who fly]]

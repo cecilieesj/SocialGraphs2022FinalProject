@@ -1,0 +1,54 @@
+{{Group Infobox
+|name = 
+|image = DunBroch sword emblem.jpg
+|films = ''[[Brave]]''
+|shorts = 
+|shows = ''[[Once Upon a Time]]''
+|games = 
+|rides = 
+|inspiration = 
+|alias = 
+|leaders = [[King Fergus]]
+|members = [[Queen Elinor]]<br>[[Merida]]<br>[[Harris, Hubert, and Hamish]]<br>[[Gordon]]<br>[[Martin]]
+|occupation = 
+|affiliation = 
+|goal = 
+|home = 
+|headquarters = 
+|fate = }}
+'''Clan DunBroch''' is a Scottish clan in ''[[Brave]]''. It is the ruling clan of the [[DunBroch|kingdom of the same name]], to which belongs [[King Fergus]] and his family, including [[Merida]]. Its symbol is the sword.
+
+The emblem of [http://pixar.wikia.com/DunBroch_Kingdom%7C The Kingdom of DunBroch] is three bears disposed in a circle. 
+
+==Tartan==
+The tartan worn by the members of the clan is mainly colored in gray, dark turquoise, and scarlet.
+
+The DunBroch tartan pattern is physically impossible to make with traditional tartan weaving methods.
+
+Disney/Pixar has registered its pattern on the [http://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10641 Scottish Register of Tartans], and gave the following information:
+
+It should be noted however, that the tartan in the movie being made of a very coarse fabric, it doesn't have as much detail and color as the one officially registered. However, it matches the one [[John Lasseter]], [[Mark Andrews]] and others wore for premieres of ''Brave''.
+
+==Gallery==
+<gallery position="center" captionalign="center" widths="185">
+Brave tapestry full.jpg|[[DunBroch Family Tapestry|Tapestry of the ruling family]] of the clan
+Brave tapestry concept.jpg|Tapestry concept
+Brave tapestry new.jpg|Merida and Elinor's tapestry
+Brave-brave-31623399-400-216.jpg
+Dunbroch-emblem-pendentif.jpg|The Kingdom of DunBroch's emblem, as represented on a [[Merida's Pendant|pendant]]
+DunBroch tartan.jpg|The Clan's tartan
+TartanImagePrototype.jpg|Sample of the DunBroch tartan as registered of the Scottish Register of Tartans
+</gallery>
+
+{{PixarWiki}}
+{{Brave}}
+{{Once Upon a Time}}
+[[pt-br:Clã DunBroch]]
+[[Category:Character groups]]
+[[Category:Pixar characters]]
+[[Category:Characters]]
+[[Category:Brave characters]]
+[[Category:Once Upon a Time characters]]
+[[Category:Scottish characters]]
+[[Category:Animated characters]]
+[[Category:Live-action characters]]

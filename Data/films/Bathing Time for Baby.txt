@@ -1,0 +1,19 @@
+{{Infobox film
+|image = Bathing_time.jpg
+|imagewidth = 250px
+|name = Bathing Time for Baby
+|director = 
+|producer = [[Walt Disney]]
+|writer = 
+|studio = [[Walt Disney Productions]]
+|distributor = Johnson & Johnson
+|release = [[March 12]], [[1946]]
+|language = English
+}}
+'''''Bathing Time for Baby''''' is a [[1946]] Disney animated short film. It was sponsored by Johnson & Johnson.
+
+{{EpisodeStub}}
+[[Category:1946 shorts]]
+[[Category:Animated shorts]]
+[[Category:Disney films]]
+[[Category:Educational films]]

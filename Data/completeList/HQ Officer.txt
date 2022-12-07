@@ -1,0 +1,17 @@
+{{Infobox character
+|image = HQ Officers.png
+|name = HQ Officers
+|games = ''[[Toontown Online]]''
+|occupation = Officers
+|alignment = Good}}
+The '''HQ Officers''' are found in Toon HQs in [http://toontown.wikia.com/wiki/Playgrounds playgrounds] and the streets. They give you a choice of [http://toontown.wikia.com/wiki/Toontask ToonTasks] to complete. The first HQ Officer you meet is HQ Harry during the [http://toontown.wikia.com/wiki/Toontorial Toontorial]. He guides you through your [http://toontown.wikia.com/wiki/Shticker_Book Shtickter book] and helps you to use it.
+
+==Trivia==
+*HQ Harry is the only HQ Officer to have a name.
+*The HQ Officers have no names unlike HQ Harry, rather they are merely called HQ Officer.
+*In the district Toon Valley many toons like to get behind the window on the right(left if you enter through the other door)this can happen on any district that has a lot of toons.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Characters]]
+{{Toontown Online}}

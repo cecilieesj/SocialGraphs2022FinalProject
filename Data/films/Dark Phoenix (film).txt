@@ -1,0 +1,181 @@
+{{Marvel Database:Film Template
+| Image                   = Dark Phoenix (film) poster 017.jpg
+| Aliases                 = Teen Spirit (working title)<br>X-Men: Dark Phoenix
+
+| Directors               = Simon Kinberg
+| Producers               = Simon Kinberg; Hutch Parker; Lauren Shuler Donner; Todd Hallowell
+| ScreenplayWriters       = Simon Kinberg
+| Musicians               = Hans Zimmer
+| Cinematographers        = Mauro Fiore
+| Editors                 = Lee Smith
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = 20th Century Fox, Marvel Entertainment, TSG Entertainment, The Donners' Company
+| Running Time            = 114 minutes
+| Rating                  = '''MPAA:''' Rated PG-13 for intense sequences of sci-fi violence and action including some gunplay, disturbing images, and brief strong language
+| Budget                  = $200 million
+| Release Date            = June 5, 2019
+| US Release Date         = June 7, 2019
+
+| AM ID                   = dark-phoenix-v684449
+| IMDB ID                 = 6565702
+| Marvel Movies           = Dark Phoenix
+| X-Men Movies            = X-Men: Dark Phoenix
+
+| Previous Film           = X-Men: Apocalypse
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Last|[[X-Men (Earth-TRN414)|X-Men]]}}
+** {{apn|[[Charles Xavier (Earth-TRN414)|Professor X (Charles Xavier)]]|X-Men: Apocalypse|X-Men: Days of Future Past (film)}} {{Last}}
+** {{apn|[[Raven Darkhölme (Earth-TRN414)|Mystique (Raven Darkhölme)]]|X-Men: Apocalypse|-}} {{Death}}
+** {{apn|[[Henry McCoy (Earth-TRN414)|Beast (Hank McCoy)]]|X-Men: Apocalypse|X-Men: Days of Future Past (film)}} {{g|Leaves and rejoins team}} {{Last}}
+** {{apn|[[Jean Grey (Earth-TRN414)|Jean Grey]]|X-Men: Apocalypse|X-Men: Days of Future Past (film)}} {{Leaves}} {{Last}}
+** {{apn|[[Scott Summers (Earth-TRN414)|Cyclops (Scott Summers)]]|X-Men: Apocalypse|X-Men: Days of Future Past (film)}} {{Last}}
+** {{apn|[[Ororo Munroe (Earth-TRN414)|Storm (Ororo Munroe)]]|X-Men: Apocalypse|X-Men: Days of Future Past (film)}} {{Last}}
+** {{apn|[[Kurt Wagner (Earth-TRN414)|Nightcrawler (Kurt Wagner)]]|X-Men: Apocalypse|-}} {{Last}}
+** {{apn|[[Peter Maximoff (Earth-TRN414)|Quicksilver (Peter Maximoff)]]|X-Men: Apocalypse|-}} {{Last}}
+'''Supporting Characters:'''
+* {{apn|[[Erik Lehnsherr (Earth-TRN414)|Magneto (Erik Lehnsherr)]]|X-Men: Apocalypse|-}}  {{Last}}
+* {{Only Dies|[[Selene Gallio (Earth-TRN414)|Selene]]}}
+* {{Only Dies|[[Ariki (Earth-TRN414)|Ariki]]}}
+'''Antagonists:'''
+* {{Only|[[Phoenix Force (Earth-TRN414)|Phoenix]]}}
+* {{Only Dies|[[Vuk (Earth-TRN414)|Vuk]]}} {{Impersonates|[[Margaret (Earth-TRN414)|Margaret]]}}
+* {{Only Dies|[[Jones (Earth-TRN414)|Jones]]}}
+* Numerous unnamed [[D'bari (Race)|D'bari]] {{Only}}
+'''Other Characters:'''
+* {{Only Dies|[[John Grey (Earth-TRN414)|Dr. John Grey]]}} {{Flashback}}
+* {{Only Dies|[[Elaine Grey (Earth-TRN414)|Elaine Grey]]}} {{FlashOnly}}
+* {{Only Dies|[[Margaret (Earth-TRN414)|Margaret]]}}
+* {{Only|[[Alison Blaire (Earth-TRN414)|Dazzler]]}} {{Cameo}}
+* {{Only|[[Ben Hammil (Earth-TRN414)|Match]]}} {{Cameo}}
+'''Races and Species:'''
+* {{Flashback|[[Humans (Homo sapiens)|Humans]]}}
+* {{Flashback|[[Mutants (Homo superior)|Mutants]]}}
+* {{a|[[D'bari (Race)|D'bari]]}}
+'''Locations:'''
+* {{Flashback|[[Earth-TRN414]]}}
+** {{Flashback|[[Milky Way]]}}
+*** {{Flashback|[[Sol|Sol System]]}}
+**** {{Flashback|[[Earth]]}}
+***** {{Flashback|[[United States of America]]}}
+****** {{Flashback|[[New York (State)|New York]]}}
+******* {{Flashback|[[Westchester County]]}}
+******** {{Flashback|[[North Salem]]}}
+********* {{Flashback|[[Salem Center]]}}
+********** {{Flashback|[[Xavier's School for Gifted Youngsters]]}}
+******* [[Dutchess County]]
+******** [[Annandale-on-Hudson]]
+******* {{a|[[New York City]]}}
+******** {{a|[[Manhattan]]]]}}
+********* {{a|[[Central Park]]}}
+********* {{a|[[Fifth Avenue]]}}
+***** {{a|[[Genosha]]}}
+***** {{a|[[France]]}}
+****** {{a|[[Paris (France)|Paris]]}}
+***** {{a|[[Earth Orbit]]}}
+** {{1st|[[Shi'ar Galaxy]]}} {{FlashOnly}}
+*** {{g|[[D'bari System]]|Only appearance; destruction in flashback}}
+'''Items:'''
+* {{a|[[X-Uniforms]]}}
+* {{a|[[Cyclops' Visor]]}}
+* {{a|[[Cerebro (Mutant Detector)|Cerebro]]}}
+* {{a|[[Magneto's Helmet]]}}
+* {{a|[[Inhibitor Collar]]}}
+'''Vehicles:'''
+* {{a|[[X-Men Blackbird|X-Jet]]}}
+
+| Plot                    = Jean Grey is nearly killed during a rescue mission in space when she is hit by a mysterious cosmic force. Upon returning home, this force makes Jean much more powerful and much more unstable. Jean, losing control over her own powers, begins to unravel the very fabric that keeps the X-Men together. With the X-Men falling apart, they must find a way to unite to save Jean's soul and our planet from the aliens who wish to use this force to rule the galaxy.<ref>[[:File:Dark Phoenix Official Trailer HD 20th Century FOX|''Dark Phoenix'' Official Trailer]]</ref>
+
+| Cast                    = 
+*[[wikipedia:James McAvoy|James McAvoy]] as [[Charles Xavier (Earth-TRN414)|Professor Charles Xavier]]
+*[[wikipedia:Michael Fassbender|Michael Fassbender]] as [[Erik Lehnsherr (Earth-TRN414)|Erik Lehnsherr / Magneto]]
+*[[wikipedia:Jennifer Lawrence|Jennifer Lawrence]] as [[Raven Darkhölme (Earth-TRN414)|Raven Darkhölme / Mystique]]
+*[[wikipedia:Nicholas Hoult|Nicholas Hoult]] as [[Henry McCoy (Earth-TRN414)|Hank McCoy / Beast]]
+*[[wikipedia:Sophie Turner|Sophie Turner]] as [[Jean Grey (Earth-TRN414)|Jean Grey / Phoenix]]
+** Summer Fontana portrays eight-year old Jean
+*[[wikipedia:Tye Sheridan|Tye Sheridan]] as [[Scott Summers (Earth-TRN414)|Scott Summers / Cyclops]]
+*[[wikipedia:Alexandra Shipp|Alexandra Shipp]] as [[Ororo Munroe (Earth-TRN414)|Ororo Munroe / Storm]]
+*[[wikipedia:Evan Peters|Evan Peters]] as [[Peter Maximoff (Earth-TRN414)|Peter Maximoff / Quicksilver]]
+*[[wikipedia:Kodi Smit-McPhee|Kodi Smit-McPhee]] as [[Kurt Wagner (Earth-TRN414)|Kurt Wagner / Nightcrawler]]
+*[[wikipedia:Jessica Chastain|Jessica Chastain]] as [[Vuk (Earth-TRN414)|Vuk]]
+
+Additionally, [[wikipedia:Scott Shepherd (actor)|Scott Shepherd]] and Hannah Anderson appear as [[John Grey (Earth-TRN414)|John]] and [[Elaine Grey (Earth-TRN414)|Elaine Grey]]. [[wikipedia:Ato Essandoh|Ato Essandoh]] portrays [[Jones (Earth-TRN414)|Jones]]. [[wikipedia:Brian d'Arcy James|Brian d'Arcy James]] makes an appearance as the President of the United States. [[wikipedia:Halston Sage|Halston Sage]] and [[wikipedia:Lamar Johnson (actor)|Lamar Johnson]] cameo as [[Alison Blaire (Earth-TRN414)|Dazzler]] and [[Ben Hammil (Earth-TRN414)|Match]], respectively. [[Chris Claremont]] cameos as a White House guest. Kota Eberhardt and [[wikipedia:Andrew Stehlin|Andrew Stehlin]] appear as [[Selene Gallio (Earth-TRN414)|Selene Gallio]] and [[Ariki (Earth-TRN414)|Ariki]], respectively.
+
+| Notes                   = * 20th Century Fox announced the original November 2, 2018 release date for this film in April 2017, alongside dates for the films ''[[Deadpool 2]]'' and ''[[The New Mutants (film)|The New Mutants]]'',<ref>{{cite web|url=http://www.hollywoodreporter.com/news/deadpool-2-lands-june-2018-release-date-theaters-996562|title='Deadpool 2' Lands June 2018 Release Date|last=McClintock|first=Pamela|work=The Hollywood Reporter|date=22 April 2017|accessdate=15 June 2017}}</ref> but later pushed back the date for this film to February 14, 2019.<ref>{{cite web|url= http://deadline.com/2018/03/20th-century-fox-release-dates-bohemian-rhapsody-dark-phoenix-the-new-mutants-1202353890/|title= 20th Century Fox Shuffles Release Dates For ‘Bohemian Rhapsody’, ‘Dark Phoenix’ & More|work= Deadline|last= Ramos|first= Dino-Ray|date= March 26 2018|accessdate= March 27 2018}}</ref> This film was later pushed back again to its final release date June 7, 2019, taking the one of the then planned film ''Gambit''.<ref>{{cite web|url= https://deadline.com/2018/09/dark-phoenix-alita-battle-angel-deadpool-gambit-release-date-changes-1202473229/|title= ‘Alita’ Flies Out Of Christmas, ‘Dark Phoenix’ To Rise Summer, ‘Deadpool 2’ Re-release Hits Sked, ‘Gambit’ Now 2020 – Fox Date Changes|work= Deadline|last= D'Alessandro|first= Anthony|date= September 28, 2018|accessdate= September 28, 2018}}</ref>
+* On October 14th, 2017, it was announced that this film along with ''Deadpool 2'', had both wrapped filming.<ref>{{cite web|url= http://www.comingsoon.net/movies/news/895739-deadpool-2-and-x-men-dark-phoenix-have-both-wrapped-filming#/slide/1|title= Deadpool 2 and X-Men: Dark Phoenix Have Both Wrapped Filming|work= ComingSoon.net|date= 2017-10-14|accessdate= 2017-10-15}}</ref>
+| Trivia                  = * The film's climax was originally set in space. The movie underwent lengthy re-shoots to give the finale a more grounded feel,<ref>{{cite web|url=https://uk.movies.yahoo.com/x-men-dark-phoenix-reshot-ending-due-to-similarities-with-another-superhero-movie-exclusive-114022281.html|title='X-Men: Dark Phoenix' ending completely reshot due to 'parallels' with another superhero movie (exclusive)|work=Yahoo! Movies|first=Tom|last=Butler|date=29 May 2019|accessdate=31 May 2019}}</ref> and to avoid parallels with the endings of the films ''[[Captain America: Civil War]]'' and ''[[Captain Marvel (film)|Captain Marvel]]'', the latter of which was also in production at the same time as this film. According to writer and director [[Simon Kinberg]], the original ending didn't have the entirety of the X-Men assembled together, and the movie's use of characters was similar to ''Civil War'', in the sense that it had a big action action set piece where everyone is involved occurred at the end of the second act, whereas the third act involved fewer characters and a more intimate exploration of their emotions. Kinberg also admitted Jean's sequences in space displaying her full power were reminiscent of some of the visuals in ''Captain Marvel''.<ref>{{cite web|url=https://io9.gizmodo.com/simon-kinberg-likens-dark-phoenixs-original-ending-to-c-1835318288|title=Simon Kinberg Likens Dark Phoenix's Original Ending to Captain America: Civil War and Captain Marvel|work=io9|first=Charles|last=Pulliam-Moore|date=7 June 2019|accessdate=9 June 2019}}</ref>
+* According to studio insiders, the film's second premiere date delay from February to June 2019 was made to placate star director [[wikipedia:James Cameron|James Cameron]], who felt concern for the competition his film ''[[wikipedia:Alita: Battle Angel|Alita: Battle Angel]]'' would face, which premiered on January 2019.<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/we-were-wrong-behind-dark-phoenix-foxs-dismal-x-men-franchise-finale-plans-1216859|title="We Were Wrong": Behind Fox's 'Dark Phoenix' Debacle|work=The Hollywood Reporter|first=Borys|last=Kit|date=10 June 2019|accessdate=10 June 2019}}</ref>
+* While this is technically the last titled ''X-Men'' film made by 20th Century Fox, and therefore also the final entry in the main series of ''X-Men'' films, this is also technically the first in the ''X-Men'' film property to be distributed by Disney, after its acquisition of Fox in March 2019 (now 20th Century Studios).<ref name="Fox">{{cite web|url= https://www.hollywoodreporter.com/news/general-news/disney-closes-fox-deal-creating-global-content-powerhouse-1174498/|title= Disney Closes $71.3 Billion Fox Deal, Creating Global Content Powerhouse|work= THR|last= Szalai|first= Georg|coauthors= Bond, Paul|date= March 19, 2019|accessdate= October 17, 2021}}</ref>
+* According to writer and director Simon Kinberg, after it was settled on just being one film,<ref name="Two-parter">{{cite web|url= https://deadline.com/2019/06/dark-phoenix-bombs-at-the-box-office-reasons-why-1202629749/|title= ‘Dark Phoenix’ Bound To Lose $100M+ After Worst Domestic Opening In ‘X-Men’ Series: Here’s Why|work= Deadline|last= D'Alessandro|first= Anthony|date= June 9, 2019|accessdate= February 2, 2021}}</ref> this was originally planned to be the first in a new trilogy of ''X-Men'' films.<ref>{{cite web|url= https://www.hollywoodreporter.com/heat-vision/x-men-apocalypse-james-mcavoy-898091|title= James McAvoy, 'X-Men: Apocalypse' Cast Talk Future Franchise Films|work= THR|last= Lewis|first= Hilary|date= May 27, 2016|accessdate= September 6, 2020}}</ref> After Disney's acquisition of 20th Century Fox in March 2019,<ref name="Fox"/> said plans were scrapped, in favor of rebooting the franchise and integrating it into the [[Earth-199999|Marvel Cinematic Universe]].<ref>{{cite web|url=http://www.syfy.com/syfywire/disney-chief-looking-forward-to-x-men-ff-deadpool-in-mcu-future-of-avatar-and-star-wars|title=Disney Chief 'Looking Forward' to X-Men, FF, Deadpool in MCU, Future of Avatar and Star Wars|work=SYFY WIRE|first=Brian|last=Silliman|date=15 December 2017|accessdate=6 September 2020}}</ref><ref>{{cite web|url=http://deadline.com/2017/12/disney-fox-deal-bob-iger-digital-future-hulu-and-2b-cost-savings-1202226884/|title=Disney-Fox Deal: Bob Iger Discusses Digital Future, James Murdoch, Hulu and $2B Cost Savings|last=White|first=Peter|coauthors=Hayes, Dade|work=Deadline|date=14 December 2017|accessdate=26 December 2017}}</ref>
+* Prior to the re-shoots when they settled on using the D'bari, this film originally planned to have the [[Deviant Skrulls|Skrulls]] as its main antagonists.<ref>{{cite web|url= https://www.cinemablend.com/news/2474641/original-dark-phoenix-ending-included-skrulls-and-a-huge-new-york-battle-according-to-tye-sheridan|title= Original Dark Phoenix Ending Included Skrulls And A 'Huge' New York Battle, According To Tye Sheridan|work= CINEMABLEND|last= O'Connell|first= Sean|date= June 10, 2019|accessdate= September 22, 2020}}</ref><ref>{{cite web|url= https://comicbook.com/marvel/news/x-men-dark-phoenix-skrull-concept-art-better-than-mcu/|title= Recently Revealed X-Men: Dark Phoenix Skrull Designs Look Better than the MCU's Version|work= ComicBook.com|last= Barnhardt|first= Adam|date= August 9, 2019|accessdate= September 22, 2020}}</ref>
+* During pre-production, this film was initially planned to be a two-parter, before they settled on making it just one film.<ref>{{cite web|url= https://collider.com/olivia-munn-interview-lego-ninjago-movie-x-men-dark-phoenix/|title= Olivia Munn on 'The LEGO Ninjago Movie' & Returning for 'X-Men: Dark Phoenix'|work= Collider|last= Radish|first= Christina|date= September 26, 2017|accessdate= February 2, 2021}}</ref><ref name="Two-parter"/>
+* Before the role was re-written to be Vuk, Jessica Chastain was originally reported to be in talks to portray [[Lilandra]].<ref>{{cite web|url= https://deadline.com/2017/06/x-men-dark-phoenix-jennifer-lawrence-michael-fassbender-james-mcavoy-simon-kinberg-1202113290/|title= Fox Formalizes Simon Kinberg To Helm ‘X-Men: Dark Phoenix’; Jennifer Lawrence, Michael Fassbender, James McAvoy Back, Jessica Chastain In Talks|work= Deadline|last= Fleming|first= Mike, Jr.|date= June 17, 2017|accessdate= February 2, 2021}}</ref>
+* Before they settled on the Skrulls, and later the D'bari, early concept art showed that the [[Hellfire Club]] were originally planned to be this film's antagonists.<ref>{{cite web|url= https://www.cbr.com/dark-phoenix-concept-art-x-men-hellfire-club/|title= Dark Phoenix Concept Art Debuts X-Men Nemeses, The Hellfire Club|work= CBR|last= Chapman|first= Tom|date= December 19, 2019|accessdate= February 2, 2021}}</ref>
+* One of this film's planned sequels was to be a crossover with the film property of {{sl|The New Mutants (film)}}, which would've adapted the ''[[Inferno (Event)|Inferno]]'' storyline.<ref>{{cite web|url= https://www.comicbookmovie.com/x-men/new_mutants/new-mutants-3-wouldve-introduced-darkchilde-crossed-over-with-the-main-x-men-films-exclusive-a177671|title= NEW MUTANTS 3 Would've Introduced Darkchilde & Crossed Over With The Main X-MEN Films - EXCLUSIVE|work= ComicBookMovie.com|author= KingPatel|date= August 19, 2020|accessdate= February 2, 2020}}</ref> After Disney's acquisition of 20th Century Fox in March 2019,<ref name="Fox"/> any scenes that were setting it up got cut during post-production.<ref>{{cite web|url= https://theplaylist.net/josh-boone-new-mutants-interview-20200820/|title= Josh Boone Details How Fox-Disney Merger Affected ‘The New Mutants’ & How Movies Are “An Essential Service” [Interview]|work= The Playlist|last= Shaffer|first= Marshall|date= August 20, 2020|accessdate= February 2, 2021}}</ref>
+
+==Gallery==
+===Alternate Posters===
+<gallery>
+Dark Phoenix (film) poster 001.jpg
+Dark Phoenix (film) poster 002.jpg
+Dark Phoenix (film) poster 002 textless.jpg
+Dark Phoenix (film) poster 003.jpg
+Dark Phoenix (film) poster 003 textless.jpg
+Dark Phoenix (film) poster 004.jpg
+Dark Phoenix (film) poster 005.jpg
+Dark Phoenix (film) poster 006.jpg
+Dark Phoenix (film) poster 007.jpg
+Dark Phoenix (film) poster 008.jpg
+Dark Phoenix (film) poster 009.jpg
+Dark Phoenix (film) poster 010.jpg
+Dark Phoenix (film) poster 011.jpg
+Dark Phoenix (film) poster 012.jpg
+Dark Phoenix (film) poster 013.jpg
+Dark Phoenix (film) poster 014.jpg
+Dark Phoenix (film) poster 015.jpg
+Dark Phoenix (film) poster 016.jpg
+Dark Phoenix (film) poster 019.jpg
+Dark Phoenix (film) poster 018.jpg
+Dark Phoenix (film) poster 018 textless.jpg
+Dark Phoenix (film) poster 020.jpg
+Dark Phoenix (film) poster 002 textless alt.png
+Dark Phoenix (film) banner 001.jpg
+</gallery>
+===Videos===
+====Trailers====
+<gallery widths="300" spacing="small" hideaddbutton="true">
+Dark Phoenix - Official Trailer Global Premiere
+Dark Phoenix Teaser Trailer HD 20th Century FOX
+Dark Phoenix Official Trailer HD 20th Century FOX
+Dark Phoenix Final Trailer HD 20th Century FOX
+Dark Phoenix "Every Hero Has A Dark Side" TV Commercial 20th Century FOX
+Dark Phoenix "It Made You Stronger" TV Commercial 20th Century FOX
+Dark Phoenix "The X-Men's Final Battle" TV Commercial 20th Century FOX
+Dark Phoenix "We're X-Men" TV Commercial 20th Century FOX
+Dark Phoenix "She's Grown Too Powerful" TV Commercial 20th Century FOX
+Dark Phoenix "Final Battle" TV Commercial 20th Century FOX
+Dark Phoenix "This Ends Now" TV Commercial 20th Century FOX
+Dark Phoenix "The World Is On The Brink" TV Commercial 20th Century FOX
+Dark Phoenix "The X-Men Are On The Way" TV Commercial 20th Century FOX
+Dark Phoenix "They Fear You" TV Commercial 20th Century FOX
+Dark Phoenix “The X-Men’s Greatest Enemy” TV Commercial 20th Century FOX
+</gallery>
+====Featurette====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Dark Phoenix The X-Men Legacy 20th Century FOX
+Dark Phoenix Marvel Icons Chris Claremont & Louise Simonson 20th Century FOX
+Dark Phoenix A Phoenix Will Rise 20th Century FOX
+</gallery>
+====Movie Clip====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Dark Phoenix "New York Standoff" Clip 20th Century FOX
+Dark Phoenix "Chopper Fight" Clip 20th Century FOX
+Dark Phoenix "X-Women" Clip 20th Century FOX
+</gallery>
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[es:X-Men: Dark Phoenix (película)]]
+[[ru:Люди Икс: Темный Феникс (фильм)]]
+[[Category:20th Century Fox]]

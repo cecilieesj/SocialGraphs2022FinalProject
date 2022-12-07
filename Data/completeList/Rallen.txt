@@ -1,0 +1,52 @@
+{{Infobox character
+|image = Rallen3d.png
+|name = 
+|films = 
+|shorts = 
+|shows = 
+|games = ''[[Spectrobes]]''
+|rides = 
+|actor = 
+|actress = 
+|animator = 
+|voice = Steve Staley (English, webseries)<br>[[Yuri Lowenthal]] (English, Spectrobes Origins)
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = 
+|personality = 
+|appearance = 
+|occupation = 
+|alignment = Good
+|affiliations = 
+|goal = 
+|home = 
+|family = 
+|pets = 
+|friends = [[Jeena]]
+|minions = 
+|enemies = 
+|likes = 
+|dislikes = 
+|powers = 
+|possessions = 
+|weapons = 
+|fate = 
+|quote = }}
+'''Rallen''' is the protagonist of the ''[[Spectrobes]]'' series.
+
+==Information==
+He is a junior ranger and partner to [[Jeena]].
+
+{{CharacterStub}}
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Heroes]]
+[[Category:Disney characters]]
+[[Category:Disney Interactive Studios characters]]
+[[Category:Spectrobes]]
+[[Category:Characters introduced in video games]]
+[[Category:Protagonists]]
+[[Category:Teenagers]]

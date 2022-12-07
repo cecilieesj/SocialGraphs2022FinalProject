@@ -1,0 +1,20 @@
+{{Infobox film
+|image = Oilspot and lipstick.jpg
+|imagewidth = 250px
+|name = Oilspot and Lipstick
+|director = Michael Cedeno
+|producer = David Inglish
+|writer = 
+|studio = Late Night Movie Group
+|release = [[July 28]], [[1987]]
+|language = English
+}}
+'''''Oilspot and Lipstick''''' is a computer-generated animated short film screened at the SIGGRAPH conference held in Anaheim, California in [[1987]]. It was the earliest animated film from Disney that used computer animation. The group that made the short film called themselves the "Late Night Movie Group".
+
+The film has not been made available to the general public.
+
+==Summary==
+An experimental film from Disney's first computer graphics artists tells the story of Oilspot, a mechanical junkyard dog made of spare parts, who mistakenly wakes a junk monster. When the monster grabs his girlfriend, Lipstick, he rushes to her rescue.
+
+[[Category:Animated shorts]]
+[[Category:1987 films]]

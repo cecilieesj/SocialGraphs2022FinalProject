@@ -1,0 +1,19 @@
+{{Infobox film
+| name           = The Restless Sea
+| image          = Restless_sea.jpg
+| caption        = 
+| director       = 
+| producer       = 
+| music          = 
+| cinematography =  
+| studio         = [[Walt Disney Productions]]
+| distributor    = Bell Science
+| release       = [[1964]]
+| time        = 57 minutes
+| language       = English}}
+'''''The Restless Sea''''' is a [[1964]] educational animated feature-length film. It was produced by [[The Walt Disney Company|Disney]] as the final entry in the Bell Telephone Science Hour series. Unlike all the others, Dr. Frank Baxter didn't appear in this one.
+
+==Synopsis==
+Animated sequences illustrate the work of oceanographers in searching out complex and interwoven relationships of nature in the sea integrating the marine applications of many sciences. Filmed action from above and below the surface shows instruments which plunge through layers of sediment to obtain geological records and oceanographic equipment ranging from underwater television to research vessels.{{DEFAULTSORT:Restless Sea, The}}
+[[Category:Animated shorts]]
+[[Category:1964 shorts]]

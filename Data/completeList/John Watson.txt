@@ -1,0 +1,38 @@
+{{Infobox_character
+|name = John Watson
+|films = ''[[The Great Mouse Detective]]''
+|voice = [[Laurie Main]]
+|inspiration = [[Wikipedia:Dr. Watson|Dr. John H. Watson]] from the series of book by Sir Arthur Conan Doyle
+|fullname = John H. Watson
+|alias = Dear Watson<br>Dr. Watson
+|occupation = Doctor<br>Surgeon<br>Sherlock's assistant<br>Soldier (formerly)
+|home = 221B Baker Street, [[London]]
+|likes = Safety, helping, his wife
+|powers = Medical expertise
+|image = File-Wattson.png
+|family = 
+|dislikes = German music, war, guns
+|status = Active|partner=Maria Morstan (wife)}}
+'''Dr. John Watson''' is character in the Sherlock Holmes stories by Sir Arthur Conan Doyle. Watson is [[Sherlock Holmes]]' friend and assistant, and is the first person narrator of all but four stories in the Sherlock Holmes canon. He is a minor character from [[Walt Disney Animation Studios|Disney]]'s [[1986]] animated feature film, ''[[The Great Mouse Detective]]''.
+
+==Role in the film==
+Watson appears with Sherlock as silhouette cameos in the film. When introduced, Watson is observed by [[Basil of Baker Street|Basil]] and his friends while the former was discussing a case with Sherlock, and they soon depart their home to continue the investigations.
+
+==Trivia==
+*[[David Q. Dawson]] was based on Watson.
+*Unlike Basil Rathbone, voice clips of Nigel Bruce (Watson's actor in the ''Sherlock Holmes'' films) were not used for the cameo part of Watson.
+*[[Jude Law]], who played Dr. Watson in [[Guy Ritchie]]'s ''Sherlock Holmes'' and ''Sherlock Holmes'': ''A Game of Shadows'' and [[Martin Freeman]], who played Dr. Watson on the BBC television series ''Sherlock'', both starred in the [[Marvel Cinematic Universe]]. Law played [[Yon-Rogg]] and Freeman played [[Everett Ross]].
+
+{{The Great Mouse Detective}}
+{{DEFAULTSORT:Watson, John}}
+[[Category:The Great Mouse Detective characters]]
+[[Category:Doctors]]
+[[Category:Swordsmen]]
+[[Category:Detectives]]
+[[Category:English characters]]
+[[Category:Adults]]
+[[Category:Animated characters]]
+[[Category:Characters in the Disney animated features canon]]
+[[Category:Disney characters]]
+[[Category:Heroes]]
+[[Category:Unseen characters]]

@@ -1,0 +1,84 @@
+{{Marvel Database:Film Template
+| Image                   = En Dwi Gast (Earth-16828) and Darryl Jacobson (Earth-16828) from Team Darryl 001.png
+| Aliases                 = 
+
+| Directors               = Taika Waititi
+| Producers               = Kevin Feige; Brad Winderbaum
+| ScreenplayWriters       = Taika Waititi
+| StoryWriters            = 
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Walt Disney Studios Home Entertainment
+| Running Time            = 6 minutes, 8 seconds
+| Rating                  = 
+| Budget                  = 
+| Release Date            = February 20, 2018
+| IMDB ID                 = 8023090
+| Marvel Movies           = 
+| MCU                     = Team Darryl
+
+| Previous Film           = Team Thor: Part 2
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{a|[[Darryl Jacobson (Earth-16828)|Darryl Jacobson]]}}
+'''Supporting Characters:'''
+* Darryl's band {{1st}}
+** {{Joins|[[En Dwi Gast (Earth-16828)|Grandmaster (En Dwi Gast)]]|Darryl's band}}
+** {{Only Dies|[[David Richardson (Earth-16828)|David Richardson]]}}
+** Unnamed tambourine player {{1st}}
+<!--'''Antagonists:'''
+* <br/>-->
+'''Other Characters:'''
+* {{Minor|Avengers (Earth-16828)|Avengers|Drawing in recap}}
+** {{RecapOnly|[[Thor Odinson (Earth-16828)|Thor]]}}
+** {{Minor|Anthony Stark (Earth-16828)|Iron Man (Tony Stark)|Drawing in recap}}
+** {{Minor|Steven Rogers (Earth-16828)|Captain America (Steve Rogers)|Drawing in recap}}
+** {{Minor|Clinton Barton (Earth-16828)|Hawkeye (Clint Barton)|Drawing in recap}}
+** {{Minor|Vision (Earth-16828)|Vision|Drawing in recap}}
+** {{Minor|[[Bruce Banner (Earth-16828)|Hulk (Bruce Banner)]]}}
+* {{Photo|[[Topaz (Earth-16828)|Topaz]]}} {{Deceased}}
+* {{Invoked|[[Yahweh (Earth-16828)|God (Yahweh)]]}}
+* The How to Channel <small>(YouTube channel)</small> {{Named}}
+* Tech Guru <small>(YouTube channel)</small> {{Named}}
+* Useless Talents <small>(YouTube channel)</small> {{Named}}
+* John Smith <small>(YouTube channel)</small> {{Named}}
+* Cute Animals <small>(YouTube channel)</small> {{Named}}
+* Mrs. Richardson {{Mentioned}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{RecapOnly|[[Asgardians]]}}
+* {{Minor|Synthezoids||Drawing in recap}}
+* {{Drawing|[[Horses]]}}
+* {{Drawing|[[Cyclopes]]}}
+* {{OnScreenOnly|[[Dogs]]}}
+* {{OnScreenOnly|[[Cats]]}}
+'''Locations:'''
+* {{a|[[Earth-16828]]}}
+** {{a|[[Earth]]}}
+*** {{RecapOnly|[[Australia]]}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[California (State)|California]]}}
+***** {{a|[[Los Angeles]]}}
+****** {{Mentioned|[[Hollywood]]}}
+** {{Mentioned|[[Sakaar]]}}
+'''Items:'''
+* {{RecapOnly|[[Thor's Battle Armor]]}}
+* {{Minor|Captain America's Uniform||Drawing in recap}}
+* {{Minor|Captain America's Shield||Drawing in recap}}
+* {{Minor|Hawkeye's Bow||Drawing in recap}}
+* {{a|[[Melt Stick]]}}
+<!--'''Vehicles:'''
+* <br/>-->
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Jeff Goldblum|Jeff Goldblum]] as [[En Dwi Gast (Earth-16828)|The Grandmaster]]
+* Daley Pearson as [[Darryl Jacobson (Earth-16828)|Darryl Jacobson]]
+
+| Notes                   = * Released as a bonus feature on the digital and Blu-ray release for the film ''[[Thor: Ragnarok]]''.
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Marvel Studios|Marvel Films]]
+}}
+[[Category:Short Films]]

@@ -1,0 +1,24 @@
+{{Infobox character
+|image = Clerk penny.jpg
+|name = Clerk Penny
+|games = ''[[Toontown Online]]''
+|occupation = Clerk
+|appearance = Citrine duck, large eyes and beak, lavender shirt
+|alignment = Good/Neutral}}
+'''Clerk Penny''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC citrine [http://toontown.wikia.com/wiki/Duck Duck] and clerk in [http://toontown.wikia.com/wiki/The_Brrrgh The Brrrgh's] [http://toontown.wikia.com/wiki/Goofy%27s_Gag_Shop Goofy's Gag Shop].
+
+==SOS Toon==
+﻿Clerk Penny is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. She is a 4-star [http://toontown.wikia.com/wiki/Trap_Gags Trap ]SOS Toon. When called upon, she will deploy [http://toontown.wikia.com/wiki/Trapdoor Trapdoors] in front of all [http://toontown.wikia.com/wiki/Cogs cogs] in play. She will not deploy Trap Gags on trapped-cogs or soon-to-be trapped.
+
+==Trivia==
+﻿*All Trap SOS Toons are clerks working in Goofy's Gag Shop; [[Clerk Will]], [[Clerk Clara]], and [[Clerk Ray]] are among these.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Ducks]]
+[[Category:Females]]
+[[Category:Characters]]
+[[Category:Characters introduced in video games]]
+[[Category:Characters in video games]]
+[[Category:Animated characters]]
+{{Toontown Online}}

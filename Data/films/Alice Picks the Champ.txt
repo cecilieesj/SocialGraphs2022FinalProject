@@ -1,0 +1,31 @@
+{{Infobox film
+|image = AlicePicksTheChamp.jpg
+|name = Alice Picks the Champ
+|caption = Alice Picks the Champ title.
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[July 30]], [[1925]]
+|preceded = ''[[Alice Wins the Derby]]''
+|followed = ''[[Alice's Tin Pony]]''
+}}
+'''''Alice Picks the Champ''''' is an animated short film that is part of the ''[[Alice Comedies]]'' that were released by Winkler Pictures in [[1925]]. It was in black and white and silent.
+
+==Summary==
+Alice and Julius visit Pete's gym where he takes on all comers in the boxing ring. Julius, of course, gets into the ring with him in a no holds barred boxing match.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1925-champ-2.jpg
+1925-champ-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=29 Alice Picks the Champ] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1925 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Pete Shorts]]

@@ -1,0 +1,44 @@
+{{Infobox Film
+|image = Partly Cloudy title card.png
+|director = [[Peter Sohn]]
+|studio = [[Pixar|Pixar Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release =[[ May 29]], [[2009]]
+|time = 5 minutes, 45 seconds
+|preceded = ''[[BURN-E]]''
+|followed = ''[[Dug's Special Mission]]''}}'''''Partly Cloudy''''' is a [[Pixar]] short film released with the theatrical release of ''[[Up]]''. [[Peter Sohn]], the voice of [[Emile]] from ''[[Ratatouille]]'', makes his directorial debut on the film.
+
+==Plot==
+All day long, cheerful cloud people in the sky make cute and cuddly babies, such as human boys and girls, kittens, puppies, and other creatures, and give them to storks for delivery to the expectant parents. However, one lonely gray cloud named [[Gus (Partly Cloudy)|Gus]] has the task of creating animals who are cute, but not so cuddly. His delivery stork named [[Peck]] gets the worst of it, being bitten by a crocodile, butted by a bighorn sheep, and pricked by a porcupine. When Peck sees that his next delivery is to be a baby shark, he grows more than a little fearful, and flies away. Feeling rejected, despondent, and angry, Gus unleashes a brief thunderstorm, then begins to cry with rain pouring from below him. Peck soon returns with a football helmet and shoulder pads, created for him by another cloud to keep him safe, proving that he was never going to abandon the gray cloud. Gus instantly cheers up and gives Peck an electric eel to deliver, which shocks him despite the protective equipment; this time, though, Peck remains in good, albeit slightly frazzled spirits.
+
+==Voice Cast==
+*[[Tony Fucile]]: [[Peck]] the Stork / [[Gus (Partly Cloudy)|Gus]]
+*Lori Richardson: Female voices
+
+==Production==
+From [https://www.pixar.com/partly-cloudy Pixar.com]
+:''"The challenge to make characters from clouds was one of the more daunting technical aspects for director Pete Sohn and his crew. Because a cloud is made up of nothing more than moisture and light, the designers and animators of ''Partly Cloudy'' had a difficult time in determining what Gus should ultimately look like. Should Gus be more "whispy and gassy" or "ghost-like"? They finally settled on a traditional puffy cloud."''
+
+==Awards==
+*Won: International 3D Society Award for Short Motion Picture/Narrative - Bob Whitehill, 3D Supervisor
+
+== Trivia ==
+
+* This is the second Pixar short film to feature 5 minutes, after ''[[Presto]].''
+
+==Gallery==
+<gallery position="center" captionalign="center">
+Gus-Peck-Partly-Cloudy.jpg
+</gallery>
+
+{{DISPLAYTITLE:''Partly Cloudy''}}
+[[es:Partly Cloudy]]
+[[fr:Passages nuageux]]
+[[pt-br:Parcialmente Nublado]]
+[[ru:Переменная облачность]]
+[[zh:晴時多雲]]
+[[Category:Animated shorts]]
+[[Category:Up]]
+[[Category:Pixar shorts]]
+[[Category:2009 shorts]]
+[[Category:3-D films]]

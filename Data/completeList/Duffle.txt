@@ -1,0 +1,46 @@
+{{Upcoming|media=character}}
+{{Infobox character
+|image = Duffle.png
+|films = ''[[Strange World]]'' (upcoming)
+|animator = 
+|designer = 
+|voice = [[Alan Tudyk]]
+|model = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = 
+|occupation =Pilot 
+|affiliations = 
+|home = 
+|likes = 
+|dislikes = 
+|powers = 
+|paraphernalia =
+|status = Active
+|parents = 
+|siblings = 
+|family = 
+|partner = 
+|children = 
+|pets = 
+}}
+'''Duffle''' is a character from the upcoming [[2022]] [[Walt Disney Animation Studios|Disney]] animated feature film, ''[[Strange World]]''. He is the pilot of one of the ships used by the Clades to venture into the new world.
+
+==Background==
+===Official Description===
+
+==References==
+{{Reflist}}
+{{CharacterStub}}
+{{Strange World}}
+[[pt-br:Duffle]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Animated characters]]
+[[Category:Strange World characters]]
+[[Category:Characters in the Disney animated features canon]]
+[[Category:Heroes]]
+[[Category:Pilots]]
+[[Category:Adults]]

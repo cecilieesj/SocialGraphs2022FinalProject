@@ -1,0 +1,44 @@
+{{Infobox film
+|image = Ss-busybeavers.jpg
+|imagewidth = 250px
+|name = The Busy Beavers
+|director = [[Burt Gillett]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = Walt Disney
+|music = [[Frank Churchill]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[June 22]], [[1931]]
+|time = 7:07
+|preceded = ''[[The China Plate]]''
+|followed = ''[[The Cat's Out]]''}}
+'''''The Busy Beavers''''' is a black-and-white ''[[Silly Symphony]]'' that was released on [[June 22]], [[1931]].
+
+==Synopsis==
+The beavers work on a marvelous dam. But when the floods come, all that work looks like it has gone to waste.
+
+==Releases==
+===Television===
+*''Donald's Quack Attack'', episode #80
+'''DVD'''
+*''[[Walt Disney Treasures: Wave One|Walt Disney Treasures]]: Silly Symphonies''
+
+==Gallery==
+<gallery captionalign="center" position="center">
+14205.jpg
+14206.jpg
+14207.jpg
+14210.jpg
+14211.jpg
+14212.jpg
+BUSY_BEAVERS.png
+The Busy Beavers Reissued Titles.jpeg|Reissued Titles
+</gallery>
+
+{{Silly Symphony}}
+{{DEFAULTSORT:Busy Beavers, The}}
+[[Category:Animated shorts]]
+[[Category:Silly Symphonies]]
+[[Category:1931 shorts]]

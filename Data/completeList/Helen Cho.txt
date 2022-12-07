@@ -1,0 +1,60 @@
+{{Infobox character
+|image = Profile - Doctor Helen Cho.png
+|name = Helen Cho
+|films = ''[[Avengers: Age of Ultron]]''
+|shorts = 
+|shows = 
+|games = 
+|actress = [[Claudia Kim]] 
+|voice = 
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname = Doctor Helen Cho
+|alias = Doctor
+|occupation = Geneticist
+|affiliations = [[Stark Industries]] 
+|home =[[Wikipedia:Seoul|Seoul]] (formerly)<br>[[Michigan]] 
+|family = 
+|friends = [[Avengers]] ([[Iron Man]], [[Thor Odinson|Thor]], [[Hawkeye]], [[Hulk]], [[Black Widow]], [[Captain America]], [[Vision]] {{Small|(co-creation)}}), [[Maria Hill]]
+|minions = 
+|enemies = [[Ultron]]
+|likes = Science, technology
+|dislikes = Ultron's attacks
+|status = Active
+|quote = "Did you expect a thank you note?" }}'''Helen Cho''' is a geneticist and a friend of the [[Avengers]]. She is portrayed by [[Claudia Kim]].
+
+==Appearances==
+===''[[Avengers: Age of Ultron]]''===
+After the victory of the Avengers over [[HYDRA]], Helen Cho was summoned by [[Iron Man|Tony Stark]] to attend the wounds of [[Hawkeye|Clint Barton]], who was severely wounded during the battle. While Cho healed Barton, [[Hulk|Bruce Banner]] was surprised how the machine created tissues, which she replied that this was the future and that soon they would no longer need Stark's armors to save the world. Stark arrived and told her that that was the plan, besides he invited her to a party, to which she agreed to attend only because Thor was going to attend the party.
+
+She eventually attended the party and stayed to the end of this and witnessed how the Avengers challenged each other to lift Mjolnir. As they all failed in the attempt, Thor told them that none was worthy of carrying his magical hammer. Suddenly, [[Ultron]] burst into the party and attacked them by Iron Legionnaires. When Cho was about to be attacked by a Legionnaire, Ultron ordered the drone not to attack her, as he was interested in her technology. The next day, she and her [[Avengers|friends]] discussed the events of the night before. Cho was surprised and asked Stark why his own invention would want them dead.
+
+Days later, Ultron and his [[Ultron Sentries|sentries]] broke into her laboratory and ordered her to build a new body for him. As she did not want to cooperate with him, a sentry used Loki's scepter to take control over her. Under Ultron's control, Cho built the new body, and also she was surprised at how her cradle and the [[Vibranium]] particles were consistent with each other. Ultron then revealed to her that the gem was actually an [[Infinity Stones|infinity stone]]. Eventually, she was released from the mind control by [[Scarlet Witch|Wanda Maximoff]], who found out Ultron's true intentions. Ultron attacks her after she disconnects Ultron's mind and the synthetic body. When [[Captain America]] arrived, she advises him not to destroy the new body as the gem on his forehead was too powerful.
+
+After Ultron's defeat, Helen Cho was seen working at the [[New Avengers Facility]], the new headquarters of the Avengers.
+
+==Trivia==
+* In the comics, Helen Cho is the mother of [[Amadeus Cho]].
+
+==Gallery==
+<gallery position="center">
+Dr. Helen Cho AOU 01.jpg
+Dr. Helen Cho AOU 02.jpg
+SentryHelenCho-AoU.png
+</gallery>
+
+{{Marvel Cinematic Universe}}
+{{DEFAULTSORT:Cho, Helen}}
+[[pt-br:Helen Cho]]
+[[Category:The Avengers characters]]
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Live-action characters]]
+[[Category:Females]]
+[[Category:Scientists]]
+[[Category:Asian characters]]
+[[Category:Acquired characters]]
+[[Category:Characters Under Spells]]
+[[Category:Heroines]]

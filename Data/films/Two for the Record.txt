@@ -1,0 +1,26 @@
+{{Infobox film
+|name        = Two for the Record
+|director    = 
+|producer    = 
+|writer      = 
+|distributor = Walt Disney Productions
+|language    = English
+|image = 1954-tworecord-1.jpg
+|imagewidth = 250px
+|release = [[April 23]], [[1954]]}}
+'''''Two for the Record''''' is an animated short containing two segments from ''[[Make Mine Music]]'': "[[All the Cats Join In]]" and "[[After You've Gone]]".
+
+==Gallery==
+<gallery>
+Two for the Record title.jpg
+41609.jpg
+42108.jpg
+</gallery>
+
+{{Make Mine Music}}
+[[Category:Films]]
+[[Category:Animated shorts]]
+[[Category:1954 shorts]]
+[[Category:Make Mine Music]]
+[[Category:Compilation films]]
+[[Category:Unrated films]]

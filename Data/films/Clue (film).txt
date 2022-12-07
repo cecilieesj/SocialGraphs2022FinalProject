@@ -1,0 +1,35 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox_film
+|name = Clue
+|image = 
+|director = [[James Bobin]]
+|writer = Oren Uziel
+|producer = Stephen Davis<br>Josh Feldman<br>Brian Goldner<br>Greg Mooradian<br>[[Ryan Reynolds]]
+|starring = [[Ryan Reynolds]]
+|studio = [[20th Century Studios]]<br>Allspark Pictures<br>[[Maximum Effort]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|music = 
+|language = English
+|editor = 
+|cinematography = 
+|release = 
+|imdb_id = 1385861}}
+'''''Clue''''' is an upcoming American comedy mystery film, directed by [[James Bobin]] and written by Rhett Reese and Paul Wernick. It is based on the board game of the {{WPS|Cluedo|same name}}.
+
+==Cast==
+*[[Ryan Reynolds]] as TBA
+
+==Production==
+On January 11, 2018, ''Variety'' reported that that a new adaptation of the popular Hasbro board game was in development at 20th Century Fox, with Ryan Reynolds producing while Rhett Reese and Paul Wernick write the screenplay.<ref>[https://variety.com/2018/film/news/ryan-reynolds-clue-movie-fox-1202672829/ Ryan Reynolds Signs First-Look Deal at Fox With ‘Clue’ Movie in the Works]</ref>
+
+On February 10, 2022, ''Deadline'' reported that [[James Bobin]] had been hired to direct the film.<ref>[https://deadline.com/2020/02/james-bobin-clue-movie-ryan-reynolds-1202856873/ James Bobin In Talks To Direct ‘Clue’ Movie At 20th Century]</ref>
+
+==References==
+{{Reflist}}
+
+{{DISPLAYTITLE:''Clue''}}
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:20th Century Studios films]]
+[[Category:Upcoming]]

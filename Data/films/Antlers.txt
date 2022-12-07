@@ -1,0 +1,71 @@
+{{WarningAlert}}
+{{Infobox film
+|image = Antlers Official Poster.jpg
+|name = Antlers
+|director = Scott Cooper
+|producer = [[Guillermo del Toro]]<br>David S. Goyer<br>J. Miles Dale
+|writer = C. Henry Chaisson<br>Nick Antosca<br>Scott Cooper<br>Nick Antosca (novel)
+|starring = [[Keri Russell]]<br>Jesse Plemons<br>Jeremy T. Thomas<br>Graham Greene<br>Scott Haze<br>Rory Cochrane<br>Amy Madigan
+|music = Javier Navarrete
+|cinematography = Florian Hoffmeister
+|editor = Dylan Tichenor
+|studio = [[Searchlight Pictures]]<br>Double Dare You Productions<br>Phantom Four<br>[[TSG Entertainment]]
+|distributor = Searchlight Pictures
+|release = [[October 29]], [[2021]]
+|time = 
+|language = English
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|website = 
+|imdb_id = 7740510}}
+'''''Antlers''''' is a supernatural horror film. It is directed by Scott Cooper and written by C. Henry Chaisson, Nick Antosca, and Scott Cooper. The film is based on the short story "The Quiet Boy" by Nick Antosca. The film stars [[Keri Russell]], Jesse Plemons, Jeremy T. Thomas, Graham Greene, Scott Haze, Rory Cochrane, and Amy Madigan.
+
+The film was scheduled to be released by [[Walt Disney Studios Motion Pictures]] through the [[Searchlight Pictures]] banner on [[April 17]], [[2020]], but has been delayed to [[February 19]], [[2021]], and again, it was delayed to [[October 29]], [[2021]], due to the coronavirus outbreak.<ref name="Delayed">{{Cite web|url=https://www.nydailynews.com/snyde/ny-disney-delays-mulan-release-amid-coronavirus-concerns-20200312-uvouoxesc5dixmvxrathzd6y2a-story.html|title=Disney delays ‘Mulan’ release and two other movies amid coronavirus concerns|first=Lauren|last=Thiesen|date=March 12, 2020|accessdate=March 12, 2020|publisher=New York Daily News}}</ref>
+
+==Synopsis==
+Julia Meadows, an Oregon teacher, and Paul, her sheriff brother, became entangled with a young student at her school who is revealing a risky secret with scary consequences.
+
+==Cast==
+*[[Keri Russell]] as Julia Meadows
+*Jesse Plemons as Paul Meadows
+*Jeremy T. Thomas as Lucas Weaver
+*Graham Greene as Warren Stokes
+*Scott Haze as Frank Weaver
+*Rory Cochrane as Dan Lecroy
+*Amy Madigan as Principal Booth
+*Cody Davis as Clint
+*Sawyer Jones as Aiden Weaver
+*Katelyn Peterson as young Julia Meadows
+*Jake T. Roberts as forensic officer
+
+==Videos==
+<gallery position="center" captionalign="center">
+ANTLERS Official Teaser HD FOX Searchlight
+ANTLERS Official Trailer HD FOX Searchlight
+ANTLERS Final Trailer HD FOX Searchlight
+ANTLERS - Coming to Digital and Blu-ray - Searchlight Pictures-2
+ANTLERS - "The Three Bears" Clip - Searchlight Pictures-2
+ANTLERS - “I Just Have to Feed Him” Clip - Searchlight Pictures-2
+ANTLERS - “Forest Attack” Clip - Searchlight Pictures-2
+ANTLERS - Anchored in Myth - Searchlight Pictures-2
+</gallery>
+
+==Gallery==
+<gallery position="center">
+Antlers poster.jpg|Teaser poster
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{DISPLAYTITLE:''Antlers''}}
+[[pt-br:Espíritos Obscuros]]
+[[Category:Films]]
+[[Category:20th Century Studios films]]
+[[Category:Articles containing mature content]]
+[[Category:Live-action films]]
+[[Category:Films based on books]]
+[[Category:R-rated films]]
+[[Category:2021 films]]

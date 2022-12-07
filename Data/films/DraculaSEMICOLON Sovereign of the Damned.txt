@@ -1,0 +1,62 @@
+{{Marvel Database:Film Template
+| Image                   = Yami no Teio Kyuketsuki Dracula.jpg
+| Aliases                 = 闇の帝王 吸血鬼ドラキュラ<br>Dracula: The Vampire Emperor of Darkness<br>Dracula: Sovereign of the Damned
+
+| Directors               = Minoru Okazaki; Akinori Nagaoka
+| Producers               = Yoshiaki Koizumi; Yoshifumi Hatano; Takeyuki Suzuki
+| ComicWriters            = [[Marv Wolfman]]; [[Gene Colan]]; [[Tom Palmer]]
+| StoryWriters            = 
+| ScreenplayWriters       = Tadaaki Yamazaki
+| Musicians               = Seiji Yokoyama
+| Cinematographers        = 
+| Editors                 = 
+| ProductionCompanies     = Toei Animation
+| Distributors            = TV Asahi
+| Running Time            = 94 minutes
+| Rating                  = 
+| Language                = Japanese
+| Budget                  = 
+| Release Date            = August 19, 1980
+
+| IMDB ID                 = 0412665
+| Marvel Movies           = Dracula: Sovereign of the Damned
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Rachel van Helsing (Earth-800801)|Rachel van Helsing]]}}
+* {{1st|[[Frank Drake (Earth-800801)|Frank Drake]]}}
+* {{1st|[[Quincy Harker (Earth-800801)|Quincy Harker]]}}
+'''Supporting Characters:'''
+* {{1st|[[Abraham van Helsing (Earth-800801)|Abraham van Helsing]]}}
+'''Antagonists:'''
+* {{1st|[[Vlad Dracula (Earth-800801)|Dracula]]}}
+* {{1st|[[Lilith Drake (Earth-800801)|Lilith Drake]]}}
+'''Other Characters:'''
+* {{1st|[[Domini (Earth-800801)|Domini]]}}
+* {{1st|[[Janus Tepes (Earth-800801)|Janus Tepes]]}}
+* {{1st|[[Satan (Earth-800801)|Satan]]}}
+* {{1st|[[Anton Lupeski (Earth-800801)|Anton Lupeski]]}}
+* {{1st|[[Wheeler (Earth-800801)|Wheeler]]}}
+* {{1st|[[Mallisa (Earth-800801)|Mallisa]]}}
+* {{1st|[[Torgo (Earth-800801)|Torgo]]}}
+'''Locations:'''
+* {{1st|[[Earth-800801]]}}
+** {{1st|[[Transylvania]]}}
+** {{1st|[[Castle Dracula]]}}
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Foreign Films|Marvel Films]]
+}}
+[[Category:Toei]]

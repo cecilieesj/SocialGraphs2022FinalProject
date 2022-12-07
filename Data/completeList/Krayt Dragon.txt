@@ -1,0 +1,63 @@
+{{Species_Infobox
+|image=GreaterKraytDragonMando.png
+|name=Krayt Dragon
+|films=''Star Wars: A New Hope'' (as a skeleton)
+|shows=''[[The Mandalorian]]'' 
+|games= ''[[Star Wars: Commander]]''
+|appearance=Large dragon with ten legs, two horns, thick scales, and a long whiplike tail
+|behaviour=Burrows through sand while hunting, eats whatever it catches
+|occupation=Apex Predator of Tatooine
+|alignment=Neutral
+|home=[[Tatooine]]
+|abilities=Swimming through sand<br>Tunneling through rock
+|weapons=Claws, teeth, size, acid venom
+|fate= A greater krayt dragon was killed by [[Din Djarin]], [[Tusken Raiders]], and the people of Mos Pelgo
+}}
+The '''krayt dragon''' is an apex reptilian predator of the planet [[Tatooine]] in the ''[[Star Wars]]'' universe. Divided into two subspecies, the '''canyon krayt''' and the '''greater krayt''', it is one of the largest creatures in the galaxy alongside other such animals as the Karnex Dragon of Drahgor III and the Zillo Beast of Malastare.  
+
+==Background==
+===Behavior===
+The greater krayt dragon was extremely dangerous, as it hunted large animals such as [[Bantha|banthas]], [[Dewbacks|dewbacks]], rontos, and even [[Sarlacc|sarlaccs]]. Little is known about the canyon krayt, but it was feared in equal measure. When it felt threatened, the krayt dragon would spit its venom, and was not hesitant about trying to kill its enemies in retaliation when it was attacked. In spite of this, it was an animal by all means and could be easily tricked.
+
+===Physical appearance===
+[[File:GreaterKraytDragonMando.png|left|thumb|A greater krayt dragon attacks the hunting party of tusken raiders and people from Mos Pelgo that tried to kill it.]]
+The krayt dragon differs substantially in appearance between the two subspecies; the much smaller canyon krayt resembles a large, four-legged lizard with two horns and a long tail, while the greater krayt dragon possessed horns, ten legs for swimming through the sand, and a longer, whiplike tail. Both types had razor-sharp teeth for tearing meat. The beasts could create valuable dragon pearls in their stomachs. The greater krayt dragon also could spit a highly acidic venom that instantly dissolved organic material it came into contact with. Its scales were so hard that blaster fire had no effect on it, and even its softer underbelly was resistant to explosions from mining detonators. Greater krayts were so strong they could also tunnel though mountains.  
+
+==Appearances==
+===''Star Wars Episode IV: A New Hope''===
+A krayt dragon's skeleton appears briefly as [[C-3PO]] wandered lost through the sand dunes on Tatooine before being picked up by Jawas. [[Obi-Wan Kenobi]] also mimicked the sound of one to scare away Tusken Raiders, who attacked [[Luke Skywalker]], knocking him unconscious.
+
+===''[[The Mandalorian]]''===
+[[File:Krayt Dragon spit-MS2.png|left|thumb|A krayt dragon spitting venom at the hunting party of Tusken Raiders and Mos Pelgo villagers]]
+
+During an encounter with marshal Cobb Vanth on Tatooine, the Mandalorian [[Din Djarin]] was alerted to its presence when the beast burrowed through the mining town of Mos Pelgo, where it attacked and ate one of the town's banthas. Explaining the situation to Djarin, Cobb made a deal with the Mandalorian, offering him the scavenged armor of Boba Fett in exchange for killing the krayt dragon. Accepting the deal, Djarin took Vanth to meet with the local tribe of [[Tusken Raiders]], who likewise wanted to kill the dragon. To this end, they led the pair to the beast's lair in an old Sarlacc pit, telling them they had been studying it and offering it prey to keep it asleep for longer time periods. After making a deal with the Tuskens to help kill it in exchange for peace with the people of Mos Pelgo, Vanth and Djarin rallied the villagers into working with the Tusken Raiders, though there were initial tensions between the two factions.  
+
+Entering the beasts lair, the hunting party dug a pit, filling it with explosives to try and kill the dragon by hitting its belly from underneath. However, as the dragon attacked and the explosives failed to work after the beast was lured out of its hole, Din Djarin was forced to improvise as the dragon rampaged. Taking a bantha that carried the remaining explosives, Djarin allowed himself to be eaten to ensure the explosives entered the dragon's stomach. Electrocuting it to make the krayt dragon spit him out, Djarin remotely detonated the explosives, killing the dragon from the inside. With the krayt dragon dead, the people of Mos Pelgo went home, while the Tusken Raiders were given the dragon's meat and valuable pearls as part of the agreement with the villagers. Djarin himself, on friendly terms with the Tuskens, was given some of the meat from the dragon for himself.  
+
+==Trivia==
+*A fiberglass skeleton of the greater krayt dragon was made for ''Star Wars Episode IV: A New Hope''. It was based off a diplodocus neck and skull. To this day, the skeleton remains where it was laid in the Tunisian Desert.  
+**This is the same skeleton that was featured as a sauropod dinosaur in ''[[One of Our Dinosaurs is Missing]]''.
+*The Krayt Dragon is one of the largest creatures in the ''Star Wars'' universe.
+*Krayt Dragons are one of several dragons to appear in the ''Star Wars'' universe.
+* According to LucasFilm creative art manager Phil Szostak, artist Doug Chiang, who designed the greater krayt dragon for ''The Mandalorian'' worked closely with artist and illustrator Terryl Whitlatch, who had previously designed the creature for the book "The Wildlife of Star Wars" when creating the creature for the series. Chiang's design paid homage to her original artwork as a result.
+*The full body of the krayt dragon is never seen onscreen, and only the head and neck appear out of the sand when it attacks.
+
+==External links==
+*{{SWW|Krayt dragon}}
+
+{{Star Wars}}
+[[Category:Characters]]
+[[Category:Character groups]]
+[[Category:Star Wars characters]]
+[[Category:The Mandalorian characters]]
+[[Category:Dragons]]
+[[Category:Star Wars creatures]]
+[[Category:Creatures]]
+[[Category:Live-action characters]]
+[[Category:Neutral characters]]
+[[Category:Aliens]]
+[[Category:Monsters]]
+[[Category:Acquired characters]]
+[[Category:Characters in video games]]
+[[Category:Comic characters]]
+[[Category:Giants]]

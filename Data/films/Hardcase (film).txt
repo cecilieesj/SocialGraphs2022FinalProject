@@ -1,0 +1,43 @@
+{{Marvel Database:Film Template
+| Image                   = Hardcase (film).jpg
+| Aliases                 = 
+
+| Directors               = Darren Doane
+| Producers               = Bill Doane; Darren Doane
+| ScreenplayWriters       = Darren Doane; James Hudnall
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = Rick Pratt
+| Distributors            = Malibu Films
+| Running Time            = 6 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = 1993
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{a|[[Tom Hawke (Earth-93060)|Hardcase (Tom Hawke)]]}}
+'''Supporting Characters:'''
+* <br/>
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* <br/>
+'''Locations:'''
+* {{a|[[Earth-93060]]}}
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Gary Daniels|Gary Daniels]] as [[Tom Hawke (Earth-93060)|Hardcase]]
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Direct-to-Video Films|Marvel Films]]
+}}

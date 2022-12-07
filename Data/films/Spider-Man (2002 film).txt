@@ -1,0 +1,214 @@
+{{Marvel Database:Film Template
+| Image                   = Spider-Man (2002 film) poster 001.jpg
+| Aliases                 = 
+
+| Directors               = [[Sam Raimi]]
+| Producers               = Laura Ziskin; Ian Bryce
+| ComicWriters            = [[Stan Lee]]; [[Steve Ditko]]
+| StoryWriters            = 
+| ScreenplayWriters       = David Koepp
+| Musicians               = Danny Elfman
+| Cinematographers        = Don Burgess
+| Editors                 = Bob Murawski; Arthur Coburn
+| Distributors            = Sony Pictures Releasing
+| ProductionCompanies     = Columbia Pictures, Marvel Enterprises, Laura Ziskin Productions
+| Running Time            = 121 minutes
+| Rating                  = '''MPAA:''' PG-13 for stylized violence and action
+| Language                = English
+| Budget                  = $139 million
+| Release Date            = May 3, 2002
+
+| Marvel Movies           = Spider-Man (2002)
+| Spider-Man Films        = Spider-Man (film)
+| AM ID                   = spider-man-v260386
+| IMDB ID                 = 0145487
+
+| Previous Film           = 
+| Next Film               = Spider-Man 2 (film)
+
+| Tagline                 = Go for the ultimate spin.
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Peter Parker (Earth-96283)|Spider-Man (Peter Parker)]]|-|Spider-Man 2 (film)}} {{1st}}
+'''Supporting Characters:'''
+* {{1st|[[Mary Jane Watson (Earth-96283)|Mary Jane Watson]]}}
+* {{1st|[[Harold Osborn (Earth-96283)|Harry Osborn]]}}
+* {{Only Dies|[[Benjamin Parker (Earth-96283)|Ben Parker]]}}
+* {{1st|[[Maybelle Parker (Earth-96283)|May Parker]]}}
+'''Antagonists:'''
+* {{Only Dies|[[Norman Osborn (Earth-96283)|Green Goblin (Norman Osborn)]]}}
+* {{Only Dies|[[Dennis Carradine (Earth-96283)|Dennis Carradine]]}}
+'''Other Characters:'''
+* {{1st|[[Eugene Thompson (Earth-96283)|Flash Thompson]]}}
+* {{1st|[[Daily Bugle (Earth-96283)|Daily Bugle]]}}
+** {{1st|[[John Jonah Jameson (Earth-96283)|J. Jonah Jameson]]}}
+** {{1st|[[Joseph Robertson (Earth-96283)|Joseph "Robbie" Robertson]]}}
+** {{1st|[[Elizabeth Brant (Earth-96283)|Betty Brant]]}}
+** {{1st|[[Ted Hoffman (Earth-96283)|Ted Hoffman]]}}
+** {{Mentioned|[[Edward Brock Jr. (Earth-96283)|Eddie Brock Jr.]]}}
+* {{Referenced|[[Richard Parker (Earth-96283)|Richard Parker]]}}
+* {{Referenced|[[Mary Parker (Earth-96283)|Mary Parker]]}}
+* Mr. Sullivan
+* {{1st|[[Elizabeth Allan (Earth-96283)|Liz Allan]]}}
+* {{1st|[[Bernard Houseman (Earth-96283)|Bernard Houseman]]}}
+* {{1st|[[Philip Watson (Earth-96283)|Philip Watson]]}}
+* {{1st|[[Madeline Watson (Earth-96283)|Madeline Watson]]}}
+* {{Only|[[Bone Saw McGraw (Earth-96283)|Bone Saw McGraw]]}}
+* {{1st|[[Oscorp Industries (Earth-96283)|Oscorp Industries]]}}
+** {{Only Dies|[[Mendel Stromm (Earth-96283)|Dr. Mendel Stromm]]}}
+** {{Only Dies|[[Maximilian Fargas (Earth-96283)|Maximilian Fargas]]}}
+** Various Oscorp executives
+* {{1st|[[Radioactive Spider (Earth-96283)|Genetically-Modified Spider]]}}
+* {{Only Dies|[[Henry Balkan (Earth-96283)|Henry Balkan]]}}
+* {{Only|[[Slocum (Earth-96283)|General Slocum]]}}
+* {{1st|[[Stan Lee (Earth-96283)|Stan Lee]]}}
+* {{Mentioned|[[Curtis Connors (Earth-96283)|Dr. Curt Connors]]}}
+* {{Mentioned|[[Caroline Mulder (Earth-96283)|Caroline Mulder]]}}
+* [[w:c:DC:Superman|Superman]] {{Mentioned}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+
+'''Locations:'''
+* {{1st|[[Earth-96283]]}}
+** {{1st|[[Earth]]}}
+*** {{1st|[[United States of America]]}}
+**** {{1st|[[New York (State)|New York]]}}
+***** {{1st|[[New York City]]}}
+****** {{1st|[[Queens]]}}
+******* {{1st|[[Forest Hills]]}}
+******** {{1st|[[Aunt May's House]]}}
+******** {{Only|[[Midtown High School]]}}
+****** {{1st|[[Manhattan]]}}
+******* {{1st|[[Morningside Heights]]}}
+******** {{1st|[[Columbia University]]}}
+******* [[Manhattan#Midtown Manhattan|Midtown]] {{1st}}
+******** {{1st|[[Fifth Avenue]]}}
+********* {{Only|[[Bryant Park]]}}
+********** {{Only|[[New York Public Library (Main Branch)|New York Public Library]]}}
+********* {{1st|[[Daily Bugle Building]]}}
+******** {{1st|[[Times Square]]}}
+******** {{1st|[[Columbus Circle]]}}
+********* {{1st|[[Osborn Manor]]}}
+******* {{Only|[[SoHo]]}}
+******** {{Only|[[Moondance Diner]]}}
+******* {{1st|[[Roosevelt Island]]}}
+****** {{1st|[[Queensboro Bridge]]}}
+***** {{1st|[[Long Island]]}}
+****** {{1st|[[Oscorp Tower|Oscorp Building]]}}
+** {{Invoked|[[Hell]]}}
+'''Items:'''
+* {{1st|[[Spider-Man's Suit]]}}
+* {{1st|[[Pumpkin Bomb]]}}
+* {{1st|[[Razor Bat]]}}
+* {{1st|[[Goblin Formula|Human Performance Enhancers]]}}
+* {{1st|[[Goblin Armor|Goblin Armor (Oscorp Battlesuit)]]}}
+'''Vehicles:'''
+* {{1st|[[Goblin Glider]]}}
+
+| Plot                    = {{Quote|'''Not everyone is meant to make a difference. But for me, the choice of living an ordinary life... is no longer an option.'''|[[Peter Parker (Earth-96283)|Spider-Man (Peter Parker)]]}}
+
+Protagonist [[Peter Parker (Earth-96283)|Peter Parker]] is an intellectually precocious but socially inept teenager, too shy to approach [[Mary Jane Watson (Earth-96283)|Mary Jane Watson]] (M.J.), the girl-next-door with whom he is smitten. His only friend is [[Harold Osborn (Earth-96283)|Harry Osborn]], and even their friendship is tainted with jealousy by the fact that Harry's successful industrialist and scientist father, [[Norman Osborn (Earth-96283)|Norman Osborn]], favors the brilliant Peter over Harry himself. The orphaned Parker lives in [[New York City]], in the Forest Hills neighborhood of [[Queens]] with his loving and elderly [[Aunt May]] and [[Uncle Ben]].
+
+On a student tour of a college's genetics laboratory (with exterior scenes shot at New York City's Columbia University), Peter is bitten by an escaped experimental spider that has been bioengineered with various extraordinary and enhanced traits (i.e. jumping, webbing, and reflexes). The spider's venom causes him to fall ill and he barely arrives home before collapsing into bed.  After a difficult night's sleep, while the venom alters his genetic makeup, he wakes up seemingly unharmed. However, he learns to his surprise that his body has changed dramatically and literally overnight. Over the course of that amazing first day, Peter learns that not only has he acquired perfect vision and muscle tone, but he has also gained greatly increased strength and agility, the ability to fire strands of strong webbing from his wrists, a "spider-sense" that gives him a psychic warning of danger, and the ability to extend a mass of minute barbs from his skin that allow him to adhere to surfaces. While he glories in these new abilities, which allow him to fend off bullies like [[Flash Thompson|Eugene "Flash" Thompson]] and jump from rooftop to rooftop with ease, Aunt May and Uncle Ben become concerned for their nephew's new strange and secretive behavior.
+
+On a trip to the library, Uncle Ben confronts Peter about it and stresses to him that he's afraid that he's losing Peter through his maturity (which in reality, is Peter trying to secretly deal with his new abilities), and that with great power comes great responsibility. Peter snaps at him and secretly heads off to his true destination, a sports arena that promises a $3000 prize to any man who can last three minutes in the ring with the wrestler [[Bone Saw McGraw (Earth-96283)|Bonesaw McGraw]] (played by Randy Savage). Those earnings would allow him to buy a car and impress Mary Jane. With some difficulty, Peter defeats the wrestler and is cheered as the "amazing Spider-Man." However, Peter is cheated by the fight promoter and, in retaliation, does not stop [[Dennis Carradine (Earth-96283)|a criminal]] who has stolen the gate money.
+
+Walking to the library with some satisfaction, he finds that his uncle has been shot by a carjacker in the street.  Old Ben dies in front of him. Enraged, Peter dons his spider costume to pursue the murderer using his webs for transportation for the first time. He confronts the killer in an abandoned warehouse only to learn to his horror that the killer is the same criminal he could have stopped earlier. The terrified murderer falls out of a window to his death. Peter is wracked with guilt and grief over the death of his uncle.
+
+Months later, after graduation from high school, Peter decides to live up to his uncle's words, "with great power, comes great responsibility," by becoming a superhero fighting crime all over the city. He eventually learns a way to make it pay by supplying photographs of his alter-ego to the curmudgeonly ''[[Daily Bugle]]'' publisher [[John Jonah Jameson|J. Jonah Jameson]], who has a continual need for Spider-Man photos though he vilifies the vigilante in his paper.
+
+Norman Osborn experiences his own dramatic transformation. To save his company from losing a vital military contract, he subjects himself to a dangerous test of an experimental treatment. It increases his strength and intelligence, but also drives him insane, creating a new, malevolent personality that attacks and murders anyone standing in his way. Using his company's prototype armor — a personal flight device called a glider and a green facemask from his collection — Norman lashes out as a figure later dubbed "the [[Green Goblin]]".
+
+Spider-Man and the Goblin eventually battle at the World Unity Festival held at Times Square, where the Goblin murders the company board of directors that were planning to fire Osborn. Spider-Man drives the Goblin off and saves Mary Jane as well.
+
+While Peter mourns the fact that he seems to have lost M.J. to Harry, the Goblin tempts him, after abducting him as Spider-Man, to join with him against an ungrateful world that hates him. Spider-Man refuses and the insulted Goblin vows revenge. Norman deduces that Peter is Spider-Man and begins to strike at his loved ones — first attacking Aunt May, who ends up hospitalized, and Mary Jane. Later, Harry discovers that Mary Jane has fallen for Peter, and grows bitter.
+
+In a climax on the Queensboro Bridge, the Goblin tells Spider-Man to choose whether to save the kidnapped M.J. or a tram car full of children. Spider-Man, with some help from [[New York City]] by-standers, manages to save both. The Goblin, enraged at being thwarted, brings Spider-Man to an abandoned building on Roosevelt Island, below the bridge.
+
+The Goblin promises to torture and kill Mary Jane, and then duels with Spider-Man in hand to hand combat.  Spider-Man defeats him, only to see the Norman personality regain control and beg Peter to stop his attack and help him control his mental problem. Yet the Goblin personality, manipulating Norman subconsciously, sets a sneak attack on Spider-Man, using the Goblin-glider's remote control. Peter barely avoids the charging glider hurtling in to spear him in the back. When he dodges, it fatally impales Norman, killing him quickly.
+
+Honoring Norman's request not to tell Harry the truth, Spider-Man brings Norman's body home and Harry becomes convinced that Spider-Man murdered his father. At the funeral, Harry swears revenge on Spider-Man while reaffirming his friendship with Peter. Dismayed at the tragedy he seems to cause to all those close to him, he rejects Mary Jane's words of love to keep her from again becoming a potential target of his enemies. The film ends with Peter walking away from MJ, while trying to make the best of the situation with a victory lap as he swings around the city with ease. Spider-Man then swings from a flagpole off into the sunset for further adventures, ending the film.
+
+| Cast                    = * [[wikipedia:Tobey Maguire|Tobey Maguire]] as [[Peter Parker (Earth-96283)|Spider-Man / Peter Parker]]
+* [[wikipedia:Willem Dafoe|Willem Dafoe]] as [[Norman Osborn (Earth-96283)|Green Goblin / Norman Osborn]]
+* [[wikipedia:Kirsten Dunst|Kirsten Dunst]] as [[Mary Jane Watson (Earth-96283)|Mary Jane Watson]]
+* [[wikipedia:James Franco|James Franco]] as [[Harold Osborn (Earth-96283)|Harry Osborn]]
+* [[wikipedia:Cliff Robertson|Cliff Robertson]] as [[Benjamin Parker (Earth-96283)|Ben Parker]]
+* [[wikipedia:Rosemary Harris|Rosemary Harris]] as [[Maybelle Parker (Earth-96283)|May Parker]]
+* [[wikipedia:J.K. Simmons|J.K. Simmons]] as [[John Jonah Jameson (Earth-96283)|J. Jonah Jameson]]
+* [[wikipedia:Gerry Becker|Gerry Becker]] as [[Maximilian Fargas (Earth-96283)|Maximilian Fargas]]
+* [[wikipedia:Bill Nunn|Bill Nunn]] as [[Joseph Robertson (Earth-96283)|Joseph "Robbie" Robertson]]
+* [[wikipedia:Jack Betts|Jack Betts]] as [[Henry Balkan (Earth-96283)|Henry Balkan]]
+* [[wikipedia:Stanley Anderson|Stanley Anderson]] as [[Slocum (Earth-96283)|General Slocum]]
+* [[wikipedia:Ron Perkins|Ron Perkins]] as [[Mendel Stromm (Earth-96283)|Dr. Mendel Stromm]]
+* [[wikipedia:Joe Manganiello|Joe Manganiello]] as [[Eugene Thompson (Earth-96283)|Flash Thompson]]
+* [[wikipedia:Elizabeth Banks|Elizabeth Banks]] as [[Elizabeth Brant (Earth-96283)|Betty Brant]]
+* [[wikipedia:Randy Savage|Randy Savage]] as [[Bone Saw McGraw (Earth-96283)|Bone Saw McGraw]]
+* [[wikipedia:Michael Papajohn|Michael Papajohn]] as [[Dennis Carradine (Earth-96283)|The Carjacker]]
+* [[wikipedia:Ted Raimi|Ted Raimi]] as Hoffman
+* [[wikipedia:Shan Omar Huey|Shan Omar Huey]] as Mr. Sullivan
+* John Paxton as [[Bernard Houseman (Earth-96283)|Bernard Houseman]]
+* Tim De Zarn as [[Philip Watson (Earth-96283)|Philip Watson]]
+* Taylor Gilbert at [[Madeline Watson (Earth-96283)|Madeline Watson]]
+* [[wikipedia:Bruce Campbell|Bruce Campbell]] as Ring Announcer
+
+| Notes                   = * '''''Spider-Man''''' is a commercially successful superhero film released in 2002 and directed by Sam Raimi. The film stars Tobey Maguire, Willem Dafoe, and Kirsten Dunst. It tells the origin story of Spider-Man and fight against his first major enemy, Green Goblin. The film was the first movie to ever make more than US $100 million in one weekend. As of 2012, that record has been broken.
+
+===Critical Reaction===
+The general critical reaction was generally positive, with Maguire and Dafoe singled out for particular praise. Critics on Rotten Tomatoes gave the film an average rating of 7.6/10 and an 89% "certified fresh".<ref>{{Rotten-tomatoes|id=Spiderman}}</ref> Top critics on Metacritic gave the film a normalized score of 73/100 indicating generally favorable reviews.<ref>''[http://www.metacritic.com/movie/spider-man Spider-Man (film)]'' at Metacritic</ref> There were complaints about the second half of the film being rather derivative and the CGI being overused towards the end.  The relatively flat acting from most of the other lead actors, especially Kirsten Dunst and James Franco, also created some criticisms. Some also found the idea of putting an expressive actor like Willem Dafoe in a large costume with no expressiveness for most of the film was a large mistake.
+
+Some vocal comic-book fans aired complaints about the change made in Spider-Man's webs. In the comic books, Peter Parker invents a mechanical web-shooting device, while in the movie he produces his webbing organically from his wrists. Sam Raimi has, however, explained this decision, saying that "the only thing I could not relate to with Peter was him being a genius".
+
+The film was a hit, grossing $403,706,375 in its theatrical run in North America, becoming the highest-grossing film of the year, and denying the Star Wars film ''Star Wars Episode II: Attack of the Clones'' from being number one in the box office for the first time ever. It was the fifth highest grossing film of all time at the end of its run. Its $114,844,116 opening weekend set a record, and the movie became the first to earn over $100 million in a weekend. It had an equally successful home-video release. Maguire, previously known as a baby-faced character actor, became a major star.
+
+According to court documents, Marvel Comics tried to use "Hollywood accounting" to deprive [[Stan Lee]] of due royalties from the films, claiming the film's "earnings" were not profits. Lee successfully sued in 2002.<ref>[http://news.bbc.co.uk/1/hi/entertainment/film/2458083.stm BBC news]</ref>
+
+The most famous scene in the film and one which immediately entered popular culture is the 'upside down kiss' scene where Spider-Man, after saving Mary Jane from a gang of thugs, has a romantic kiss in the rain with her as he hangs upside down from the wall. This iconic image had been utilized in the comics for many years without generating the same kind of response.
+
+===Sequels===
+* ''[[Your Friendly Neighborhood Spider-Man|Your Friendly Neighborhood Spider-Man]]'' is a junior novel set between the first and second film.
+* ''[[Spider-Man 2 (film)|Spider-Man 2]]'' was released on June 30, 2004
+* ''[[Spider-Man 3 (film)|Spider-Man 3]]'' was released on May 4, 2007
+| Trivia                  = * Originally, Carolco Pictures was to distribute the movie but went bankrupt before it could secure the rights.
+* The climax of the film is loosely based on {{cnst|Amazing Spider-Man Vol 1 121}}-[[Amazing Spider-Man Vol 1 122|122]], in which the Goblin kidnaps Spider-Man's girlfriend, [[Gwendolyne Stacy (Earth-616)|Gwen Stacy]] and suspends her over a bridge. Gwen is killed by the fall and the Goblin is later impaled by his own glider. The main differences in the movie is that the damsel in distress is Mary Jane and she survives (and that Peter caught her with a strand of webbing in the comics).
+* [[Stan Lee]] makes a cameo appearance, at the scene when the Green Goblin first struck at the World Unity Festival. He pulls a girl out of the way of some falling rocks. Of note is that when originally filming, Lee was meant to pick up the girl and after several tries could not, and so he had to eventually just lead her away.
+* Both main characters are given names that are discarded in the movie. Spider-Man is "The Human Spider" (possibly a reference to The [[Jonathan Storm (Earth-616)|Human Torch]]), and the Green Goblin is called "The Green Meanie".
+* Several Spider-Man costumes were created at a cost of up to $100,000 each. Four were stolen from the set in early April 2001 and Columbia Pictures posted a $25,000 reward for their return. The costumes were not returned.
+* The genetically modified spider that bit Peter Parker was not a black widow spider but a ''Steatoda grossa'' spider, which was chosen by Steven R. Kutcher and painted red and blue by Jens Schnabel while the spider was anesthetized. That is how Peter created the red and blue costume which he had gotten the idea from the spider's color skin.
+* The jumping spider that Peter attempts to take a picture of is an Avondale spider, the same type used in ''Arachnophobia''.
+* The sketches Peter Parker does of his costume in the movie were actually done by [[Phil Jimenez]], a sequential artist with a long career working for both Marvel and DC Comics. One of the designs is actually [[Stingray]], another Marvel character.
+* In the comics, Peter Parker designed and made Spider-Man's synthetic spider web and the mechanical wrist guns that fire it. In the movie he shoots the web from his own body. Director Sam Raimi answered the protests of comic fans saying that it was more credible to have Peter shoot web this way than for a high school boy to be able to produce a wonder adhesive in his spare time that 3M can not make. It is noteworthy, though, that Peter is able to read [[Green Goblin|Norman Osborn]]'s work on nanotechnology with understanding while only in high school. Interestingly, the comic version of Spider-Man grew organic web-shooters as well after the movie's release.{{r|Spectacular Spider-Man Vol 2 20}} The Ultimate version of Spider-Man refers to the classic character in that he utilizes a mechanical web shooter and artificial webs. The discrepancy of a high schooler cracking such a complex formula is resolved by having Peter complete a formula that his father had begun the research on, eliminating the conflict that resulted in the change for his movie incarnation.
+* Director Sam Raimi's 1973 Oldsmobile Delta 88, also known as ''The Classic'', appears in the movie as Uncle Ben's car. This car has appeared in all Raimi's films, even disguised as a wagon in his film Western film The Quick and the Dead.
+* Tobey Maguire said he had never read a Spider-Man comic but took the role because he liked the script. The same also applies for Kirsten Dunst. Raimi was a fan of Spider-Man from a young age.
+* The scene when the [[Oscorp|Oscorp Industries]] board kick Norman Osborn off the council may have been inspiration for a similar scene in ''[[Fantastic Four (2005 film)|Fantastic Four]]'', in which [[Victor von Doom (Earth-616)|Victor Von Doom]] is kicked off the Von Doom Industries.
+* The smoke in the lab during Norman Osborn's transformation scene was originally white but was then digitally altered to green. Director Raimi wanted to use real green smoke, but went with the CG effect when prop designers could not create a colored smoke that was non-toxic.
+* Entered into the Guinness Book of World Records as having the Highest Box Office Gross in a single day, taking in US$43.6 million on its second day of release. That record has been broken since then.
+* Bonesaw, the wrestler Spider-Man fights for money, is played by real life wrestler Randy "Macho Man" Savage. Early in his career, Savage wrestled under the name The Spider.
+* After the terrorist attacks on the United States of September 11, 2001, Sony recalled teaser posters which showed a close-up of Spider-Man's face with the New York skyline (including, prominently, the World Trade Center towers) reflected in his eyes. Not all the posters were recovered, however, and the ones still at large are now highly prized collector's items.
+* The movie's original trailer, released in 2001, showed a group of bank robbers on their getaway in a helicopter.  However, they are stopped by Spider-Man with a giant spider-web between the two towers of the World Trade Center. The trailer was pulled after the events of September 11, 2001 attacks and remains unreleased, although it can be found on the Internet.
+* When Jameson's subordinates are trying to tell him about Spider-Man, one of them says, ''"Eddie's been trying to get a picture of him for weeks."'' This is apparently a reference to Eddie Brock, who in the comics is a reporter for a rival newspaper to Peter Parker and ultimately, after his Pulitzer-prize winning story is denounced as lies, becomes [[Venom]]. Eddie was not seen in this movie, but had an important role in the third movie.
+* When trying to shoot web from a building top Peter says ''"Up up and away web"'' a reference to Superman. Peter also says ''"Shazam"'' a reference to DC Comics's Captain Marvel. Directly afterwards when swinging Peter says ''"Tally ho!"'' This is the same line used in Raimi's ''Army of Darkness'', when Ash (Bruce Campbell) swings on a rope during a fight sequence in the battle at the castle, which is itself a reference to Errol Flynn's swashbuckling roles.
+* ''Spider-Man'' was originally set to be released in November 2001.
+* Nicolas Cage and John Malkovich were first approached for the role of the Green Goblin before Willem Dafoe got the role.
+* In a 2013 interview with ''The Huffington Post'', [[wikipedia:Hugh Jackman|Hugh Jackman]], who portrays [[James Howlett (Earth-10005)|Wolverine]] in the [[Earth-10005|''X-Men'' series of films]], revealed he was initially going to make a cameo appearance as Wolverine in this film. Plans for the cameo were cancelled once it became clear Jackman's costume from ''[[X-Men (film)|X-Men]]'' would be unavailable.<ref>{{cite web|url=http://www.huffingtonpost.com/2013/09/09/hugh-jackman-prisoners_n_3896582.html|title=Hugh Jackman, 'Prisoners' Star, On His Everlasting Love for Wolverine|last=Ryan|first=Mike|date=10 September 2013|accessdate=10 September 2013|work=The Huffington Post}}</ref>
+
+==Gallery==
+===Videos===
+====Trailers====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Spider-man Trailer
+</gallery>
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+* [http://boards.sonypictures.com/spiderman Spider-Man movie message boards]
+* [http://spiderman.sonypictures.com/downloads/ Spider-Man Downloads] wallpapers, screensavers, buddy icons
+* [http://www.hollywoodgothique.com/spiderman2002.html Spider-Man director Sam Raimi interview]
+* {{shh|id=spiderman|title=Spider-Man Movies}}
+* [http://www.movietourguide.com/Spider-man/filming_locations Movie Tour Guide.com - Maps and directions to Spider-man Filming Locations]
+* [http://pocketmovies.net/detail_145.html Original trailer (pre-September 11)]
+}}
+[[es:Spider-Man (película de 2002)]]
+[[pt-br:Homem-Aranha (filme de 2002)]]
+[[ru:Человек-паук (фильм)]]
+[[tr:Örümcek-Adam (2002 filmi)]]
+[[Category:Sony Pictures Entertainment]]

@@ -1,0 +1,26 @@
+{{Infobox film
+|image = ABC.jpg
+|name = The ABC of Hand Tools
+|director = Bill Roberts 
+|producer = [[Walt Disney]]
+|writer = 
+|studio = [[Walt Disney Productions]]
+|distributor = General Motors
+|release = [[February 5]], [[1946]]
+|language = English
+}}
+'''''The ABC of Hand Tools''''' is a [[1946]] Disney animated short film. It was sponsored by General Motors.
+
+==Synopsis==
+This is an educational film in two parts. Part one covers metal shop, and part two covers wood shop. Primitive Pete does everything wrong in both environments. He uses the tools incorrectly, allowing the narrator to correct him. It also features his female counterpart, who is constantly distracting him.
+
+==Gallery==
+<gallery position="center">
+1946-tools-2.jpg
+1946-tools-3.jpg
+</gallery>
+
+{{DEFAULTSORT:ABC of Hand Tools, The}}
+[[Category:1946 shorts]]
+[[Category:Animated shorts]]
+[[Category:Educational films]]

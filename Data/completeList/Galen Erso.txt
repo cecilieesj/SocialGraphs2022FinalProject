@@ -1,0 +1,67 @@
+{{Infobox character
+|image = GalenErso.png
+|films = ''[[Rogue One]]''
+|actor = [[Mads Mikkelsen]]
+|fullname = Galen Walton Erso
+|occupation = Imperial Research Scientist
+|affiliations = [[Galactic Republic]] (formerly)<br>[[Galactic Empire]] (formerly)
+|home = Grange
+|likes = His family
+|dislikes = The Empire
+|status = Deceased
+|partner = [[Lyra Erso]] † (wife)
+|children = [[Jyn Erso]] † (daughter)}}
+
+{{Quote|Remember, whatever I do, I do it to protect [[Jyn Erso|you]].|Galen Erso|Rogue One}}
+
+'''Galen Erso''' is an Imperial scientist who appears in the ''[[Star Wars]]'' movie, ''[[Rogue One]]''. Galen was the husband of [[Lyra Erso]] and the estranged father of [[Jyn Erso]].
+
+==Background==
+During the Clone Wars, Galen and his family were abducted by Separatist agents but were rescued by his old friend [[Orson Krennic]]. Erso worked on manipulating [[Kyber crystal]]s and was encouraged to continue his studies by Krennic.
+
+Prior to the rising of the [[Galactic Empire]], the [[Rebel Alliance]] intercepted a coded transmission from Galen indicating that a major weapons test was imminent, resulting in the Rebels recruiting his estranged daughter to partake in a mission to steal the plans to what they would discover to be the Imperial superweapon known as the [[Death Star]].
+
+He would die in a firefight between the Imperials and the Rebellion, but not before saying goodbye to Jyn.
+
+==Role in the [[Rogue One|Film]]==
+Galen Erso first appears and is shown to be living a humble farming life with his family on Grange. He tells his daughter [[Jyn Erso|Jyn]] to escape with his wife [[Lyra Erso|Lyra]] as [[Orson Krennic]] arrives to take him back to continue work on the [[Death Star]]. He expresses a distrust in the Empire, lying to Krennic that his wife is dead. After the [[Death Troopers]] search his home, his wife reappears and shoots Krennic and is killed, Galen disappears and is taken back to the Empire.
+
+After Jyn Erso and the rebels are taken to [[Saw Gerrera]]'s base, his message about a flaw in the Death Star is shown to Jyn by Saw before the planet is destroyed.
+
+Galen is later shown to be on the Imperial refinery of Eadu, where he and the rest of the Imperial scientists are lined up by Krennic to reveal the one who had sent a [[Bodhi Rook|defector]] to the [[Rebel Alliance]]. Galen reveals himself after Krennic threatens to kill all of them, but Krennic orders his death troopers to kill all of them anyway. Galen is later killed by a torpedo blast by incoming Rebel fighters, though he manages to reunite with his daughter before he dies.
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+Rogue-One-93.png
+Rogue-One-96.png
+Galen_Erso's_Message.png
+Rogue-One-106.png
+Galen_attacked_by_Krennic_on_Eadu.png
+Rogue One photography 26.jpg
+Rogue One character poster 9.jpg
+Galen Erso Figure.jpg
+Galen Erso.png
+Funko Pop! Galen Erso.jpg
+Young Galen Erso.png
+</gallery>
+
+==External links==
+*{{SWW|Galen Walton Erso}}
+*{{SW|url=/databank/galen-erso|text=Galen Erso}}
+
+{{Star Wars}}
+{{DEFAULTSORT:Erso, Galen}}
+[[Category:Characters]]
+[[Category:Parents]]
+[[Category:Star Wars Anthology characters]]
+[[Category:Spouses]]
+[[Category:Galactic Republic characters]]
+[[Category:Galactic Empire characters]]
+[[Category:Scientists]]
+[[Category:Deceased characters]]
+[[Category:Widows/Widowers]]
+[[Category:Heroes]]
+[[Category:Males]]
+
+[[Category:Live-action characters]]
+[[Category:Comic characters]]

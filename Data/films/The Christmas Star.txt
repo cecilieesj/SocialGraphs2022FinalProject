@@ -1,0 +1,65 @@
+{{Episode
+| series     = [[Walt Disney anthology series|The Disney Sunday Movie]]
+| season     = 31
+| number     = 11
+| image      = 1986-hotte-1.jpg
+| caption    = 
+| production = 
+| airdate    = [[December 14]], [[1986]]
+| writer     = Carol Dysinger
+| director   = Alan Shapiro
+| previous   = "[[Swiss Family Robinson]]"
+| next       = "[[Tiger Town]]/[[Star Tours]]"}}'''''The Christmas Star''''' is a made-for-television movie, originally broadcast as an episode of ''[[Walt Disney anthology series|The Disney Sunday Movie]]'' on [[December 14]], [[1986]].
+
+==Synopsis==
+Horace McNickle is a two-time felon serving prison time for counterfeiting. On the week before Christmas, he escapes from prison dressed as [[Santa Claus]] due to his uncanny resemblance to Santa resulting from his long white beard and heavyset features. He hides out from the police in a nearby suburban neighborhood where he is befriended and helped by two local children who think he is the real Santa. He takes advantage of their naïveté to help him get his counterfeit money hidden somewhere in a local department store while he develops kind-hearted feelings for his two con victims that make him slowly understand the true nature of Christmas.
+
+==Availability==
+[[Walt Disney Studios Home Entertainment|Walt Disney Home Entertainment]] released the film on DVD on [[September 7]], [[2004]].
+
+==Cast==
+{| class="wikitable" border="1"
+! Actor
+! Character
+|-
+| [[Edward Asner]] || Horace McNickle
+|-
+| [[René Auberjonois|Rene Auberjonois]] || Mr. Sumner
+|-
+| Jim Metzler || Stuart Jameson
+|-
+| Susan Tyrrell || Sara Jameson
+|-
+| Karen Landry || Clara
+|-
+| Alan North || Captain Whittaker
+|-
+| Philip Bruns || Lucky
+|-
+| Nicholas Van Burek || Billy Jameson
+|-
+| Vicki Wauchope || Trudy Jameson
+|-
+| Zachary Ansley || John Sumner
+|-
+| Fred Gwynne || Waters
+|}
+
+==Gallery==
+<gallery position="center">
+TheChristmasStar DVD.jpg
+1986-hotte-2.jpg
+1986-hotte-3.jpg
+51jMS-9jz7L.jpg
+</gallery>
+
+==External links==
+*[http://www.imdb.com/title/tt0090840/ ''The Christmas Star''] at the Internet Movie Database
+
+{{DEFAULTSORT:Christmas Star, The}}
+[[Category:1986 films]]
+[[Category:Live-action films]]
+[[Category:Walt Disney anthology series episodes]]
+[[Category:Television episodes]]
+[[Category:Films]]
+[[Category:Christmas productions]]

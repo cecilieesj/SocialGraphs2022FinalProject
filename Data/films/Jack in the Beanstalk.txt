@@ -1,0 +1,20 @@
+{{Infobox film
+|name        = Jack in the Beanstalk
+|director    = 
+|producer    = 
+|writer      = Peter Tolan
+|distributor = Walt Disney Pictures
+|language    = English
+|image = 
+|imagewidth = 250px|release = 1999}}
+
+{{Stub}}
+{{NeedImage}}
+
+'''''Jack in the Beanstalk''''' is an unfinished 15-minute animated Disney short that was going to be released to animated film festivals by [[The Walt Disney Company]] in [[1999]].
+
+==Summary==
+Jack comes into the Giant's house and steals the hen that lays the golden eggs. The harp sings badly. So where are the Giant and his wife going to get some justice? In the courtroom, of course.
+[[Category:1999 short films]]
+[[Category:Cancelled projects]]
+[[Category:Unused concepts]]

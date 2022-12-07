@@ -1,0 +1,24 @@
+{{Infobox film
+| name           = Four Artists Paint One Tree
+| image          = File:Four_artists.jpg
+| caption        = 
+| director       = 
+| producer       = 
+| music          = 
+| cinematography =  
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[Buena Vista Distribution]]
+| release       = [[1958]]
+| time        = 
+| language       = English}}
+'''''Four Artists Paint One Tree''''' is a [[1958]] Disney educational animated film. It was originally broadcast on [[ABC]]'s ''[[Walt Disney anthology series|Disneyland]]'''s "[[An Adventure in Art]]" sub-series.
+
+==Synopsis==
+Four Disney artists - [[Marc Davis]], [[Eyvind Earle]], Joshua Meador, and Walt Peregoy - using different media, paint the same subject. Each artist explains his approach and his interpretation.
+
+{{Stub}}
+[[Category:Animated shorts]]
+[[Category:Live-action films]]
+[[Category:Disney films]]
+[[Category:1958 shorts]]
+[[Category:1958 films]]

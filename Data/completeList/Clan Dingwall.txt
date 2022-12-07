@@ -1,0 +1,32 @@
+{{Group Infobox
+|name = Clan Dingwall
+|image = Dingwall_banner.jpg
+|films = ''[[Brave]]''
+|shorts = 
+|shows = ''[[Once Upon a Time]]''
+|games = 
+|rides = 
+|inspiration = 
+|alias = 
+|leaders = [[Lord Dingwall]]
+|members = [[Wee Dingwall]]<br>[[Conan]]
+|occupation = 
+|affiliation = 
+|goal = 
+|home = 
+|headquarters = 
+|fate = Unknown}}
+
+'''Clan Dingwall''' is a Scottish clan in ''[[Brave]]''. It is one of the four clans that have united to form the [[DunBroch]] Kingdom. Its leader is called the [[Lord Dingwall]]. The clan's tartan is of dark and pale yellowish shades of green, with orange. Its emblem is the rock.
+
+{{PixarWiki}}
+{{Brave}}
+{{Once Upon a Time}}
+[[Category:Character groups]]
+[[Category:Pixar characters]]
+[[Category:Characters]]
+[[Category:Brave characters]]
+[[Category:Once Upon a Time characters]]
+[[Category:Scottish characters]]
+[[Category:Animated characters]]
+[[Category:Live-action characters]]

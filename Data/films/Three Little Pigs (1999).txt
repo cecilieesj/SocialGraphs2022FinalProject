@@ -1,0 +1,20 @@
+{{Infobox film
+|name        = Three Little Pigs
+|director    = Darrell Rooney
+|producer    = 
+|writer      = Frank Conniff
+|distributor = [[Walt Disney Pictures]]
+|language    = English
+|image       = 
+|release     = [[1999]]}}{{NeedImage}}'''''Three Little Pigs''''' is an animated short made for the animation festival showings by [[The Walt Disney Company]] in [[1999]].
+
+==Summary==
+A vegan wolf moves in with the Three Little Pigs in a parody of MTV's ''Real World''.
+
+==See also==
+*[[The Three Little Pigs]]
+*[[The Three Little Pigs (characters)]]
+*[[The Three Little Pigs Costumes Through the Years]]
+[[Category:Animated shorts]]
+[[Category:1999 shorts]]
+[[Category:Article stubs]]

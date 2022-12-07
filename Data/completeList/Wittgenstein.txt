@@ -1,0 +1,61 @@
+{{Infobox character
+|image = Wittgenstein-2.png
+|films = ''[[The Brave Little Toaster to the Rescue]]<br>[[The Brave Little Toaster Goes to Mars]]''
+|voice = [[Brian Doyle-Murray]]
+|occupation = Supercomputer
+|home = The science museum
+|likes = Being operated on by humans
+|dislikes = Getting viruses, being abandoned
+|powers = WFC 11-12-55 tube
+|status = Active}}
+
+'''Wittgenstein''' is a TLW-728 supercomputer prototype who appears in ''[[The Brave Little Toaster to the Rescue]]'' and ''[[The Brave Little Toaster Goes to Mars]]''. He is powered by a very rare cathode tube called the WFC 11-12-55. He was outmoded when transistors were invented. Later, he got a terrible [[Viruses|virus]] that infected his tubes, causing him to not function properly anymore. He stars in the song "[[Chomp and Munch]]".
+
+==Appearances==
+===''[[The Brave Little Toaster to the Rescue]]''===
+The appliances first discover Wittgenstein in the basement. The supercomputer miserably explains that he has been alone and abandoned here. He also reveals that he is plagued by a [[Viruses|virus]] and living on one rare cathode tube called the WFC 11-12-55. The appliances learn that unless they find a replacement fast, Wittgenstein's tube will blow and lead to his apparent death. In an attempt to revive Wittgenstein to his superior state, [[Radio]] and [[Ratso]] go to the college's storage building to find another WFC 11-12-55 tube. When they come back with the last apparent tube for miles, Radio and Ratso have a brief fight before Radio accidentally breaks the tube. Wittgenstein then does his best with all his might to warn the Master ([[Rob McGroarty|Rob]]) about the animals getting shipped to Tartarus Laboratories, but he blows his tube with a big explosion and apparently dies.
+
+The appliances get very mad at Radio, and he feels terrible. He then sacrifices his own tube to help, which turns out to be the very rare tube they had been looking for, thus leaving himself as a lifeless appliance (although he is later revived with a new tube). Apparently, it seems that the appliances replaced the tube in the nick of time; with the boosted power of the new tube, Wittgenstein wakes up, miraculously regenerates the other smashed tubes connected to himself, wiping the viruses clean from his systems, and is completely revived to as good as new. He then warns the Master and sends [[Toaster]] and the other appliances to go rescue the animals. After the animals are saved, Wittgenstein transfers an electric signal to the Master's [[Computer and Mouse]], enabling them to recover and print up his thesis for college.
+
+Wittgenstein is afterwards discovered by [[Charlie (The Brave Little Toaster)|Charlie]] and the people of the university, and during the "[[Hang in There, Kid]]" sequence, they send him to a museum as his new home where he will never be forgotten, along with modernizing him with the current technology to keep him in perfect working condition so he wouldn't have to rely on his older cathode tubes anymore, now that he had modern transistors maintaining his systems.
+
+===''[[The Brave Little Toaster Goes to Mars]]''===
+The appliances learn that [[Robbie McGroarty|Robbie]], the Master's baby, has been abducted and transported to the planet [[Mars]], and the gang embarks on rescuing the Little Master. The appliances then contact their old college buddy, Wittgenstein, and he tells them the equipment they will need to travel to Mars: [[Fanny (The Brave Little Toaster)|Fanny]], a laundry basket, the [[Microwave]], and some microwave popcorn (with cheddar cheese flavoring) to help them fly. After the appliances get all the stuff they need, they head off to Mars, and along the way, they are encountered by singing balloons ("[[Floating|We're Floating]]").
+
+==Trivia==
+*Wittgenstein's prototype is actually substantially less powerful than transistor computers.
+*As Wittgenstein stated himself: "One day, [he's] cock of the walk, the most sophisticated piece of machinery ever built, and the next, [he's] scrap metal."
+*When Wittgenstein states that he has been down in cold storage for 4,999,450,852,312﻿ nanoseconds (which is equal to 1.388736347864445 hours, or 83 minutes and 19.451 seconds), ever since the day when transistors were invented, he is actually saying that he has only been down here for approximately one and a half hours. However, a logical explanation to this could be attributed to the viruses damaging him.
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+Tubes.gif|Wittgenstein's main set of inner tubes
+Wittgenstien prime.gif|Wittgenstein in his prime
+In use.gif|Wittgenstein being used by a human
+Wittgenstien virus.gif|Wittgenstein after receiving his virus
+Brave-little-toaster-to-the-rescue 02.jpg|Wittgenstein with [[Toaster]], [[Lampy]], and [[Blanky]]
+char 61501.jpg|"Yet from somewhere deep inside my banks..."
+SUNP03.JPG|Wittgenstein "dead" after his main WFC 11-12-55 tube exploded
+Wittgenstein.jpg|Wittgenstein all fixed
+Wittgenstein-1.png|Wittgenstein at the science museum
+Wittgenstein-3.png|"You got a problem, I got your answer!"
+Wittgenstein-4.png
+Wittgenstein-5.png
+Wittgenstein-6.png
+Wittgenstein-7.png
+Le-petit-grille-pain-courageux---objectif-mars 355513 5974.jpg
+</gallery>
+
+{{The Brave Little Toaster}}
+[[Category:The Brave Little Toaster characters]]
+[[Category:Characters]]
+[[Category:Heroes]]
+[[Category:Singing characters]]
+[[Category:Machines]]
+[[Category:Objects]]
+[[Category:Those destroyed]]
+[[Category:Those brought back to life]]
+[[Category:Anthropomorphic characters]]
+[[Category:Non-Disney characters]]
+[[Category:Giants]]
+[[Category:Males]]

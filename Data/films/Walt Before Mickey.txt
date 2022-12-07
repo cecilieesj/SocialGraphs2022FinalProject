@@ -1,0 +1,88 @@
+{{Infobox film
+| name           = Walt Before Mickey
+| image          = Walt_Before_Mickey.jpg
+| image_size     = 
+| alt            =
+| caption        = Film poster
+| producer       = Armando Gutierrez<br>Arthur L. Bernstein
+| screenplay     = Arthur L. Bernstein<br>Armando Gutierrez<br>[[Diane Disney Miller]]
+| starring       = Thomas Ian Nicholas<br>[[Jon Heder]]<br>[[Jodie Sweetin]]<br>[[David Henrie]]<br>Hunter Gomez<br>Armando Gutierrez<br>Arthur L. Bernstein<br>Conor Dubin
+| cinematography = Ian Dudley
+| editing        = Lauren Young
+| website        = http://www.waltbeforemickey.com
+| studio         = Conglomerate Media<br>Lensbern Entertainment
+| release       = [[August 5]], [[2015]]
+| distributor    = Mission Pictures International<br>Voltage Pictures 
+| time        = 110 minutes<!---Runtime:110:36--->
+| country        = United States
+| language       = English
+|imdb_id = 3154310}}
+'''''Walt Before Mickey''''' is a [[2015]] film based on the book of the [[Walt Before Mickey: Disney's Early Years, 1919-1928|same name]] and is the true story about the early years of [[Walt Disney]] prior to the creation of [[Mickey Mouse]]. The film stars Thomas Ian Nicholas in the role of Walt Disney, Armando Gutierrez in the role of [[Ub Iwerks]], and [[Jon Heder]] as [[Roy O. Disney|Roy Disney]].
+
+The film covers Walt Disney's early years in business, during which he started various businesses including [[Laugh-O-Gram Studio]] and [[The Walt Disney Company]] with fellow animator Ub Iwerks and Roy Disney.
+
+==Plot==
+''Walt Before Mickey'' centers on [[Walt Disney]] (Thomas Ian Nicholas) and his early beginnings in Marceline, Missouri. The story follows his poor beginnings and eventual move to Kansas City, where he created his first animation studio [[Laugh-O-Gram Studio]]. There he hired [[Rudolf Ising|Rudy Ising]], ([[David Henrie]]), and [[Ub Iwerks]] (Armando Gutierrez), to help start his business. Walt had various minor successes. Frank Newman (Arthur L. Bernstein) promoted Walt's animations as Newman's Laugh O' Grams which were an instant success; however due to Disney's lack of knowledge for making the animations at no profit he was forced to have Laugh-O-Gram file for bankruptcy. Iwerks then gives Walt his camera which he later sold to purchase a train ticket to [[Los Angeles]].
+
+Walt Disney moved to Los Angeles and began working as an extra on various movies. Later he convinced his older brother, [[Roy O. Disney|Roy Disney]] ([[Jon Heder]]), to help fund his new company, [[The Walt Disney Company|Disney Brothers]]. Disney Brothers quickly sold an animation called "[[Alice Comedies]]" to a distributor named [[Margaret J. Winkler]] (Flora Bonfanti). The animation provided the Disney brothers with minor success. Walt then rehired his original team of animators which included Ub Iwerks, Fred Harmon, Rudy Ising, Hugh Harmon (Hunter Gomez), and Friz Freleng (Taylor Gray). The Disney brothers then began work on both the Alice Comedies and [[Oswald the Lucky Rabbit]] for their distributor Margaret Winkler. The company shortly thereafter began having disagreements with its distributor and lost the rights to both the Alice Comedies and Oswald the Lucky Rabbit. Various employees left Disney Brothers except for Ub Iwerks.
+
+Walt Disney visited [[New York]] in an attempt to secure a deal for his company, but failed. On a train ride back with his wife [[Lillian Disney]] (Kate Katzman) he created the concept of a mouse named Mortimer, which would become [[Mickey Mouse]]. Upon arriving in Los Angeles, Walt Disney gave the draft to Ub Iwerks who then completed the design for Mickey Mouse and Lillian who wanted a much better and friendlier name for a mouse and also planned a [[Minnie Mouse|female mouse]] would be included as his girlfriend and co-star.
+
+The film concludes with the premiere of "[[Plane Crazy]]" and with Walt Disney, Roy Disney, and Ub Iwerks leaving the movie premiere of their creation.
+
+==Cast==
+* Thomas Ian Nicholas as [[Walt Disney]]<ref name="deadline">{{cite web|author1=Jen Yamato|title=Hot Trailer: ‘Walt Before Mickey’ Shows Down-On-His-Luck Disney|url=http://deadline.com/2014/09/walt-before-mickey-trailer-disney-832136/|publisher=Deadline.com|accessdate=May 12, 2015|date=September 9, 2014}}</ref>
+** Owen Teague and Demitri Vardoulias as young Walt
+* [[Jon Heder]] as [[Roy O. Disney|Roy Disney]]<ref name="deadline" />
+** Noah Forgione as young Roy
+* [[David Henrie]] as [[Rudolf Ising|Rudy Ising]]
+* Taylor Gray as [[Friz Freleng]]
+* [[Jodie Sweetin]] as Charlotte Disney
+* Hunter Gomez as [[Hugh Harman]]
+* Ayla Kell as Bridget
+* Armando Gutierrez as [[Ub Iwerks]]
+* Arthur L. Bernstein as Frank L. Newman
+* Kate Katzman as [[Lillian Disney]]
+* Conor Dubin as [[Charles Mintz]]
+* Flora Bonfanti as [[Margaret J. Winkler]]
+* Briana Colman as Ruth Disney
+* Beatrice Taveras as [[Virginia Davis]]
+* Maralee Thompson as Dawn Paris
+* Natasha Sherritt as Edna Disney
+* Frank Licari as George Winkler
+* Timothy Williams as Fred
+* Sheena Colette as Dessie
+* Randy Molnar as Uncle Robert Disney
+* Donn Lamkin as Elias Disney
+* Nancy J. Barber as Flora Disney
+
+==Background==
+Armando Gutierrez originally approached [[Diane Disney Miller]] and Timothy Susanin with the idea of converting the book into a feature film in 2013.
+
+The script took Arthur L. Bernstein and Armando Gutierrez one year to write.
+
+===Setting===
+The majority of the filming took place in Deland and Orlando, [[Florida]].
+
+==Production==
+
+===Origin of the name "Walt Before Mickey"===
+The film is based on the book with the same name "Walt Before Mickey" written by Timothy Susanin and Diane Disney Miller "Walt Disney's Daughter". The book was published by the University of Mississippi. The original title of the movie was named "The Dreamer" which was written by Arthur L. Bernstein and Armando Gutierrez.
+
+==See also==
+*''[[Walt & El Grupo]]''
+*''[[Saving Mr. Banks]]''
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.waltbeforemickey.com/ Official website]
+
+{{DEFAULTSORT:Walt Before Mickey}}
+{{DISPLAYTITLE:''Walt Before Mickey''}}
+[[Category:Non-Disney]]
+[[Category:Films]]
+[[Category:2015 films]]
+[[Category:Biographical films]]
+[[Category:Live-action films]]

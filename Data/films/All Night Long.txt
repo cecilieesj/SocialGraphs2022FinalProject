@@ -1,0 +1,30 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = All Night Long
+|director = 
+|producer = Dana Brunetti<br>Matt Del Piano<br>Bruce Eskowitz<br>Lionel Ritchie
+|writer = Peter Chiarelli
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]<br>Cavalry Media
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = English
+|budget = 
+|gross = }}
+'''''All Night Long''''' is an upcoming American live-action musical film based on the songs by {{WPS|Lionel Ritchie}}.
+
+==Production==
+On June 9, 2020, it was announced  that Walt Disney Pictures had put into development a musical film that would use the songs of musician Lionel Richie, who will also produce the film. Peter Chiarelli was hired to write the screenplay.<ref>[https://variety.com/2020/film/news/disney-lionel-richie-movie-musical-all-night-long-1234629473/ Disney Developing Original Movie Musical ‘All Night Long’ From Lionel Richie Song Catalog (EXCLUSIVE)]</ref>
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{DISPLAYTITLE:''All Night Long''}}
+[[Category:Live-action films]]
+[[Category:Upcoming]]

@@ -1,0 +1,19 @@
+{{Infobox character
+|name = Mayor Karl Warren
+|image = 3853-15056.jpg
+|films = ''[[Pollyanna]]''
+|actor = Donald Crisp
+|occupation = Mayor of Harrington
+|alignment = Good
+|home = Harrington}}'''Mayor Karl Warren''' is the Mayor of Harrington in ''[[Pollyanna]]''.
+
+{{CharacterStub}}
+
+{{DEFAULTSORT:Warren, Karl}}
+[[Category:Live-action characters]]
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Mayors]]
+[[Category:Pollyanna characters]]
+[[Category:Disney characters]]

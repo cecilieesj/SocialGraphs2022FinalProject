@@ -1,0 +1,53 @@
+<tabber>Object=
+{{Prop
+|image=Kingdom Hearts Jiminy's Journal.png
+|games=''[[Kingdom Hearts]]<br>[[Kingdom Hearts: Chain of Memories]]<br>[[Kingdom Hearts II]]<br>[[Kingdom Hearts coded]]''
+|user=[[Jiminy Cricket]]
+|purpose=To keep record of [[Sora]] and party's journey
+|fate=Has its contents erased}}
+|-|Character=
+{{Infobox_character
+|image = JiminysJournal.png
+|name = Jiminy's Journal (Riku)
+|games = ''[[Kingdom Hearts]]''<br>''[[Kingdom Hearts: Chain of Memories]]''<br>''[[Kingdom Hearts II]]''
+|voice = Mamoru Miyano (''Japanese'')<br>David Gallagher (''English'')
+|alias = Riku
+|personality = Friendly, helpful
+|appearance = Silver hair, black Organization XIII cloak
+|goal = Helping Mickey and Co. to fix the journal
+|home = [[Disney Castle]], [[Destiny Islands]]
+|friends = [[Data Sora]], [[Mickey Mouse|King Mickey]], [[Donald Duck]], [[Goofy]], [[Jiminy Cricket]], [[Chip and Dale|Chip 'n' Dale]], [[Data Naminé]]
+|enemies = [[Heartless]], [[Bug Blox]], [[Pete]], [[Maleficent]]
+|powers = Light/Dark
+|weapons = Keyblade
+|fate = Returned back into the journal}}</tabber>'''Jiminy's Journal''' is [[Jiminy Cricket|Jiminy Cricket's]] log throughout the ''[[Kingdom Hearts (series)|Kingdom Hearts]]'' series. It acts as the game's field guide for information on the [[Heartless]], other characters, story plots, notes on the worlds, and other details about the universe. Jiminy's first journal is wiped clean at the beginning of ''Kingdom Hearts: Chain of Memories'' and again at the end, with only one sentence left: "Thank Naminé." In ''Kingdom Hearts coded'', a digitized version of the journal takes the form of [[Riku]].
+==Appearances==
+===''[[Kingdom Hearts (game)|Kingdom Hearts]]''===
+Jiminy is assigned by [[Minnie Mouse|Queen Minnie]] to chronicle [[Donald Duck|Donald]] and [[Goofy]]'s quest to find the "[[Keyblade|key]]" by recording events into his journal. After meeting Sora in [[Traverse Town]] who joins the group, Jiminy rewrites the journal entries as the party learns more about the ongoing situation.
+
+===''[[Kingdom Hearts: Chain of Memories]]''===
+Once the team enters [[Castle Oblivion]], Naminé uses her powers to make the journal blank. Jiminy refills the journal with the events of the castle, but after rescuing Naminé, the team learns that they will have to sacrifice their memories of the castle in order to heal Sora, including the words written in the journal. In order to remind themselves of their debt to Naminé, Jiminy writes the phrase "Thank Naminé" on the last page of the journal.
+
+===''[[Kingdom Hearts II]]''===
+When Sora and his friends awaken in the Old Mansion, they look through the journal for hints as to how they got there, but only find Jiminy's message about Naminé. In response, Jiminy begins a second journal to begin chronicling their continuing journey, but keeps the old journal with him.
+
+===''[[Kingdom Hearts coded]]''===
+[[File:Journal_KHc.png|thumb|left|A Mysterious Message]]
+In ''Kingdom Hearts coded'', Jiminy's journal has a much more important role in the storyline. After the events of ''Kingdom Hearts II'', Jiminy is organizing his journal in [[Disney Castle]] and comes across something that he did not write. A page says, "We must return to free them from their torment." (Changed to "Their hurting will be ended when you return to mend it" in ''Kingdom Hearts Re:coded''.) He asks King Mickey what to make of it, but the King does not know, so he digitizes the contents of the Journal. The [[Data Sora|Data-Sora]] goes through the digitized contents of the Journal and tries to debug the data. It is unknown who "them" is referring to in the sentence or where this sentence came from.
+[[File:Beneath_the_Hood_04_KHREC.png|thumb|right|Jiminy's Journal in Data-Riku's Form]]
+Soon after, a mysterious man clad in the Black Coat of Organization XIII appears and reveals himself to be a Data-Riku, who has been given possession of the Journal's memories. Data-Riku guides Data-Sora as he destroys the bugs in each of the worlds in the journal, but he is kidnapped by Pete and Maleficent, who infest him with [[Bug Blox]]. Data-Sora battles Data-Riku, and enters his data to free them of the Bug Blox. When the data in the Journal is completely debugged, Data-Sora loses his memories.
+
+After the loss of the Data-Sora's memories, Mickey finds him in Traverse Town and takes him to a data version of Castle Oblivion, where they meet and battle a Data-Roxas and eventually find a Data-Naminé, who tells them that the bugs were a side-effect of the real Naminé's tampering with Sora's memories in ''Kingdom Hearts: Chain of Memories'', and that she summoned them there to inform them that those connected to the real Sora's heart (the "them" in the message, namely Terra, Aqua, Ventus, Roxas, Axel, Xion, and the real Naminé) are hurting and that Sora must venture out to save them from their individual fates.﻿
+==Gallery==
+<gallery position="center" spacing="small" captionalign="center">
+Data-Riku (Bugged) KHREC.png
+</gallery>
+
+{{Kingdom Hearts}}
+[[Category:Kingdom Hearts characters]]
+[[Category:Characters]]
+[[Category:Characters in video games]]
+[[Category:Kingdom Hearts objects]]
+[[Category:Objects]]
+[[Category:Books (fictional)]]
+[[Category:Characters introduced in video games]]

@@ -1,0 +1,43 @@
+{{Infobox film
+|image = Ss-chinaplate.jpg
+|imagewidth = 250px
+|name = The China Plate
+|director = [[Wilfred Jackson]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = [[Marcellite Garner]]<br>[[Walt Disney]]<br>Purv Pullen
+|music = [[Frank Churchill]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[May 23]], [[1931]]
+|time = 7:32
+|preceded = ''[[Mother Goose Melodies]]''
+|followed = ''[[The Busy Beavers]]''
+}}
+'''''The China Plate''''' is a black-and-white ''[[Silly Symphony]]'' that was released on [[May 23]], [[1931]].
+
+==Synopsis==
+The designs on a china plate come to life and tell us the story of two star-crossed lovers and the problems caused them by a Mandarin and a fire-breathing dragon.
+
+==Home video releases==
+'''DVD'''
+*''[[Walt Disney Treasures]]: Silly Symphonies''
+
+==Gallery==
+<gallery captionalign="center" position="center">
+14005.jpg
+14006.jpg
+14007.jpg
+14010.jpg
+14011.jpg
+14012.jpg
+CHINA_PLATE.png
+</gallery>
+
+{{Silly Symphony}}
+{{DEFAULTSORT:China Plate, The}}
+[[Category:Silly Symphonies]]
+[[Category:Animated shorts]]
+[[Category:1931 shorts]]
+[[Category:Featured shorts]]

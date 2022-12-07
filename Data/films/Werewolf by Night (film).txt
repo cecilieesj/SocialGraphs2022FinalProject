@@ -1,0 +1,108 @@
+{{Marvel Database:Film Template
+| Image                   = Werewolf by Night (film) poster 001.jpg
+| Aliases                 = Buzzcut (working title)
+
+| Directors               = Michael Giacchino
+| Producers               = Kevin Feige; Leeann Stonebreaker
+| ScreenplayWriters       = Peter Cameron; Heather Quinn
+| StoryWriters            = Heather Quinn
+| Musicians               = Michael Giacchino
+| Cinematographers        = Zoë White
+| Editors                 = Jeffrey Ford
+| ProductionCompanies     = Marvel Studios
+| Distributors            = Disney Platform Distribution
+| Running Time            = 54 minutes
+| Rating                  = TV-14
+| Budget                  = 
+| Release Date            = October 7, 2022
+| IMDB ID                 = 17061910
+| MCU                     = Werewolf By Night (TV special)
+| Marvel Movies           = Werewolf by Night (Disney+ Special)
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Jack Russell (Earth-199999)|Werewolf by Night (Jack Russell)]]}}
+* {{1st|[[Elsa Bloodstone (Earth-199999)|Elsa Bloodstone]]}}
+'''Supporting Characters:'''
+* {{1st|[[Theodore Sallis (Earth-199999)|Man-Thing (Ted Sallis)]]}}
+'''Antagonists:'''
+* {{Only Dies|[[Joshua Jovan (Earth-199999)|Joshua Jovan]]}}
+* {{Only Dies|[[Liorn (Earth-199999)|Liorn]]}}
+* {{Only Dies|[[Barasso (Earth-199999)|Barasso]]}}
+* {{Only Dies|[[Azarel (Earth-199999)|Azarel]]}}
+* {{Only Dies|[[Verussa Bloodstone (Earth-199999)|Verussa Bloodstone]]}}
+'''Other Characters:'''
+* {{Drawing|[[Avengers (Earth-199999)|Avengers]]}}
+** {{Drawing|[[Clinton Barton (Earth-199999)|Hawkeye (Clint Barton)]]}}
+** {{Drawing|[[Natalia Romanoff (Earth-199999)|Black Widow (Natasha Romanoff)]]}}
+** {{Drawing|[[Steven Rogers (Earth-199999)|Captain America (Steve Rogers)]]}}
+** {{Drawing|[[Anthony Stark (Earth-199999)|Iron Man (Tony Stark)]]}}
+** {{Drawing|[[Bruce Banner (Earth-199999)|Hulk (Dr. Bruce Banner)]]}}
+** {{Drawing|[[Thor Odinson (Earth-199999)|Thor]]}}
+* {{Corpse|[[Ulysses Bloodstone (Earth-199999)|Ulysses Bloodstone]]}} {{Destroyed}} {{g|Dies off-screen}}
+* {{Mentioned|[[Elise Bloodstone (Earth-199999)|Elise Bloodstone]]}}
+* Septimus Bloodstone {{Mentioned}} {{Drawing}}
+* Frances {{Mentioned}}
+* {{1st|[[Billy Swan (Earth-199999)|Billy Swan]]}}
+* {{1st|[[Krogg (Demon) (Earth-199999)|Krogg]]}} {{Corpse}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{Drawing|[[Asgardians]]}}
+* {{Drawing|[[Sasquatch (Race)|Sasquatch]]}} {{Corpse}}
+* {{1st|[[Werewolves]]}}
+* {{1st|[[Man-Things]]}}
+* {{a|[[Mermaids]]}} {{Corpse}}
+* {{a|[[Bat-Demons]]}} {{Corpse}}
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+** {{a|[[Earth]]}}
+*** {{Drawing|[[British Columbia]]}}
+** {{a|[[Luna (Moon)|Moon]]}}
+'''Items:'''
+* {{Drawing|[[Hawkeye's Bow]]}}
+* {{Drawing|[[Trick Arrows]]}}
+* {{Drawing|[[Black Widow's Gauntlets]]}}
+* {{Drawing|[[Captain America's Uniform]]}}
+* {{Drawing|[[Captain America's Shield]]}}
+* {{Drawing|[[Iron Man Armor MK VII (Earth-199999)|Iron Man Armor MK VII]]}}
+* {{Drawing|[[Arc Reactor]]}}
+* {{Drawing|[[Mjolnir]]}}
+* {{a|[[Bloodgem|Bloodstone]]}}
+<!--'''Vehicles:'''
+* <br/>-->
+
+| Plot                    = 
+
+| Cast                    = * {{WP|Gael García Bernal}} as [[Jack Russell (Earth-199999)|Werewolf by Night / Jack Russell]]
+
+* {{WP|Laura Donnelly}} as [[Elsa Bloodstone (Earth-199999)|Elsa Bloodstone]]
+
+* {{WP|Harriet Sansom Harris}} as [[Verussa Bloodstone (Earth-199999)|Verussa Bloodstone]]
+
+* {{WP|Kirk Thatcher}} as [[Joshua Jovan (Earth-199999)|Joshua Jovan]]
+
+* Eugenie Bondurant as [[Azarel (Earth-199999)|Azarel]]
+
+* {{WP|Leonardo Nam}} as [[Liorn (Earth-199999)|Liorn]]
+
+* Carey Jones as [[Theodore Sallis (Earth-199999)|Man-Thing / Ted Sallis]]
+
+** {{WP|Jeffrey Ford (film editor)|Jeffrey Ford}} as Man-Thing / Ted Sallis <small>(voice)</small>
+
+* {{WP|Daniel J. Watts}} as [[Barasso (Earth-199999)|Barasso]]
+
+* Al Hamacher as [[Billy Swan (Earth-199999)|Billy Swan]]
+
+* Richard Dixon as [[Ulysses Bloodstone (Earth-199999)|Ulysses Bloodstone]]
+
+| Notes                   = * This is the first [[Marvel Cinematic Universe]]-property to be made as a television special, exclusively for the streaming service Disney+.
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Direct-to-Video Films|Marvel Films]]
+}}
+[[ru:Ночной оборотень (спецвыпуск)]]
+[[tr:Werewolf by Night (film)]]
+[[Category:Disney+]]
+[[Category:Marvel Studios]]

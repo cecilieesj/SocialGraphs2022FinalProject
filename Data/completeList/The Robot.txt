@@ -1,0 +1,35 @@
+{{Infobox character
+|image = The Robot.jpg
+|films = ''[[Sky High]]''
+|alignment = Bad
+|weapons = Pincher, Serrated Sphere Hand
+|fate = Destroyed}}
+'''The Robot''' is a minor villain featured in the live-action film, ''[[Sky High]]''.
+==History==
+The Robot was created by [[Royal Pain]] to wreak havoc on the city. Unbeknownst to everyone, the real reason it was created was to trick [[The Commander]] and [[Jetstream]] in destroying it. Royal Pain knew that the commander likes to keep tropies of his victories, so she designed the eye to be a camera so she could spy on The Commander and Jetstream. Jetstream hurled the Commander's powerful body into the robot, toppling it.
+
+After the robot died, the Commander took the eye to his secret lair where she discovered that he was keeping her old weapon, [[The Pacifier (Sky High)|the Pacifier]].
+
+==Gallery==
+<gallery spacing="small" captionalign="left">
+The Robot Head.jpg
+The Robot attack.jpg
+The Robot Destroyed.jpg
+The Robot Eye.jpg
+</gallery>
+
+{{CharacterStub}}
+{{Sky High}}
+{{DEFAULTSORT:Robot, The}}
+[[Category:Sky High characters]]
+[[Category:Silent characters]]
+[[Category:Villains]]
+[[Category:Sky High]]
+[[Category:Characters]]
+[[Category:Those destroyed]]
+[[Category:Giants]]
+[[Category:Sky High objects]]
+[[Category:Robots]]
+[[Category:Objects]]
+[[Category:Disney characters]]
+[[Category:Live-action characters]]

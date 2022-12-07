@@ -1,0 +1,21 @@
+{{Infobox character
+|image = Doctor Drift.png
+|name = Doctor Drift
+|games = ''[[Toontown Online]]''
+|alignment = Neutral
+|appearance = Red Horse<br>Lavender Mouse (Formerly)}}
+'''Doctor Drift''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC red [http://toontown.wikia.com/wiki/Horse Horse] who resides in [http://toontown.wikia.com/index.php?title=Anchor_Management&action=edit&redlink=1 Anchor Management] on [http://toontown.wikia.com/wiki/Lighthouse_Lane Lighthouse Lane], [http://toontown.wikia.com/wiki/Donald%27s_Dock Donald's Dock].
+
+==SOS Toon==
+﻿Doctor Drift is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. She is a 3-star Restock Lure SOS. She will restock [http://toontown.wikia.com/wiki/Lure_Gags Lure Gags] for all toons in battle.
+
+==Trivia==
+*She was one of the toons who was remodeled.
+*She used to be a Lavender [http://toontown.wikia.com/wiki/Mouse Mouse].
+
+{{DEFAULTSORT:Drift}}
+[[Category:Toontown characters]]
+[[Category:Horses]]
+[[Category:Females]]
+[[Category:Characters]]
+{{Toontown Online}}

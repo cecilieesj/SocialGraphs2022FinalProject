@@ -1,0 +1,47 @@
+{{Infobox film
+| name           = Monkeys, Go Home!
+| image          = File:Monkeys_Go_Home.jpg
+| director       = Andrew V. McLaglen
+| producer       = [[Walt Disney]]
+| writer         = Maurice Tombragel (screenplay)<br>G.K. Wilkinson (book)
+| starring       = [[Maurice Chevalier]]<br>Yvette Mimieux<br>[[Dean Jones]]
+| music          = [[Robert F. Brunner]]
+| cinematography = William E. Snyder
+| editing        = Marsh Hendry 	
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| release        = [[February 8]], [[1967]]
+| time           = 101 minutes
+| language       = English
+| gross          = $3,000,000 (US/Canada)}}'''''Monkeys, Go Home!''''' is a [[1967]] [[Walt Disney Productions|Disney]] film directed by Andrew V. McLaglen. The movie stars [[Maurice Chevalier]] and Yvette Mimieux. [[Dean Jones]] plays Hank Dussard, the new owner of an olive grove, who brings in chimp labor, upsetting the other workers. Hank eventually gains the town's confidence with the kind aid of Father Sylvain and his neighbor Maria Riserau.
+
+==Plot==
+Henry Dussard, a young American, inherits a picturesque but badly neglected olive farm in southern France and is determined to make it operational again despite cautionary advice from the local priest and a pretty villager. Desperate for laborers, the inventive Dussard turns to the zaniest crew of olive pickers ever recruited - four mischievous monkeys! As former members of an Air Force space team, these intelligent chimps quickly pick up on their new responsibilities - but prove to have a turbulent effect on the local townspeople.
+
+==Cast==
+*[[Maurice Chevalier]] as Father Sylvain
+*[[Dean Jones]] as Hank Dussard
+*Yvette Mimieux as Maria Riserau
+*Bernard Woringer as Marcel Cartucci
+*Clément Harari as Emile Paurilis
+*[[Darleen Carr]] as Sidoni Riserau
+
+==Trivia==
+*The pig head ornament is referenced back in the film ''12 Monkeys'', at the environmentalist's headquarters.
+*This is the first film produced by [[Walt Disney Productions]] after its founder's death.
+*A copyright renewal for the film was registered on [[November 4]], [[1994]].<ref>[https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First&Search_Arg=RE0000678124&Search_Code=REGS Online Copyright Catalog search (form autofilled, pressing "begin search" brings up the entry)]</ref>
+
+==Gallery==
+<gallery>
+Maria Riserau.jpg
+Monkey's Go Home Banner.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:1967 films]]
+[[Category:Films about animals]]
+[[Category:Unrated films]]

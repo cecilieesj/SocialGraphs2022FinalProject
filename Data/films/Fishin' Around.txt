@@ -1,0 +1,58 @@
+{{Infobox film
+|image = Fishin'aroundposter.jpg
+|imagewidth = 250px
+|name = Fishin' Around
+|director = [[Burt Gillett]]
+|producer = Walt Disney
+|writer = 
+|starring = [[Walt Disney]]<br>[[Pinto Colvig]]
+|music = Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[September 25]], [[1931]]
+|time = 7:19
+|preceded = ''[[Blue Rhythm]]''
+|followed = ''[[The Barnyard Broadcast]]''}}
+'''''Fishin' Around''''' is a ''[[Mickey Mouse]]'' cartoon that debuted [[September 25]], [[1931]].
+
+==Summary==
+Mickey and [[Pluto]] fish in a spot where no fishing is allowed. They enjoy various gags and a chase around the river bottom before the sheriff shows up.
+
+==Characters==
+*[[Mickey Mouse]]
+*[[Pluto]]
+
+==Releases==
+===Television===
+*''[[Mickey's Mouse Tracks]]'', episode #32
+*''[[Donald's Quack Attack]]'', episode #70
+
+===Home video===
+'''VHS'''
+*''[[Walt Disney Cartoon Classics]]: Fisherman Mickey''
+
+'''Laserdisc'''
+*''Walt Disney Cartoon Classics: Fisherman Mickey''
+
+'''DVD'''
+*''[[Walt Disney Treasures: Wave Two|Walt Disney Treasures]]: Mickey Mouse in Black and White''
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150">
+14705.jpg
+14706.jpg
+14707.jpg
+14710.jpg
+14711.jpg
+14712.jpg
+</gallery>
+
+==Kingdom Hearts III==
+The ''[[Kingdom Hearts III]]'' minigame "Fishin' Frenzy" is based on this cartoon.
+
+{{Mickey-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Pluto shorts]]
+[[Category:1931 shorts]]

@@ -1,0 +1,83 @@
+{{Infobox film
+|image = Ole.png
+|director = Saschka Unseld
+|producer = Marc Greenberg
+|writer = 
+|studio = [[Pixar|Pixar Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[February 12]], [[2013]] (Berlin International Film Festival)<br>[[June 21]], [[2013]] (with ''[[Monsters University]]'')
+|time = 7 minutes
+|language = English
+|preceded= ''[[The Legend of Mor'du]]
+|followed= ''[[Party Central]]''|music = Jon Brion}}'''''The Blue Umbrella''''' is a [[Pixar Animation Studios|Pixar]] 3D computer-animated short film that was released with the theatrical release of ''[[Monsters University]]''.<ref name="WSJ1st">[http://online.wsj.com/article/SB10001424127887323482504578225593275263414.html A Short Pixar Film's Unusual Pedigree]</ref> It is directed by Saschka Unseld and produced by Marc Greenberg. The score of the short is provided by Jon Brion,<ref>[http://blogs.indiewire.com/theplaylist/jon-brion-to-release-soundtrack-for-ghoulish-animated-film-paranorman-20120724 Soundtrack Details For Jon Brion's Score For Ghoulish Animated Film 'ParaNorman']</ref> and includes vocals by Sarah Jaffe.<ref name=WSJ/>
+
+==Synopsis==
+''It is just another evening commute until the rain starts to fall, and the city comes alive such as street signs, lights, awnings, mailboxes, buildings, houses, drains, drain pipes, rain gutters, doors, and windows. And in the midst, two umbrellas — one [[Blue Umbrella|blue]], one[[Red Umbrella| red]] — fall eternally in love.''
+
+==Production==
+Unseld said he conceptualized the story after finding an abandoned umbrella one rainy day in [[San Francisco]], which led him to imagine its backstory.<ref name=WSJ>[http://blogs.wsj.com/speakeasy/2013/01/07/watch-an-exclusive-clip-of-pixars-new-short-the-blue-umbrella/ Watch an Exclusive Clip of Pixar’s New Short, ‘The Blue Umbrella’]</ref> As inspiration for characters, Unseld and his colleagues took photographs of inanimate objects found in city streets throughout San Francisco and [[New York City]], as well as [[Chicago]] and [[Paris]].<ref name=WSJ/>
+
+Unseld says the decision of going for a photorealist design was not part of the original idea; rather, it came out during the production, as Unseld thought it was crucial in order to make the objects of the city come to life.<ref name="venture">[http://venturebeat.com/2013/04/24/how-pixar-created-the-ultrarealistic-animated-film-the-blue-umbrella-interview/view-all/ How Pixar created the ultrarealistic animated film, The Blue Umbrella (interview)]</ref> Unseld said: "It made sense to have the story take place in a real city because the magic of it coming to life would be so much stronger."<ref name="hwr">[http://www.hollywoodreporter.com/behind-screen/pixars-new-short-blue-umbrella-558405 Pixar's New Short 'The Blue Umbrella' Takes a Photoreal Approach]</ref> This photorealism the short opts for is unusual for Pixar.<ref>[http://www.creativebloq.com/animation/blue-umbrella-9134659 How Pixar made The Blue Umbrella]</ref> At one point, Unseld even considered using live-action to shoot some of the sequences, but ultimately decided to stick with animation, as it enabled a greater control and flexibility of the scenes.<ref>[http://blogs.indiewire.com/animationscoop/immersed-in-movies-pixar-goes-photoreal-for-blue-umbrella-short Immersed in Movies: Pixar Goes Photoreal for 'Blue Umbrella' Short]</ref><ref name="hwr"/>
+
+To achieve this appearance, Pixar used new technologies, like "global illumination", a simulation of how light is emitted and reflected off surfaces (also featured in ''Monsters University''<ref name="WSJ1st"/>), and "deep compositing", the layering of images that hold three-dimensional data.<ref name=WSJ/> To give some scenes more realism, the team used a system of camera motion capture, which enabled them to re-shot scenes by recording the movements of a dummy camera to give a hand-held camera feel.<ref name=PP>[http://www.pixarpost.com/2013/03/interview-with-saschka-unseld-director.html Interview with Saschka Unseld, director of The Blue Umbrella - Transcription ]</ref>
+
+Unseld mentioned a notable difficulty of the short was figuring the appearances of the umbrellas' faces and animating them. He found that using a realist approach, like forming the faces with raindrops or imprinting them in the cloth was odd, and preferred a stylized appearance inspired by the look of early Disney animations.<ref>[http://blogs.wsj.com/speakeasy/2013/01/07/exclusive-another-still-from-pixars-the-blue-umbrella/ Exclusive: New Still From Pixar’s ‘The Blue Umbrella’]</ref>
+
+A Tumblr blog called [http://rainycitytales332.tumblr.com/ Rainy City Tales 332] and run by Unseld, quietly followed the development of the short since February 2012, long before the official announcement, but always in an indirect fashion, never giving away the plot of the short or name of the producing studio.
+
+==Release==
+''The Blue Umbrella'' premiered on [[February 12]], [[2013]], at the 63rd Berlin International Film Festival.<ref>[http://www.pixarpost.com/2013/01/the-blue-umbrella-premiers-on-february.html The Blue Umbrella Premiers on February 12, 2013]</ref> It was released with ''Monsters University'' theatrically on [[June 21]], 2013. It was included on the ''Monsters University'' DVD and Blu-ray.<ref>[http://www.highdefdiscnews.com/pixars-monsters-university-comes-to-blu-ray-and-blu-ray-3d-in-october/ Pixar’s “Monsters University” comes to Blu-ray and Blu-ray 3D in October]</ref>
+
+Jon Brion's score, featuring Sarah Jaffe's vocals, was released digitally by Walt Disney Records on [[July 9]], 2013.<ref>[http://filmmusicreporter.com/2013/07/03/walt-disney-records-to-release-jon-brions-the-blue-umbrella-score/ Walt Disney Records to Release Jon Brion’s ‘The Blue Umbrella’ Score]</ref>
+
+==Characters==
+*[[Blue Umbrella]]
+*[[Red Umbrella]]
+
+==Trivia==
+[[File:Blue_umbrella_mu_yellow_car_mod_copie.jpg|thumb|A car poster from ''[[Monsters University]]'' on a billboard]][[File:Tbu park hollis copie.jpg|thumb]][[File:Luigi_the_blue_umbrella_tires_copie.jpg|thumb|An advertisement for [[Luigi's Casa Della Tires]] on a vending machine]]
+*The team gave unique names to all the characters appearing in the film. To avoid some confusion for newly involved animators, Saschka Unseld made a poster listing all characters to help keep track of the names.<ref name="PP" /> For instance, the first character in the short is named Lisa, and the pedestrian signals Flip and Flap.<ref>[http://www.theblueumbrellamakingofholidaycalendar.com/#/december-9th/ - 9. City Character Design]</ref>
+*Unseld indicated the inspiration for the first character seen in the short, was found not far from where he lives, at an intersection on Bush St., in San Francisco.<ref>[http://rainycitytales332.tumblr.com/tagged/Lisa Rainy City Tales 332]</ref>
+*A picture of a yellow six-wheeled sports car, seen in ''[[Monsters University]]'' in the basement of the [[Oozma Kappa]] fraternity house, is featured on a billboard. Oddly enough, this short was released in front of ''Monsters University''.
+*The intersecting streets where the action takes place are called Park Ave. and Hollis, the names of the streets at the intersection of which Pixar Animation Studios is located.
+*The newspaper vending machine next to the gutter character has a worn-off picture of [[Luigi's Casa Della Tires]] on its front.<ref>The exact image used can be found at page 97 in [[The Art of Cars]].</ref>
+*A poster of ''[[John Carter]]'' can be seen in a bus stop window.
+*A bus displays "Hemberger Hill" as its destination, an allusion to both Allen Hemburger, effects lead of the short, and the feature film ''Hamburger Hill''.
+*Several of the graffiti graphics used in the short were named after crew members. Others were reused from ''Monsters University''.<ref>[http://www.theblueumbrellamakingofholidaycalendar.com/#/december-18th/ The Blue Umbrella Making-Of Holiday Calendar - 18. Graphics]</ref>
+*According to Unseld, the last shot of the film is a nod to Linklater's ''Before'' trilogy.<ref>[https://twitter.com/rainycitytales3/status/348124293269450752 Twitter]</ref>
+*Several of the neons created for the short ("Flo's Cafe", "[[Luigi's Casa Della Tires]]", etc.) allude to neons found in [[Radiator Springs]].<ref>[http://rainycitytales332.tumblr.com/tagged/Dreams-of-Neon Rainy City Tales 332 - Dreams of Neon]</ref>
+*The short's plot may be a homage to the ''[[Make Mine Music]]'' segment ''[[Johnny Fedora and Alice Blue Bonnet]]'', with its primary focus on inanimate objects that are anthropomorphic for the film.
+
+==Gallery==
+<gallery position="center" widths="150" captionalign="center" spacing="small">
+The Blue Umbrella - Extended Clip|Extended Clip
+The blue umbrella logo margins.jpg
+HP-Blue-Umbrella-poster-umbrellas.jpg
+HP-Blue-Umbrella-poster-city.jpg
+HP-Blue-Umbrella-poster-rain.jpg
+TheBlueUmbrella-PTExclusive.jpg
+Firstlookblueumbrella.jpg
+WSJ umbrella second still.jpg
+tumblr mpj18g36OT1rvhqlvo1 1280.jpg
+Blue umbrella h 2013.jpg
+The-Blue-Umbrella-Concept-Art-1.jpg
+The-Blue-Umbrella-Concept-Art-2.jpg
+The-Blue-Umbrella-Concept-Art-3.jpg
+Rct332_blue_umbrella_poster.jpg
+Pixar Short "The Blue Umbrella" Clip
+</gallery>
+
+==References==
+{{Reflist}}
+{{PixarWiki}}
+{{DEFAULTSORT:Blue Umbrella, The}}
+[[es:The Blue Umbrella]]
+[[pl:Niebieski parasol]]
+[[Category:Animated shorts]]
+[[Category:Monsters, Inc.]]
+[[Category:2013 shorts]]
+[[Category:Pixar shorts]]
+[[Category:2013 films]]
+[[Category:Pixar films]]
+[[Category:3-D films]]
+[[Category:Featured shorts]]

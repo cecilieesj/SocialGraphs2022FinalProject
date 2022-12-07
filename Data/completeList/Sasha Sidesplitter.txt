@@ -1,0 +1,18 @@
+{{Infobox character
+|image = Sasha Sidesplitter.png
+|name = Sasha Sidesplitter
+|games = ''[[Toontown Online]]''
+|occupation = Shopkeeper
+|alignment = Neutral}}
+'''Sasha Sidesplitter''' is a NPC and a shopkeeper toon of [http://toontown.wikia.com/wiki/Sidesplitter%27s_Mending Sidesplitter's Mending] on [http://toontown.wikia.com/wiki/Loopy_Lane Loopy Lane], [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central].
+
+==Toontasks==
+﻿Only Just for Fun! or Gag Training comes from the shopkeeper.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Cats]]
+[[Category:Females]]
+[[Category:Characters]]
+[[Category:Characters in video games]]
+{{Toontown Online}}

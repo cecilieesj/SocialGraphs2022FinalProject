@@ -1,0 +1,70 @@
+{{Marvel Database:Film Template
+| Title                   = The Marvels
+| Image                   = The Marvels updated logo.png
+| Aliases                 = Captain Marvel 2, Goat Rodeo (working title)
+
+| Directors               = Nia DaCosta
+| Producers               = [[Kevin Feige]]
+| ScreenplayWriters       = Megan McDonnell;
+| Musicians               = Laura Karpman
+| Cinematographers        = Sean Bobbitt
+| Editors                 = Catrin Hedström
+| ProductionCompanies     = Marvel Studios
+| Distributors            = Walt Disney Studios Motion Pictures
+| Running Time            = 
+| Rating                  = <!--Do not place until official rating has been given by the MPAA-->
+| Budget                  = $160 million
+| Release Date            = July 28, 2023
+
+| IMDB ID                 = 10676048
+| Marvel Movies           = The Marvels
+| MCU                     = The Marvels
+
+| Previous Film           = Captain Marvel (film)
+| Previous Film2          = {{sld|Avengers: Endgame}}
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* [[Carol Danvers (Earth-199999)|Captain Marvel (Carol Danvers)]]
+* Ms. Marvel (Kamala Khan)<!-- DO NOT create page -->
+* [[Monica Rambeau (Earth-199999)|Maria Rambeau]]
+'''Supporting Characters:'''
+* <br/>
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* <br/>
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Brie Larson|Brie Larson]] as [[Carol Danvers (Earth-199999)|Captain Marvel / Carol Danvers]]<ref name="Shareholder">{{cite web|url= https://www.marvel.com/articles/movies/captain-marvel-2-ms-marvel-nia-dacosta|title= ‘Captain Marvel 2’ Flies Higher, Further, Faster with Director Nia DaCosta|work= Marvel.com|last= Paige|first= Rachel|date= December 10, 2020|accessdate= December 11, 2020}}</ref>
+
+* [[wikipedia:Iman Vellani|Iman Vellani]] as [[Kamala Khan|'''Ms. Marvel / Kamala Khan''']]<ref name="Shareholder"/>
+
+* [[wikipedia:Teyonah Parris|Teyonah Parris]] as [[Monica Rambeau (Earth-199999)|Monica Rambeau]]<ref name="Shareholder"/>
+
+Additionally, [[wikipedia:Zawe Ashton|Zawe Ashton]] has been cast in an undisclosed antagonist role,{{r|{{cite web|url= https://www.hollywoodreporter.com/heat-vision/zawe-ashton-joins-brie-larson-in-captain-marvel-2|title= Zawe Ashton Joins Brie Larson in 'Captain Marvel 2'|work= THR|last= Vlessing|first= Etan|date= February 12, 2021|accessdate= February 12, 2021}}}} with [[wikipedia:Park Seo-joon|Seo-Joon Park]] also cast in an undisclosed role.{{r|{{cite web|url= https://n.news.naver.com/entertain/article/108/0002963609|title= [Exclusive] Seo-Jun Park joins the Marvel movie 'Captain Marvel 2'... Breathing with Brie Larson|work= Naver|last= Hwa|first= Jung|date= June 15, 2021|accessdate= June 29, 2021}}}}
+
+| Notes                   = * Originally slated to be released on July 8, 2022,{{r|{{cite web|url= https://variety.com/2020/film/box-office/disney-mulan-black-widow-release-dates-coronavirus-1203550173/|title= ‘Black Widow,’ ‘Eternals,’ ‘Indiana Jones 5’ and More Disney Films Get New Release Dates|work= Variety|last= Rubin|first= Rebecca|date= April 3, 2020|accessdate= December 11, 2020}}}} this film was later pushed back to November 11, 2022.<ref name="Shareholder"/> The release was later taken by {{ml|Black Panther: Wakanda Forever}}, pushing this film back to February 17, 2023, taking the release date of {{ml|Ant-Man and the Wasp: Quantumania}}.{{r|{{cite web|url= https://variety.com/2021/film/news/disney-delays-doctor-strange-thor-black-panther-1235091673/|title= Disney Delays ‘Doctor Strange 2,’ ‘Thor 4,’ ‘Black Panther’ Sequel and ‘Indiana Jones 5’|work= Variety|last= Rubin|first= Rebecca|date= October 18, 2021|accessdate= October 18, 2021}}}} However, this film and ''Ant-Man and the Wasp: Quantumania'' would swap each others' release dates on April 29, 2022, pushing this film back to July 28, 2023.{{r|{{cite web|url= https://deadline.com/2022/04/ant-man-and-the-wasp-quantumania-the-marvels-swap-release-dates-1235013181/|title= ‘Ant-Man and the Wasp: Quantumania’ & ‘The Marvels’ Swap Release Dates|work= Deadline|last= Pedersen|first= Erik|date= April 29, 2022|accessdate= April 29, 2022}}}}
+* On August 10, 2021, Brie Larson confirmed that the filming for this film was in progress.{{r|{{cite web|url= https://comicbook.com/marvel/news/marvels-filming-brie-larson-captain-marvel/|title= The Marvels: Brie Larson Confirms Captain Marvel Sequel Is Currently Filmin|work= ComicBook.com|last= Ridgely|first= Charlie|date= August 10, 2021|accessdate= August 11, 2021}}}}
+| Trivia                  = * The film's logo incorporates elements from Monica Rambeau's Spectrum costume and Kamala Khan's Ms. Marvel costume.
+
+== Trailers ==
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios Celebrates The Movies
+</gallery>
+
+
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}
+[[tr:Marvels (film)]]
+[[Category:Marvel Studios]]

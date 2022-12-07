@@ -1,0 +1,26 @@
+{{Infobox character
+|image = Sharky Jones.png
+|name = Sharky Jones
+|games = ''[[Toontown Online]]''
+|occupation = Shopkeeper
+|alignment = Neutral}}
+'''Sharky Jones''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC [http://toontown.wikia.com/wiki/Duck Duck] and a shopkeeper who appeared in the discontinued online video game, ''[[Toontown Online]]''. He owns the [http://toontown.wikia.com/wiki/14_Karat_Goldfish 14 Karat Goldfish] located in [http://toontown.wikia.com/wiki/Loopy_Lane Loopy Lane], [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central]. He gives Toons a task that allows Toons to carry two [http://toontown.wikia.com/wiki/Toontask Toontasks].
+
+==Toontask==
+﻿This Toontask will allow Toons to have the ability to carry two Toontasks at a time. This task will be given nearest to the end of their [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central] journey.
+#'''Visit''' Sharky Jones in [http://toontown.wikia.com/wiki/14_Karat_Goldfish <u>14 Karat Goldfish</u>], [http://toontown.wikia.com/wiki/Loopy_Lane Loopy Lane].
+#'''Recover''' a Goldfish Receipt from [http://toontown.wikia.com/wiki/Cogs The Cogs].(Anywhere)
+#'''Return''' to Sharky Jones.
+#'''Deliver''' a Goldfish Receipt to [http://toontown.wikia.com/wiki/Professor_Wiggle Professor Wiggle] in [http://toontown.wikia.com/wiki/Professor_Wiggle%27s_House_of_Giggles Professor Wiggle's House of Giggles], [http://toontown.wikia.com/wiki/Punchline_Place Punchline Place].
+#'''Recover''' a Goldfish from [http://toontown.wikia.com/wiki/Flunky Flunkies].(Anywhere)
+#'''Return''' to Sharky Jones.
+#'''Fish''' out 4 Goldfish from [http://toontown.wikia.com/wiki/Fishing fishing] ponds.(Anywhere)
+#'''Return''' to Sharky Jones.
+'''Reward: '''Ability to Carry 2 Toontasks﻿
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Males]]
+[[Category:Ducks]]
+[[Category:Neutral characters]]
+{{Toontown Online}}

@@ -1,0 +1,45 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|title = Untitled Nova film
+|director = 
+|writer = Sabir Pirzada
+|starring =
+|producer = [[Kevin Feige]]
+|cinematography = 
+|music = 
+|editor = 
+|time = 
+|studio = [[Marvel Studios]]
+|distributor = [[Disney+]]
+|language = English
+|release = 
+|preceded = 
+|followed = 
+|budget = 
+|website = 
+|imdb_id = 19037048}}
+The '''''untitled Nova film''''' is an upcoming American television special, set within the [[Marvel Cinematic Universe]] centering on [[Nova (Marvel)|Nova]]. It is the third television special for [[Disney+]].
+
+==Production==
+On [[March 24]], [[2022]], ''Deadline'' reported that a Nova project would be in the works, for [[Marvel Studios]]. Sabir Pirzada, who was a scribe for ''[[Moon Knight (TV series)|Moon Knight]]'', ''[[Ms. Marvel (TV series)|Ms. Marvel]]'' and [[Marvel Comics]], was hired as a writer, for the upcoming project.<ref>{{Cite web|url=https://deadline.com/2022/03/marvel-nova-moon-knight-sabir-pirzada-1234985015/|title=Marvel Developing ‘Nova’ Project With ‘Moon Knight’ Scribe Sabir Pirzada|website=Deadline|date=[[March 24]], [[2022]]}}</ref>
+
+On October 13, 2022, it was reported that the project would become a [[Disney+]] television special, following ''[[Werewolf by Night (film)|Werewolf by Night]]'' and ''[[The Guardians of the Galaxy Holiday Special]]''.<ref>[https://www.thecosmiccircus.com/exclusive-marvels-nova-to-be-a-special-presentation-on-disney/ Exclusive: Marvel’s Nova to Be a Special Presentation on Disney+]</ref>
+
+==References==
+{{Reflist}}
+
+{{FilmStub}}
+{{Marvel Cinematic Universe}}
+{{Disney+}}
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Films based on comics]]
+[[Category:Disney+ Originals]]
+[[Category:Marvel Cinematic Universe films]]
+[[Category:Live-action films]]
+[[Category:Marvel Cinematic Universe]]
+[[Category:Marvel Comics]]
+[[Category:Nova]]
+[[Category:Television specials]]

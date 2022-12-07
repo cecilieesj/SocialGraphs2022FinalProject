@@ -1,0 +1,45 @@
+{{Infobox film
+|image = Elephant - Poster.jpeg
+|director = Mark Linfield<br>Vanessa Berlowitz
+|producer = Mark Linfield<br>Vanessa Berlowitz<br>Roy Conli
+|starring = [[Meghan Markle|Meghan, Duchess of Sussex]] (narration)
+|music = Ramin Djawadi
+|cinematography = Martyn Colbeck<br>Mike Holding<br>Tom Walker
+|editor = Nigel Buck
+|studio = [[Disneynature]]
+|distributor = [[Disney+]]
+|release = [[April 3]], [[2020]]
+|time = 86 minutes
+|language = English
+|imdb_id = 12036052
+|preceded= ''[[Dolphin Reef]]''
+|followed= ''[[Polar Bear]]''}}
+'''''Elephant'''''is a [[Disneynature]] documentary film, centered around elephants in Africa.
+
+The film was released on [[Disney+]] on [[April 3]], [[2020]], accompanied by a feature-length documentary on its production titled ''In the Footsteps of Elephant''.
+
+==Summary==
+The film follows African elephant Shani and her spirited son Jomo as their herd make an epic journey hundreds of miles across the vast Kalahari Desert. Led by their great matriarch, Gaia, the family faces brutal heat, dwindling resources and persistent predators, as they follow in their ancestor’s footsteps on a quest to reach a lush, green paradise.
+
+==Videos==
+<gallery position="center" captionalign="center">
+Disneynature's Elephant and Dolphin Reef Streaming April 3 Disney
+</gallery>
+
+==Trivia==
+*This is one of the last Disneynature films to use the 1967 MPAA logo in the end credits, alongside ''[[Dolphin Reef]]''. However, they were still not the last [[Disney+]] original films to do so since that logo was still used for ''[[Magic Camp]]'', which debuted exclusively on the streaming service on [[August 14]], [[2020]].
+
+==References==
+{{Reflist}}
+{{Disney+}}
+{{DISPLAYTITLE:''Elephant''}}
+[[pt-br:Elefante]]
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:Disneynature films]]
+[[Category:Films about animals]]
+[[Category:G-rated films]]
+[[Category:Documentaries]]
+[[Category:2020 films]]
+[[Category:Disney+ Originals]]

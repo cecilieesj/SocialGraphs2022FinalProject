@@ -1,0 +1,48 @@
+{{Infobox character
+|image = DrWorley.jpg
+|name = Dr. Worley
+|films = ''[[Return to Oz]]''
+|shorts = 
+|shows = 
+|games = 
+|rides =
+|actor = Nicol Williamson
+|actress = 
+|animator = 
+|voice = 
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias =  
+|occupation = Doctor
+|affiliations = 
+|home = 
+|family = 
+|pets = 
+|friends = 
+|minions = 
+|enemies = 
+|likes = 
+|dislikes = 
+|powers = 
+|possessions = 
+|weapons = 
+|status = Deceased}}'''Dr. Worley''' is a doctor of unconventional medicine in ''[[Return to Oz]]''.
+
+{{CharacterStub}}
+
+{{DEFAULTSORT:Worley}}
+
+{{Oz}}
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Doctors]]
+[[Category:Deceased characters]]
+[[Category:Neutral characters]]
+[[Category:Return to Oz characters]]
+[[Category:Live-action characters]]
+[[Category:Adults]]
+[[Category:Disney characters]]
+[[Category:Oz characters]]

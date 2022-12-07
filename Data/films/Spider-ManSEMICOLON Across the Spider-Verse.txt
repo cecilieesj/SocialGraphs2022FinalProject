@@ -1,0 +1,72 @@
+{{Marvel Database:Film Template
+| Image                   = Spider-Man Across the Spider-Verse logo 001.jpg
+| Aliases                 = Spider-Man: Into the Spider-Verse 2, Spider-Man: Across the Spider-Verse (Part One)
+
+| Directors               = Joaquim Dos Santos; Kemp Powers; Justin K. Thompson
+| Producers               = Avi Arad; Amy Pascal; Phil Lord; Christopher Miller; Christina Steinberg
+| ScreenplayWriters       = Phil Lord; Christopher Miller; Dave Callaham
+| Musicians               = Daniel Pemberton
+| Cinematographers        = 
+| Editors                 = 
+| ProductionCompanies     = Columbia Pictures, Sony Pictures Animation, Marvel Entertainment, Arad Productions, Lord Miller Productions, Pascal Pictures
+| Distributors            = Sony Pictures Releasing
+| Running Time            = 
+| Rating                  = 
+| Budget                  = 
+| Release Date            = June 2, 2023
+
+| IMDB ID                 = 9362722
+| Marvel Movies           = {{PAGENAME}}
+| Spider-Man Films        = {{PAGENAME}}
+
+| Previous Film           = Spider-Man: Into the Spider-Verse
+| Next Film               = Spider-Man: Beyond the Spider-Verse
+
+| Appearances             = 
+'''Featured Characters:'''
+* <br/>
+'''Supporting Characters:'''
+* <br/>
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* <br/>
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * {{WP|Shameik Moore}} as [[Miles Morales (Earth-TRN700)|Spider-Man / Miles Morales]]
+
+* {{WP|Jake Johnson}} as [[Peter Parker (Earth-TRN701)|Spider-Man / Peter B. Parker]]
+
+* {{WP|Hailee Steinfeld}} as [[Gwendolyn Stacy (Earth-TRN702)|Spider-Woman / Gwen Stacy]]
+
+* {{WP|Oscar Isaac}} as [[Miguel O'Hara (Earth-TRN706)|Spider-Man / Miguel O'Hara]]
+
+* {{WP|Issa Rae}} as [[Jessica Drew|'''Spider-Woman / Jessica Drew''']]
+
+* {{WP|Jason Schwartzman}} as [[Spot|'''Spot / Johnathon Ohnn''']]
+
+| Notes                   = * Originally slated to be released on April 8, 2022, this film was later pushed back to October 7, 2022,{{r|{{cite web|url= https://deadline.com/2020/04/doctor-strange-2-heads-to-2022-thor-love-and-thunder-moves-up-a-week-1202917542/|title= ‘Spider-Man: Homecoming’ Sequel Pushes ‘Doctor Strange 2’ To 2022 As Disney & Sony Team On Release Date Changes|work= Deadline|last= D'Alessandro|first= Anthony|date= April 24, 2020|accessdate= April 21, 2022}}}} and again to June 2, 2023.{{r|{{cite web|url= https://deadline.com/2022/04/spider-man-across-the-spider-verse-summer-2023-theatrical-release-sony-release-date-changes-1235007010/|title= ‘Spider-Man: Across The Spider-Verse’ Heads To Summer 2023; Sony Dates ‘Equalizer 3’ Among Other Release Changes|work= Deadline|last= D'Alessandro|first= Anthony|date= April 20, 2022|accessdate= April 21, 2022}}}}
+* Originally announced as ''Spider-Man: Across the Spider-Verse (Part One)'',{{r|{{cite web|url= https://deadline.com/2021/12/spider-man-across-the-spider-verse-drops-first-look-trailer-1234885001/|title= ‘Spider-Man: Across The Spider-Verse’ Drops First-Look Trailer|work= Deadline|last= Choe|first= Brandon|date= December 4, 2021|accessdate= April 23, 2022}}}} this film later dropped the "Part One" from the title.{{r|{{cite web|url= https://deadline.com/2022/04/spider-man-across-the-spider-verse-summer-2023-theatrical-release-sony-release-date-changes-1235007010/|title= ‘Spider-Man: Across The Spider-Verse’ Heads To Summer 2023; Sony Dates ‘Equalizer 3’ Among Other Release Changes|work= Deadline|last= D'Alessandro|first= Anthony|date= April 20, 2022|accessdate= April 21, 2022}}}}
+| Trivia                  = ''To be added''
+==Gallery==
+===Images===
+<gallery>
+Spider-Man Across the Spider-Verse - Part One logo 001.jpg
+</gallery>
+===Videos===
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+SPIDER-MAN- ACROSS THE SPIDER-VERSE (PART ONE) – First Look
+</gallery>
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}
+[[tr:Spider-Man: Across the Spider-Verse - Part One]]
+[[Category:Sony Pictures Entertainment]]

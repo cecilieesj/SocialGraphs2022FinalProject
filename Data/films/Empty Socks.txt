@@ -1,0 +1,51 @@
+{{Infobox film
+|image = File:Oswald the Lucky Rabbit Empty Socks poster.png
+|name = Empty Socks
+|director = [[Walt Disney]]<br>[[Ub Iwerks]]
+|producer = [[Charles Mintz]]<br>George Winkler
+|writer = [[Walt Disney]]
+|editor = [[Ub Iwerks]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Universal Studios|Universal Pictures]]
+|release = [[December 11]], [[1927]]<ref>[https://archive.org/details/motionp36moti/page/1598 "Comedies and Short Subjects" - Motion Picture News (1927)]</ref>
+|time = '''Norwegian Print:''' 4 minutes, 4 seconds<br>
+'''Original Print:''' >6 minutes (unconfirmed)
+|language = English
+|preceded = ''[[The Banker's Daughter]]''
+|followed = ''[[Rickety Gin]]''
+}}
+'''''Empty Socks''''' is a cartoon starring [[Oswald the Lucky Rabbit]], released in [[1927]]. It is notably the first Christmas-themed film produced by [[Walt Disney]]. The concept of the short would later be reused for the [[Mickey Mouse]] short, ''[[Mickey's Orphans]]''.
+
+Long thought to be lost, a nitrate print was discovered in the Norwegian National Library in 2014, though with more than a minute of footage missing from the film.
+
+==Synopsis==
+Oswald plays [[Santa Claus|Santa]] for a group of orphans.
+
+==Gallery==
+<gallery widths="185">
+Emptynew.jpeg
+Oswald krima.jpeg
+Snapshot 1 (16-12-2014 00-01).png
+Snapshot 2 (16-12-2014 00-01).png
+OSWALD CHRISTMAS.jpg
+Snapshot 3 (16-12-2014 00-02).png
+Snapshot 2 (13-12-2014 22-58).png
+Snapshot 4 (13-12-2014 22-59).png
+Snapshot 5 (13-12-2014 22-59).png
+Empty Socks.jpg
+Snapshot 7 (16-12-2014 00-02).png
+Snapshot 6 (16-12-2014 00-02).png
+Snapshot 5 (16-12-2014 00-02).png
+Snapshot 9 (16-12-2014 00-03).png
+</gallery>
+
+==References==
+<references />
+
+==External links==
+*[http://www.imdb.com/title/tt0017847/ ''Empty Socks''] at the Internet Movie Database
+[[Category:Animated shorts]]
+[[Category:Oswald the Lucky Rabbit shorts]]
+[[Category:Christmas productions]]
+[[Category:1927 shorts]]
+[[Category:Public domain cartoons]]

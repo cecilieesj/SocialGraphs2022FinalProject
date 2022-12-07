@@ -1,0 +1,36 @@
+{{Infobox film
+|image =
+|name = Alice on the Farm
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Walt Disney Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[January 1]], [[1926]]
+|time = 8:32
+|preceded = ''[[Alice in the Jungle]]''
+|followed = ''[[Alice's Balloon Race]]''}}
+
+'''''Alice on the Farm''''' is an animated short film that is part of the ''[[Alice Comedies]]'' that were released by Winkler Pictures in [[1926]]. It was in black and white and silent.
+
+==Summary==
+[[Julius the Cat|Julius]] is milking his musical cow when [[Pete]] kidnaps [[Alice]]. Julius chases him on a sawhorse and then wins Alice back in a duel.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+Alice on the farm 1large.jpg
+Alice on the farm 2large.jpg
+Alice on the farm 3large.jpg
+Alice on the farm 4large.jpg
+Alice on the farm 5large.jpg
+Alice on the farm 6large.jpg
+1926-farm-2.jpg
+1926-farm-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=36 Alice on the Farm] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+[[Category:Animated shorts]]
+[[Category:1926 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Pete Shorts]]

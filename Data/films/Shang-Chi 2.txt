@@ -1,0 +1,45 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|name = Shang-Chi 2
+|director = [[Destin Daniel Cretton]]
+|producer = [[Kevin Feige]]
+|writer = [[Destin Daniel Cretton]]
+|starring = [[Simu Liu]]
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Marvel Studios]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = English
+|budget = 
+|gross = 
+|preceded = ''[[Shang-Chi and the Legend of the Ten Rings]]''
+|followed = 
+|website = 
+|imdb_id = 16357306}}
+'''''Shang-Chi 2''''' is a placeholder title for an upcoming superhero film, based on the Marvel Comics superhero [[Shang-Chi|of the same name]]. The film is a sequel to ''[[Shang-Chi and the Legend of the Ten Rings]]''. It is expected to be part of Phase Six or Seven of the [[Marvel Cinematic Universe]]. [[Destin Daniel Cretton]] is returning to direct and write. It will be produced by [[Marvel Studios]] and distributed by [[Walt Disney Studios Motion Pictures]].<ref name="Deadline">[https://deadline.com/2021/12/destin-daniel-cretton-marvel-hulu-onyx-collective-deal-shang-chi-sequel-1234885502/ Destin Daniel Cretton Inks Overall Deal With Marvel Studios & Hulu’s Onyx Collective; Set For Disney+ MCU Series & ‘Shang-Chi’ Sequel]</ref>
+
+==Cast==
+*[[Simu Liu]] as [[Shang-Chi]]
+
+==Production==
+On December 6, 2021, ''Deadline'' reported that a second ''Shang-Chi'' film was in development with [[Destin Daniel Cretton]] set to direct and write. It was also reported that [[Simu Liu]] would reprise his [[Marvel Cinematic Universe]] role of [[Shang-Chi]] in the film.<ref name="Deadline"/>
+
+==References==
+{{Reflist}}
+
+==External Links==
+*{{WP|Untitled Shang-Chi and the Legend of the Ten Rings sequel}}
+*[[w:c:marvelcinematicuniverse:Shang-Chi 2|Shang-Chi 2]] on [[w:c:marvelcinematicuniverse:Marvel_Cinematic_Universe_Wiki|Marvel Cinematic Universe Wiki]]
+{{FilmStub}}
+{{Marvel Cinematic Universe}}
+[[Category:Upcoming films]]
+[[Category:Films based on comics]]
+[[Category:Marvel Comics]]
+[[Category:Shang-Chi]]
+[[Category:Marvel Cinematic Universe films]]
+[[Category:Live-action films]]
+[[Category:Sequel films]]

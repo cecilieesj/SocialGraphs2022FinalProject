@@ -1,0 +1,17 @@
+{{Infobox character
+|image = Gigglemesh.jpg
+|name = GiggleMesh
+|games = ''[[Toontown Online]]''
+|alignment = Neutral}}
+'''GiggleMesh''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC citrine [http://toontown.wikia.com/wiki/Bear Bear]. She is a Field Office SOS Toon. She is a 2-star [http://toontown.wikia.com/wiki/Toon-Up_Gags Toon-Up] [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon].
+
+==Trivia==
+*Her name is likely a reference to Gilgamesh a character from the ancient classic "The Epic of Gilgamesh".
+
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Bears]]
+[[Category:Females]]
+[[Category:Characters]]
+{{Toontown Online}}

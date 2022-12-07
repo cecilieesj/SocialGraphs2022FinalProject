@@ -1,0 +1,40 @@
+{{Infobox film
+|image = Alice's Spooky Adventure.jpg
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|starring = [[Virginia Davis]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[April 1]], [[1924]]
+|language = English
+|preceded = ''[[Alice's Day at Sea]]''
+|followed = ''[[Alice's Wild West Show]]''
+|caption = Theatrical release poster
+|imdb_id = 0014664}}
+
+'''''Alice's Spooky Adventure''''' is a black-and-white silent short subject created by [[Walt Disney]].
+
+==Plot==
+When a ball is accidentally knocked through the window of a neighborhood haunted house, Alice is the only one brave enough to go inside to retrieve it. While she is in there she falls and bumps her head, sending her to a cartoon dream-world in which she rescues a cat and battles some spirits in a ghost town. When she awakens, she retrieves the ball, only to find out that police have investigated the scene and chase her. Alice is framed for the damages and is arrested.
+
+==Cast==
+* [[Virginia Davis]] as Alice
+* Leon Holmes as the tubby Boy
+* Spec O'Donnell as a boy
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1924-spooky-2.jpg
+1924-spooky-3.jpg
+</gallery>
+
+== External links ==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=12 Alice's Spooky Adventure] at [http://www.disneyshorts.org The Encyclopedia of Disney Animated Shorts]
+*{{WP}}
+
+{{Wikipedia}}
+{{DISPLAYTITLE:''Alice's Spooky Adventure''}}
+[[Category:Animated shorts]]
+[[Category:1924 shorts]]
+[[Category:Alice Comedies]]

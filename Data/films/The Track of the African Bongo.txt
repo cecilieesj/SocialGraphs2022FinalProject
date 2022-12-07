@@ -1,0 +1,39 @@
+{{NeedImage}}
+{{Episode
+| series     = [[The Wonderful World of Disney (NBC)|The Wonderful World of Disney]]
+| title      = The Track of the African Bongo
+| season     = 23
+| number     = 17-18
+| image      = 
+| caption    = 
+| production = 
+| airdate    = [[April 3]], [[1977]] (part 1)<br>[[April 10]], [[1977]] (part 2)
+| writer     = 
+| director   = Frank Zuniga
+| storyboard = 
+| ws         = 
+| story      =
+| previous   = "[[The Ghost of Cypress Swamp]]"
+| next       = "[[The Castaway Cowboy]]"
+}}
+
+"'''The Track of the African Bongo'''" is a [[1977]] telefilm produced by [[Walt Disney Productions]]. It was originally aired on [[NBC]] as a two-part episode on ''[[The Wonderful World of Disney (NBC)|The Wonderful World of Disney]]'' on [[April 3]], and [[April 10]], [[1977]]. The telefilm was directed by Frank Zuniga.
+
+==Synopsis==
+A young warrior of the Kikuyu Tribe discovers the whereabouts of a rare antelope, the bongo, and starts a three-fold race between hunters and rescuers.
+
+==Cast==
+*Charles Hayes
+*Johnny Noava
+*Tony Parkinson
+
+{{EpisodeStub}}
+
+{{DEFAULTSORT:Track of the African Bongo, The}}
+[[Category:Walt Disney anthology series episodes]]
+[[Category:Television episodes]]
+[[Category:1977 films]]
+[[Category:Disney films]]
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Multi-part episodes]]

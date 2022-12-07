@@ -1,0 +1,53 @@
+{{Infobox character
+|image = Ty Parsec.jpg
+|name = 
+|films = 
+|shorts = 
+|shows = ''[[Buzz Lightyear of Star Command]]''
+|games = 
+|rides = 
+|actor = 
+|actress = 
+|animator = 
+|voice =[[Steve Hytner]] 
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname =Ty Parsec 
+|alias =Ty, Wirewolf  
+|occupation =Space Ranger 
+|affiliations = 
+|home = 
+|family = 
+|pets = 
+|friends =[[Buzz Lightyear]], [[Mira Nova]], [[Booster Munchapper]], [[XR]], [[Commander Nebula]], [[XL]], [[Star Command]] 
+|minions =Star Command 
+|enemies =[[Emperor Zurg]], [[NOS-4-A2]], [[XL]] (formerly) 
+|likes =Being a hero, heroism, justice, defeating enemies, being on his own 
+|dislikes =Evil, turning into Wirewolf, getting mutated by the Canis Lunis moon, losing his job, harming innocent lives 
+|powers =Lasers 
+|possessions = 
+|weapons = 
+|status = Active }}
+'''Ty Parsec''' is a Space Ranger who was once stationed on Canis Lunis and turned into the [[Wirewolf (character)|Wirewolf]], thanks to [[NOS-4-A2]]'s bite combined with the radiation from the planet's moon.
+==Gallery==
+<gallery spacing="small" position="center">
+Ty_buzz.png|Ty Parsec with [[Buzz Lightyear]]
+</gallery>
+
+{{CharacterStub}}
+
+{{Buzz Lightyear of Star Command}}
+[[Category:Disney characters]]
+[[Category:Anti-heroes]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Teenagers]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Buzz Lightyear of Star Command characters]]
+[[Category:Pixar characters]]
+[[Category:Shapeshifters]]
+[[Category:Transformed characters]]
+[[Category:Werecreatures]]

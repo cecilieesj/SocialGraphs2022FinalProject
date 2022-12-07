@@ -1,0 +1,30 @@
+{{Infobox character
+|image = R.A.L.F..png
+|films = ''[[Flight of the Navigator]]''
+|voice = Unknown
+|fullname = Robotic Assistant Labor Facilitator
+|occupation = Robotic assistant
+|alignment = Good
+|goal = To help David escape (succeeded)
+|home = NASA base
+|friends = [[David Freeman]], [[Carolyn McAdams]]
+|quote = "Pardon me, coming through."
+}}
+'''R.A.L.F.''' (also known as '''Robotic Assistant Labor Facilitator''') is a service robot who delivers mail and supplies around the NASA base in ''[[Flight of the Navigator]]''. He is often operated by [[Carolyn McAdams]] and according to her, he messes up once in a while.
+
+R.A.L.F. helps [[David Freeman]] escape from his room and sneak inside the hanger where the [[Trimaxion Drone Ship|ship]] is being kept. He is last seen being loaded with mail by Carolyn.
+
+==Gallery==
+<gallery position="center">
+RALF design concept.jpg|Design concepts
+</gallery>
+
+{{CharacterStub}}
+{{Flight of the Navigator}}
+[[Category:Robots]]
+[[Category:Disney characters]]
+[[Category:Live-action characters]]
+[[Category:Characters]]
+[[Category:Silent characters]]
+[[Category:Flight of the Navigator characters]]
+[[Category:Males]]

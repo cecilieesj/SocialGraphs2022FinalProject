@@ -1,0 +1,69 @@
+{{Infobox character
+|image = Profile - Tinkerer.jpg
+|name = The Tinkerer
+|films = ''[[Spider-Man: Homecoming]]''
+|shorts = 
+|shows = ''[[Spider-Man (TV series)|Spider-Man]]''
+|games = 
+|rides =
+|voice = Aaron Abrams
+|actor = Michael Chernus
+|animator = 
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname = Phineas Mason
+|alias = Tinkerer 
+|personality = 
+|appearance = 
+|occupation = Master engineer
+|alignment = Bad 
+|affiliations = [[Vulture (Marvel)|Vulture]]<br>Bestman Salvage
+|goal = Making profits from his work with [[Vulture (Marvel)|Toomes]] (succeeded for a while).
+|home = [[New York City]]
+|family = 
+|pets = 
+|friends = 
+|minions = 
+|enemies = 
+|likes = Tinkering with Chitauri technology
+|dislikes = 
+|powers = High intelligence<br>Creativity<br>Engineering skills
+|possessions = 
+|weapons = 
+|fate = 
+|quote =
+|status = Active}}
+The '''Tinkerer''' (real name '''Phineas Mason''') is a supervillain from the [[Marvel Comics]]. He appears in the [[Marvel Cinematic Universe]] in [[Spider-Man: Homecoming]], he is played by Michael Chernus.
+
+The Tinkerer was created by [[Stan Lee]] and Steve Ditko.
+==Appearances==
+===''[[Marvel Cinematic Universe]]''===
+====''[[Spider-Man: Homecoming]]''====
+Phineas Mason was a member of Bestman Salvage, under [[Vulture (Marvel)|Adrian Toomes]]. After the Battle of New York, the Department of Damage Control was founded, which put Bestman Salvage out of business. An vengeful and opportunistic Toomes decided that their crew should steal from Damage Control with the [[Chitauri]] tech they were able to salvage. Disappointed because he wanted a chance to work with the tech, Mason agreed to the endeavor.
+
+Mason became the technician in charge of making new weapons and gadgets out of the high-tech equipment Toomes stole from Damage Control and other sources. Among other things, he created Shocker's Vibro-Shock Gauntlets for [[Montana (Marvel)|Jackson Brice]] and battle suit equipped with two huge mechanical wings for Toomes. His most ambitious project was a high-altitude vacuum seal, which would allow Toomes to enter and rob airplanes while they were airborn.
+
+After being turned down by Toomes multiple times, Toomes finally agreed to let Mason build the seal when [[Iron Man]] and the FBI found out about his operations, forcing them to make one final heist before retiring. With the seal, Toomes was able to break into the plane transporting the [[Avengers]]' weapons and equipment from [[Avengers Tower]] to their [[New Avengers Facility|new headquarters]]. The plan was foiled by local hero [[Spider-Man]] and Toomes was arrested. It's unknown what became of Mason afterwards.
+
+==Trivia==
+* In the comics, Phineas Mason is an elderly technician who started a criminal career after developing an obsession for super-humans, as well as the father of Rick Mason. He aided various criminals, like [[Kingpin]] and [[Blizzard]], providing them with new advanced equipment.
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Tinkerer|Marvel Cinematic Universe Wiki}}
+{{Marvel Cinematic Universe}}
+{{Marvel Animated Universe}}
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Villains]]
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Spider-Man characters]]
+[[Category:Marvel's Spider-Man characters]]
+[[Category:Live-action characters]]
+[[Category:Live-action villains]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Acquired characters]]
+[[Category:Adults]]
+[[Category:Neutral characters]]

@@ -1,0 +1,51 @@
+{{Species Infobox
+|image = Convor.png
+|shows = ''[[Star Wars: The Clone Wars]]<br>[[Star Wars Rebels]]''<br>''[[The Mandalorian]]''
+|games = ''[[Star Wars Battlefront II]]<br>[[Star Wars: Force Arena]]''
+|inspiration = Owls
+|alias = Convorees
+|appearance = Small gold and brown bird with large eyes, wings, and a prehensile tail
+|behaviour = 
+|occupation = 
+|alignment = Neutral
+|home = [[Atollon]]<br>[[Malachor]]<br>Moon of Wasskah
+|members=Morai
+|abilities = Flight}}
+
+'''Convor''' (plural: '''Convorees''') is a small species of owl-like bird native to several planets throughout the galaxy. It seemed to have an unknown strong connection with [[the Force]].
+
+==Appearances==
+===''[[Star Wars Rebels]]''===
+A convor appeared in the conclusion of the episode "[[The Mystery of Chopper Base]]", when [[Ahsoka Tano]] says to [[Ezra Bridger]] that the Force becomes more mysterious as one learns more about it.
+
+Another convor appears in "[[Twilight of the Apprentice]]" at the conclusion of [[Darth Vader]] and Ahsoka Tano, watching Darth Vader limp away from the destroyed Sith Temple on [[Malachor]] before flying away, which pans to the image of Ahsoka entering the ruined temple.
+
+A third convor appears when [[Kanan Jarrus]] meets with the [[The Bendu|Bendu]]. As it perched happily atop the Bendu's spiky armor, it is likely that the bird is affiliated with this physical embodiment of the Force.
+
+==Trivia==
+*The convor was named after Dave Filoni's wife, Anne Convery.
+*When questioned during an interview about its appearances in ''[[Star Wars Rebels]]'', Dave Filoni indicated that the creature's appearance had a deeper meaning, stating: "In some ways, I could say that it's a messenger, it's an observer. It is definitely something. And I would suggest – I would rather have fans debate – but I would suggest to say that whatever that thing is an avatar of has actually appeared in the animated ''Star Wars'' universe before. So decrypt from there. Have a fun summer!".
+
+==Gallery==
+<gallery position="center" captionalign="center">
+The Mystery of Chopper Base Concept Art 02.jpeg
+Convor 2.png
+Convoree.jpeg
+</gallery>
+
+==External links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/starwars/images/6/64/Favicon.ico|starwars|Convor|Wookieepedia}}
+*{{SW|url=/databank/convor|text=Convor}}
+
+{{Star Wars}}
+[[Category:Characters]]
+[[Category:Star Wars creatures]]
+[[Category:Aliens]]
+[[Category:Creatures]]
+[[Category:Neutral characters]]
+[[Category:Owls]]
+[[Category:Characters who fly]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Acquired characters]]
+[[Category:Characters in video games]]

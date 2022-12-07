@@ -1,0 +1,39 @@
+{{Episode
+| series     = [[The Wonderful World of Disney (NBC)|The Wonderful World of Disney]]
+| title      = Snow Bear
+| season     = 17
+| number     = 6-7
+| image      = Track_snow_bear_2.jpg
+| caption    = 
+| production = 
+| airdate    = November 1, 1970 (part 1)<br>November 8, 1970 (part 2)
+| writer     = 
+| director   = Gunther von Fritsch
+| storyboard = 
+| ws         = 
+| story      =
+| previous   = "[[The Wacky Zoo of Morgan City]]"
+| next       = "[[Monkeys, Go Home!]]"
+}}
+"'''Snow Bear'''" is a [[1970]] telefilm produced by [[Walt Disney Productions]]. It was originally broadcast on [[NBC]] as a two-part episode on ''[[The Wonderful World of Disney (NBC)|The Wonderful World of Disney]]'' on [[November 1]], and [[November 8]], 1970. It was later edited into a Disney educational short film in March [[1972]] under the title '''''The Track of the Giant Snow Bear'''''. The telefilm was directed by Gunther von Fritsch.
+
+==Synopsis==
+A polar bear cub is befriended by Timko, a teenage Eskimo boy, while he is on a year’s self-imposed exile from his community, learning the art of the hunt. An Eskimo boy frees a polar bear cub from a trap and raises it, until it threatens his village.
+
+==Cast==
+*Laura Itta
+*Steve Kaleak
+*Rossman Peetook
+
+==Gallery==
+<gallery>
+Track snow bear 3.jpg
+Track snow bear 1.jpg
+</gallery>
+[[Category:Television episodes]]
+[[Category:Walt Disney anthology series episodes]]
+[[Category:1970 films]]
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:Multi-part episodes]]

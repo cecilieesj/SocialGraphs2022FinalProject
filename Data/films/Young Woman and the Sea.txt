@@ -1,0 +1,47 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox_film
+|name = Young Woman and the Sea
+|image =
+|director = [[Joachim Rønning]]
+|producer = [[Jerry Bruckheimer]]<br>Chad Oman
+|writer = [[Jeff Nathanson]]
+|starring = [[Daisy Ridley]]<br>Tilda Cobham-Hervey<br>[[Stephen Graham]]<br>[[Christopher Eccleston]]
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Disney+]]
+|language = English
+|music = 
+|cinematography = Óscar Faura
+|editor =
+|country = [[United States]]
+|release =
+|imdb_id = 5177114}}
+'''''Young Woman and the Sea''''' is an upcoming American biographical drama film based on ''Young Woman and the Sea: How Trudy Ederle Conquered the English Channel and Inspired the World'' by Glenn Stout. It will be released on [[Disney+]].
+
+==Cast==
+*[[Daisy Ridley]] as {{WPS|Gertrude Ederle}}<ref name="Ederle" />
+*Tilda Cobham-Hervey as Margaret Ederle<ref name="Deadline" />
+*[[Stephen Graham]] as TBA<ref name="Deadline" />
+*[[Christopher Eccleston]] as TBA<ref name="Deadline2" />
+
+==Development==
+On December 9, 2020, ''Deadline'' reported that a biopic centering on American competition swimmer and Olympic champion {{WPS|Gertrude Ederle}} was in development at [[Disney+]].<ref name="Ederle">[https://deadline.com/2020/12/daisy-ridley-disney-plus-movie-young-woman-and-the-sea-gertrude-ederle-joachim-ronning-jerry-bruckheimer-jeff-nathanson-first-woman-swim-english-channel-1234653227/ Disney Takes Plunge On ‘Young Woman And The Sea’; ‘Star Wars’ Daisy Ridley, ‘Kon-Tiki’s Joachim Rønning Team On Tale Of First Woman To Swim English Channel]</ref>
+
+On March 14, 2022, ''Deadline'' reported that Tilda Cobham-Hervey and [[Stephen Graham]] joined the cast of the film.<ref name="Deadline">[https://deadline.com/2022/03/tilda-cobham-stephen-graham-daisey-ridley-disneys-young-woman-and-the-sea-1234978450/ Tilda Cobham-Hervey And Stephen Graham Join Daisy Ridley In Disney’s ‘Young Woman And The Sea’]</ref>
+
+On May 4, 2022, ''Deadline'' reported that [[Christopher Eccleston]] joined the cast of the film in an undisclosed role, with filming beginning in early May.<ref name="Deadline2">[https://deadline.com/2022/05/christopher-eccleston-joins-daisy-ridley-in-young-woman-and-the-sea-1235016337/ Christopher Eccleston Joins Daisy Ridley In Disney+ Film ‘Young Woman And The Sea’]</ref>
+
+On June 18, 2022, [[Daisy Ridley]] announced that filming had officially wrapped.<ref>[https://www.instagram.com/p/Ce8zJarL9DH/ Daisy Ridley on Instagram - June 18, 2022]</ref>
+
+==References==
+{{Reflist}}
+
+{{Disney+}}
+{{DISPLAYTITLE:''Young Woman and the Sea''}}
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:Disney+ Originals]]
+[[Category:Films based on books]]
+[[Category:Films featuring Sports]]
+[[Category:Biographical films]]

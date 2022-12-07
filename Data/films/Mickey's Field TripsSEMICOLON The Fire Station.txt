@@ -1,0 +1,22 @@
+{{Infobox film
+| name           = Mickey's Field Trips: The Fire Station
+| image          = File:Mickey's_Field_Trips_The_Fire_Station_shot.jpg
+| caption        = 
+| director       = 
+| producer       = 
+| music          = 
+| cinematography =  
+| studio         = The Walt Disney Company
+| distributor    = Walt Disney Educational Media Company
+| release       = September [[1987]]
+| time        = 12:16 minutes
+| language       = English}}'''''Mickey's Field Trips: The Fire Station''''' is part of ''Mickey's Field Trips'', a series of educational films, released from [[1987]] to [[1989]]. [[Mickey Mouse]] visits the fire station to see how firefighters put out fires.
+
+==Voices==
+*[[Wayne Allwine]] - Mickey Mouse 
+
+{{Stub}}
+[[Category:Live-action shorts]]
+[[Category:1987 shorts]]
+[[Category:Mickey Mouse]]
+[[Category:Educational films]]

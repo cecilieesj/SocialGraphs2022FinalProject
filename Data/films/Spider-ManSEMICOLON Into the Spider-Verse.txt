@@ -1,0 +1,322 @@
+{{Marvel Database:Film Template
+| Image                   = Spider-Man Into the Spider-Verse poster 003.jpg
+| Aliases                 = Animated Spider-Man
+
+| Directors               = Bob Persichetti; Peter Ramsey; Rodney Rothman
+| Producers               = Avi Arad; Amy Pascal; Phil Lord; Christopher Miller; Christina Steinberg
+| ScreenplayWriters       = Phil Lord; Rodney Rothman
+| StoryWriters            = Phil Lord;
+| Musicians               = Daniel Pemberton
+| Cinematographers        = 
+| Editors                 = Robert Fisher Jr.
+| Distributors            = Sony Pictures Releasing
+| ProductionCompanies     = Columbia Pictures; Sony Pictures Animation; Marvel Entertainment; Arad Productions; Lord Miller Productions; Pascal Pictures
+| Running Time            = 117 minutes
+| Rating                  = '''MPAA''': Rated PG for frenetic sequences of animated action violence, thematic elements, and mild language
+| Budget                  = $90 million
+| Release Date            = December 12, 2018
+| US Release Date         = December 14, 2018
+
+| AM ID                   = spider-man-into-the-spider-verse-v697126
+| IMDB ID                 = 4633694
+| Marvel Movies           = Spider-Man: Into the Spider-Verse
+| Spider-Man Films        = Spider-Man: Into the Spider-Verse
+
+| Previous Film           = 
+| Next Film               = Spider-Man: Across the Spider-Verse
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1stas|[[Miles Morales (Earth-TRN700)|Spider-Man (Miles Morales)]]|Spider-Man}} {{g|Joins and leaves [[Spider-Gang (Earth-TRN700)|Spider-Gang]]}}
+'''Supporting Characters:'''
+* {{Only Dies|[[Peter Parker (Earth-TRN700)|Spider-Man (Peter Parker)]]}}
+* {{1st|[[Police Department of New York City (Earth-TRN700)|PDNY]]}}
+** {{1st|[[Jefferson Davis (Earth-TRN700)|Officer Jefferson Davis]]}}
+* {{1st|[[Rio Morales (Earth-TRN700)|Rio Morales]]}}
+* {{1st|[[Spider-Gang (Earth-TRN700)|Spider-Gang]]}} {{Disbands}}
+** {{1st|[[Gwendolyn Stacy (Earth-TRN702)|"Wanda" / Spider-Woman (Gwen Stacy)]]}} {{g|Joins and leaves team}}
+** {{1stas|[[Peter Parker (Earth-TRN701)|Spider-Man (Peter B. Parker)]]|Spider-Man}} {{g|Joins and leaves team}}
+** {{1st|[[Peter Parker (Earth-TRN703)|The Spider-Man (Peter Parker)]]}} {{g|Joins and leaves team}}
+** {{1st|[[Peter Porker (Earth-TRN705)|Spider-Ham (Peter Porker)]]}} {{g|Joins and leaves team}}
+** {{1st|[[Peni Parker (Earth-TRN704)|SP//dr (Peni Parker)]]}} {{g|Joins and leaves team}}
+** {{1st|[[SP//dr (Spider) (Earth-TRN704)|SP//dr (Spider)]]}} {{g|Joins and leaves team}}
+'''Antagonists:'''
+* {{1st|[[Alchemax (Earth-TRN700)|Alchemax]]}}
+** {{1st|[[Olivia Octavius (Earth-TRN700)|Doctor Octopus (Dr. Liv Octavius)]]}} {{ApDeath}}
+** {{Death|[[Aaron Davis (Earth-TRN700)|Prowler (Aaron Davis)]]}}
+** {{Only Dies|[[Norman Osborn (Earth-TRN700)|Green Goblin (Norman Osborn)]]}}
+** {{1st|[[Wilson Fisk (Earth-TRN700)|Kingpin (Wilson Fisk)]]}}
+** {{1st|[[Alonzo Lincoln (Earth-TRN700)|Tombstone (Lonnie Lincoln)]]}}
+** {{1st|[[Maximus Gargan (Earth-TRN700)|Scorpion (Maximus Gargan)]]}}
+'''Other Characters:'''
+* {{a|[[Radioactive Spider (Earth-TRN700)|Radioactive Spider]]}} {{FlashOnly}}
+* {{Only Dies|[[Benjamin Parker (Earth-TRN700)|Ben Parker]]}} {{FlashOnly}}
+* {{1st|[[Ganke Lee (Earth-TRN700)|Ganke Lee]]}}
+* {{Mentioned|[[Blackie Drago (Earth-TRN700)|Vulture (Blackie Drago)]]}}
+* {{Mentioned|[[Edward Brock Jr. (Earth-TRN700)|Venom (Eddie Brock)]]}}
+** {{Mentioned|[[Venom (Symbiote) (Earth-TRN700)|Venom (Symbiote)]]}}
+* {{Named|[[William Braddock (Earth-TRN700)|William Braddock]]}}
+* {{Named|[[Cindy Moon (Earth-TRN700)|Cindy Moon]]}}
+* {{Named|[[Dan Rock (Earth-TRN700)|Dan Rock]]}}
+* {{Named|[[EZ Ekiel (Earth-TRN700)|EZ Ekiel]]}}
+* {{Named|[[Jessica Drew (Earth-TRN700)|Jessica Drew]]}}
+* {{Named|[[Karn (Earth-TRN700)|Karn]]}}
+* {{Named|[[Monica Chang (Earth-TRN700)|Monica Chang]]}}
+* {{Named|[[Brian Michael Bendis (Earth-TRN700)|Brian Michael Bendis]]}}
+* {{Named|[[Sara Pichelli (Earth-TRN700)|Sara Pichelli]]}}
+* {{Named|[[Rayshaun Lucas (Earth-TRN700)|Rayshaun Lucas]]}}
+* {{Named|[[Jason Reynolds (Earth-TRN700)|Jason Reynolds]]}}
+* {{1st|[[National News Channel (Earth-TRN700)|National News Channel]]}}
+* {{1st|[[Stan Lee (Earth-TRN700)|Stan Lee]]}}
+* {{1st|[[Mary Jane Watson (Earth-TRN700)|Mary Jane Parker]]}}
+* {{1st|[[Maybelle Parker (Earth-TRN700)|May Parker]]}}
+* {{1st|[[Daily Bugle (Earth-TRN700)|Daily Bugle]]}}
+* {{a|[[Radioactive Spider II (Earth-TRN700)|Radioactive Spider]]}}
+* {{1st|[[Radioactive Spider (Earth-TRN701)|Radioactive Spider]]}} {{FlashOnly}}
+* {{1st|[[Mary Jane Watson (Earth-TRN701)|Mary Jane Watson]]}}
+* {{Cameo|[[Norman Osborn (Earth-TRN701)|Green Goblin (Norman Osborn)]]}}
+* {{Cameo|[[Alonzo Lincoln (Earth-TRN701)|Tombstone (Lonnie Lincoln)]]}}
+* {{Cameo|[[Otto Octavius (Earth-TRN701)|Doctor Octopus (Otto Octavius)]]}}
+* {{Mentioned|[[Maybelle Parker (Earth-TRN701)|May Parker]]}} {{Deceased}}
+* {{1st|[[Daily Bugle (Earth-TRN701)|Daily Bugle]]}}
+* {{Poster|[[Mary Janes (Earth-TRN700)|Mary Janes]]}}
+* {{1st|[[Radioactive Spider (Earth-TRN702)|Radioactive Spider]]}} {{FlashOnly}}
+* {{1st|[[Mary Janes (Earth-TRN702)|Mary Janes]]}} {{FlashOnly}}
+* {{1st|[[George Stacy (Earth-TRN702)|Captain George Stacy]]}} {{FlashOnly}}
+* {{Only Dies|[[Peter Parker (Earth-TRN702)|The Lizard (Peter Parker)]]}} {{FlashOnly}}
+* {{1st|[[Otto Octavius (Earth-TRN702)|Otto Octavius]]}} {{FlashOnly}}
+* [[wikipedia:Seth Rogen|Seth Rogen]] {{Photo}} {{Topical Reference}}
+* [[wikipedia:Simon Pegg|Simon Pegg]] {{Photo}} {{Topical Reference}}
+* {{Only Dies|[[Vanessa Fisk (Earth-TRN700)|Vanessa Fisk]]}} {{FlashOnly}}
+* {{Only Dies|[[Richard Fisk (Earth-TRN700)|Richard Fisk]]}} {{FlashOnly}}
+* {{Minor|Hammerhead (Joseph) (Earth-TRN700)|Hammerhead (Joseph)|First appearance; photo}}
+* {{Minor|Enforcers (Earth-TRN700)|Enforcers|First appearance; photo}}
+** {{Minor|Raymond Bloch (Earth-TRN700)|Ox (Raymond Bloch)|First appearance; photo}}
+** {{Minor|Dan Rubinstein (Earth-TRN700)|Fancy Dan (Dan Rubinstein)|First appearance; photo}}
+** {{Minor|Montana Bale (Earth-TRN700)|Montana Bale|First appearance; photo}}
+* {{Minor|Rose (Earth-TRN700)|Rose|First appearance; photo}}
+* {{Minor|Herman Schultz (Earth-TRN700)|Shocker (Herman Schultz)|First appearance; photo}}
+* {{RecapOnly|[[May Porker (Earth-TRN705)|May Porker]]}}
+* {{a|[[Radioactive Spider (Earth-TRN703)|Radioactive Spider]]}} {{FlashOnly}}
+* {{a|[[National Socialist German Workers Party (Earth-TRN703)|Nazis]]}} {{FlashOnly}}
+* {{Mentioned|[[SP//dr (Peni's father) (Earth-TRN704)|SP//dr (Peni's father)]]}} {{Deceased}}
+* {{Mentioned|[[Daily Beagle (Earth-TRN705)|Daily Beagle]]}}
+* {{Named|[[Steve Ditko (Earth-TRN700)|Steve Ditko]]}}
+* {{Named|[[Gloria Morales (Earth-TRN700)|Gloria Morales]]}}
+* {{Mentioned|[[Benjamin Parker (Earth-TRN701)|Ben Parker]]}} {{Deceased}}
+* {{Mentioned|[[Benjamin Parker (Earth-TRN703)|Benjamin Parker]]}} {{Deceased}}
+* {{Mentioned|[[Alchemax (Earth-TRN701)]]}}
+* {{1st|[[Vanessa Fisk (Earth-Unknown)|Vanessa Fisk]]}}
+* {{1st|[[Richard Fisk (Earth-Unknown)|Richard Fisk]]}}
+* {{1st|[[Margaret Murdock (Earth-Unknown)|Margaret Murdock]]}}
+* {{1st|[[Matthew Murdock (Earth-Unknown)|Matt Murdock]]}}
+* {{Named|[[Dmitri Smerdyakov (Earth-TRN700)|Chameleon (Dmitri Smerdyakov)]]}}
+* {{1st|[[New York City Fire Department (Earth-TRN700)|FDNY]]}}
+* {{Minor|Peter Parker (Earth-616)|Spider-Man (Peter Parker)|Comic book page}}
+* {{Minor|Gwendolyn Stacy (Earth-65)|Spider-Gwen (Gwen Stacy)|Comic book page}}
+* {{Minor|Thomas Fireheart (Earth-616)|Puma (Thomas Fireheart)|Comic book page}}
+* {{Minor|Silvija Sablinova (Earth-616)|Silver Sable (Silvija Sablinova)|Comic book page}}
+* {{Minor|Sinister Six (Earth-616)|Sinister Six|Comic book page}}
+** {{Minor|Otto Octavius (Earth-616)|Doctor Octopus (Otto Octavius)|Comic book page}}
+** {{Minor|Jason Macendale Jr. (Earth-616)|Hobgoblin (Jason Macendale Jr.)|Comic book page}}
+** {{Minor|Maxwell Dillon (Earth-616)|Electro (Max Dillon)|Comic book page}}
+** {{Minor|Adrian Toomes (Earth-616)|Vulture (Adrian Toomes)|Comic book page}}
+* {{Minor|William Baker (Earth-616)|Sandman (Flint Marko)|Comic book page}}
+* {{Minor|Norman Osborn (Earth-616)|Green Goblin (Norman Osborn)|Comic book page}}
+* {{Minor|Benjamin Reilly (Earth-616)|Spider-Man (Ben Reilly)|Comic book page}}
+* {{Minor|Lobo Cartel (Earth-616)|Lobo Brothers|Comic book page}}
+** {{Minor|Carlos Lobo (Earth-616)|Carlos Lobo|Comic book page}}
+** {{Minor|Eduardo Lobo (Earth-616)|Eduardo Lobo|Comic book page}}
+* {{Minor|Peter Parker (Earth-65)|Peter Parker|Comic book page}}
+* {{Minor|Mary Jane Watson (Earth-65)|Mary Jane Watson|Comic book page}}
+* {{Minor|Bodega Bandit (Earth-65)|Bodega Bandit|Comic book page}}
+* {{Named|[[Gloria Grant (Earth-616)|Glory Grant]]}} {{g|Comic book page}}
+* [[Spider-Man|Spider-Man (Billy Barker)]] {{g|Comic book page}}
+* {{1st|[[Miguel O'Hara (Earth-TRN706)|Spider-Man (Miguel O'Hara)]]}}
+* {{1st|[[LYrate Lifeform Approximation (Earth-TRN706)|Lyla]]}}
+* {{a|[[Peter Parker (Earth-67)|Spider-Man (Peter Parker)]]}}
+* {{a|[[John Jonah Jameson (Earth-67)|J. Jonah Jameson]]}}
+* {{a|[[New York City Police Department (Earth-67)|NYPD]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Pigeons]]}}
+* {{a|[[Pig-Spider Hybrids]]}}
+* {{RecapOnly|[[Spiders]]}}
+* {{RecapOnly|[[Pigs]]}}
+* {{Mentioned|[[Zombies]]}}
+'''Locations:'''
+* {{a|[[Multiverse]]}}
+** {{a|[[Earth-TRN700|E-1610]]}}
+*** {{a|[[Earth]]}}
+**** {{a|[[United States of America]]}}
+***** {{a|[[New York (State)|New York]]}}
+****** {{a|[[New York City]]}}
+******* {{a|[[Brooklyn]]}}
+******** {{a|[[Brooklyn Bridge]]}}
+******** {{a|[[Brooklyn Visions Academy]]}}
+******** {{a|[[Fisk Towers|Fisk Tower]]}}
+******** {{a|[[Saint Patrick's Cathedral]]}}
+******** {{1st|[[Williamsburgh Savings Bank]]}}
+******* {{a|[[Queens]]}}
+******** {{a|[[Forest Hills]]}}
+********* {{1st|[[Aunt May's House]]}}
+******* {{a|[[Manhattan]]}}
+******** {{a|[[Times Square]]}}
+******* {{Mentioned|[[Staten Island]]}}
+****** {{a|[[Hudson Valley]]}}
+******* [[Alchemax (Earth-TRN700)|Alchemax Labs]]
+** {{1st|[[Earth-TRN701|E-616]]}}
+*** {{1st|[[Earth]]}}
+**** {{1st|[[United States of America]]}}
+***** {{1st|[[New York (State)|New York]]}}
+****** {{1st|[[New York City]]}}
+******* {{1st|[[Brooklyn]]}}
+** {{1st|[[Earth-TRN702|E-65]]}}
+*** {{1st|[[Earth]]}}
+**** {{1st|[[United States of America]]}}
+***** {{1st|[[New York (State)|New York]]}}
+****** {{1st|[[New York City]]}}
+** {{1st|[[Earth-TRN703|E-90214]]}}
+*** {{1st|[[Earth]]}}
+**** {{1st|[[United States of America]]}}
+***** {{1st|[[New York (State)|New York]]}}
+****** {{1st|[[New York City]]}}
+** {{1st|[[Earth-TRN704|E-14512]]}}
+*** {{1st|[[Earth]]}}
+**** {{1st|[[United States of America]]}}
+***** {{1st|[[New York (State)|New York]]}}
+** {{1st|[[Earth-TRN705|E-8311]]}}
+*** {{1st|[[Earth]]}}
+** {{Minor|Earth-616|Earth-616|Comic book page}}
+** {{Minor|Earth-65|Earth-65|Comic book page}}
+** {{1st|[[Earth-TRN706|Earth-TRN706]]}}
+*** {{1st|[[Earth]]}}
+**** {{1st|[[United States of America]]}}
+***** {{1st|[[New York (State)|Nueva York]]}}
+****** {{1st|[[Babylon Towers]]}}
+** {{a|[[Earth-67]]}}
+*** {{a|[[Earth]]}}
+**** {{a|[[United States of America]]}}
+***** {{a|[[New York (State)|New York]]}}
+****** {{a|[[New York City]]}}
+'''Items:'''
+* {{a|[[Web of Life and Destiny]]}}
+* {{a|[[Spider-Man's Suit|Spider-Men's Suits]]}}
+** {{1st|[[Iron Spider Armor]]}}
+** {{1st|[[Spider-Armor MK I]]}}
+** {{1st|[[Spider-Armor MK II]]}}
+** {{1st|[[Spider-Man's Advanced Suit]]}}
+** {{1st|[[Spider-Man's Stealth Suit]]}}
+** Web-Man's suit {{1st}}
+** Spider-Man's Secret War suit {{1st}}
+** {{1st|[[Dusk's Suit]]}}
+** Unidentified all-red Suit {{1st}}
+** {{1st|[[Spider-Man's Electro-Proof Suit]]}}
+** Unidentified caped suit {{1st}}
+** {{1st|[[Spider-Man's Noir Suit]]}}
+** {{1st|[[Spider-Man's 2099 Suit]]}}
+* {{1st|[[Doctor Octopus' Tentacles|Doctors Octopus' Tentacles]]}}
+* {{1st|[[Prowler's Suit]]}}
+* {{1st|[[SP//dr Suit]]}}
+* {{1st|[[Spider-Woman's Suit]]}}
+* {{1st|[[Web-Shooters]]}}
+* [[w:c:cloudywithachanceofmeatballs:Flint Lockwood Diatonic Super Mutating Dynamic Food Replicator (FLDSMDFR)|FLDSMDFR]] {{1st}} {{Topical Reference}}
+* {{1st|[[Dimensional Travel Watch]]}}
+* Goober {{1st}}
+* Rubik's Cube
+* Gizmo {{1st}}
+'''Vehicles:'''
+* {{1st|[[Spider-Mobile]]}}
+* {{1st|[[Spider-Cycle]]}}
+* {{Mentioned|[[Web-Jet]]}}
+* {{Drawing|[[Leopardon]]}}
+
+| Plot                    = Bitten by a radioactive spider in the subway, Brooklyn teenager [[Miles Morales (Earth-TRN700)|Miles Morales]] suddenly develops mysterious powers that transform him into the one and only Spider-Man. When he meets [[Peter Parker (Earth-TRN701)|Peter Parker]], he soon realizes that there are many others who share his special, high-flying talents. Miles must now use his newfound skills to battle the evil [[Wilson Fisk (Earth-TRN700)|Kingpin]], a hulking madman who can open portals to other universes and pull different versions of [[Spider-Man]] into our world.
+
+| Cast                    = * [[wikipedia:Shameik Moore|Shameik Moore]] as [[Miles Morales (Earth-TRN700)|Spider-Man / Miles Morales]]<ref name="Shameik Moore">{{cite web|url=https://www.hollywoodreporter.com/heat-vision/animated-spider-man-film-finds-miles-morales-993317|title=Animated Spider-Man Film Finds Its Miles Morales (Exclusive)|last=Kit|first=Borys|work=The Hollywood Reporter|date=13 April 2017|accessdate=9 December 2017}}</ref>
+
+* [[wikipedia:Jake Johnson|Jake Johnson]] as [[Peter Parker (Earth-TRN701)|Spider-Man / Peter B. Parker]]{{r|:File:SPIDER-MAN INTO THE SPIDER-VERSE - Official Teaser Trailer}}<ref>{{cite web|url=https://screenrant.com/spider-man-spider-verse-jake-johnson-peter-parker/|title=Into the Spider-Verse: Jake Johnson is Voicing Peter Parker|last=Schaefer|first=Sandy|work=Screen Rant|date=24 April 2018|accessdate=24 April 2018}}</ref>
+
+* [[wikipedia:Hailee Steinfeld|Hailee Steinfeld]] as [[Gwendolyn Stacy (Earth-TRN702)|Spider-Woman / Gwen Stacy]]<ref name="Trailer">{{cite web|url= https://variety.com/2018/film/news/spider-man-into-the-spider-verse-trailer-1202833788/|title= ‘Spider-Man: Into the Spider Verse’ Casts Hailee Steinfeld, Mahershala Ali and Lily Tomlin|work= Variety|last= Nyren|first= Eric|date= June 6, 2018|accessdate= June 6, 2018}}</ref>
+
+* [[wikipedia:Mahershala Ali|Mahershala Ali]] as [[Aaron Davis (Earth-TRN700)|Prowler / Aaron Davis]]<ref name="Ali and Henry">{{cite web|url=http://www.tracking-board.com/phil-lord-and-chris-millers-animated-spider-man-movie-adds-mahershala-ali-atlanta-star-brian-tyree-henry-to-voice-cast-exclusive/|title=Phil Lord and Chris Miller's Animated "Spider-Man" Movie Adds Mahershala Ali, "Atlanta" Star to Voice Cast (Exclusive)|last=Sneider|first=Jeff|work=The Tracking Board|date=21 June 2017|accessdate=9 December 2017}}</ref>
+
+* [[wikipedia:Brian Tyree Henry|Brian Tyree Henry]] as [[Jefferson Davis (Earth-TRN700)|Jefferson Davis]]<ref name="Ali and Henry"/>
+
+* [[wikipedia:Lily Tomlin|Lily Tomlin]] as [[Maybelle Parker (Earth-TRN700)|Aunt May]]<ref name="Trailer"/>
+
+* [[wikipedia:Lauren Vélez|Luna Lauren Velez]] as [[Rio Morales (Earth-TRN700)|Rio Morales]]<ref name="Trailer"/>
+
+* [[wikipedia:Zoë Kravitz|Zoë Kravitz]] as [[Mary Jane Watson (Earth-TRN700)|Mary Jane]]
+
+* [[wikipedia:John Mulaney|John Mulaney]] as [[Peter Porker (Earth-TRN705)|Spider-Ham / Peter Porker]]<ref name="Noir and Ham">{{cite web|url= http://ew.com/movies/2018/07/20/spider-man-into-the-spider-verse-nicolas-cage-john-mulaney/|title= Spider-Man: Into the Spider-Verse adds Nicolas Cage as Spider-Man Noir, John Mulaney as Spider-Ham|work= EW|last= Coggan|first= Devan|date= July 20, 2018|accessdate= July 21, 2018}}</ref>
+
+* [[wikipedia:Kimiko Glenn|Kimiko Glenn]] as [[Peni Parker (Earth-TRN704)|SP//dr / Peni Parker]]<ref name="Noir and Ham"/>
+
+* [[wikipedia:Nicolas Cage|Nicolas Cage]] as [[Peter Parker (Earth-TRN703)|Spider-Man Noir]]<ref>{{cite web|url=http://collider.com/spider-man-into-the-spider-verse-adds-nicolas-cage/#images|title='Spider-Man: Into the Spider-Verse': Nicolas Cage Confirmed to Play Another Spider-Man|last=Goldberg|first=Matt|work=Collider|date=5 July 2018|accessdate=6 July 2018}}</ref><ref name="Noir and Ham"/>
+
+* [[wikipedia:Kathryn Hahn|Kathryn Hahn]] as [[Olivia Octavius (Earth-TRN700)|Doc Ock / Olivia Octavius]]
+
+* [[wikipedia:Liev Schreiber|Liev Schreiber]] as [[Wilson Fisk (Earth-TRN700)|Kingpin / Wilson Fisk]]<ref name="Shameik Moore"/><ref name="Trailer"/>
+
+Additionally, [[wikipedia:Chris Pine|Chris Pine]] voices the original [[Peter Parker (Earth-TRN700)|Spider-Man]] from Miles' universe. [[wikipedia:Natalie Morales (actress)|Natalie Morales]] voices Miss Caleros. [[wikipedia:Oscar Isaac|Oscar Isaac]] voices [[Miguel O'Hara (Earth-TRN706)|Spider-Man 2099]] (credited as "Interesting Person #1") in the post-credits scene, while [[wikipedia:Greta Lee|Greta Lee]] voices his AI assistant [[LYrate Lifeform Approximation (Earth-TRN706)|Lyla]] (credited as "Interesting Person #2). [[Stan Lee]] makes a posthumous voice cameo as a character named [[Stan Lee (Earth-TRN700)|Stan]]. [[wikipedia:Jorma Taccone|Jorma Taccone]] voices both the [[Norman Osborn (Earth-TRN700)|Green Goblin]] and, in the post-credits scene, [[Peter Parker (Earth-67)|Spider-Man from Earth-67]] (credited as "Last Dude"). [[wikipedia:Joaquín Cosío|Joaquín Cosío]] and [[wikipedia:Krondon|Marvin Jones III]] voice [[Maximus Gargan (Earth-TRN700)|Scorpion]] and [[Alonzo Lincoln (Earth-TRN700)|Tombstone]], respectively. [[wikipedia:Lake Bell|Lake Bell]] voices [[Vanessa Fisk (Earth-TRN700)|Vanessa Fisk]]. [[wikipedia:Post Malone|Post Malone]] makes a voice cameo as a Brooklyn bystander. Archive recordings of [[wikipedia:Cliff Robertson|Cliff Robertson]] from his portrayal of [[Benjamin Parker (Earth-96283)|Ben Parker]] in the 2002 film ''[[Spider-Man (2002 film)|Spider-Man]]'' are used for flashbacks that feature [[Benjamin Parker (Earth-TRN700)|Uncle Ben]]. In the post-credits scene, Editorial APM Adam Brown and associate editor Adam Leviton make uncredited voice portrayals of [[Earth-67]] [[John Jonah Jameson (Earth-67)|J. Jonah Jameson]] and a police officer.
+
+| Notes                   = * This film's title and first teaser were first unveiled at CCXP17 in Brazil.<ref>{{cite web|url=http://deadline.com/2017/12/spider-man-into-the-spider-verse-first-look-trailer-unveiled-in-brazil-1202223495/|title=‘Spider-Man: Into The Spider-Verse’ First Look Trailer Unveiled in Brazil|last=Haring|first=Bruce|work=Deadline|date=9 December 2017|accessdate=10 December 2017}}</ref>
+* The film's feature song is "Sunflower," by Swae Lee and Post Malone.
+* In the Super Collider's screen, each reality where the protagonists come from is named after the universe of each character's original version (for instance, Miles' reality is designated "E-1610" after [[Earth-1610]], the home reality of the comic book version of Miles Morales). Evidently, the reality of each character involved in this film is not the same reality of the character's original version.
+* In November 2019, Sony announced a sequel would be released on April 8, 2022, but it was later pushed back six months to October 7, due to the COVID-19 pandemic.<ref>{{cite web|url=https://www.forbes.com/sites/travisbean/2020/04/24/spider-man-3-and-spider-man-into-the-spider-verse-2-get-new-release-dates/#2776608537ef|title=I‘Spider-Man 3’ And ‘Spider-Man: Into The Spider-Verse 2’ Get New Release Dates|last=Bean|first=Travis|work=Forbes|date=24 April 2020|accessdate=24 April 2020}}</ref>
+
+==Gallery==
+===Posters===
+<gallery>
+Spider-Man Into the Spider-Verse logo 001.jpg
+Spider-Man Into the Spider-Verse poster 001.jpg
+Spider-Man Into the Spider-Verse poster 002.jpg
+Spider-Man Into the Spider-Verse poster 004.jpg
+Spider-Man Into the Spider-Verse poster 005.jpg
+Spider-Man Into the Spider-Verse poster 006.jpg
+Spider-Man Into the Spider-Verse poster 007.jpg
+Spider-Man Into the Spider-Verse poster 008.jpg
+Spider-Man Into the Spider-Verse poster 009.jpg
+Spider-Man Into the Spider-Verse poster 010.jpg
+Spider-Man Into the Spider-Verse poster 011.jpg
+Spider-Man Into the Spider-Verse poster 012.jpg
+Spider-Man Into the Spider-Verse poster 013.png
+Spider-Man Into the Spider-Verse poster 014.jpg
+Spider-Man Into the Spider-Verse poster 015.jpg
+Spider-Man Into the Spider-Verse poster 016.jpg
+Spider-Man Into the Spider-Verse poster 017.jpg
+Spider-Man Into the Spider-Verse poster 018.jpg
+Spider-Man Into the Spider-Verse poster 019.jpg
+Spider-Man Into the Spider-Verse poster 020.jpg
+Spider-Man Into the Spider-Verse poster 021.jpg
+Spider-Man Into the Spider-Verse poster 022.jpg
+</gallery>
+===Videos===
+<gallery widths="300" spacing="small" hideaddbutton="true">
+SPIDER-MAN INTO THE SPIDER-VERSE - Official Teaser Trailer
+SPIDER-MAN INTO THE SPIDER-VERSE - Official Trailer (HD)
+SPIDER-MAN INTO THE SPIDER-VERSE - Official Trailer 2 (HD)
+</gallery>
+| Trivia                  = * The introduction scenes of both Peter Parker and Peter B. Parker include several homages to the original [[Earth-96283|''Spider-Man'' film trilogy]]: an upside down kiss with Mary Jane from [[Spider-Man (film)|''Spider-Man'']], stopping a train and saving MJ from a car which was thrown through a window from [[Spider-Man 2 (film)|''Spider-Man 2'']], and the infamous scene of him dancing on the sidewalk from [[Spider-Man 3 (film)|''Spider-Man 3'']]. There is also a reference to ''[[Spider-Man No More!]]'', which was also homaged in ''Spider-Man 2''.
+* The in-universe theme associated with the Peter Parker of Miles' universe is the opening song of the [[Spider-Man (1967 animated series)|''Spider-Man'']] 1967 animated series.
+* The month written on Miles' test sheet at Brooklyn Visions Academy is "Decembruary".
+* A recreation of a scene from the TV series ''[[wikipedia:Community (TV series)|Community]]'' with actor [[wikipedia:Donald Glover|Donald Glover]] dressed in Spider-Man pajamas appears in the TV of Aaron's apartment. That particular instance of Glover dressed like that was what prompted comic writer [[Brian Michael Bendis]] to create [[Miles Morales (Earth-1610)|Miles Morales]].
+* In an earlier version of the film, Peter would also have had his own 16-bit fighting video game. [[Miles Morales (Earth-TRN700)|Miles]] would have been playing this game with [[Aaron Davis (Earth-TRN700)|Aaron Davis]] at his apartment. The idle animation of Peter's in-game character was modeled after that of [[Peter Parker (Earth-30847)|Spider-Man]] as he appears in ''[[Marvel vs. Capcom (Series)|Marvel vs. Capcom]]'' and the stage background music was main theme of the 2000 game ''[[Spider-Man (2000 video game)|Spider-Man]]''. This detail was removed because it muddied the focus of the scene, which was Miles and Aaron talking.{{r|{{cite web|url=https://twitter.com/yuhkidemers/status/1083070491596705792/|title=Yuhki Demers on Twitter: "In an earlier version of the film Miles and Aaron were playing this fighting game in his apartment. #SpidermanIntoSpiderVerse #16bit…"|work=Twitter|first=Yuhki|last=Demers|date=9 January 2019|accessdate=6 January 2020}}}}
+* Internally during production, the Peter native to Miles' reality and the foreign Peter were referred to as "RIPeter" and "Burrito Peter," respectively.{{r|{{cite web|url=https://twitter.com/nicktyson/status/1081354331562029056|title=Nick Kondo 近藤 on Twitter: "⭐️Fun Fact (and spoiler alert!)⭐️ The two Peters in #IntoTheSpiderVerse were referred to in the studio as "RIPeter" and "Burrito Peter" to keep it clear who we were talking about during conversations/animation rounds/etc..."|work=Twitter|first=Nick|last=Kondo|date=4 January 2019|accessdate=13 January 2020}}}}
+* In addition to his appearance in the costume shop, Stan Lee shows up as a minor background character in numerous moments of the film. He's one of the bystanders that walk over Miles and Peter B. Parker on the street, and he's inside the train Miles runs across in the film's final scene.
+* A poster of [[wikipedia:Chance the Rapper|Chance the Rapper]]'s "[[wikipedia:Coloring Book (mixtape)|Coloring Book]]" mixtape appears in Miles' dorm room. In the poster, the number 3 in Chance the Rapper's cap is changed to a 4.
+* The scenes in [[Earth-67]] are taken from the 1967 ''Spider-Man'' animated series' episode "[[Spider-Man (1967 animated series) Season 1 19B|Double Identity]]". Using this footage, Spider-Man 2099 and Earth-67 Spider-Man recreate the ''[https://knowyourmeme.com/memes/spider-man-pointing-at-spider-man#fn1 Spider-Man Pointing at Spider-Man]'' meme, which originated in this episode.
+* The Spider-Man suit with the cape is based on {{cl|What If? Vol 1 19}}, where [[Peter Parker (Earth-80219)|Spider-Man]] never became a crime fighter.
+* The introductions sequences of Gwen Stacy, Peter Parker and Peter B. Parker include artwork from actual comic books. Some of the comics seen are {{cl|Spider-Man Vol 1 19}} and [[Spider-Man Vol 1 75|#75]].
+* The [[w:c:cloudywithachanceofmeatballs:Flint Lockwood Diatonic Super Mutating Dynamic Food Replicator (FLDSMDFR)|FLDSMDFR]] from ''[[w:c:cloudywithachanceofmeatballs:Cloudy with a Chance of Meatballs (film)|Cloudy with a Chance of Meatballs]]'' appears in the film's climax as one of the objects being sucked into the Super Collider. ''Cloudy with a Chance of Meatballs'' was directed by ''Into the Spider-Verse'' producers [[Phil Lord]] and [[Christopher Miller]].
+* During the film's final battle, when different versions of Vanessa and Richard Fisk are glitching in and out of reality, one of these pairs is replaced with [[Sister Maggie]] and a young [[Daredevil|Matt Murdock]].
+* The Blu-ray release of the film included an "Alternate Universe" version incorporating scenes, characters and even subplots deleted from the final film. One deleted scene has Miles' mother make a direct reference to [[Iron Man]].
+* The Blu-Ray and digital releases also include a short animated film ''[[Spider-Ham: Caught in a Ham]]'' starring [[Peter Porker (Earth-TRN705)|Spider-Ham (Peter Porker)]] elaborating on the character's activities before being transported to Miles' reality.
+* Live-action [[Peter Parker (Earth-199999)|Peter Parker]] actor [[wikipedia:Tom Holland|Tom Holland]] from the [[Earth-199999|Marvel Cinematic Universe]] was set to make a cameo in the film, but it was scrapped.{{r|{{cite web|url=https://webbedmedia.com/2019/06/26/tom-holland-reveals-his-planned-cameo-for-spider-man-into-the-spider-verse/|title=Tom Holland Reveals His Planned Cameo For Spider-Man: Into the Spider-Verse That Was Scrapped|work=Webbed Media|date=26 June 2019|accessdate=26 June 2019}}}}
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[es:Spider-Man: Into the Spider-Verse]]
+[[pt-br:Homem-Aranha no Aranhaverso]]
+[[ru:Человек-паук: Через вселенные]]
+[[Category:Sony Pictures Entertainment]]

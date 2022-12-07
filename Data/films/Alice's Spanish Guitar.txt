@@ -1,0 +1,23 @@
+{{Infobox film
+|image = File:Alice's Spanish Guitar.gif
+|name = Alice's Spanish Guitar
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[November 29]], [[1926]]
+|preceded = ''[[Alice Helps the Romance]]''
+|followed = ''[[Alice's Brown Derby]]''
+}}
+'''''Alice's Spanish Guitar''''' is a [[1926]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+[[Pete]] once again kidnaps Alice as she plays guitar in a Spanish cafe. [[Julius the Cat|Julius]], once again, comes swashbuckling to the rescue.
+
+==External links==
+[[File:Spanish_Guitar.gif|thumb]] *[http://www.disneyshorts.org/shorts.aspx?shortID=47 Alice's Spanish Guitar] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1926 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Pete Shorts]]

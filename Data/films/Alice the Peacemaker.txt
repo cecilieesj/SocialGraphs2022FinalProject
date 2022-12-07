@@ -1,0 +1,37 @@
+{{Infobox film
+|image = Alicethepeacemakerposter.jpeg
+|name = Alice the Peacemaker
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[August 1]], [[1924]]
+|time = 7:35
+|preceded = ''[[Alice and the Dog Catcher]]''
+|followed = ''[[Alice Gets in Dutch]]''
+}}
+'''''Alice the Peacemaker''''' is an animated short film that is part of the [[Alice Comedies]] that were released by Winkler Pictures in [[1924]]. It was in black and white and silent.
+
+==Summary==
+Alice tries to break up a fight between two newsboys by telling them a story of a feuding cat and mouse.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+Alice the peacemaker 1large.jpg
+Alice the peacemaker 2large.jpg
+Alice the peacemaker 3large.jpg
+Alice the peacemaker 4large.jpg
+Alice the peacemaker 5large.jpg
+Alice the peacemaker 6large.jpg
+1924-peacemaker-2.jpg
+1924-peacemaker-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=16 Alice the Peacemaker] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1924 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Featured shorts]]

@@ -1,0 +1,58 @@
+{{Infobox character
+|image = Shaw.png
+|name = Shaw
+|films = 
+|shorts = 
+|shows = ''[[Tron: Uprising]]''
+|games = 
+|rides = 
+|actor = 
+|actress = 
+|animator = 
+|voice = Zach Rosencrantz
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = 
+|personality = 
+|appearance = 
+|occupation = 
+|alignment = Bad
+|affiliations = 
+|goal = 
+|home = 
+|family = 
+|pets = 
+|friends = 
+|minions = 
+|enemies = 
+|likes = 
+|dislikes = 
+|powers = 
+|possessions = 
+|weapons = 
+|status = Derezzed
+|quote = }}
+'''Shaw''' is a minor character and supervillain in ''[[Tron: Uprising]]''.
+==Skills and abilities==
+Shaw was a talented scientist and inventor. While wearing the weapon he designed, he gained vastly increased strength and agility, but the enhancements came with a price; the weapon also made him aggressive to the point of insanity.
+
+==History==
+==="[[Price of Power]]"===
+Shaw is tasked by [[General Tesler]] to design a weapon -- a power-upgrade mod to be applied to an identity disc -- for use by Clu's army. While en route to [[Argon City]] with the weapon, his dirigible is intercepted by [[Beck]], who disables his guards and attempts to abduct him. Rather than cooperating, Shaw attaches the weapon to his own disc, attacks Beck, and throws him from the dirigible; but Beck uses a Light Jet to get back on board, and its impact throws Shaw from the dirigible's upper platform. Attacking Beck again, Shaw is thrown over the side of the dirigible; Beck catches the disc Shaw is holding, preventing him from falling further, but has to switch the grip to his wrist when Shaw's weapon slips off the disc. Enraged, Shaw wildly slashes at Beck in a mad attempt to regain the weapon, ignoring Beck's attempts to help him. The violent motions causes Beck to lose his grip, and Shaw plummets into the dirigible's engine, and is derezzed.
+
+{{TronWiki}}
+{{Tron}}
+[[Category:Tron characters]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Males]]
+[[Category:Villains]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Programs]]
+[[Category:Deceased characters]]
+[[Category:Tron: Uprising characters]]
+[[Category:Disney XD characters]]

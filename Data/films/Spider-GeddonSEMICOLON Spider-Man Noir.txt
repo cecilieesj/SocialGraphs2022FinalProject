@@ -1,0 +1,69 @@
+{{Marvel Database:Film Template
+| Image                   = Spider-Geddon Spider-Man Noir 1
+| Aliases                 = 
+
+| Directors               = Tim Eldred
+| Producers               = Dan Buckley; Cort Lane; Eric Radomski; Joe Quesada; John Cerilli; Alan Fine; Dan Silver; Stan Lee; Stephen Wacker; Nick Lowe; Howard Schwartz; Kenneth T. Ito; Jacob Thomas; Mark Basso; Shaun Avnet
+| ScreenplayWriters       = 
+| StoryWriters            = David Hine; Fabrice Sapolsky
+| Musicians               = Michael Tavera
+| Cinematographers        = 
+| Editors                 = Adam Redding; Laura Damon; Braden Boe; Seth Swaaley
+| Distributors            = Marvel Entertainment
+| Running Time            = 3 minutes, 54 seconds
+| Rating                  = 
+| Budget                  = 
+| Release Date            = October 10, 2018
+| IMDB ID                 = 
+| Marvel Movies           = 
+
+| Next Film               = Spider-Geddon: Spider-Gwen: Ghost-Spider
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Peter Parker (Earth-90214)|The Spider-Man (Peter Parker)]]|Spider-Man Vol 2 14|Spider-Geddon Vol 1 1}}
+'''Supporting Characters:'''
+* {{1stas|[[Felicia Hardy (Earth-90214)|White Widow (Felicia Hardy)]]|White Widow}}
+'''Antagonists:'''
+* {{1st|[[Shultz Enterprises (Earth-90214)|Shultz Enterprises]]}}
+** {{1st|[[Shocker (Shultz) (Earth-90214)|Shocker (Shultz)]]}}
+** Two unnamed guards {{Only}}
+* Unnamed {{a|[[National Socialist German Workers Party (Earth-90214)|Nazi]]}} spy {{Only}}
+'''Other Characters:'''
+* {{a|[[Web-Warriors (Earth-001)|Web-Warriors]]}}
+** {{apn|[[William Braddock (Earth-833)|Spider-UK (Billy Braddock)]]|Superior Octopus Vol 1 1|Spider-Geddon Vol 1 1}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+'''Locations:'''
+* {{a|[[Earth-90214]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[North America]]}}
+**** {{a|[[United States of America]]}}
+***** {{a|[[New York (State)|New York]]}}
+****** {{a|[[New York City]]}}
+*** {{Mentioned|[[Europe]]}}
+**** {{Mentioned|[[United Kingdom]]}}
+** {{Invoked|[[Hell]]}}
+'''Items:'''
+* {{a|[[Spider-Man's Suit|Spider-Men's Suits]]}} and {{a|[[Web-Shooters]]}}
+* {{a|[[Black Widow's Gauntlets]]}}
+* {{1st|[[Shocker's Vibro-Shock Gauntlets]]}}
+* {{a|[[Dimensional Travel Watch]]}}
+<!-- '''Vehicles:'''
+* <br/> -->
+'''Events:'''
+* {{Mentioned|[[World War II]]}}
+* {{Mentioned|[[Spider-Verse]]}}
+
+| Plot                    = 
+
+| Cast                    = * Jake Eberly as [[Peter Parker (Earth-90214)|Spider-Man Noir]] and [[Shocker (Shultz) (Earth-90214)|Shocker]]
+* [[Wikipedia:Erika Harlacher|Erika Harlacher]] as [[Felicia Hardy (Earth-90214)|White Widow]]
+* Griffin Burns as [[William Braddock (Earth-833)|Spider-UK]], Nazi Agent, Guard Vol 1 1, and Guard Vol 1 2
+
+| Notes                   = * Art by [[Paco Diaz]] and colors by [[Andres Mossa]].[[Category:Paco Diaz/Penciler]][[Category:Paco Diaz/Inker]][[Category:Andres Mossa/Colorist]]
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Comics|Marvel Films]]
+}}
+[[Category:Short Films]]
+[[Category:Spider-Geddon]]

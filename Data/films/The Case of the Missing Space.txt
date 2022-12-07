@@ -1,0 +1,36 @@
+{{Infobox film
+|name        = The Case of the Missing Space
+|image = MissingSpace.jpg
+|director    =Mark Jean 
+|producer    =Bill Scollon<br>Gay Adair Hennessey 
+|writer      =Jamie Simons 
+|distributor = The Walt Disney Company
+|language    = English
+|time = 16 minutes
+|release = September [[1989]]|music = David S. Kates|editor = Jack Reifert|studio = Disney Educational Productions<br>JJH Productions<br>Cioni Artworks}}'''''The Case of the Missing Space''''' is a [[1989]] educational Disney animated short featuring [[Figment]] from ''[[Journey Into Imagination]]''.
+
+== Summary ==
+Detective Figment has received a letter from someone who needs help with "[[Tweedle Dee and Tweedle Dum|Troublesome Tweedles]]", but because the letters from the signature have fallen off the page, he can't find out who it is. He engages Alex and Natalie to help him solve the mystery. Using their imagination and reasoning to try all sorts of possibilities, and giving the audience a chance to see how brainstorming works in solving a problem, they discover the mysterious author.
+
+Explores wordplay and word and symbol relationships through the uses of observation skills and deductive reasoning.
+
+== Trivia ==
+* This short incorporates stock footage from:
+** [[Alice in Wonderland (1951 film)|''Alice in Wonderland'']]
+** ''[[Mars and Beyond]]''
+** ''[[The Three Caballeros]]''
+** ''[[The Adventures of Ichabod and Mr. Toad]]''
+** ''[[Dumbo (1941 film)|Dumbo]]''
+** ''[[The Country Cousin]]''
+** ''[[The Many Adventures of Winnie the Pooh]]''
+
+* A stop motion sequence in the short was animated by {{WikipediaLink|Craig Bartlett}}, who would go on to create {{WikipediaLink|Nickelodeon}}'s '''{{WikipediaLink|Hey Arnold}}'''.
+{{DEFAULTSORT:Case of the Missing Space, The}}
+[[Category:Animated shorts]]
+[[Category:Disney films]]
+[[Category:Live-action shorts]]
+[[Category:Educational films]]
+[[Category:Hybrid films]]
+[[Category:Language Arts Through Imagination]]
+[[Category:1989 shorts]]
+[[Category:Disney Educational Productions]]

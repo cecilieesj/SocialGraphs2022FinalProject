@@ -1,0 +1,55 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|name = Spider-Man 4
+|director = 
+|producer = [[Kevin Feige]]<br>Amy Pascal
+|writer = 
+|starring = [[Tom Holland]]<br>[[Zendaya]]
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Marvel Studios]]
+|distributor = [[Sony Pictures Entertainment]]
+|release = 
+|time = 
+|language = English
+|budget = 
+|gross = 
+|preceded = ''[[Spider-Man: No Way Home]]''
+|followed = 
+|website = 
+|imdb_id =}}
+'''''Spider-Man 4''''' is a placeholder title for an upcoming superhero film, based on the Marvel Comics superhero [[Spider-Man|of the same name]]. The film is a sequel to ''[[Spider-Man: Homecoming]]'', ''[[Spider-Man: Far From Home]]'', and ''[[Spider-Man: No Way Home]]''. It is expected to be part of Phase Six or Seven of the [[Marvel Cinematic Universe]]. It will be produced by [[Marvel Studios]] and distributed by [[Sony Pictures Entertainment]].<ref name="NewTrilogy">[https://www.fandango.com/movie-news/spider-man-no-way-home-producer-amy-pascal-reveals-more-about-the-historic-film-and-confirms-tom-hollands-future-as-spider-man-754461 'Spider-Man: No Way Home' Producer Amy Pascal Reveals More About the Historic Film and Confirms Tom Holland's Future as Spider-Man]</ref>
+
+==Cast==
+*[[Tom Holland]] as [[Spider-Man|Peter Parker/Spider-Man]]
+*[[Zendaya]] as [[Michelle Jones|Michelle Jones-Watson]]<ref>[https://movieweb.com/spider-man-4-work-has-begun-tom-holland-zendaya-jon-watts-return/ Work Has Begun on Spider-Man 4, Which Will See Tom Holland, Zendaya & Jon Watts Return]</ref>
+
+==Production==
+On November 29, 2021, in an interview with ''Fandango'', Amy Pascal confirmed that a new trilogy set in the Marvel Cinematic Universe is in development with Holland reprising his role, in an extended deal with [[Marvel Studios]].<ref name="NewTrilogy" />
+
+==Trivia==
+*This will be the third film to make a superhero trilogy into a tetralogy; first being ''[[Thor: Love and Thunder]]'' and second being ''[[Captain America: New World Order]]''.
+*This will be the first Spider-Man movie in history to be the fourth installment in its respective series.
+*[[Vincent D'Onofrio]] hopes to appear in this movie as the villain [[Kingpin]].<ref>{{Cite web|url=https://thedirect.com/article/spider-man-4-kingpin-vincent-donofrio|title=
+Kingpin's Vincent D'Onofrio Reveals Spider-Man 4 Hopes|website=The Direct|date=January 29, 2022|access-date=January 29, 2022}}</ref>
+*On [[May 17]], 2022, [[Tom Holland]] was asked if he would return as [[Spider-Man]] and he replied with "Maybe one day" with a smirk, hinting he had signed a new contract.<ref>[https://mobile.twitter.com/tomhollandsdaya/status/1526647090494963712 (Video) Tom Holland is Asked About His Return as Spider-Man]</ref>
+
+==References==
+{{Reflist}}
+
+==External Links==
+*[[w:c:marvelcinematicuniverse:Spider-Man 4|Spider-Man 4]] on [[w:c:marvelcinematicuniverse:Marvel_Cinematic_Universe_Wiki|Marvel Cinematic Universe Wiki]]
+{{FilmStub}}
+{{Marvel Cinematic Universe}}
+[[Category:Upcoming films]]
+[[Category:Films]]
+[[Category:Films based on comics]]
+[[Category:Marvel Comics]]
+[[Category:Spider-Man]]
+[[Category:Marvel Cinematic Universe]]
+[[Category:Marvel Cinematic Universe films]]
+[[Category:Live-action films]]
+[[Category:Sequel films]]
+[[Category:Non-Disney]]

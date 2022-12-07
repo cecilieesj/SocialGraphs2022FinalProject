@@ -1,0 +1,24 @@
+{{CharacterStub}}
+{{Infobox character
+|name = The Streamer
+|alias = 
+|gender = Male
+|image = [[File:The_Streamer.png|thumb]]
+|likes = Streaming films and shows available in the Disney Bundle
+|actor = [[Dave Bautista]]
+|species = Human}}
+'''The Streamer''' is the spokescharacter for the Disney Bundle ([[Disney+]], [[Hulu]], and [[ESPN+]]) and is portrayed by [[Dave Bautista]].
+
+==Videos==
+<gallery position="center" spacing="small" captionalign="center" hideaddbutton="true" widths="300">
+Meet The Streamer - The Disney Bundle-2
+</gallery>
+
+==External links==
+{{Twitter|TheStreamer}}
+
+{{Disney+}}
+[[Category:Males]]
+[[Category:Disney+]]
+
+{{DEFAULTSORT:Streamer}}

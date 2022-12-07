@@ -1,0 +1,43 @@
+{{Infobox film
+|image = Tumblr_n6mm3dgHpZ1rxt9glo4_r1_250.jpg
+|imagewidth = 250px
+|name = The Spider and the Fly
+|director = [[Wilfred Jackson]]
+|producer = [[Walt Disney]]
+|writer = 
+|music = [[Frank Churchill]]<br>Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[October 16]], [[1931]]
+|preceded = ''[[The Clock Store]]''
+|followed = ''[[The Fox Hunt (1931 short)|The Fox Hunt]]''}}
+'''''The Spider and the Fly''''' is a black-and-white ''[[Silly Symphonies]]'' short that was released on [[October 16]], [[1931]].
+
+==Synopsis==
+The idyllic lives of the houseflies are interrupted by a black spider. They unite with other insects to defeat the spider.
+
+==Home video releases==
+'''DVD'''
+*''[[Walt Disney Treasures]]: More Silly Symphonies''
+
+<gallery type="slider">
+</gallery>
+==Gallery==
+<gallery position="center" spacing="small" widths="150" captionalign="center" captionsize="small">
+15105.jpg
+15106.jpg
+Tumblr n0axp32spu1qhcrb0o1 1280.jpg
+15107.jpg
+15110.jpg
+SPIDER_AND_THE_FLY.png
+15111.jpg
+15112.jpg
+Spider and the fly.jpg
+</gallery>
+
+{{Silly Symphony}}
+{{DEFAULTSORT:Spider and the Fly, The}}
+[[Category:Animated shorts]]
+[[Category:Silly Symphonies]]
+[[Category:1931 shorts]]

@@ -1,0 +1,13 @@
+{{Infobox character
+|image = Clerk Herb.jpg
+|name = Clerk Herb
+|games = ''[[Toontown Online]]''
+|occupation = Clerk
+|alignment = Neutral}}
+Clerk Herb works at the [http://toontown.wikia.com/wiki/Gag_Shop Gag Shop] in Daisy's Gardens. He works along with [http://toontown.wikia.com/wiki/Clerk_Peaches Clerk Peaches].
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Males]]
+[[Category:Horses]]
+{{Toontown Online}}

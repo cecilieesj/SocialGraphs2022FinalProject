@@ -1,0 +1,57 @@
+{{Marvel Database:Film Template
+| Image                   = Marvel One-Shot A Funny Thing Happened on the Way to Thor's Hammer.jpg
+| Aliases                 = 
+
+| Directors               = Leythum
+| Producers               = Kevin Feige
+| ScreenplayWriters       = Eric Pearson
+| Musicians               = Howard Drossin; Paul Oakenfold; Hector Ruíz
+| Cinematographers        = David Myrick
+| Editors                 = Gabriel Britz; David Brodie
+| Distributors            = Paramount Pictures, Marvel Entertainment
+| Running Time            = 4 mins
+| Rating                  = PG-13
+| Budget                  = 
+| Release Date            = October 25, 2011
+
+| IMDB ID                 = 2011109
+| Marvel Movies           = Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer
+| MCU                     = Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer
+
+| Previous Film           = Marvel One-Shot: The Consultant
+| Next Film               = Marvel One-Shot: Item 47
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Phillip Coulson (Earth-199999)|Agent Phil Coulson]]|Iron Man 2 (film)|Thor (film)}}
+'''Supporting Characters:'''
+* Clerk
+'''Antagonists:'''
+* Two robbers
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[New Mexico (State)|New Mexico]]}}
+***** {{a|[[Roxxon Oil Company (Earth-199999)|Roxxon Gas Station]]}}
+'''Vehicles:'''
+* Acura TL (S.H.I.E.L.D. edition)
+
+| Plot                    = On his way to the crater site where [[Mjolnir|Thor's hammer]] went down, [[Phillip Coulson (Earth-199999)|Agent Coulson]] stops at a gas station. While he tries to decide which donuts to take, two robbers enter the station and hold the clerk at gun point. They ask her who owns the car parked out in front and Coulson says it is his and he gives them his keys. The robbers tell the clerk to empty the cash register. Agent Coulson warns the robbers that he also has a gun that they might need. The robbers tell him to put down the gun, and the agent slides it over. As the robber picks up the gun, the agent throws a pack of flour at the robber and quickly overwhelms the robbers. Agent Coulson then pays for his donuts and continues his journey.
+
+| Cast                    = * [[wikipedia:Clark Gregg|Clark Gregg]] - [[Phillip Coulson (Earth-199999)|Phil Coulson]]
+* Jessica Manuel - Clerk
+* Jeff Prewett - Robber 1
+* Zach Hudson - Robber 2
+
+| Notes                   = [[File:Marvel One Shot Thor's Hammer.jpg|thumb]]
+* The short film takes place after Agent Coulson leaves [[Anthony Stark (Earth-199999)| Stark]]'s lab in Malibu during ''[[Iron Man 2 (film)|Iron Man 2]]'' and before he arrives at the crater site in ''[[Thor (film)|Thor]]''.
+<gallery>
+A Funny Thing Happened On the Way To Thor's Hammer|'A Funny Thing Happened On the Way To Thor's Hammer' re-uploaded by JoBlo Superheroes
+</gallery>
+| Trivia                  = * The same convenience store is visited the next day by [[Clinton Barton (Earth-199999)|Agent Barton]], as seen in {{cl|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 2}}.
+* The title is a reference to the musical ''{{WP|A Funny Thing Happened on the Way to the Forum}}''.
+| Links                   = * [[Marvel Films#Marvel One-Shots|Marvel Films]]
+}}
+[[Category:Short Films]]
+[[Category:Marvel One-Shots]]

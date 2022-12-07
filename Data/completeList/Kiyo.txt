@@ -1,0 +1,29 @@
+{{Infobox character
+|image = Kiyo.png
+|films = ''[[Princess Mononoke]]''
+|voice = [[w:c:ghibli:Sumi Shimamoto|Sumi Shimamoto]] (Japanese)<br>[[Tress MacNeille]] (English adaptation)
+|weapons = Rifle
+|status = }}
+'''Kiyo''' is a character in the [[1997]] [[Studio Ghibli]] film ''[[Princess Mononoke]]''.
+
+==Background==
+===Physical appearance===
+Kiyo has brown hair and a white kimono with triangular symbols similar to the "Triforce" featured in ''The Legend of Zelda'' video game series. She also wears a pink turban-like and has a gun.
+
+==Role in the [[Princess Mononoke|film]]==
+She works the bellows in Irontown with the rest of the women. When [[Ashitaka]] knocks [[Lady Eboshi]] unconscious to stop her fighting with [[San]], Kiyo gets angry and threatens him with a gun. When he starts to walk out, Kiyo unintentionally shoots him through his chest. To her amazement, Ashitaka does not stop and continues to exit the village with San over his shoulder.
+
+==External Links==
+*{{Interwiki|https://vignette.wikia.nocookie.net/ghibli/images/6/64/Favicon.ico|ghibli|Kiyo|Ghibli Wiki}}
+
+{{CharacterStub}}
+{{Studio Ghibli}}
+[[Category:Characters]]
+[[Category:Females]]
+[[Category:Studio Ghibli characters]]
+[[Category:Non-Disney characters]]
+[[Category:Adults]]
+[[Category:Neutral characters]]
+[[Category:Japanese characters]]
+[[Category:Animated characters]]
+[[Category:Miramax characters]]

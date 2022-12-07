@@ -1,0 +1,70 @@
+{{Marvel Database:Film Template
+| Image                   = Caught in a Ham Poster 001.jpg
+| Aliases                 = 
+| Universe                = Earth-TRN705
+| Directors               = Miguel Jiron
+| Producers               = David Schulenburg
+| ScreenplayWriters       = Miguel Jiron;
+| Musicians               = David Eber, Tyler Rice
+| Cinematographers        = 
+| Editors                 = Artur D. Nodda
+| Distributors            = Sony Pictures
+| Running Time            = 4 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = February 26, 2019
+
+| IMDB ID                 = 9803682
+| Marvel Movies           = 
+
+| Previous Film           = Spider-Man: Into the Spider-Verse
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1stChron|[[Peter Porker (Earth-TRN705)|Spider-Ham (Peter Porker)]]}}
+'''Antagonists:'''
+* {{1st|[[Doctor Crawdaddy (Earth-TRN705)|Doctor Crawdaddy]]}}
+'''Other Characters:'''
+* {{Minor|[[Annihilape (Earth-TRN705)|Annihilape]]}} {{1st}}
+* {{Minor|[[Goose Cannon (Earth-TRN705)|Goose Cannon]]}} {{1st}}
+* {{Minor|[[Majestic Cariboom (Earth-TRN705)|Majestic Cariboom]]}} {{1st}}
+* {{Minor|[[Cyber Billygoat (Earth-TRN705)|Cyber Billygoat]]}} {{1st}}
+* {{Minor|[[Renigator (Earth-TRN705)|Renigator]]}} {{1st}}
+* {{Minor|[[Big Clamurai (Earth-TRN705)|Big Clamurai]]}} {{1st}}
+* {{Minor|[[Tortoise Bombshell (Earth-TRN705)|Tortoise Bombshell]]}} {{1st}}
+* {{Minor|[[Telecanary (Earth-TRN705)|Telecanary]]}} {{1st}}
+* {{Minor|[[W-M-Bees (Earth-TRN705)|W-M-Bees]]}} {{1st}}
+* {{Minor|[[Nuclear Boarhead (Earth-TRN705)|Nuclear Boarhead]]}} {{1st}}
+'''Races and Species:'''
+* {{a|[[Pig-Spider Hybrids]]}}
+* Shrimp
+* Apes
+* {{a|[[Geese]]}}
+* Moose
+* Goats
+* Alligators
+* Clams
+* Tortoises
+* Canaries
+* Bees
+* Boars
+'''Locations:'''
+* {{1stChron|[[Earth-TRN705|E-8311]]}}
+** {{a|[[Earth]]}}
+*** Evil Villain Lair {{1st}}
+* {{Mentioned|[[Earth-TRN700|E-1610]]}}
+
+| Plot                    = 
+
+| Cast                    = 
+* [[wikipedia:John Mulaney|John Mulaney]] as [[Peter Porker (Earth-TRN705)|Spider-Ham]]
+* Aaron LaPlante as [[Doctor Crawdaddy (Earth-TRN705)|Doctor Crawdaddy]]
+
+| Notes                   = ''Caught in a Ham'' was released as a special feature on ''[[Spider-Man: Into the Spider-Verse]]'' Blu-Ray and digital releases.
+
+| Trivia                  =
+
+| Links                   = * [[Marvel Films#Sony Pictures|Marvel Films]]
+}}
+[[Category:Short Films]]

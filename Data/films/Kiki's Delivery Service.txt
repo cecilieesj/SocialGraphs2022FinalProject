@@ -1,0 +1,392 @@
+{{Infobox film
+|image = Kiki's Delivery Service (Movie).jpg
+|director = [[Hayao Miyazaki]]
+|producer = Hayao Miyazaki
+|writer = Hayao Miyazaki
+|starring = Minami Takayama<br>Rei Sakuma<br>Kappei Yamaguchi
+|music = Joe Hisaishi
+|cinematography = Shigeo Sugimura
+|studio = Tokuma Shoten<br>[[Studio Ghibli]]<br>Yamato Transport<br>Nippon Television Network
+|distributor = Toei Company
+|release = [[July 22]], [[1989]]
+|time = 102 minutes
+|language = Japanese
+|budget = ¥800,000,000 (estimated)<br>($6,900,000)
+|gross = ¥2,170,000,000 (estimated)<br>(US$18,000,000)
+|preceded = ''[[My Neighbor Totoro]]''
+|followed = ''[[Porco Rosso (film)|Porco Rosso]]''
+|imdb_id = 0097814}}
+'''''Kiki's Delivery Service''''' (魔女の宅急便 ''Majo no Takkyūbin'', translated "''Witch's Delivery Service''") is a [[1989]] Japanese animated fantasy film written, produced, and directed by [[Hayao Miyazaki]]. It is based on the [[1985]] novel of the same name by Eiko Kadono, an author of children's literature. The film features the voices of Minami Takayama, Rei Sakuma, and Kappei Yamaguchi, and tells the story of a young witch, [[Kiki]] (Takayama), as she spends a year in a town on her own while using her magical abilities to earn her living.
+
+According to Miyazaki, the movie touches on the gulf that exists between independence and reliance in Japanese teenage girls.
+
+The film was released on [[July 22]], [[1989]], and won the Animage Anime Grand Prix prize. It was the first Studio Ghibli film released under the partnership between [[The Walt Disney Company]] and [[Studio Ghibli]]; Disney recorded an English dub in [[1997]], which premiered theatrically in the United States at the [[Seattle]] International Film Festival on [[May 23]], [[1998]]. It was released on home video in the U.S. and Canada on [[September 15]], 1998.
+
+==Plot==
+[[Kiki]] is a young 13-year-old witch who lives in a village where her mother is the resident herbalist. Traditionally, witches live alone for a year when they reach the age of 13. One night, Kiki takes off for the big city with her best friend [[Jiji]], a talkative black cat.
+
+Kiki settles in Koriko, a port city. After a hard start, mostly due to her own insecurity, Kiki makes friends and finds a place to stay. However, Kiki discovers that her only skill as a witch is her ability to fly a broom, at which she is still not fully proficient. To support herself, she begins a delivery service at Gütiokipänja Bakery, a bakery owned by [[Osono]] and her husband Fukuo.
+
+During her time in Koriko, Kiki experiences setbacks and must contend with adolescent worries. She is pursued by Tombo, a local boy who is crazy about aviation. Tombo not only has a strong respect for Kiki's flying abilities, but also a strong liking for her as a girl. Kiki eventually warms up to him, but after a brief encounter with Tombo's friends, some of whom she had met earlier under unfavourable circumstances, Kiki's insecurities come back into play, and she goes into depression. Because of her depression, Kiki loses her powers to fly and also to speak with Jiji. Fortunately, one of her friends, a young painter named [[Ursula (Kiki's Delivery Service)|Ursula]], invites her to stay in her forest cottage, where she decides Kiki's current crisis is "some form of artist's block." Due to her disappointment with her new, independent life Kiki loses her optimism, and her powers; however if she can find a new purpose, she will be able to reclaim what she has lost.
+
+Regaining her spirit, Kiki returns to the city. While visiting one of her customers, she witnesses an airship (dirigible) accident on the television. A strong and sudden gust of wind blows, and Tombo is lifted into the air and blown away hanging from the dirigible. Kiki pushes herself to regain her flying ability and uses a street-sweeper's push broom to fly to Tombo and the dirigible accident. Kiki is able to regain her full power and rescue Tombo.
+
+Later, Kiki becomes a local celebrity and flies in formation with Tombo on his human-powered aircraft, a propeller-rigged bicycle. Kiki sends a letter to her parents about gaining confidence through difficulties and that she has decided to make Koriko her new home.
+
+==Cast==
+{| class="wikitable"
+|-
+! Character
+! Japanese
+! English (Streamline version)
+! English ([[Buena Vista Distribution|Disney]] version)
+|-
+![[Kiki]]
+| rowspan="2" |Minami Takayama
+|Lisa Michelson
+|[[Kirsten Dunst]]
+|-
+![[Ursula (Kiki's Delivery Service)|Ursula]]
+| rowspan="2" |Edie Mirman
+|[[Janeane Garofalo]]
+|-
+!Barsa
+|Hiroko Seki
+|[[Edie McClurg]]
+|-
+![[Jiji]]
+| Rei Sakuma
+|Kerrigan Mahan
+|[[Phil Hartman]]
+|-
+!Tombo
+|Kappei Yamaguchi
+|Eddie Frierson
+|[[Matthew Lawrence]]
+|-
+![[Osono]]
+|Keiko Toda
+|Alexandra Kenworthy
+|[[Tress MacNeille]]
+|-
+![[Kokiri|Kokiri (Kiki's mother)]]
+| Mieko Nobusawa
+|[[Barbara Goodson]]
+|[[Kath Soucie]]
+|-
+![[Okino|Okino (Kiki's father)]]
+|Kōichi Miura
+|John Dantona
+| rowspan="2" |[[Jeff Bennett]]
+|-
+!Man with Push Broom/Street Sweeper
+|Takashi Taguchi
+|Steve Kramer
+|-
+!Madame
+|Haruko Katō
+| rowspan="2" |Melanie MacQueen
+|[[Debbie Reynolds]]
+|-
+!Old Woman
+| rowspan="2" |Hiroko Maruyama
+| Unknown
+|-
+!Boy
+| colspan="2" |Unknown
+|-
+!Ket
+|Yuriko Fuchizaki
+| rowspan="2" |Lara Cody
+|[[Pamela Adlon]]
+|-
+!Maki
+|Kikuko Inoue
+| rowspan="3" |Julia Fletcher
+|-
+!Ket's Grandmother
+| Toshiko Asai
+|Mike Reynolds
+|-
+!Ket's Mother
+|Mika Doi
+| rowspan="2" |[[Diane Michelle]]
+|-
+!Miss Dora
+|Masa Saitô
+|Fay Dewitt
+|-
+![[Fukuo]]
+| rowspan="3" |Koichi Yamadera
+|Greg Snegoff
+|John Hostetter
+|-
+!Policeman
+|Steve Kramer
+|Matt K. Miller
+|-
+!Radio Announcer
+|Carl Macek
+|[[Corey Burton]]
+|-
+!Hotel Receptionist
+|Shinpachi Tsuji
+|Doug Stone
+|Matt K. Miller
+|-
+!Senior Witch
+|Yuko Kobayashi
+| rowspan="2" |Wendee Lee
+|[[Debi Derryberry]]
+|-
+!Madame's Granddaughter
+|Keiko Kagimoto
+|[[Sherry Lynn]]
+|-
+!Ket's Father
+|Takaya Hashi
+|Steve Kramer
+|John DeMita
+|-
+!Baby
+|Chika Sakamoto
+| colspan="2" |Unknown
+|-
+! rowspan="2" |Friends
+|Yoshiko Kamei
+|Lara Cody
+| rowspan="2" |Unknown
+|-
+|Yuko Tsuga
+|[[Barbara Goodson]]
+|-
+!Dirigible Captain
+|Akio Ōtsuka
+|Dave Mallow
+| John Hostetter
+|-
+!Clock Tower Caretaker
+|Tomomichi Nishimura
+|Greg Snegoff
+|Lewis Arquette
+|-
+!Bakery Customer
+| rowspan="10" |Unknown
+| Doug Stone
+| rowspan="10" |Unknown
+|-
+!TV Newscaster
+| rowspan="2" |Greg Snegoff
+|-
+!Kiki's 2nd Customer
+|-
+! rowspan="3" |Tombo's Friends 
+|Dave Mallow
+|-
+|[[Diane Michelle]]
+|-
+|Lara Cody
+|-
+! rowspan="2" |Hometown Adults
+|Mike Reynolds 
+|-
+|Wendee Lee
+|-
+! rowspan="2" |Drivers 
+|Doug Stone
+|-
+|Kerrigan Mahan
+|-
+!Ursula's crows 
+| colspan="2" |Unknown
+|[[Scott Menville]] 
+|}
+
+===Additional Voices===
+*Japanese: Yuko Maruyama
+*Streamline: Steve Kramer, Wendee Lee
+*Disney: June Angela, Eddie Frierson, Susan Hickman, [[Sherry Lynn]]
+
+
+==Production==
+Development of ''Kiki’s Delivery Service'' began in the spring of [[1987]], when Group Fudosha asked the publishers of Eiko Kadono’s book if they could adapt it into a featured film directed by Hayao Miyazaki or Isao Takahata of Studio Ghibli. Due to the approval of Miyazaki’s film ''[[My Neighbor Totoro]]'' and Takahata’s film ''Grave of the Fireflies'' for production, neither Miyazaki nor Takahata was available to take up the direction of the project at the moment.
+
+[[File:Kiki's_Delivery_Service_Screenshot_04_Osono_and_Kiki.jpg|thumb|250px|Osono and Kiki serving customers at Gütiokipänja Bakery. The name of the bakery was a joke by Eiko Kadono, making reference to ''Guchokipa'', an alternate name for ''jankenpon'', or Rock, Paper, Scissors. In the English dub, the bakery is referred to as ''Good Cooking Pan Bakery''.]]
+
+Miyazaki took up the role as producer of the film while the position of director was still unfilled. During the start of the film's production and the nearing of ''Totoro's'' completion, members of Studio Ghibli were being recruited for senior staff for ''Kiki’s Delivery Service''. The character design position was given to Katsuya Kondo, who was working with Miyazaki on ''Totoro''. Hiroshi Ohno, who would later work on projects such as ''Jin-Roh'', was hired as art director, partly because he was requested by Kazuo Oga, who was part of Miyazaki's ''Totoro'' team as well.
+
+Although many positions had been filled, the project still lacked a director. Miyazaki, busy with ''Totoro'', looked at many directors himself, but found none he thought fit to articulate the project. Finally they found a director, Sunao Katabuchi (which was to be his directorial debut) who had previously worked with Miyazaki on ''Sherlock Hound''. Ghibli hired Nobuyuki Isshiki to write the script but Miyazaki was dissatisfied by the first draft, finding it dry and too divergent from his own vision of the film. Studio Ghibli rejected this draft of the screenplay as a result.
+
+Eventually, when ''Totoro'' was finished and released, Miyazaki began to look more closely at ''Kiki’s Delivery Service''. He started by writing a screenplay himself, and since the novel was based in a fictional country in northern Europe, he and the senior staff went to research landscapes and other elements of the setting. Their main stops were Stockholm, the Swedish island of Gotland and Adelaide, South [[Australia]]. Eventually Miyazaki took over as director when Katabuchi got intimidated.
+
+The original Japanese opening theme is "Message of Rouge", and the ending theme is "Wrapped in Kindness", both performed by Yumi Matsutoya (credited as Yumi Arai).
+===Inspiration for Koriko===
+Miyazaki has noted that the town of Visby on the island of Gotland, [[Sweden]] is the main visual inspiration for the city of Koriko. Fictional Koriko is, however, much larger than Visby. Generally the buildings and shops have the look of Stockholm.
+
+The film is set in an idealised trouble-free northern Europe. The name of the city is not actually used in the movie (except in writing on the side of a briefly visible bus) and it is often spelled "Coriko" in publications from Ghibli.
+
+[[File:Kikibook11.gif|thumb|250px|Kiki and Jiji illustrated by Akiko Hayashi from ''Majo no Takkyūbin''. For the film, Kiki's hair was cut short to make the workload easier for the animators.]]
+
+Upon their return to Japan, Miyazaki and the creative team worked on conceptual art and character designs. Miyazaki began significantly modifying the story, creating new ideas and changing existing ones. ''Majo no Takkyūbin'', the original children's book by Eiko Kadono that the movie was based on, is very different from Miyazaki's finished film. Kadono's novel is more episodic, consisting of small stories about various people and incidents Kiki encounters while making deliveries. Many of the more dramatic elements, such as Kiki gets atacked by many magpies, losing her powers or the airship incident at the film's climax, were not present in the original story. Miyazaki made these changes to give the film more of a story, and make the film about the hardships that Kiki faces while growing up; he remarked, "As movies always create a more realistic feeling, Kiki will suffer stronger setbacks and loneliness than in the original".
+
+As a result, Kadono was unhappy with the changes that were made between the book and film, to the point that the project was in danger of being shelved at the screenplay stage. Miyazaki and Toshio Suzuki, the producer of Ghibli, went to the author's home and invited her to the film's studio. After her visit to the studio, Kadono decided to let the project continue. Miyazaki finished the rough draft of the screenplay in June [[1988]], and then presented it in July 1988. It was at this time that Miyazaki revealed that he had decided to direct the film, because he had influenced the project so much.
+
+The word takkyūbin in the Japanese title is a trademark of Yamato Transport, though it is used today as a synonym for takuhaibin. The company not only approved the use of its trademark, though its permission was not required under Japanese trademark laws, but also enthusiastically sponsored the film, as the company uses a stylized depiction of a black mother cat carrying her kitten as its corporate logo.
+
+''Kiki's Delivery Service'' was originally intended to be a 60-minute special, but expanded into a feature film running 102 minutes after Miyazaki completed storyboarding and scripting it.
+
+==Releases==
+The first official English dub of ''Kiki's Delivery Service'' was produced by Carl Macek of Streamline Pictures at the request of Tokuma Shoten for Japan Airlines' international flights. Kiki was portrayed by voice actress Lisa Michelson. This dub is only available in the Ghibli Laserdisc Box Set.
+
+[[Kirsten Dunst]] voiced Kiki in [[The Walt Disney Company|Disney]]'s 1997 English dub, released in 1998. This dub was also Canadian comedian and actor [[Phil Hartman]]'s last voice-acting performance (as [[Jiji]]) before his death in 1998; the dub is dedicated to his memory. Critics generally praised the dub, though some objected to script changes compared to the original Japanese.
+
+In Spain, Kiki was renamed "Nicky", and the film re-titled ''Nicky la aprendiz de bruja'' (''Nicky the Apprentice Witch''), because in Castilian Spanish, the phonetically similar "quiqui" is commonly used in a slang expression: "echar un quiqui" which means "to have intercourse".
+
+===Differences between versions ===
+[[The Walt Disney Company|Disney]]'s English dub of ''Kiki's Delivery Service'' contained some changes, which have been described as "pragmatic". The changes were approved by Miyazaki and Studio Ghibli.
+
+There are a number of additions and embellishments to the film's musical score, and there are several lavish sound effects over sections which are silent in the Japanese original. For example, compare the "wild geese" adventure in both versions. The extra pieces of music, composed by Paul Chihara, ranged from soft piano music to a string-plucked rendition of Edvard Grieg's ''In the Hall of the Mountain King''.
+
+The original opening and ending theme songs were replaced by two new songs, "Soaring" and "I'm Gonna Fly", written and performed for the English movie by Sydney Foret.
+
+The depiction of the cat, Jiji, changed significantly. In the Japanese version, Jiji is voiced by Rei Sakuma, while in the English version Jiji is performed by ''Saturday Night Live'' alumnus [[Phil Hartman]], and also has more of a wisecracking demeanor. In Japanese culture, cats are usually depicted with feminine voices, whereas in American culture their voices are more gender-specific. A number of Hartman's lines exist where Jiji simply says nothing in the original (such as in the scene where Jiji approaches Lili along the top of the wall). Jiji's personality is notably different between the two versions, showing a more cynical and sarcastic attitude in the Disney English version as opposed to cautious and conscientious, like in the original Japanese.
+[[File:Kiki_03.jpg|thumb|left|250px|Kiki and Jiji (sitting on Kiki's back) flying by the clock tower in Koriko just after arriving. According to Helen McCarthy, the "vibrant" Stockholm-inspired city gives a sense of safety as well as independence.]]
+
+In the original Japanese script, Kiki loses her ability to communicate with Jiji permanently, but in the American version a line is added which implies she is once again able to understand him. Miyazaki has said that Jiji is the immature side of Kiki, and this implies that Kiki, by the end of the original Japanese version, has matured beyond talking to her cat.
+
+More minor changes to appeal to the different teenage habits of the day include Kiki drinking hot chocolate instead of coffee and referring to "cute boys" instead of to "the disco".
+
+The English subtitled script used for the original VHS subbed release and the later DVD release, more closely adheres to the Japanese script, but still contains a few alterations. It is based on the original Streamline dub, and has resulted in several additions from that dub to migrate into the script regardless of whether they are present or not (such as Herbert Morrison's "Oh the humanity!" line during the blimp sequence). This came about because Tokuma gave Disney the script for the original dub, thinking it was an accurate translation, believing this was the script that Disney worked on.
+
+===Third English version===
+''Kiki's Delivery Service'' received a new Region 1 DVD in March 2010, the same day Miyazaki's ''[[Ponyo]]'' became available on American home video. This English audio production is something of a combination of the original Japanese version (which is fairly minimalist and has basic sound effects) and the 1998 Disney English audio production (which has newer sound effects, some new incidental music, and the many entirely new lines of dialog, particularly from Hartman).
+
+In the 2010 version, some of the 1998 changes and additions remain and some are gone, reverting to the original audio production (except in Spanish, ''Nicky, la aprendiz de bruja'' only in extra music, sounds and dialogue only at a special edition in 2010). The opening and closing songs from the English version have been changed to the original Japanese pop songs. Hartman's final line which implied that Kiki could understand Jiji again has been removed.
+
+This version of the film was re-issued by GKIDS in October 2017. And Studio Ghibli titles (with this movie ''NOT'' owned by WarnerMedia) launch at WarnerMedia's HBO Max on May 27, 2020.
+
+===Manga===
+A manga book series using stills from the film was published in Japan by Tokuma Shoten. An English translation was published in 2006 by VIZ Media, in 4 volumes.
+===Live-action film===
+A live-action film adaptation of the first two novels and with the same name starring Fuka Koshiba was released on March 1, 2014. This film was distributed by Toei Company, Ltd. in Japan.
+
+Disney was also interested in its own live-action take on Kiki in 2005, but no developments have emerged since then. Jeff Stockwell was assigned to the script, and Don Murphy was going to be the producer.
+
+===Musical===
+In 1993, a musical version of the story was produced. Yukio Ninagawa wrote the script and Kensuke Yokouchi directed the show. The role of Kiki was originated by Youki Kudoh and the role of Tombo was originated by Akira Akasaka. Akasaka was replaced by Katsuyuki Mori (of SMAP fame) within the year. There was a cast recording produced by the original cast, and the show was revived in 1995 and 1996.
+
+==Reception==
+''Kiki's Delivery Service'' premiered on July 29, 1989 in Japanese theaters; the total distribution receipts were ¥2,170,000,000 ($18,000,000), proving to be quite a financial success and the highest grossing film in Japan of 1989. The Japanese DVD was the best selling anime DVD for June 2001.
+
+Upon the release of the English dub of ''Kiki's Delivery Service'' by [[The Walt Disney Company|Disney]] which had its theatrical premiere at the Seattle International Film Festival on May 23, 1998. On September 15, 1998, it was released to VHS video, becoming the 8th-most-rented title at Blockbuster stores during the first week of its availability. This video release also sold over a million copies. A few weeks later, Disney released another VHS of the movie, this time with the original Japanese soundtrack and with both English and Japanese subtitles. A Laserdisc version of the English dub was also available at this time. The Region 1 DVD was released on April 15, 2003, alongside ''[[Spirited Away]]'' and ''Castle in the Sky''. It was again reissued on Region 1 DVD in March 2010 along with ''[[My Neighbor Totoro]]'' and ''Castle in the Sky'' as a tribute to the home release of ''[[Ponyo]]''. The version of this 2010 release was slightly edited to match the original Japanese version.
+
+The conservative Christian group Concerned Women for America boycotted ''Kiki’s Delivery Service'' screenings and released a press release on May 28, 1998 titled “Disney Reverts to Witchcraft in Japanese Animation”. Calling for a boycott of [[The Walt Disney Company|The Disney Company]], the group said the company “is still not family friendly, but continues to have a darker agenda”.
+
+On September 4, 1998, ''Entertainment Weekly'' rated it as Video of the Year, and on September 12, 1998, it was the first video release to be reviewed as a normal film on ''Siskel and Ebert'' rather than on the "Video Pick of the Week" section. Gene Siskel of the ''Chicago Tribune'' and [[Roger Ebert]] of the ''Chicago Sun-Times'' gave it “two thumbs up” and Ebert went on to rank it as one of the best animated films of 1998.
+
+Other reviews were very positive as well. On the review aggregator website [[Wikipedia:Rotten Tomatoes|Rotten Tomatoes]], ''Kiki’s Delivery Service'' scored a perfect 100% rating based on 22 reviews.
+
+===Accolades===
+{| class="wikitable"
+|-
+!Year
+!Award
+! Category
+!Result
+!Recipient 
+|-
+| rowspan="7" |1990
+| rowspan="3" |12th Anime Grand Prix
+|Best Anime
+| {{won}}
+|''Kiki's Delivery Service''
+|-
+|Best Female Character
+| {{won}}
+|Kiki
+|-
+|Best Anime Theme Song
+| {{won}}
+|''Yasashisa ni Tsutsumaretanara''
+|-
+| 44th Mainichi Film Award 
+|''Best Animated Film''
+| {{won}}
+|Kiki's Delivery Service
+|-
+|Kinema Junpo Awards
+|Readers' Choice Award
+| {{won}}
+|''Kiki's Delivery Service''
+|-
+| rowspan="2" |13th Japan Academy Prize
+|Special Award
+| {{won}}
+|''Kiki's Delivery Service''
+|-
+|Popularity Award
+| {{won}}
+|''Kiki's Delivery Service''
+|-
+|
+|7th Annual Golden Gross Award
+|Gold, Japanese Film
+| {{won}}
+|Kiki's Delivery Service
+|-
+|
+|The Movie's Day
+| Special Achievement Award 
+| {{won}}
+|Kiki's Delivery Service
+|-
+|
+|The Erandole Award
+|Special Award
+| {{won}}
+|Kiki's Delivery Service
+|-
+| rowspan="2" |
+| rowspan="2" |Japan Cinema Association Award
+|Best Film
+| {{won}}
+|Kiki's Delivery Service
+|-
+| Best Director
+| {{won}}
+| Hayao Miyazaki
+|-
+|
+|Japanese Agency of Cultural Affairs
+|Best Film
+| {{won}}
+|Kiki's Delivery Service
+|-
+|
+|Tokyo Metropolitan Cultural Honor
+|Best Film
+| {{won}}
+|Kiki's Delivery Service
+|-
+|
+|7th Annual Money Making Director's Award
+|Best Director
+| {{won}}
+|Hayao Miyazaki 
+|}
+
+==External links==
+
+*[http://www.nausicaa.net/miyazaki/kiki/ ''Kiki's Delivery Service'' page] at Nausicaa.net
+
+{{Wikipedia}}
+{{Studio Ghibli}}
+{{DISPLAYTITLE:''Kiki's Delivery Service''}}
+[[Category:1989 films]]
+[[Category:Studio Ghibli films]]
+[[Category:Non-Disney]]
+[[Category:Anime]]
+[[Category:Films based on books]]
+[[Category:Films Distributed by Disney in certain countries]]
+[[Category:Buena Vista International films]]
+[[Category:G-rated films]]

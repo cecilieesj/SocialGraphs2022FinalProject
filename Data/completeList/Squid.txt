@@ -1,0 +1,23 @@
+{{Infobox character
+|image = Squid.jpg
+|name = Squid
+|films = ''[[Holes]]''
+|actor = Jake M. Smith
+|fullname = Alan
+|alias = Squid
+|occupation = Camper at [[Camp Green Lake]]
+|status = Active
+|paraphernalia = Shovel}}
+'''Alan "Squid"''' is a character from ''[[Holes]]''. He is a member of D-Tent at [[Camp Green Lake]]. Throughout the film, he is implied to have a bad relationship with his parents.
+
+{{CharacterStub}}
+
+{{Holes}}
+[[Category:Characters]]
+[[Category:Teenagers]]
+[[Category:Holes characters]]
+[[Category:American characters]]
+[[Category:Live-action characters]]
+[[Category:Neutral characters]]
+[[Category:Males]]
+[[Category:Disney characters]]

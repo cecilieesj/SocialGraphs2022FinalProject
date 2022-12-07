@@ -1,0 +1,31 @@
+{{Infobox film
+|image = 1925-jailbird-1.jpg
+|name = Alice the Jail Bird
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[September 15]], [[1925]]
+|time = 7:31
+|preceded = ''[[Alice Chops the Suey]]''
+|followed = ''[[Alice Plays Cupid]]''
+}}
+'''''Alice the Jail Bird''''' is an animated short film that is part of the ''[[Alice Comedies]]'' that were released by Winkler Pictures in [[1925]]. It was in black and white and silent.
+
+==Summary==
+After stealing a pie, Alice and Julius are put on a chain gang, where they escape with the help of a friendly ostrich.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1925-jailbird-2.jpg
+1925-jailbird-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=30 Alice the Jail Bird] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1925 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Public domain cartoons]]

@@ -1,0 +1,23 @@
+{{Infobox character
+|image = Sid Sonata.jpg
+|name = Sid Sonata
+|games = ''[[Toontown Online]]''
+|occupation = Shopkeeper
+|alignment = Neutral}}
+'''Sid Sonata''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC bright red [http://toontown.wikia.com/wiki/Dog Dog] and a shopkeeper toon who owns [http://toontown.wikia.com/index.php?title=Sonata_Your_Fault!_Discount_Auto_Insurance&action=edit&redlink=1 Sonata Your Fault! Discount Auto Insurance], on [http://toontown.wikia.com/wiki/Baritone_Boulevard Baritone Boulevard], [http://toontown.wikia.com/wiki/Minnie%27s_Melodyland Minnie's Melodyland]
+==SOS Toon==
+﻿Sid Sonata is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. He is a 4-star [http://toontown.wikia.com/wiki/Sound_Gags Sound]. He uses a [http://toontown.wikia.com/wiki/Fog_Horn Fog Horn] dealing a damage of 50.
+
+Other sound gags will group with the SOS.
+
+==Trivia==
+*﻿He was one of the toons that got a remodeled look(Along with [http://toontown.wikia.com/wiki/Doctor_Drift Doctor Drift])
+**He used to be a Citrine [http://toontown.wikia.com/wiki/Cat Cat].﻿
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Dogs]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Neutral characters]]
+{{Toontown Online}}

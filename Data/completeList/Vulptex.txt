@@ -1,0 +1,60 @@
+{{Species Infobox
+|films=''[[Star Wars: The Last Jedi]]''
+|games = ''[[Star Wars Battlefront II]]<br>LEGO Star Wars: The Skywalker Saga''
+|rides=''[[Star Tours: The Adventures Continue]]''
+|designer=Aaron McBride<ref name="EW">{{Cite web|url=http://ew.com/movies/2017/11/20/star-wars-the-last-jedi-crystal-foxes/|title=Luminous Beings: How Star Wars: The Last Jedi’s crystal foxes came to life|website=Entertainment Weekly|accessdate=November 20, 2017|date=November 20, 2017|author=Breznican, Anthony}}</ref><br>Tim Napper<ref>{{Cite web|url=http://artofnapper.com/|title=Concept Designer Tim Napper|accessdate=November 20, 2018|date=November 20, 2018|author=Napper, Tim}}</ref> 
+|image=The_Last_Jedi_70.jpg
+|occupation=Scavenger
+|home=[[Crait]]
+|behaviour = Elusive, social, resourceful
+|alignment = Neutral
+|alias = Crystal Fox<br>Crystal critters
+|appearance = White fur, crystal physiology, translucent, various eye colors
+|abilities = Night vision
+|weapons=Teeth, claws
+|inspiration=[[W:Fox|Fox]]<br>Chandeliers<ref name="EW" />}}
+'''Vulptex''' (plural: '''Vulptices''') is a crystalline alien fox found on [[Crait]]. It appeared in the [[2017]] film ''[[Star Wars: The Last Jedi]]''.
+
+==Background==
+The fox-like vulptex is specifically adapted to its environment by feeding off Crait's mineral surface. This diet has caused the creature's fur to become crystalline like the planet itself.<ref name="EW" /> Due to this, its fur can reflect light, producing a bright glow. The vulptex's eyes can also glow in the dark. Vulptices normally run across the salt flats and burrow deep within the planet's crevasses. They inhabit the former hideouts of the [[Rebel Alliance]] once stationed on Crait, but they are friendly towards visitors.
+
+==Role in the film==
+Following a narrow escape from the [[First Order]], the remaining [[Resistance]] fighters escape to Crait to regroup. Several vulptices are found in the rebel outpost, but they tolerate the presence of the Resistance. While enclosed inside the base during a First Order attack, the vulptices disappear into the caverns. As [[Finn]] follows one vulptex, the Resistance discovers the vulptices were using an escape route fit for their size. On the other side of the cave, the vulptices witness [[Rey]]'s arrival. Their presence alerts Rey that her friends were inside, so she removes the rocks blocking the exit with the [[The Force|Force]] and gets the Resistance out in time.
+==[[Walt Disney Parks and Resorts|Disney Parks]]==
+The vulptex appears in the Crait expansion on ''[[Star Tours: The Adventures Continue]]''. In the simulation, the passengers fly pass a skulk of vulptices on Crait.
+
+==Trivia==
+*The name "Vulptex" is a portmanteau of ''vulpes'', the Latin word for "fox," and ''vertex'' (plural: ''vertices''), the angular point of a polyhedral crystal.<ref>{{Cite web|website=Twitter|format=Tweet|author=Hidalgo, Pablo|date=November 20, 2017|accessdate=November 20, 2017|url=https://twitter.com/pablohidalgo/status/932651559841697792|title=Latin for fox + angular point of a crystalline polyhedron = Star Wars name.}}</ref>
+**Like regular foxes, a group of vulptices is called a skulk.
+*The vulptex was accomplished by constructing an animatronic version to interact with the actors, and from there the puppet was digitally scanned to construct separate static models.<ref name="EW" />
+**When making the puppet, the crew dressed a volunteer dog in a suit covered in drinking straws and watched how it moved. This helped the designers figure how the vulptex would move with its long crystals.<ref name="EW" />
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150" captionalign="center">
+SW TLJ - EW vulptex.jpg
+SW Vulptex animatronic.png
+SWTLJ Vulptex concept art.jpg
+Star Wars early Vulptex art.jpg
+Vulptex-funko-jpg.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{SWW|Vulptex}}
+*{{SW|url=/databank/vulptex|text=Vulptex}}
+
+{{Star Wars}}
+[[Category:Characters]]
+[[Category:Foxes]]
+[[Category:Aliens]]
+[[Category:Star Wars creatures]]
+[[Category:Star Wars Sequel Trilogy characters]]
+[[Category:Live-action characters]]
+[[Category:Creatures]]
+[[Category:Character groups]]
+[[Category:Characters in Disney parks]]
+[[Category:Star Tours characters]]
+[[Category:Comic characters]]
+[[Category:Characters in video games]]

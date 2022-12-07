@@ -1,0 +1,19 @@
+{{Infobox character
+|image = Mr Freeze.jpg
+|name = Mr. Freeze
+|games = ''[[Toontown Online]]''
+|alignment = Neutral}}
+'''Mr. Freeze''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC citrine [http://toontown.wikia.com/wiki/Dog Dog] residing in [http://toontown.wikia.com/index.php?title=Instant_Ice&action=edit&redlink=1 Instant Ice] on [http://toontown.wikia.com/wiki/Walrus_Way Walrus Way] in [http://toontown.wikia.com/wiki/The_Brrrgh The Brrrgh].
+
+==SOS Toon==
+﻿Mr. Freeze is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. He is a 4-star SOS Cog Miss. He can make all Cogs Miss for the current round used on.
+
+The Cog Miss will last only 1 round.
+{{CharacterStub}}
+{{DEFAULTSORT:Freeze}}
+[[Category:Toontown characters]]
+[[Category:Dogs]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Characters introduced in video games]]
+{{Toontown Online}}

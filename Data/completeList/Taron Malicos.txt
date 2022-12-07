@@ -1,0 +1,48 @@
+{{Infobox character
+|image = [[File:Taron Malicos.jpg|thumb]]
+|name = Taron Malicos
+|games = ''[[Star Wars Jedi: Fallen Order]]''
+|designer =
+|voice = Liam McIntyre
+|fullname =
+|alias =
+|occupation = Jedi Master<br>Dark Jedi
+|affiliations = [[Jedi|Jedi Order]]<br>[[Galactic Republic]]
+|home = [[Coruscant]] (formerly)<br>[[Dathomir]]
+|likes =The dark side of the Force, power, manipulating others 
+|dislikes =Jedi, being rejected 
+|powers = [[The Force]]
+|paraphernalia = Two [[Lightsaber]]s
+|status = Deceased}}
+'''Taron Malicos''' is a character in the ''[[Star Wars]]'' universe. He is first introduced in the video game, ''[[Star Wars Jedi: Fallen Order]]''. He is a Jedi Master and one of the few Jedi who survived the Great Jedi Purge.
+
+==Background==
+===Powers and Abilities===
+====Powers====
+*'''[[The Force]]:''' Taron has a very strong connection to the Force.
+**'''Telekinesis:''' Taron can telekinetically move objects or other individuals without physically touching them, and he utilized it for offensive or defensive purposes.
+
+====Abilities====
+*'''Master Lightsaber Duelist:''' Taron is a highly skilled lightsaber duelist.
+**'''Jar'Kai:''' Taron is highly skilled in Jar'Kai.
+
+===Weapons and Equipment===
+====Lightsaber====
+Taron's valued weapon and possession is his red-bladed lightsaber.
+*'''[[Lightsaber|First Lightsaber]]:''' Taron had built a red-bladed lightsaber.
+*'''[[Lightsaber|Second Lightsaber]]:''' Taron had built a second red-bladed lightsaber.
+
+==External links==
+*{{SWW|Taron Malicos}}
+{{CharacterStub}}
+{{Star Wars}}
+[[Category:Star Wars characters]]
+[[Category:Star Wars villains]]
+[[Category:Villains]]
+[[Category:Knights]]
+[[Category:Swordsmen]]
+[[Category:Jedi]]
+[[Category:Dark Jedi]]
+[[Category:Characters introduced in video games]]
+[[Category:Males]]
+[[Category:Adults]]

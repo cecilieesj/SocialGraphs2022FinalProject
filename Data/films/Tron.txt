@@ -1,0 +1,169 @@
+{{Infobox film
+|image = Tron.jpg
+|director = [[Steven Lisberger]]
+|producer = Donald Kushner
+|writer = Steven Lisberger<br>Bonnie MacBird
+|starring = [[Jeff Bridges]]<br>[[Bruce Boxleitner]]<br>[[David Warner]]<br>[[Cindy Morgan]]
+|music = Wendy Carlos
+|cinematography = Bruce Logan
+|studio = [[Walt Disney Productions]]<br>Lisberger/Kushner Productions
+|distributor = [[Buena Vista Distribution]]
+|release = [[July 9]], [[1982]]
+|time = 96 minutes
+|language = English
+|budget = $17 million
+|gross = $33 million
+|followed = ''[[Tron: Legacy]]''
+|imdb_id = 0084827}}
+
+'''''Tron''''' (stylized as '''''TRON''''') is a [[1982]] science fiction hybrid film released by [[Buena Vista Distribution]] and starring [[Jeff Bridges]], [[Bruce Boxleitner]], [[David Warner]], and [[Cindy Morgan]]. It was one of the first major motion picture films to use computer-generated imagery (CGI). While the film received mixed critical reactions upon its release, it became a cult hit and was lauded as a pioneering work in cinematic visual effects.
+
+==Plot==
+[[Kevin Flynn]] ([[Jeff Bridges]]) is a software engineer formerly employed by [[ENCOM]], having been fired by [[Ed Dillinger]] ([[David Warner]]) who stole several video games designed by Flynn to gain a series of promotions. Flynn attempts to obtain evidence of Dillinger's action, but is prevented by the [[Master Control Program]] (MCP), an artificial intelligence that controls the ENCOM mainframe and seeks control over other mainframes too. Dillinger attempts to stop the MCP after it reveals its intentions to hack into and gain control of the Pentagon and Kremlin, but he is blackmailed by the MCP, which threatens to reveal to the media of his plagiarism of Flynn's games, which are hugely successful.
+
+Visited by ENCOM employees [[Alan Bradley]] ([[Bruce Boxleitner]]) and [[Lora Baines]] ([[Cindy Morgan]]) who warn him that Dillinger knows about his hacking attempts and has tightened security, Flynn persuades them to admit him into ENCOM's buildings. There, he forges a higher security clearance for Bradley's program "Tron", which would monitor communications between the MCP and the outside world; whereupon the MCP uses an experimental laser to transfer Flynn into the ENCOM mainframe.
+
+In the mainframe, computer programs appear in the likeness of the human "users" who created them, and they wield their main weapon called an "[[Identity Disc|identity disc]]" thrown at their enemies. Here, the MCP and its second-in-command, Sark (Warner), seek control over input/output in the system. Programs resistant to their rule are forced to play in video games in which the losers are destroyed. Imprisoned by Sark, Flynn meets Tron (Boxleitner) and another program named Ram. Together, they escape their prison during a [[Light Cycles|Light Cycle]] match, outrunning [[Battle Tank]]s and [[Recognizer]]s. During their flight, Ram is mortally wounded and dies, but Flynn gradually discovers that, as a User, he is capable of manipulating the reality of the digital world.
+
+At an [[Input/Output Tower|input/output]] junction, Tron communicates with Bradley and receives instructions about how to destroy the MCP. Tron, Flynn, and another program named Yori (Morgan) board a "solar sailer simulation" to reach the MCP's core; but Sark's command ship destroys the sailer, capturing Flynn and Yori. Sark leaves the command ship and orders its destruction, but Flynn keeps it intact while Sark reaches the MCP's core on a shuttle, carrying captured programs. Tron then confronts Sark outside the core while the MCP attempts to consume the captives. Tron critically damages Sark and attacks the MCP; whereupon the MCP raises a shield around its core and re-empowers Sark against Tron, transferring all its powers to him. Flynn kisses Yori and then to circumvent the MCP, Flynn leaps into it, distracting it long enough to reveal a gap in its shield, through which Tron destroys it (and also Sark) with his disc. Input/output junctions are illuminated as programs begin to communicate with their users, and Flynn is reconstructed in the real world. A nearby printer produces the evidence that Dillinger had plagiarized his creations; and Dillinger, entering his office, finds the proof broadcast and the MCP inactive. Flynn takes his place as senior executive vice president of ENCOM, while Bradley and Baines remain his closest friends.
+
+==Cast==
+*[[Jeff Bridges]] as [[Kevin Flynn]]/[[Clu]]
+*[[Bruce Boxleitner]] as [[Alan Bradley]]/[[Tron (character)|Tron]]
+*[[David Warner]] as [[Ed Dillinger]]/[[Sark]]/[[Master Control Program]]
+*[[Cindy Morgan]] as [[Lora Baines]]/[[Yori (TRON)|Yori]]
+*[[wikipedia:Barnard_Hughes|Barnard Hughes]] as [[Walter Gibbs]]/[[Dumont]]
+*Dan Shor as [[w:c:tron:Roy_Kleinberg|Roy Kleinberg]]/[[Ram]]
+*Peter Jurasik as [[Crom]]
+
+==Production==
+===Origins===
+The inspiration for ''Tron'' occurred in [[1976]] when Steven Lisberger, then an animator of drawings with his own studio, looked at a sample reel from a computer firm called MAGI and saw ''Pong'' for the first time. He was immediately fascinated by video games and wanted to do a film incorporating them. 
+
+According to Lisberger, "I realized that there were these techniques that would be very suitable for bringing video games and computer visuals to the screen. And that was the moment that the whole concept flashed across my mind". "Everybody was doing backlit animation in the '70s, you know. It was that disco look. And we thought, what if we had this character that was a neon line, and that was our Tron warrior – Tron for electronic. And what happened was, I saw ''Pong'', and I said, well, that's the arena for him. And at the same time I was interested in the early phases of computer generated animation, which I got into at MIT in Boston, and when I got into that I met a bunch of programmers who were into all that. And they really inspired me, by how much they believed in this new realm." He was frustrated by the clique-like nature of computers and video games and wanted to create a film that would open this world up to everyone. Lisberger and his business partner Donald Kushner moved to the West Coast in [[1977]] and set up an animation studio to develop ''Tron''. 
+
+They borrowed against the anticipated profits of their 90-minute animated television special ''{{WikipediaLink|Animalympics}}'' to develop storyboards for ''Tron'' with the notion of making an animated film. The film was conceived as an animated film bracketed with live-action sequences. The rest would involve a combination of computer generated visuals and back-lit animation. Lisberger planned to finance the movie independently by approaching several computer companies but had little success. However, one company, Information International, Inc., was receptive. He met with Richard Taylor, a representative, and they began talking about using live-action photography with back-lit animation in such a way that it could be integrated with computer graphics. At this point, Lisberger already had a script written and the film entirely storyboarded with some computer animation tests completed. He had spent approximately $300,000 developing ''Tron'' and had also secured $4–5 million in private backing before reaching a standstill. Lisberger and Kushner took their storyboards and samples of computer-generated films to Warner Bros., MGM, and Columbia Pictures – all of which turned them down. 
+
+In 1980, they decided to take the idea to Disney, which was interested in producing more daring productions at the time. However, Disney executives were uncertain about giving $10–12 million to a first-time producer and director using techniques which, in most cases, had never been attempted. The studio agreed to finance a test reel which involved a flying disc champion throwing a rough prototype of the discs used in the film. It was a chance to mix live-action footage with back-lit animation and computer generated visuals. It impressed the executives at Disney and they agreed to back the film. The script was subsequently re-written and re-storyboarded with the studio's input. At the time, Disney rarely hired outsiders to make films for them and Kushner found that he and his group were given a less than warm welcome because "we tackled the nerve center – the animation department. They saw us as the germ from outside. We tried to enlist several Disney animators, but none came. Disney is a closed group..."
+
+===Pre-production===
+Because of the special effects, [[Walt Disney Productions]] decided in 1981 to film ''Tron'' completely in 65-mm Super Panavision (except for the computer-generated layers, which were shot in VistaVision and some scenes in the "real" world which were filmed in anamorphic 35mm and "blown up" to 65mm). 
+
+Three designers were brought in to create the look of the computer world. Renowned French comic book artist, Jean Giraud (aka Moebius), was the main set and costume designer for the movie. Most of the vehicle designs (including [[Sark's Aircraft Carrier|Sark's aircraft carrier]], the light cycles, the tank, and the solar sailer) were created by industrial designer Syd Mead of ''Blade Runner'' fame. Peter Lloyd, a high-tech commercial artist, designed the environments. Nevertheless, these jobs often overlapped, leaving Giraud working on the solar sailer and Mead designing terrain, sets and the film's logo. The original 'Program' character design was inspired by Lisberger Studios' logo of a glowing bodybuilder hurling two discs. 
+
+To create the computer animation sequences of ''Tron'', Disney turned to the four leading computer graphics firms of the day: Information International Inc. of Culver City, California, who owned the Super Foonly F-1 (the fastest PDP-10 ever made and the only one of its kind); MAGI of Elmsford, New York; Robert Abel & Associates of California; and Digital Effects of New York City. Bill Kovacs worked on this movie while working for Robert Abel before going on to found Wavefront Technologies. The work was not a collaboration, resulting in very different styles used by the firms. 
+
+''Tron'' was one of the first movies to make extensive use of any form of computer animation, and is celebrated as a milestone in the industry; but only fifteen to twenty minutes of such animation were used, mostly scenes that show digital "terrain" or patterns or include vehicles such as light-cycles, tanks and ships. Because the technology to combine computer animation and live action did not exist at the time, these sequences were interspersed with the filmed characters. The computer used had only 2MB of memory, with a disc that had no more than 330MB of storage. This put a limit on detail of background; and at a certain distance, they had a procedure of mixing in black to fade things out, a process called "depth cueing". The movie's Computer Effects Supervisor Richard Taylor told them "When in doubt, black it out!", which became their motto. 
+
+Most of the scenes, backgrounds, and visual effects in the film were created using more traditional techniques and a unique process known as "backlit animation". In this process, live-action scenes inside the computer world were filmed in black-and-white on an entirely black set, printed on large format Kodalith high-contrast film, then colored with photographic and rotoscopic techniques to give them a "technological" appearance. With multiple layers of high-contrast, large format positives and negatives, this process required truckloads of sheet film and a workload even greater than that of a conventional cel-animated feature. The Kodalith was specially produced as large sheets by Kodak for the film and came in numbered boxes so that each batch of the film could be used in order of manufacture for a consistent image; but this was not understood by the filmmakers, and as a result glowing outlines and circuit traces occasionally flicker as the film speed varied between batches. 
+
+After the reason was discovered, this was no longer a problem as the batches were used in order and "zinger" sounds were used during the flickering parts to represent the computer world malfunctioning as Lisberger described it. Lisberger later had these flickers and sounds digitally corrected for the 2011 restored Blu-ray release as they were not included in his original vision of the film. Due to its difficulty and cost, this process was not repeated for another feature film. Sound design and creation for the film was assigned to Frank Serafine, who was responsible for the sound design on ''Star Trek: The Motion Picture'' in 1979. ''Tron'' was a 1983 Academy Awards nominee for Best Sound. 
+
+At one point in the film a small entity called "[[Bit]]" advises Flynn with only the words "yes" and "no" created by a Votrax speech synthesizer. More than 569 people were involved in the post-production work, including 200 inkers and hand-painters in Taiwan's Cuckoo's Nest Studio (unusually, for an English-language production, in the end credits the personnel were listed with their frames written in Chinese characters). This film features parts of the Lawrence Livermore National Laboratory; the multi-story ENCOM laser bay was the target area for the SHIVA solid-state multi-beamed laser. Also, the stairway that Alan, Lora, and Flynn use to reach Alan's office is the stairway in Building 451 near the entrance to the main machine room. The cubicle scenes were shot in another room of the lab.
+
+''Tron'' is the only movie to have scenes filmed inside this lab. The original script called for "good" programs to be colored yellow and "evil" programs (those loyal to Sark and the MCP) to be colored blue. Partway into production, this coloring scheme was changed to blue for good and red for evil, but some scenes were produced using the original coloring scheme: Clu, who drives a tank, has yellow circuit lines, and all of Sark's tank commanders are blue (but appear green in some presentations). Also, the light-cycle sequence shows the heroes driving yellow (Flynn), orange (Tron) and red (Ram) cycles, while Sark's troops drive blue cycles; similarly, Clu's tank is red, while tanks driven by crews loyal to Sark are blue. Budgeting the production was difficult by reason of breaking new ground in response to additional challenges, including an impending Directors Guild of America strike and a fixed release date. Disney predicted at least $400 million in domestic sales of merchandise, including an [[Tron (video game)|arcade game]] by Bally Midway and 3 Mattel Intellivision home video games.
+
+==Reception==
+''Tron'' was released on [[July 9]], 1982, in 1,091 theaters grossing USD $4 million on its opening weekend. It went on to make $33 million in North America, moderately successful considering its $17-million budget.
+
+===Critical reaction===
+The film was well received by critics; Roger Ebert gave the film four out of four stars and described the film as "a dazzling movie from Walt Disney in which computers have been used to make themselves romantic and glamorous. Here's a technological sound-and-light show that is sensational and brainy, stylish, and fun". However, near the end of his review, he noted (in a positive tone), "This is an almost wholly technological movie. Although it's populated by actors who are engaging (Bridges, Cindy Morgan) or sinister (Warner), it is not really a movie about human nature. Like [the last two ''Star Wars'' films], but much more so, this movie is a machine to dazzle and delight us". Ebert was so convinced that this film had not been given its due credit by both critics and audiences that he decided to close his first annual Overlooked Film Festival with a showing of ''Tron''. 
+
+Perhaps unsurprisingly, ''InfoWorld''’s Deborah Wise was impressed, writing that "it is hard to believe the characters acted out the scenes on a darkened soundstage... We see characters throwing illuminated Frisbees, driving 'lightcycles' on a video-game grid, playing a dangerous version of jai alai and zapping numerous fluorescent tanks in arcade-game-type mazes. It's exciting, it's fun, and it's just what video-game fans and anyone with a spirit of adventure will love—despite plot weaknesses." On the other hand, Variety disliked the film and said in its review, "''Tron'' is loaded with visual delights but falls way short of the mark in story and viewer involvement. Screenwriter-director Steven Lisberger has adequately marshaled a huge force of technicians to deliver the dazzle, but even kids (and specifically computer game geeks) will have a difficult time getting hooked on the situations". 
+
+In her review for ''The New York Times'', Janet Maslin criticized the film's visual effects: "They're loud, bright and empty, and they're all this movie has to offer". ''The Washington Post''’s Gary Arnold wrote, "Fascinating as they are as discrete sequences, the computer-animated episodes don't build dramatically. They remain a miscellaneous form of abstract spectacle". In his review for the Globe and Mail, Jay Scott wrote, "It's got momentum and it's got marvels, but it's without heart; it's a visionary technological achievement without vision". 
+
+As of July 2012, the movie review aggregator website Rotten Tomatoes rated the film at 70% on its Tomatometer, based on the reviews of 46 critics. A consensus statement for the movie said, "Though perhaps not as strong dramatically as it is technologically, ''TRON'' is an original and visually stunning piece of science fiction that represents a landmark work in the history of computer animation." In the year it was released, the Motion Picture Academy refused to nominate ''Tron'' for a special-effects award because, according to director Steven Lisberger, "The Academy thought we cheated by using computers". 
+
+The film did, however, earn Oscar nominations in the categories of Best Costume Design and Best Sound (Michael Minkler, Bob Minkler, Lee Minkler, and James LaRue). In 1997, Ken Perlin of the Mathematical Applications Group, Inc. won an Academy Award for Technical Achievement for his invention of Perlin noise for ''Tron''. In 2008, ''Tron'' was nominated for AFI's Top 10 Science Fiction Films list.
+
+==Sequels==
+In [[2003]], ''[[Tron 2.0]]'', a computer game based on the world of ''Tron'' was released. The sequel takes place in the modern day, where Alan Bradley is digitized into the computer world and must be saved by his son, Jet. The game was intended as a sequel to the film. Bruce Boxleitner reprises his role as Alan, while Cindy Morgan assumes the role of Ma3a, and [[Rebecca Romijn|Rebecca Romijn-Stamos]] voices Mercury, a program who assists Jet throughout the game.
+
+In [[2010]], a sequel, called ''[[Tron: Legacy]]'', was released into theaters, starring [[Jeff Bridges]] reprising his role as Kevin Flynn, and [[Garrett Hedlund]] as his son [[Sam Flynn|Sam]].
+
+An animated prequel TV series to ''Tron: Legacy'', called ''[[Tron: Uprising]]'', premiered on [[Disney XD]] in Summer 2012.
+
+==Trivia==
+*This is the second Disney movie that [[Tim Burton]] worked on, though he was an uncredited animator. 
+*[[John Lasseter]] described how the film helped him see the potential of computer-generated imagery in the production of animated films, stating "without ''Tron'', there would be no ''[[Toy Story]]''".
+*The producers added Easter eggs to the film: during the scene where Tron and Ram escape from the Light Cycle arena into the system, Pac-Man can be seen behind Sark, and a [[Hidden Mickey]] outline can also be seen below the Solar Sailer during the protagonists' journey over the Sea of Simulation. 
+*An episode of ''[[Gravity Falls]]'', "[[Fight Fighters]]", has an arcade game called ''Nort'', which is ''Tron'' spelled backwards, the Nort logo is written in the same font as the Tron logo.
+*A Tron arcade video game appears in ''[[Ralph Breaks the Internet]]'' as well as ''The Color of Money''.
+*In early test footage, Sark and all the bad programs were gone to be blue, and the good programs were gone to be yellow.
+*The film inspired Glen A. Larson's short-lived television seires, ''[[Wikipedia:Automan|Automan]]'', which premiered in [[1983]] (a year after ''Tron'' was released). It followed the adventures of a police officer and computer programmer named Walter Nebicher, who creates an artificially intelligent crime fighting program that can generate a hologram able to leave the computer world at night and fight crime.
+**Producers Donald Kushner and Peter Locker were brought in to work as operating producers in order to avoid plagiarization and to provide respectful credibility to the series.
+
+==Gallery==
+===Promotional images===
+<gallery position="center" spacing="small" columns="dynamic" captionalign="center" widths="150">
+Tron Alternate Poster.jpg
+Tron Japanese Poster.jpg|Tron Japanese Poster
+Tron Textless Poster.jpg
+Tumblr ntujeq03F51sy3tjvo1 400.jpg
+Tron-2-.jpg
+Tron Logo.png|1982 logo
+</gallery>
+
+===Screenshots===
+<gallery position="center" spacing="small" columns="dynamic" captionalgin="center" widiths="150" widths="150" captionalign="center">
+Tron-disneyscreencaps.com-8.jpg
+Tron-disneyscreencaps.com-97.jpg
+Tron-disneyscreencaps.com-773.jpg
+Tron-disneyscreencaps.com-998.jpg
+Tron-disneyscreencaps.com-1137.jpg|"End of line."
+Tron-disneyscreencaps.com-1765.jpg
+Tron-disneyscreencaps.com-2538.jpg|"Because, man! Somewhere in one of these memories is the evidence!"
+Tron-disneyscreencaps.com-3697.jpg
+MCP and Sark.jpg
+MCP 3D Graphic.jpg
+Tron pacman.jpg|Pac-Man's cameo appearance
+Tron-disneyscreencaps.com-5067.jpg
+Tron-disneyscreencaps.com-5075.jpg
+Tron-disneyscreencaps.com-5271.jpg
+Tron-disneyscreencaps.com-5334.jpg
+Tron-disneyscreencaps.com-5357.jpg|A pair of [[Recognizer]]s
+Bruce Boxleitner in Tron.jpeg
+Lightcycles in Tron.jpeg
+Bruce-boxleitner-and-jeff-bridges-in-tron-1-.jpg
+Tron-disneyscreencaps.com-8613.jpg|The hidden Mickey Mouse
+Tron-disneyscreencaps.com-9809.jpg
+Tron-disneyscreencaps.com-9950.jpg
+Tron-disneyscreencaps.com-10053.jpg|Sark's disc destroyed
+Tron-disneyscreencaps.com-10057.jpg
+Tron-disneyscreencaps.com-10083.jpg
+Tron - 1982.jpg
+Mcp blue.jpg
+MCP Original Face.jpg|The original face of the MCP
+Tron-original-screen-capture.jpg
+Sark dies.jpg|Sark's defeat
+Tron-disneyscreencaps.com-10549.jpg
+Tron-disneyscreencaps.com-10722.jpg|The screen displaying the evidence of Dillinger's wrongdoing.
+Tron-disneyscreencaps.com-10748.jpg|Dillinger sinks back in the chair.
+Kevin Flynn New CEO.jpg
+S1e10 soos playing nort.png|[[Soos Ramirez|Soos]] playing an arcade game called ''Nort'', a parody of ''Tron''.
+</gallery>
+
+==Videos==
+<gallery position="center" spacing="small" columns="dynamic" captionalign="center" widths="250">
+Tron (1982) theatrical teaser trailer-2|Theatrical teaser
+TRON original theatrical trailer (1982)-2|Theatrical trailer
+</gallery>
+{{Wikipedia}}
+
+==See also==
+*[[w:c:tron|The TRON Wiki]]
+
+{{Tron}}
+{{Kingdom Hearts}}
+{{Disney Heroes: Battle Mode}}
+{{DISPLAYTITLE:''Tron''}}
+[[es:Tron]]
+[[Category:Disney films]]
+[[Category:1982 films]]
+[[Category:Live-action films]]
+[[Category:Tron]]
+[[Category:Hybrid films]]
+[[Category:Films]]
+[[Category:PG-rated films]]
+[[Category:Academy Award nominated films]]

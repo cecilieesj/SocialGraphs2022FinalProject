@@ -1,0 +1,44 @@
+{{Infobox film
+|image = The_Fox_Hunt-753118067-large.jpg
+|imagewidth = 250px
+|name = The Fox Hunt
+|director = [[Wilfred Jackson]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = [[Pinto Colvig]]<br>Purv Cullen<br>Marion Darington
+|music = [[Frank Churchill]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[October 20]], [[1931]]
+|time = 6:21
+|preceded = ''[[The Spider and the Fly]]''
+|followed = ''[[The Ugly Duckling (1931)|The Ugly Duckling]]''
+}}
+'''''The Fox Hunt''''' is a black-and-white [[Silly Symphony|''Silly Symphony'']] that debuted on [[October 20]], [[1931]].
+
+==Synopsis==
+As the title indicates, a wild fox hunt ends when the hunters encounter a skunk instead of a fox.
+
+==Home video releases==
+'''DVD'''
+<br />
+
+*''[[Walt Disney Treasures]]: More Silly Symphonies''
+
+==Gallery==
+<gallery position="center" captionalign="center">
+15005.jpg
+15006.jpg
+15007.jpg
+15010.jpg
+15011.jpg
+15012.jpg
+The fox hunt 1931-3.jpg
+</gallery>
+
+{{Silly Symphony}}
+{{DEFAULTSORT:Fox Hunt, The}}
+[[Category:Animated shorts]]
+[[Category:1931 shorts]]
+[[Category:Silly Symphonies]]

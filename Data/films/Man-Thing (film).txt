@@ -1,0 +1,90 @@
+{{Marvel Database:Film Template
+| Image                   = Man-Thing (film).jpg
+| Aliases                 = 
+
+| Directors               = Brett Leonard
+| Producers               = Avi Arad; Scott Karol; Christopher Petzel
+| ComicWriters            = [[Stan Lee]]; [[Roy Thomas]]; [[Gerry Conway]]
+| ScreenplayWriters       = Hans Rodionoff
+| Musicians               = Roger Mason
+| Cinematographers        = Steve Arnold
+| Editors                 = Martin Connor
+| Distributors            = Lions Gate Films
+| ProductionCompanies     = Lions Gate Films; Marvel Enterprises; Fierce Entertainment; Artisan Entertainment; Screenland Movieworld GmbH
+| Running Time            = 97 minutes
+| Rating                  = '''MPAA:''' R
+| Language                = English
+
+| AM ID                   = man-thing-v292925
+| IMDB ID                 = 0290747
+| Marvel Movies           = Man-Thing (film)
+| Tagline                 = The nature of fear
+| Budget                  = $30 million
+| Release Date            = April 21, 2005
+| US Release Date         = April 30, 2005
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[Kyle Williams (Earth-58460)|Sheriff Kyle Williams]]}}
+'''Supporting Characters:'''
+* {{Final|[[Bywater Police Department (Earth-58460)|Bywater Police Department]]}}
+** {{apn|[[Eric Fraser (Earth-58460)|Deputy Eric Fraser]]|Man-Thing Vol 4 3|-}} {{Death}}
+** {{apn|[[Jim Corley (Earth-58460)|Sheriff Jim Corley]]|Man-Thing Vol 4 3|-}} {{Corpse}}
+* {{apn|[[Val Mayerik (Earth-58460)|Val Mayerik]]|Man-Thing Vol 4 2|-}}
+* {{Only|[[Teri Elizabeth Richards (Earth-58460)|Teri Elizabeth Richards]]}}
+* {{apn|[[Michael Ploog (Earth-58460)|Michael Ploog]]|Man-Thing Vol 4 3|-}} {{Death}}
+* {{apn|[[Peter Horn (Earth-58460)|Peter Horn]]|Man-Thing Vol 4 2|-}} {{Death}}
+* {{apn|[[Rene LaRoque (Earth-58460)|Rene LaRoque]]|Man-Thing Vol 4 3|-}} {{Death}}
+'''Antagonists:'''
+* {{apn|[[Theodore Sallis (Earth-58460)|Man-Thing/Mantokwe (Theodore Sallis)]]|Man-Thing Vol 4 3|-}} {{ApDeath}}
+* {{apn|[[Schist Petroleum Company (Earth-58460)|Schist Petroleum Company]]|Man-Thing Vol 4 3|-}} {{Disbands}}
+** {{apn|[[Jake Schist (Earth-58460)|Jake Schist]]|Man-Thing Vol 4 1|-}} {{ApDeath}}
+** {{Only Dies|[[Steve Gerber (Earth-58460)|Steve Gerber]]}}
+** {{apn|[[Frederick Schist (Earth-58460)|Frederick Schist]]|Man-Thing Vol 4 3|-}} {{Death}}
+* {{Only Dies|[[Rodney Thibadeaux (Earth-58460)|Rodney Thibadeaux]]}}
+* {{apn|[[Wayne Thibadeaux (Earth-58460)|Wayne Thibadeaux]]|Man-Thing Vol 4 2|-}} {{Death}}
+'''Other Characters:'''
+* {{Only Dies|[[Billy James (Earth-58460)|Billy James]]}}
+* {{Only|[[Sarah (Earth-58460)|Sarah]]}}
+* Cajun Pilot
+* {{Only|[[Michele (Earth-58460)|Michele]]}}
+* Nurse
+* School Boy
+* {{Photo|[[Stan Lee (Earth-58460)|Stan Lee]]}} {{Deceased}}
+'''Locations:'''
+* {{a|[[Earth-58460]]}}
+** {{a|[[Louisiana (State)|Louisiana]]}}
+*** {{a|[[New Orleans]]}}
+**** {{a|[[Bywater]]}}
+***** {{a|[[Man-Thing's Swamp]]}}
+****** {{a|[[Nexus of All Realities]]}}
+** {{Mentioned|[[Nevada (State)|Nevada]]}}
+*** {{Mentioned|[[Area 51]]}}
+
+| Plot                    = 
+
+| Cast                    = * Matthew Le Nevez as Sheriff Kyle Williams
+* Rachael Taylor as Teri Elizabeth Richards
+* Jack Thompson as Frederic Schist
+* Rawiri Paratene as Pete Horn
+* Alex O'Loughlin as Deputy Eric Fraser
+* Steve Bastoni as Rene LaRoque
+* Robert Mammone as Mike Ploog
+* Pat Thompson as Jake Schist
+* William Zappa as Steve Gerber
+* John Batchelor as Wayne Thibadeaux
+* Ian Bliss as Rodney Thibadeaux
+* Brett Leonard as Val Mayerick
+* Imogen Bailey as Sarah
+* James Coyne as Billy James
+* Cheryl Craig as Michele
+* Gary Waddell as Cajun Pilot
+* Xoqui Pesce as Nurse
+* Conan Stevens as Man-Thing
+* Shannon Leonard as School Boy
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Television Films|Marvel Films]]
+}}
+[[ru:Леший (фильм)]]

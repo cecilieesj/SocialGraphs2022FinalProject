@@ -1,0 +1,33 @@
+{{Infobox_character
+|name = Little Monkey
+|image = littlemonkey.png
+|films = ''[[George of the Jungle]]''<br>''[[George of the Jungle 2]]''
+|voice = [[Frank Welker]] (1st film)<br>[[Dee Bradley Baker]] (sequel)
+|alias = Runt
+|personality = Silly, kind
+|appearance = Capuchin monkey
+|occupation = George's friend
+|alliance = Good
+|alignment = Good
+|goal = To help George save Ape
+|home = Bukuvu, Africa
+|friends = [[George of the Jungle (character)|George of the Jungle]], [[Ursula Stanhope]], [[Shep]], [[Ape]], [[Tookie Tookie]], [[Mr. Kwame]], [[N'Dugo, Kip and Baleto]], other monkeys
+|enemies = [[Lyle Van de Groot]], [[Max and Thor]], [[Gunner, Scooter, Hobbs, Yon and Phil]], Lion
+|likes = George, playing
+|dislikes = Being picked on, danger
+|weapons = Coconuts
+|fate = He attends the wedding of George and Ursula|actress=}}'''Little Monkey''' is a supporting character in ''[[George of the Jungle]]''.
+
+==Trivia==
+*Some of the vocal effects [[Frank Welker]] provides for Little Monkey, sound similar to the vocal effects he provided for [[Abu]] from ''[[Aladdin (1992 film)|Aladdin]]''.
+
+{{CharacterStub}}
+
+{{George of the Jungle}}
+[[Category:George of the Jungle characters]]
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Monkeys]]
+[[Category:African characters]]
+[[Category:Live-action characters]]
+[[Category:Disney characters]]

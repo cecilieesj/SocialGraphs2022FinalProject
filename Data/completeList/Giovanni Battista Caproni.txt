@@ -1,0 +1,26 @@
+{{Infobox character
+|name = Giovanni Battista Caproni
+|image=Giovanni the Wind Rises.jpg
+|films = ''[[The Wind Rises]]''
+|voice = [[Stanley Tucci]]<br>Nomura Mansai (Japanese)
+|designer = [[Hayao Miyazaki]]
+|inspiration = The real Giovanni Battista Caproni
+|fullname = Giovanni Battista Caproni
+|alias = Count Caproni <br> Mr. Caproni
+|personality = Kind, idealistic, passionate, enthusiastic, optimistic, inspiring
+|occupation = Aeronatical Engineer
+|alignment = Good
+|friends = Jiro
+|likes = Creating Airplanes
+|dislikes = War
+|fate = Walks in a beautiful dream meadow with Jiro
+|quote = "Japanese boy, I've been around airplanes all my life, you know how many I've flown? NONE! Not a one! Many can fly airplanes, but I design them. I create airplanes, and so can you."}}'''Giovanni Battista Caproni '''is a important supporting character in [[Hayao Miyazaki]]'s animated feature film, ''[[The Wind Rises]]''. He is [[Jirô Horikoshi|Jirô]]'s hero and inspiration for becoming a engineer. He appears in all of Jiro's dreams.
+
+{{CharacterStub}}
+{{Studio Ghibli}}
+[[Category:Studio Ghibli characters]]
+[[Category:Animated characters]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Heroes]]
+[[Category:Italian characters]]

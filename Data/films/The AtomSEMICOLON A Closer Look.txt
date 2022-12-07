@@ -1,0 +1,25 @@
+{{Infobox Film
+|director    = 
+|producer    = 
+|writer      = 
+|distributor = Walt Disney Productions
+|language    = English
+|image = File:AtomCloserLook.jpg
+|imagewidth = 250px
+|time = 
+|release = [[1980]]}}'''''The Atom: A Closer Look''''' is a [[1980]] Disney educational animated short. This film is an updated version of [[1957]]'s "[[Our Friend the Atom]]", recycling much animation and graphics from the original, including the "Fisherman and the Genie" sequence, where nuclear energy itself is anthromorphized into a sort of giant Mr. Clean.
+
+==Voice Cast==
+*[[Corey Burton]]
+*Sandy Sortzer
+
+==Gallery==
+<gallery>
+1957-friend-atom-20.jpg
+</gallery>
+
+{{DEFAULTSORT:Atom: A Closer Look, The}}
+[[Category:1980 shorts]]
+[[Category:Animated shorts]]
+[[Category:Films]]
+[[Category:Disney films]]

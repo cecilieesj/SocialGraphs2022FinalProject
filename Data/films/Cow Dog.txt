@@ -1,0 +1,35 @@
+{{Infobox film
+|name        = Cow Dog
+|director    = Larry Lansburgh
+|producer    = Larry Lansburgh
+|writer      = Larry Lansburgh (narrative)
+|music = William Lava
+|studio = Walt Disney Productions
+|distributor = Buena Vista Distribution Company
+|time = 
+|language    = English
+|image = Image:1956-cowdog-1.jpg
+|imagewidth = 250px|release = [[January 16]], [[1956]]}}
+'''''Cow Dog''''' is a [[1956]] Disney featurette about the importance of dogs in the cattle.
+
+==Synopsis==
+This featurette demonstrates how trained dogs are instrumental in helping round up an outlaw Brahma bull which has been plaguing a ranchers pure-bred Hereford cattle.
+
+==Cast==
+*[[Rex Allen]] as Himself - Commentator
+*Slim Pickens as Cowhand
+*Jay Sisler as Australian Shepherd Owner
+*Luann Beach as Horse Owner
+
+==Gallery==
+<gallery>
+1956-cowdog-2.jpg
+1956-cowdog-3.jpg
+1956-cowdog-4.jpg
+</gallery>
+[[Category:1956 shorts]]
+[[Category:1956 films]]
+[[Category:Live-action films]]
+[[Category:Live-action shorts]]
+[[Category:Films]]
+[[Category:Disney films]]

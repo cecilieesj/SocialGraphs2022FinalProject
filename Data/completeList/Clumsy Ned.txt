@@ -1,0 +1,22 @@
+{{Infobox character
+|image = Clumsy Ned.png
+|name = Clumsy Ned
+|games = ''[[Toontown Online]]''
+|appearance = Yellow Mouse
+|occupation = Shopkeeper
+|alignment = Good}}
+'''Clumsy Ned''' is a [[w:c:toontown:Toon|Toon]] NPC [[w:c:toontown:Mouse|Mouse]], and a shopkeeper toon who owns [[w:c:toontown:Plummeting Pianos|Plummeting Pianos]] on [[w:c:toontown:Alto Avenue|Alto Avenue]], [[w:c:toontown:Minnie's Melodyland|Minnie's Melodyland]].
+
+==SOS Toon==
+﻿Clumsy Ned is also an [[w:c:toontown:SOS Toon|SOS Toon]]. He is a 3-star [[w:c:toontown:Drop Gags|Drop]] SOS. He uses [[w:c:toontown:Grand Piano|Grand Pianos]] as his gag-of-choice. His Grand Pianos deals a damage of 60 for all cogs in play.
+
+As with all Drop Gags, even SOS Toons, Drop will always miss Lured Cogs.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Mice]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Animated characters]]
+[[Category:Characters in video games]]
+{{Toontown Online}}

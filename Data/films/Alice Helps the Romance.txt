@@ -1,0 +1,29 @@
+{{Infobox film
+|image = Alicehelpstheromanceposter.jpg
+|name = Alice Helps the Romance
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[November 15]], [[1926]]
+|time = 9:12
+|preceded = ''[[Alice Cuts the Ice]]''
+|followed = ''[[Alice's Spanish Guitar]]''
+}}
+'''''Alice Helps the Romance''''' is a [[1926]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+When [[Julius the Cat|Julius]]' sweetheart is stolen by a rival, Alice arranges a devious plot to discredit his rival and bring them back together.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1926-romance-2.jpg
+1926-romance-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=46 Alice Helps the Romance] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1926 shorts]]
+[[Category:Alice Comedies]]

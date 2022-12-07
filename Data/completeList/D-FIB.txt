@@ -1,0 +1,31 @@
+{{Infobox character
+|image = Defib bot wall•e.png
+|name = D-FIB
+|films = [[WALL-E]]
+|inspiration = Robot
+|quote = "Clear"
+|voice = [[Tara Strong]]}}{{Quote|Clear.|D-FIB}}
+
+'''D-FIB''' is a character in [[Disney]]/[[Pixar]]'s 2008 animated feature film, [[WALL-E]].
+
+==Appearances==
+===''[[WALL-E]]''===
+None of these defibrillation robots (except for the reject one) are seen, but their purpose is to revive passengers that have suffered heart attacks. The reject D-FIB appears to have too much charge in her paddles, shown when she shocks a test dummy and sets it on fire. This comes in handy when battling with the [[SECUR-T|SECUR-T bots]]. She is freed from the Repair Ward by [[WALL-E (character)|WALL•E]] and helps fight the SECUR-T bots by frying them with her overcharged paddles.
+
+==Video games==
+D-FIB also appears in the ''WALL-E: The Video Game'' where she unlocks security doors (with an image of her) for WALL•E.﻿
+
+==﻿Trivia==
+*The reject D-FIB has a broken arm (due to the way it hangs down).
+*According to the film and the video game, the only word she says (and can say) is "clear".
+*In the Wall-E video game, she is red.
+
+{{PixarWiki}}
+{{WALL-E}}
+[[Category:Females]]
+[[Category:Robots]]
+[[Category:WALL-E characters]]
+[[Category:Pixar characters]]
+[[Category:Characters]]
+[[Category:Characters who fly]]
+[[Category:Heroines]]

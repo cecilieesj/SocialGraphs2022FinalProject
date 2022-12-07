@@ -1,0 +1,46 @@
+{{Episode
+| series     = [[Walt Disney anthology series|The Disney Sunday Movie]]
+| title      = Casebusters
+| season     = 30
+| number     = 16
+| image      = 1986-grandpere-1.jpg
+| caption    = 
+| production = 
+| airdate    = [[May 25]], [[1986]]
+| writer     = George Arthur Bloom<br>Don Roos
+| director   = Wes Craven
+| previous   = "[[Fuzz Bucket]]"
+| next       = "[[Pete's Dragon]]"}}
+'''''Casebusters''''' is a made-for-television movie, originally broadcast as an episode of ''[[Walt Disney anthology series|The Disney Sunday Movie]]'' on [[May 25]], [[1986]].
+
+== Synopsis ==
+A brother and sister (Noah Hatahway, Virginia Keehne) are amateur sleuths who help their grandfather (Pat Hingle) run a security business. While digging around on their own, they accidentally stumble onto a major case.
+
+==Cast==
+*Pat Hingle ... Sam Donahue
+*Noah Hathaway ... Jamie
+*Virginya Keehne ... Allie
+*Gary Riley ... Anthony 'Ski' Zabrowski
+*Sharon Barr ... Loretta Bonner
+*Thomas F. Duffy
+*Arthur Taxier
+*Nicholas Worth ... Riker
+*Boyd Bodwell ... Mullaney
+*Carlos Lacamara ... Policeman #1
+*Sid Conrad ... Jenkins
+*Eugene Collier ... Policeman #2
+*Thomas Lew Mann ... Thief
+*Tim Russ ... Dixon
+*Ebbe Roe Smith ... Joe Bonner
+
+==Gallery==
+<gallery>
+1986-grandpere-2.jpg
+1986-grandpere-3.jpg
+1986-grandpere-4.jpg
+</gallery>
+[[Category:1986 films]]
+[[Category:Live-action films]]
+[[Category:Films]]
+[[Category:Walt Disney anthology series episodes]]
+[[Category:Television episodes]]

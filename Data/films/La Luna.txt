@@ -1,0 +1,75 @@
+{{Infobox Film
+|image = LaLuna.png
+|director = [[Enrico Casarosa]]
+|writer = Enrico Casarosa
+|music = [[Michael Giacchino]]
+|studio = [[Pixar|Pixar Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Buena Vista Pictures]]
+|release = [[June 6]], [[2011]]
+|time = 7 minutes
+|preceded = ''[[Day & Night]]''
+|followed = ''[[The Legend of Mor'du]]''
+}}'''''La Luna''''' (Italian and Spanish for "The Moon") is a [[Pixar]] 3D computer-animated short film that was released with the theatrical release of ''[[Brave]]''.<ref>[http://pixartimes.com/2011/08/19/d23-2011-la-luna-will-play-before-brave-new-toy-story-toon-title-announced/ D23 2011: La Luna Will Play Before Brave, New Toy Story Toon Title Announced]</ref> The short originally premiered on [[June 6]], [[2011]], at the Annecy International Film Festival, which took place in France. [[Enrico Casarosa]] makes his directorial debut on the short, as well as the writing.<ref name="luna">[http://blogs.indiewire.com/thompsononhollywood/2011/05/05/first_look_la_luna_pixars_latest_short_directed_by_enrico_casarosa/ Pixar’s La Luna, A Timeless Coming of Age Fable from Director Enrico Casarosa]</ref> The music is composed by [[Michael Giacchino]]. ''La Luna'' was released on the ''Pixar Short Films Collection Volume 2'' DVD.
+
+==Plot==
+The short starts with a young Italian child, [[Bambino]], being taken out on a midnight sailing journey across the ocean blue with his father and grandfather. The trio park their boat in the middle of the sea and after a brief squabble between the father and grandfather, watch an immense, pearly white full moon rise into the sky. Using a long ladder, the trio climb up onto the surface of the moon, which is covered by thousands of glowing stone stars. Using a set of brooms the family sweeps the stars off to the side; however, the process is interrupted when a star gargantuan compared to the rest crashes onto the moon. As Papa and Nonno argue over how the star should be taken care of, Bambino climbs the star, locates the ideal spot, and strikes the star with a hammer; it explodes into dozens of smaller stars. Satisfied, the trio sweep the rest of the stars into a neat pile and descend back into their sailing boat. They look up at their handiwork; the moon's glow has been modified into a beautiful crescent moon shape.
+
+Through the duration of the story, Bambino is pushed in different directions by his father and grandfather. Papa prefers that Bambino wear his hat low, and Nonno prefers that he wear his hat high. When they are sweeping, Papa hands Bambino a push broom, but Nonno urges him to use a besom broom instead. Bambino examines the two while they argue and notes the resemblance of each man's facial hair to the shape of their preferred broom. Bambino turns his hat around, deciding to wear it the way he wants. After striking the large star with his hammer, it breaks into many stars. Bambino chooses his own tool: a rake. Together, Bambino, Papa, and Nonno all work together to change the phase of the moon as a family, but each with his own unique identity.
+
+==Voice cast==
+*Krista Sheffler as [[Bambino]]
+*[[Tony Fucile]] as [[Papà]] <ref name="stitchkingdom">[http://www.stitchkingdom.com/disney-la-luna-poster-giveaway-17726/ ‘La Luna’ Director Enrico Casarosa Talks Filmmaking; Signed Poster Giveaway]</ref>
+*Phil Sheridan as [[Nonno]] (Grandpa)<ref name="stitchkingdom" />
+
+==Production==
+===Development===
+The story was inspired to Enrico Casarosa by his childhood by the sea in Genoa, Italy and the experience of his father and grandfather that couldn't support each other, rarely speaking to one another.<ref name="AWN">{{cite web|last=Desowitz|first=Bill|title=First Look at Pixar's La Luna|url=http://www.awn.com/articles/article/first-look-pixars-la-luna/page/1%2C1|publisher=Animation World Network}}</ref>
+
+The main influences were ''The Little Prince'' and Miyazaki's work. ''The Distance of the Moon'' from Italo Calvino inspired the base of the story. The gibberish of the protagonist of ''La Linea'' by Osvaldo Cavandoli was another influence.<ref name="AWN" />
+
+Enrico Casarosa first thought having no mouths on characters would make it simpler to animate. But finally the animators struggled to get the hair effects correctly, and to have believable speech effects on them.<ref name="AWN" />
+
+The team wanted to use as much as possible of real, non-computer-generated material in the short. Therefore, watercolor and pastel are massively used for textures. All backgrounds are pastels.<ref name="AWN" />
+
+===Marketing===
+The short was [http://www.facebook.com/photo.php?fbid=10150186156309078&set=a.127437064077.102676.35245929077&type=1&theater announced] by Pixar, in [http://www.facebook.com/DisneyPixar Pixar's official Facebook Page], on [[May 5]], [[2011]]. A first look image was also released in Pixar's official Facebook page.
+
+==Awards==
+*Nominated: Academy Award for Best Animated Short Film
+*Nominated: Annie Award for Best Animated Short Subject
+*Won: [http://3dathome.org/webpage.aspx?webpage=4342 International 3D Society Award] for Short 3D Motion Picture/Narrative
+
+==Trivia==
+*The names of the characters are Italian words:
+**Bambino: ''Child''
+**Papà: ''Dad''
+**Nonno: ''Grandpa''
+*This is the second [[Pixar Animation Studios|Pixar]] short to have the title at the end, rather than at the beginning (other than the fact that the title appears on the boat), the first being ''[[Day & Night]].''
+*The father bears a resemblance to Tim Lockwood from ''Cloudy with a Chance of Meatballs'' and its sequel. According to Casarosa, it was pure coincidence, and furthermore said his inspiration was the miner from Miyazaki's ''Castle in the Sky''.<ref name="AWN" />
+**Their similarities include bushy eyebrows covering the eyes, baldness, and when they are surprised or impressed, their eyebrows raise, revealing their eyes.
+**He also resembles [[Massimo Marcovaldo]] from Casarosa's first feature Pixar film, ''[[Luca]]''.
+
+==Gallery==
+<gallery position="center" widths="150" captionalign="center" spacing="small">
+2011-laluna-04.jpg
+2011-laluna-03.jpg
+2011-laluna-02.jpg
+2011-laluna-01.jpg
+Tumblr ngm0wl0n3f1qhcrb0o1 1280.jpg
+La Luna plush and book.jpg|A plush of the main character and the book
+</gallery>
+
+==References==
+<references />
+{{PixarWiki}}
+
+[[es:La Luna (cortometraje)]]
+[[fr:La Luna]]
+[[pt-br:La Luna]]
+[[zh:月光光]]
+[[Category:Pixar films]]
+[[Category:Animated shorts]]
+[[Category:2011 shorts]]
+[[Category:Pixar shorts]]
+[[Category:3-D films]]
+[[Category:Academy Award nominated films]]

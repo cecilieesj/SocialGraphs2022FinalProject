@@ -1,0 +1,116 @@
+{{Marvel Database:Film Template
+| Image                   = Thor Tales of Asgard film cover.jpg
+| Aliases                 = 
+
+| Directors               = Sam Liu
+| Producers               = Craig Kyle; Gary Hartle; Stan Lee; Eric S. Rollman
+| ComicWriters            = 
+| StoryWriters            = Greg Johnson; Craig Kyle
+| ScreenplayWriters       = Greg Johnson; 
+| Musicians               = Guy Michelmore
+| Cinematographers        = 
+| Editors                 = George P. Rizkallah  
+| DisNibutors             = Lion's Gate Animation
+| Running Time            = 73 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = May 17, 2011
+
+| Previous Film           = 
+| Next Film               = 
+
+| Tagline                 = Before the Hammer...Came the Sword.
+
+| Appearances              = 
+'''Featured Characters:'''
+* {{1stChron|[[Thor Odinson (Earth-8096)|Thor]]}}
+'''Supporting Characters:'''
+* {{1stChron|[[Loki Laufeyson (Earth-8096)|Loki]]}}
+* {{1stChron|[[Odin Borson (Earth-8096)|Odin]]}}
+* {{1stChron|[[Sif (Earth-8096)|Sif]]}}
+* {{1stChron|[[Warriors Three (Earth-8096)|The Warriors Three]]}}
+** {{1stChron|[[Volstagg (Earth-8096)|Volstagg]]}}
+** {{1stChron|[[Hogun (Earth-8096)|Hogun]]}}
+** {{1stChron|[[Fandral (Earth-8096)|Fandral]]}}
+'''Antagonists:'''
+* {{Only Dies|[[Algrim (Earth-8096)|Algrim the Strong/Kurse]]}}
+* {{1st|[[Surtur (Earth-8096)|Surtur]]}}
+* {{1st|[[Fenris Wolf (Earth-8096)|Fenris Wolf]]}}
+*{{a|[[Frost Giants]]}}
+** {{Only|[[Geirmarr (Earth-8096)|Geirmarr]]}}
+** {{Only|[[Thrym (Earth-8096)|Thrym]]}}
+'''Other Characters:'''
+* {{1stChron|[[Heimdall (Earth-8096)|Heimdall]]}}
+* {{1stChron|[[Amora (Earth-8096)|Enchantress]]}}
+* {{1stChron|[[Sleipnir (Earth-8096)|Sleipnir]]}}
+* {{1stChron|[[Valkyrior (Earth-8096)|Valkyrior]]}}
+** {{1stChron|[[Brunnhilde (Earth-8096)|Brunnhilde, the Valkyrie]]}}
+* {{1stChron|[[Einherjar (Earth-8096)|Einherjar]]}}
+** {{1stChron|[[Ander (Earth-8096)|Ander]]}}
+* Odin's councilors
+** {{1stChron|[[Skala]]}}
+'''Races and Species:'''
+* [[Asgardians]]
+* [[Frost Giants]]
+* Snow sprites
+* White bears
+* [[Pegasi]]
+'''Locations:'''
+* {{1stChron|[[Earth-8096]]}}
+** {{a|[[Nine Realms]]}} 
+*** {{a|[[Asgard (Realm)|Asgard]]}}
+**** {{a|[[Asgard (City)|City of Asgard]]}}
+**** Out Post Inn 
+*** {{a|[[Jotunheim]]}}
+*** {{a|[[Svartalfheim]]}}
+'''Items:'''
+* {{a|[[Twilight Sword (Surtur)|Sword of Surtur]]}} 
+* {{a|[[Mjolnir]]}}
+* {{a|[[Gungnir (Spear)|Gungnir]]}}
+'''Vehicles:'''
+* Thunder Runner
+
+| Plot                    = 
+Seeking adventure and to prove himself, Thor with his brother Loki stow away on the ship of the Warriors Three to find the Sword of Surtur on Jotunheim.
+| Cast                    = *Matthew Wolf as [[Thor Odinson (Earth-8096)|Thor]]
+* Rick Gomez as [[Loki Laufeyson (Earth-8096)|Loki]]
+* Christopher Britton as [[Odin Borson (Earth-8096)|Odin]]
+* Paul Dobson as [[Hogun (Earth-8096)|Hogun]]
+* Brian Drummond as [[Fenris Wolf (Earth-8096)|Fenris]]
+* Cathy Weseluck as [[Brunnhilde (Earth-8096)|Brunnhilde]]
+* Michael Dobson as [[Geirmarr (Earth-8096)|Geirmarr]]
+* John Novak as [[Thrym (Earth-8096)|Thrym]]
+* Clancy Brown as the [[Frost Giants]]
+* Grey Delisle as [[Amora (Earth-8096)|The Enchantress]] (uncredited)
+
+Multiple sources list differing credits for certain characters:
+* Brent Chapman and [[w:Jay Brazeau|Jay Brazeau]] have both been cited as voicing [[Volstagg (Earth-8096)|Volstagg]]
+* [[w:Alistair Abell|Alistair Abell]] and Jonathan Holmes have both been cited as voicing [[Fandral (Earth-8096)|Fandral]]
+* [[w:Tara Strong|Tara Strong]] and [[w:Grey DeLisle|Grey DeLisle]] have both been cited as voicing [[Sif (Earth-8096)|Sif]]
+
+==Trailer==
+[[File:Thor Tales of Asgard (Premiering on Blu-ray, DVD & Digital Download May 17th)|center]]
+
+| Notes                   = 
+===DVD===
+*The movie was released on DVD and Blu-ray on May 17, 2011. The DVD presents widescreen format and features 5.1 Dolby Digital and Spanish 2.0 Dolby Digital audio. The Blu-ray presents 1080P high definition widescreen and features English 7.1 DTS-HD Master Audio.
+**Special features include:
+***Audio commentary with supervising producer [[Craig Kyle]] and screenwriter [[Greg Johnson (Earth-616)|Greg Johnson]].
+***Audio commentary with supervising director [[Gary Hartle]], animation director [[Sam Liu]] and character designer [[Phil Bourassa]].
+***“Worthy: The Making of Thor: Tales of Asgard” featurette.
+*** [[Avengers: Earth's Mightiest Heroes (animated series)|The Avengers: Earth's Mightiest Heroes]] bonus episode from the hit television series.
+
+===Background===
+*It was produced in 2009, but not released until 2011 so it could coincide with the [[Thor (film)|Thor film]] 
+*The video is a prequel to ''[[Hulk Vs. (film)|Hulk vs Thor]]'' and ''The Avengers: Earth's Mightiest Heroes''. 
+*A preview of the video can be seen on the Hulk vs Thor two-disc DVD. The opening sequence is on the ''[[Planet Hulk (film)|Planet Hulk]]'' DVD. 
+
+| Trivia                  = 
+
+| Links                   = *[[Marvel Films#Direct-to-Video Films|Marvel Films]]
+*[[wikipedia:Thor: Tales of Asgard|Wikipedia]]
+| AM ID                   = https://www.allmovie.com/movie/thor-tales-of-asgard-v534891
+| IMDB ID                 = 1667903
+| Marvel Movies           = {{PAGENAME}}
+}}
+[[ru:Тор: Сказания Асгарда]]

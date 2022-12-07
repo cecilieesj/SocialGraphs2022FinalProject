@@ -1,0 +1,72 @@
+{{Marvel Database:Film Template
+| Image                   = Spider-Geddon Spider-Gwen Ghost-Spider 1
+| Aliases                 = 
+
+| Directors               = Tim Eldred
+| Producers               = Dan Buckley; Cort Lane; Eric Radomski; Joe Quesada; John Cerilli; Alan Fine; Dan Silver; Stan Lee; Stephen Wacker; Nick Lowe; Howard Schwartz; Kenneth T. Ito; Jacob Thomas; Mark Basso; Shaun Avnet
+| ScreenplayWriters       = 
+| StoryWriters            = Seanan McGuire
+| Musicians               = Michael Tavera
+| Cinematographers        = 
+| Editors                 = Adam Redding; Laura Damon; Braden Boe; Seth Swaaley
+| Distributors            = Marvel Entertainment
+| Running Time            = 4 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = October 24, 2018
+| IMDB ID                 = 
+| Marvel Movies           = 
+
+| Previous Film           = Spider-Geddon: Spider-Man Noir
+| Next Film               = Spider-Geddon: Spider-Man
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Recap|[[Gwendolyn Stacy (Earth-65)|Spider-Gwen (Gwen Stacy)]]}}
+'''Supporting Characters:'''
+* {{a|[[Mary Janes (Earth-65)|Mary Janes]]}}
+** {{a|[[Elizabeth Brant (Earth-65)|Betty Brant]]}}
+** {{a|[[Mary Jane Watson (Earth-65)|Em Jay Watson]]}}
+** {{a|[[Gloria Grant (Earth-65)|Gloria Grant]]}}
+* {{a|[[Web-Warriors (Earth-001)|Web-Warriors]]}}
+** {{a|[[Peter Porker (Earth-8311)|Spider-Ham (Peter Porker)]]}}
+'''Antagonists:'''
+* Three unnamed muggers {{RecapOnly}}
+'''Other Characters:'''
+* {{Mentioned|[[You (Earth-1218)|You]]}}
+* {{Mentioned|[[Peter Parker (Earth-616)|Peter Parker]]}}
+* Unnamed New Yorker {{RecapOnly}}
+* {{Mentioned|[[New York City Police Department (Earth-65)|NYPD]]}} {{RecapOnly}}
+'''Races and Species:'''
+* {{Recap|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Pig-Spider Hybrids]]}}
+'''Locations:'''
+* {{Recap|[[Earth-65]]}}
+** {{Recap|[[Earth]]}}
+*** {{Recap|[[North America]]}}
+**** {{Recap|[[United States of America]]}}
+***** {{Recap|[[New York (State)|New York]]}}
+****** {{Recap|[[New York City]]}}
+******* {{Recap|[[Manhattan]]}}
+******** [[Manhattan#Midtown Manhattan|Midtown]] {{Recap}}
+********* {{Mentioned|[[Times Square]]}} {{RecapOnly}}
+'''Items:'''
+* {{Recap|[[Venom (Symbiote) (Earth-65)|Venom Symbiote]]}}
+* {{BTS|[[Dimensional Travel Watch]]}}
+* {{a|[[Spider-Man's Suit|Spider-Ham's Suit]]}} and {{a|[[Web-Shooters]]}}
+<!-- '''Vehicles:'''
+* <br/> -->
+
+| Plot                    = 
+
+| Cast                    = * Reba Buhr as [[Gwendolyn Stacy (Earth-65)|Gwen]]
+* [[Wikipedia:Erika Harlacher|Erika Harlacher]] as [[Mary Jane Watson (Earth-65)|MJ]], [[Elizabeth Brant (Earth-65)|Betty]], and woman
+* Griffin Burns as [[Peter Porker (Earth-8311)|Spider-Ham]] and mugger #3
+* Jake Eberle as mugger #1 and mugger #2
+
+| Notes                   = * Art by [[Alti Firmansyah]] and colors by [[Andres Mossa]].[[Category:Alti Firmansyah/Penciler]][[Category:Alti Firmansyah/Inker]][[Category:Andres Mossa/Colorist]]
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Comics|Marvel Films]]
+}}
+[[Category:Short Films]]
+[[Category:Spider-Geddon]]

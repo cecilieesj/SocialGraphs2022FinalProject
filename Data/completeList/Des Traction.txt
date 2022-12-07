@@ -1,0 +1,15 @@
+{{Infobox character
+|image = Des Traction.jpg
+|games = ''[[Toontown Online]]''
+|alignment = Good}}
+'''Please Des Traction''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC aqua [http://toontown.wikia.com/wiki/Duck Duck]. He is a Field Office SOS Toon that can be called on. He is a no-star [http://toontown.wikia.com/wiki/Lure_Gags Lure] SOS Toon. When called upon, you will take a big magnet that is given by Des and lure the cogs in battle.
+
+==Trivia==
+*﻿His name is a pun on "Distraction", the only difference is the first vowel.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Ducks]]
+[[Category:Males]]
+[[Category:Characters]]
+{{Toontown Online}}

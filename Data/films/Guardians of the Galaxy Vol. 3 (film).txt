@@ -1,0 +1,98 @@
+{{Marvel Database:Film Template
+| Image                   = Guardians of the Galaxy Vol. 3 (film) logo 002.jpg
+| Aliases                 = Guardians 3, Hot Christmas (working title)
+| Universe                = Earth-199999
+
+| Directors               = James Gunn
+| Producers               = Kevin Feige
+| ScreenplayWriters       = James Gunn;
+| Musicians               = John Murphy
+| Cinematographers        = Henry Braham
+| Editors                 = Craig Wood; Fred Raskin
+| ProductionCompanies     = Marvel Studios
+| Distributors            = Walt Disney Studios Motion Pictures
+| Running Time            = 
+| Rating                  = <!--Do not place until official rating has been given by the MPAA-->
+| Budget                  = 
+| Release Date            = May 5, 2023
+
+| AM ID                   = 
+| Marvel Movies           = Guardians of the Galaxy Vol. 3
+| IMDB ID                 = 6791350
+| MCU                     = Guardians of the Galaxy Vol. 3
+
+| Previous Film           = Guardians of the Galaxy Vol. 2 (film)
+| Previous Film2          = {{sld|Avengers: Endgame}}{{sld|The Guardians of the Galaxy Holiday Special}}
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* [[Guardians of the Galaxy (Earth-199999)|Guardians of the Galaxy]]
+** [[Peter Quill (Earth-199999)|Star-Lord (Peter Quill)]]
+** [[Drax (Earth-199999)|Drax the Destroyer]]
+** [[Mantis (Earth-199999)|Mantis]]
+** [[Nebula (Earth-199999)|Nebula]]
+'''Supporting Characters:'''
+* [[Kraglin Obfonteri (Earth-199999)|Kraglin Obfonteri]]
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* [[Stakar Ogord (Earth-199999)|Stakar Ogord]]
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * {{WP|Chris Pratt}} as [[Peter Quill (Earth-199999)|Star-Lord / Peter Quill]]<ref name="Cast Tweet">{{cite web|url=https://twitter.com/JamesGunn/status/1390017416067903489|title=Star-Lord is @prattprattpratt, Drax is @DaveBautista, Mantis is @PomKlementieff, Nebula is @karengillan, and Kraglin is @seangunn. There you go!|last=Gunn|first=James|date=May 5, 2021|accessdate=May 5, 2021}}</ref>
+
+* {{WP|Bradley Cooper}} as [[89P13 (Earth-199999)|Rocket / 89P13]]<ref>{{cite web|url=https://www.slashfilm.com/566442/rocket-raccoon-guardians-of-the-galaxy-3-james-gunn/|title=James Gunn Teases The Completion Of Rocket's Arc In 'Guardians Of The Galaxy Vol. 3' - SlashFilm|last=Bui|first=Hoai-Tran|date=May 15, 2019|accessdate=May 15, 2019}}</ref>
+** {{WP|Sean Gunn}} does the motion capture for Rocket
+
+* {{WP|Dave Bautista}} as [[Drax (Earth-199999)|Drax]]<ref name="Cast Tweet"/>
+
+* {{WP|Pom Klementieff}} as [[Mantis (Earth-199999)|Mantis]]<ref name="Cast Tweet"/>
+
+* {{WP|Karen Gillan}} as [[Nebula (Earth-199999)|Nebula]]<ref name="Cast Tweet"/>
+
+* {{WP|Sean Gunn}} as [[Kraglin Obfonteri (Earth-199999)|Kraglin Obfonteri]]<ref name="Cast Tweet"/>
+
+* {{WP|Zoe Saldaña}} as [[Gamora (Earth-TRN734)|Gamora]]<ref>{{cite web|url= https://comicbook.com/marvel/news/avengers-endgame-gamora-guardians-vol-3-alive-time-travel/|title= Avengers: Endgame Brought Gamora Back for James Gunn's Guardians Vol. 3|work= ComicBook.com|last= Davis|first= Brandon|date= October 24, 2019|accessdate= November 9, 2021}}</ref>
+
+* {{WP|Sylvester Stallone}} as [[Stakar Ogord (Earth-199999)|Stakar Ogord]]<ref>{{cite web|url=https://www.murphysmultiverse.com/sylvester-stallone-returning-for-guardians-of-the-galaxy-vol-3/|title=Sylvester Stallone Returning for ‘GUARDIANS OF THE GALAXY VOL. 3’|work=Murphy's Multiverse}}</ref>
+
+* {{WP|Will Poulter}} as [[Adam Warlock (Earth-199999)|Adam Warlock]]<ref>{{cite web|url= https://deadline.com/2021/10/guardians-of-the-galaxy-vol-3-will-poulter-1234853679/|title= ‘Guardians of the Galaxy Vol. 3: Will Poulter To Play Adam Warlock In The Next Installment Of The Marvel Franchise|work= Deadline|last= Kroll|first= Justin|date= October 11, 2021|accessdate= October 12, 2021}}</ref>
+
+* {{WP|Maria Bakalova}} as [[Cosmo (Earth-199999)|Cosmo]]<ref>{{cite web|url= https://deadline.com/2022/06/guardians-galaxy-marvel-maria-bakalova-james-gunn-disney-borat-1235038826/|title= ‘Borat’ Breakout Maria Bakalova Set For Key Role In Marvel’s ‘Guardians Of The Galaxy Vol. 3’|work= Deadline|last= Wiseman|first= Andreas|date= June 6, 2022|accessdate= June 6, 2022}}</ref><ref name="SDCC2022">{{cite web|url= https://www.marvel.com/articles/movies/sdcc-2022-marvel-studios-guardians-of-the-galaxy-vol-3-logo-revealed|title= SDCC 2022: Marvel Studios' 'Guardians of the Galaxy Vol. 3' Logo Revealed|work= Marvel.com|date= July 24, 2022|accessdate= July 24, 2022}}</ref>
+
+* {{WP|Chukwudi Iwuji}} as '''[[High Evolutionary]]'''<ref>{{cite web|url= https://twitter.com/jamesgunn/status/1457792078050590720|title= Chuk has indeed joined the cast. After working with him on #Peacemaker I wasn’t about to let go of one of the best actors I’ve ever worked with - so I gave him the role most every big name actor in Hollywood wanted. #TalentAboveAllElse|work= Twitter|last= Gunn|first= James|date= November 8, 2021|accessdate= November 9, 2021}}</ref><ref name="SDCC2022"/>
+
+Pratt, Klementieff, and Bautista all confirmed their involvement in ''Vol. 3'' prior to James Gunn's firing.<ref>{{cite web|url=https://screenrant.com/guardians-galaxy-3-filming-chris-pratt/|title=Chris Pratt Confirms Guardians of the Galaxy 3 Films Next Year|work=ScreenRant|last=Agar|first=Chris|date=May 3, 2018|accessdate=May 5, 2021}}</ref><ref>{{cite web|url=https://collider.com/dave-bautista-interview-infinity-war-hotel-artemis/#images|title=Dave Bautista Talks 'Avengers: Infinity War' Spoilers and Working with Jodie Foster in 'Hotel Artemis'|work=Collider|last=Weintraub|first=Steve|date=May 29, 2018|accessdate=May 5, 2021}}</ref> Gunn later re-confirmed their involvement along with Karen Gillan and Sean Gunn's through his twitter account.<ref name="Cast Tweet"/> The principal cast members from previous films are expected to return.<ref>{{cite web|url=https://www.hollywoodreporter.com/movies/movie-news/robert-downey-jrs-massive-payday-tops-avengers-endgame-star-deals-1205835/|title=Robert Downey Jr.'s Massive Payday Tops 'Avengers: Endgame' Star Deals|work=The Hollywood Reporter|last=Kit|first=Borys|date=April 30, 2019|accessdate=May 5, 2021}}</ref>
+
+Additionally, {{WP|Daniela Melchior}} has been cast in an undisclosed role.<ref>{{cite web|url= https://deadline.com/2022/06/guardians-galaxy-suicide-squad-daniela-melchior-james-gunn-marvel-1235036486/|title= ‘Suicide Squad’ Breakout Daniela Melchior Will Appear In ‘Guardians Of The Galaxy Vol. 3’|work= Deadline|last= Wiseman|first= Andreas|date= June 1, 2022|accessdate= June 1, 2022}}</ref>
+
+==Gallery==
+===Images===
+====Logos====
+<gallery>
+Guardians of the Galaxy Vol 3 Logo.png
+</gallery>
+===Videos===
+====Trailers====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios Celebrates The Movies
+</gallery>
+
+| Notes                   =  * Although writer and director James Gunn was set to return for a third ''Guardians of the Galaxy'' movie weeks before ''[[Guardians of the Galaxy Vol. 2 (film)|Guardians of the Galaxy Vol. 2]]'' premiered,{{r|{{cite web|url= https://www.hollywoodreporter.com/heat-vision/guardians-galaxy-3-james-gunn-returning-write-direct-994662|title= 'Guardians of the Galaxy 3': James Gunn Returning to Write and Direct|work= The Hollywood Reporter|last= Couch|first= Aaron|date= April 17, 2017|accessdate= May 3, 2021}}}} production on the movie came to a halt in July 2018 when Disney fired Gunn after controversial tweets resurfaced.{{r|{{cite web|url=https://www.hollywoodreporter.com/heat-vision/james-gunn-exits-guardians-galaxy-vol-3-1128786|title=James Gunn Fired as Director of 'Guardians of the Galaxy Vol. 3'|work=The Hollywood Reporter|last=Kit|first=Borys|date=July 20, 2018|accessdate=May 3, 2021}}}} Gunn was officially reinstated as the movie's director in March 2019,{{r|{{cite web|url=https://deadline.com/2019/03/james-gunn-reinstated-guardians-of-the-galaxy-3-disney-suicide-squad-2-indefensible-social-media-messages-1202576444/|title=Disney Reinstates Director James Gunn For 'Guardians Of The Galaxy 3'|work=Deadline|last=Fleming|first=Mike Jr.|date=March 15, 2019|accessdate=May 3, 2021}}}} and a release date of May 5, 2023 was confirmed in May 2021.{{r|{{cite web|url=https://deadline.com/video/marvel-sizzle-reel-eternals-black-panther-ii-the-marvels/|title=Marvel Shows Off 'Eternals' Footage, Dates 'Ant-Man & The Wasp 3', Titles 'Black Panther 2' & 'Captain Marvel 2'|work=Deadline|last=D'Alessandro|first=Anthony|date=May 3, 2021|accessdate=May 3, 2021}}}}
+* Filming for this film started on November 8, 2021.{{r|{{cite web|url= https://www.marvel.com/articles/movies/james-gunn-first-day-filming-guardians-of-the-galaxy-vol-3|title= James Gunn Celebrates First Day of Filming ‘Guardians of the Galaxy Vol. 3’|work= Marvel.com|last= Paige|first= Rachel|date= November 8, 2021|accessdate= November 9, 2021}}}}
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}
+[[ru:Стражи галактики: Часть 3]]
+[[tr:Galaksinin Koruyucuları 3 (film)]]
+[[Category:Marvel Studios]]

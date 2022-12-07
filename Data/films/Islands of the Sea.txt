@@ -1,0 +1,31 @@
+{{Infobox film
+|name           = Islands of the Sea
+|image	         = 1960-islands-1.jpg
+|caption        = 
+|director       = [[Ben Sharpsteen]]
+|producer       = Ben Sharpsteen
+|writer         = Dwight Hauser
+|narrator       = [[Winston Hibler]]
+|editing        = Harry Reynolds
+|distributor    = [[The Walt Disney Company|Disney]]
+|release        = [[March 16]], [[1960]]
+|time           = 28 minutes
+|country        = United States
+|language       = English
+}}'''''Islands of the Sea''''' is a [[1960]] Disney nature documentary short. Though not an official entry in the [[True-Life Adventures|''True-Life Adventures'']] series, it was featured as a bonus feature on their Walt Disney Legacy Collection DVD release.
+
+==Synopsis==
+The viewer witnesses a panorama of animals inhabiting the islands among the least known of the world: Galapagos, Guadalupe, Falkland and Midway.
+
+==Gallery==
+<gallery>
+1960-islands-2.jpg
+1960-islands-3.jpg
+1960-islands-4.jpg
+</gallery>
+[[Category:1960 shorts]]
+[[Category:Live-action shorts]]
+[[Category:Disney films]]
+[[Category:Films]]
+[[Category:Documentaries]]
+[[Category:Nature documentaries]]

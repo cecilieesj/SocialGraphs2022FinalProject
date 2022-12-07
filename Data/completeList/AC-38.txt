@@ -1,0 +1,53 @@
+{{Infobox character
+|name= AC-38
+|image = Ac-38.png
+|rides = ''[[Star Tours: The Adventures Continue]]''
+|voice = Lindsay Schnebly
+|inspiration = [[RX-24]]
+|alias = Ace<br>Ace-38
+|friends = [[Aly San San]], [[R2-D2]], [[G2-9T]], [[G2-4T]]
+|enemies = [[C-3PO]], [[Galactic Empire]]
+|status =}}
+'''AC-38''', nicknamed '''Ace''', is an AC-series pilot droid that works for [[Star Tours (company)|Star Tours]].
+
+== History ==
+=== Background ===
+AC-38 was an AC series pilot-droid who was owned by the Star Tours Travel Company at some point before the Battle of Yavin.  His unit was described by spokes-droid [[Aly San San]] as being friendly and personable but a bit testy at times.
+
+Before one routine flight he was supposed to run, the console communicator [[C-3PO]] was sent in to deal with the computer systems of his [[StarSpeeder 1000]].  The glitch however caused C-3PO to be trapped in the pilot's seat as its captain and his attempts to leave the vehicle were troubled when the [[Galactic Empire]] raided the StarPort in-search of a rebel spy.  When it was discovered that the rebel-spy was aboard the StarSpeeder, C-3PO drove the speeder away without Ace.
+
+Following this incident, AC units like Ace got recalled and retired from duty because of having the blame pushed on them.  Star Tours in-particular replaced them with the defective RX-unit pilot-droid which they had accidentally mass-ordered prior to their run-in with the rebellion and empire.  It is rumoured that Ace got repurposed to work as a janitor for Star Tours.
+
+=== Development History ===
+AC-38 was inspired by and modelled after RX-24 from the original [[Star Tours]] attraction who served as the ride's pilot.  He was however given a design closer to those of the droids from the Star Wars prequel trilogy.  In the ride itself, the pilot-droid character type was replaced with C-3PO from the [[Star Wars|Star Wars films]].
+
+== Appearances ==
+
+=== Star Tours: The Adventures Continue ===
+Prior to a regular flight, Ace was supposed to fly passengers in a StarSpeeder 1000, but when the ship took off, C-3PO was in the pilot's seat instead.  He is seen in the pre-show video for the attraction in the load-area.
+
+== Other Appearances ==
+
+=== Star Wars: Droidography ===
+AC-38 is mentioned by the rebel [[Battle Droids|battle-droid]] R0-GR who explains his fate following the events of Star Tours: The Adventures Continue.
+
+==Gallery==
+<gallery>
+WDI - Star Tours Blueprints - AC-38 ('Ace').jpeg
+Aly and ace.jpg|[[Aly San San]] and AC-38 figures
+acesansan.jpg
+ac-38 vinylmation jr.jpg|AC-38 [[Vinylmation]] Junior
+AC-38.jpg
+star-tours-ace.jpg
+</gallery>
+
+==External links==
+*[[w:c:starwars:AC-38|AC-38 on Wookieepedia]]
+
+{{Star Wars}}
+[[Category:Droids]]
+[[Category:Characters]]
+[[Category:Star Tours characters]]
+[[Category:Characters in Disney parks]]
+[[Category:Theme park characters]]
+[[Category:Pilots]]

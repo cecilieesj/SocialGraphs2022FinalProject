@@ -1,0 +1,19 @@
+{{Infobox character
+|image = Emma Phatic.jpg
+|name = Emma Phatic
+|games = ''[[Toontown Online]]''
+|alignment = Neutral
+|quote = "Hi Bonkers! Glad to Help!"}}
+'''Emma Phatic''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC royal blue [http://toontown.wikia.com/wiki/Bear Bear]. She is a Field Office SOS Toon. She is a 1-star [http://toontown.wikia.com/wiki/Toon-Up_Gags Toon-Up] [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon].
+
+==Trivia==
+﻿Emma Phatic is a pun for Emphatic.﻿
+
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Females]]
+[[Category:Bears]]
+[[Category:Characters]]
+[[Category:Neutral characters]]
+{{Toontown Online}}

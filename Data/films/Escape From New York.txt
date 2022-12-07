@@ -1,0 +1,31 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|director = Radio Silence
+|producer = Andrew Rona<br>Alex Heineman<br>Radio Silence
+|writer = 
+|starring = 
+|music = 
+|cinematography =
+|editor = 
+|studio = [[20th Century Studios]]
+|distributor = [[Walt Disney Studios Motion Pictures]]<br>Studio Canal<small> (Europe) </small>
+|release = 
+|time = 
+|language = English
+|budget = 
+|imdb_id = }}
+'''''Escape From New York''''' is an upcoming American science fiction action film, directed by Radio Silence, and serves as a reboot of the [[1981]] film of the same name. It is produced by [[20th Century Studios]].
+
+==Production==
+On November 17, 2022, ''Deadline'' reported that a reboot of ''Escape From New York'' is in development, with the team Radio Silence directing. John Carpenter, the director of the original film serves as an executive producer.<ref>[https://deadline.com/2022/11/radio-silence-escape-from-new-york-pic-1235175637/ Radio Silence To Direct New ‘Escape From New York’ Movie For 20th Century Studios]</ref>
+
+==References==
+{{Reflist}}
+
+{{DISPLAYTITLE:''Escape From New York''}}
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:20th Century Studios films]]
+[[Category:Remakes]]

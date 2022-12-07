@@ -1,0 +1,52 @@
+{{Infobox character
+|name= Vostok
+|image=Vostok.jpg
+|films=
+|shows=
+|games=
+|rides=
+|actor=
+|actress= 
+|voice= 
+|animator=
+|model=
+|designer=Alessandro Barbucci
+|inspiration=
+|awards=
+|fullname=
+|alias=
+|personality=
+|appearance=
+|birthday=
+|occupation=Organization scientist
+|alliance=[[Organization (PKNA)|The Organization]]
+|alignment = Bad
+|goal=
+|home=
+|family=
+|pets=
+|friends=
+|minions=
+|enemies=[[The Duck Avenger]]
+|likes=
+|dislikes=Working with Newton
+|powers=
+|weapons=
+|fate=Gets captured by the Time Police
+|quote=
+}}'''Vostok''' is a character and antagonist from the ''[[PKNA]]'' comic book series.
+
+==History==
+Vostok is a scientist who works for [[Organization (PKNA)|The Organization]]. He dislikes [[Newton (PKNA)|Newton]] due to his lack of tact and diplomacy, and often sees himself forced to work with the droid, who dislikes him equally.
+
+In issue #43, Vostok was arrested by the Time Police along with the senior leaders of the Organization. He's presumably placed in a cronocapsule in the prison Time Ø to serve his sentence for numerous crimes.
+{{CharacterStub}}
+
+{{PKNA}}
+[[Category:Donald Duck universe characters]]
+[[Category:Comic characters]]
+[[Category:Scientists]]
+[[Category:Villains]]
+[[Category:Characters introduced in comics]]
+[[Category:Disney characters]]
+[[Category:Anthropomorphic characters]]

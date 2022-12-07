@@ -1,0 +1,233 @@
+{{Marvel Database:Film Template
+| Image                   = Thor Love and Thunder poster 003.jpg
+| Aliases                 = Thor 4, The Big Salad (working title)
+
+| Directors               = Taika Waititi
+| Producers               = Kevin Feige; Brad Winderbaum
+| ScreenplayWriters       = Taika Waititi; Jennifer Kaytin Robinson
+| Musicians               = Michael Giacchino
+| Cinematographers        = Barry Idoine
+| Editors                 = Matthew Schmidt; Peter S. Elliot; Tim Roche; Jennifer Vecchiarello
+| ProductionCompanies     = Marvel Studios
+| Distributors            = Walt Disney Studios Motion Pictures
+| Running Time            = 119 minutes
+| Rating                  = '''MPAA:''' Rated PG-13 for intense sequences of sci-fi violence and action, language, some suggestive material and partial nudity.
+| Budget                  = $250 million
+| Release Date            = July 6, 2022
+| US Release Date         = July 8, 2022
+
+| AM ID                   = thor-love-and-thunder-v720011
+| Marvel Movies           = {{PAGENAME}}
+| IMDB ID                 = 10648342
+| MCU                     = {{PAGENAME}}
+
+| Previous Film           = Thor: Ragnarok
+| Previous Film2          = {{sld|Avengers: Endgame}}
+| Next Film               = Black Panther: Wakanda Forever
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Thor Odinson (Earth-199999)|Thor Odinson]]|Avengers: Endgame|-}} {{Flashback}}
+* {{apn|[[Jane Foster (Earth-199999)|Mighty Thor (Jane Foster)]]|Thor: The Dark World|-}} {{1stas|Mighty Thor}} {{Death}}
+'''Supporting Characters:'''
+* {{1st|[[Love (Earth-199999)|Love]]}} {{g|Death and Rebirth}}
+* {{apn|[[Korg (Earth-199999)|Korg]]|Avengers: Endgame|-}}
+* {{apn|[[Brunnhilde (Earth-199999)|King Valkyrie (Brunnhilde)]]|Avengers: Endgame|-}}
+** {{a|[[Warsong (Earth-199999)|Warsong]]}}
+* {{1st|[[Toothgnasher (Earth-199999)|Toothgnasher]]}}
+* {{1st|[[Toothgrinder (Earth-199999)|Toothgrinder]]}}
+* {{apn|[[Sif (Earth-199999)|Lady Sif]]|Marvel's Agents of S.H.I.E.L.D. Season 2 12|-}}
+* {{1st|[[Team Kids in a Cage (Earth-199999)|Team Kids in a Cage]]}}
+** {{1st|[[Astrid Heimdallson (Earth-199999)|Axl Heimdallson]]}}
+'''Antagonists:'''
+* {{Only Dies|[[Gorr (Earth-199999)|Gorr the God-Butcher]]}}
+** {{1st|[[Black Berserkers|Shadow Monsters]]}}
+* {{Only Dies|[[Habooska (Earth-199999)|Habooska the Horrible]]}}
+* {{1st|[[Zeus Panhellenios (Earth-199999)|Zeus Panhellenios]]}}
+'''Other Characters:'''
+* {{Only Dies|[[Rapu (Earth-199999)|Rapu]]}}
+* {{Corpse|[[Dark Shadow Lord (Earth-199999)|Dark Shadow Lord]]}}
+* {{Flashback|[[Einherjar (Earth-199999)|Einherjar]]}}
+* {{a|[[Frigga (Earth-199999)|Frigga]]}} {{FlashOnly}}
+* {{RecapOnly|[[Odin Borson (Earth-199999)|Odin]]}} {{Death}}
+* {{RecapOnly|[[Loki Laufeyson (Earth-199999)|Loki]]}} {{Death}}
+* {{RecapOnly|[[Warriors Three (Earth-199999)|Warriors Three]]}}
+** {{RecapOnly|[[Fandral (Earth-199999)|Fandral]]}} {{Death}}
+** {{RecapOnly|[[Volstagg (Earth-199999)|Volstagg]]}} {{Death}}
+** {{RecapOnly|[[Hogun (Earth-199999)|Hogun]]}} {{Death}}
+* {{apn|[[Heimdall (Earth-199999)|Heimdall]]|Avengers: Infinity War|-}} {{Recap}}
+* {{RecapOnly|[[Thanos (Earth-199999)|Thanos]]}} 
+* {{RecapOnly|[[Surtur (Earth-199999)|Surtur]]}}
+* {{Named|[[Avengers (Earth-199999)|Avengers]]}}
+* {{a|[[Guardians of the Galaxy (Earth-199999)|Guardians of the Galaxy]]}}
+** {{apn|[[Peter Quill (Earth-199999)|Star-Lord (Peter Quill)]]|Avengers: Endgame|-}}
+** {{apn|[[Mantis (Earth-199999)|Mantis]]|Avengers: Endgame|-}}
+** {{apn|[[Nebula (Earth-199999)|Nebula]]|Avengers: Endgame|-}}
+** {{apn|[[Drax (Earth-199999)|Drax]]|Avengers: Endgame|-}}
+** {{apn|[[89P13 (Earth-199999)|Rocket Raccoon]]|Avengers: Endgame|-}}
+** {{apn|[[Groot II (Earth-199999)|Groot]]|Avengers: Endgame|-}}
+** {{apn|[[Kraglin Obfonteri (Earth-199999)|Kraglin Obfonteri]]|Avengers: Endgame|-}}
+* {{1st|[[Yakan (Earth-199999)|King Yakan]]}}
+* {{apn|[[Darcy Lewis (Earth-199999)|Darcy Lewis]]|WandaVision Season 1 9|-}}
+* {{apn|[[Erik Selvig (Earth-199999)|Erik Selvig]]|Avengers: Age of Ultron|-}}
+* {{apn|[[Miek (Earth-199999)|Miek]]|Avengers: Endgame|-}}
+* {{Mentioned|[[Hela Odinsdottir (Earth-199999)|Hela]]}}
+* {{1st|[[New Asgard Tours (Earth-199999)|New Asgard Tours]]}}
+** {{1st|[[Darryl Jacobson (Earth-199999)|Darryl Jacobson]]}}
+* {{1st|[[Glenda (Earth-199999)|Glenda]]}}
+* {{1st|[[Falligar (Earth-199999)|Falligar the Behemoth]]}} {{Corpse}}
+* {{1st|[[Oaken King (Earth-199999)|Oaken King]]}} {{Corpse}}
+* {{1st|[[Sequoia Queen (Earth-199999)|Sequoia Queen]]}} {{Corpse}}
+* {{1st|[[Grace (Earth-199999)|Grace]]}}
+* {{Invoked|[[Yahweh (Earth-199999)|God (Yahweh)]]}}
+* {{FlashOnly|[[Elaine Foster (Earth-199999)|Elaine Foster]]}} {{Death}}
+* {{1st|[[Council of Godheads (Earth-199999)|Council of Godheads]]}}
+** {{1st|[[Ninny of the Nonny (Earth-199999)|Ninny of the Nonny]]}}
+** {{1st|[[Bao (Earth-199999)|Bao]]}}
+** {{1st|[[Fur God (Earth-199999)|Fur God]]}}
+** {{1stFull|[[Bast (Earth-199999)|Bast]]}}
+** {{1st|[[Isis (Earth-199999)|Isis]]}}
+** {{1st|[[Athena Parthenos (Earth-199999)|Minerva]]}}
+** {{1st|[[Artemis (Olympian) (Earth-199999)|Artemis]]}}
+** {{1st|[[Dionysus Acratophorus (Earth-199999)|Dionysus Acratophorus]]}}
+** {{Mentioned|[[Jesus of Nazareth (Earth-199999)|"God of Carpentry"]]}}
+* {{1stFull|[[Eternity (Earth-199999)|Eternity]]}}
+* {{1st|[[Hercules Panhellenios (Earth-199999)|Hercules Panhellenios]]}}
+* {{Mentioned|[[Hugin (Earth-199999)|Hugin]]}}
+* {{Mentioned|[[Munin (Earth-199999)|Munin]]}}
+* {{Mentioned|[[Nicholas Fury (Earth-199999)|"Nick Furry" (Nick Fury)]]}}
+* {{Mentioned|[[Ra (Earth-199999)|Ra]]}}
+* {{Mentioned|[[Tūmatauenga (Earth-199999)|Tūmatauenga]]}}
+* {{Mentioned|[[Quetzalcoatl (Earth-199999)|Quetzalcoatl]]}}
+* {{Mentioned|[[Valkyrior (Earth-199999)|Valkyrior]]}}
+* {{Statue|[[Death (Earth-199999)|Death]]}}
+* {{Statue|[[Uatu (Earth-199999)|Uatu the Watcher]]}}
+* {{Statue|[[Infinity (Earth-199999)|Infinity]]}}
+* {{Statue|[[Eon (Earth-199999)|Eon]]}}
+* {{Statue|[[One Above All (Celestial) (Earth-199999)|One Above All]]}}
+* [[Living Tribunal]] {{Statue}}
+* Dwayne
+'''Races and Species:'''
+* {{a|[[Kronans]]}}
+* {{a|[[Asgardians]]}}
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{RecapOnly|[[Frost Giants]]}}
+* {{RecapOnly|[[Vanir (Gods)|Vanir]]}}
+* {{RecapOnly|[[Titans (Eternals)|Titans]]}}
+* {{RecapOnly|[[Fire Demons of Muspelheim|Fire Demons]]}}
+* {{a|[[Halfworlders]]}}
+* {{a|[[Xandarians]]}}
+* {{a|[[Human-Celestial Hybrids|Human/Celestial Hybrids]]}}
+* {{a|[[Flora colossi]]}}
+* {{a|[[Luphomoids]]}}
+* {{1st|[[Indigarrians]]}}
+* {{1st|[[Booskans]]}}
+* {{1st|[[Falligarians]]}}
+* {{1st|[[Lycans]]}}
+* {{1st|[[Midassians]]}}
+* {{1st|[[Olympians]]}}
+* {{1st|[[Celestials]]}}
+* {{a|[[Space Dolphins]]}}
+* {{a|[[Abstract Entities]]}}
+* {{Mentioned|[[Snakes (Race)|Snakes]]}}
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+** {{1st|[[Gorr's Homeworld]]}}
+** {{FlashOnly|[[Asgard (Realm)|Asgard]]}}
+*** {{FlashOnly|[[Asgard (City)|City of Asgard]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[Norway]]}}
+**** {{a|[[New Asgard]]}}
+*** {{a|[[United States of America]]}}
+**** {{RecapOnly|[[New York (State)|New York]]}}
+***** {{RecapOnly|[[New Avengers Facility]]}}
+** {{RecapOnly|[[Svartalfheim]]}}
+** {{a|[[Indigarr]]}}
+** {{Invoked|[[Hell]]}}
+** {{1st|[[Omnipotence City]]}}
+** {{1st|[[Shadow Realm]]}}
+*** {{1st|[[Moon of Shame]]}}
+** {{1st|[[Valhalla (Afterlife)|Valhalla]]}}
+'''Items:'''
+* {{1st|[[Glossary:Necrosword|Necrosword]]}} {{Destroyed}}
+* {{a|[[Mjolnir]]}}
+* {{RecapOnly|[[Infinity Gauntlet (Item)|Infinity Gauntlet]]}}
+* {{RecapOnly|[[Space Stone]]}}
+* {{RecapOnly|[[Power Stone]]}}
+* {{a|[[Stormbreaker]]}}
+* {{a|[[Yaka Arrow Controller]]}}
+* {{a|[[Element Gun|Quad Blasters]]}}
+* {{a|[[Drax's Knives]]}}
+* {{a|[[Yaka Arrow]]}}
+* [[Wikipedia: Interstellar (film)|Interstellar]] {{Mentioned}}
+* {{a|[[Bifrost]]}}
+* {{1st|[[Thunderbolt (Weapon)|Thunderbolt]]}}
+'''Vehicles:'''
+* {{RecapOnly|[[Statesman]]}}
+* {{a|[[Benatar]]}}
+* Aegir (Asgard Tours boat)
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Chris Hemsworth|Chris Hemsworth]] as [[Thor Odinson (Earth-199999)|Thor]]<ref name="SDCC 2019">{{cite web|url=https://www.marvel.com/articles/movies/sdcc-2019-all-of-the-marvel-studios-news-coming-out-of-hall-h-at-san-diego-comic-con|title=SDCC 2019: All of the Marvel Studios News Coming Out of Hall H at San Diego Comic-Con|author=Marvel|work=Marvel.com|date=20 July 2019|accessdate=21 July 2019}}</ref>
+
+* [[wikipedia:Tessa Thompson|Tessa Thompson]] as [[Brunnhilde (Earth-199999)|Valkyrie]]<ref name="SDCC 2019"/>
+
+* [[wikipedia:Natalie Portman|Natalie Portman]] as [[Jane Foster (Earth-199999)|Thor / Jane Foster]]<ref name="SDCC 2019"/>
+
+* [[wikipedia:Taika Waititi|Taika Waititi]] as [[Korg (Earth-199999)|Korg]]{{r|{{cite web|url= https://ew.com/movies/2019/10/16/thor-4-korg-taika-waititi/|title= Taika Waititi confirms Korg's glorious return for Thor: Love and Thunder|work= EW|last= Romano|first= Nick|date= October 16, 2019|accessdate= October 16, 2019}}}}
+
+* [[wikipedia:Chris Pratt|Chris Pratt]] as [[Peter Quill (Earth-199999)|Star Lord / Peter Quill]]<ref name="Variety">{{cite web|url= https://variety.com/2020/film/news/chris-pratt-thor-love-and-thunder-star-lord-1234831542/|title= Chris Pratt to Reprise Star-Lord Role in ‘Thor: Love and Thunder’|work= Variety|last= Jackson|first= Angelique|date= November 13, 2020|accessdate= November 14, 2020}}</ref>
+
+* [[wikipedia:Christian Bale|Christian Bale]] as [[Gorr (Earth-199999)|Gorr the God Butcher]]{{r|{{cite web|url=https://www.etonline.com/tessa-thompson-reacts-to-christian-bale-playing-the-villain-in-thor-love-and-thunder-exclusive|title=Tessa Thompson Reacts to Christian Bale Playing the Villain in 'Thor: Love and Thunder' (Exclusive)|work=ET Online|last=Boone|first=John|date=March 6, 2020|accessdate=March 6, 2020}}}}{{r|{{cite web|url=https://www.marvel.com/articles/movies/christian-bale-joins-thor-love-thunder-gorr-god-butcher|title= Christian Bale Joins Cast of ‘Thor: Love and Thunder’ As Gorr the God Butcher||work= Marvel.com||last= Dinh|first= Christine|date= December 10, 2020|accessdate= December 10, 2020}}}}
+
+* [[wikipedia:Jaimie Alexander|Jaimie Alexander]] as [[Sif (Earth-199999)|Lady Sif]]<ref>{{cite web|url=https://deadline.com/2020/12/sif-mcu-jaimie-alexander-thor-love-and-thunder-and-loki-1234655160/|title=Sif Returns To The MCU: Jaimie Alexander To Reprise Role In ‘Thor: Love And Thunder’|last=Kroll|first=Justin|work=Deadline|date=11 December 2020|accessdate=11 December 2020}}</ref>
+
+* [[wikipedia:Pom Klementieff|Pom Klementieff]] as [[Mantis (Earth-199999)|Mantis]]{{r|{{cite web|url= https://www.digitalspy.com/movies/a35039958/thor-love-and-thunder-guardians-of-the-galaxy-pom-klementieff/|title= New Guardians of the Galaxy star linked to Thor: Love and Thunder|work= Digital Spy|last= McCreesh|first= Louise|date= December 22, 2020|accessdate= January 20, 2021}}}}
+
+* [[wikipedia:Karen Gillan|Karen Gillan]] as [[Nebula (Earth-199999)|Nebula]]{{r|{{cite web|url= https://www.digitalspy.com/movies/a35244710/guardians-of-the-galaxy-karen-gillan-nebula-thor-love-and-thunder/|title= Guardians of the Galaxy star confirms their Thor: Love and Thunder appearance|work= Digital Spy|last= West|first= Amy|date= January 18, 2021|accessdate= January 19, 2021}}}}<ref name="Guardians of the Galaxy">{{cite web|url= https://www.youtube.com/watch?v=zT9dN2AD6oI|title= Star-Studded 50 Shot Salute for Guillermo’s 50th Birthday!|work= Youtube|author= Jimmy Kimmel Live|date= January 28, 2021|accessdate= January 29, 2021}}</ref>
+
+* [[wikipedia:Dave Bautista|Dave Bautista]] as [[Drax (Earth-199999)|Drax]]<ref name="Guardians of the Galaxy"/>
+
+[[wikipedia:Matt Damon|Matt Damon]], [[wikipedia:Luke Hemsworth|Luke Hemsworth]], and [[wikipedia:Sam Neill|Sam Neill]] reprised their roles as Actor [[Loki Laufeyson (Earth-199999)|Loki]], Actor Thor, and Actor [[Odin Borson (Earth-199999)|Odin]], respectively, from {{sl|Thor: Ragnarok}}.{{r|{{cite web|url= https://deadline.com/2021/01/matt-damon-thor-love-thunder-australia-covid-chris-hemsworth-1234675631/|title= Matt Damon Touches Down In Australia Ahead Of ‘Thor: Love And Thunder’ Role|work= Deadline|last= Wiseman|first= Andreas|date= January 18, 2021|accessdate= January 27, 2021}}}}{{r|{{cite web|url=https://www.dailymail.co.uk/tvshowbiz/article-9315633/Matt-Damon-joins-Luke-Hemsworth-Sam-Neill-set-Thor-Love-Thunder-Sydney.html|title= Matt Damon dons a flowing black wig as he joins Luke Hemsworth and Sam Neill on elaborate theatre-style set for Thor: Love and Thunder in Sydney|work= Daily Mail Online|last= Marta|first= Jary|date= March 02, 2021|accessdate= March 02, 2021}}}} [[wikipedia:Melissa McCarthy|Melissa McCarthy]] joined them as a stage actress portraying [[Hela Odinsdottir (Earth-199999)|Hela]]. McCarthy's husband [[wikipedia:Ben Falcone|Ben Falcone]] also appeared as the play's director.{{r|{{cite web|url= https://www.instagram.com/tv/CJNsYH4ASn_/?utm_source=ig_web_copy_link|title= Merry Christmas! (And we’ve prepared a monologue) @chrishemsworth @marvel @taikawaititi|work= Instagram|last= McCarthy|first= Melissa|date= December 25, 2020|accessdate= March 02, 2021}}}}{{r|{{cite web|url= https://www.dailymail.co.uk/tvshowbiz/article-9315905/Melissa-McCarthy-husband-Ben-Falcone-spotted-filming-scenes-Thor-Love-Thunder.html|title= EXCLUSIVE: Melissa McCarthy sports a huge green headpiece as she transforms into Hela with Luke Hemsworth and husband Ben Falcone as they begin filming Thor: Love And Thunder in Sydney after superfan couple said they were 'desperate' for roles|work= Deadline|last= Stamell|first= Demeter|date= March 02, 2021|accessdate= March 02, 2021}}}} [[wikipedia:Sean Gunn|Sean Gunn]] reprised his role as [[Kraglin Obfonteri (Earth-199999)|Kraglin]].<ref name="Guardians of the Galaxy"/><ref>{{cite web|url= https://www.dailymail.co.uk/tvshowbiz/article-9208951/Chris-Hemsworth-Chris-Pratt-film-Thor-Sydney.html|title= Hollywood star Chris Hemsworth transforms himself into Thor as he shoots scenes with co-star Chris Pratt on the Love and Thunder set in Sydney|last= Taylor|first= Caleb|date= 01 February 2021|accessdate= 02 February 2021}}</ref> [[wikipedia:Russell Crowe|Russell Crowe]] appeared as [[Zeus]];{{r|{{cite web|url= https://deadline.com/2021/03/thor-love-and-thunder-russell-crowe-1234723853/|title= ‘Thor: Love And Thunder’: Russell Crowe Lands Role In Sequel|work= Deadline|last= Kroll|first= Justin|date= March 29, 2021|accessdate= March 30, 2021}}}}{{r|{{cite web|url= https://podcasts.apple.com/us/podcast/joy-breakfast-with-the-murphys/id1525632251?i=1000517705859|title= Russell Crowe shares some awesome moments with The Murphys!|author= JOY Breakfast with The Murphys|date= April 22, 2021|accessdate= April 23, 2021}}}} and Akosia Sabet was cast as the Wakandan and [[Ennead|Egyptian goddess]] [[Bast (Earth-199999)|Bast]], marking her first direct appearance in the MCU.{{r|{{cite web|url=https://comicbook.com/marvel/news/thor-love-thunder-spoilers-bast-black-panther-god-confirmed-new-photo/|title=New Thor: Love and Thunder Photo Confirms Major Black Panther 2 Connection|work=Comicbook.com|last=Barnhardt|first=Adam|date=May 16, 2022|accessdate=May 22, 2022}}}}{{r|{{cite web|url=https://thedirect.com/article/black-panther-thor-4-character-photo|title=Black Panther Character Spotted In New Thor 4 Photo|work=The Direct|last=Chanliau|first=Pierre|date=May 17, 2022|accessdate=May 22, 2022}}}}
+
+| Notes                   = * ''Thor: Love and Thunder'' was originally supposed to open on November 5, 2021, but was later moved to February 18, 2022 and then to February 11 due to the [[wikipedia:COVID-19 pandemic|COVID-19 pandemic]].<ref>{{cite web|url= https://variety.com/2020/film/box-office/disney-mulan-black-widow-release-dates-coronavirus-1203550173/|title= ‘Black Widow,’ ‘Eternals,’ ‘Indiana Jones 5’ and More Disney Films Get New Release Dates|work= Variety|last= Rubin|first= Rebecca|date= April 3, 2020|accessdate= April 3, 2020}}</ref><ref name="Deadline">{{cite web|url=https://deadline.com/2020/04/doctor-strange-2-heads-to-2022-thor-love-and-thunder-moves-up-a-week-1202917542/|title='Spider-Man: Homecoming' Sequel Pushes 'Doctor Strange 2' To 2022 As Disney & Sony Team On Release Date Changes|last=D'Alessandro|first=Anthony|date=April 24, 2020|accessdate=April 24, 2020}}</ref> Along with Bale's casting confirmation, Marvel also announced that the film would be pushed back once again to May 6, 2022.<ref>{{cite web|url=https://twitter.com/MarvelStudios/status/1337200046849159170|title=Academy Award-winning actor Christian Bale will join the cast of Thor: Love and Thunder as the villain Gorr the God Butcher. In theaters May 6, 2022.|author=Marvel Studios|work=Twitter|date=10 December 2020|accessdate=11 December 2020}}</ref> The release date was later taken by {{sl|Doctor Strange in the Multiverse of Madness}}, pushing this film back to July 8, 2022, taking the release date of {{sl|Black Panther: Wakanda Forever}}.{{r|{{cite web|url= https://variety.com/2021/film/news/disney-delays-doctor-strange-thor-black-panther-1235091673/|title= Disney Delays ‘Doctor Strange 2,’ ‘Thor 4,’ ‘Black Panther’ Sequel and ‘Indiana Jones 5’|work= Variety|last= Rubin|first= Rebecca|date= October 18, 2021|accessdate= October 18, 2021}}}}
+* Principal photography for this film started on January 26, 2021,{{r|{{cite web|url= https://www.digitalspy.com/movies/a35316864/chris-hemsworth-thor-love-and-thunder-photo/|title= Chris Hemsworth confirms Thor: Love and Thunder has started filming with behind-the-scenes photos|work= Digital Spy|last= McCreesh|first= Louise|date= January 26, 2021|accessdate= January 27, 2021}}}} and wrapped on June 1{{r|{{cite web|url=https://www.marvel.com/articles/movies/thor-love-and-thunder-wraps-filming|title='Thor: Love and Thunder' Wraps Filming|last=Dinh|first=Christine|work=Marvel.com|date=June 1, 2021|accessdate=June 2, 2021}}}}
+
+| Trivia                  = * ''To be added''
+==Gallery==
+===Images===
+<gallery>
+Thor Love and Thunder Logo.jpg
+Thor Love and Thunder Logo 002.jpg
+Thor Love and Thunder poster 001.jpg
+Thor Love and Thunder poster 002.jpg
+Thor Love and Thunder poster 003 textless.jpg
+Thor Love and Thunder poster 011.jpg
+Thor Love and Thunder poster 012.jpg
+Thor Love and Thunder poster 004.jpg
+Thor Love and Thunder poster 005.jpg
+Thor Love and Thunder poster 006.jpg
+Thor Love and Thunder poster 007.jpg
+Thor Love and Thunder poster 008.jpg
+Thor Love and Thunder poster 009.jpg
+Thor Love and Thunder poster 010.jpg
+Thor Love and Thunder poster 004 textless.jpg
+Thor Love and Thunder poster 005 textless.jpg
+Thor Love and Thunder poster 006 textless.jpg
+Thor Love and Thunder poster 007 textless.jpg
+Thor Love and Thunder poster 008 textless.jpg
+</gallery>
+===Videos===
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios Celebrates The Movies
+Marvel Studios' Thor- Love and Thunder - Official Teaser
+Marvel Studios' Thor- Love and Thunder - Official Trailer
+</gallery>
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[es:Thor: Amor y Trueno]]
+[[it:Thor: Love and Thunder]]
+[[pl:Thor: Love and Thunder]]
+[[tr:Thor: Aşk ve Gök Gürültüsü]]
+[[ru:Тор: Любовь и гром]]
+[[Category:Marvel Studios]]

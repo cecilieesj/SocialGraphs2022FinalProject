@@ -1,0 +1,223 @@
+{{Marvel Database:Film Template
+| Image                   = X-MenTheLastStandMoviePoster.jpg
+| Aliases                 = X-Men 3, X3
+
+| Directors               = Brett Ratner
+| Producers               = Lauren Shuler Donner; Ralph Winter; Avi Arad
+| ComicWriters            = [[Stan Lee]]; [[Jack Kirby]]
+| StoryWriters            = 
+| ScreenplayWriters       = Simon Kinberg; Zak Penn
+| Musicians               = John Powell
+| Cinematographers        = Dante Spinotti
+| Editors                 = [[Mark Helfrich]]; [[Mark Goldblatt]]; [[Julia Wong]]
+| Distributors            = 20th Century Fox
+| ProductionCompanies     = Dune Entertainment; Marvel Entertainment; The Donners' Company; Ingenious Film Partners
+| Running Time            = 104 minutes
+| Rating                  = '''MPAA:''' PG-13 for intense sequences of action violence, some sexual content and language
+| Budget                  = $210 million
+| Release Date            = May 26, 2006
+
+| AM ID                   = x-men-the-last-stand-v291112
+| IMDB ID                 = 0376994
+| Marvel Movies           = {{PAGENAME}}
+| X-Men Movies            = {{PAGENAME}}
+
+| Previous Film           = X2 (film)
+| Next Film               = X-Men Origins: Wolverine (film)
+| Next Film2              = {{sld|X-Men: Days of Future Past (film)}}
+
+| Tagline                 = Whose side will you be on?
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{a|[[X-Men (Earth-10005)|X-Men]]}}
+** {{apn|[[Charles Xavier (Earth-10005)|Professor Charles Xavier]]|X-Men: The Official Game|The Wolverine (film)}} {{ApDeath}}
+** {{apn|[[Robert Drake (Earth-10005)|Iceman (Bobby Drake)]]|X-Men: The Official Game|X-Men: Days of Future Past (film)}}
+** {{apn|[[Katherine Pryde (Earth-10005)|Kitty Pryde]]|X2 (film)|X-Men: Days of Future Past (film)}} {{1stFull}} {{Joins}}
+** {{apn|[[Ororo Munroe (Earth-10005)|Storm (Ororo Munroe)]]|X-Men: The Official Game|X-Men: Days of Future Past (film)}}
+** {{apn|[[Peter Rasputin (Earth-10005)|Colossus (Peter Rasputin)]]|X-Men: The Official Game|X-Men: Days of Future Past (film)}} {{Joins}}
+** {{apn|[[Marie D'Ancanto (Earth-10005)|Rogue (Marie)]]|X2 (film)|X-Men: Days of Future Past (film)|Days of Future Past}}<ref>Rogue appears in [[X-Men: Days of Future Past (film)|Days of Future Past]] only in the ''Rogue Cut''.</ref>
+** {{apn|[[James Howlett (Earth-10005)|Wolverine (Logan)]]|X-Men: The Official Game|The Wolverine (film)}} 
+** {{apn|[[Scott Summers (Earth-10005)|Cyclops (Scott Summers)]]|X-Men: The Official Game|-}} {{Death}}
+** {{apn|[[Henry McCoy (Earth-10005)|Beast (Dr. Hank McCoy)]]|X-Men: The Official Game|-}} {{1stHist}} {{g|Rejoins team}} {{g|Last appearance chronologically}}
+'''Supporting Characters:'''
+* Xavier School Students
+** {{Only|[[Warren Worthington III (Earth-10005)|Angel (Warren Worthington III)]]}} {{Joins}}
+** {{Only|[[Leech (Jimmy) (Earth-10005)|Leech (Jimmy)]]}} {{Joins}}
+'''Antagonists:'''
+* {{Disbands|[[Brotherhood of Mutants (Earth-10005)|Brotherhood of Mutants]]}}
+** {{apn|[[Erik Lehnsherr (Earth-10005)|Magneto (Erik Lehnsherr)]]|X-Men: The Official Game|The Wolverine (film)}}
+** {{apn|[[Jean Grey (Earth-10005)|Phoenix (Jean Grey)]]|X2 (film)|-}} {{g|Returns}} {{Joins}} {{Death}}
+** {{apn|[[Raven Darkhölme (Earth-10005)|Mystique (Raven Darkhölme)]]|X2 (film)|-}} {{Impersonates|[[Erik Lehnsherr (Earth-10005)|Magneto]]}} {{Leaves}} {{g|Last appearance chronologically}}
+** {{apn|[[John Allerdyce (Earth-10005)|Pyro (John Allerdyce)]]|X-Men: The Official Game|-}} {{Last}}
+** {{apn|[[James Madrox (Earth-10005)|Multiple Man (Jamie Madrox)]]|X-Men: The Official Game|- }} {{Joins}} {{Last}}
+** {{Only|[[Cain Marko (Earth-10005)|Juggernaut (Cain Marko)]]}} {{Joins}}
+* {{Only|[[Omega Gang (Earth-10005)|Omega Gang]]}}
+** {{Only Dies|[[Callisto (Earth-10005)|Callisto]]}}
+** {{Only Dies|[[Philippa Sontag (Earth-10005)|Arclight]]}} 
+** {{Only Dies|[[Quill (Earth-10005)|Quill]]}} 
+** {{Only|[[Psylocke (Earth-10005)|Psylocke]]}} {{ApDeath}}
+** {{Only|[[William Robert Reilly (Earth-10005)|Phat]]}}
+** {{Only Dies|[[Spike (Earth-10005)|Spike]]}}
+** {{Only|[[Robert Herman (Earth-10005)|Glob Herman]]}}
+** {{Only|[[Lizard Man (Earth-10005)|Lizard Man]]}}
+** {{Only|[[Ash (Earth-10005)|Ash]]}}
+'''Other Characters:'''
+* {{Only|[[John Grey (Earth-10005)|John Grey]]}} {{FlashOnly}}
+* {{Only|[[Elaine Grey (Earth-10005)|Elaine Grey]]}} {{FlashOnly}}
+* {{1stChron|[[Stan Lee (Earth-10005)|Stan Lee]]}}
+* {{Only|[[Worthington Labs (Earth-10005)|Worthington Labs]]}}
+** {{Only|[[Warren Worthington II (Earth-10005)|Warren Worthington II]]}}
+** {{Only Dies|[[Kavita Rao (Earth-10005)|Dr. Kavita Rao]]}}
+* {{Only|[[Bolivar Trask (Homeland Security) (Earth-10005)|Trask]]}}
+* {{a|[[United States Army (Earth-10005)|United States Army]]}}
+* Xavier School Students
+** {{apn|[[Jubilation Lee (Earth-10005)|Jubilee (Jubilation Lee)]]|X2 (film)|-}} {{Last}} {{Cameo}}
+** {{apn|[[Theresa Cassidy (Earth-10005)|Siryn (Theresa Cassidy)]]|X2 (film)|-}} {{Cameo}}
+** {{apn|[[Jones (Earth-10005)|Jones]]|X2 (film)|-}} {{Last}} {{Cameo}}
+** {{apn|[[Flea (Earth-10005)|Flea]]|X2 (film)|-}} {{Last}} {{Cameo}}
+** {{apn|[[Arthur Maddicks (Earth-10005)|Artie]]|X2 (film)|-}} {{Last}} {{Cameo}}
+** {{Cameo|[[Stepford Cuckoos (Earth-10005)|Stepford Cuckoos]]}}
+* {{Only Dies|[[P. Xavier (Earth-10005)|P. Xavier]]}} {{Cameo}}
+* {{Cameo|[[United Nations (Earth-10005)|United Nations]]}}
+* {{apn|[[Moira MacTaggert (Earth-10005)|Dr. Moira MacTaggert]]|X-Men: First Class|-}} {{1stHist}} {{g|Last appearance chronologically}}
+'''Chronological Flashbacks'''
+* {{apn|[[Charles Xavier (Earth-10005)|Professor Charles Xavier]]|X-Men Origins: Wolverine (film)|X-Men (film)}}
+* {{apn|[[Erik Lehnsherr (Earth-10005)|Magneto (Erik Lehnsherr)]]|X-Men: First Class (film)|X-Men (film)}}
+* {{apn|[[Jean Grey (Earth-10005)|Jean Grey]]|-|X-Men (film)}} {{1stChron}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Mutants (Homo superior)|Mutants]]}}
+'''Locations:'''
+* {{a|[[Earth-10005]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[North America]]}}
+**** {{a|[[United States of America]]}}
+***** {{a|[[New York (State)|New York]]}}
+****** {{a|[[Westchester County]]}}
+******* {{a|[[Salem Center]]}}
+******** {{a|[[Xavier's School for Gifted Youngsters]]}}
+********* {{1st|[[Danger Room]]}}
+***** {{1st|[[California (State)|California]]}}
+****** {{1st|[[San Francisco Bay]]}}
+******* {{1st|[[Alcatraz Island|Alcatraz]]}}
+******* {{1st|[[Golden Gate Bridge]]}}
+***** {{a|[[Canada]]}}
+****** {{a|[[British Columbia]]}}
+******* {{a|[[Alkali Lake]]}}
+****** {{Mentioned|[[Montreal]]}}
+**** [[Europe]]
+***** [[Portugal]]
+****** {{Mentioned|[[Lisbon]]}}
+***** [[Switzerland]]
+****** {{Mentioned|[[Geneva (Switzerland)|Geneva]]}} 
+'''Items:'''
+* {{a|[[Magneto's Helmet]]}}
+* {{a|[[Cyclops' Visor]]}}
+* {{a|[[Adamantium]]}}
+* {{a|[[X-Uniforms]]}}
+* {{1st|[[Hope Serum|The Cure]]}}
+* {{Minor|Sentinels|Sentinel|First appearance historically; head only}}
+* [[Glossary:Fastball Special|Fastball Special]]
+* {{a|[[Cerebro (Mutant Detector)|Cerebro]]}}
+'''Vehicles:'''
+* {{Destruction|[[X-Men Blackbird|X-Jet]]}}
+
+| Plot                    = A pharmaceutical company announces that it has developed an inoculation to suppress the X-gene that gives mutants their powers and makes them different from humans, offering the cure to any mutant who wants it. While some mutants are interested in the cure, including the X-Men's [[Rogue]], many others are horrified by the announcement. In response to the news, the X-Men's adversary [[Max Eisenhardt (Earth-616)|Magneto]] raises an army, warning his followers that the cure will be forcefully used to eradicate all mutant powers.
+
+[[Scott Summers (Earth-616)|Cyclops]], haunted by the memory of the dead Jean Grey, returns to the place where Jean had sacrificed herself to save the X-Men. Jean appears to Cyclops, and as the two kiss, Jean changes and appears to kill Cyclops. Sensing trouble, [[Professor X|Professor Charles Xavier]] sends [[James Howlett (Earth-616)|Wolverine]] and [[Storm]] to investigate. When they arrive, the two X-Men encounter telekinetically floating rocks, Cyclops' glasses, and an unconscious Jean.
+
+Xavier explains that when Jean sacrificed herself, she unleashed the powerful alternate personality she calls "[[Phoenix Force|Phoenix]]". Wolverine is disgusted to learn that Xavier has kept Jean in check telepathically, but when Jean awakens, he realizes she is not the Jean Grey he knew. Jean pleads with Wolverine to kill her, but when he refuses, the Phoenix surfaces and telekinetically slams Wolverine into a wall. She then escapes to her childhood home.
+
+Magneto, also aware that Jean is now a [[Mutants (Homo superior)|powerful]] mutant, meets Xavier at Jean's house. The two men vie for Jean's loyalty until the Phoenix resurfaces, unleashing her power. She destroys her family's house, disintegrates Xavier, and leaves with Magneto. 
+
+Following the loss of Xavier, the X-Men regroup and confront Magneto's army, which is attacking the pharmaceutical company. During the fight, [[Beast]] injects Magneto with the cure, nullifying his mutant powers. After the battle, the Phoenix emerges and begins to destroy everything around her.  Momentarily gaining control, Jean begs Wolverine to save her. Telling Jean he loves her, Wolverine reluctantly kills her with his claws. 
+
+Despite the X-Men's losses, life goes on. Magneto, now an ordinary man, sits at a chessboard and reaches out toward a metal chess piece that trembles slightly, hinting that the cure may not be as permanent as thought. Following the end credits, [[Moira Kinross|Dr. Moira MacTaggert]] checks on a comatose patient, P. Xavier, Charles' brother. He calls out to her with Charles's voice. Startled, she replies, "Charles?"
+
+| Cast                    = * [[wikipedia:Hugh Jackman|Hugh Jackman]] as [[James Howlett (Earth-10005)|Wolverine / Logan]]
+* [[wikipedia:Halle Berry|Halle Berry]] as [[Ororo Munroe (Earth-10005)|Storm / Ororo Munroe]]
+* [[wikipedia:Ian McKellen|Ian McKellen]] as [[Erik Lehnsherr (Earth-10005)|Magneto / Erik Lehnsherr]]
+* [[wikipedia:Famke Janssen|Famke Janssen]] as [[Jean Grey (Earth-10005)|Phoenix / Jean Grey]]
+** [[wikipedia:Haley Ramm|Haley Ramm]] portrays a young Jean Grey
+* [[wikipedia:Anna Paquin|Anna Paquin]] as [[Marie D'Ancanto (Earth-10005)|Rogue / Marie]]
+* [[wikipedia:Kelsey Grammer|Kelsey Grammer]] as [[Henry McCoy (Earth-10005)|Beast / Dr. Henry "Hank" McCoy]]
+* [[wikipedia:James Marsden|James Marsden]] as [[Scott Summers (Earth-10005)|Cyclops / Scott Summers]]
+* [[wikipedia:Rebecca Romijn|Rebecca Romijn]] as [[Raven Darkhölme (Earth-10005)|Mystique / Raven Darkhölme]]
+* [[wikipedia:Shawn Ashmore|Shawn Ashmore]] as [[Robert Drake (Earth-10005)|Iceman / Bobby Drake]]
+* [[wikipedia:Aaron Stanford|Aaron Stanford]] as [[John Allerdyce (Earth-10005)|Pyro / John Allerdyce]]
+* [[wikipedia:Vinnie Jones|Vinnie Jones]] as [[Cain Marko (Earth-10005)|Juggernaut / Cain Marko]]
+* [[wikipedia:Patrick Stewart|Patrick Stewart]] as [[Charles Xavier (Earth-10005)|Professor Charles Xavier]]
+* [[wikipedia:Elliot Page|Elliot Page]] as [[Katherine Pryde (Earth-10005)|Kitty Pryde]]
+* [[wikipedia:Ben Foster (actor)|Ben Foster]] as [[Warren Worthington III (Earth-10005)|Angel / Warren Worthington III]]
+** [[wikipedia:Cayden Boyd|Cayden Boyd]] portrays a young Warren Worthington III
+* [[wikipedia:Dania Ramirez|Dania Ramirez]] as [[Callisto (Earth-10005)|Callisto]]
+* [[wikipedia:Michael Murphy (actor)|Michael Murphy]] as [[Warren Worthington II (Earth-10005)|Warren Worthington II]]
+* [[wikipedia:Shohreh Aghdashloo|Shohreh Aghdashloo]] as [[Kavita Rao (Earth-10005)|Dr. Kavita Rao]]
+* [[wikipedia:Josef Sommer|Josef Sommer]] as the President of the United States
+* [[wikipedia:Bill Duke|Bill Duke]] as [[Bolivar Trask (Earth-10005)|Bolivar Trask]]
+* [[wikipedia:Daniel Cudmore|Daniel Cudmore]] as [[Peter Rasputin (Earth-10005)|Colossus / Peter Rasputin]]
+* [[wikipedia:Eric Dane|Eric Dane]] as [[James Madrox (Earth-10005)|Multiple Man]]
+
+Additionally, Adrian Hough and Desiree Zurowski portray [[John Grey (Earth-10005)|Mr. Grey]] and [[Elaine Grey (Earth-10005)|Mrs. Grey]], respectively. [[Chris Claremont]] and [[Stan Lee]] make cameo appearances. [[wikipedia:Cameron Bright|Cameron Bright]] portrays [[Leech (Jimmy) (Earth-10005)|Leech / Jimmy]]. Connor Widdows, [[wikipedia:Kea Wong|Kea Wong]], [[wikipedia:Shauna Kain|Shauna Kain]], and Luke Phol appear as [[Xavier's School for Gifted Youngsters]] students [[Jones (Earth-10005)|Jones]], [[Jubilation Lee (Earth-10005)|Jubilee / Jubilation Lee]], [[Theresa Cassidy (Earth-10005)|Siryn / Theresa Cassidy]], and [[Flea (Earth-10005)|Flea]], respectively. Lloyd Adams, [[wikipedia:Meiling Melançon|Meiling Melançon]], [[wikipedia:Omahyra Mota|Omahyra Mota]], Clayton Watmough, and [[wikipedia:Ken Leung|Ken Leung]] portray [[Omega Gang (Earth-10005)|Omegas]] [[Lizard Man (Earth-10005)|Lizard Man]], [[Elizabeth Braddock (Earth-10005)|Psylocke]], [[Philippa Sontag (Earth-10005)|Arclight]], [[Robert Herman (Earth-10005)|Glob Herman]], and [[Quill (Earth-10005)|Kid Omega]], respectively. [[William Robert Reilly (Earth-10005)|Phat]] is portrayed by Via Saleuma and Richard Yee. [[wikipedia:R. Lee Ermey|R. Lee Ermey]] makes an appearance as a sergeant on Alcatraz Island. [[wikipedia:Lance Gibson|Lance Gibson]] appears as [[Spike (Earth-10005)|Spike]]. [[wikipedia:Olivia Williams|Olivia Williams]] makes an uncredited appearance as [[Moira MacTaggert (Earth-10005)|Dr. Moira MacTaggert]].
+
+| Notes                   = 
+* In July 2004, [[wikipedia:Bryan Singer|Bryan Singer]], the director of the first two ''X-Men'' films, left the project during early pre-production, in order to direct the film ''[[wikipedia:Superman Returns|Superman Returns]]''.  He was joined by ''X2'' screenwriters [[Dan Harris]]  and [[Michael Dougherty]],  composer/editor John Ottman, and cast member [[wikipedia:James Marsden|James Marsden]].  Among the choices for replacements were [[wikipedia:Darren Aronofsky|Darren Aronofsky]], [[Joss Whedon]], [[wikipedia:Rob Bowman (filmmaker)|Rob Bowman]], [[wikipedia:Alex Proyas|Alex Proyas]], and [[wikipedia:Zack Snyder|Zack Snyder]].
+
+* In March 2005, Matthew Vaughn was hired as the new director for the project. He cast [[wikipedia:Kelsey Grammer|Kelsey Grammer]]  as [[Henry McCoy (Earth-10005)|Beast / Dr. Henry "Hank" McCoy]], [[wikipedia:Dania Ramirez|Dania Ramirez]] as [[Callisto (Earth-10005)|Callisto]] and [[wikipedia:Vinnie Jones|Vinnie Jones]]  as [[Cain Marko (Earth-10005)|Juggernaut / Cain Marko]], but family issues reportedly led him to withdraw before shooting began.  Vaughn was replaced by Singer's friend [[wikipedia:Brett Ratner|Brett Ratner]],<ref name="USATODAY">{{cite web | title=Franchise's fans reverse stand on new director | publisher=USA Today | work=usatoday.com | url=http://www.usatoday.com/life/movies/news/2006-05-24-xmen-ratner_x.htm | accessdate=5 June 2006 | date=May 24, 2005 | author=Scott Bowles}}</ref> who was among those originally considered to direct the first film &mdash; and coincidentally was considered by Warner Brothers to direct the 2006 ''Superman'' project before it evolved into ''Superman Returns''.
+
+* The film was originally scheduled for a May 5, 2006 release, but was pushed back to May 26 of the same year due to production delays.
+
+* The film began filming in August 2005 and ended in January 2006.
+
+| Trivia                  = 
+* Many of the cast members from the previous two X-Men films returned, the major exceptions being [[wikipedia:Alan Cumming|Alan Cumming]], who portrayed [[Kurt Wagner (Earth-10005)|Nightcrawler / Kurt Wagner]] and [[wikipedia:Kelly Hu|Kelly Hu]], who portrayed [[Yuriko Oyama (Earth-10005)|Deathstrike / Yuriko Oyama]], from ''[[X2 (film)|X2]]''. Both of whom signed two-film contracts. However, Hu's character was killed by Wolverine in the previous film and Alan Cumming was reportedly uncomfortable with the long hours he had to take with the Nightcrawler makeup. The part for Nightcrawler was so minimal in the third film that he felt it was not worth it to go through the long and costly makeup process when he was barely in the film, and the character was cut.<ref name="CBR News"/> He did agree, however, to do voice work for the character for the video game based on the film. [[wikipedia:James Marsden|James Marsden]] did appear in the film as [[Scott Summers (Earth-10005)|Cyclops / Scott Summers]], despite reported scheduling conflicts with ''Superman Returns''.
+
+* [[wikipedia:Halle Berry|Halle Berry]] stated during interviews for ''X2'' that she would not return as [[Storm]] in the third film unless the character had a significant presence comparable to the comic-book version.  Brett Ratner also felt Storm required a larger role and there was little difficulty reaching an agreement.<ref name="UGO 2">{{cite web | title=Halle Berry of X-Men: The Last Stand | publisher=UGO | work=ugo.com | url=http://www.ugo.com/summermovies/Content/ProductViewer.aspx?BlogsPageNumber=3&ProductID=172 | accessdate=6 June 2006 | date=May 24, 2006 | author=Daniel Robert Epstein}}</ref>
+
+* Filmmakers considered using the Beast character since the first X-Men movie, but budget constraints ruled him out; however, {{MM|Steve Bacic}}  is identified as Hank McCoy when he appears on a television screen in a cameo role in ''X2''. 
+
+* The events of this movie occur in 2006.<ref>{{cite web|url=http://www.25moments.com|title=X-Men: 25 Moments|accessdate=12 April 2014}}</ref>
+
+==Gallery==
+===Alternate Posters===
+<gallery>
+X-Men Last Stand Poster.jpg
+X-Men Last Stand Poster 0002.jpg
+X-Men Last Stand Character Poster.jpg
+Angel X-Men 3 Poster.jpg
+X-Men 3 Character Poster Beast.jpg
+X-Men Last Stand Poster 0003.jpg
+X-Men Last Stand Poster 004.jpg
+X-Men Last Stand Poster 005.jpg
+X-Men Last Stand Poster 006.jpg
+</gallery>
+
+{{Navigation
+| title = Comparison with the comics
+| body  = ''X-Men: The Last Stand'' draws much of its plot and characters from the source comic books; however, while some of the X-Men characters and details remain similar, a number of comic book elements are altered for the adaptation.
+
+The film's plot concerning the emergence of the Phoenix draws from Chris Claremont's 1980 "Dark Phoenix Saga" in ''The Uncanny X-Men''.  Whereas in the film, the Phoenix is Jean Grey's evil "split personality", in the comics, the [[Phoenix Force|Phoenix]] is a fiery, Phoenix-like alien entity and force of nature that bonds with Jean.  The cure for mutant powers can be seen in Joss Whedon's 2004 "Gifted" story arc in ''Astonishing X-Men''.
+
+''X-Men: The Last Stand'' is the first, and so far only, X-Men film to feature the five original X-Men -- Cyclops, Iceman, Beast, Angel, and Jean Grey on the team; however, the characters' backstories and positions within the team are altered. Other characters are translated even more loosely. Many of the Brotherhood shown in the film, for instance, including [[Spike]], Psylocke and Multiple Man, are not Brotherhood villains in the comics. The mutant named Kid Omega resembles a character named [[Maxwell Jordan (Earth-616)|Quill]] in the comics, rather than the hyper-intelligent comic book [[Quintavius Quire (Earth-616)|Kid]]. In the film, [[Psylocke (Earth-10005)|Psylocke]] has a red dagger tattooed above her left eye, and she is able to hide in shadows; this is a reference to a period during which Psylocke was connected to a substance called the "[[Crimson Dawn]]", which gives her powers beyond her innate mutant abilities of [[telepathy]] and [[telekinesis]] that manifests as a psionic knife/[[katana (Earth-616)|katana]]. Brotherhood member Callisto is depicted with superhuman speed and the ability to sense mutants' power levels. In the comics, Callisto is the leader of the [[Morlocks]] and has neither ability, instead, possessing acute senses.  In the comics, Juggernaut is Xavier's human step-brother who acquires power when he finds a mystical stone; in ''X-Men: The Last Stand'', however, Juggernaut is a mutant, and there is no mention of a relationship with the professor. Whereas he is usually gruff and violent in the comics, his line "Don't you know who I am? I'm the Juggernaut, bitch!" alludes not to the comics, but to a video (''The Juggernaut Bitch!!'') in which the video's creators talk over footage from ''[[X-Men: The Animated Series]]''.
+
+Familiar details from the X-Men mythos permeate the film. The X-Men are shown training in the trademark [[Danger Room]], a training complex within the [[Xavier's School for Gifted Youngsters|X-Mansion]]. A giant, mutant-hunting [[Sentinels|Sentinel]] robot appears as a hologram inside the Danger Room. The [[Glossary:Fastball Special|fastball special]], in which Colossus throws Wolverine toward an opponent, appears in the film twice, the targets being Magneto and a Sentinel. Beast's line "Oh my stars and garters!" appears frequently in the comics. One of the president's advisers is named Trask, an allusion to [[Bolivar Trask (Earth-616)|Bolivar Trask]], creator of the Sentinels. Kitty Pryde's run through the pharmaceutical complex while being chased by the Juggernaut mirrors the character's similar fight against an alien in [[Uncanny X-Men Vol 1 143|''Uncanny X-Men'' Vol 1 143]]. Finally, Wolverine's killing Jean bears some similarity when he killed his love [[Mariko Yashida (Earth-616)|Mariko Yashida]] at her request to spare her a painful death from poison (see [[Wolverine Vol 2 57|''Wolverine'' Vol 2 57]]), as well as in ''New X-Men'', in which he kills Jean to spare her from a more agonizing death burning up in the Sun.
+
+}} 
+
+== Adaptations ==
+=== Novelization ===
+The novelization of the film, written by comic book writer Chris Claremont, was released on May 16, 2006.<ref>{{cite book | isbn=0345492110 | title=[[X-Men: The Last Stand#Novelization|X-Men: The Last Stand]] | publisher=Del Rey | last=Claremont | first=Chris | authorlink=Chris Claremont}}</ref>  The novelization of the movie differs significantly from the film. 
+
+{{Navigation
+| title = Difference between Movie and Novelization
+| body  = In the novel, young Jean Grey discovers her powers after an accident that takes her best friend's life. Angel officially joins the X-Men and travels with them to Alcatraz Island instead of going on his own. Storm spares Callisto's life, which is more in line with Professor Xavier's views on violence. Rogue decides to keep her powers in the end, and Beast stays at the school as a teacher. Iceman takes an unconscious Pyro away from Alcatraz. The attack on Alcatraz is referred to as M-Day, a reference to the "[[Decimation |Decimation of mutantkind]]" storyline in the comic books. Moira MacTaggert visits Magneto in the park, presumably offering an antidote to the cure, which he refuses because as the book says: "He couldn't go back. That path had brought nothing but grief, to those he cared for, those who trusted him, to himself. This was better." This suggests that in the novel Magneto turns over a new leaf before discovering a slight return of his powers. Unlike the film, the novel does not allude to Xavier's resurrection.}} 
+
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+* [[X-Men: The Official Game]]
+
+}} 
+<!--Split film/book article intentional - Please do not remove this comment-->
+
+[[Category:Fastball Special/Appearances]]
+[[Category:20th Century Fox]]

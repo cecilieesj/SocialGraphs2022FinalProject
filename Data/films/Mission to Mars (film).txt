@@ -1,0 +1,124 @@
+{{Infobox film
+|image = Mission_to_mars.jpg
+|name = Mission to Mars
+|director = [[Brian De Palma]]
+|producer = Tom Jacobson<br>David S. Goyer
+|writer = Jim Thomas<br>John Thomas<br>Graham Yost
+|starring = Gary Sinise<br>[[Tim Robbins]]<br>[[Don Cheadle]]<br>Connie Nielsen<br>[[Jerry O'Connell]]<br>Kim Delaney
+|music = [[Ennio Morricone]]
+|cinematography = Stephen H. Burum
+|studio = [[Touchstone Pictures]]<br>Spyglass Entertainment
+|distributor = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures]]
+|release = [[March 10]], [[2000]]
+|time = 113 minutes
+|language = English
+|budget = $100 million
+|imdb_id = 0183523}}
+'''''Mission to Mars''''' is a [[2000]] science fiction film directed by [[Brian De Palma]] from an original screenplay written by Jim Thomas, John Thomas, and Graham Yost.
+
+==Plot==
+In 2020, the ''Mars I'' spacecraft, ''en route'' to planet [[Mars]], is commanded by Luke Graham ([[Don Cheadle]]) with fellow astronauts Nicholas Willis (Kavan Smith), Sergei Kirov (Peter Outerbridge), and Renée Coté (Jill Teed). Upon arrival, the team discovers a crystalline formation in the Cydonia region, which they suspect is an extrusion from a subsurface geothermal column of water, useful to future human colonization. After reporting this to the World Space Station, they hear a strange sound on their communications system, which they assume to be interference from their planetary rover. While they scan the formation with radar, a large vortex kills them.
+
+After the vortex subsides, a large humanoid face is exposed in the adjacent mountain. ISS having received Luke's message, a second ship is readied for a rescue mission - the ''Mars II'' containing Commander Woody Blake (Tim Robbins), Co-Commander Jim McConnell (Gary Sinise), and mission specialists Terri Fisher (Connie Nielsen) and Phil Ohlmyer ([[Jerry O'Connell]]). As the ship enters Mars orbit, micrometeoroids breach the hull. During repair, the external fuel tanks are overlooked, causing a leak and later explosion. The crew then board the REMO ("Resupply Module") orbiting Mars. Tethered to the others, Woody launches himself at the module, but he is unable to properly land on it. Terri tries to rescue Woody, who is her husband; but, knowing she would run out of fuel before reaching him, Woody removes his helmet, killing himself to save her.
+When the survivors arrive on the surface of Mars, they find Luke living on the produce of a greenhouse, whereupon he reveals that the crystalline structure looks humanoid and that the noise represents a map of human DNA in XYZ coordinates, but missing a pair of chromosomes. To complete the sequence, the crew dispatches a robotic rover to reproduce the completed signal. Following the transmission, an opening appears in the side of the mountain, which Jim, Terri, and Luke enter, while Phil remains at the repaired emergency return vehicle with orders to launch, with or without them, at the agreed time.
+
+The opening seals behind them, disrupting radio communication with Phil, and a three-dimensional projection depicts the planet Mars, covered with water, being struck by a large asteroid and rendered uninhabitable. A Martian then reveals that the natives of Mars evacuated their world in spacecraft, one of which one landed on Earth to create humans, who could one day land on Mars and be recognized as descendants. An invitation is offered to one astronaut to follow the Martians to their new home. Jim accepts the invitation and is launched in an oxygenated capsule, while the others return to Phil, and subsequently to Earth.
+
+==Cast==
+*Gary Sinise as Jim McConnell
+*[[Tim Robbins]] as Woody Blake
+*[[Don Cheadle]] as Luke Graham
+*Connie Nielsen as Terri Fisher
+*[[Jerry O'Connell]] as Phil Ohlmyer
+*Kim Delaney as Maggie McConnell
+*Peter Outerbridge as Sergei Kirov
+*Kavan Smith as Nicholas Willis
+*Jill Teed as Renée Coté
+*Elise Neal as Debra Graham
+*Robert Bailey Jr. as Bobby Graham
+*Taylor Jones as Daniel Lederman
+*Armin Mueller-Stahl as Ramier Beck
+*[[Bill Timoney]] as Computer (voice)
+
+==Production==
+
+===Filming===
+The film was shot primarily on location in Vancouver, British Columbia, Jordan and the Canary Islands.<ref name="YahooMov" /> Extensive special effects surrounding certain aspects of the film such as the NASA spacecraft and Martian vortex, were created by a number of digital effects companies including [[Industrial Light & Magic|ILM]], Dream Quest Images, Tippett Studio, CIS Hollywood, and Trans FX.<ref name="YahooMov" /> Between visuals, miniatures, and animation, over 400 technicians were directly involved in the production aspects of the special effects.<ref name="YahooMov" />
+
+===Soundtrack===
+The original score for ''Mission to Mars'' was released by the [[Hollywood Records]] music label on March 14, 2000.<ref>{{cite web |url=http://www.amazon.com/dp/B00004RCUI |title=Mission to Mars: Original Score |publisher=Amazon.com |accessdate=}}</ref> The score for the film was composed by [[Ennio Morricone]] and performed by the New York Philharmonic, while songs written by musical artists Van Halen and Buckwheat Zydeco, were used in-between dialogue shots in the film. Suzana Peric and Nick Meyers edited the film's music.<ref name="YahooMov">{{cite web|url=http://movies.yahoo.com/movie/1800352357/cast |title=Mission to Mars (2000) |accessdate=|publisher=Yahoo! Movies}}</ref>
+
+{{Track listing
+| collapsed       = no
+| all_music = Ennio Morricone
+| headline        = ''Mission to Mars: Original Score''
+| total_length    = 62:11
+| title1          = Heart Beats in Space
+| length1         = 7:58
+| title2          = A Martian
+| length2         = 6:05
+| title3          = A World Which Searches
+| length3         = 2:58
+| title4          = And Afterwards?
+| length4         = 6:32
+| title5          = A Wife Lost
+| length5         = 3:26
+| title6          = Towards the Unknown
+| length6         = 8:14
+| title7          = Ecstasy of Mars
+| length7         = 2:57
+| title8          = Sacrifice of a Hero
+| length8         = 13:19
+| title9          = Where?
+| length9         = 5:32
+| title10         = An Unexpected Surprise
+| length10        = 2:32
+| title11         = All the Friends
+| length11        = 2:39
+}}
+
+==Reception==
+
+===Release===
+The film was a co-production between the motion picture studios of [[Touchstone Pictures]] and Spyglass Entertainment. It was commercially distributed by [[Buena Vista Pictures]] theatrically, and by Buena Vista Home Entertainment for home media. ''Mission to Mars'' explores astronomy, extraterrestrial life and space exploration.<ref name="film">Brian De Palma. (2000). ''Mission to Mars'' [Motion picture]. United States: [[Touchstone Pictures]].</ref> Despite the fact that the film employed the use of numerous extensive special effects, it failed to garner any award nominations from mainstream motion picture organizations for its production merits. On [[March 14]], [[2000]], the original film score was released by the [[Hollywood Records]] label. It was composed, orchestrated and conducted by Italian musician Ennio Morricone.
+
+The widescreen DVD edition of the film featuring audio commentary along with a visual effects analysis among other highlights was released in the United States on [[June 4]], [[2002]].
+
+===Critical response===
+Among mainstream critics in the U.S., the film received mainly negative reviews.<ref name="meta">[http://www.metacritic.com/movie/mission-to-mars Mission to Mars]. Metacritic. CNET Networks. Retrieved 2011-10-22.</ref> Rotten Tomatoes reported that 25% of 110 sampled critics gave the film a positive review, with an average score of 4.1 out of 10.<ref name="rt">[http://www.rottentomatoes.com/m/mission_to_mars/ Mission to Mars (2000)]. Rotten Tomatoes. IGN Entertainment. Retrieved 2011-10-22.</ref> At Metacritic, which assigns a weighted average out of 100 to critics' reviews, the film received a score of 34 based on 36 reviews.<ref name="meta" /> Furthermore, the film was nominated for a Golden Raspberry Award for Brian De Palma in the category of ''Worst Director'', where he lost to Roger Christian for ''Battlefield Earth''.<ref>{{cite web |url=http://www.razzies.com/forum/2000-razzie-nominees-winners_topic350.html |title=2000 RAZZIE® Nominees & "Winners" |publisher=Golden Raspberry Award |accessdate= }}</ref>
+
+The film's reception among French-language critics was markedly different in positive fashion.<ref>{{cite book | author = Steven Dillon | title=The Solaris Effect: Art and Artifice in Contemporary American Film | publisher= University of Texas Press | page=80 |isbn=978-0-292-71345-1 }}</ref> Film journal ''Cahiers du cinéma'' devoted several articles to De Palma and ''Mission to Mars'' at the time of its release, and placed it as ''#4'' in their list of the ''10 best films of 2000''.<ref>[http://alumnus.caltech.edu/~ejohnson/critics/cahiers.html Top Ten Lists: 1951-2009]. Cahiers du Cinema. Retrieved 2011-10-22.</ref> The film was screened out of competition at the 2000 Cannes Film Festival.<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/5176/year/2000.html |title=Festival de Cannes: Mission to Mars |accessdate=|work=festival-cannes.com}}</ref>
+
+{|class="toccolours" style="float: left; margin-left: 1em; margin-right: 2em; font-size: 85%; background:#FFFFE0; color:black; width:40em; max-width: 35%;" cellspacing="5"
+|style="text-align: left;"|"Sinise and Robbins, a couple of awfully good actors, are asked to speak some awfully clunky lines. When Robbins says, “OK, we're ready to light this candle” before ignition, it sounds like a parody of astronaut lingo."
+|-
+|style="text-align: left;"|—Bob Graham, writing in the ''San Francisco Chronicle''<ref name="Graham"/>
+|}
+Mark Halverson, writing in ''Sacramento News & Review'', said "My inner child felt cheated that the film leapt from an astronaut barbecue to Mars without so much as a rocket launch and that the best special effect (a sandstorm nod to ''The Mummy'') was unveiled in the first 20 minutes." He added, "This visually alluring mess also includes gobs of cheesy dialogue and a hokey-looking alien."<ref name="halverson">Halverson, Mark (24 May 2001). [http://www.newsreview.com/sacramento/mission-to-mars/content?oid=6528 ''Mission to Mars'']. ''Sacramento News & Review''. Retrieved 2011-10-26.</ref> Left unimpressed, Bob Graham in the ''San Francisco Chronicle'', wrote that the film "meanders into space-mystico mumbo jumbo. We're supposed to share the characters' awe at the wonder of the universe, but more likely the audience will wonder whatever were the filmmakers thinking." Graham characterized ''Mission to Mars'' as "a very mixed bag: rhapsodic cinematography, several genuine shocks amid a suffocating air of gooeyness, impressive visual effects – even if some seem to exist in a vacuum – and an absolutely loony conclusion."<ref name="Graham">Graham, Bob (10 March 2000). [http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2000/03/10/DD7394.DTL Spaced Out `Mission to Mars' gets lost in mystical mumbo jumbo]. ''San Francisco Chronicle''. Retrieved 2011-10-26.</ref> [[Roger Ebert]] of the ''Chicago Sun-Times'', said the film "contains conversations that drag on beyond all reason. It is quiet when quiet is not called for. It contains actions that deny common sense. And for long stretches the characters speak nothing but boilerplate." He believed that "It misses too many of its marks. But it has extraordinary things in it. It's as if the director, the gifted Brian De Palma, rises to the occasions but the screenplay gives him nothing much to do in between them."<ref>Ebert, Roger (10 March 2000). [http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20000310/REVIEWS/3100301 Mission to Mars]. ''Chicago Sun-Times''. Retrieved 2011-10-26.</ref> The film however, was not without its supporters. Michael Wilmington of the ''NY Daily News'', exclaimed the film was "One of the most gorgeous science-fiction movies ever - and probably also one of the most realistic in detail and scientific extrapolation".<ref>Wilmington, Michael (10 March 2000). Mission to Mars. ''NY Daily News''. Retrieved 2011-10-26.</ref> Richard Corliss of ''TIME'' commented that "This isn't "''2001''," by a long shot, but for 2000, it'll do nicely."<ref>Corliss, Richard (10 March 2000). ''Mission to Mars''. ''TIME''. Retrieved 2011-10-26.</ref> William Arnold of the ''Seattle Post-Intelligencer'', added to the positive sentiment by saying "Here and there an inspired shot makes the film come alive, and at least three of its sequences had me positioned well on the edge of my seat."<ref>Arnold, William (10 March 2000). Mission to Mars. ''Seattle Post-Intelligencer''. Retrieved 2011-10-26.</ref>
+
+Writing for ''The Austin Chronicle'', Marc Savlov noted that the "''Mission to Mars'' falls prey to an overwhelming sense of a man trying to please everyone all the time." He went further, that "De Palma has reached out to embrace a larger audience and seemingly sacrificed those traits that drew us to him in the first place: his singular vision, his clinical stylistics, and the palpable sense of dread that his best films engender."<ref>Savlov, Marc (10 March 2000). [http://www.austinchronicle.com/calendar/film/2000-03-10/140147/ Mission to Mars]. ''The Austin Chronicle''. Retrieved 2011-10-26.</ref> In a mixed review, James Berardinelli writing for ''ReelViews'', called the film "Ineptly directed, badly acted, and scripted with an eye towards stupidity and incoherence, the film is worthwhile only to those who are in desperate need of a nap. And, as is often the case when a big budget, high profile motion picture self-destructs, this one does so in spectacular fashion."<ref>Berardinelli, James (March 2000). [http://www.reelviews.net/php_review_template.php?identifier=324 Mission to Mars]. ''ReelViews''. Retrieved 2011-10-26.</ref> Describing a mixed opinion, J. Hoberman of ''The Village Voice'' said the film encompassed "a touchy-feely esprit that's predicated on equal parts Buck Rogers bravado and backyard barbecue, the whole burnt burger drenched in Ennio Morricone's elegiac western-style score."<ref>Hoberman, J. (14 March 2000). [http://www.villagevoice.com/2000-03-14/film/missions-impossible/1/ Missions Impossible]. ''The Village Voice''. Retrieved 2011-10-26.</ref>
+
+{| class="toccolours" style="float: right; margin-left: 1em; margin-right: 2em; font-size: 85%; background:#FFFFE0; color:black; width:30em; max-width: 40%;" cellspacing="5"
+| style="text-align: left;" |"Unfortunately, the filmmakers' imagination flags in the closing sequences; the movie's final reel looks like a high-tech museum exhibit entitled ''2001: A Space Odyssey for Dummies''."
+|-
+| style="text-align: left;" |—Margaret A. McGurk, writing for ''The Cincinnati Enquirer''<ref>McGurk, Margaret (14 March 2000). [http://cincinnati.com/freetime/movies/mcgurk/031000_mars.html Mars looks familiar next to nothing]. ''The Cincinnati Enquirer''. Retrieved 2011-10-26.</ref>
+|}
+Elvis Mitchell of ''The New York Times'', stated that the "visual design is spectacular, and the scenes on the Martian surface look so real that the picture could have been made on location. A holographic sequence detailing the evolutionary link between Earth and Mars is staggeringly well staged."<ref name="Mitchell" /> However, he ultimately came to the conclusion that there wasn't "an original moment in the entire movie, and the score is so repetitive that it could have been downloaded directly from ''EnnioMorricone.com''."<ref name="Mitchell">Mitchell, Elvis, (10 March 2000). [http://movies.nytimes.com/movie/review?res=9804E6D81F38F933A25750C0A9669C8B63 Small Step for Man, but a Big Whoop for Martians]. ''The New York Times''. Retrieved 2011-10-26.</ref> Similarly, Todd McCarthy wrote in ''Variety'' that the film's "dramatic package that it arrives in is so flimsy, unconvincing and poorly wrought that it's impossible to be swept away by the illustrated version of creationism on offer." He did note "Pictorially, the film is smooth and pristine looking. De Palma and his frequent cinematographer Stephen H. Burum go for their patented swooping and twisting camera moves whenever possible, and there are some very nice ones onboard the recovery ship."<ref>McCarthy, Todd (9 March 2000). [http://www.variety.com/review/VE1117778778?refcatid=31 ''Mission to Mars'']. ''Variety''. Retrieved 2011-10-26.</ref> Lisa Schwarzbaum writing for ''Entertainment Weekly'' deduced that "''Mission to Mars'' wants us to think about lofty things: the bravery of explorers, the ingenuity of our nation's space program, the humility required to comprehend the possibility that we earthlings are not the be-all and end-all of creation. But De Palma's film is too embarrassed, too jittery and self-conscious to hush up and pay attention."<ref>Schwarzbaum, Lisa (17 March 2000). [http://www.ew.com/ew/article/0,,275701,00.html ''Mission to Mars'']. ''Entertainment Weekly''. Retrieved 2011-10-26.</ref>
+
+===Box office===
+The film premiered in cinemas on March 10, 2000 in wide release throughout the U.S. During its opening weekend, the film opened in first place grossing $22,855,247 in business showing at 3,054 locations. The film ''The Ninth Gate'' came in second place during that weekend grossing $6,622,518.<ref name=BoxOfficeResults>{{cite web |url=http://boxofficemojo.com/weekend/chart/?view=&yr=2000&wknd=10&p=.htm |title=March 10–12, 2000 Weekend |publisher=Box Office Mojo |accessdate=}}</ref> The film's revenue dropped by 50% in its second week of release, earning $11,385,709. For that particular weekend, the film fell to 2nd place screening in 3,060 theaters. ''Erin Brockovich'' unseated ''Mission to Mars'' to open in first place grossing $28,138,465 in box office revenue.<ref name=BoxOfficeResults2>{{cite web |url=http://boxofficemojo.com/weekend/chart/?view=&yr=2000&wknd=11&p=.htm |title=March 17–19, 2000 Weekend |publisher=Box Office Mojo |accessdate=}}</ref> During its final weekend in release, it opened in a distant 72nd place with $17,467 in revenue.<ref>{{cite web |url=http://boxofficemojo.com/weekend/chart/?yr=2000&wknd=29&p=.htm |title=July 14–16, 2000 Weekend |publisher=Box Office Mojo |accessdate=}}</ref> The film went on to top out domestically at $60,883,407 in total ticket sales through an 18-week theatrical run. The film took in an additional $50,100,000 in business through international release to top out at a combined $110,983,407 in gross revenue. The film ranked 41st at the box office for 2000.<ref>{{cite web |url=http://boxofficemojo.com/yearly/chart/?yr=2000&p=.htm |title=2000 Domestic Grosses |publisher=Box Office Mojo |accessdate=}}</ref>
+
+==Home media==
+Following its cinematic release in theaters, the film was released by Buena Vista Home Entertainment in VHS video format on [[September 12]], [[2000]].<ref name=Amazon>{{cite web |url=http://www.amazon.com/dp/B0000524E6 |title=Mission to Mars VHS Format |publisher=Amazon.com |accessdate=}}</ref> The Region 1 Code widescreen edition of the film was released on DVD in the United States on September 12, 2000. Special features for the DVD include; Audio Commentary Animatics to Scene Comparison, Documentary "Visions of Mars", Visual Effects Analysis Production, Art Gallery, and DVD-ROM Features.<ref>{{cite web |url=http://www.amazon.com/dp/B00003CWU3 |title=Mission to Mars - DVD |publisher=Amazon.com |accessdate=}}</ref> Currently, there is a French version of the film in Blu-ray Disc format,<ref>http://www.blu-ray.com/movies/Mission-to-Mars-Blu-ray/20099/</ref> and is available in other media formats such as Video on demand.<ref>{{cite web |url=http://www.amazon.com/dp/B00567DD4C |title=Mission to Mars: VOD Format |publisher=Amazon.com |accessdate=}}</ref>
+
+==References==
+{{reflist}}
+
+{{Wikipedia}}
+{{DISPLAYTITLE:''Mission to Mars'' (film)}}
+[[Category:Touchstone Pictures films]]
+[[Category:Live-action films]]
+[[Category:2000 films]]
+[[Category:PG-rated films]]
+[[Category:Mission to Mars]]
+[[Category:Movies based on attractions]]

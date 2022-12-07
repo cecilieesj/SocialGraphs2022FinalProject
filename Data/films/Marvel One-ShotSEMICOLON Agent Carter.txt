@@ -1,0 +1,79 @@
+{{Marvel Database:Film Template
+| Image                   = Marvel One-Shot Agent Carter.jpg
+| Aliases                 = 
+
+| Directors               = Louis D'Esposito
+| Producers               = Kevin Feige
+| ScreenplayWriters       = Eric Pearson
+| Musicians               = Christopher Lennertz
+| Cinematographers        = Gabriel Beristain
+| Editors                 = Peter S. Elliot
+| Distributors            = Marvel Entertainment
+| Running Time            = 15 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = September 24, 2013
+
+| IMDB ID                 = 3067038
+| Marvel Movies           = Marvel One-Shot: Agent Carter
+| MCU                     = Marvel One-Shot: Agent Carter
+
+| Previous Film           = Marvel One-Shot: Item 47
+| Next Film               = Marvel One-Shot: All Hail the King
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Margaret Carter (Earth-199999)|Agent Peggy Carter]]|Captain America: The First Avenger|Marvel's Agent Carter Season 1 1}}
+'''Supporting Characters:'''
+* {{a|[[Strategic Scientific Reserve (Earth-199999)|SSR (Strategic Scientific Reserve)]]}}
+** {{1st|[[John Flynn (Earth-199999)|Captain John Flynn]]}}
+** Agent Miller
+** Agent Johnson
+** Agent Wilkes
+* {{Mentioned|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]]}}
+** {{apn|[[Howard Stark (Earth-199999)|Howard Stark]]|Captain America: The First Avenger|Marvel's Agent Carter Season 1 1}}
+** {{apn|[[Timothy Dugan (Earth-199999)|Dum Dum Dugan]]|Captain America: The First Avenger|Marvel's Agent Carter Season 1 5}} {{Cameo}}
+** {{Mentioned|[[Chester Phillips (Earth-199999)|Colonel Chester Phillips]]}}
+'''Antagonists:'''
+* {{1st|[[Zodiac (Earth-199999)|Zodiac]]}}
+'''Other Characters:'''
+* {{RecapOnly|[[Steven Rogers (Earth-199999)|Captain America (Steve Rogers)]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[New York (State)|New York]]}}
+***** {{a|[[New York City]]}}
+****** {{a|[[Manhattan]]}}
+******* {{a|[[Empire State Building]]}}
+****** {{a|[[Brooklyn]]}}
+**** {{a|[[Washington, D.C.]]}}
+** {{Invoked|[[Hell]]}}
+'''Items:'''
+* {{RecapOnly|[[Captain America's Uniform]]}}
+* {{1st|[[Zodiac Virus]]}}
+'''Vehicles:'''
+* {{RecapOnly|[[Valkyrie (Jet)|Valkyrie]]}}
+'''Events:'''
+* {{Mentioned|[[World War II]]}}
+
+| Plot                    = One year after [[Steven Rogers (Earth-199999)|Captain America]]'s disappearance, [[Margaret Carter (Earth-199999)|Agent Peggy Carter]] of the [[Strategic Scientific Reserve (Earth-199999)|SSR]] has been assigned to desk duties filing paperwork instead of working in the field. One night while alone in the office, the telephone rings, informing her of the location of the criminal organization known as [[Zodiac (Earth-199999)|Zodiac]]. She goes to the Zodiac base, takes out the Zodiac members single handed and is able to retrieve the serum/virus.
+
+After the mission, Agent Flynn reprimands her for not going through the proper procedures. However the telephone rings, this time with [[Howard Stark (Earth-199999)|Howard Stark]] on the other end. Stark informs Agent Flynn that Agent Carter will co-head the newly created [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]] and that Agent Flynn must personally assist Agent Carter packing her belongings.
+
+After the call [[Timothy Dugan (Earth-199999)|Dum Dum Dugan]] is poolside with Howard Stark, marvelling at two women wearing the newly created bikinis. Dugan asks Stark if he created them, to which Stark replies, "the French".
+
+| Cast                    = * [[wikipedia:Hayley Atwell|Hayley Atwell]] as [[Margaret Carter (Earth-199999)|Agent Peggy Carter]]
+* [[wikipedia:Dominic Cooper|Dominic Cooper]] as [[Howard Stark (Earth-199999)|Howard Stark]]
+* [[wikipedia:Bradley Whitford|Bradley Whitford]] as [[John Flynn (Earth-199999)|Agent Flynn]]
+* [[wikipedia:Neal McDonough|Neal McDonough]] as [[Timothy Dugan (Earth-199999)|Dum Dum Dugan]]
+''[[Iron Man 3 (film)|Iron Man 3]]'' director [[Shane Black]] also makes a voice-only cameo.
+
+| Notes                   = * According to [[Christopher Markus]] and [[Stephen McFeely]], the ABC series ''[[Marvel's Agent Carter]]'' was meant to take place in the middle of the timeline of this short film.<ref>{{cite web|url= http://collider.com/agent-carter-tv-series-christopher-markus-stephen-mcfeely/|title= Screenwriters Christopher Markus and Stephen McFeely Talk AGENT CARTER TV Series; Reveal Timeline, Plot and Planned Episode Count|work= Collider|last= Weintraub|first= Steve|date= 2014-03-13|accessdate= 2018-01-17}}</ref>
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Marvel One-Shots|Marvel Films]]
+}}
+[[Category:Short Films]]
+[[Category:Marvel One-Shots]]

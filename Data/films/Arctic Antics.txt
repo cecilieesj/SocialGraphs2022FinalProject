@@ -1,0 +1,41 @@
+{{Infobox film
+|image = articanticsposter.jpg
+|director = [[Burt Gillett]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = Walt Disney
+|music = Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[June 5]], [[1930]]
+|time = 7:00
+|preceded = ''[[Frolicking Fish]]''
+|followed = ''[[Midnight in a Toyshop]]''}}
+'''''Arctic Antics''''' is a ''[[Silly Symphonies|Silly Symphony]]'' cartoon that was released on [[June 5]], [[1930]].
+
+==Home video releases==
+'''DVD'''
+* ''[[Walt Disney Treasures]]: More Silly Symphonies''
+
+==Gallery==
+<gallery>
+12305.jpg
+AlbinoMickey.jpg
+12306.jpg
+12307.jpg
+12310.jpg
+12311.jpg
+12312.jpg
+</gallery>
+
+==Copyright info==
+The film's copyright was renewed on [[December 16]], [[1957]].<ref>[https://archive.org/details/catalogofcopyrig3111213li/page/109/mode/1up Catalog of Copyright Entries (1957 renewals)]</ref>
+
+==References==
+{{Reflist}}
+
+{{Silly Symphony}}
+[[Category:Animated shorts]]
+[[Category:Silly Symphonies]]
+[[Category:1930 shorts]]

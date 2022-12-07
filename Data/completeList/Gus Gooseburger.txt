@@ -1,0 +1,36 @@
+{{Infobox character
+|image = Gus gosseburger.jpg
+|name = Gus Gooseburger
+|games = ''[[Toontown Online]]''
+|appearance = Light Brown duck with a white vessel shirt, dark blue pants
+|alignment = Good/Neutral}}
+'''Gus Gooseburger''' is a Duck NPC, he is a light brown duck with a white vesel shirt and dark blue pants. He owns the Affordable Gossebumps shop on Walrus Way street. He gives you a teleport access task, so you'll be able to teleport to [http://toontown.wikia.com/wiki/The_Brrrgh The Brrrgh].
+
+==Toontask==
+#'''Visit''' Gus Gooseburger in Affordable Goosebumps, [http://toontown.wikia.com/wiki/Walrus_Way Walrus Way]
+#'''Defeat '''3 Level 4+ Cashbot Buildings
+#'''Return''' to Gus Gooseburger
+#'''Visit''' Grumpy Phil -in The Frozen Nose on [http://toontown.wikia.com/wiki/Sleet_Street Sleet Street].
+#'''Deliver''' a Broken Tooth to Dr. Mumbleface
+#Dr. mumbleface – Chattering Teeth Subzero Dentist on Sleet Street
+'''Defeat''' one of the following:
+*Cashbots (The Brrrgh)
+*8 Lawbots (The Brrrgh)
+*Sellbots (The Brrrgh)
+*Bossbots (The Brrrgh)
+7.''' Return''' to Dr. Mumbleface Recover a Gold Tooth from one of the following:
+*The Big Cheeses (Anywhere)
+*Robber Barons (Anywhere)
+*Mr. Hollywoods (Anywhere)
+*Big Wigs (Anywhere) '''Return''' to Dr. Mumbleface
+8.'''Deliver''' Gold Tooth to Grumpy Phil Task 9.'''Visit''' Gus Gooseburger 10.'''Deliver''' Pine Cone Bread to Grumpy Phil
+==Trivia==
+﻿
+
+*He is the only NPC with red gloves, this is simliar to a hack that is used by hackers. It is unknown whether this was a bug, a hack, or the creators of Toontown messing with the game.
+
+*He gives you one of your last tasks in The Brrrgh.
+[[Category:Toontown characters]]
+[[Category:Ducks]]
+[[Category:Males]]
+{{Toontown Online}}

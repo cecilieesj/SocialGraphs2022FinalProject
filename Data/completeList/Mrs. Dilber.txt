@@ -1,0 +1,36 @@
+{{Infobox character
+|name = Mrs. Dilber
+|image = [[File:Mrs._dilber.jpg|thumb]]
+|films = ''[[The Muppet Christmas Carol]]''<br>''[[A Christmas Carol]]''
+|actress = [[Louise Gold]]
+|voice = Fionnula Flanagan
+|fullname = Mrs. Dilber
+|occupation = Scrooge's maid
+|alignment = Neutral
+|home = [[London]], [[England]]
+|friends = [[Old Joe]]
+|enemies = [[Ebenezer Scrooge]]
+|likes = Cleaning
+|dislikes = [[Ebenezer Scrooge|Scrooge]]'s odd behavior, rats
+|quote = "He's completely deranged! Help!"|status=Active}}'''Dilber''' is [[Ebenezer Scrooge (Disney's A Christmas Carol)|Scrooge]]'s maid in ''[[A Christmas Carol]]''. She appears in Scrooge's future vision along with Old Joe, a charwoman, and an undertaker. Some film and stage adaptations also depict Mrs. Dilber as Scrooge's maid.
+
+{{CharacterStub}}
+
+==Gallery==
+<gallery captionalign="left">
+Carol-disneyscreencaps com-8244.jpg
+Carol-disneyscreencaps com-8257.jpg
+</gallery>
+
+{{A Christmas Carol}}
+{{DEFAULTSORT:Dilber, Mrs.}}
+[[Category:Disney characters]]
+[[Category:Animated characters]]
+[[Category:Servants]]
+[[Category:Villains]]
+[[Category:Henchmen]]
+[[Category:A Christmas Carol characters]]
+[[Category:Characters]]
+[[Category:Neutral characters]]
+[[Category:Females]]
+[[Category:Elderly characters]]

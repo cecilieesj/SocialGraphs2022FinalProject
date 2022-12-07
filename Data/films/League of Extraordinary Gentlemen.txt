@@ -1,0 +1,32 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = League of Extraordinary Gentlemen
+|director = 
+|writer = Justin Haythe
+|starring = 
+|producer = Don Murphy<br>Susan Montford<br>Erwin Stoff
+|studio = [[20th Century Studios]]
+|distributor = [[Hulu]]
+|cinematography = 
+|music = 
+|editor = 
+|time = 
+|language = English
+|release = 
+|budget = 
+|website = }}
+'''''League of Extraordinary Gentlemen''''' is an upcoming American adventure film that serves as a reboot for the franchise. It is scheduled to be released on [[Hulu]].
+
+==Production==
+On May 17, 2022, ''The Hollywood Reporter'' reported that [[20th Century Studios]] is developing a reboot of ''League of Extraordinary Gentlemen'', to be released as a Hulu exclusive.<ref>[https://www.hollywoodreporter.com/movies/movie-news/league-of-extraordinary-gentlemen-reboot-in-the-works-at-twentieth-hulu-1235148573 ‘League of Extraordinary Gentlemen’ Reboot in the Works at Twentieth, Hulu]</ref>
+
+==References==
+{{Reflist}}
+{{DISPLAYTITLE:''League of Extraordinary Gentlemen''}}
+[[Category:Upcoming films]]
+[[Category:Films]]
+[[Category:20th Century Studios]]
+[[Category:Films based on comics]]
+[[Category:Hulu]]

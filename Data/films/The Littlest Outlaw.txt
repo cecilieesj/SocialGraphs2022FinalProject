@@ -1,0 +1,62 @@
+{{Infobox film
+|name            = The Littlest Outlaw
+| image          = The Littlest Outlaw.jpg
+| director       = Roberto Gavaldón
+| starring       = Pedro Armendáriz<br/>Joseph Calleia<br/>Andrés Velázquez
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Buena Vista Distribution]]
+| released       = {{start date|1955|12|22}}
+| runtime        = 73 minutes
+| country        = United States, Mexico
+| language       = English, Spanish
+| gross = $1.6 million 
+|release = [[December 22]], [[1955]]|time = 73 minutes}}
+
+'''''The Littlest Outlaw''''' is a film produced by Walt Disney Productions. It was filmed entirely on location in Mexico in English, with a largely Mexican cast and crew and released by Buena Vista Distribution on [[December 22]], [[1955]]. It was directed by Roberto Gavaldón and written by Larry Lansburgh (story), and Bill Walsh. The film was produced by Larry Lansburgh.
+
+==Synopsis==
+Little Pablito is the ten year old stepson of a cruel horse trainer. The trainer is responsible for training a Mexican General's horse to jump for the grand race. The trainer's methods cause the horse to become afraid of jumping and the general orders the animal's death. Pablito runs away with the horse, becoming a fugitive. He travels throughout [[Mexico]] encountering several fugitives and a priest who tries to help.
+
+==Cast==
+*Pedro Armendáriz as Gen. Torres
+*Joseph Calleia as Padre
+*Rodolfo Acosta as Chato
+*Andrés Velázquez as Pablito
+*Laila Maley as Celita
+*Pepe Ortiz as Himself (matador)
+*Gilberto González as Tiger
+*José Torvay as Vulture
+*Jorge Treviño as Barber
+*José Ángel Espinosa 'Ferrusquilla' as Señor Garcia
+*Enriqueta Zazueta as Señora Garcia
+*Irving Lee as Gypsy (as Señor Lee)
+*Carlos Ortigoza as Doctor
+*Margarito Luna as Silvestre
+*Ricardo Gonzáles as Marcos
+
+==Gallery==
+<gallery widths="185">
+1955-pablito-4.jpg
+1955-pablito-3.jpg
+1955-pablito-2.jpg
+1955-pablito-1.jpg
+Littlest outlaw argentine poster.jpg|Poster from the release in [[Argentina]] in [[1957]]
+LITTLESTOUTLAWHR.jpg|Poster from the release in [[Australia]] in [[1956]]
+Littlest outlaw french poster.jpg|Poster from the release in [[France]] on [[June 14]], 1956
+Littlest outlaw japanese poster.jpg|Poster from the release in [[Japan]] on [[November 23]], 1957
+Littlest outlaw swedish poster.jpg|Poster from the release in [[Sweden]] on [[May 20]], 1957
+Littlest outlaw spain poster.jpg|Poster from the release in [[Spain]] on [[December 20]], [[1957]]
+</gallery>
+
+==Copyright info==
+The film's copyright was renewed on [[March 11]], [[1982]].<ref>[https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First&Search_Arg=RE0000123897&Search_Code=REGS Online Copyright Catalog search (form autofilled, pressing "begin search" brings up the entry)]</ref>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Littlest Outlaw, The}}
+[[Category:Live-action films]]
+[[Category:1955 films]]
+[[Category:Disney films]]
+[[Category:Films]]
+[[Category:Western Films]]

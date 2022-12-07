@@ -1,0 +1,50 @@
+{{Infobox_film
+|image = The Bankers Daughter poster.jpg
+|name = The Banker's Daughter
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]<br>George Winkler
+|editor = [[Ub Iwerks]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Universal Studios|Universal Pictures]]
+|release = [[November 28]], [[1927]]<ref>[https://archive.org/details/motionnew37moti/page/n307 "Comedies and Short Subjects" - Motion Picture News (1928)]</ref>
+|time = 6 mins (unconfirmed)
+|language = English
+|preceded = ''[[The Ocean Hop]]''
+|followed = ''[[Empty Socks]]''}}
+'''''The Banker's Daughter''''' is an [[Oswald the Lucky Rabbit (series)|Oswald the Lucky Rabbit]] short released on [[November 28]], [[1927]]. This is also the debut of [[Ortensia]], known at this point as "Sadie". This is one of several Oswald shorts that are considered "lost". 
+
+The only known elements to exist are the poster sketch, a series of storyboards and a script, which were published in the book ''[[Oswald the Lucky Rabbit: The Search for the Lost Disney Cartoons]]''.
+
+==Characters==
+* [[Oswald the Lucky Rabbit]]
+* [[Ortensia]] (as "Sadie")
+* [[Pete]]
+* [[J. P. Whiskers]] (Ortensia's father and the "Banker" from the title)
+
+==Plot==
+Oswald works for a rich banker as his limousine driver. Unfortunately, he gets fired for flirting with his daughter, Sadie. However, soon afterward, the banker's bank is robbed by [[Pete]]. Oswald eventually stops him and presumably gets his job back.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="185">
+2007.53.3 1000.jpg|Oswald pencil test 1
+385 2.gif|Oswald pencil test 2
+Oswald-storyboard.jpg|Storyboard page
+</gallery>
+
+==Reception==
+In the December 4, 1927 edition of ''Film Daily'', the film was praised as an "animated 'opera' of comics that speaks volumes for the imagination, sense of humor, and drawing ability of the artist." They went on to praise it more: "There is hardly a single scene that doesn't have some droll twist. In this case, the theme is plainly an inoffensive poke at ripe melodramas, with bank robbing, kidnapping of the fair damsel, and a bomb explosion figuring eloquently in the story."<ref>{{Cite book | title = Oswald the Lucky Rabbit: The Search for the Lost Disney Cartoons | author = David A. Bossert | date = August 2017 | isbn = 978-1484780374 | accessdate = April 15, 2019}}
+</ref>
+
+==References==
+<references/>
+
+==External link==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=74 The Banker's Daughter on The Encyclopedia of Disney Animated Shorts.]
+
+{{DEFAULTSORT:Banker's Daughter, The}}
+{{DISPLAYTITLE:''The Banker's Daughter''}}
+[[Category:Animated shorts]]
+[[Category:Oswald the Lucky Rabbit shorts]]
+[[Category:Lost cartoons]]
+[[Category:1927 shorts]]
+[[Category:Pete Shorts]]

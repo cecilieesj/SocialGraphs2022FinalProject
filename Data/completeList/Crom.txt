@@ -1,0 +1,46 @@
+{{Infobox character
+|image = Crom.png
+|name = Crom
+|films = ''[[Tron]]''
+|actor = Peter Jurasik
+|appearance = Blue program uniform with toga accessory
+|occupation = Banking program
+|alignment = Good (presumed)
+|affiliations = Blue programs
+|personality = Pragmatic
+|weapons = Cesta, [[Identity Disc]]
+|quote = "You think you're gonna wipe me right out, don't you?"|status=Derezzed}}
+'''Crom''' is a blue program from the [[1982]] film, ''[[Tron]]'' and a supporting character. He is portrayed by Peter Jurasik.
+
+==Role in the film==
+Originally, Crom worked as a compound interest program for a savings and loan company run by his user Mr. Henderson but was captured by the [[MCP]] and forced to play video games on the Game Grid because of his belief in users. When he was placed in a cell, the first program he speaks his [[Ram]] who tells him about the MCP and the games and they introduced themselves to each other. When heading back to their cells, Flynn ask him about Tron. Crom faced off against [[Kevin Flynn]] in a game of [[w:c:tron:Ring Game|Jai Alai]]. Crom managed to derez some of Flynn's platform rings, but Flynn was unaware that his was a life-or-death situation. Flynn managed to take out two of Crom's rings at once, and Crom fell through the gap, barely hanging onto one of the remaining inner rings. 
+
+When Flynn refused to finish him off, [[Commander Sark]] then proceeded to terminate Crom on the spot by deleting the rings. Crom derezzed as he fell.
+
+==Gallery==
+<gallery position="center" spacing="medium" captionalign="center">
+Tron-disneyscreencaps.com-206.jpg|Crom escorted by a pair of [[Red Guard|Glitch Guards]].
+Tron-disneyscreencaps.com-4549.jpg|Crom and Flynn escorted from their cells.
+tron-disneyscreencaps.com-4608.jpg
+Tron-disneyscreencaps.com-4639.jpg|Flynn and Crom about to play Jai Alai.
+tron-disneyscreencaps.com-4643.jpg
+tron-disneyscreencaps.com-4662.jpg
+tron-disneyscreencaps.com-4815.jpg|Crom glancing up.
+tron-disneyscreencaps.com-4830.jpg
+tron-disneyscreencaps.com-4851.jpg|Crom barely holding on.
+tron-disneyscreencaps.com-4880.jpg|Crom gets terminated by Sark.
+tron-disneyscreencaps.com-4883.jpg|Crom derezzing.
+</gallery>
+
+{{CharacterStub}}
+{{TronWiki}}
+{{Tron}}
+[[Category:Tron characters]]
+[[Category:Disney characters]]
+[[Category:Characters]]
+[[Category:Deceased characters]]
+[[Category:Programs]]
+[[Category:Neutral characters]]
+[[Category:Heroes]]
+[[Category:Live-action characters]]
+[[Category:Males]]

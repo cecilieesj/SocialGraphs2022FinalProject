@@ -1,0 +1,80 @@
+{{Infobox film
+|name = The Light in the Forest
+|image = 1958-lueurforet-1.jpg
+|caption = Theatrical release poster
+|director = Herschel Daugherty
+|producer = [[Walt Disney]]
+|writer = Conrad Richter (novel)<br>Lawrence Edward Watkin
+|narrator =
+|starring = [[Fess Parker]]<br>Wendell Corey<br>Joanne Dru<br>[[James MacArthur]]<br>Jessica Tandy
+|music = [[Paul Smith|Paul J. Smith]]<br>Franklyn Marks (orchestration)
+|cinematography = Ellsworth Fredericks
+|release = [[July 8]], [[1958]]
+|studio= [[Walt Disney Pictures|Walt Disney Productions]]
+|distributor = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+|time = 83 minutes
+|country = [[United States]]
+|language = English
+|imdb_id = 0051864}}
+'''''The Light in the Forest''''' is a [[1958]] film based on a novel of the same name first published in [[1953]] by [[United States|U.S.]] author Conrad Richter. The film was produced by [[Walt Disney Pictures|Walt Disney Productions]] and starred [[Fess Parker]], Joanne Dru, [[James MacArthur]], and Wendell Corey. Though it is a work of fiction and primarily features fictional characters, the novel incorporates several real people and facts from U.S. history.
+
+==Production==
+The film was directed by Herschel Daugherty and starred [[James MacArthur]] as True Son, [[Fess Parker]] as Del Hardy, Wendell Corey as Uncle Wilse, and Jessica Tandy as Myra Butler, True Son’s mother. The film introduced Carol Lynley as Shenandoe.
+
+Its song title was written by Lawrence Edward Watkin, [[Paul Smith|Paul J. Smith]] and his main collaborator, [[Hazel George|Hazel "Gil" George]].
+
+It expands the role of Del Hardy, portrayed by the popular Fess Parker, who remains with the Butler family much longer than in the novel. True Son’s blood brother, Gordon (Gordie) does not appear in the film. The character of Shenandoe, Uncle Wilse’s indentured servant, was added as a love interest for True Son. In the film the antagonism between True Son and Wilse culminates in a fist fight (with True Son the victor) rather than Wilse's scalping.
+
+While the novel ends on a note of uncertainty, with True Son alone on a remote road and unsure where his future lies, the film has him return to his family, to Shenandoe, and, presumably, to a life on a plot of wild land his father has had deeded to him.
+
+==Cast==
+*[[Fess Parker]] as Del Hardy
+*Wendell Corey as Wilse Owens
+*Joanne Dru as Milly Elder
+*[[James MacArthur]] as Johnny Butler/True Son
+*Jessica Tandy as Myra Butler
+*[[John McIntire]] as John Elder
+*Joseph Calleia as Chief Cuyloga
+*Carol Lynley as Shenandoe
+*Rafael Campos as Half Arrow
+*Frank Ferguson as Harry Butler
+*[[Dean Fredericks]] as Niskitoon
+*Marian Seldes as Kate Owens
+*Stephen Bekassy as Col. Henry Bouquet
+*Sam Buffington as George Owens
+
+==Locations==
+It was shot in Lookout Valley, Chattanooga, [[Tennessee]], and [[California]].
+
+==Premiere==
+The film premiered in Harrisburg, [[Pennsylvania]] on [[July 9]], [[1958]]<ref>{{cite book |title= American Film Institute catalog |last=Gevinson |first=Alan |authorlink= |coauthors= |year=1997 |publisher=University of California Press |location= |isbn=0-520-20964-8 |page=594 |url= |accessdate=}}</ref> at ''Senate Theater'' with actor Wendell Corey and his wife and some Mouseketeers like [[Jimmie Dodd]], [[Annette Funicello]], [[Tommy Cole]], and [[Doreen Tracey]].<ref>{{cite book |title=Harrisburg |last=Ries |first=Linda A. |authorlink= |coauthors= |year=2000 |publisher=Arcadia Publishing |location= |isbn=0-7385-0483-1 |page=107 |url= |accessdate=}}</ref>
+
+==Gallery==
+<gallery position="center">
+1958-lueurforet-2.jpg
+1958-lueurforet-3.jpg
+1958-lueurforet-4.jpg
+1958-lueurforet-5.jpg
+Light_in_Forest.jpg
+The light in the forest lobby card 2.jpg
+The light in the forest lobby card.jpg
+Tumblr niggzcdrXx1qhcrb0o1 1280.jpg
+Tumblr_nl2ia3keGo1qiceiuo1_1280.jpg
+</gallery>
+
+==Copyright info==
+The film's copyright was renewed on [[June 12]], [[1986]].<ref>[https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First&Search_Arg=RE0000296292&Search_Code=REGS Online Copyright Catalog search (form autofilled, pressing "begin search" brings up the entry)]</ref> The copyright to the story it is based on was also renewed in the U.S.<ref>[https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First&Search_Arg=RE0000106641&Search_Code=REGS Catalog of Copyright Entries (Source material)]</ref>
+
+==References==
+{{reflist}}
+
+{{Wikipedia|The Light in the Forest (film)}}
+{{DEFAULTSORT:Light in the Forest, The}}
+{{DISPLAYTITLE:''The Light in the Forest''}}
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:1958 films]]
+[[Category:Films based on books]]
+[[Category:Films]]
+[[Category:Western Films]]
+[[Category:Unrated_films]]

@@ -1,0 +1,33 @@
+{{Upcoming|media=character}}
+{{Infobox character
+|image = Elio Solis.jpg
+|films = ''[[Elio (film)|Elio]]'' (upcoming)
+|voice = Yonas Kibreab
+|fullname = Elio Solis
+|occupation = 
+|home = 
+|status = Active
+|parents = Olga Solis (mother)}}
+'''Elio Solis''' is the protagonist from the upcoming [[2024]] [[Walt Disney Pictures|Disney]]/[[Pixar]] animated feature film, ''[[Elio (film)|Elio]]''. An 11-year-old who finds himself transported across the galaxy and is mistaken for the intergalactic ambassador of planet Earth.
+
+==Gallery==
+<gallery position="center">
+Elio first look.jpg|First look concept art
+Elio d23 2.webp
+Elio d23 3.jpg
+Elio d23 4.jpg
+Elio d23 5.jpg
+Elio d23 6.jpg
+Elio d23 7.webp
+Elio d23 8.webp
+Elio d23 9.jpg
+</gallery>
+
+{{CharacterStub}}
+{{Elio}}
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Pixar characters]]
+[[Category:Animated characters]]
+[[Category:Heroes]]
+[[Category:Kids]]

@@ -1,0 +1,25 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Knights
+|director = 
+|producer =
+|writer = Matt Orton<ref name="Announcement" />
+|starring =
+|music =
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time =
+|language = English}}
+'''''Knights''''' is an upcoming family-adventure film, produced by [[Walt Disney Pictures]]. While the film was announced on September 18, 2019, no release date was announced, though it is set to be released theatrically.<ref name="Announcement">[https://deadline.com/2019/09/disney-knights-movie-live-action-matt-orton-operation-finale-1202736804/ Disney In Development On Live-Action Adventure Pic ‘Knights’ With ‘Operation Finale’ Scribe]</ref>
+
+==Plot==
+A headstrong young woman joins forces with a knight in order to destroy a dangerous artefact before it falls into the wrong hands.<ref name="Announcement" />
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+[[Category:Live-action films]]

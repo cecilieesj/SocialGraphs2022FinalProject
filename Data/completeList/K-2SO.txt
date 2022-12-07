@@ -1,0 +1,70 @@
+{{Infobox character
+|image = Profile - K-2SO.png
+|films = ''[[Rogue One]]''
+|shows = ''LEGO Star Wars: All-Stars<br>[[Star Wars: Andor]]'' (upcoming)
+|games = ''Star Wars Galaxy of Heroes<br>[[Star Wars: Force Arena]]<br>[[Disney Tsum Tsum (game)|Disney Tsum Tsum]]<br>[[Disney Emoji Blitz]]''
+|voice = [[Alan Tudyk]]
+|actor = [[Alan Tudyk]] (motion capture)
+|alias = Kaytoo Esso<ref>{{Cite_web|url=http://www.ew.com/gallery/rogue-one-first-look-photos/2644398_k-2so-detail|title=''Rogue One'': 22 New Photos from the 'Star Wars' Film|website=Entertainment Weekly|date=December 3, 2016}}</ref><br>Kay-Tuesso<ref>{{Cite_web|url=http://bookmanager.com/tbm/?q=h.reports.iv&eisbn=jiu6sYIgU6hikaACKYVCLw|title=Star Wars: Rogue One Mini Build|website=Bookmanager|date=December 3, 2016}}</ref><br>Target Practice (by Jyn Erso)
+|occupation = Imperial Enforcer droid (formerly)<br>Cassian Andor's second-in-command<br>Member of Rogue One
+|affiliations = [[Galactic Empire]] (formerly)<br>[[Rebel Alliance]]
+|home = Vulpter
+|likes = His friends, the Rebel Alliance
+|dislikes = Not being able to help 
+|paraphernalia = [[Blaster (Star Wars)|Blaster]]
+|status = Destroyed
+|family = [[Cassian Andor]] † (human companion)}}
+
+{{Quote|The captain says you're a friend. I will not kill you.|K-2SO to Jyn|Rogue One}}
+
+'''K-2SO''' (sometimes spelled '''Kaytoo Esso''' or '''Kay-Tuesso''') is a reprogrammed Imperial Enforcer droid who appears in the ''[[Star Wars]]'' film, ''[[Rogue One]]''. He was originally built to serve in the [[Galactic Empire]]'s armed forces, until at some point got reprogrammed by [[Cassian Andor|Captain Cassian Andor]] to serve the [[Rebel Alliance]].
+
+Along with a band of roguish Alliance operatives, K-2SO goes on a daring mission to steal the plans for the Empire's ultimate weapon, the [[Death Star]].<ref>[http://uk.ign.com/articles/2016/05/17/star-wars-rogue-one-leak-reveals-new-characters-names-vehicles STAR WARS: ROGUE ONE LEAK REVEALS NEW CHARACTERS, NAMES, VEHICLES]</ref>
+
+==Background==
+===Personality===
+Unlike most KX-series droids who are effectively emotionless, K-2SO's reprogramming led to the development of a fully self-aware personality. He is cynical, blunt and does not hold back his opinions, but he is well-meaning and honest. He is also prone to sarcasm and stoic, often mentioning that he has calculated the poor odds of success in any given situation (which [[Cassian Andor]] then refuses to hear). His sarcasm extends to the point where he disobeys minor orders and proves his ability in given missions, as seen on Jedha. K-2SO is fairly independent and frequently disobeys orders he feels are counterproductive, scolding his organic compatriots for ignoring his advice. He genuinely regards Cassian as a friend, and is selfless to the point that he feels no hesitation in sacrificing himself in order to protect him and [[Jyn Erso]] during their mission to steal the [[Death Star]] plans.
+
+===Powers and Abilities===
+====Powers====
+*'''Droid Strength:''' As a droid, K-2SO is physically stronger than most other sentient beings.
+*'''Droid Durability:''' As a droid, K-2SO can take far more damage than most other sentient beings.
+
+====Abilities====
+*'''Master Analyst:'''' Despite not being an analyst droid, K-2SO can estimate if his allies' tactical strategies were 97% or 100% effective. It is likely that he was programmed with this feature by the [[Rebel Alliance]].
+
+==Role in the [[Rogue One|Film]]==
+K-2S0 first appears to rescue [[Jyn Erso]] from an Imperial labor camp on Wobani. He accompanies [[Cassian Andor|Cassian]] and Jyn to find [[Saw Gerrera]] on [[Jedha]], who had been close to Jyn's father [[Galen Erso|Galen]].
+
+On Jedha he is told to stay with the [[U-Wing|ship]], but later reappears to help Jyn and Cassian to fight off [[Stormtroopers]] after Saw Gerrera's henchmen make an attack on an Imperial cargo transport. He later helps them out of Jedha.
+
+On [[Eadu]] he is told to stay with the ship, which he does. He later agrees to accompany Jyn to obtain the [[Death Star]] plans, and on [[Scarif]] imperial base he communicates to Cassian and Jyn the location of the Death Star plans in the control room. Jyn gives him her blaster before attempting to steal the Death Star plans. He tries to fend off attacking Stormtroopers but eventually succumbs due to multiple shots from them.
+
+==Video Games==
+===''[[Star Wars: Force Arena]]''===
+K-2SO is the assist character for [[Cassian Andor]], available as a Unique card.
+
+==Gallery==
+{{Gallerylink}}
+
+==Trivia==
+*K-2SO's name was first revealed in a preview of ''Rogue One: A Star Wars Story: The Official Visual Story Guide'', though the source listed him as both "K-2SO" and incorrectly as "K-250".
+
+==References==
+{{Reflist}}
+{{Star Wars}}
+{{DisneyTsumTsum}}
+[[Category:Droids]]
+[[Category:Live-action characters]]
+[[Category:Galactic Empire characters]]
+[[Category:Rebel Alliance characters]]
+
+[[Category:Heroes]]
+[[Category:Star Wars Anthology characters]]
+[[Category:Characters in video games]]
+[[Category:Those destroyed]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Comic characters]]
+[[Category:Tsum Tsum characters]]
+[[Category:Disney Emoji Blitz]]

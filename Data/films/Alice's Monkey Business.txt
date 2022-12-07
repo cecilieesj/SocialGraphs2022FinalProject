@@ -1,0 +1,22 @@
+{{NeedImage}}
+{{Infobox film
+|name = Alice's Monkey Business
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[September 20]], [[1926]]
+|preceded = ''[[Alice Charms the Fish]]''
+|followed = ''[[Alice in the Wooly West]]''}}
+'''''Alice's Monkey Business''''' is a [[1926]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the ''[[Alice Comedies]]''.
+
+==Summary==
+While hunting for big game, Alice and Julius find themselves brought into the court of the King Lion.
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=42 Alice's Monkey Business] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1926 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Lost cartoons]]

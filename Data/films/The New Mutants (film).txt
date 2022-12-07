@@ -1,0 +1,136 @@
+{{Marvel Database:Film Template
+| Image                   = The New Mutants (film) poster 003.jpg
+| Aliases                 = Growing Pains (working title)
+
+| Directors               = Josh Boone
+| Producers               = Simon Kinberg; Karen Rosenfelt; Lauren Shuler Donner
+| ComicWriters            = [[Chris Claremont]]; [[Bob McLeod]]
+| StoryWriters            = 
+| ScreenplayWriters       = Josh Boone; Knate Lee
+| Musicians               = Mark Snow
+| Cinematographers        = Peter Deming
+| Editors                 = Matthew Dunnell; Robb Sullivan; Andrew Buckland
+| Distributors            = 20th Century Studios
+| ProductionCompanies     = Marvel Entertainment, 20th Century Studios, Genre Films, Sunswept Entertainment
+| Running Time            = 94 minutes
+| Rating                  = '''MPAA:''' Rated PG-13 for violent content, some disturbing/bloody images, some strong language, thematic elements and suggestive material
+| Budget                  = $67-80 million
+| Release Date            = August 26, 2020
+| US Release Date         = August 28, 2020
+
+| AM ID                   = the-new-mutants-v649431
+| Marvel Movies           = The New Mutants
+| X-Men Movies            = The New Mutants
+| IMDB ID                 = 4682266
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[New Mutants (Earth-TRN414)|New Mutants]]}}
+** {{Only|[[Danielle Moonstar (Earth-TRN414)|Dani Moonstar]]}}
+** {{Only|[[Rahne Sinclair (Earth-TRN414)|Rahne Sinclair]]}}
+** {{Only|[[Samuel Guthrie (Earth-TRN414)|Sam Guthrie]]}}
+** {{Only|[[Illyana Rasputin (Earth-TRN414)|Illyana Rasputin]]}}
+** {{Only|[[Roberto Da Costa (Earth-TRN414)|Roberto Da Costa]]}}
+'''Supporting Characters:'''
+* {{Only Dies|[[William Lonestar (Earth-TRN414)|William Lonestar]]}}
+'''Antagonists:'''
+* {{Only|[[Demon Bear (Earth-TRN414)|Demon Bear]]}}
+* {{Last|[[Essex Corporation (Earth-TRN414)|Essex Corporation]]}}
+** {{Only Dies|[[Cecilia Reyes (Earth-TRN414)|Dr. Cecilia Reyes]]}}
+** {{Mentioned|[[Nathaniel Essex (Earth-TRN414)|Reyes' Superior]]}}
+* Smiley Men {{Only}}
+* {{Illusion|[[Craig Sinclair (Earth-TRN414)|Reverend Craig Sinclair]]}} {{Only}}
+'''Other Characters:'''
+* {{Illusion|[[Thomas Guthrie (Earth-TRN414)|Thomas Guthrie]]}} {{Only}}
+* {{Mentioned|[[Emmanuel Da Costa (Earth-TRN414)|Emmanuel Da Costa]]}}
+* {{Mentioned|[[X-Men (Earth-TRN414)|X-Men]]}}
+** {{Mentioned|[[Charles Xavier (Earth-TRN414)|Professor X (Charles Xavier)]]}}
+* {{Illusion|[[Juliana Sandoval (Earth-TRN414)|Juliana Sandoval]]}} {{Only}}
+* {{Only|[[Lockheed (Earth-TRN414)|Lockheed]]}}
+'''Races and Species:'''
+* {{a|[[Mutants (Homo superior)|Mutants]]}}
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{Illusion|[[Demons]]}}
+'''Locations:'''
+* {{Last|[[Earth-TRN414]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[Colorado (State)|Colorado]]}}
+***** {{a|[[Boulder (Colorado)|Boulder]]}}
+**** {{a|[[Nebraska (State)|Nebraska]]}}
+***** {{Only|[[State Home for Foundlings|Milbury Hospital]]}}
+** {{a|[[Limbo (Otherplace)|Limbo]]}}
+'''Items:'''
+* {{Only|[[Lockheed (Doll)|Lockheed]]}}
+* {{Only|[[Soulsword]]}}
+<!-- '''Vehicles:'''
+* <br/> -->
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Maisie Williams|Maisie Williams]] as [[Rahne Sinclair (Earth-TRN414)|Rahne Sinclair]]<ref name="Magik and Wolfsbane">{{cite web|url=http://www.hollywoodreporter.com/heat-vision/x-men-new-mutants-movie-casts-anya-taylor-joy-maisie-williams-1002743|title=Anya Taylor-Joy, Maisie Williams Set to Star in 'X-Men' Spinoff 'New Mutants' (Exclusive)|last=Kit|first=Borys|work=The Hollywood Reporter|date=11 May 2017|accessdate=11 May 2017}}</ref>
+** Rahne's wolf form is portrayed by Chuck
+* [[wikipedia:Anya Taylor-Joy|Anya Taylor-Joy]] as [[Illyana Rasputin (Earth-TRN414)|Illyana Rasputin]]<ref name="Magik and Wolfsbane"/>
+** Colbi Gannett as Young Illyana Rasputin
+* [[wikipedia:Charlie Heaton|Charlie Heaton]] as [[Samuel Guthrie (Earth-TRN414)|Sam Guthrie]]<ref name="Cannonball">{{cite web|url=http://www.tracking-board.com/stranger-things-star-charlie-heaton-to-play-cannonball-in-new-mutants/|title=“Stranger Things” Star Charlie Heaton to Play Cannonball in “New Mutants”|last=Sneider|first=Jeff|work=Tracking Board|date=31 May 2017|accessdate=01 June 2017}}</ref><ref name="Moonstar">{{cite web|url=http://www.hollywoodreporter.com/heat-vision/foxs-new-mutants-casts-newcomer-blu-hunt-danielle-moonstar-role-1009703|title=Fox's 'New Mutants' Casts Newcomer Blu Hunt In Danielle Moonstar Role (Exclusive)|last=Kit|first=Borys|work=The Hollywood Reporter|date=2 June 2016|accessdate=2 June 2016}}</ref>
+* [[wikipedia:Alice Braga|Alice Braga]] as [[Cecilia Reyes (Earth-TRN414)|Dr. Cecilia Reyes]]<ref>{{cite web|url=http://www.hollywoodreporter.com/heat-vision/alice-braga-joins-new-mutants-as-rosario-dawson-exits-1017960|title=Alice Braga Joins 'New Mutants' as Rosario Dawson Exits (Exclusive)|last=Kit|first=Borys|work=The Hollywood Reporter|date=29 June 2017|accessdate=29 June 2017}}</ref>
+* [[wikipedia:Blu Hunt|Blu Hunt]] as [[Danielle Moonstar (Earth-TRN414)|Dani Moonstar]]<ref name="Moonstar"/>
+* [[wikipedia:Henry Zaga|Henry Zaga]] as [[Roberto Da Costa (Earth-TRN414)|Roberto Da Costa]]<ref name="Cannonball"/>
+* [[wikipedia:Adam Beach|Adam Beach]] as [[William Lonestar (Earth-TRN414)|William Lonestar]]
+
+Additionally, Thomas Kee portrays Sam's father, [[Thomas Guthrie (Earth-TRN414)|Thomas]]. [[wikipedia:Happy Anderson|Happy Anderson]] appears as [[Craig Sinclair (Earth-TRN414)|Reverend Craig Sinclair]]. Dustin Ceithamer physically portrays the [[Smiley Man (Earth-TRN414)|Smiling Men]], while singer [[wikipedia:Marilyn Manson|Marilyn Manson]] provides their voice. Jacinto "Spirit Wolf" Vega appears as a frozen Cheyenne.
+
+| Notes                   = * This film has had multiple delays for its US release date:
+** 20th Century Fox originally announced the April 13, 2018 release date for this film in April 2017, alongside dates for the films ''[[Deadpool 2]]'' and ''[[Dark Phoenix (film)|Dark Phoenix]]''.<ref>{{cite web|url=http://www.hollywoodreporter.com/news/deadpool-2-lands-june-2018-release-date-theaters-996562|title='Deadpool 2' Lands June 2018 Release Date|last=McClintock|first=Pamela|work=The Hollywood Reporter|date=22 April 2017|accessdate=22 April 2017}}</ref>
+** On January 11, 2018, the release date was pushed back to February 22, 2019.<ref>{{cite web|url= https://www.hollywoodreporter.com/heat-vision/deadpool-2-gambit-new-mutants-get-new-release-dates-1073560|title= 'X-Men' Shake-Up: 'Deadpool 2,' 'Gambit,' 'The New Mutants' Get New Dates (Exclusive)|work= THR|last= Parker|first= Ryan|coauthors= Kit, Borys|date= 2018-01-11|accessdate= 2018-01-11}}</ref>
+** On March 26, 2018, the release date was pushed back to August 2, 2019.<ref>{{cite web|url= http://deadline.com/2018/03/20th-century-fox-release-dates-bohemian-rhapsody-dark-phoenix-the-new-mutants-1202353890/|title= 20th Century Fox Shuffles Release Dates For ‘Bohemian Rhapsody’, ‘Dark Phoenix’ & More|work= Deadline|last= Ramos|first= Dino-Ray|date= March 26 2018|accessdate= March 27 2018}}</ref>
+** On May 7, 2019, the release date was pushed back to April 3, 2020.<ref>{{cite web|url= https://www.hollywoodreporter.com/heat-vision/three-new-star-wars-films-get-release-dates-disney-1208352|title= Three New 'Star Wars' Films Get Release Dates In Disney Schedule Reset|work= THR|last=  Galuppo|first= Mia|coauthors= Couch, Aaron|date= May 7, 2019|accessdate= May 7, 2019}}</ref>
+** On March 12, 2020, the release date was pushed back due to the [[wikipedia:2019–20 coronavirus pandemic|COVID-19 pandemic]].<ref>{{cite web|url= https://www.hollywoodreporter.com/heat-vision/mulan-release-pushed-back-coronavirus-pandemic-1284275|title= 'Mulan' Release Pushed Back Amid Coronavirus Pandemic|work= THR|last= Galuppo|first= Mia|date= March 12, 2020|accessdate= March 13, 2020}}</ref> On May 13, 2020, a new and final release date of August 28, 2020 was announced.<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/new-mutants-finally-lands-new-august-2020-release-date-1294452|title='New Mutants' Finally Lands New August 2020 Release Date|author=McClintock, Pamela and Aaron Couch|work=The Hollywood Reporter|date=May 13, 2020|accessdate=May 13, 2020}}</ref>
+* On September 16, 2017, director Josh Boone announced that the principal photography had wrapped for this film.<ref>{{cite web|url= http://screenrant.com/new-mutants-wraps-filming/|title= New Mutants Director & Stars Wrap Principal Photography|work= Screen Rant|last= Welch|first= Alex|date= 2017-09-16|accessdate= 2017-10-15}}</ref>
+| Trivia                  = * [[wikipedia:Rosario Dawson|Rosario Dawson]], who portrayed [[Claire Temple (Earth-199999)|Claire Temple]] in the [[Earth-199999|Marvel Cinematic Universe]], was originally reported to be in talks for the role of Dr. Cecilia Reyes.<ref>{{cite web|url=http://www.hollywoodreporter.com/heat-vision/x-men-spinoff-new-mutants-cast-rosario-dawson-talks-star-1003192|title=Rosario Dawson in Talks to Star in X-Men Spinoff 'New Mutants'|last=Kit|first=Borys|work=The Hollywood Reporter|date=25 May 2017|accessdate=01 June 2017}}</ref>
+* [[wikipedia:Jon Hamm|Jon Hamm]] was originally planned to make a brief appearance in the film as [[Nathaniel Essex (Earth-TRN414)|Mister Sinister]], but said plans were scrapped in favor of introducing the character in the now canceled film ''Gambit'',<ref>{{cite web|url= https://www.ign.com/articles/x-men-mister-sinister-gambit-movie-villain-channing-tatum-fox|title= X-Men: Mister Sinister Was Supposed to Debut in Channing Tatum's Gambit Movie|work= IGN|last= Schedeen|first= Jesse|date= May 27, 2020|accessdate= August 19, 2020}}</ref> with the role and scene subsequently replaced by [[wikipedia:Antonio Banderas|Antonio Banderas]] portraying a different villain.<ref name="Drama">{{cite web|url=http://www.tracking-board.com/inside-the-drama-surrounding-foxs-new-mutants-including-a-top-secret-new-cast-member-exclusive/|title=Inside the Drama Surrounding Fox's "New Mutants," Including a Top Secret New Cast Member (Exclusive)|last=Sneider|first=Jeff|work=The Tracking Board|date=30 March 2018|accessdate=31 March 2018}}</ref>
+** Said role for Banderas, as [[Emmanuel Da Costa (Earth-TRN414)|Emmanuel Da Costa]], was planned to be introduced in a post-credits scene setting up a planned sequel, which would've been the second in a planned trilogy of films. These plans were scrapped due to Disney's acquisition of the X-Men film rights.<ref name="Trilogy">{{cite web|url= https://ew.com/movies/the-new-mutants-sequel-antonio-banderas/|title= Exclusive: The New Mutants sequel would've starred Antonio Banderas|work= EW.com|last= Romano|first= Nick|date= March 11, 2020|accessdate= August 18, 2020}}</ref><ref name="Merger">{{cite web|url= https://theplaylist.net/josh-boone-new-mutants-interview-20200820/|title= Josh Boone Details How Fox-Disney Merger Affected ‘The New Mutants’ & How Movies Are “An Essential Service” [Interview]|work= The Playlist|last= Shaffer|first= Marshall|date= August 20, 2020|accessdate= February 2, 2021}}</ref>
+* [[Warlock]] was featured in early drafts of the film's script, but was scrapped due to being deemed too expensive for the film by Fox.<ref name="Drama"/>
+* This film marks the last one in the ''X-Men'' film property made by 20th Century Fox, with the property returning to Marvel Studios following Disney's acquisition of Fox in March 2019.
+* According to the co-writer and director Josh Boone, this film was planned to be the first in a trilogy of films.<ref name="Trilogy"/> The second film would've introduced [[Karma]], Warlock, and Antonio Banderas portraying Emmanuel Da Costa as a member of the [[Hellfire Club]]. While the third film would've introduced Darkchilde, and been a crossover with the main ''X-Men'' films, adapting the ''[[Inferno (Event)|Inferno]]'' storyline.<ref>{{cite web|url= https://collider.com/the-new-mutants-sequel-trilogy-plans-details-josh-boone/|title= ‘The New Mutants’ Director Wants His Trilogy to Conclude with an ‘Inferno’ Adaptation|work= Collider|last= Chitwood|first= Adam|date= July 23, 2020|accessdate= February 2, 2021}}</ref><ref>{{cite web|url= https://www.comicbookmovie.com/x-men/new_mutants/new-mutants-3-wouldve-introduced-darkchilde-crossed-over-with-the-main-x-men-films-exclusive-a177671|title= NEW MUTANTS 3 Would've Introduced Darkchilde & Crossed Over With The Main X-MEN Films - EXCLUSIVE|work= ComicBookMovie.com|author= KingPatel|date= August 19, 2020|accessdate= February 2, 2020}}</ref> According to Boone, after the Disney acquisition, any scenes that were setting it up got cut during post-production.<ref name="Merger"/>
+
+==Gallery==
+===Alternate Posters===
+<gallery>
+The New Mutants (film) poster 002.jpg
+The New Mutants (film) poster 001.jpg
+The New Mutants (film) poster 004.jpg
+The New Mutants (film) poster 005.jpg
+The New Mutants (film) poster 006.jpg
+The New Mutants (film) poster 007.jpg
+The New Mutants (film) poster 008.jpg
+The New Mutants (film) poster 009.jpg
+The New Mutants (film) poster 005 textless.jpg
+The New Mutants (film) poster 006 textless.jpg
+The New Mutants (film) poster 007 textless.jpg
+The New Mutants (film) poster 008 textless.jpg
+The New Mutants (film) poster 009 textless.jpg
+The New Mutants (film) poster 003 textless.jpg
+The New Mutants (film) poster 010 textless.jpg
+The New Mutants (film) poster 011 textless.jpg
+The New Mutants (film) poster 012 textless.jpg
+The New Mutants (film) poster 013 textless.jpg
+The New Mutants (film) poster 014 textless.jpg
+The New Mutants (film) poster 015 textless.jpg
+</gallery>
+===Videos===
+====Trailers====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+The New Mutants Official Trailer HD 20th Century FOX
+The New Mutants Official Trailer 20th Century FOX
+The New Mutants Coming to Comic Con At Home July 23 at 2pm
+</gallery>
+| Links                   = *[[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[es:The New Mutants (película)]]
+[[ru:Новые мутанты (фильм)]]
+[[pl:Nowi Mutanci (film)]]
+[[Category:20th Century Fox]]

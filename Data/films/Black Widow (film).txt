@@ -1,0 +1,197 @@
+{{Marvel Database:Film Template
+| Image                   = Black Widow (film) poster 019.jpg
+| Aliases                 = Blue Bayou (working title)
+
+| Directors               = Cate Shortland
+| Producers               = Kevin Feige
+| ComicWriters            = [[Stan Lee]]; [[Don Rico]]; [[Don Heck]]
+| ScreenplayWriters       = Eric Pearson
+| StoryWriters            = Jac Schaeffer; Ned Benson
+| Musicians               = Lorne Balfe
+| Cinematographers        = Gabriel Beristain
+| Editors                 = Leigh Folsom Boyd; Matthew Schmidt
+| ProductionCompanies     = Marvel Studios
+| Distributors            = Walt Disney Studios Motion Pictures
+| Running Time            = 134 minutes
+| Rating                  = '''MPAA:''' Rated PG-13 for intense sequences of violence/action, some language and thematic material
+| Budget                  = $200 million
+| Release Date            = July 7, 2021
+| US Release Date         = July 9, 2021
+
+| AM ID                   = black-widow-v720012
+| Marvel Movies           = Black Widow (film)
+| IMDB ID                 = 3480822
+| MCU                     = Black Widow (film)
+
+| Previous Film           = Avengers: Endgame
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Natalia Romanoff (Earth-199999)|Black Widow (Natasha Romanoff)]]|Captain America: Civil War|Marvel's Avengers: Infinity War Prelude Vol 1 1}} {{Flashback}}
+'''Supporting Characters:'''
+* {{apn|[[Yelena Belova (Earth-199999)|Black Widow (Yelena Belova)]]|-|Hawkeye (TV series) Season 1 4}} {{1st}}
+* {{1st|[[Melina Vostokoff (Earth-199999)|Melina Vostokoff]]}} {{Flashback}}
+* {{1st|[[Alexei Shostakov (Earth-199999)|Red Guardian (Alexei Shostakov)]]}}
+* {{1st|[[Rick Mason (Earth-199999)|Rick Mason]]}}
+'''Antagonists:'''
+* {{apn|[[Thaddeus Ross (Earth-199999)|Secretary Thaddeus Ross]]|Captain America: Civil War|Avengers: Infinity War}}
+* {{a|[[Red Room (Earth-199999)|Red Room Program]]}}
+** {{Only Dies|[[General Dreykov (Earth-199999)|General Dreykov]]}}
+** {{1st|[[Antonia Dreykov (Earth-199999)|Taskmaster (Antonia Dreykov)]]}}
+** [[Black Widow]]s
+*** {{Only Dies|[[Black Widow (Oksana) (Earth-199999)|Black Widow (Oksana)]]}}
+*** {{Only Dies|[[Black Widow (Ingrid) (Earth-199999)|Black Widow (Ingrid)]]}}
+*** {{1st|[[Black Widow (Lerato) (Earth-199999)|Black Widow (Lerato)]]}}
+*** {{apn|[[Black Widow (Helen) (Earth-199999)|Black Widow (Helen)]]|-|Shang-Chi and the Legend of the Ten Rings}} {{1st}}
+*** Numerous unnamed members
+'''Other Characters:'''
+* {{a|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]]}}
+* {{Mentioned|[[Avengers (Earth-199999)|Avengers]]}}
+** {{Mentioned|[[Samuel Wilson (Earth-199999)|Sam Wilson]]}}
+** {{Mentioned|[[Scott Lang (Earth-199999)|Ant-Man (Scott Lang)]]}}
+** {{Voice|[[Clinton Barton (Earth-199999)|Hawkeye (Clint Barton)]]}}
+** {{Mentioned|[[Steven Rogers (Earth-199999)|Captain America (Steve Rogers)]]}}
+** {{Mentioned|[[Anthony Stark (Earth-199999)|Tony Stark]]}}
+** {{Mentioned|[[Thor Odinson (Earth-199999)|Thor]]}}
+* {{Mentioned|[[T'Challa (Earth-199999)|King T'Challa]]}}
+* Natasha's mother {{Mentioned}}
+* {{a|[[Mikhail Ursus (Earth-199999)|Ursa]]}}
+* {{Mentioned|[[Hydra (Earth-199999)|Hydra]]}}
+* {{Mentioned|[[Winter Soldiers (Earth-199999)|Winter Soldier Program]]}}
+* Alexei <small>(pig)</small> {{1st}}
+* {{Mentioned|[[North Institute (Earth-199999)|North Institute]]}}
+* Fanny <small>(dog)</small> {{1st}}
+* {{apn|[[Valentina Allegra de Fontaine (Earth-199999)|Valentina Allegra de Fontaine]]|-|The Falcon and The Winter Soldier Season 1 5}} {{1stChron}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Pigs]]}}
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[Ohio (State)|Ohio]]}}
+***** {{OnScreenOnly|[[North Institute (Location)|North Institute]]}} {{Destroyed}}
+*** {{a|[[Cuba]]}}
+*** {{a|[[Norway]]}}
+*** {{a|[[Morocco]]}}
+*** {{a|[[Hungary]]}}
+**** {{a|[[Budapest]]}}
+*** {{a|[[Russia]]}}
+**** {{a|[[Siberia]]}}
+**** {{Mentioned|[[Saint Petersburg (Russia)|Saint Petersburg]]}}
+**** {{Destruction|[[Red Room Academy (Moscow)|Red Room Academy]]}}
+'''Items:'''
+* {{Mentioned|[[Sokovia Accords]]}}
+* {{a|[[Black Widow's Batons]]}}
+* {{a|[[Black Widow's Gauntlets]]}}
+* {{OnScreenOnly|[[Panther Habit]]}}
+* {{OnScreenOnly|[[Hawkeye's Suit]]}}
+* {{OnScreenOnly|[[Hawkeye's Bow]]}}
+* Taskmaster's Shield
+* Taskmaster's Bow and Arrow
+* The Antidote
+* {{a|[[Photostatic Veil]]}}
+'''Vehicles:'''
+* {{WP|Mil Mi-8|Mi-8 Helicopter}}
+* {{a|[[Quinjet]]}}
+
+| Plot                    = Following the events of ''[[Captain America: Civil War]]'', Natasha Romanoff finds herself alone and forced to confront a dangerous conspiracy with ties to her past. Pursued by a force that will stop at nothing to bring her down, Romanoff must deal with her history as a spy and the broken relationships left in her wake long before she became an [[Avengers (Earth-199999)|Avenger]].<ref>{{Cite web |url=https://comicbook.com/marvel/2020/01/14/marvel-black-widow-movie-synopsis-story-details/ |title=Marvel Releases New Black Widow Synopsis |last=Outlaw |first=Kofi |date=January 14, 2020 |website=ComicBook.com |url-status=live |archive-url=https://web.archive.org/web/20200115170045/https://comicbook.com/marvel/2020/01/14/marvel-black-widow-movie-synopsis-story-details/ |archive-date=February 11, 2020 |access-date=February 11, 2020}}</ref>
+
+| Cast                    = * [[Wikipedia:Scarlett Johansson|Scarlett Johansson]] as [[Natalia Romanoff (Earth-199999)|Black Widow / Natasha Romanoff]]<ref name="SDCC 2019">{{cite web|url=https://www.marvel.com/articles/movies/sdcc-2019-all-of-the-marvel-studios-news-coming-out-of-hall-h-at-san-diego-comic-con|title=SDCC 2019: All of the Marvel Studios News Coming Out of Hall H at San Diego Comic-Con|author=Marvel|work=Marvel.com|date=July 20, 2019|accessdate=July 21, 2019}}</ref>
+** Ever Anderson portrays a younger Natasha{{r|{{cite web|url=https://variety.com/2020/film/news/disney-live-action-peter-pan-peter-wendy-1203529492/|title=Disney’s Live-Action ‘Peter Pan’ Movie Finds Its Wendy and Peter (EXCLUSIVE)|last=Kroll|first=Justin|work=Variety|date=March 10, 2020|accessdate=March 11, 2020}}}}
+* [[Wikipedia:Florence Pugh|Florence Pugh]] as [[Yelena Belova (Earth-199999)|Yelena Belova]]<ref name="SDCC 2019"/>
+** Violet McGraw as Young Yelena Belova{{r|{{cite web|url=http://www.beautifulballad.org/2021/01/27/exclusive-violet-mcgraw-talks-her-new-film-our-friend-and-her-role-in-black-widow/|title=Exclusive: Violet McGraw Talks her New Film, Our Friend and her Role in Black Widow!|work=Beautiful Ballad|author=MC|date=January 27, 2021|accessdate=June 2, 2021}}}}
+* [[Wikipedia:David Harbour|David Harbour]] as [[Alexei Shostakov (Earth-199999)|Red Guardian / Alexei Shostakov]]<ref name="SDCC 2019"/>
+* [[Wikipedia:O. T. Fagbenle|O-T Fagbenle]] as [[Rick Mason (Earth-199999)|Rick Mason]]<ref name="SDCC 2019"/>
+* [[Wikipedia:Rachel Weisz|Rachel Weisz]] as [[Melina Vostokoff (Earth-199999)|Melina Vostokoff]]<ref name="SDCC 2019"/>
+* [[Wikipedia:William Hurt|William Hurt]] as [[Thaddeus Ross (Earth-199999)|Thaddeus Ross]]
+* [[wikipedia:Olga Kurylenko|Olga Kurylenko]] as [[Antonia Dreykov (Earth-199999)|Taskmaster]]<ref name="SDCC 2019"/>{{r|{{cite web|url=https://thedirect.com/article/black-widow-scarlett-johansson-olga-kurylenko-exclusive|title=Black Widow: Olga Kurylenko To Appear In Scarlett Johansson-Led Marvel Film (Exclusive)|name=Nebens|first=Richard|work=The Direct|date=April 2, 2021|accessdate=April 3, 2021}}}}
+* [[wikipedia:Ray Winstone|Ray Winstone]] as [[General Dreykov (Earth-199999)|General Dreykov]]{{r|{{cite web|url=https://variety.com/2019/film/news/black-widow-marvel-ray-winstone-1203249397/|title=Ray Winstone Joins Marvel's 'Black Widow' (EXCLUSIVE)|last=Kroll|first=Justin|work=Variety|date=June, 20 2019|accessdate=July 20, 2019}}}}{{r|{{cite web|url=https://www.digitalspy.com/movies/a31910083/black-widow-ray-winstone-dreykov/|title=Black Widow reveals Ray Winstone's key role|last=Edwards|first=Chris|work=Digital Spy|date=March 24, 2020|accessdate=April 1, 2020}}}}
+* [[wikipedia:Olivier Richters|Olivier Richters]] as [[Mikhail Ursus (Earth-199999)|Ursa / Mikhail Ursus]]{{r|{{cite web|url=https://www.instagram.com/p/B1Ed9YGl9MK/|title=MARVEL 🤩!!!|name=Richters|first=Olivier|work=Instagram|date=August 12, 2019|accessdate=April 1, 2020}}}}
+
+Additionally, [[wikipedia:Julia Louis-Dreyfus|Julia Louis-Dreyfus]] makes an uncredited appearance as [[Valentina Allegra de Fontaine (Earth-199999)|Valentina Allegra de Fontaine]] in the film's post-credits scene, a role originally intended to debut in this film, before in the Disney+ series {{sl|The Falcon and The Winter Soldier}}.<ref>{{cite web|url=https://www.vanityfair.com/hollywood/2021/04/julia-louis-dreyfus-marvel-villain-character-contessa-valentina-allegra-de-fontaine|title=Marvel Has Big Plans for That Surprise Falcon and the Winter Soldier Cameo|last= Robinson|first=Joanna|work=Vanity Fair|date=April 16, 2021|accessdate=April 16, 2021}}</ref>
+
+| Notes                   = * This film has had multiple changes to its US release date due to the [[wikipedia:COVID-19 pandemic|COVID-19 pandemic]]:
+** Originally slated to be released on May 1, 2020 in the US, the release was pulled on March 17, 2020.{{r|{{cite web|url= https://variety.com/2020/film/box-office/black-widow-release-coronavirus-1203532996/|title= ‘Black Widow’ Release Pulled Amid Coronavirus Pandemic|work= Variety|last= Rubin|first= Rebecca|date= March 17, 2020|accessdate= March 17, 2020}}}} On April 3, 2020, it was announced that the release date for this film had been pushed to November 6, 2020.{{r|{{cite web|url= https://variety.com/2020/film/box-office/disney-mulan-black-widow-release-dates-coronavirus-1203550173/|title= ‘Black Widow,’ ‘Eternals,’ ‘Indiana Jones 5’ and More Disney Films Get New Release Dates|work= Variety|last= Rubin|first= Rebecca|date= April 3, 2020|accessdate= April 3, 2020}}}} 
+** In September 2020, the film was pushed back again to May 7, 2021.<ref>{{cite web|url=https://variety.com/2020/film/news/black-widow-west-side-story-eternals-release-date-delay-1234773491/|title=‘Black Widow,’ ‘West Side Story,’ ‘Eternals’ Postpone Release Dates|accessdate=September 24, 2020|last=Lang|first=Brent|coauthors=Rubin, Rebecca|date=September 23, 2020|work=Variety}}</ref>
+** In March 2021, the film was pushed back for a third time to July 9, 2021, releasing in theaters and on Disney+ with Premier Access on the same day.<ref name="Twitter">[https://twitter.com/MarvelStudios/status/1374429041877389320 Black Widow in theaters July 9, 2021]</ref>
+* This was originally intended to be the Marvel Studios property that launched Phase 4 of their [[Earth-199999|cinematic universe]]. However, due to the film's release date delays, the Disney+ series ''[[WandaVision]]'' began Phase 4 instead, with ''Black Widow'' instead being slated as the first film of Phase 4.
+
+==Gallery==
+===Alternate Posters===
+<gallery>
+Black Widow (film) Logo.jpg
+Black Widow (film) poster 019 textless.jpg
+Black Widow (film) poster 001.jpg
+Black Widow (film) poster 001 textless.jpg
+Black Widow (film) poster 002.jpg
+Black Widow (film) poster 003.jpg
+Black Widow (film) poster 004.jpg
+Black Widow (film) poster 004 textless.jpg
+Black Widow (film) poster 005.jpg
+Black Widow (film) poster 005 textless.jpg
+Black Widow (film) poster 006.jpg
+Black Widow (film) poster 006 textless.jpg
+Black Widow (film) poster 007.jpg
+Black Widow (film) poster 007 textless.jpg
+Black Widow (film) poster 008.jpg
+Black Widow (film) poster 008 textless.jpg
+Black Widow (film) poster 009.jpg
+Black Widow (film) poster 010.jpg
+Black Widow (film) poster 011.jpg
+Black Widow (film) poster 011 textless.jpg
+Black Widow (film) poster 012.jpg
+Black Widow (film) poster 012 textless.jpg
+Black Widow (film) poster 013.jpg
+Black Widow (film) poster 013 textless.jpg
+Black Widow (film) poster 014.jpg
+Black Widow (film) poster 014 textless.jpg
+Black Widow (film) poster 015.jpg
+Black Widow (film) poster 015 textless.jpg
+Black Widow (film) poster 016.jpg
+Black Widow (film) poster 016 textless.jpg
+Black Widow (film) poster 017.jpg
+Black Widow (film) poster 017 textless.jpg
+Black Widow (film) poster 018.jpg
+Black Widow (film) poster 018 textless.jpg
+Black Widow (film) poster 020.jpg
+Black Widow (film) poster 021.png
+Black Widow (film) poster 022.jpg
+Black Widow (film) poster 022 textless.jpg
+Black Widow (film) poster 023.jpg
+Black Widow (film) poster 023 textless.jpg
+Black Widow (film) poster 024.jpg
+</gallery>
+
+===Videos===
+====Trailers====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios' Black Widow - Official Teaser Trailer-2
+Marvel Studios' Black Widow - Special Look
+Marvel Studios' Black Widow - Final Trailer
+Marvel Studios’ Black Widow - New Trailer
+Marvel Studios Celebrates The Movies
+Playmaker - Marvel Studios’ Black Widow
+Marvel Studios' Black Widow - Big Game Spot
+Let’s Go - Marvel Studios’ Black Widow
+Tickets and Pre-Orders Now Available - Marvel Studios’ Black Widow
+</gallery>
+====Featurettes====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios' Black Widow - Legacy Featurette
+National Super Hero Day - Marvel Studios’ Black Widow
+Ready Set Action Featurette - Marvel Studios’ Black Widow
+</gallery>
+====Clips====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+"You Got A Plan?" Clip - Marvel Studios' Black Widow
+</gallery>
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}
+[[es:Black Widow (película)]]
+[[it:Black Widow (film)]]
+[[ru:Чёрная вдова (фильм)]]
+[[tr:Black Widow (film)]]
+[[pl:Czarna Wdowa (2020)]]

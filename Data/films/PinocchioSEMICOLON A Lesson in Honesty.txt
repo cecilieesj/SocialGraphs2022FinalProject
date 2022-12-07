@@ -1,0 +1,31 @@
+{{Infobox film
+|name = Pinocchio: A Lesson in Honesty
+|image = File:Illustration-Pinocchio-A-Lesson-In-Honesty-01.png
+|caption = 
+|director = Philip Abbott
+|producer = Philip Abbott<br>JC Alexander
+|music = 
+|cinematography =  
+|studio = Walt Disney Productions
+|distributor = Walt Disney Educational Media Company
+|release = September [[1978]]
+|time = 8 minutes
+|language = English}}
+'''''Pinocchio: A Lesson in Honesty''''' is a [[1978]] Disney educational live-action/animated short, part of the ''Disney's Animated Classics: Lessons in Living'' series. The short features clips from ''[[Pinocchio (film)|Pinocchio]]''.
+
+==Synopsis==
+A boy who plays hooky from school learns that lies only increase a problem.
+
+==Gallery==
+<gallery position="center" spacing="small">
+Illustration-Pinocchio-A-Lesson-In-Honesty-02.png
+Illustration-Pinocchio-A-Lesson-In-Honesty-03.png
+Illustration-Pinocchio-A-Lesson-In-Honesty-04.png
+Illustration-Pinocchio-A-Lesson-In-Honesty-05.png
+Illustration-Pinocchio-A-Lesson-In-Honesty-06.png
+</gallery>
+{{Pinocchio}}
+[[Category:Educational films]]
+[[Category:1978 films]]
+[[Category:Pinocchio]]
+[[Category:Disney Educational Productions]]

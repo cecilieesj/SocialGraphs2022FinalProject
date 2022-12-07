@@ -1,0 +1,30 @@
+{{Infobox film
+|image = 1943-water-1.jpg
+|imagewidth = 250px
+|name = Water, Friend or Enemy
+|director = [[Clyde Geronimi]]
+|producer = [[Walt Disney]]
+|writer = 
+|studio = [[Walt Disney Productions]]
+|distributor = Coordinator of Inter-American Affairs
+|release = [[May 1]], [[1943]]
+|language = English
+|time = 11 minutes
+}}
+'''''Water, Friend or Enemy''''' is a [[1943]] Disney animated short film. It is a non-theatrical governmental short produced for the Coordinator of Inter-American Affairs.
+
+==Synopsis==
+This educational propaganda short instructed the Latin America audience on how to prevent contamination of the water supply. Steps were shown on how to construct well housings to prevent seepage of tainted water into the deep wells. To show the path of the germs, the pure blue water turned red as it was contaminated, and this red was, in turn, transmitted to the well bucket, the rope, and then to the hands and bodies of the natives. To show how to kill these germs, a closeup of a teakettle revealed a red skull, which dissolved away as the water boiled.
+
+==Gallery==
+<gallery>
+1943-water-2.jpg
+1943-water-3.jpg
+</gallery>
+
+==Trivia==
+*This short was not as effective as it should have been due to some concepts being "lost in translation." The "red" color of the water to signify death should have been the color "black" instead. The color "red" in the Latin mind signified life and joy. Also the problems of contaminated water was more due to no toilets at all rather than where to place them- the film should have addressed how to build toilets.
+
+[[Category:1943 shorts]]
+[[Category:Animated shorts]]
+[[Category:Educational films]]

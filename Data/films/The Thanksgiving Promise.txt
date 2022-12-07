@@ -1,0 +1,70 @@
+{{Episode
+| series     = [[Walt Disney anthology series|The Disney Sunday Movie]]
+| title      = The Thanksgiving Promise
+| season     = 31
+| number     = 8
+| image      = 1986-singuliere-promesse-01.jpg
+| caption    = 
+| production = 
+| airdate    = [[November 23]], [[1986]]
+| writer     = Glenn L. Anderson<br>Craig Holyoak<br>Peter N. Johnson<br>Blaine Yorgason	 (teleplay)<br>Blaine Yorgason<br>Brenton Yorgason (novel: "The Thanksgiving Promise")
+| director   = [[Beau Bridges]]
+| storyboard = 
+| ws         = 
+| story      =
+| previous   = "[[The Leftovers]]"
+| next       = "[[Sunday Drive]]"}}
+"'''The Thanksgiving Promise'''" is a television-made drama movie, was originally aired on '''The Disney Sunday Movie''' on '''ABC''' on Sunday Night, [[November 23]], [[1986]].
+
+==Synopsis==
+A teenage boy is torn between his love for an injured Canadian goose that he has found and his agreement to fatten and kill it for an approaching Thanksgiving dinner for his neighbors.
+
+==Cast==
+* [[Beau Bridges]]...Hank Tilby
+* Millie Perkins...Lois Tilby
+* [[Courtney Thorne-Smith]]...Sheryl
+* Ed Lauter...Coach Gruniger
+* Anne Haney...Mrs. Sudsup
+* Beau Dremann...Alec
+* Bill Calvert...Jason Tilby
+* Jordan Bridges...Travis Tilby
+* [[Jason Bateman]]...Steve Tilby
+* Lloyd Bridges...Stewart Larson
+* Jason Naylor...Arnold
+* Jessica Puscas...Jenni Tilby
+* Joshua Bryant...Sam the Vet
+* Zero Hubbard...Jeff
+* Tina Caspary...1st Girl
+* Scott Nemes...1st Boy
+* Kiblena Peace...Emily
+* Mark Clayman...Tommy
+* Dorothy Dean Bridges...Aggie Larson
+* Allan Dietrich...Square Dance Caller
+* Lucinda Jany...Neighbor Lady
+* Leonard P. Geer...Old Man
+===Uncredited===
+* [[Jeff Bridges]]...Neighbor
+
+==Gallery==
+<gallery position="center">
+1986-singuliere-promesse-05.jpg
+1986-singuliere-promesse-04.jpg
+1986-singuliere-promesse-03.jpg
+1986-singuliere-promesse-02.jpg
+61Dye-j3HfL._SL1600_.jpg
+</gallery>
+
+==External links==
+* {{IMDb|title/tt0092077}}
+* [http://www.tv.com/shows/disneyland/the-thanksgiving-promise-195371 - "The Thanksgiving Promise @ tv.com]
+
+{{Wikipedia}}
+
+{{DEFAULTSORT:Thanksgiving Promise, The}}
+[[Category:Walt Disney anthology series episodes]]
+[[Category:Television episodes]]
+[[Category:1986 films]]
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Thanksgiving productions]]
+[[Category:Holiday productions]]

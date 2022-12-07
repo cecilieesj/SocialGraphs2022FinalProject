@@ -1,0 +1,28 @@
+{{Infobox film
+|image = 1945-insectes-1.jpg
+|imagewidth = 250px
+|name = Insects as Carriers of Disease
+|director = 
+|producer = [[Walt Disney]]
+|writer = 
+|studio = [[Walt Disney Productions]]
+|distributor = Coordinator of Inter-American Affairs
+|release = [[June 30]], [[1945]]
+|language = English
+}}
+'''''Insects as Carriers of Disease''''' is a [[1945]] Disney animated short film. It is a non-theatrical governmental short produced for the Coordinator of Inter-American Affairs.
+
+==Synopsis==
+Careless Charlie is shrunk to the size of an insect to learn to his horror how household pests such as flies, mosquitoes, and lice are not "basically harmless" as he thought, but really monsters which carry dangerous diseases, which cleanliness of food, body, and living conditions can prevent.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="185">
+1945-insectes-2.jpg
+1945-insectes-3.jpg
+Insects as carriers shot.jpg
+Insects as carriers shot 2.jpg
+</gallery>
+
+[[Category:1945 shorts]]
+[[Category:Animated shorts]]
+[[Category:Educational films]]

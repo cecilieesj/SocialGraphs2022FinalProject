@@ -1,0 +1,21 @@
+{{Infobox character
+|image = Clerk Ray.jpg
+|games = ''[[Toontown Online]]''
+|occupation = Clerk
+|alignment = Good/Neutral}}
+'''Clerk Ray''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC citrine [http://toontown.wikia.com/wiki/Rabbit Rabbit] and a clerk for [http://toontown.wikia.com/wiki/Minnie%27s_Melodyland Minnie's Melodyland's] [http://toontown.wikia.com/wiki/Goofy%27s_Gag_Shop Goofy's Gag Shop].
+
+==SOS Toon==
+﻿Clerk Ray is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon] and will be able to call upon when rescued. His SOS is a 3-star Restock [http://toontown.wikia.com/wiki/Trap_Gags Trap Gags]. He will restock Trap Gags to all Toons in battle.
+
+==Trivia==
+*All SOS Trappers are clerks in Toontown.([[Clerk Will]], [[Clerk Penny]], [[Clerk Clara]], and himself.)
+*[[Clerk Doe]] and Clerk Ray's name are part of the Do-Re-Me song.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Rabbits]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Characters in video games]]
+{{Toontown Online}}

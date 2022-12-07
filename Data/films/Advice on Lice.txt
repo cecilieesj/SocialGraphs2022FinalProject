@@ -1,0 +1,36 @@
+{{Infobox film
+|name = Advice on Lice
+|image = AdviceLice.jpg
+|caption = 
+|director = 
+|producer = 
+|music = 
+|cinematography =  
+|studio = Walt Disney Educational Media Company
+|distributor = Walt Disney Educational Media Company
+|release = [[1985]]
+|time = 12:42
+|language = English
+}}
+'''Advice on Lice''' is a [[1985]] Walt Disney Educational animated/live-action short.
+
+A {{WikipediaLink|filmstrip}} version was also distributed.
+
+==Synopsis==
+This features both animation (as the evil lice led by their insect leader, who uses walkie-talkies to communicate with his minions) and live action of a kid with an itchy head in the classroom. In pretty crazy terms, it discusses how lice are spread from human to human, and attempts to dispel the myths about who is vulnerable. It also demonstrates how to look for nits and lice, and clarifies treatment to achieve no nits.
+
+==Videos==
+<gallery position="center" captionalign="center" widths="185">
+Advice on Lice and Life, Part 1 (Walt Disney Educational Media Company Filmstrip -2224, 1985)|Filmstrip version, part 1
+Advice on Lice and Life, Part 2 (Walt Disney Educational Media Company Filmstrip -2225, 1985)|Filmstrip version, part 2
+</gallery>
+
+== External links ==
+* {{AtoZ|advice-on-lice-film|''Advice on Lice''}}
+
+[[Category:1985 films]]
+[[Category:Animated shorts]]
+[[Category:Live-action shorts]]
+[[Category:Disney films]]
+[[Category:Educational films]]
+[[Category:Hybrid films]]

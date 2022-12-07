@@ -1,0 +1,66 @@
+{{Infobox film
+|image = Loop poster.jpg
+|name = Loop
+|director = Erica Milsom
+|producer = Michael Warch<br>Krissy Cababa
+|writer = 
+|starring = Madison Bandy<br>Christiano Delgado<br>Louis Gonzales<br>Asher Brodkey
+|music = Mark Orton
+|cinematography = Danielle Feinberg<br>Sylvia Gray Wong
+|editor = 
+|studio = [[Pixar|Pixar Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Disney+]]
+|release = [[January 10]], [[2020]]
+|time = 9 minutes
+|language = English
+|budget = 
+|gross = 
+|preceded = ''[[Wind (film)|Wind]]''
+|followed =''[[Out]]''
+|hidec = 
+|website = https://www.pixar.com/sparkshorts#loop1
+|imdb_id = 9536836
+|tv_com_id = }}
+'''''Loop''''' is an experimental short film produced by [[Pixar]] as part of Pixar's ''[[SparkShorts]]'' series and was released on [[Disney+]] on [[January 10]], [[2020]].
+
+== Synopsis ==
+A non-verbal, autistic girl and a chatty boy are partnered on a canoeing trip. To complete their journey across an urban lake, they must both learn how the other experiences the world.
+
+== Plot ==
+[[Renee]], a 13-year-old non-verbal autistic girl, sits patiently in a canoe waiting for a partner while playing with a sound app on her phone. [[Marcus]] arrives late and is told by the camp counselor to partner with her, much to his annoyance. Marcus attempts to speak with Renee, who only mutters and makes noises to voice her pleasure or displeasure at something. When Marcus attempts to show off his paddling skills, Renee is unimpressed and begins to moan. Marcus asks Renee to tell him what she wants and she responds by showing a poop emoji on her phone and signaling to a couple of outhouses. Marcus obliges and paddles her to land.
+
+When they pass by some reeds, Renee reaches for the reeds to brush her arms through them. Having apparently lost the need to use the restroom, Renee insists on passing through the reeds again and Marcus obliges; finding her interest in them rather amusing. Just as he is about to reach out and feel the reeds, Renee gets distracted by her sound app on her phone again.
+
+Marcus says he has an idea to make her phone sound interesting. He paddles them to a sewer tunnel and has Renee play her phone so that the sound can reverberate. At first, she enjoys it. However, a speedboat races by, creating a loud echo. Overwhelmed, Renee panics and tries to take control of the canoe to escape from the noise. They end up crashing onto the land. Renee has a meltdown and throws her phone, which falls into the lake. She hides under the canoe, sobbing, while Marcus watches in bewilderment.
+
+Eventually, Marcus pulls up a reed and sits by the canoe until Renee calms down. She sits up and takes the reed where she begins to giggle and the two repeat the sound that the phone made together. Marcus and Renee get back into the canoe and paddle back to the camp.
+
+In a post-credits scene, Renee's phone is resting in a glass of dry rice and receives a message from Marcus asking if she wants to go out canoeing. Renee's mother calls for her as she excitedly moans.
+
+== Cast ==
+* Madison Bandy as [[Renee]]
+* Christiano "Chachi" Delgado as [[Marcus]]
+* Louis Gonzales as Camp Counselor
+* Asher Brodkey as Additional Voices
+* Erica Milsom as Additional Voices
+
+== Trivia ==
+* Renee is the first non-verbal autistic character in a Pixar project.
+*The creators felt it was important to include autistic people in the creation process. An autistic actress voices Renee, and autistic people gave feedback on the script. Autistic viewers on Twitter responded positively to the movie when it was released.
+* This short film is dedicated to Adam Burke ([[1971]]–[[2018]]).
+*The title, "Loop," could refer to Renee's habit of playing the ringtone over and over. It could also refer to the neurodiversity symbol, a rainbow infinity sign, which symbolizes the diversity of human minds.
+
+== Gallery ==
+<gallery position="center">
+Loop pixar image.jpg
+Renee.png
+</gallery>
+
+{{Disney+}}
+[[pt-br:Fitas]]
+[[Category:Pixar shorts]]
+[[Category:Animated shorts]]
+[[Category:SparkShorts]]
+[[Category:Pixar]]
+[[Category:Featured shorts]]
+[[Category:Disney+ Originals]]

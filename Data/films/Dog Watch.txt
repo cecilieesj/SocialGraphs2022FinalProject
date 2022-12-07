@@ -1,0 +1,55 @@
+{{Infobox film
+|image = dogwatch.jpg
+|imagewidth = 250px
+|name = Dog Watch
+|director = [[Charles A. Nichols]]
+|producer = [[Walt Disney]]
+|writer = Eric Gurney
+|starring = [[Pinto Colvig]]
+|music = [[Oliver Wallace]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[RKO Radio Pictures]]
+|release = [[March 16]], [[1945]]
+|language = English
+|preceded = ''[[First Aiders]]''
+|followed = ''[[Canine Casanova]]''
+}}
+'''''Dog Watch''''' is a cartoon starring [[Pluto]].
+
+==Plot==
+Pluto is assigned to guard a ship at port from intruders, only to be bested by a sly wharf rat.
+
+==Voices==
+*[[Pinto Colvig]] - Pluto
+
+==Releases==
+===Television===
+* ''[[The Mickey Mouse Club]]'', October 4, 1956
+* ''[[The_Mickey_Mouse_Club#1970s_revival:_The_New_Mickey_Mouse_Club|The New Mickey Mouse Club]]'', October 10, 1977
+* ''[[Good Morning, Mickey]]'', episode #45
+* ''[[Goofy's Guide to Success]]''
+* ''[[The Ink and Paint Club]]'', episode #1.31: "The Unseen Disney"
+
+===Home video===
+* ''[[Miscellaneous Disney animated shorts compilation videos|Canine Commandos]]'' (VHS)
+* ''[[Walt Disney Treasures]]: The Complete Pluto'' (DVD)
+
+==Gallery==
+<gallery spacing="small" widths="150" captionalign="center" position="center">
+Dog_Watch_2.jpg
+Dog_Watch_3.jpg
+Dog_Watch_4.jpg
+Dog_Watch_5.jpg
+1945-garde-3.jpg
+1945-garde-4.jpg
+1945-garde-5.jpg
+1945-garde-6.jpg
+</gallery>
+
+{{Stub}}
+{{Pluto-Series}}
+[[Category:Animated shorts]]
+[[Category:Pluto shorts]]
+[[Category:World War II films]]
+[[Category:1945 shorts]]
+[[Category:Featured shorts]]

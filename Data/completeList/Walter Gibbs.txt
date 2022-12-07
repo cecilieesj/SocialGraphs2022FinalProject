@@ -1,0 +1,28 @@
+{{Infobox character
+|image = Walter_gibbs.png
+|films = ''[[TRON]]''
+|actor = Bernard Hughes
+|occupation = Founder of [[ENCOM]]<br>Original Programmer of the [[Master Control Program]]<br>User of [[Dumont]]
+|personality = Kind, enthusiastic
+|home = [[Center City]]
+|alignment = Good]}}
+'''Dr. Walter Gibbs, PhD''' is a character in the [[1982]] film, ''[[TRON|Tron]]''. He is the founder of [[ENCOM]], and the original programmer of the [[Master Control Program]]. He is also the user of [[Dumont]].
+==Gallery==
+<gallery position="center">
+Tron-disneyscreencaps.com-1765.jpg|Dr. Gibbs with [[Alan Bradley]].
+</gallery>
+==Trivia==
+*He is quite possibly an allusion to [[Walt Disney]], as his name is Walter and he started a company, which became a worldwide conglomerate, in a garage.
+{{CharacterStub}}
+{{TronWiki}}
+{{Tron}}
+{{DEFAULTSORT:Gibbs, Walter}}
+[[Category:Tron characters]]
+[[Category:Males]]
+[[Category:Disney characters]]
+[[Category:Characters]]
+[[Category:Scientists]]
+[[Category:American characters]]
+[[Category:Adults]]
+[[Category:Live-action characters]]
+[[Category:Elderly characters]]

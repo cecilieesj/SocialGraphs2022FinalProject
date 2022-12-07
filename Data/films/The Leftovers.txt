@@ -1,0 +1,58 @@
+{{Episode
+| series     = [[Walt Disney anthology series|The Disney Sunday Movie]]
+| title      = The Leftovers
+| season     = 31
+| number     = 7
+| image      = 1986-panique-01.jpg
+| caption    = 
+| production = 
+| airdate    = [[November 16]], [[1986]]
+| writer     = Gen LeRoy (teleplay)
+| director   = Paul Schneider
+| previous   = "[[Walt Disney World's 15th Anniversary Celebration]]"
+| next       = "[[The Thanksgiving Promise]]"}}
+'''''The Leftovers''''' is a made-for-television movie, originally broadcast as an episode of ''[[Walt Disney anthology series|The Disney Sunday Movie]]'' on [[November 16]], [[1986]].
+
+== Synopsis ==
+A close-knit group of orphans and their father-figure, Max, try to keep their home from being shut down. Helping them out are a single mom and the elderly butler from Max's aunt's mansion, where Max grew up.
+
+==Cast==
+*[[Pamela Adlon|Pamela Segall]] ... Jesse
+*Andrea Barber ... Zoey
+*Bernadette Birkett ... Miss Parillo
+*Matthew Brooks ... Kim
+*Lucy Butler ... Real Estate Lady
+*[[John Denver]] ... Max Sinclair
+*Douglas Emerson ... Harry
+*Allan David Fox ... 2nd Assistant
+*Willie Garson ... Gladstone's Assistant
+*Ed Hooks ... Cab Driver
+*John Hostetter ... Mr. Harmon
+*John Ingle ... Commissioner
+*Henry Jones ... Thorndike
+*Enid Kent ... Mrs. Wiggans
+*Matthew Laurance ... Dan
+*Richard McGonagle ... Danny Scott
+*Jason Presson ... Charlie
+*[[Anne Seymour]] ... Aunt Winifred
+*Richard Vidan ... Brailer
+*[[Jaleel White]] ... Jake
+*Cindy Williams ... Heather Drew
+*Terry Wills ... Mr. Wiggans
+*George Wyner ... Mr. Gladstone
+
+==Gallery==
+<gallery>
+1986-panique-02.jpg
+1986-panique-03.jpg
+1986-panique-04.jpg
+1986-panique-05.jpg
+1986-panique-06.jpg
+</gallery>
+
+{{DEFAULTSORT:Leftovers, The}}
+[[Category:1986 films]]
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Walt Disney anthology series episodes]]
+[[Category:Television episodes]]

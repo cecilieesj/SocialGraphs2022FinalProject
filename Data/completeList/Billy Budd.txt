@@ -1,0 +1,14 @@
+{{Infobox character
+|image = Billy Budd.jpg
+|name = Billy Budd
+|games = ''[[Toontown Online]]''
+|occupation = Host of his annual fishing tournament
+|alignment = Good}}
+'''Billy Budd''' is a green duck. He is the owner of Billy Budd's Big Bargain Binnacle Barn in [http://toontown.wikia.com/wiki/Donald's_Dock Donald's Dock,] and the host of the Billy Budd's Annual Fishing Tournament.
+{{CharacterStub}}
+{{DEFAULTSORT:Budd, Billy}}
+[[Category:Toontown characters]]
+[[Category:Ducks]]
+[[Category:Characters]]
+[[Category:Males]]
+{{Toontown Online}}

@@ -1,0 +1,42 @@
+{{Infobox film
+|image = 1977-vacances-00.jpg
+|name = 
+|director = Jack Hannah<br>Dick Huemer<br>Jack King<br>Milt Schaffer
+|producer = 
+|writer = Bill Berg<br>Al Bertino<br>Rex Cox<br>David Detiege<br>Otto Englander<br>Nick George<br>Leo Salkin<br>Roy Williams
+|starring = [[Clarence Nash]]
+|music = 
+|cinematography = 
+|editor = 
+|studio = 
+|distributor = 
+|release = 
+|time = 
+|language = 
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|website = 
+|imdb_id = 0210654
+}}
+'''''Donald Duck's Summer Magic''''' is a [[1977]] Disney compilation film featuring summer-themed animated shorts.
+
+==Featured cartoons==
+*''[[Goofy and Wilbur]]''
+*''[[Contrary Condor]]''
+*''[[Lion Around]]''
+*''[[Trailer Horn]]''
+*''[[Hook, Lion and Sinker]]''
+*''[[Donald Applecore]]''
+*''[[Pluto's Party]]''
+*''[[Bearly Asleep]]''
+*''[[Lighthouse Keeping]]''
+*''[[Good Scouts]]''
+*''[[Bone Trouble]]''
+
+{{FilmStub}}
+[[Category:1977 films]]
+[[Category:Films]]
+[[Category:Compilation films]]
+[[Category:Disney films]]

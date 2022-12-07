@@ -1,0 +1,25 @@
+{{Infobox film
+| name = Courtesy is Caring
+| image = Courtesy_is_Caring.png
+| caption = 
+| director = 
+| producer = 
+| music = 
+| cinematography = 
+| studio = [[The Walt Disney Company]]
+| distributor = Walt Disney Educational Media Company
+| release = [[June 23]], [[1987]]
+| time = 6 minutes 40 seconds
+| language = English}}'''Courtesy is Caring''' is a [[1987]] Disney educational animated short featuring classic animation re-edited to a modern story. It teaches about courtesy as the key to friendship.
+
+==Voice Cast==
+*[[Phil Proctor]] - Narrator
+
+==Trivia==
+*Including scenes from the following: ''[[The Many Adventures of Winnie the Pooh]]'', ''[[Dumbo]]'', ''[[Pluto's Christmas Tree]]'', ''[[On Ice]]'', ''[[Father's Day Off]]'', ''[[Donald's Nephews]]'', ''[[Pluto's Party]]'', ''[[The Flying Jalopy]]'', ''[[The Ugly Duckling (1939 film)|The Ugly Duckling]]'' and ''[[Fun and Fancy Free]]''.
+
+{{FilmStub}}
+[[Category:1987 shorts]]
+[[Category:Animated films]]
+[[Category:Disney films]]
+[[Category:Educational films]]

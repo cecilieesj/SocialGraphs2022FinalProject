@@ -1,0 +1,51 @@
+{{Upcoming|media=film}}
+{{dablink|the upcoming computer-animated film|the animated film|[[The Lion King II: Simba's Pride]]}}
+{{Infobox film
+|image = Mufasa The Lion King logo.jpg
+|name = Mufasa: The Lion King
+|director = [[Barry Jenkins]]<ref name="Deadline" />
+|producer = Adele Romanski<br>Mark Ceryak
+|writer = [[Jeff Nathanson]]<ref name="Deadline" />
+|starring = [[Aaron Pierre]]<br>[[Kelvin Harrison Jr.]]<br>[[Seth Rogen]]<br>[[Billy Eichner]]<br>[[John Kani]]
+|music =[[Hans Zimmer]]<br>Pharrell Williams<br>Nicholas Britell 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]<ref name="Deadline" />
+|distributor = [[Walt Disney Studios Motion Pictures]]<ref name="Deadline" />
+|release = [[July 5]], [[2024]] 
+|time = 
+|language = English
+|budget = 
+|gross = 
+|followed = ''[[The Lion King (2019 film)|The Lion King]]'' 
+|website = 
+|imdb_id = 13186482}}
+'''''Mufasa: The Lion King''''' is an upcoming American computer-animated film, and prequel to ''[[The Lion King (2019 film)|The Lion King]]''.<ref name="Deadline">{{Cite web|url=https://deadline.com/2020/09/the-lion-king-sequel-barry-jenkins-moonlight-director-disney-1234586787/|title=‘The Lion King’ Follow-Up Set With ‘Moonlight’ Director Barry Jenkins To Helm For Walt Disney Studios|website=Deadline|date=[[September 29]], [[2020]]}}</ref>
+
+==Cast==
+*[[Aaron Pierre]] as Young [[Mufasa]]
+*[[Kelvin Harrison Jr.]] as Young [[Scar]]
+*[[Billy Eichner]] as [[Timon]]
+*[[Seth Rogen]] as [[Pumbaa]]
+*[[John Kani]] as [[Rafiki]]
+
+==Production==
+On [[September 29]], [[2020]], it was announced via ''Deadline'', that a follow-up was in development for the CGI live-action remake of ''[[The Lion King (2019 film)|The Lion King]]''. [[Jeff Nathanson]], who wrote the remake, was confirmed to return as writer, while [[Barry Jenkins]] will replace [[Jon Favreau]] as the film's director. The film's story will expand on the mythology of the [[The Lion King (franchise)|franchise]] and explore [[Mufasa]]'s origin story while moving the story forward in the present, in a structure similar to that of ''[[Wikipedia:The Godfather Part II|The Godfather Part II]]''.<ref name="Deadline"/>
+
+On September 15, 2022, ''The Hollywood Reporter'' reported that film would be released on [[July 5]], [[2024]].<ref>[https://www.hollywoodreporter.com/movies/movie-news/star-wars-rogue-squadron-removed-2023-1235221389/ Disney Pushes ‘Haunted Mansion’ to Summer 2023, Removes ‘Star Wars’ Movie ‘Rogue Squadron’ From Calendar]</ref>
+
+==Trivia==
+*This will be a prequel to the 2019 version, and not adapted from ''[[The Lion King II: Simba's Pride]]'', the 1998 direct-to-video sequel to [[The Lion King|the original film]], from what can be inferred from the ''Deadline'' article.
+*This will be either the fifth sequel to a live-action [[Disney Remakes|Disney remake]], following ''[[102 Dalmatians]]'', ''[[Maleficent: Mistress of Evil]]'', [[The Jungle Book 2 (live-action film)|sequel]] to ''[[The Jungle Book (2016 film)|The Jungle Book]]'', [[Aladdin 2|sequel]] to ''[[Aladdin (2019 film)|Aladdin]]'' and sequel to ''[[Mulan (2020 film)|Mulan]]'', which may come before or after this.
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{The Lion King}}
+{{DISPLAYTITLE:''Mufasa: The Lion King''}}
+[[it:Mufasa: The Lion King]]
+[[Category:The Lion King]]
+[[Category:Live-action films]]
+[[Category:Disney films]]
+[[Category:Prequel films]]
+[[Category:2024 films]]

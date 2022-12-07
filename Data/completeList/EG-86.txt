@@ -1,0 +1,29 @@
+{{Infobox_character
+|image = EG-86 the GNK Power Droid.png
+|shows = ''[[Star Wars Rebels]]''
+|occupation = Gonk droid
+|alignment = Good
+|goal = To spy on the Empire
+|friends = [[Bail Organa]], [[Ezra Bridger]], [[Sabine Wren]], [[Ketsu Onyo]], [[C1-10P]], [[R2-D2]]
+|enemies = [[Stormtroopers]]
+|status = Active}}
+{{Quote|Talk about a low profile, he came in with the cargo payload. He's unit EG-86.|[[Sabine Wren]]}}
+'''EG-86''' is a GNK series power droid, or Gonk droid, who appeared in the ''[[Star Wars Rebels]]'' episode, "[[Blood Sisters]]". He works for the [[Rebel Alliance]], specifically [[Bail Organa]], acting as a spy for the rebels and gathering whatever Imperial information he can.
+
+==Background==
+EG-86 is a rebel spy, using his appearance as a harmless Gonk droid to slip past Imperial security and gather vital information for the early members of the [[Rebel Alliance]]. Following one such spy mission, EG-86 was retrieved by rebel members [[Sabine Wren]] and [[Ezra Bridger]], who were ordered by [[Bail Organa]] to bring him to the planet Alderaan. However, the rebels were intercepted by a [[Mandalorian]] bounty hunter and former friend of Sabine, [[Ketsu Onyo]], who attempted to kidnap EG-86 for her employers, the Black Sun. When the [[Galactic Empire|Empire]] eventually showed up, Ketsu helped the rebels escape, delivering EG-86 safely to Alderaan.
+
+==Trivia==
+*EG-86 is the first Gonk droid to appear in ''[[Star Wars Rebels]]''.
+*EG-86 was not originally a Gonk droid when development for "[[Blood Sisters]]" began.
+*EG-86 is the first Gonk droid in the Star Wars universe to have a featured role.
+
+{{Star Wars}}
+[[Category:Star Wars Rebels characters]]
+[[Category: Star Wars characters]]
+[[Category:Droids]]
+[[Category:Rebel Alliance characters]]
+[[Category:TV Animation characters]]
+[[Category:Spies]]
+[[Category:Animated characters]]
+[[Category:Silent characters]]

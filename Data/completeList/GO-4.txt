@@ -1,0 +1,81 @@
+{{Infobox character
+|image = GO-4 Image.jpeg
+|name = GO-4
+|films = ''[[WALL-E (film)|WALL-E]]''
+|shorts = ''[[BURN-E]]''
+|games = ''[[WALL-E (video game)|WALL-E]]''<br>''[[Disney Heroes: Battle Mode]]'' (as a badge)
+|designer = [[Ralph Eggleston]]
+|alias = Gopher, GopherBot
+|affiliations = [[AUTO]]
+|occupation = [[AUTO]]'s henchbot
+|home = The [[Axiom]]
+|likes = Control
+|dislikes = Humans, interferences
+|paraphenalia = Tractor Beam<br>Scanner
+|status = Destroyed}}
+[[File:Obscure go4 game image.png|thumb|Image found in the PC version of the Wall-E video game. Couldn;t find this image stored anywhere online, so I think i'm actually the first to document it! (=]]
+'''GO-4''' ('''GO-FR''') is the secondary antagonist of the [[2008]] [[Walt Disney Pictures|Disney]]/[[Pixar]] animated feature film ''[[WALL-E (film)|WALL-E]]''.
+
+==Background==
+GO-4 was a small white robot and first mate of the [[Axiom]] he was charged with overseeing security aboard the ship. He used his own personal elevator system to move quickly around the Starliner. The entrances/exits of the elevator were usually at Steward Kiosks, the places where [[SECUR-T]] (Stewards) would wait inactive until they were needed. The elevator also granted GO-4 access to the captain's quarters.
+
+===Physical appearance===
+GO-4 is quite small and easily recognizable due to the red police light atop his body. his body somewhat resembles that of a soldier standing at attention. GO-4 is equipped with two arms for saluting and using interfaces (Such as the ones in the escape pod) and an anti-gravity stasis beam. GO-4, like [[EVE]] has a chest cavity for storage. For communication, he had various beeps and other sounds (Including hissing!), similar to [[R2-D2]] from ''[[Star Wars]]''. GO-4 units also can deliver coffee and dry-cleaning to superiors.
+
+==Appearances==
+===''[[WALL-E (film)|WALL-E]]''===
+GO-4 is first seen descending a personal elevator near two activating Stewards. With beeps, he directs them to the docking area where the [[EVE]]'s retreat for evaluation. 
+
+He scans them, even scanning [[WALL-E (character)|WALL-E]] accidentally before finding a probe with positive results. As a robotic arm picks her up and places her to a MVR-A, GO-4 tells the Stewards to lead the MVR-A until it was carried to a People Mover. 
+
+As the MVR-A with the positive probe is brought to the Captain's quarters, he communicates with AUTO with a series of beeps, possibly about the secret directive [[A113|A-113]]. while AUTO is in the captains quarters with [[Captain B. McCrea|the captain]], GO-4 presumably retrieves the plant from EVE's storage compartment for disposal, after EVE is supposedly shown to be faulty, the captain instructs GO-4 to bring EVE and WALL-E to the Repair ward for diagnostics and cleaning respectively. 
+
+As EVE is about to send WALL-e home to earth, GO-4  briefly arrives and places the plant in the escape pod and sets it to self destruct, (possibly putting some sort of override stopping WALL-E from disarming the sequence), before leaving. 
+
+As AUTO's secret directive is found by the Captain, AUTO sends GO-4 to the quarters to attempt discarding the plant. The Captain orders EVE to arrest GO-4 for mutiny. He hisses to intimidate EVE before throwing the plant down the garbage shoot, much to the distress of EVE and the captain, however, Wall-E then emerges from the garbage shoot with the plant, after AUTO tases WALL-E, GO-4 traps EVE in his suspension beam while AUTO deactivates her before dropping her down the shoot.  
+
+He was accidentally destroyed when he attempted to assist AUTO in taking down Captain B. McCrea and was kicked and sent flying through a window and crashing down near one of the swimming pools in the Lido Deck, obliterating him.
+
+===Other appearances===
+A GO-4 appears briefly in the short ''[[BURN-E]]'', which takes place during the events of the film.
+
+One also appears in the [[WALL-E (video game)|video game]], but it doesn't break.
+
+==Gallery==
+<gallery spacing="small" captionalign="center" position="center" widths="150">
+GO-4_2.jpg
+GO-4.jpg
+WALL-E-345.jpg
+WALL-E-347.jpg
+WALL-E-534.jpg
+WALL-E-676.jpg
+WALL-E-531.jpg|Attempting to destroy the plant by putting it in the escape pod
+WALL-E-675.jpg
+WALL-E-348.jpg
+WALL-E-686.jpg 
+GO-4's death.png|GO-4 smashes right beside the pool.
+</gallery>
+
+==Trivia==
+*GO-4 is a pun on how personal assistants are often referred to as "gophers/gofers," a verbal pun as they are often sent to "Go for (GO-4) things."
+*When GO-4 is sent flying out of the window, he makes a whistling sound and a smash sound effect very similar to the sound [[wikipedia:Wile E. Coyote and The Road Runner|Wile E. Coyote]] makes when falling off a cliff in ''[[wikipedia:Looney Tunes|Looney Tunes]]''.
+*According to the Pixarpedia, GO-4, like Auto, are not sentient, and therefore they lack technical alignment, as all they do are following orders since they can't think.
+
+==External links==
+
+* {{Interwiki|https://vignette.wikia.nocookie.net/pixar/images/6/64/Favicon.ico|pixar|GO-4|Pixar Wiki}}
+{{WALL-E}}
+
+[[es:GO-4]]
+[[Category:Pixar characters]]
+[[Category:WALL-E characters]]
+[[Category:Villains]]
+[[Category:Henchmen]]
+[[Category:Characters]]
+[[Category:Pixar villains]]
+[[Category:Animated characters]]
+[[Category:Silent characters]]
+[[Category:Robots]]
+[[Category:Those destroyed]]
+[[Category:Characters in video games]]
+[[Category:Deceased characters]]

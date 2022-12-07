@@ -1,0 +1,30 @@
+{{Infobox character
+|image = Fontenoy.jpg
+|films = ''[[Herbie Goes to Monte Carlo]]''
+|actor = Xaviner Saint-Macary
+|fullname = Detective Fontenoy
+|occupation = French police detective
+|home = [[Paris]]
+|likes = Impressing his boss
+|status = Active}}'''Fontenoy''' is a French police detective in ''[[Herbie Goes to Monte Carlo]]''.
+
+==Background==
+In the film, he is possible a detective in training with [[Inspector Bouchet]] as his mentor (unaware until the end that his own boss is the main culprit.) He respects his boss so much that he can really get on the Inspector's nerves, always trying his best to help him out and doing the necessary precaution.
+
+After the diamond has been found and with the case closed, he regretfully handcuffs his boss with gentle apologies.
+
+==Gallery==
+<gallery position="center" captionalign="center" widths="180">
+Herbie Goes to Monte Carlo 2.jpg
+Inspector-Bouchet-Defeat.png|Fontenoy arrests his boss
+</gallery>
+
+{{The Love Bug}}
+[[Category:The Love Bug characters]]
+[[Category:Detectives]]
+[[Category:French characters]]
+[[Category:Males]]
+[[Category:Live-action characters]]
+[[Category:Disney characters]]
+[[Category:Characters]]
+[[Category:Adults]]

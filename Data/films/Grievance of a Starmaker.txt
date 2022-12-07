@@ -1,0 +1,31 @@
+{{Infobox film
+|name        = Grievance of a Starmaker
+|director    = Gary Katona<br>Ed Wexler
+|producer    = Gary Katona<br>Antran Manoogian<br>Ed Wexler
+|writer      = Erika Tsunoda <small>(story)</small>
+|distributor = [[Disney Television Animation]]
+|language    = English
+|image = Image:2002-starmaker-1.jpg
+|imagewidth = 250px
+|release = [[2002]] <small>([[Tokyo Disneyland]], [[Japan]])</small>
+|time = 5 minutes}}
+'''''Grievance of a Starmaker''''' is a [[2002]] Disney animated short.
+
+==Synopsis==
+One evening a night without stars, Yasu, a little boy goes to Mr Hoshi, the manufacturer, to know the reason for their absence.
+
+==Cast==
+*Ichirō Nagai
+*Yūki Tokiwa
+
+==Home video releases==
+'''DVD'''
+*''[[Walt Disney's It's a Small World of Fun!|Walt Disney's It's a Small World of Fun! Volume 1]]''
+
+==Gallery==
+<gallery>
+2002-starmaker-2.jpg
+2002-starmaker-3.jpg
+2002-starmaker-4.jpg
+</gallery>
+[[Category:2002 shorts]]

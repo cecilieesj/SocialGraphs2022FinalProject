@@ -1,0 +1,20 @@
+{{Infobox character
+|image = F5769e576c12aac5349371ca89a6d1cc.png
+|films = ''[[WALL-E (film)|WALL-E]]''
+|inspiration = Robot
+|alignment = Neutral}}
+'''VN-GO''' is a character in [[Walt Disney Pictures|Disney]]/[[Pixar]]'s [[2008]] animated feature film, ''[[WALL-E (film)|WALL-E]]''. He is a paint-bot onboard the Axiom.
+
+==Trivia==
+*VN-GO's name is a pun on Vincent van Gogh, a famous painter.
+*While following [[WALL-E (character)|WALL•E]] and [[EVE]], VN-GO plays a few of the notes of "Put On Your Sunday Clothes" with his wheels and brush.
+*Another unit can also be seen in the film painting a wall when WALL-E was trying to find EVE. A Steward also supervises him.
+*Concept art shows him colored orange.
+{{CharacterStub}}
+{{WALL-E}}
+[[Category:Robots]]
+[[Category:Males]]
+[[Category:WALL-E characters]]
+[[Category:Pixar characters]]
+[[Category:Silent characters]]
+[[Category:Heroes]]

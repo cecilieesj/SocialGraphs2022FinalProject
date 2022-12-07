@@ -1,0 +1,31 @@
+{{Infobox character
+|image = Postmaster Pete.png
+|name = Postmaster Pete
+|games = ''[[Toontown Online]]''
+|occupation = Shopkeeper
+|alignment = Neutral}}
+'''Postmaster Pete '''is a Dog NPC shopkeeper found on [http://toontown.wikia.com/wiki/Loopy_Lane Loopy Lane], [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central]. His building is called [http://toontown.wikia.com/wiki/Toontown_Post_Office Toontown Post Office]. He is a chubby, green dog with a light-blue shirt with orange pants. He is the Toon that will give you your last Toontasks in Toontown Central.
+==Toontask==
+﻿This Toontask is the last toontask in Toontown Central. It will reward you with the Last Frame for your Toon-Up/Sound Track.
+#'''Visit''' Postmaster Pete in Toontown Post Office, [http://toontown.wikia.com/wiki/Loopy_Lane Loopy Lane].
+#'''Recover''' a Package from one of the following: The [http://toontown.wikia.com/wiki/Cogs Cogs] or a Level 3 Cog.(Anywhere)
+#'''Return''' to Postmaster Pete.
+#'''Deliver '''the Package to Dr. Tom in [http://toontown.wikia.com/index.php?title=Dr._Tom_Foolery&action=edit&redlink=1 Dr. Tom Foolery], [http://toontown.wikia.com/wiki/Silly_Street Silly Street].
+#'''Defeat''' 10 Cogs.(Anywhere)
+#'''Return''' to Dr. Tom.
+#'''Recover''' a Package from one of the following: [http://toontown.wikia.com/wiki/Bossbots Bossbots], [http://toontown.wikia.com/wiki/Lawbots Lawbots], [http://toontown.wikia.com/wiki/Cashbots Cashbots], or [http://toontown.wikia.com/wiki/Sellbots Sellbots] Cogs.
+#'''Return''' to Dr. Tom.
+#'''Deliver''' a Package to Dr. Pulyurleg in [http://toontown.wikia.com/wiki/Dr._Pulyurleg,_Chiropractor Dr. Pulyurleg, Chiropractor], [http://toontown.wikia.com/wiki/Punchline_Place Punchline Place].
+#'''Visit''' Postmaster Pete.
+#'''Recover''' a Package from The Cogs.(Anywhere)
+#'''Return''' to Postmaster Pete.
+#'''Deliver''' a Package to Dr. Pulyurleg.
+==Trivia==
+*﻿The task he gives is one of the ones you'll hear Toons asking for help with the most in [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central].
+
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Dogs]]
+[[Category:Males]]
+{{Toontown Online}}

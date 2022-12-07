@@ -1,0 +1,36 @@
+{{Infobox film
+|image = Alice_the_toreador_1large.jpg
+|title = Alice the Toreador
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[January 15]], [[1925]]
+|time = 7:32
+|preceded = ''[[Alice Cans the Cannibals]]''
+|followed = ''[[Alice Gets Stung]]''
+}}
+'''''Alice the Toreador''''' is an animated short film that is part of the ''[[Alice Comedies]]'' that were released by Winkler Pictures in [[1925]]. It was in black and white and silent.
+
+==Synopsis==
+Alice is in a bullfight where she thinks she will win since she is matched against a peaceful bull. But the tables are turned when her bull is switched with one with a worse temper.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+Alice the toreador 2large.jpg
+Alice the toreador 3large.jpg
+Alice the toreador 4large.jpg
+Alice the toreador 5large.jpg
+Alice the toreador 6large.jpg
+Alice the toreador 7large.jpg
+1925-toreador-2.jpg
+1925-toreador-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=22 Alice the Toreador] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:Alice Comedies]]
+[[Category:1925 shorts]]

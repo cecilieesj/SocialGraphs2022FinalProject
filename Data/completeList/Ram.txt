@@ -1,0 +1,58 @@
+{{Infobox_character
+|name = Ram
+|image = Ram.png
+|films = ''[[Tron]]''
+|actor = Dan Shor
+|occupation = Program for insurance companies
+|friends = [[Kevin Flynn]], [[Crom]], [[Tron (character)|Tron]]
+|enemies = Red programs, [[Master Control Program (MCP)]] and [[Commander Sark]]
+|likes = Helping people plan for their future needs
+|appearance = Blue program uniform
+|alignment = Good
+|weapons = [[Identity Disc]]
+|dislikes = Hostile programs, getting injured
+|status = Derezzed
+|quote = "You're a... guest of the Master Control Program."}}
+'''Ram''' is a supporting blue program character in the [[1982]] film, ''[[Tron]]''. He resembles his user, Roy Kleinberg.
+
+==Background==
+Ram was created by [[ENCOM]] worker: Roy Kleinberg and was an actuarial program for an unnamed insurance company; he really enjoyed helping people plan for their future needs. He was then captured by the [[Master Control Program]].
+
+===Personality===
+As an actuarial program, Ram like to help people plan for their future needs. He's shown to be polite and nice to welcoming programs who were captured. When on the verge of being derezzed, he happy to learn that Flynn was a user, even asking him to help Tron save the Grid and destroy the MCP. 
+
+===Appearance===
+As a program, he looks just like his user, but his skin is gray and his suit has blue lightings and wears a helmet. 
+
+==History==
+Ram was a program first seen in a pit cell inside the Game Grid, where programs resistant to the [[MCP]]'s rules were forced to participate in gladiatorial games, in which the losers are destroyed. He was a close friend of [[Tron (character)|Tron]] and [[Crom]]. Before being appropriated by the MCP, Ram had been an actuarial program for an unnamed insurance company; he had really enjoyed helping people plan for their future needs. Together with [[Kevin Flynn|Flynn]] and Tron, he escaped from the Game Grid during a [[Light Cycles|Light Cycle]] match. While fleeing [[Sark]]'s forces, Ram's light cycle was destroyed by [[Battle Tank|tanks]]. He was critically wounded and, after discovering that Flynn was a User and getting his promise to go on and help Tron, he eventually derezzed.
+
+Years later, Flynn would give his named to Ram's original user: Roy as a nickname.
+
+==Trivia==
+* Ram is probably named for {{WPS|Random-access memory}}, a form of data storage within a computer.
+* In [[Tron: The Next Day]], Ram's user: Roy Kleinberg uses Ram's name as his nickname.
+
+==Gallery==
+<gallery spacing="small" position="center" captionalign="center">
+tron-disneyscreencaps.com-4470.jpg|Flynn meets Ram in his cell.
+Ram Knealing.jpg
+TRN1982BluRay810pDUALx264mkv_snapshot_003356_20110817_203324.png
+ram.jpg
+tron-disneyscreencaps.com-5265.jpg
+tron-disneyscreencaps.com-5897.jpg|Ram and Flynn at an energy pool.
+Ram derezzes2.jpg|Ram starts to de-rez.
+tron-disneyscreencaps.com-6714.jpg|Ram's death.
+</gallery>
+
+{{TronWiki}}
+{{Tron}}
+[[Category:Tron characters]]
+[[Category:Males]]
+[[Category:Heroes]]
+[[Category:Deceased characters]]
+[[Category:Live-action characters]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Programs]]
+[[Category:Adults]]

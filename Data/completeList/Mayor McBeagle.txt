@@ -1,0 +1,33 @@
+{{Basic template}}
+
+{{Infobox character
+|image = [[File:Official Mayor McBeagle .png|thumb]]
+|name = Mayor McBeagle
+|shorts = [[Minnie's Bow-Toons|Minnie's Bow Toons]]
+|shows = [[Mickey Mouse Mixed-Up Adventures|Mickey and the Roadster Racers]] & [[Mickey Mouse Funhouse]]
+|animator = 
+|designer = 
+|voice = [[Bill Farmer]]
+|inspiration = 
+|awards = Crystal Clear Water Clear water Awards
+|fullname = 
+|occupation = Mayor
+|affiliations = Mayor of Hot Dog Hills
+|home = Hot Dog Hills
+|likes = Being Mayor, Hosting Events, Being a contest Judge, Waving the racing flag
+|dislikes = When Hot Dog Hills is going Haywire
+|powers = 
+|paraphernalia =
+|status = Active}}
+
+== Personality ==
+Mayor McBeagle is the Mayor of Hot Dog Hills.
+[[Category:Disney Junior characters]]
+[[Category:Politicians]]
+[[Category:Males]]
+[[Category:Disney characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Mickey Mouse universe characters]]
+[[Category:Adults]]
+[[Category:Mickey and the Roadster Racers characters]]

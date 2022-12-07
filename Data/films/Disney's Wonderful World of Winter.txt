@@ -1,0 +1,33 @@
+{{FilmStub}}
+{{Infobox film
+| name           = Disney's Wonderful World of Winter
+| image          = File:Ww_Winter.jpg
+| caption        = 
+| director       = 
+| producer       = 
+| starring       = Bob Holt<br>[[Hal Smith]]
+| music          = 
+| cinematography =  
+| studio         = Walt Disney Productions
+| distributor    = Walt Disney Educational Media Company
+| release        = [[December 21]], [[1983]]
+| time           = 
+| language       = English
+| imdb_id        = 9906140}}
+'''''Disney's Wonderful World of Winter''''' is a [[1983]] Disney educational animated short.
+
+==Synopsis==
+Various previously-released Disney cartoons are combined to tell the story of winter and its three major holidays: Thanksgiving, Christmas and New Year's Eve.
+
+==Voices==
+*Bob Holt - Stanley Slush
+*[[Hal Smith]] - [[Goofy]]
+
+== External links ==
+* {{AtoZ|disneys-wonderful-world-of-winter-film|''Disney's Wonderful World of Winter''}}
+[[Category:Animated shorts]]
+[[Category:Disney films]]
+[[Category:Thanksgiving productions]]
+[[Category:Christmas productions]]
+[[Category:1983 shorts]]
+[[Category:Educational films]]

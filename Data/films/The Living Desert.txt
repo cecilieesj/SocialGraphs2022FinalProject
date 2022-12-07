@@ -1,0 +1,82 @@
+{{Infobox film
+|image = The Living Desert.jpg
+|director = [[James Algar]]
+|producer = [[Walt Disney]]<br>[[Ben Sharpsteen]]
+|writer = James Algar<br>[[Winston Hibler]]<br>[[Ted Sears]]
+|narrator = Winston Hibler
+|editor = Norman R. Palmer
+|studio = [[Walt Disney Productions]]
+|distributor = [[Walt Disney Studios Motion Pictures|Buena Vista Film Distribution]]
+|release = [[November 10]], [[1953]]
+|time = 69 minutes
+|language = English
+|preceded = ''[[Prowlers of the Everglades]]''
+|followed = ''[[The Vanishing Prairie]]''}}
+'''''The Living Desert''''' is a [[1953]] nature documentary showing the everyday lives of the animals of the desert of the southwestern United States. The movie was written by James Algar, Winston Hibler, Jack Moffitt (uncredited), and Ted Sears. It was directed by Algar and produced by [[Walt Disney Productions]]. Hibler is the narrator.
+
+It won the first Academy Awards for Best Documentary Feature. <ref name="NY Times">{{cite web |url=http://movies.nytimes.com/movie/29762/The-Living-Desert/overview |title=NY Times: The Living Desert |accessdate=<nowiki>2008-11-08</nowiki>|work=NY Times}}</ref> In 2000 the United States Library of Congress deemed the film "culturally significant" and selected it for preservation in the National Film Registry. It was released on video in 1986 and then 1993.
+
+==Production==
+The Living Desert was put into production after Walt Disney was presented with footage of the life-cycle of the tarantula hawk, a desert wasp that attacks tarantulas to lay their eggs inside their bodies. The dramatic footage inspired Disney to produce a full desert wildlife film, with much of the production being shot outside Tucson, [[Arizona]], around Saguaro National Park and what is now Arizona-Sonora Desert Museum. Many animals that were featured in the film, but not in the Desert Museum's living collections, were donated by Disney to them after production wrapped.<ref>https://tucson.com/news/blogs/morgue-tales/tales-from-the-morgue-desert-museum-s-first-year-a/article_8b1336de-b7d1-11df-a1d2-001cc4c03286.html</ref>
+
+==International release==
+{| class="wikitable sortable"
+|-
+!Country
+!Title
+!Distributor
+!Date of release
+|-
+|Japan
+|砂漠は生きている
+|[[Daiei Film]]
+|January 14, 1955
+|}
+
+==Cast==
+*[[Winston Hibler]] - Narrator
+
+==Trivia==
+*The film's copyright was renewed on [[May 11]], [[1981]].<ref>[https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First&Search_Arg=RE0000093084&Search_Code=REGS Online Copyright Catalog search (form autofilled, pressing "begin search" brings up the entry)]</ref>
+*''The Living Desert'' is one of the four ''True-Life Adventures'' films to influence the content of [[Mine Train Thru Nature's Wonderland]] and its eventual successor [[Big Thunder Mountain Railroad]].
+
+==Gallery==
+<gallery spacing="small" widths="185">
+Living Desert.png
+Tumblr mijlvaXjcU1qhcrb0o1 1280.jpg
+The living desert lobby card.jpg
+Tumblr n41a3e6Tct1rnsw9qo1 500.jpg
+Tumblr nqw7aa3XtF1sa3t1go1 1280.jpg
+Tumblr nqvpib78vR1sa3t1go1 1280.jpg
+Living desert 1964 rerelease poster.jpg|Poster from a re-release in [[1964]], paired with a re-release of ''[[Bear Country]]''
+El desierto viviente (2).jpg|Poster from the release in [[Argentina]] in [[1954]]
+Living desert australian poster.jpg|Poster from the release in [[Australia]] in 1954
+Living desert belgian poster.jpg|Poster from the release in Belgium (1950s)
+Living desert finnish poster.jpg|Poster from the release in Finland on [[February 4]], [[1955]]
+Living desert french poster.jpg|Poster from the release in [[France]] on [[September 8]], 1954
+Living desert german poster.jpg|Poster from the release in [[Germany]] in 1954
+Living desert japanese poster.jpg|Poster from the release in [[Japan]] on [[January 14]], 1955
+El-desierto-viviente-img-103393-1-.jpg|Lobby card from the release in [[Mexico]] (1950s)
+El desierto viviente (1).jpg|Poster from the release in [[Spain]] on [[September 16]], 1955
+Living desert swedish poster.jpg|Poster from the release in [[Sweden]] on [[October 6]], 1954
+Living desert uk poster original.jpg|Poster from the original release in the [[United Kingdom]] on [[May 14]], 1954
+Million dollar duck living desert uk poster.jpg|Poster from the re-release in the United Kingdom on [[August 8]], [[1971]], on a double bill with ''[[The Million Dollar Duck]]''
+Living_desert_yugoslavian_poster.jpg|Poster from the release in Yugoslavia (year unknown)
+</gallery>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.imdb.com/title/tt0046008/ ''The Living Desert''] at the Internet Movie Database
+{{DEFAULTSORT:Living Desert, The}}
+{{DISPLAYTITLE:''The Living Desert''}}
+[[Category:1953 films]]
+[[Category:Documentaries]]
+[[Category:Live-action films]]
+[[Category:True-Life Adventures]]
+[[Category:Saving Mr. Banks]]
+[[Category:National Film Registry films]]
+[[Category:Disney films]]
+[[Category:Academy Award winning films]]
+[[Category:G-rated films]]

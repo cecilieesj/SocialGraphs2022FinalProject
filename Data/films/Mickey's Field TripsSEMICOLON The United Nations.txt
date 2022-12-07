@@ -1,0 +1,26 @@
+{{Infobox film
+| name           = Mickey's Field Trips: The United Nations
+| image          = Mickey's field trips un.jpg
+| caption        = 
+| director       = Don Schroeder
+| producer       = Nancy Casolaro<br>Gay Hennessy
+| music          = David S. Kates
+| cinematography =  
+| studio         = [[The Walt Disney Company]]
+| distributor    = Disney Educational Productions
+| release       = [[July 27]], [[1989]]
+| time        = 15:54 minutes
+| language       = English
+}}'''''Mickey's Field Trips: The United Nations''''' is part of ''Mickey's Field Trips'', a series of educational films, released between [[1987]] and [[1989]]. [[Mickey Mouse]] tours the United Nations complex.
+
+==Voice Cast==
+*[[Wayne Allwine]] - Mickey Mouse
+
+==Trivia==
+*This film was released as part of the EPCOT Educational Media Collection.
+
+{{Stub}}
+[[Category:Live-action shorts]]
+[[Category:Mickey Mouse]]
+[[Category:1989 shorts]]
+[[Category:Educational films]]

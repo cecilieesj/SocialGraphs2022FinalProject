@@ -1,0 +1,74 @@
+<br>
+{{Marvel Database:Film Template
+| Image                   = The Amazing Spider-Man Show The Mystery of the Stolen Diamonds Poster 001.png
+| Aliases                 = 
+| Universe                = 
+
+| Directors               = 
+| Producers               = 
+| StoryWriters            = 
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = 
+| Running Time            = 15 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = April 5th, 2003
+| Language                = English
+| IMDB ID                 = 
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* [[Spider-Man|Spider-Man (Peter Parker)]] {{Only}}
+'''Supporting Characters:'''
+* [[Mary Jane Watson]] {{Only}}
+'''Antagonists:'''
+* Street Dance Crew {{Only}}
+* [[Green Goblin|Green Goblin (Norman Osborn)]] {{Only}}
+'''Other Characters:'''
+* [[Daily Bugle]] {{Named}}
+* WNYF
+** Dan Durando {{Voice}}
+* [[New York City Police Department|NYPD]]
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+'''Locations:'''
+* Unnamed Reality
+** {{a|[[Earth]]}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[New York (State)|New York]]}}
+***** {{a|[[New York City]]}}
+****** {{a|[[Manhattan]]}}
+******* {{a|[[Central Park]]}}
+******* ACME High Security Vault
+******* ACME Chemicals
+******* Scala Theatre
+******* ACME Diamond Warehouse
+******* Dolly Dum Drop Sweets Inc. factory
+******* {{Cameo|[[Empire State Building]]}}
+'''Items:'''
+* {{a|[[Goblin Armor]]}}
+* {{a|[[Spider-Man's Suit]]}} and {{a|[[Web-Shooters]]}}
+* Stone of the Universe
+<!--'''Vehicles:'''
+* <br/>-->
+
+| Plot                    = The Street Dance Crew, secretly a nefarious burglar trio, knock out the [[New York City Police Department|NYPD]] Officer stationed outside the ACME Diamond Warehouse, but are interrupted by [[Spider-Man]] who almost defeats them, until [[Green Goblin]] joins the Crew, throwing Spider-Man off the roof of the Dolly Dum Drop Sweets Inc. factory. Spider-Man gets away, planning to defeat Green Goblin and the Street Dance Crew come round 2, but first, as Peter Parker, spends some time with [[Mary Jane Watson]] in [[Central Park]].
+
+Meanwhile, the criminals lay out their plan to steal the Stone of the Universe, a giant diamond stored in the ACME High Security Vault. They plan to kidnap Mary Jane, as she is the star of 'Hot Fever' at the Scala Theatre, and hold her for a ransom by sending a blackmail email to Dan Durando, Eye in the Sky for WNYF Radio, before blowing up the WNYF antenna, so that Durando can't call Spider-Man for help, and the ACME High Security Vault at the same time.
+
+The villains' scheme goes off without a hitch, but Spider-Man rescues MJ and defeats the Street Dance Crew and the Green Goblin, handing over the Stone of the Universe, and the Green Goblin to the NYPD.
+
+| Cast                    = 
+
+| Notes                   = * ''The Amazing Spider-Man Show: The Mystery of the Stolen Diamonds'' was a musical stage show in the Ranger County Arena in [[Wikipedia:Thorpe Park|Thorpe Park]]. It ran in 2003 and 2004, before being replaced by Stunt Mania in 2005
+| Trivia                  = 
+| Links                   = 
+
+}}
+{{DEFAULTSORT:Amazing Spider-Man Show: The Mystery of the Stolen Diamonds, The}}
+[[Category:Attractions]]

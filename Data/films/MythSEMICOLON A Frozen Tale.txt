@@ -1,0 +1,53 @@
+{{Infobox film
+|image=Myth A Frozen Tale.jpg
+|name=Myth: A Frozen Tale
+|director=Jeff Gipson
+|producer=David S. Grant<br>Nicholas Russell
+|writer=Jeff Gipson
+|starring=Nick Fisher<br>[[John Lavelle]]<br>Bonnie Popp<br>Vivienne Rutherford<br>[[Evan Rachel Wood]]
+|music=Joseph Trapanese
+|editor=Jesse Averna
+|studio=[[Walt Disney Animation Studios]]
+|distributor=[[Walt Disney Pictures]]
+|release=[[June 11]], [[2020]]
+|time=8 minutes
+|languages=English
+|preceded=''[[Frozen II]]''
+|followed=''[[Once Upon a Snowman]]''
+|imdb_id=11278760}}
+'''''Myth: A Frozen Tale''''' is an animated VR short based on [[Walt Disney Animation Studios|Disney]]'s [[2019]] animated feature film ''[[Frozen II]]'' which premiered on Oculus Quest on [[June 11]], [[2020]]. A conventional 2-D version of the short was released on [[Disney+]] on [[February 26]], [[2021]].
+
+== Synopsis ==
+Acting as a sort of prologue to ''Frozen II'', and narrated by [[Evan Rachel Wood]], ''Myth: A Frozen Tale'' immerses viewers in the world of the film and introduces you to the elemental spirits in a truly unique, spellbinding way. It was directed by Jeff Gipson, who previously directed the studio’s first VR short ''[[Cycles]]''. Production designer [[Brittney Lee]] gives the environment unique flair, inspired in part by such Disney legends as [[Mary Blair]] and [[Eyvind Earle]], while creating a look wholly her own.
+
+==Plot==
+As a father and his children enter the warm house from the cold, they are warmly greeted by the wife and grandmother. The father promised his children that the mother would read them one bedtime story and she concedes.
+
+The story is about the birth of the elements, starting with air as [[Gale]] wisps its way through a forest like setting and plays with a family of reindeer. This is shortly followed by fire, represented by [[Bruni]], as he skitters across the forest floor and creates streams of fire that seem to envelope everything. Waterfalls and streams crash into existence as [[The Nokk]] prances around the woods and floods the scene. Finally, mountains form as the [[Earth Giants]] tower over the forest and the viewer.
+
+All four elements are represented by four stone tablets. The mother narrates how a fifth spirit, the human spirit, helped keep the balance as they displayed rhythm and harmony. However, the human spirit came out of sync, causing all four elements to be consumed by chaos. She ends the story on a hopeful note with the prediction that should the human spirit find its way back, the spirits can sing together again. The final shot is of the now empty living room of the house as beautiful light shines through the window.
+
+==Cast==
+*Nick Fisher as Boy
+*[[John Lavelle]] as Dad
+*Bonnie Popp as Grandmother
+*Vivienne Rutherford as Girl
+*[[Evan Rachel Wood]] as Narrator (voice)
+
+==Trivia==
+*Evan Rachel Wood voiced [[Queen Iduna]] in ''[[Frozen II]]''.
+
+==Gallery==
+<gallery position="center" widths="185">
+Myth; A Frozen Tale - Bruni.jpg
+Myth; A Frozen Tale - Nokk.jpg
+Myth; A Frozen Tale - Earth Giant.jpg
+</gallery>
+
+==External links==
+*[https://collider.com/myth-a-frozen-tale-vr-short-oculus/ Frozen 2 Inspired Short Myth: A Frozen Tale Available Now on Oculus Quest]
+
+{{Frozen}}
+[[pt-br:As Lendas de Frozen 2]]
+[[Category:Frozen]]
+[[Category:Animated shorts]]

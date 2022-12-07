@@ -1,0 +1,59 @@
+{{Infobox film
+|image = Smash and Grab.jpg
+|director = Brian Larsen
+|producer = David M. Lally
+|writer =
+|music = 
+|studio = [[Pixar Animation Studios]]<br>[[Walt Disney Pictures]]
+|release = [[January 18]], [[2019]] (El Capitan Theater)<ref name="Spark">{{Cite web|website=/Film|url=https://www.slashfilm.com/pixar-sparkshorts-short-films/|title=Pixar's Announces New Short Film Program, SparkShorts|date=January 11, 2019}}</ref><br>[[February 11]], 2019 (YouTube)
+|cinematography =
+|editor =
+|runtime = 7 minutes
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|website = https://www.pixar.com/sparkshorts#smash1
+|preceded = ''[[Purl]]''
+|followed = ''[[Kitbull]]''
+|imdb_id = 7103168}}
+'''''Smash and Grab''''' is an experimental [[Pixar]] animated short film from a new division of the studio as part of Pixar's ''[[SparkShorts]]'' series. It was subsequently released on YouTube on [[February 11]], [[2019]], followed by its release on [[Disney+]] in late 2019.<ref name="Spark" />
+
+==Synopsis==
+After years of toiling away inside the engine room of a towering locomotive, two antiquated robots will risk everything for freedom and for each other.
+
+==Plot==
+Smash and Grab are two robots who, true to their names, smash and grab glowing rocks to use as fuel for a constantly moving train on a futuristic Mars-like planet. The two are attached to cords that constantly charge them and prevents them from leaving their jobs. To beat the boredom, the two partake in tossing and catching the rocks to throw into the furnace. After many failed attempts, they succeed and try to high-five one another, but are held back by their charging cords.
+
+Smash looks out the window of their locomotive and notices that there are other robots who are not attached to cords and instead have an orb-like battery attached to them that allows for free mobility. When the train stops, it picks up more batteries. Smash finally decides to sever his cord which immediately drops his energy to half. Smash promises to Grab that he will be back and sneaks out. Before returning with two batteries, Smash trips the alarm and he and Grab escape through the roof of the train while turrets are in hot pursuit.
+
+Out on the roof of the train, Smash and Grab proceed to use their abilities on the turrets, with one of them blowing up after Smash hits its battery. One of the turrets manages to blast Grab's arm off and Smash runs over to protect his friend. With no other choice, Smash tosses his battery at the turrets and blows them up, derailing the train in the process. Both robots survive, with Grab choosing to share his battery with Smash. After getting used to being attached to each other, the two wander off towards one of the floating structures that survey the landscape.
+
+==Gallery==
+<gallery position="center" spacing="small" captionalign="center">
+Smash_and_Grab_1.jpeg
+Smash_and_Grab_2.jpeg
+smash and grab image 3.jpg
+</gallery>
+
+==Videos==
+<gallery position="center" spacing="small" captionalign="center">
+Go Behind the Scenes of Smash and Grab Pixar SparkShorts
+Smash and Grab Pixar SparkShorts
+Meet the Filmmakers Behind Smash and Grab Pixar SparkShorts
+</gallery>
+
+==External links==
+*{{Interwiki|https://vignette.wikia.nocookie.net/pixar/images/6/64/Favicon.ico|pixar|Smash and Grab|Pixar Wiki}}
+
+==References==
+{{Reflist}}
+
+{{Disney+}}
+{{DISPLAYTITLE:''Smash and Grab''}}
+[[pt-br:Smash e Grab]]
+[[Category:Pixar shorts]]
+[[Category:Animated shorts]]
+[[Category:2019 films]]
+[[Category:3-D films]]
+[[Category:SparkShorts]]
+[[Category:Pixar]]
+[[Category:Featured shorts]]
+[[Category:Disney+ Originals]]

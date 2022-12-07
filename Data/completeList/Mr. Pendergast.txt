@@ -1,0 +1,22 @@
+{{Infobox character
+|name = Mr. Pendergast
+|image = 11863-15056.jpg
+|films = ''[[Pollyanna]]''
+|actor = Adolphe Menjou
+|alignment = Neutral, later Good
+|occupation = Recluse
+|fate = Adopts Jimmy Bean
+|friends = [[Pollyanna (character)|Pollyanna]], [[Jimmy Bean]]
+|home = Harrington}}'''Mr. Pendergast''' is the town recluse in ''[[Pollyanna]]''.
+
+{{Stub}}
+
+{{DEFAULTSORT:Pendergast}}
+[[Category:Live-action characters]]
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Pollyanna characters]]
+[[Category:Disney characters]]
+
+[[Category:Neutral characters]]

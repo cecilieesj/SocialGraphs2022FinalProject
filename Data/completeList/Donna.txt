@@ -1,0 +1,32 @@
+{{Template:Infobox character
+|name = Donna
+|image = Donna.jpg
+|shows = ''[[Once Upon a Time]]''
+|actor = [[Laura Bertram]]
+|alignment = Good
+|family = [[Stephen (Once Upon a Time)|Stephen]] (husband)<br>[[Geppetto]] (son)<br>[[Pinocchio (character)|Pinocchio]] (grandson)
+|enemies = [[Martin (Once Upon a Time)|Martin]], [[Myrna]]}}'''Donna''' is a character on [[ABC]]'s ''[[Once Upon a Time]]''.
+
+==History==
+In the [[Enchanted Forest]], Donna, along with her husband, [[Stephen (Once Upon a Time|Stephen]], is tricked by [[Jiminy Cricket]]'s parents about an elfin plague. They give them a fake serum as a cure. Unbeknownst to Jiminy, they switched the usual water serum they always use to scam people and give them the potion [[Rumplestiltskin]] had given Jiminy to get rid of his parents. After ingesting the potion, she and Stephen are turned into wooden puppets, which causes their son, [[Geppetto]], much alarm and grief when he sees them.
+
+After the casting of the curse, Donna and Stephen remain as puppets in [[Rumplestiltskin|Mr. Gold]]'s pawnshop collection.
+
+==Gallery==
+<gallery position="center">
+Once Upon a Time - 1x05 - That Still Small Voice - Donna.jpg
+Once Upon a Time - 1x05 - That Still Small Voice - Puppets.png
+</gallery>
+
+{{OnceUponATimeWiki}}
+{{Once Upon a Time}}
+[[Category:Females]]
+[[Category:Characters]]
+[[Category:Live-action characters]]
+[[Category:Deceased characters]]
+[[Category:Once Upon a Time characters]]
+[[Category:Parents]]
+[[Category:Grandparents]]
+[[Category:Adults]]
+[[Category:Spouses]]
+[[Category:Transformed characters]]

@@ -1,0 +1,28 @@
+{{Infobox character
+|image = SoggyNell.jpg
+|name = Soggy Nell
+|games = ''[[Toontown Online]]''
+|appearance = Magenta dog
+|occupation = Shopkeeper
+|alignment = Good/Neutral}}
+'''Soggy Nell''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC [http://toontown.wikia.com/wiki/Dog Dog] and a shopkeeper toon who owns [http://toontown.wikia.com/index.php?title=Melted_Ice_Cubes&action=edit&redlink=1 Melted Ice Cubes] on [http://toontown.wikia.com/wiki/Walrus_Way Walrus Way], in [http://toontown.wikia.com/wiki/The_Brrrgh The Brrrgh].
+
+==SOS Toon==
+﻿Soggy Nell is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. She is a 4-star Toons Hit. When called upon, she will use [http://toontown.wikia.com/wiki/Pixie_Dust Pixie Dust] on all toons in battle and guarantees them the ability to hit cogs, no matter what accuracy the [http://toontown.wikia.com/wiki/Gag Gag] is.
+
+''Toons Hit ''lasts 1 round.
+
+==Trivia==
+*All SOS Toons Hit start with the letter "S."
+*Coincidentally, two of the three toons both start with Soggy. This is shared with [http://toontown.wikia.com/wiki/Soggy_Bottom Soggy Bottom].
+
+{{CharacterStub}}
+
+﻿{{DEFAULTSORT:Nell, Soggy}}
+[[Category:Toontown characters]]
+[[Category:Dogs]]
+[[Category:Characters]]
+[[Category:Females]]
+[[Category:Characters in video games]]
+[[Category:Animated characters]]
+{{Toontown Online}}

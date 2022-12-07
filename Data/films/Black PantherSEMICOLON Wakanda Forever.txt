@@ -1,0 +1,214 @@
+{{Marvel Database:Film Template
+| Image                   = Black Panther Wakanda Forever poster 002.jpg
+| Aliases                 = Black Panther II, Summer Break (working title)
+
+| Universe                = Earth-199999
+| Directors               = Ryan Coogler
+| Producers               = Kevin Feige; Nate Moore
+| ComicWriters            = [[Stan Lee]], [[Jack Kirby]]
+| ScreenplayWriters       = Ryan Coogler; Joe Robert Cole
+| Musicians               = Ludwig Göransson
+| Cinematographers        = Autumn Durald
+| Editors                 = Michael P. Shawver; Kelley Dixon; Jennifer Lame
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = 161 minutes
+| Rating                  = '''MPAA''': Rated PG-13 for strong violence, action and some language
+| Budget                  = $205 million
+| Release Date            = November 9, 2022
+| US Release Date         = November 11, 2022
+
+| IMDB ID                 = 9114286
+| Marvel Movies           = {{PAGENAME}}
+| MCU                     = {{PAGENAME}}
+
+| Previous Film           = Black Panther (film)
+| Previous Film2          = {{sld|Avengers: Endgame}}
+| Next Film               = 
+
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1stas|[[Shuri (Earth-199999)|Black Panther (Princess Shuri)]]|[[Black Panther]]}} {{Flashback}}
+'''Supporting Characters:'''
+* {{Death|[[Ramonda (Earth-199999)|Queen Ramonda]]}} 
+* {{a|[[Dora Milaje (Earth-199999)|Dora Milaje]]}}
+** {{a|[[Okoye (Earth-199999)|General Okoye]]}} {{Leaves}}
+** {{a|[[Ayo (Earth-199999)|Ayo]]}}
+** {{1st|[[Aneka (Earth-199999)|Aneka]]|}}
+** {{a|[[Yama (Earth-199999)|Yama]]}}
+** {{a|[[Nomble (Earth-199999)|Nomble]]}}
+** {{1st|[[Midnight Angels (Earth-199999)|Midnight Angels]]}}
+* {{a|[[M'Baku (Earth-199999)|M'Baku]]}} 
+* {{1st|[[Riri Williams (Earth-199999)|Riri Williams]]}}
+* {{a|[[Everett Ross (Earth-199999)|Agent Everett Ross]]}} 
+* {{a|[[Nakia (Earth-199999)|Nakia]]}} 
+'''Antagonists:'''
+* {{1st|[[Atlanteans (Homo mermanus)|Talokanil]]}} {{Flashback}}
+** {{1st|[[K'uk'ulkan (Earth-199999)|Namor (K'uk'ulkan)]]}} {{Flashback}} {{Origin}}
+** {{1st|[[Namora (Earth-199999)|Namora]]}}
+** {{1st|[[Attuma (Earth-199999)|Attuma]]}}
+* {{a|[[Central Intelligence Agency (Earth-199999)|C.I.A.]]}}
+** {{a|[[Valentina Allegra de Fontaine (Earth-199999)|Director Valentina Allegra de Fontaine]]}}
+'''Other Characters:'''
+* {{FlashOnly|[[T'Challa (Earth-199999)|Black Panther (King T'Challa)]]}} {{Death}}
+* {{a|[[Griot (Earth-199999)|Griot]]}}
+* {{a|[[M'Kathu (Earth-199999)|M'Kathu]]}}
+* {{a|[[Zawavari (Earth-199999)|Zawavari]]}}
+* Wakandan Tribes
+** {{a|[[Jabari Tribe (Earth-199999)|Jabari Tribe]]}}
+** {{a|[[Border Tribe (Earth-199999)|Border Tribe]]}}
+** {{a|[[River Tribe (Earth-199999)|River Tribe]]}}
+** {{a|[[Merchant Tribe (Earth-199999)|Merchant Tribe]]}}
+** {{a|[[Mining Tribe (Earth-199999)|Mining Tribe]]}}
+** {{a|[[Golden Tribe (Earth-199999)|Golden Tribe]]}}
+* {{Vision|[[N'Jadaka (Earth-199999)|Killmonger (N'Jadaka)]]}}
+* {{1st|[[T'Challa II (Earth-199999)|T'Challa II]]}}
+* {{Mentioned|[[Bast (Earth-199999)|Bast]]}}
+* {{Mentioned|[[T'Chaka (Earth-199999)|King T'Chaka]]}}
+* {{Mentioned|[[Hanuman (Deity) (Earth-199999)|Hanuman]]}}
+* {{Mentioned|[[Scott Lang (Earth-199999)|Ant-Man (Scott Lang)]]}}
+* {{Mentioned|[[Anthony Stark (Earth-199999)|Iron Man]]}}
+* {{Mentioned|[[W'Kabi (Earth-199999)|W'Kabi]]}}
+* {{Mentioned|[[Olumo Bashenga (Earth-199999)|Bashenga]]}}
+* {{Mentioned|[[Helmut Zemo (Earth-199999)|Helmut Zemo]]}}
+* {{Mentioned|[[Bruce Banner (Earth-199999)|Hulk]]}}
+* {{Mentioned|[[Thanos (Earth-199999)|Thanos]]}}
+'''Races and Species:'''
+* {{Flashback|[[Humans (Homo sapiens)|Humans]]}}
+* [[Atlanteans (Homo mermanus)|Talokanil]] {{1st}} {{Flashback}} {{Origin}}
+* {{Flashback|[[Mutants (Homo superior)|Mutants]]}} 
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[Africa]]}}
+**** {{a|[[Wakanda]]}}
+***** {{a|[[Mena Ngai|Great Mound]]}}
+***** {{a|[[Birnin Zana (Earth)|Birnin Zana]]}}
+****** {{a|[[Royal Palace of Wakanda]]}}
+***** {{a|[[Warrior Falls]]}}
+***** {{a|[[Jabari-Lands]]}}
+****** {{a|[[Jabari Village]]}}
+**** {{a|[[Nigeria]]}}
+**** {{a|[[Mali]]}}
+*** {{a|[[North America]]}}
+**** {{a|[[United States of America]]}}
+***** {{a|[[Massachusetts (State)|Massachusetts]]}}
+****** {{a|[[Cambridge]]}}
+******* {{a|[[Massachusetts Institute of Technology]]}}
+***** {{a|[[Virginia (State)|Virginia]]}}
+****** {{a|[[Langley]]}}
+******* {{a|[[George Bush Center for Intelligence|C.I.A. Headquarters]]}}
+**** {{Flashback|[[Mexico]]}}
+***** {{Flashback|[[Yucatan]]}}
+**** {{a|[[Haiti]]}}
+*** {{1st|[[Talokan]]}}
+** {{a|[[Djalia|Ancestral Plane]]}}
+'''Items:'''
+* {{a|[[Vibranium]]}}
+** {{a|[[Panther Habit]]s}}
+** {{a|[[Kimoyo Beads]]}}
+** {{a|[[Vibranium Spears]]}}
+** {{1st|[[Vibranium Energy Daggers|Sonic Daggers]]}}
+** {{a|[[Vibranium Strike Gauntlets]]}}
+** {{a|[[Ring Blades]]}}
+** Dora Milaje Armor
+** {{1st|[[Midnight Angel Armor]]}}
+* {{a|[[Heart-Shaped Herb]]s}}
+* M'Baku's War Club
+* {{a|[[Arc Reactor]]}}
+* [[Ironheart Armor]]
+** {{1st|[[Ironheart Armor Model 1]]}}
+** {{1st|[[Ironheart Armor Model 2]]}}
+'''Vehicles:'''
+* {{a|[[Royal Talon Fighter]]}} 
+* {{a|[[Dragon Flyers]]}}
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Danai Gurira|Danai Gurira]] as [[Okoye (Earth-199999)|Okoye]]{{r|{{cite web|url= https://comicbook.com/marvel/2019/07/26/marvel-black-panther-2-danai-gurira-confirms-return-okoye/|title= Black Panther 2: Danai Gurira Confirms Return as Okoye|work= Comic Book|last= Bonomolo|first= Cameron|date= July 26, 2019|accessdate= August 24, 2019}}}}
+
+* [[wikipedia:Martin Freeman|Martin Freeman]] as [[Everett Ross (Earth-199999)|Everett Ross]]{{r|{{cite web|url= http://collider.com/black-panther-2-martin-freeman/|title= ‘Black Panther 2’: Martin Freeman Confirms the Return of Everett Ross|work= Collider|last= Mancuso|first= Vinnie|date= August 16, 2019|accessdate= August 24, 2019}}}}
+
+* [[wikipedia:Letitia Wright|Letitia Wright]] as [[Shuri (Earth-199999)|Princess Shuri]]{{r|{{cite web|url=https://deadline.com/2018/11/john-boyega-letitia-wright-hold-back-the-stars-science-fiction-star-wars-black-panther-mike-cahill-katie-khan-1202498688/|title=Hot Package: John Boyega, Letitia Wright To Star In Mike Cahill-Directed Sci-Fi ‘Hold Back The Stars’|work=Deadline|last=Fleming|first=Mike Jr.|date=8 November 2018|accessdate=24 August 2019}}}}
+
+* [[wikipedia:Lupita Nyong'o|Lupita Nyong'o]] as [[Nakia (Earth-199999)|Nakia]]{{r|{{cite web|url= https://twitter.com/AM2DM/status/1228790083093958656|title= “It will be lovely to have that ‘school reunion' of sorts.” @Lupita_Nyongo says she’s excited to reunite with the #BlackPanther cast|work=Twitter|author= AM2DM by BuzzFeed News|date= February 15, 2020|accessdate= February 15, 2020}}}}
+
+* [[wikipedia:Angela Bassett|Angela Bassett]] as [[Ramonda (Earth-199999)|Queen Ramonda]]{{r|{{cite web|url= https://www.youtube.com/watch?v=QY4tOuQCJnk|title= Angela Bassett Lets a Black Panther Sequel Tease Slip|work=Youtube|author= The Tonight Show Starring Jimmy Fallon|date= March 12, 2020|accessdate= April 03, 2020}}}}
+
+* [[wikipedia:Winston Duke|Winston Duke]] as [[M'Baku (Earth-199999)|M'Baku]]<ref name="Huerta">{{cite web|url=https://www.hollywoodreporter.com/heat-vision/marvels-black-panther-sequel-shoot-to-begin-in-july-exclusive|title=Marvel's 'Black Panther' Sequel Shoot to Begin in July (Exclusive)|last=Kit|first=Borys|coauthors=Couch, Aaron|work=The Hollywood Reporter|date=20 November 2020|accessdate=20 November 2020}}</ref> 
+
+* [[wikipedia:Dominique Thorne|Dominique Thorne]] as [[Riri Williams (Earth-199999)|Ironheart / Riri Williams]] {{r|{{cite web|url= https://variety.com/2021/film/news/ironheart-black-panther-wakanda-forever-1235045088/|title= ‘Black Panther 2’ Will Introduce ‘Ironheart’ Star Dominique Thorne Ahead of Disney Plus Show|work= Variety|last= Moreau|first= Jordan|date= August 19, 2021|accessdate= August 19, 2021}}}}
+
+* {{WP|Tenoch Huerta}} as [[K'uk'ulkan (Earth-199999)|Namor / K'uk'ulkan]]<ref name="HuertaIGN">{{Cite web |last=Bailey |first=Kat |date=July 23, 2022 |title=Tenoch Huerta Confirmed To Play Namor In Black Panther: Wakanda Forever |url=https://www.ign.com/articles/tenoch-huerta-namor-wakanda-forever |url-status=live |archive-url=https://web.archive.org/web/20220724024856/https://www.ign.com/articles/tenoch-huerta-namor-wakanda-forever |archive-date=July 23, 2022 |access-date=July 23, 2022 |website=[[IGN]]}}</ref>
+
+* {{WP|Michaela Coel}} as [[Aneka (Earth-199999)|Aneka]]{{r|{{cite web|url= https://www.hollywoodreporter.com/movies/movie-news/black-panther-2-michaela-coel-1234986287/|title= ‘Black Panther’ Sequel Adds Michaela Coel|work= THR|last= Galuppo|first= Mia|date= July 21, 2021|accessdate= July 22, 2021}}}}
+
+| Notes                   = * [[wikipedia:Chadwick Boseman|Chadwick Boseman]] was scheduled to reprise his lead role as [[T'Challa (Earth-199999)|Black Panther]] for this film, before his death on August 28, 2020. Following Boseman's death, there were no plans to recast the role nor to use CGI to replicate his likeness in any capacity.<ref name="Shareholder">{{cite web|url= https://www.marvel.com/articles/movies/black-panther-2-wakanda|title= ‘Black Panther 2' Will Explore the World of Wakanda|work= Marvel.com|last= Paige|first= Rachel|date= December 10, 2020|accessdate= December 11, 2020}}</ref><ref name="World of Wakanda">{{cite web|url= https://deadline.com/2021/01/marvel-kevin-feige-interview-wandavision-black-panther-2-chadwick-boseman-black-widow-disney-1234670774/|title= Marvel Boss Kevin Feige On ‘Black Panther 2’ Post Boseman, ‘Black Widow’ Release & Why Streaming Plans Won’t Burn MCU At The B.O.|work= Deadline|last= D'Alessandro|first= Anthony|date= January 11, 2021|accessdate= January 11, 2021}}</ref>
+* Originally slated to be released on May 6, 2022, this film was later pushed back to July 8, 2022.<ref name="Shareholder"/> The release date was later taken by {{sl|Thor: Love and Thunder}}, pushing this film back to November 11, 2022, taking the release date of {{sl|The Marvels}}.{{r|{{cite web|url= https://variety.com/2021/film/news/disney-delays-doctor-strange-thor-black-panther-1235091673/|title= Disney Delays ‘Doctor Strange 2,’ ‘Thor 4,’ ‘Black Panther’ Sequel and ‘Indiana Jones 5’|work= Variety|last= Rubin|first= Rebecca|date= October 18, 2021|accessdate= October 18, 2021}}}}
+* Marvel Studios President [[Kevin Feige]] stated that the primary goal of the sequel has always been to further the mythology of [[Wakanda]] by exploring its different subcultures and characters.<ref name="World of Wakanda"/>
+
+==Gallery==
+===Images===
+====Posters====
+<gallery>
+Black Panther Wakanda Forever poster 001.jpg
+Black Panther Wakanda Forever poster 001 Textless.jpg
+Black Panther Wakanda Forever poster 002 Textless.jpg
+Black Panther Wakanda Forever poster 017.jpg
+Black Panther Wakanda Forever poster 015.jpeg
+Black Panther Wakanda Forever poster 015 Textless.jpg
+Black Panther Wakanda Forever poster 016.jpg
+Black Panther Wakanda Forever poster 016 Textless.jpg
+Black Panther Wakanda Forever poster 018.jpg
+Black Panther Wakanda Forever poster 019.jpg
+Black Panther Wakanda Forever poster 003.jpg
+Black Panther Wakanda Forever poster 004.jpg
+Black Panther Wakanda Forever poster 005.jpg
+Black Panther Wakanda Forever poster 006.jpg
+Black Panther Wakanda Forever poster 007.jpg
+Black Panther Wakanda Forever poster 008.jpg
+Black Panther Wakanda Forever poster 009.jpg
+Black Panther Wakanda Forever poster 010.jpg
+Black Panther Wakanda Forever poster 011.jpg
+Black Panther Wakanda Forever poster 012.jpg
+Black Panther Wakanda Forever poster 013.jpg
+Black Panther Wakanda Forever poster 014.jpg
+Black Panther Wakanda Forever poster 003 Textless.jpg
+Black Panther Wakanda Forever poster 004 Textless.jpg
+Black Panther Wakanda Forever poster 007 Textless.jpg
+Black Panther Wakanda Forever poster 008 Textless.jpg
+Black Panther Wakanda Forever poster 014 Textless.jpg
+Black Panther Wakanda Forever poster 020.jpg
+Black Panther Wakanda Forever poster 021.jpg
+Black Panther Wakanda Forever poster 023.jpg
+Black Panther Wakanda Forever poster 024.jpg
+Black Panther Wakanda Forever poster 025.jpg
+Black Panther Wakanda Forever poster 026.jpg
+Black Panther Wakanda Forever poster 020 Textless.jpg
+Black Panther Wakanda Forever poster 021 Textless.jpg
+Black Panther Wakanda Forever poster 023 Textless.jpg
+Black Panther Wakanda Forever poster 024 Textless.jpg
+Black Panther Wakanda Forever poster 025 Textless.jpg
+Black Panther Wakanda Forever poster 026 Textless.jpg
+</gallery>
+====Logos====
+<gallery>
+Black Panther Wakanda Forever Logo.png
+</gallery>
+===Videos===
+====Trailers====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios Celebrates The Movies
+Marvel Studios’ Black Panther- Wakanda Forever - Official Teaser
+Marvel Studios’ Black Panther- Wakanda Forever - Official Trailer
+</gallery>
+
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}
+[[es:Pantera Negra: Wakanda Por Siempre]]
+[[it:Black Panther II]]
+[[ru:Чёрная пантера 2]]
+[[tr:Black Panther: Wakanda Forever]]
+[[Category:Marvel Studios]]

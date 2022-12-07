@@ -1,0 +1,53 @@
+{{Infobox film
+|image = Polar Bear Premiere poster.jpg
+|director = Alastair Fothergill<br>Jeff Wilson
+|producer = Alastair Fothergill<br>Jeff Wilson<br>Jason Roberts<br>Keith Scholey<br>Roy Conli
+|starring = [[Catherine Keener]] (narration)
+|music = [[Harry Gregson-Williams]]
+|studio = [[Disneynature]]
+|distributor = [[Disney+]]
+|release = [[April 22]], [[2022]]
+|time = 84 minutes
+|language = English
+|imdb_id = 
+|preceded=''[[Elephant]]''}}
+'''''Polar Bear''''' is a [[Disneynature]] documentary film, centered around polar bears in the Arctic.
+
+The film was released on [[Disney+]] on [[April 22]], [[2022]], accompanied by a feature-length documentary on its production titled ''Bear Witness''.
+
+==Summary==
+The film follows the story of a new mother whose memories of her own youth prepare her to navigate motherhood in the increasingly challenging world that polar bears face today.
+
+==Trivia==
+*This film marks the first Disneynature film to be rated PG by the MPA, unlike all of the previous Disneynature films, which were rated G.
+*This film marks the first Disneynature film to be produced in a 2:39:1 aspect ratio since ''[[Oceans]]''.
+*While there was another Polar Bear movie called Arctic Tale, this one had a different storyline and different issues.
+
+== Gallery ==
+<gallery>
+File:Polar Bear logo.jpg|Logo
+File:Polar bear first look 1.jpeg
+File:Polar bear first look 3.jpg
+File:Polar bear first look 2.jpg
+File:Polar bear first look 4.jpg
+</gallery>
+
+==Video==
+<gallery position="center">
+Official Trailer - Disneynature’s Polar Bear - Disney+-2
+</gallery>
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{Disney+}}
+[[pt-br:A Ursa Polar]]
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:Disneynature films]]
+[[Category:Films about animals]]
+[[Category:Documentaries]]
+[[Category:2022 films]]
+[[Category:Disney+ Originals]]
+[[Category:Nature documentaries]]
+[[Category:PG-rated films]]

@@ -1,0 +1,104 @@
+{{Infobox film
+| Title        = The Tenderfoot
+| Series       = The Wonderful World of Disney
+| Image        = [[File:TheTenderfootScreenshot.jpg]]
+| image size   = 250px
+| Caption      = Screen shot of opening sequence of ''The Tenderfoot''
+| Season       = 11
+| Series no    = 
+| Episode      = 4, 5 and 6
+| Airdate      = October 18, 1964<br>Part I<br>October 25, 1964<br>Part II<br>November 1, 1964<br>Part III
+| Runtime       = 100 min.
+| Production   = 11.4, 11.5, and 11.6
+| Writer       = Maurice Tombragel
+| Director     = Robert L. Friend<br>Part I<br>Byron Paul<br>Part II, Part III
+| Producer     = Walt Disney<br>Ron W. Miller
+| Editor       = Edward W. Williams
+| Music        = Joseph E. Romero
+| Photographer = John L. Russell
+| Guests       = Brandon deWilde<br>[[Brian Keith]]<br>James Whitmore<br>Richard Long (actor)|Richard Long<br>James Daly (actor)|James Daly<br>Nehemiah Persoff
+| Episode list = 
+| Prev         = A Rag, A Bone, A Box of Junk
+| Next         = One Day at Teton Marsh
+|imdb_id =}}
+'''''The Tenderfoot''''' is a three-part live action television miniseries comedy Western film produced in 1964 for [[Walt Disney]]'s ''The Wonderful World of Color''. It is based on James H. Tevis' book ''Arizona in the 50s''. It was directed by Robert L. Friend and Byron Paul.
+
+Starring Brandon deWilde of ''Shane'' (1953) and Disney veteran [[Brian Keith]] (''The Parent Trap'') in the title roles. It aired in 3 parts over 3 consecutive weeks beginning on Sunday, October 18, 1964. It also starred James Whitmore, Richard Long, James Daly, and Nehemiah Persoff in principal roles.
+
+''The Tenderfoot'' was aimed at teens and featured character actors of the period. Also appearing was 15-year-old Disney regular Roger Mobley. This was typical of past Disney live action TV productions, most notable being ''The Scarecrow of Romney Marsh'' (1964).
+
+On-location filming occurred on [[California]]'s Santa Catalina Island and Channel Islands. Highlights include the roundup of wild mustangs and a climactic horse race.
+
+Brandon deWilde had previously appeared in ''All Fall Down'' (1962) with [[Warren Beatty]] and ''Hud'' (1963) with [[Paul Newman]]. Brian Keith would be a scene stealer and filmed with deWilde for Disney again the following year in ''[[Those Calloways]]'', as his father.<ref name="RememberingBrandon.net">[http://www.rememberingbrandon.net/The-Tenderfoot.html RememberingBrandon.net]</ref>
+
+Song "The Tenderfoot" by Disney Legend [[Richard M. Sherman]].
+
+''The Tenderfoot'' would be released theatrically through Europe in 1966. It aired on the [[Disney Channel]] as an edited-down 2-hour feature in the 1990s.
+
+Tevis' ''Arizona in the 50s'', written in 1880 and not published until 1953 and out of print for the last 50 years, has recently been edited by Betty Barr and Dr. William J. Kelly and rereleased.
+
+==Plot==
+Jim Tevis (Brandon deWilde), shortly after arriving in 1856 Arizona from the East, meets up with Mose Carson (Brian Keith), self-proclaimed big brother of legendary frontier scout Kit Carson. According to Mose, Kit learned everything from him and it should really be him that is famous. Mose consoles himself by staying drunk and avoiding Indian fights. Captain Ewell (James Whitmore) is a veteran Indian fighter and Paul Durand (Richard Long) is a misfit soldier and ladies' man. Carson and Ewell take a quick liking to the young Tevis and both agree to make him Mose's junior scout. Together they all wind up in a search for buried treasure with Captain Malcione (Nehemiah Persoff) as the primary villain.
+
+==Cast==
+{| class="wikitable" width="50%"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| Brandon deWilde || Jim Tevis
+|-
+| [[Brian Keith]] || Mose Carson
+|-
+| James Whitmore || Captain Ewell
+|-
+| Richard Long || Paul Durand
+|-
+| Donald May || Thatcher
+|-
+| Christopher Dark || Pike
+|-
+| Rafael Campos || Juarez
+|-
+| James Daly || Uncle Max
+|-
+| Roger Mobley || Dave Jones
+|-
+| Nehemiah Persoff|| Captain Malcione
+|}
+
+==Home media==
+''The Tenderfoot'' has never been released on home media by [[Walt Disney Studios Home Entertainment]].
+
+==Gallery==
+<gallery>
+1964-cowboy-00.jpg
+1964-cowboy-01.jpg
+1964-cowboy-02.jpg
+1964-cowboy-03.jpg
+1964-cowboy-04.jpg
+1964-cowboy-05.jpg
+1964-cowboy-06.jpg
+1964-cowboy-07.jpg
+English pb ugly dachshund and winnie the pooh and the honey tree HP00909 L.jpg
+260082423686981 mainphotos.jpg
+Tendfoot1.jpg
+Tendfoot2.jpg
+</gallery>
+
+==References==
+<references />
+
+==External links==
+*{{IMDb|title/tt0561365|The Tenderfoot (Part I)}}
+*{{IMDb|title/tt0561366|The Tenderfoot (Part II)}}
+*{{IMDb|title/tt0058640|The Tenderfoot (Part III)}}
+*[http://azinthe50s.wordpress.com/ ''Arizona in the 50s'' Review and Background]
+
+{{Wikipedia}}
+
+{{DEFAULTSORT:Tenderfoot, The}}
+{{DISPLAYTITLE:''The Tenderfoot''}}
+[[Category:Multi-part episodes]]
+[[Category:Walt Disney anthology series episodes]]
+[[Category:Television episodes]]
+[[Category:Western Films]]

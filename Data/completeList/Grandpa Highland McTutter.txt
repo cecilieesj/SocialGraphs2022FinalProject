@@ -1,0 +1,40 @@
+{{Infobox character
+|name = Grandpa Highland McTutter
+|image = Highlandmctutter.jpg
+|films = 
+|shows = ''[[Bear in the Big Blue House]]''
+|animator = 
+|voice = 
+|model = 
+|designer = 
+|personality = 
+|appearance =
+|occupation = 
+|family = [[Tutter]] (grandson)
+|alignment = Good
+|minions =
+|quote = 
+|actor = 
+|friends = 
+|enemies = 
+|likes = 
+|dislikes = 
+|rides = 
+|alias = }}'''Grandpa Highland McTutter''' is [[Tutter]]'s Scottish grandfather. He appeared in the ''[[Bear in the Big Blue House]]'' episode "[[The Tutter Family Reunion]]", along with other relatives. It is unknown if he's Tutter's maternal or paternal grandfather; [[Grandma Flutter]] is his maternal grandmother.
+
+==Gallery==
+<gallery>
+Grandpahighland.jpg
+Tutterfamily.jpg
+</gallery>
+
+{{CharacterStub}}
+{{Bear in the Big Blue House}}
+[[Category:Males]]
+[[Category:Bear in the Big Blue House characters]]
+[[Category:Live-action characters]]
+[[Category:Mice]]
+[[Category:Characters]]
+[[Category:Scottish characters]]
+[[Category:Parents]]
+[[Category:Grandparents]]

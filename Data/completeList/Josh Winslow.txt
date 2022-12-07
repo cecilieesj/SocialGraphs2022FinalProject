@@ -1,0 +1,21 @@
+{{Infobox_character
+|image = Josh Winslow.png
+|name = Josh Winslow
+|films = [[Tower of Terror (film)]]
+|rides = [[The Twilight Zone Tower of Terror]]
+|designer = [[D.J. MacHale]]
+|actor = Marcus Smythe
+}}
+'''Josh Winslow''', is a character featured both in the film [[Tower of Terror (film)|Tower of Terror]] and its [[Tower of Terror (book)|junior novelization]]. In the original film, Josh was simply credited as an unnamed surgeon.
+
+== Background ==
+Winslow is a struggling Los Angeles actor who periodically is a model for [[Buzzy Crocker]], to photograph.
+
+{{stub}}
+
+{{Tower of Terror}}
+
+{{DEFAULTSORT:Winslow, Josh}}
+[[Category:The Twilight Zone Tower of Terror]]
+[[Category:Tower of Terror Characters]]
+[[Category:The Twilight Zone Tower of Terror]]

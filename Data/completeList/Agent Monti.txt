@@ -1,0 +1,59 @@
+{{Infobox character
+|image = Agent Monti - Profile.png
+|name = Agent Monti
+|films = 
+|shorts = 
+|shows = ''[[WandaVision]]''
+|games = 
+|rides = 
+|animator = 
+|designer = 
+|voice = 
+|actor = Alan Heckner
+|model = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = The Strongman
+|occupation = Agent of [[S.W.O.R.D.]] 
+|affiliations = S.W.O.R.D. 
+|home = 
+|likes = 
+|dislikes = 
+|powers = 
+|paraphernalia =
+|status = Active
+|family = 
+|pets = }}
+
+{{Quote|I'm afraid that's highly classified.|Agent Monti to [[Darcy Lewis]]|We Interrupt This Program}}
+
+'''Agent Monti''' is a character in the [[Marvel Cinematic Universe]] featured in the [[Marvel Studios|Marvel]] [[Disney+]] series, ''[[WandaVision]]''. He is an agent of [[S.W.O.R.D.]], based outside of Westview, investigating the disappearance of the towns residents and fellow agent, [[Monica Rambeau]]. He works under [[Director Hayward]] and also follows [[Scarlet Witch|Wanda Maximoff]]'s involvement in the case. When the reality-altering barrier covering the town expands, Monti becomes trapped within it and is transformed into '''The Strongman'''. He makes his debut in the [[We Interrupt This Program|forth episode]], and is portrayed by Alan Heckner.
+
+==Appearances==
+===[[Marvel Cinematic Universe]]===
+====''[[WandaVision]]''====
+Agent Monti is part of the ensemble of [[S.W.O.R.D.]] agents, brought in and based outside of [[Westview]], to investigate Captain [[Monica Rambeau]]'s disappearance. The team discover that Westview is impenetrable, and work on a means of breaking through. When [[Darcy Lewis]] arrives to their Response Base, Monti incorrectly refers to her as "Ms." but Darcy is quick to correct him with "Dr.". He guides her to her workstation and when she asks what kind of data S.W.O.R.D. are receiving from their imaging drones, he refuses, on the basis that it is classified information, and she infers that they can't see anything. As Darcy gets settled, she asks if there's a chance she could get coffee, and begins making small talk, before Monti interrupts her and asks she make her assessment. She reveals that she found a colossal amount of CMBR, and upon his confused expression, she explains that it stands for Cosmic Microwave Background Ration. He informs her that they were told the radiation was within a safe limit, and she imparts that it is for now. Monti asks Darcy to further explain, but she quickly shushes him, as she continues to analyse her data. When Darcy manages to pull an image, concurrently of Westview, on a device with a small screen, she requests to Monti, that he get her an old television set. Later on, Monti and the other agents conduct a mission, in which [[Agent Franklin]], enters the town to locate Monica, through the sewage system. The group keep a wire attached to his hazmat suit, so they can keep him in safe proximity, and call him back, in the case of danger. S.W.O.R.D. eventually learn that the residents of Westview are trapped in a sitcom, in which [[Scarlet Witch|Wanda Maximoff]] and [[Vision]] are the subjects. When Monti's team decide it's time to retrieve Franklin, they recall the wire attached to him, but find he has been separated from it.
+
+Monti later attends a meeting, in which Hayward briefs the team on what they've discovered on Westview, and Wanda Maximoff. While Monica Rambeau flies a drone through Westview, Hayward signals Monti, to override the control, and fire a missile at Wanda. Following this, the alarm then goes off, and Monti tells Hayward that their base has been breached. The agents rush outside, and are confronted by an angry Wanda, who warns them to stay out her way. She throws the missile at Haywards feet, and before she leaves, uses her powers to make the S.W.O.R.D. team, aim their firearms at him.
+
+Following Hayward and Wanda's showdown, Monti watches as his Director get into an argument with Monica, Darcy and [[Jimmy Woo]], and has them removed from the base. When Hayward tracks Vision by the borders of Westview, he has Monti, and his other men travel, to reach him. The group watch as Vision struggles to pass through the barrier, and when he does, his begins dying, as his body starts disintegrating. Darcy Lewis runs towards the android, asking why no one is helping him, so Monti quickly grabs ahold of her, and handcuffs her to the car. When the Hex begins to expand, Monti gets trapped inside, and becomes part of the same prison, as Westview's residents.
+
+In this new reality, Monti, as well as various other S.W.O.R.D. members, becomes part of a circus act. They're are given new personalities, and Monti is now known as The Strongman. Upon seeing Vision, The Strongman assumes he is the new clown and informs him he is late for rehearsal with The Escape Artist. When Vision and The Escape Artist begin to leave in the ice cream van, The Strongman bangs on the window, and demands he exit the vehicle, so he can be on stage.
+
+Eventually the Hex begins to disappear, restoring all those affected, to their original state. Wanda leaves Westview, and Agent Monti regains his identity.
+
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Monti|Marvel Cinematic Universe Wiki}}
+
+{{Marvel Cinematic Universe}}
+[[Category:WandaVision characters]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:S.W.O.R.D. agents]]
+[[Category:Live-action characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:American characters]]
+[[Category:Characters Under Spells]]
+[[category:Circus performers]]
+[[Category:Henchmen]]

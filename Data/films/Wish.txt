@@ -1,0 +1,56 @@
+{{Upcoming|media=film}}
+{{Infobox_film
+|image = Wish Logo.jpg
+|director = [[Chris Buck]]<ref name="Comicbook"/><br>Fawn Veerasunthorn<ref name="Comicbook"/>
+|writer = Jennifer Lee<ref name="Comicbook"/>
+|producer = Peter Del Vecho<ref name="Comicbook"/><br>Juan Pablo Reyes<ref name="Comicbook"/><br>[[Jennifer Lee]] {{Small|(Executive Producer)}}
+|starring = [[Ariana DeBose]]<br>[[Alan Tudyk]]
+|studio = [[Walt Disney Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[November 22]], [[2023]]
+|language = English
+|preceded = ''[[Strange World]]''
+|music = Julia Michaels (songs)<ref name="Comicbook"/>
+|imdb_id = 11304740
+}}
+'''''Wish''''' is an upcoming American animated musical film produced by [[Walt Disney Animation Studios]]. It is scheduled to be released on [[November 22]], [[2023]] and will be the 62nd animated feature in the [[Disney Animated Canon]]. The film will be written by [[Jennifer Lee]] and directed by [[Chris Buck]] and Fawn Veerasunthorn.<ref name="Comicbook">{{Cite web|url=https://comicbook.com/movies/news/disneys-wish-animated-musical-wishing-star-announced-2023-ariana-debose/|title=Disney's Wish, Animated Musical About Wishing Star, Announced For 2023 With Ariana DeBose|website=Comicbook|accessdate=September 10, 2022}}</ref>
+
+==Synopsis==
+''Wish'' follows Princess Asha and her goat Valentino from the Kingdom of Rosas as she meets a literal star and goes through an epic adventure among the stars through the various worlds to help save her people. 
+
+==Cast==
+*[[Ariana DeBose]] as [[Asha]]<ref name="Comicbook"/>
+*[[Alan Tudyk]] as [[Valentino]]<ref name="Comicbook"/>
+
+==Trivia==
+*As this film comes out during Disney's 100th anniversary, the fact that the plot is based on a wishing star similar to the one introduced in ''[[Pinocchio (film)|Pinocchio]]'', and the stars seen in subsequent films such as ''[[Peter Pan (film)|Peter Pan]]'', ''[[Lady and the Tramp]]'', and ''[[The Princess and the Frog]]'', which serve as Disney's most iconic symbol, being mainly used in the first shot of the Disney castle logo since 2006, it can easily be considered a celebration for the company's centennial and possibly a "spiritual prequel" to ''Pinocchio''.
+*The art style of the film will combine traditional hand drawn animation, Disney's original art style, with CG animation.<ref name="IGN">{{Cite web|url=https://www.ign.com/articles/disneys-2023-animated-film-is-called-wish|title=Disney's 2023 Animated Film Is Called Wish|website=IGN|accessdate=September 10, 2022}}</ref>
+*This is the third [[Walt Disney Animation Studios]] film to be released on [[November 22]], after ''[[Beauty and the Beast (1991 film)|Beauty and the Beast]]'' and ''[[Frozen II]]''.
+*The film will reportedly have a bunch of Easter eggs referencing past Disney Animated Canon films.
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+Wish-Logo-Reveal.jpg|Logo
+Asha.jpg|First look at Asha
+Star First Look.jpg|First look at [[Star]] character
+Valentino-the-Goat.jpg|First look at Valentino
+Wish First Look.jpg
+File:D23 EXPO - Asha and Valentino display 1.jpg
+File:D23 EXPO - Asha and Valentino display 2.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{Wish}}
+{{Disney theatrical animated features}}
+{{DISPLAYTITLE:''Wish''}}
+[[pt-br:Wish]]
+[[Category:Disney animated features canon]]
+[[Category:Animated films]]
+[[Category:Disney films]]
+[[Category:2023 films]]
+[[Category:3-D films]]
+[[Category:Disney animated films]]
+[[Category:Musicals]]
+[[Category:Wish]]

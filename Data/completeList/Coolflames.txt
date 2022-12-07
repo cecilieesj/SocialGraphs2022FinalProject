@@ -1,0 +1,23 @@
+{{Group Infobox
+|name= 
+|image=Coolflame.jpg
+|films=
+|shows=
+|games=''[[PK: Out of the Shadows]]''
+|members = Various aliens
+|affiliation=[[Evronians]]
+}}'''Coolflames''' are slaves of the [[Evronians]]. They are prisoners of war from different planets, who are drained from their emotions and turned into silent, peaceful servants.
+
+==Gallery==
+<gallery>
+Coolflames.jpg|Assorted coolflames
+</gallery>
+{{CharacterStub}}
+{{PKNA}}
+[[Category:Characters in video games]]
+[[Category:Creatures]]
+[[Category:Aliens]]
+[[Category:Characters]]
+[[Category:Donald Duck universe characters]]
+[[Category:Henchmen]]
+[[Category:Servants]]

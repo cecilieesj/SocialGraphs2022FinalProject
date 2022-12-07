@@ -1,0 +1,32 @@
+{{Infobox character
+|image = ABE.jpg
+|name = A.B.E.
+|games = ''[[Epic Mickey 2: The Power of Two]]''
+|occupation = Host of the Train Tunnels
+|alignment = Good
+|weapons = Robotic Arm
+|possessions = Microphone
+|quote = "Come on by any time! 'Cause, I'll be here, good as new! Thanks a lot, fellas, and good luck!"}}
+'''A.B.E.''' (short for '''Automatic Branch Engineer''') is an animatronic train conductor with a Jimmy Stewart-like voice created by [[Gremlin Prescott]] who looks after the [[Cartoon Wasteland|Wasteland's]] [[Train Tunnels|Train Tunnel]] Dioramas in ''[[Epic Mickey 2: The Power of Two]]''.
+
+He asks [[Mickey Mouse|Mickey]] and [[Oswald the Lucky Rabbit|Oswald]] to help fix the three dioramas and to repair the damage caused by the quake. The player receives a golden pin after repairing the dioramas, however, if the players damage any of the dioramas, A.B.E. will summon [[Beetleworx]] to attack them.
+
+His exact origin is unknown, although it is believed that he is partially based on an animatronic [[Abraham Lincoln]] from various American Disney attractions, he also shares some similarities to other animatronic robot characters such as the [[Timekeeper]] and [[Tom Morrow]].
+
+==Gallery==
+<gallery>
+TRT Lighting 05.jpg
+</gallery>
+
+{{CharacterStub}}
+{{Epic Mickey}}
+[[Category:Characters]]
+[[Category:Epic Mickey characters]]
+[[Category:Robots]]
+[[Category:Mechanics]]
+[[Category:Characters in video games]]
+[[Category:Disney characters]]
+[[Category:Characters introduced in video games]]
+[[Category:Animated characters]]
+[[Category:Disney Interactive Studios characters]]
+[[Category:Engineers]]

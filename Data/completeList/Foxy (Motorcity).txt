@@ -1,0 +1,38 @@
+{{Infobox character
+|image = Foxy3.png
+|shows = ''[[Motorcity]]''
+|voice = [[Jennifer Hale]]
+|affiliations = [[The Amazons]]
+|home = [[Motorcity, Detroit]]}}'''Foxy''' is a [[Motorcity, Detroit|Motorcity]] bounty hunter and leader of [[The Amazons]] in ''[[Motorcity]]''.
+
+==Background==
+===Physical appearance===
+Foxy dresses as a [http://en.wikipedia.org/wiki/Auto_racing#Racing_driver traditional racing driver], complete with jumpsuit and heart motif helmet.
+
+==Appearances==
+===''[[Motorcity]]''===
+Foxy, along with many others, tries to capture [[Burners|the Burners]] when the Duke of Detroit sets a bounty on their head after Mike refused to show him respect.
+
+==Episodes==
+*105. "The Duke of Detroit"
+*107. "Blonde Thunder"
+*116. "Julie and the Amazons"
+*119. "Vega"
+*120. "A Better Tomorrow"
+
+==Gallery==
+<gallery position="center" captionalign="center">
+Foxy Color DrawB4UEat.jpg
+Foxy Ortho DrawB4UEat.jpg
+</gallery>
+{{CharacterStub}}
+{{Motorcity}}
+[[Category:Disney characters]]
+[[Category:Motorcity characters]]
+[[Category:Villains]]
+[[Category:Females]]
+[[Category:Teenagers]]
+[[Category:Characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Disney XD characters]]

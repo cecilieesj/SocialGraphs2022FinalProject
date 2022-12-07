@@ -1,0 +1,24 @@
+{{Infobox film
+| image          = Hygiene game shot.jpg
+| caption        = 
+| director       = 
+| producer       = 
+| starring       = [[Hal Smith]]
+| music          = 
+| cinematography =  
+| studio         = The Walt Disney Company
+| distributor    = Walt Disney Educational Media Company
+| release        = August [[1987]]
+| time           = 10 minutes
+| language       = English
+}}
+'''''Goofy's Hygiene Game''''' is an 1987 live-action/animated educational short film released in [[1987]]. [[Goofy]] presents lessons on cleanliness habits, such as bathing, grooming, and dental care, just to name a few.
+
+==Cast==
+*[[Hal Smith]] as the voice of Goofy
+
+{{Stub}}
+[[Category:Live-action films]]
+[[Category:1987 shorts]]
+[[Category:Goofy]]
+[[Category:Educational films]]

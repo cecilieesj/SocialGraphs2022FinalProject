@@ -1,0 +1,308 @@
+{{Marvel Database:Film Template
+| Image                   = Captain America Civil War poster 014.jpg
+| Aliases                 = Captain America 3<br>Captain America: Serpent Society<br>Sputnik (working title)
+
+| Directors               = Anthony Russo; Joseph Russo
+| Producers               = Kevin Feige
+| ComicWriters            = [[Joe Simon]]; [[Jack Kirby]]
+| StoryWriters            = 
+| ScreenplayWriters       = Christopher Markus; Stephen McFeely
+| Musicians               = Henry Jackman
+| Cinematographers        = Trent Opaloch
+| Editors                 = Jeffrey Ford; Matthew Schmidt
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = 146 minutes
+| Rating                  = '''MPAA:''' PG-13 for extended sequences of violence, action and mayhem
+| Budget                  = $250 million
+| Release Date            = April 27, 2016
+| US Release Date         = May 6, 2016
+
+| AM ID                   = captain-america-civil-war-v596036
+| IMDB ID                 = 3498820
+| Marvel Movies           = Captain America: Civil War
+| MCU                     = Captain America: Civil War
+| Spider-Man Films        = Captain America: Civil War
+
+| Previous Film           = Captain America: The Winter Soldier
+| Previous Film2          = {{sld|Avengers: Age of Ultron}}{{sld|Ant-Man (film)}}
+| Next Film               = Spider-Man: Homecoming
+| Next Film2              = {{sld|Black Panther (film)}}{{sld|Avengers: Infinity War}}{{sld|Ant-Man and the Wasp (film)}}{{sld|Black Widow (film)}}{{sld|Captain America: New World Order}}
+
+| Tagline                 = United we stand. Divided we fall.
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Steven Rogers (Earth-199999)|Captain America (Steve Rogers)]]|Marvel's Captain America: Civil War Prelude Infinite Comic Vol 1 1|Marvel's Avengers: Infinity War Prelude Vol 1 1}} {{Leaves||[[Avengers (Earth-199999)|Avengers]]}}
+* {{apn|[[Anthony Stark (Earth-199999)|Iron Man (Tony Stark)]]|Avengers: Age of Ultron|Marvel's Avengers: Infinity War Prelude Vol 1 1}} {{Rejoins||[[Avengers (Earth-199999)|Avengers]]}}
+'''Supporting Characters:'''
+* {{apn|[[James Buchanan Barnes (Earth-199999)|Winter Soldier (Bucky Barnes)]]|Marvel's Captain America: Civil War Prelude Infinite Comic Vol 1 1|Marvel's Avengers: Infinity War Prelude Vol 1 1}} {{Flashback}}
+* {{a|[[Avengers (Earth-199999)|Avengers]]}}
+** {{apn|[[Wanda Maximoff (Earth-199999)|Wanda Maximoff]]|Avengers: Age of Ultron|Marvel's Avengers: Infinity War Prelude Vol 1 1}} {{Leaves}}
+** {{apn|[[Natalia Romanoff (Earth-199999)|Black Widow (Natasha Romanoff)]]|Avengers: Age of Ultron|Black Widow (film)}} {{Leaves}}
+** {{apn|[[Samuel Wilson (Earth-199999)|Falcon (Sam Wilson)]]|Marvel's Captain America: Civil War Prelude Infinite Comic Vol 1 1|Marvel's Avengers: Infinity War Prelude Vol 1 1}} {{Leaves}}
+** {{apn|[[Vision (Earth-199999)|Vision]]|Avengers: Age of Ultron|Marvel's Avengers: Infinity War Prelude Vol 1 1}}
+** {{apn|[[James Rhodes (Earth-199999)|War Machine (Col. James "Rhodey" Rhodes)]]|Avengers: Age of Ultron|Avengers: Infinity War}}
+*  {{1st|[[Joint Counter Terrorist Centre (Earth-199999)|Joint Counter Terrorist Centre]]}}
+** {{apn|[[Sharon Carter (Earth-199999)|Sharon Carter]]|Captain America: The Winter Soldier|The Falcon and The Winter Soldier Season 1 3}} {{g|Full name revealed}}
+** {{apn|[[Everett Ross (Earth-199999)|Everett Ross]]|-|Black Panther (film)}} {{1st}}
+* {{apn|[[T'Challa (Earth-199999)|Black Panther (Prince T'Challa)]]|Marvel's Black Panther Prelude Vol 1 2|Marvel's Avengers: Infinity War Prelude Vol 1 1}} {{1st}}
+* {{apn|[[Peter Parker (Earth-199999)|Spider-Man (Peter Parker)]]|-|Spider-Man: Homecoming}} {{1st}}
+* {{apn|[[Clinton Barton (Earth-199999)|Hawkeye (Clint Barton)]]|Avengers: Age of Ultron|Marvel's Avengers: Infinity War Prelude Vol 1 1}}
+* {{apn|[[Scott Lang (Earth-199999)|Ant-Man (Scott Lang)]]|Ant-Man (film)|Marvel's Avengers: Infinity War Prelude Vol 1 1}}
+'''Antagonists:'''
+* {{apn|[[Brock Rumlow (Earth-199999)|Crossbones (Brock Rumlow)]]|Marvel's Captain America: Civil War Prelude Infinite Comic Vol 1 1|-}} {{Death}}
+* Crossbones' mercenaries {{Only}}
+* {{apn|[[Helmut Zemo (Earth-199999)|Col. Helmut Zemo]]|-|The Falcon and The Winter Soldier Season 1 2}} {{1st}} {{Impersonates|[[Theo Broussard (Earth-199999)|Dr. Theo Broussard]]}}
+'''Other Characters:'''
+* {{FlashOnly|[[Hydra (Earth-199999)|Hydra]]}}
+** {{Flashback|[[Vasily Karpov (Earth-199999)|Col. Vasily Karpov]]}} {{Only Dies}}
+** {{Flashback|[[Winter Soldiers (Earth-199999)|Winter Soldiers]]}} {{Only Dies}}
+** Unnamed members {{Only}}
+* {{FlashOnly|[[Maria Stark (Earth-199999)|Maria Stark]]}} {{Death}}
+* {{apn|[[Howard Stark (Earth-199999)|Howard Stark]]|Ant-Man (film)|-}} {{FlashOnly}} {{Death}}
+* {{Invoked|[[Yahweh (Earth-199999)|God (Yahweh)]]}}
+* {{Mentioned|[[Virginia Potts (Earth-199999)|Pepper Potts]]}}
+* {{1st|[[Miriam Sharpe (Earth-199999)|Miriam Spencer]]}}
+* {{Photo|[[Charles Spencer (Earth-199999)|Charlie Spencer]]}} {{Only}} {{Deceased}}
+* {{apn|[[T'Chaka (Earth-199999)|King T'Chaka]]|Marvel's Black Panther Prelude Vol 1 2|-}} {{Death}}
+* {{Photo|[[Pietro Maximoff (Earth-199999)|Pietro Maximoff]]}}
+* {{apn|[[Thaddeus Ross (Earth-199999)|Secretary Thaddeus "Thunderbolt" Ross]]|The Incredible Hulk (2008 film)|Black Widow (film)}}
+* {{OnScreenOnly|[[Bruce Banner (Earth-199999)|Hulk (Bruce Banner)]]}}
+* {{OnScreenOnly|[[Project Insight (Earth-199999)|Project Insight]]}}
+* {{Mentioned|[[Thor Odinson (Earth-199999)|Thor]]}}
+* {{Mentioned|[[World Security Council (Earth-199999)|World Security Council]]}}
+* {{Mentioned|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]]}}
+* {{apn|[[Margaret Carter (Earth-199999)|Peggy Carter]]|Captain America: The Winter Soldier|-}} {{BTS}} {{Death}}
+* {{Mentioned|[[John F. Kennedy (Earth-199999)|John F. Kennedy]]}}
+* {{a|[[United Nations (Earth-199999)|United Nations]]}}
+* {{a|[[Federal Bureau of Investigation (Earth-199999)|F.B.I.]]}}
+* {{Mentioned|[[Bast (Earth-199999)|Bast]]}}
+* {{Mentioned|[[Sekhmet (Earth-199999)|Sekhmet]]}}
+* {{a|[[Central Intelligence Agency (Earth-199999)|CIA]]}}
+* {{Mentioned|[[Loki Laufeyson (Earth-199999)|Loki]]}}
+* {{Mentioned|[[Franklin Delano Roosevelt (Earth-199999)|F.D.R]]}}
+* {{Mentioned|[[Ultron (Earth-199999)|Ultron]]}}
+* Zemo's wife {{Voice}}
+* {{Mentioned|[[Sarah Rogers (Earth-199999)|Sarah Rogers]]}}
+* {{apn|[[Maybelle Parker (Earth-199999)|May Parker]]|-|Spider-Man: Homecoming}} {{1st}}
+* {{1st|[[Dora Milaje (Earth-199999)|Dora Milaje]]}}
+** {{apn|[[Ayo (Earth-199999)|Ayo]]|-|Black Panther (film)}} {{1st}} {{Unnamed}}
+* {{Named|[[Stark Industries (Earth-199999)|Stark Industries]]}}
+* {{Voice|[[F.R.I.D.A.Y. (Earth-199999)|F.R.I.D.A.Y.]]}}
+* {{Minor|Theo Broussard (Earth-199999)|Dr. Theo Broussard|Only appearance; corpse}}
+* {{Mentioned|[[Laura Barton (Earth-199999)|Laura Barton]]}}
+* {{Referenced|[[Cooper Barton (Earth-199999)|Cooper Barton]]}}
+* {{Referenced|[[Lila Barton (Earth-199999)|Lila Barton]]}}
+* {{Referenced|[[Nathaniel Barton (Earth-199999)|Nathaniel Barton]]}}
+* {{Mentioned|[[Henry Pym (Earth-199999)|Hank Pym]]}}
+* {{Named|[[United States Air Force (Earth-199999)|U.S. Air Force]]}}
+* {{Mentioned|[[United States Army (Earth-199999)|U.S. Army]]}}
+* {{OnScreen|[[EKO Scorpion (Earth-199999)|EKO Scorpion]]}}
+* {{Mentioned|[[Heinrich Zemo (Earth-199999)|Zemo's father]]}}
+* {{Mentioned|[[Carl Zemo (Earth-199999)|Zemo's son]]}} 
+* {{a|[[Stan Lee (Earth-199999)|Stan Lee]]}}
+'''Races and Species:'''
+* {{Flashback|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Synthezoids]]}}
+* {{OnScreenOnly|[[Chitauri]]}}
+* {{OnScreenOnly|[[Leviathans (Chitauri)|Leviathans]]}}
+* {{a|[[Dogs]]}}
+* {{Mentioned|[[Cats]]}}
+* {{Mentioned|[[Birds]]}}
+'''Locations:'''
+* {{Flashback|[[Earth-199999]]}}
+** {{Flashback|[[Earth]]}}
+*** {{Flashback|[[Europe]]}}
+**** {{Flashback|[[Russia]]}}
+***** {{Flashback|[[Siberia]]}}
+****** Hydra Siberian Facility {{Flashback}}
+**** {{OnScreenOnly|[[Sokovia]]}}
+***** {{OnScreenOnly|[[Novi Grad]]}}
+**** {{a|[[United Kingdom]]}}
+***** {{a|[[England]]}}
+****** {{a|[[London (England)|London]]}}
+******* Saint Luke's Cathedral
+**** {{a|[[Austria]]}}
+***** {{a|[[Vienna (City)|Vienna]]}}
+****** Vienna International Centre
+**** {{a|[[Romania]]}}
+***** {{a|[[Bucharest]]}}
+**** {{a|[[Germany]]}}
+***** {{a|[[Berlin]]}}
+****** Joint Counter Terrorist Centre Building
+***** {{a|[[Schkeuditz]]}}
+****** {{a|[[Leipzig/Halle Airport]]}}
+*** {{Flashback|[[North  America]]}}
+**** {{Flashback|[[United States of America]]}}
+***** {{Flashback|[[New York (State)|New York]]}}
+****** {{FlashOnly|[[Long Island]]}}
+****** {{a|[[New Avengers Facility]]}}
+****** {{a|[[New York City]]}}
+******* {{OnScreenOnly|[[Manhattan]]}}
+******** {{a|[[Empire State Building]]}}
+******** {{a|[[Chrysler Building]]}}
+******** {{a|[[Stark Tower|Avengers Tower]]}}
+******* {{a|[[Queens]]}}
+******** {{1st|[[Aunt May's House|Parkers' Residence]]}}
+******* {{Mentioned|[[Brooklyn]]}}
+***** {{a|[[Massachusetts (State)|Massachusetts]]}}
+****** {{a|[[Cambridge (Massachusetts)|Cambridge]]}}
+******* {{a|[[Massachusetts Institute of Technology]]}}
+***** {{OnScreenOnly|[[Washington, D.C.]]}}
+****** {{OnScreenOnly|[[Potomac River]]}}
+******* {{OnScreenOnly|[[Triskelion]]}}
+****** {{Mentioned|[[Capitol Building]]}}
+***** {{a|[[Ohio (State)|Ohio]]}}
+****** {{a|[[Cleveland]]}}
+***** {{Mentioned|[[Pentagon|Pentagon, Virginia]]}}
+*** {{a|[[Africa]]}}
+**** {{a|[[Nigeria]]}}
+***** {{a|[[Lagos]]}}
+****** Institute for Infectious Diseases Building
+**** {{1st|[[Wakanda]]}}
+***** Wakanda Medical Center
+***** {{1st|[[Panther Idol]]}}
+*** {{Mentioned|[[Bahamas]]}}
+*** {{Mentioned|[[Paris (France)|Paris]]}}
+*** {{Mentioned|[[Amsterdam]]}}
+*** {{1st|[[Raft]]}}
+** {{Invoked|[[Hell]]}}
+* [[w:c:Wookiepedia:Hoth|Hoth]] {{Mentioned}}
+'''Items:'''
+* {{FlashOnly|[[Memory Supression Device]]}}
+* {{Destruction|[[Winter Soldier's Bionic Arm]]}}
+* {{FlashOnly|[[Super-Soldier Serum]]}}
+* {{a|[[Captain America's Uniform]]}}
+* {{a|[[Captain America's Shield]]}}
+* {{a|[[Vibranium]]}}
+* {{a|[[Falcon's Wings|Exo-7 Falcon]]}}
+* {{1st|[[Redwing (Drone)|Redwing]]}}
+* {{a|[[Black Widow's Gauntlets]]}}
+* {{a|[[Shocker's Vibro-Shock Gauntlets|Crossbones' Gauntlets]]}}
+* {{1st|[[Binarily Augmented Retro-Framing|B.A.R.F.]]}}
+* {{a|[[Mind Stone]]}}
+* {{1st|[[Sokovia Accords]]}}
+* {{1st|[[Panther Habit]]}}
+* {{1st|[[War Machine Armor MK III (Earth-199999)|War Machine Armor MK III]]}}
+* {{Mentioned|[[Loki's Scepter]]}}
+* {{1st|[[Iron Man Gauntlet]]}}
+* {{1st|[[Web-Shooters|Spider-Man's Web-Shooters]]}}
+** {{1st|[[Spider-Man's Spider-Signal]]}}
+* {{a|[[Hawkeye's Suit]]}}
+* {{a|[[Hawkeye's Bow]]}} and {{a|[[Trick Arrows]]}}
+* {{1st|[[Tony Stark's Sunglasses]]}}
+* [[Iron Man Armor (Earth-199999)|Iron Man Armor]]
+** {{1st|[[Iron Man Armor MK XLVI (Earth-199999)|Iron Man Armor MK XLVI]]}}
+** {{a|[[Arc Reactor]]}}
+* {{a|[[Black Widow's Batons]]}}
+* {{1st|[[Spider-Man's Suit]]}}
+* {{1st|[[Spider-Man's Utility Belt]]}}
+* {{a|[[Ant-Man's Helmet]]}}
+* {{a|[[Ant-Man's Suit]]}}
+* {{a|[[Pym Discs]]}}
+* ''[[Wikipedia:The Empire Strikes Back|The Empire Strikes Back]]'' {{Mentioned}}
+'''Vehicles:'''
+* {{OnScreenOnly|[[S.H.I.E.L.D. Helicarrier|S.H.I.E.L.D. Helicarriers]]}}
+* {{a|[[Quinjet]]}}
+* [[w:c:Wookiepedia:All Terrain Armored Transport|AT-AT]] {{Mentioned}} 
+'''Events:'''
+* {{Mentioned|[[Christmas]]}}
+* {{OnScreenOnly|[[Battle of New York]]}}
+
+| Plot                    = In 1991, James "Bucky" Barnes is sent from a HYDRA base in Siberia to attack a car carrying vials of the Super Soldier Serum. In the present day 2016, it has been a year since Ultron's destruction. Steve Rogers, Natasha Romanoff, Sam Wilson and Wanda Maximoff stop Brock Rumlow from stealing a biological weapon in Lagos. Rumlow attempts to kill Rogers by exploding himself but Maximoff accidentally sends him spiralling into a building, causing many casualties.
+
+The Secretary of State Thaddeus Ross displays the Sokovia Accords to Tony Stark and the Avengers, which have been passed by the United Nations and says that the United Nations will control the team. Stark, Romanoff, James Rhodes and Vision agree with it while Rogers and Wilson disagree. Meanwhile, Helmut Zemo kills Barnes' old HYDRA commander and steals his brainwashing book. At a United Nations conference in Vienna, King T'Chaka is killed by a bomb while giving a speech. Barnes is spotted in the security footage and T'Chaka's son T'Challa adopts his Black Panther mantle and vows to kill Barnes. CIA agent Sharon Carter informs Rogers of Barnes' location so he and Wilson attempt to bring him into custody but T'Challa arrives and tries to kill Barnes. The four are taken away by police and Barnes is placed under arrest.
+
+Zemo disguises himself as a psychiatrist and while interviewing Barnes he uses the book he stole to brainwash Barnes and send him on a rampage. Rogers and Wilson stop Barnes and go into hiding with him. Upon regaining control of his mind, Barnes revealed that it was Zemo who bombed Vienna and he is seeking the location of the other Winter Soldier assassins. Rogers hires Clinton Barton to break Maximoff, who has been placed under house arrest by Stark, out of Avengers Tower and also recruits Scott Lang. Stark, Vision, Romanoff and Rhodes hire T'Challa and Peter Parker. The two teams battle at Leipzig Airport until Romanoff allows Rogers and Barnes to escape. Vision accidentally blasts Rhodes, fatally wounding him, and Rogers' faction are imprisoned in the Raft. Stark discovers Barnes' innocence and is given his and Rogers' location by Wilson. There, he strikes a truce with the two of them and discover Zemo has murdered all of the Winter Soldiers. They then discover footage of Barnes' 1991 mission and see that he killed Stark's parents. Stark angrily attacks the two of them from keeping the information away from him and emerges as the winner, severing Barnes' robotic arm, although his armour is disabled in the process. Stark judges Rogers unworthy of his shield, so he leaves it behind as he departs with Barnes. Zemo feels he has fulfilled his mission of fracturing the Avengers and attempts suicide, but T'Challa, having followed Stark to Siberia, stops him and has him arrested by the authorities.
+
+Stark gives Rhodes exoskeletal leg braces so he can walk again and Rogers breaks his allies out of the Raft. In a mid-credits scene, T'Challa provides Barnes asylum in Wakanda and puts him in cyrogenic sleep until he can find a cure for his brainwashing. In a post-credits scene, Parker explores the capabilities of the web-shooters given to him by Stark.
+
+| Cast                    = * [[wikipedia:Chris Evans|Chris Evans]] as [[Steven Rogers (Earth-199999)|Captain America / Steve Rogers]]
+
+* [[wikipedia:Robert Downey, Jr.|Robert Downey, Jr.]] as [[Anthony Stark (Earth-199999)|Iron Man / Tony Stark]]<ref>{{cite web|url=https://variety.com/2014/film/news/robert-downey-jr-to-join-captain-america-3-exclusive-1201312229/|title=Robert Downey Jr. to Join 'Captain America 3' (EXCLUSIVE)|last=Graser|first=Marc|work=Variety|date=13 October 2014|accessdate=28 October 2014}}</ref>
+
+* [[wikipedia:Scarlett Johansson|Scarlett Johansson]] as [[Natalia Romanoff (Earth-199999)|Black Widow / Natasha Romanoff]]<ref>{{cite web|url=http://www.comingsoon.net/movies/news/400161-russos-confirm-scarlett-johansson-will-return-for-captain-america-civil-war|title=Russos Confirm Scarlett Johansson Will Return for Captain America: Civil War|work=ComingSoon.net|first=Spencer|last=Perry|date=15 January 2015|accessdate=15 January 2015}}</ref>
+
+* [[wikipedia:Sebastian Stan|Sebastian Stan]] as [[James Buchanan Barnes (Earth-199999)|Winter Soldier / Bucky Barnes]]<ref name="Deadline">{{cite web|url=http://deadline.com/2014/11/daniel-bruhl-captain-america-robert-downey-jr-chris-evans-1201284648/|title=Daniel Bruhl To Play Villain In 'Captain America: Civil War'|last=Fleming|first=Mike Jr|work=Deadline|date=14 November 2014|accessdate=14 November 2014}}</ref>
+
+* [[wikipedia:Anthony Mackie|Anthony Mackie]] as [[Samuel Wilson (Earth-199999)|Falcon / Sam Wilson]]<ref name="Deadline"/>
+
+* [[wikipedia:Don Cheadle|Don Cheadle]] as [[James Rhodes (Earth-199999)|War Machine / Colonel James Rhodes]]<ref name="Buckhead">{{cite web|url=http://buzz.blog.ajc.com/2015/04/30/captain-america-3-gets-underway-in-atlanta-cast-spotted-in-buckhead/|title=Captain America 3 gets underway in Atlanta, cast spotted in Buckhead|last=Brett|first=Jennifer|work=Atlanta Journal Constitution|date=30 April 2014|accessdate=5 May 2015}}</ref>
+
+* [[Wikipedia:Jeremy Renner|Jeremy Renner]] as [[Clinton Barton (Earth-199999)|Hawkeye / Clint Barton]]<ref>{{cite web|url=http://www.hollywoodreporter.com/heat-vision/jeremy-renner-joins-amy-adams-779876|title=Jeremy Renner Joins Amy Adams in Sci-Fi 'Story of Your Life' (Exclusive)|work=The Hollywood Reporter|first=Borys|last=Kit|date=6 March 2015|accessdate=7 March 2015}}</ref>
+
+* [[wikipedia:Chadwick Boseman|Chadwick Boseman]] as [[T'Challa (Earth-199999)|Black Panther / T'Challa]]<ref>{{cite web|url=http://marvel.com/news/movies/23545/marvel_pits_captain_america_iron_man_in_a_cinematic_civil_war|title=Marvel Pits Captain America  & Iron Man in a Cinematic Civil War|work=Marvel|first=Marc|last=Strom|date=28 October 2014|accessdate=28 October 2014}}</ref>
+
+* [[wikipedia:Paul Bettany|Paul Bettany]] as [[Vision (Earth-199999)|The Vision]]<ref name="Synopsis May 2015">{{cite web|url=http://marvel.com/news/movies/24586/marvel_studios_begins_production_on_marvels_captain_america_civil_war|title=Marvel Studio Begins Production on Marvel's Captain America: Civil War|work=Marvel|date=7 May 2015|accessdate=7 May 2015}}</ref>
+
+* [[wikipedia:Elizabeth Olsen|Elizabeth Olsen]] as [[Wanda Maximoff (Earth-199999)|Scarlet Witch / Wanda Maximoff]]<ref>{{cite web|url=http://www.comicbookmovie.com/fansites/markcassidycbm/news/?a=119218|title=Elizabeth Olsen Confirms She'll Return As 'Wanda Maximoff' For CAPTAIN AMERICA: CIVIL WAR|last=Cassidy|first=Mark|work=ComicBookMovie.com|date=22 April 2015|accessdate=23 April 2015}}</ref>
+
+* [[wikipedia:Paul Rudd|Paul Rudd]] as [[Scott Lang (Earth-199999)|Ant-Man / Scott Lang]]<ref name="Synopsis May 2015"/>
+
+* [[wikipedia:Emily VanCamp|Emily VanCamp]] as [[Sharon Carter (Earth-199999)|Agent 13 / Sharon Carter]]<ref>{{cite web|url=http://deadline.com/2015/05/emily-vancamp-captain-america-civil-war-revenge-sharon-carter-1201421946/|title=Emily VanCamp Reprising Her Role As Agent 13 In 'Captain America: Civil War'|work=Deadline|last=D'Alessandro|first=Anthony|date=6 May 2015|accessdate=6 May 2015}}</ref>
+
+* [[Wikipedia:Marisa Tomei|Marisa Tomei]] as [[Maybelle Parker (Earth-199999)|May Parker]]<ref>{{cite web|url=https://www.youtube.com/watch?v=KIQQVZeIc5E|title=The Cast of Marvel's Captain America: Civil War|work=Youtube|date=12 April 2016|accessdate=12 April 2016}}</ref>
+
+* [[wikipedia:Tom Holland (actor)|Tom Holland]] as [[Peter Parker (Earth-199999)|Spider-Man / Peter Parker]]<ref>{{cite web|url=http://www.hollywoodreporter.com/news/ant-man-saga-paul-rudd-804566|title='Ant-Man' Saga: Paul Rudd and Kevin Fiege Interview|work=The Hollywood Reporter|first=Gregg|last=Kilday|date=24 June 2015|accessdate=24 June 2015}}</ref>
+
+* [[wikipedia:Frank Grillo|Frank Grillo]] as [[Brock Rumlow (Earth-199999)|Crossbones / Brock Rumlow]]<ref name="Casting Call">{{cite web|url=http://www.moviecastingcall.org/2015/01/captain-america-civil-war-casting-calls.html|title='Captain America: Civil War' casting calls|work=Disney Casting Calls|accessdate=26 January 2015}}</ref>
+
+* [[wikipedia:Martin Freeman|Martin Freeman]] as [[Everett Ross (Earth-199999)|Everett Ross]]<ref>{{cite web|url=http://marvel.com/news/movies/24562/martin_freeman_joins_marvels_captain_america_civil_war|title=Martin Freeman Joins Marvel's 'Captain America: Civil War'|last=Strom|first=Marc|work=Marvel.com|date=5 May 2015|accessdate=5 May 2015}}</ref><ref>{{cite web|url=http://www.empireonline.com/movies/news/martin-freeman-captain-america-civil-war-character-revealed/|title=Martin Freeman’s Captain America: Civil War character revealed|last=De Semlyen|first=Phil|work=Empire|date=22 February 2016|accessdate=22 February 2016}}</ref>
+
+* [[wikipedia:William Hurt|William Hurt]] as [[Thaddeus Ross (Earth-199999)|Secretary Thaddeus "Thunderbolt" Ross]]<ref name="Buckhead"/><ref name="Synopsis May 2015"/>
+
+* [[wikipedia:Daniel Brühl|Daniel Brühl]] as [[Helmut Zemo (Earth-199999)|Col. Helmut Zemo]]<ref name="Deadline"/><ref name="Casting Call"/><ref>{{cite web|url=http://www.independent.co.uk/news/people/profiles/daniel-brhl-when-you-have-success-abroad-you-become-a-traitor-envy-is-very-german-10123801.html|title=Daniel Bruhl: 'When you have success aboard, you become a traitor. Envy is very German'|work=The Independent|first=Alice|last=Jones|date=22 March 2015|accessdate=26 March 2015}}</ref>
+
+Additionally, [[Wikipedia:John Kani|John Kani]] makes an appearance as [[T'Chaka (Earth-199999)|King T'Chaka]]. [[Wikipedia:John Slattery|John Slattery]] and [[Wikipedia:Kerry Condon|Kerry Condon]] reprise their roles as [[Howard Stark (Earth-199999)|Howard Stark]] and [[F.R.I.D.A.Y. (Earth-199999)|F.R.I.D.A.Y.]], respectively. Hope Davis portrays [[Maria Stark (Earth-199999)|Maria Stark]]. [[wikipedia:Alfre Woodard|Alfre Woodard]] makes an appearance as [[Miriam Sharpe (Earth-199999)|Miriam Sharpe]].<ref>{{cite web|url=http://screencrush.com/captain-america-civil-war-alfre-woodard/|title=Here’s Who Alfre Woodard Plays in ‘Captain America: Civil War’|last=Sampson|first=Mike|work=Screen Crush|date=6 April 2016|accessdate=12 April 2016}}</ref> [[wikipedia:Gene Farber|Gene Farber]] portrays [[Vasily Karpov (Earth-199999)|Colonel Vasily Karpov]]. [[Wikipedia:Stan Lee|Stan Lee]] and  [[wikipedia:Jim Rash|Jim Rash]]<ref>{{cite web|url=http://mcuexchange.com/alfre-woodard-and-jim-rash-added-to-captain-america-civil-war-cast/|title=Alfre Woodard And Jim Rash Added To Captain America: Civil War Cast|last=Sobon|first=Nicole|work=MCU Exchange|date=5 April 2016|accessdate=5 April 2016}}</ref> make cameo appearances. Co-director [[Wikipedia:Russo brothers|Joe Russo]] appears briefly in the role of Theo Broussard, and [[wikipedia:Anthony Russo|Anthony Russo]]'s wife, Ann Russo, provides the voice of Zemo's wife in an audio message. [[wikipedia:Damion Poitier|Damion Poitier]], who previously portrayed [[Thanos (Earth-199999)|Thanos]] in the mid-credits scene of ''[[Marvel's The Avengers]]'', portrays one of Crossbones' mercenaries. 
+
+| Notes                   = * The title of the film was made public during Marvel Studios' event at El Capitan Theatre on October 28, 2014. Kevin Feige at first announced "''Captain America: Serpent Society''" as the sequel to ''Captain America: The Winter Soldier'', before eventually revealing the true title of the film after the rest of the planned Phase 3 movies had been unveiled during the same event.<ref>{{cite web|url=http://www.newsarama.com/22570-marvel-studios-event-live.html|title=Marvel Studios Event|work=Newsarama|first=Tom|last=McLean|date=28 October 2014|accessdate=28 October 2014}}</ref>
+* With a worldwide total box office gross of about $1.15 billion, this film became the highest-grossing film of 2016 and the 12th highest-grossing film of all time.<ref>{{cite web|url= http://www.boxofficemojo.com/yearly/chart/?view2=worldwide&yr=2016&p=.htm|title= 2016 Yearly Box Office Results|accessdate= 2017-06-03|work= Box Office Mojo}}</ref><ref>{{cite web|url= http://www.boxofficemojo.com/alltime/world/|title= All Time Worldwide Box Office|accessdate= 2017-11-17|work= Box Office Mojo|archiveurl= https://web.archive.org/web/20160801231148/http://www.boxofficemojo.com/alltime/world/|archivedate= 2016-08-01}}</ref>
+| Trivia                  = * Filming began on April 27, 2015; the same day as 20th Century Fox's Marvel film, ''[[X-Men: Apocalypse]]''.<ref>{{cite web|url=https://twitter.com/ChrisEvans/status/592678356497358852|title=Dear beard We had a good run, but this is where I leave you. Thank you for braving the Boston winter with me. I miss you already #Cap3Begins|last=Evans|first=Chris|work=Twitter|date=27 April 2015|accessdate=27 April 2015}}</ref>
+* In Sharon Carter's eulogy for Peggy, she quotes her Peggy's "No, you move," philosophy, which is actually a direct quote from [[Steven Rogers (Earth-616)|Captain America]]'s speech in {{cl|Amazing Spider-Man Vol 1 537}}, which is part of the ''Civil War'' event in the comics.
+* The assault tactic of Ant-Man riding Hawkeye's arrow is an explicit homage to the cover of {{cl|Avengers Vol 1 223}}.
+* Tony refers to Bucky as "Manchurian Candidate," a reference to the [[wikipedia:The Manchurian Candidate (2004 film)|film]] and the [[wikipedia:The Manchurian Candidate|novel]] of the same name, which features a brainwashed assassin in a Communist conspiracy.
+* The climax of the fight between Captain America and Iron Man is an homage to the cover of {{cl|Civil War Vol 1 7}}.
+* Before Robert Downey Jr. accepted the offer to reprise his role of Tony Stark / Iron Man, whose presence was essential for adapting ''[[Civil War (Event)|Civil War]]'', directors Joe and Anthony Russo considered a plot of which its third act revolved around Helmut Zemo making use of a [[Madbomb]]. The main challenge for Captain America in this climax would've been finding a way to stop the antagonists, which would've been a horde of mindless, yet innocent, civilians.<ref>{{cite web|url=http://www.ew.com/article/2016/08/25/captain-america-civil-war-was-almost-zombie-movie|title=Captain America: Civil War was almost a zombie movie|work=EW.com|first=Anthony|last=Breznican|date=25 August 2016|accessdate=2 September 2016}}</ref>
+* In a draft of the movie before Spider-Man's addition into the script, Iron Man was going to travel to San Francisco and recruit Ant-Man into his side instead.{{r|{{cite web|url=https://soundcloud.com/fatmanonbatman/221-infinity-war-writers-stephen-mcfeely-and-christopher-markus|title=221: Infinity War Writers - Stephen McFeely and Christopher Markus|work=Fatman on Batman|date=15 June 2018|accessdate=20 June 2018}}}}
+* Early into the development of the movie, [[Hope Van Dyne (Earth-199999)|Hope Van Dyne]] was set to make her debut as Wasp. The idea was scrapped because she wouldn't get enough screentime to do her justice.{{r|{{cite web|url=http://www.ign.com/videos/2018/06/29/why-ant-man-and-the-wasp-were-left-out-of-avengers-infinity-war|title=Why Ant-Man and the Wasp Were Left Out of Avengers: Infinity War - IGN Video|work=IGN|date=29 June 2018|accessdate=1 July 2018}}}}
+
+==Gallery==
+===Alternate Posters===
+<gallery position="center" captionalign="center">
+Captain America Civil War Textless poster 014.jpg
+Captain America Civil War poster 001.jpg
+Captain America Civil War poster 002.jpg
+Captain America Civil War poster 003.jpg
+Captain America Civil War poster 004.jpg
+Captain America Civil War poster 005.jpg
+Captain America Civil War poster 006.jpg
+Captain America Civil War poster 007.jpg
+Captain America Civil War poster 008.jpg
+Captain America Civil War teaser poster.jpg
+Captain America Civil War poster 013.jpg
+Captain America Civil War poster 009.jpg
+Captain America Civil War poster 010.jpg
+Captain America Civil War poster 011.jpg
+Captain America Civil War poster 012.jpg
+</gallery>
+===Banners===
+<gallery position="center">
+Captain America Civil War logo.jpg
+Captain America Civil War logo 001.jpg
+Captain America Civil War Logo.png
+Captain America Civil War promo art 001.jpg
+</gallery>
+===Videos===
+====Trailers====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+The Civil War Begins – 1st Trailer for Marvel’s “Captain America Civil War”
+Marvel's Captain America Civil War - Trailer 2
+</gallery>
+| Links                   = *[[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[zh:美國隊長3：英雄內戰]]
+[[pt-br:Capitão América: Guerra Civil]]
+[[ru:Первый мститель: Противостояние]]
+[[es:Captain America: Civil War]]
+[[Category:Marvel Studios]]

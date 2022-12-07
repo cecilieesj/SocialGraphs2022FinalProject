@@ -1,0 +1,41 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|title = Untitled Damon Lindelof Star Wars film
+|director = [[Sharmeen Obaid-Chinoy]]
+|producer = [[Kathleen Kennedy]]
+|writer = Damon Lindelof<br>Justin Britt-Gibson
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Lucasfilm]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = 
+|budget = 
+|gross = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = }}
+'''''Untitled Damon Lindelof Star Wars film''''' is an upcoming ''[[Star Wars]]'' film.
+
+==Production==
+On March 14, 2022, it was reported that Damon Lindelof was writing a brand new Star Wars feature film.<ref>[https://www.slashfilm.com/799024/is-damon-lindelof-making-a-star-war/ Is Damon Lindelof Making A Star War?]</ref>
+
+On October 24, 2022, ''Deadline'' reported that [[Sharmeen Obaid-Chinoy]] was set to direct the film.<ref>[https://deadline.com/2022/10/star-wars-damon-lindelof-lucasfilm-ms-marvel-sharmeen-obaid-chinoy-1235152896/ Secret ‘Star Wars’ Film From Damon Lindelof And Lucasfilm Sets ‘Ms Marvel’s Sharmeen Obaid-Chinoy As Director]</ref>
+
+Later that day, ''The Hollywood Reporter'' reported that Justin Britt-Gibson would co-write the screenplay, and that the film would take place after the events of ''[[Star Wars: The Rise of Skywalker]]''.<ref>[https://www.hollywoodreporter.com/movies/movie-news/star-wars-inside-damon-lindelofs-movie-1235247453/ A Secret Writers Room, a Rising Scribe and a Post-‘Skywalker’ Timeline: A Look Inside Damon Lindelof’s ’Star Wars’ Movie (Exclusive)]</ref>
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{Star Wars}}
+[[Category:Star Wars Films]]
+[[Category:Upcoming films]]
+[[Category:Films]]
+[[Category:Lucasfilm]]

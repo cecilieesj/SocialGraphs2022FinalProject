@@ -1,0 +1,74 @@
+{{Marvel Database:Film Template
+| Image                   = 
+| Aliases                 = 
+
+| Directors               = Jon Watts
+| Producers               = Kevin Feige
+| ScreenplayWriters       = Chris McKenna; Erik Sommers
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = 
+| Running Time            = 3 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = October 1, 2019
+| IMDB ID                 = 11107678
+| Marvel Movies           = Peter's To-Do List
+| MCU                     = Peter's To-Do List
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{a|[[Peter Parker (Earth-199999)|Spider-Man (Peter Parker)]]}}
+'''Supporting Characters:'''
+* {{a|[[Edward Leeds (Earth-199999)|Ned Leeds]]}}
+* {{a|[[Mr. Delmar (Earth-199999)|Mr. Delmar]]}}
+'''Antagonists:'''
+* Manfredi Crime Family {{1st}}
+'''Other Characters:'''
+* {{a|[[Eugene Thompson (Earth-199999)|Flash Thompson]]}}
+* [[Character Index/Earth-199999#Murph|Murph the Cat]]
+* {{Photo|[[Barack Obama II (Earth-199999)|Barack Obama]]}}
+* [[Wikipedia:Nikola Tesla|Nikola Tesla]] {{Mentioned}}
+* {{Mentioned|[[Leonardo da Vinci (Earth-199999)|Leonardo da Vinci]]}}
+* {{Mentioned|[[Michelle Jones (Earth-199999)|Michelle "MJ" Jones]]}}
+* [[Wikipedia:United States Postal Service|United States Postal Service]]
+* {{Mentioned|[[Anthony Stark (Earth-199999)|Iron Man (Tony Stark)]]}}
+* {{a|[[New York City Police Department (Earth-199999)|NYPD]]}}
+** [[Character Index/Earth-199999#Bristow|Officer Bristow]] {{1st}}
+** [[Character Index/Earth-199999|Officer Clark]]
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Cats]]}}
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[North America]]}}
+**** {{a|[[United States of America]]}}
+***** {{a|[[New York (State)|New York]]}}
+****** {{a|[[New York City]]}}
+******* {{a|[[Midtown High School]]}}
+******* Delmar's Deli & Grill {{1st}}
+*** {{Mentioned|[[Europe]]}}
+'''Items:'''
+* {{Photo|[[Spider-Man's Suit]]}}
+* Peter's action figures
+** [[w:c:Wookiepedia:Lobot|Lobot]]
+* {{a|[[Spider-Tracer|Spider Drone]]}}
+* {{a|[[Iron Spider Armor]]}} & {{a|[[Web-Shooters]]}}
+'''Vehicles:'''
+* <br/>
+
+| Plot                    =As his school prepares for a trip to Europe, Peter has to complete many unfinished plans before leaving New York. 
+
+| Cast                    = * [[wikipedia:Tom Holland|Tom Holland]] as [[Peter Parker (Earth-199999)|Spider-Man / Peter Parker]]
+* [[wikipedia:Jacob Batalon|Jacob Batalon]] as [[Edward Leeds (Earth-199999)|Ned Leeds]]
+* [[wikipedia:Tony Revolori|Tony Revolori]] as [[Eugene Thompson (Earth-199999)|Flash Thompson]]
+* [[wikipedia:Hemky Madera|Hemky Madera]] as [[Mr. Delmar (Earth-199999)|Mr. Delmar]]
+* Tuwaine Barrett as Officer Bristow
+
+| Notes                   = * Comprised of deleted scenes, this short film was included with the home media release of the film ''[[Spider-Man: Far From Home]]'' as a bonus feature.
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Marvel Studios|Marvel Films]]
+}}
+[[Category:Short Films]]

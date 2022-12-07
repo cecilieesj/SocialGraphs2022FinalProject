@@ -1,0 +1,57 @@
+{{Infobox film
+|image = Fox hunt.jpg
+|name = The Fox Hunt
+|director = [[Ben Sharpsteen]]
+|producer = [[Walt Disney]]
+|writer = [[Otto Englander]]
+|starring = [[Clarence Nash]]<br>[[Pinto Colvig]]
+|music = [[Paul Smith]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[RKO Radio Pictures]]
+|language = English
+|release = [[July 29]], [[1938]]
+|preceded = ''[[Polar Trappers]]''
+|followed = ''[[Billposters]]''
+}}
+'''''The Fox Hunt''''' is an [[1938]] animated short starring [[Donald]] and [[Goofy]].
+
+==Synopsis==
+Donald and Goofy (and a few other Disney characters) engage in a fox hunt, but Donald has difficulty with the hounds while Goofy's horse proves quite obstinate.
+
+==Characters==
+*[[Donald Duck]] (voiced by [[Clarence Nash]])
+*[[Goofy]] (voiced by [[Pinto Colvig]])
+*[[Mickey Mouse]] (cameo)
+*[[Minnie Mouse]] (cameo)
+*[[Horace Horsecollar]] (cameo)
+*[[Clara Cluck]] (cameo)
+
+==Releases==
+===Television===
+*''[[Walt Disney's Wonderful World of Color]]'', episode #8.5: "[[The Hunting Instinct]]"
+*''[[Mickey's Mouse Tracks]]'', episode #46
+*''[[Donald's Quack Attack]]'', episode #27
+'''DVD'''
+* ''[[Walt Disney Treasures]]: The Chronological Donald''
+*''It's a Small World of Fun'' Volume 4
+
+==Gallery==
+<gallery spacing="small" widths="150" captionalign="center" position="center">
+Goofy fox hunter.jpg|Goofy up a tree.
+1938-chasse-renard-donald-05.jpg
+1938-chasse-renard-donald-06.jpg
+1938-chasse-renard-donald-07.jpg
+1938-chasse-renard-donald-08.jpg
+1938-chasse-renard-donald-11.jpg
+1938-chasse-renard-donald-12.jpg
+</gallery>
+
+{{Donald-Series}}
+{{Goofy-Series}}
+[[Category:Donald Duck shorts]]
+[[Category:Goofy shorts]]
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:1938 shorts]]
+[[Category:Featured shorts]]
+{{DEFAULTSORT:Fox Hunt, The}}

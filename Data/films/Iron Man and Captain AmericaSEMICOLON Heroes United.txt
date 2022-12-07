@@ -1,0 +1,88 @@
+{{Marvel Database:Film Template
+| Image                   = Iron Man and Captain America Heroes United.jpg
+| Aliases                 = 
+
+| Directors               = Eric Radomski; Leo Riley
+| Producers               = Tammy Holguin
+| ScreenplayWriters       = Brandon Auman; Henry Gilroy
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Marvel Animation Studios
+| Running Time            = 71 mins
+| Rating                  = 
+| Budget                  = 
+| Release Date            = July 29, 2014
+
+| IMDB ID                 = 3221698
+| Marvel Movies           = Iron Man & Captain America: Heroes United
+
+| Previous Film           = Iron Man and Hulk: Heroes United
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Final|[[Anthony Stark (Earth-TRN607)|Iron Man (Tony Stark)]]}}
+* {{Final|[[Steven Rogers (Earth-TRN607)|Captain America / Captain Hydra / Iron Patriot (Steve Rogers)]]}}
+'''Supporting Characters:'''
+* {{Final|[[Just A Rather Very Intelligent System (Earth-TRN607)|J.A.R.V.I.S.]]}}
+'''Antagonists:'''
+* {{Final|[[Hydra (Earth-TRN607)|Hydra]]}}
+** {{Final|[[Johann Shmidt (Earth-TRN607)|Red Skull (Johann Shmidt)]]}}
+** Dr. Cruller {{Final}}
+** Dr. Fump {{Final}}
+* {{Only|[[Anthony Masters (Earth-TRN607)|Taskmaster / Iron Master (Tony Masters)]]}}
+'''Other Characters:'''
+* {{Only|[[Avengers (Earth-TRN607)|The Avengers]]}}
+** {{Final|[[Bruce Banner (Earth-TRN607)|The Hulk (Bruce Banner)]]}}
+** {{Only|[[Clinton Barton (Earth-TRN607)|Hawkeye (Clint Barton)]]}}
+** {{Only|[[Natalia Romanoff (Earth-TRN607)|Black Widow (Natasha Romanoff)]]}}
+** {{only|[[Samuel Wilson (Earth-TRN607)|Falcon (Sam Wilson)]]}}
+** {{Only|[[Thor Odinson (Earth-TRN607)|Thor]]}}
+* {{Only|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-TRN607)|S.H.I.E.L.D.]]}}
+* {{Mentioned|[[Daniel Rand (Earth-TRN607)|Iron Fist]]}}
+* {{Mentioned|[[Wrecking Crew (Earth-TRN607)|Wrecking Crew]]}}
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* {{Final|[[Earth-TRN607]]}}
+** {{Final|[[Earth]]}}
+*** {{Final|[[United States of America]]}}
+**** {{Final|[[Stark Enterprises Main Plant|Stark Industries]]}}
+**** Hydra Base {{Final}}
+'''Items:'''
+* {{Final|[[Captain America's Shield]]}}
+* {{Final|[[Iron Man Armor MK VII (Earth-199999)|Iron Man Mark VII Armor]]}}
+* {{Only|[[Super-Soldier Serum]]}}
+* {{Only|[[Iron Patriot Armor Model 2]]}}
+* {{Only|[[Iron Man Armor Model 7|Stealth Armor MK I]]}}
+* {{Only|[[Dreadnought (Robot)|Dreadnought]]}}
+* {{Final|[[Arc Reactor]]}}
+* {{Only|[[Falcon's Wings|Falcon Armor]]}}
+* {{Only|[[Mjolnir]]}}
+* {{Only|[[Hawkeye's Bow]]}}
+* {{Only|[[Trick Arrows]]}}
+* {{Only|[[Black Widow's Gauntlets]]}}
+'''Vehicles:'''
+* {{Only|[[S.H.I.E.L.D. Helicarrier]]}}
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Adrian Pasdar|Adrian Pasdar]] as Iron Man / Tony Stark
+* [[wikipedia:Roger Craig Smith|Roger Craig Smith]] as Captain America / Steve Rogers
+* [[wikipedia:Clancy Brown|Clancy Brown]] as Taskmaster / Tony Masters
+* [[wikipedia:Dee Bradley Baker|Dee Bradley Baker]] as Doctor Cruller
+* [[wikipedia:Robin Atkin Downes|Robin Atkin Downes]] as Doctor Fump
+* [[wikipedia:David Kaye|David Kaye]] as J.A.R.V.I.S.
+* [[wikipedia:Liam O'Brien|Liam O'Brien]] as Red Skull
+* [[wikipedia:Fred Tatasciore|Fred Tatasciore]] as the Hulk
+
+| Notes                   = 
+===Videos===
+<gallery widths="300" spacing="small" hideaddbutton="true">
+Iron Man and Captain America Heroes United trailer by conejotonto|Iron Man and Captain America Heroes United trailer
+Marvel's Iron Man & Captain America Heroes United - Clip 1|Marvel's Iron Man & Captain America Heroes United - Clip 1
+</gallery>
+<br clear="all">
+| Trivia                  = * In one point, the theme "Hydra Train" from Captain America: The First Avenger (2011) can clearly be heard.
+| Links                   = * [[Marvel Films#Direct-to-Video Films|Marvel Films]]
+}}

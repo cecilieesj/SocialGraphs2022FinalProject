@@ -1,0 +1,83 @@
+{{Marvel Database:Film Template
+| Image                   = Marvel Rising Playing With Fire Poster 001.jpg
+| Aliases                 = 
+| Universe                = Earth-TRN684
+
+| Directors               = Alfred Gimeno
+| Producers               = 
+| ScreenplayWriters       = Mae Catt;
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Marvel HQ
+| ProductionCompanies     = Marvel Animation
+| Running Time            = 43 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = December 18, 2019
+
+| Previous Film           = Marvel Rising: Operation Shuri
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{a|[[Dante Pertuz (Earth-TRN684)|Inferno (Dante Pertuz)]]}}
+'''Supporting Characters:'''
+* {{a|[[Secret Warriors (Earth-TRN684)|Secret Warriors]]}}
+** {{a|[[Kamala Khan (Earth-TRN684)|Ms. Marvel (Kamala Khan)]]}}
+** {{a|[[Gwendolyn Stacy (Earth-TRN684)|Ghost-Spider (Gwendolyn Stacy)]]}}
+** {{a|[[Doreen Green (Earth-TRN684)|Squirrel Girl (Doreen Green)]]}}
+** {{a|[[America Chavez (Earth-TRN684)|Ms. America Chavez]]}}
+'''Antagonists:'''
+* {{1st|[[Zayla (Earth-TRN684)|Zayla]]}}
+* {{1st|[[Shocktress (Earth-TRN684)|Shocktress]]}}
+* {{1st|[[Invisibilio (Earth-TRN684)|Invisibilio]]}}
+'''Other Characters:'''
+* {{a|[[Muneeba Khan (Earth-TRN684)|Muneeba Khan]]}}
+* {{1st|[[Gabriela Pertuz (Earth-TRN684)|Gabriela Pertuz]]}}
+* {{Mentioned|[[George Stacy (Earth-TRN684)|Captain George Stacy]]}}
+* {{Mentioned|[[Mr. Pertuz (Earth-TRN684)|Mr. Pertuz]]}}
+* {{Mentioned|[[Mrs. Pertuz (Earth-TRN684)|Mrs. Pertuz]]}}
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* [[Earth-TRN684]]
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = 
+
+* [[wikipedia:Tyler Posey|Tyler Posey]] as Inferno / Dante Pertuz
+
+* [[wikipedia:Dove Cameron|Dove Cameron]] as Ghost Spider / Gwen Stacy
+
+* [[wikipedia:Kathreen Khavari|Kathreen Khavari]] as Ms. Marvel / Kamala Khan
+
+* [[wikipedia:Milana Vayntrub|Milana Vayntrub]] as Squirrel Girl / Doreen Green
+
+* [[wikipedia:Cierra Ramirez|Cierra Ramirez]] as Ms. America Chavez
+
+* [[wikipedia:Dee Bradley Baker|Dee Bradley Baker]] as Tippy-Toe, Lockjaw
+
+* [[wikipedia:Navia Robinson|Navia Robinson]] as Zayla
+
+* [[wikipedia:Niecy Nash|Niecy Nash]] as Shocktress
+
+* [[wikipedia:Gary Cole|Gary Cole]] as Invisibilio
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+
+==Videos==
+<gallery>
+file:Marvel Rising Playing With Fire Feat. Tyler Posey, Navia Robinson & Dove Cameron
+</gallery>
+
+}}
+[[es:Marvel Rising: Playing With Fire]]
+[[Category:Short Films]]

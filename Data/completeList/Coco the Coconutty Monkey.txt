@@ -1,0 +1,33 @@
+{{Infobox character
+|name = Coco the Coconutty Monkey
+|image = CocoMonkey.jpg
+|shows = ''[[Mickey Mouse Clubhouse]]''
+|voice = [[Dee Bradley Baker]]
+|appearance = 
+|home = 
+|friends = [[Goofy]], [[Mickey Mouse]], [[Minnie Mouse]], [[Donald Duck]], [[Daisy Duck]], [[Pluto]], [[Pete]], [[Chip and Dale]]
+|likes = Bananas
+|dislikes = }}'''Coco the Coconutty Monkey''' is [[Goofy]]'s pet monkey. She first appeared in the ''[[Mickey Mouse Clubhouse]]'' episode "[[Goofy's Coconutty Monkey]]".
+==Appearances==
+===[[Mickey Mouse Clubhouse]]===
+*[[Goofy's Coconutty Monkey]] (debut)
+*[[Mickey's Clubhouse Rocks]] (cameo)
+{{Stubsection}}
+
+==Gallery==
+<gallery>
+Coco_monkeys.png|5 monkeys
+</gallery>
+
+{{CharacterStub}}
+{{Mickey Mouse Clubhouse}}
+[[Category:Mickey Mouse universe characters]]
+[[Category:Mickey Mouse Clubhouse characters]]
+[[Category:Pets]]
+[[Category:Disney characters]]
+[[Category:Monkeys]]
+[[Category:Disney Junior characters]]
+[[Category:Silent characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Females]]

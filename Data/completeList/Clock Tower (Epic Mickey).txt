@@ -1,0 +1,52 @@
+{{Dablink|the character from [[Epic Mickey]]|the original incarnation of the character from the [[Disney Parks, Experiences and Products|Disney Parks]]|[[Glockenspiel]]}}
+{{Infobox character
+|name = Clock Tower
+|image = EM_Clock_Tower.jpg
+|games = ''[[Epic Mickey]]<br>[[Epic Mickey 2: The Power of Two]]''
+|inspiration = [[It's a Small World]]<br>[[Glockenspiel]] (clock face)
+|home = [[Gremlin Village]]
+|occupation = Centerpiece of Gremlin Village
+|possessions = Giant fists
+|fate = Restored or destroyed (depending on the player's choice)
+}}The '''Clock Tower''' is the centerpiece of [[Gremlin Village]] and the first boss [[Mickey Mouse]] encounters in the game, ''[[Epic Mickey]]''. He had been living as a friendly Toon resident of the village, but due to the [[It's a Small World (song)|"Small World" song]] playing non-stop (along with the attacks from the [[The Shadow Blot|Shadow Blot]]), he went completely insane.
+
+==Appearances==
+===''[[Epic Mickey]]''===
+When Mickey approaches the Clock Tower, he finds the scenery warped and distorted as a result of the Thinner Disaster. As the mouse stares at the smiling clock face, it suddenly thins away to reveal a demented expression underneath. A pair of gigantic mechanical arms burst from its sides, attempting to slam the powerful fists down on the intruder. To access the projector leading to [[Mean Street]], Mickey must now beat the Clock Tower.
+
+If Mickey uses [[Thinner]] on the Toon arms, they will be stripped to reveal the fragile mechanism underneath. Once completely exposed, the mechanism will shatter when the Clock Tower slams down on the ground. Upon defeat, the Clock's arms and face unwind and fall off. Defeating the Tower yields an increase in Thinner capacity and the "Unwind the Clock" pin.
+
+If Mickey uses [[Paint]] on the Toon arms, the mechanism inside eventually ends up frozen in place (although the Paint wears off over time). Until the fists are completely painted, they will continue to pound the ground. Once both hands are painted, one arm will lower to allow Mickey to jump on and move him closer to the Clock's face. Mickey can then spray Paint to restore the face back to normal, which in turn will stop the music and calm the Clock Tower down. Redeeming the Tower yields an increase in Paint capacity and the "Stop the Music" pin.
+
+==Trivia==
+*The Clock Tower is based on [[Glockenspiel]], the outer facade of the "[[It's a Small World|Small World]]" attraction.
+*The theme music that plays during the battle is a scary, disturbing and depressing version of the "Small World" theme, to support the environment's dark and gloomy atmosphere.
+**The lyrics were originally going to be included but were removed due to copyright issues.
+*[[Warren Spector]] revealed that it was his decision to make the Clock Tower as the game's first boss.
+*Using Thinner or Paint on the Clock Tower's arms affects the game's ending cutscene. One ending shows the Clock's parts lying in the river of Thinner and stuck in a twisted state. The other shows the restored Tower with eight Gremlins floating around its hands.
+*The Clock Tower makes a cameo in ''[[Epic Mickey 2: The Power of Two]]'' as the first diorama in the [[Train Tunnels]].
+
+==Gallery==
+<gallery position="center">
+Thinned clock tower.png
+Clock tower unwound.png
+Ruined Clock Tower.png|The Clock Tower in the Thinner ending.
+Clock tower handy.png
+Painted clock tower.png
+Restored Clock Tower.png|The Clock Tower in the Paint ending.
+</gallery>
+
+{{Epic Mickey}}
+[[Category:Epic Mickey characters]]
+[[Category:Epic Mickey Bosses]]
+[[Category:Video game bosses]]
+
+[[Category:Buildings]]
+[[Category:Epic Mickey locations]]
+[[Category:Those destroyed]]
+
+[[Category:Characters in video games]]
+[[Category:Timepieces]]
+[[Category:Villains]]
+[[Category:Robots]]
+[[Category:Disney characters]]

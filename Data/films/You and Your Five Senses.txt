@@ -1,0 +1,43 @@
+{{Infobox Film
+|director    = 
+|producer    = [[Walt Disney]]
+|writer      = 
+|distributor = [[The Walt Disney Company|Walt Disney Productions]]
+|language    = English
+|image = Image:1956-you-five-01.jpg
+|imagewidth = 250px
+|time = 8 minutes
+|release = [[December 15]], [[1955]] (television)<br>May [[1956]] (16mm)
+|imdb_id = 0227851}}
+'''''You and Your Five Senses''''' is a "You and Your..." short that originally aired on ''[[The Mickey Mouse Club]]''. It was updated in [[1990]].
+
+==Synopsis==
+[[Jiminy Cricket]] shows how humans use all five senses and how the brain uses them. He explains and compares human responses to stimuli, showing how reasoning ability separates humans from other animals.
+
+==Voice Cast==
+*[[Cliff Edwards]] - Jiminy Cricket
+===1990 dub===
+*[[Eddie Carroll]] - Jiminy Cricket
+*[[Elijah Wood]] - Pinocchio
+
+==Gallery==
+<gallery position="center">
+1956-you-five-02.jpg
+1956-you-five-03.jpg
+1956-you-five-04.jpg
+1956-you-five-05.jpg
+1956-you-five-10.jpg
+1956-you-five-11.jpg
+1956-you-five-12.jpg
+1956-you-five-13.jpg
+1956-you-five-14.jpg
+1955-you-02.jpg
+Jc in glasses.jpg
+Bat_from_You_and_Your_Five_Senses.jpg
+</gallery>
+[[Category:1955 shorts]]
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse Club]]
+[[Category:1990 shorts]]
+[[Category:Educational films]]
+[[Category:Jiminy Cricket]]

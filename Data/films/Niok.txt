@@ -1,0 +1,29 @@
+{{Infobox Film
+|image = Niok.jpg
+|name = Niok
+|director = Edmond Séchan
+|producer = Jean-Paul Guibert
+|writer = Edmond Séchan
+|starring = 
+|music = Claude Arrieu
+|cinematography = Pierre Goupil
+|editing = 
+|studio = [[Walt Disney Productions]]
+|distributor = [[Walt Disney Studios Motion Pictures|Buena Vista Film Distribution]]
+|release = [[August 28]], [[1957]] <small>(USA)</small><br>[[October 12]], [[1959]] <small>(Denmark)</small><br>[[June 30]], [[1961]] <small>(Finland)</small>
+|time = 
+|language = French
+|rating = 
+}}
+'''''Niok''''' is a [[1957]] [[Walt Disney Pictures|Disney]] live-action nature film.
+==Synopsis==
+In the Cambodia area of Indo-China (when it was filmed) a young native boy 'adopts' a baby elephant and raises it as a pet. His father later sells it to a Chinese merchant. The boy recaptures the pachyderm, however, and frees it back into the jungle.
+
+==Cast==
+*[[John Dehner]] - Narrator (English version, voice)
+
+[[Category:1957 films]]
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:Films]]
+[[Category:Films about animals]]

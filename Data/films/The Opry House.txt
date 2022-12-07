@@ -1,0 +1,58 @@
+{{Infobox film
+|image = 
+|name = The Opry House
+|director = [[Walt Disney]]<br>[[Ub Iwerks]]
+|producer = [[Walt Disney]]
+|writer = 
+|music = Carl W. Stalling
+|editor = 
+|studio = [[Walt Disney Productions|Walt Disney Studio]]
+|distributor = [[Celebrity Productions]]
+|release = [[March 28]], [[1929]]
+|time = 
+|language = English
+|budget = 
+|gross = 
+|preceded = ''[[Plane Crazy]]'' <small>(release order)</small><br>''[[The Barn Dance]]'' <small>(production order)</small>
+|followed = ''[[When the Cat's Away]]''}}
+'''''The Opry House''''' is a Mickey Mouse short that was released on [[March 28]], [[1929]].
+
+==Synopsis==
+Running an opera house, Mickey performs a vaudeville show all by himself. Acts include his impersonation of a snake charmer, his dressing in drag and performing belly dance, his caricature of a Hasidic Jew and, for the finale, a piano performance.
+
+==Trivia==
+*The film's copyright was renewed on [[December 10]], [[1956]].<ref>[https://archive.org/details/catalogofcopyrig3101213li/page/123/mode/1up Catalog of Copyright Entries (1956 renewals)]</ref>
+*This short is notable for being the first to have Mickey wear his signature white gloves.
+*This short marks the first appearance of [[Kat Nipp]].
+*According to the book ''Hollywood Cartoons: Hollywood Animation in Its Golden Age'', this was the most expensive Disney cartoon made until ''[[The Skeleton Dance]]'', its negative costing $2,500 more than ''[[Steamboat Willie]]''.
+*An upgrade over the previous Mickey Mouse shorts, this was the first short to have more detailed animation complete with the usage of shading and reflection to give an almost three-dimensional quality, as opposed to the more flat and simplistic animation used in previous black-and-white cartoons produced by the Disney studio. This approach pushed Mickey's series further away from the silent era of the 1920s and they started to improve on the synchronization of their sound shorts, as well as production values overall.
+
+==Home video releases==
+'''DVD'''
+* ''[[Walt Disney Treasures]]: Mickey Mouse in Black and White, Volume 2''
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150">
+Opry house 2large.jpg
+Opry house 3large.jpg
+Opry house 4large.jpg
+Opry house 5large.jpg
+Opry house 6large.jpg
+Opry house 7large.jpg
+1929-opry-2.jpg
+1929-opry-3.jpg
+OPRY_HOUSE.png
+Barn dance mickey.png
+OpryHousePublicity.jpg|Publicity drawing by [[Ub Iwerks]]
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Mickey-Series}}
+{{DEFAULTSORT:Opry House, The}}
+{{DISPLAYTITLE:''The Opry House''}}
+[[sr-el:Vesela kuća]]
+[[Category:Animated shorts|Opry House, The]]
+[[Category:Mickey Mouse shorts|Opry House, The]]
+[[Category:1929 shorts]]

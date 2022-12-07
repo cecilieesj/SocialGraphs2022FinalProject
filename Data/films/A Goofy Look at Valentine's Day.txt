@@ -1,0 +1,39 @@
+{{Infobox film
+| name           = A Goofy Look at Valentine's Day
+| image          = File:GoofyValentine.jpg
+| caption        = 
+| director       = 
+| producer       = 
+| music          = 
+| cinematography =  
+| studio         = Walt Disney Productions
+| distributor    = Walt Disney Educational Media Company
+| release       = 1983
+| time        = 7 minutes
+| language       = English}}
+'''''A Goofy Look at Valentine's Day''''' is a [[1983]] Disney educational animated short. It is a compilation of classic Disney animation paying tribute to love and Valentine's Day. Intermixed throughout are numerous clips from many different Disney cartoons, as well as many images of Valentine's Day cards.
+
+==Voice Cast==
+*[[Hal Smith]] - Goofy
+
+===Featured clips===
+*''[[Bongo]]'' (from ''[[Fun and Fancy Free]]'')
+*''[[Mr. Duck Steps Out]]''
+*''[[Two Gun Goofy]]''
+*''[[The Nifty Nineties]]''
+*''[[Father's Day Off]]''
+*''[[Donald's Diary]]''
+*''[[The Little Whirlwind]]''
+*''[[Donald's Double Trouble]]''
+*''[[Canine Casanova]]''
+*''[[Pluto's Heart Throb]]''
+*''[[Fathers Are People]]''
+*''[[Mickey's Birthday Party]]''
+
+{{DEFAULTSORT:Goofy Look at Valentine's Day, A}}
+[[Category:1983 films]]
+[[Category:Valentine's Day]]
+[[Category:Disney films]]
+[[Category:Animated shorts]]
+[[Category:Educational films]]
+[[Category:1983 short films]]

@@ -1,0 +1,37 @@
+{{Infobox_character
+|image = Speedball.png
+|name = Speedball
+|shows = ''[[Ultimate Spider-Man]]''
+|inspiration = Speedball from [[Marvel Comics]]
+|fullname = Robbie Baldwin
+|alias = Speedball
+|affiliations = [[New Warriors]]
+|likes = Being a hero
+|powers = Kinetic energy}}
+'''Speedball''' (real name '''Robbie Baldwin''') is a [[Marvel Comics]] character.
+
+Speedball was created by Steve Ditko and Tom DeFalco.
+== Powers and Abilities ==
+*'''Kinetic Energy:''' Speedball can launch kinetic balls of energy.
+
+==Gallery==
+<gallery position="center">
+Ultimate Spider-Man - 3x05 - The Next Iron Spider - Recruits.png
+</gallery>
+
+{{CharacterStub}}
+
+==References==
+# https://news.marvel.com/tv/63421/freeform-announces-characters-marvels-new-warriors/
+# https://news.marvel.com/tv/68325/marvel-television-freeform-set-case-marvels-new-warriors/
+
+{{Marvel Animated Universe}}
+[[Category:Marvel Comics characters]]
+[[Category:Males]]
+[[Category:Superheroes]]
+[[Category:Teenagers]]
+[[Category:Ultimate Spider-Man characters]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Heroes]]
+[[Category:Acquired characters]]

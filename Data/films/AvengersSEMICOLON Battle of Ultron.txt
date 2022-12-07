@@ -1,0 +1,58 @@
+{{Marvel Database:Film Template
+| Image                   = Avengers Battle of Ultron poster 002.jpg
+| Aliases                 = 
+| Universe                = 
+
+| Directors               = Cecil D. Magpuri
+| Producers               = 
+| Writers                 = 
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Falcon's Digital Media
+| Running Time            = 4 mins
+| Rating                  = 
+| Budget                  = 
+| Release Date            = August 31, 2016
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* [[Avengers]] {{1st}}
+** [[Iron Man|Iron Man (Tony Stark)]] {{1st}}
+** [[Hulk|Hulk (Dr. Bruce Banner)]] {{1st}}
+** [[Captain America|Captain America (Steve Rogers)]] {{1st}}
+** [[Thor]] {{1st}}
+** [[Hawkeye|Hawkeye (Clint Barton)]] {{1st}} {{Voice}}
+** [[Black Widow|Black Widow (Natasha Romanoff)]] {{1st}} {{Voice}}
+'''Supporting Characters:'''
+* [[S.H.I.E.L.D.]] {{1st}}
+** [[Nick Fury]] {{1st}} {{Voice}}
+'''Antagonists:'''
+* [[Ultron]] {{1st}}
+** {{1st|[[Ultron Drones|Ultron Drones]]}}
+'''Locations:'''
+* Unnamed reality {{1st}}
+** {{1st|[[Earth]]}}
+*** {{1st|[[United Arab Emirates]]}}
+**** {{1st|[[Dubai]]}}
+'''Items:'''
+* [[Iron Man Armor]] {{1st}}
+* {{1st|[[Captain America's Shield]]}}
+* {{1st|[[Captain America's Uniform]]}}
+* {{1st|[[Mjolnir]]}}
+'''Vehicles:'''
+* {{1st|[[Quincopter]]}}
+* {{Mentioned|[[S.H.I.E.L.D. Helicarrier]]}}
+
+| Plot                    = 
+
+| Cast                    = 
+
+| Notes                   = * ''Avengers: Battle of Ultron'' is a motion-based 3D dark ride in the [[wikipedia:IMG Worlds of Adventure#Marvel|Marvel]] area in [[wikipedia:IMG Worlds of Adventure|IMG Worlds of Adventure]]. Riders become [[S.H.I.E.L.D.]] trainees and aid the [[Avengers]] to stop [[Ultron]] from taking over the world.
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Attractions]]

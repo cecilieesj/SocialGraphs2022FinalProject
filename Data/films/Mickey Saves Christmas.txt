@@ -1,0 +1,40 @@
+{{Upcoming|media=film}}
+{{Infobox film
+|image = [[File:Mickey Saves Christmas poster.png|thumb]]
+|release = [[November 27]], [[2022]]
+|time = 
+|language = English
+|starring = 
+|director = 
+|writer = 
+|music = 
+|studio = [[Disney Television Animation]]<br>Stoopid Buddy Stoodios
+|channel = [[ABC]]<br>[[Disney Channel]]<br>[[Disney Junior]]<br>[[Disney XD]]}}
+
+'''''Mickey Saves Christmas''''' is an upcoming stop-motion Christmas special starring [[Mickey Mouse]] and friends, produced by [[Disney]] Television Animation and Stoopid Buddy Stoodios (''Robot Chicken''). It will premiere simultaneously on [[ABC]], The [[Disney Channel]], [[Disney Junior]], and [[Disney XD]] on November 27, 2022, and will be available to stream on [[Disney+]] the day after. This will notably make it the first TV special produced by Disney Television Animation to air on ABC since [[1999]]'s ''[[Winnie the Pooh: A Valentine for You]]''.
+
+==Summary==
+[[Mickey Mouse|Mickey]], [[Minnie Mouse|Minnie]] and their pals attempt to celebrate the perfect Christmas at their snowy cabin. However, when [[Pluto]] causes [[Santa Claus|Santa]] to lose all the presents on his sleigh, the friends travel to the North Pole on a quest to save Christmas and find the true meaning of the holiday.
+
+==Cast==
+*[[Bret Iwan]] as [[Mickey Mouse]]
+*[[Kaitlyn Robrock]] as [[Minnie Mouse]]
+*[[Tony Anselmo]] as [[Donald Duck]]
+*[[Tress MacNeille]] as [[Daisy Duck]]
+*[[Bill Farmer]] as [[Goofy]] and [[Pluto]]
+*Brock Powell as [[Santa Claus]]
+*Camryn Grimes as [[Mrs. Claus]]
+
+==Trivia==
+*This is the first Mickey Mouse special to be in stop-motion.
+**However, it is not the first time Mickey has appeared in stop-motion; [[2019|three years prior]], he and the gang appeared in two shorts of stop-motion Christmas interstitials on [[Disney Junior]].
+
+==External links==
+* [[w:c:christmas-specials:{{PAGENAME}}|Christmas Specials Wiki: {{PAGENAME}}]]
+{{Stub}}
+{{Mickey Mouse & Friends}}
+[[Category:Television specials]]
+[[Category:Christmas productions]]
+[[Category:Mickey Mouse]]
+[[Category:Stop motion films]]
+[[Category:Animated films]]

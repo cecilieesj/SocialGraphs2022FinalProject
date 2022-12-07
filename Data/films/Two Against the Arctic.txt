@@ -1,0 +1,35 @@
+{{NeedImage}}
+{{Episode
+| series     = [[The Wonderful World of Disney (NBC)|The Wonderful World of Disney]]
+| title      = Two Against the Arctic
+| season     = 21
+| number     = 6-7
+| image      = 
+| caption    = 
+| production = 
+| airdate    = [[October 20]], [[1974]] (part 1)<br>[[October 27]], [[1974]] (part 2)
+| writer     = Shane Tatum<br>James Douglass West
+| director   = William Beaudine Jr.
+| storyboard = 
+| ws         = 
+| story      =
+| previous   = "[[Return of the Big Cat]]"
+| next       = "[[Adventure in Satan's Canyon]]"
+}}
+"'''Two Against the Arctic'''" is a [[1974]] telefilm produced by [[Walt Disney Productions]]. It was originally broadcast on [[NBC]] as a two-part episode on ''[[The Wonderful World of Disney (NBC)|The Wonderful World of Disney]]'' on [[October 20]], and [[October 27]], 1974. The telefilm was directed by William Beaudine Jr.
+
+==Synopsis==
+Two Eskimo children, stranded in the Arctic Circle, decide their only hope for survival is to cross the open tundra and try to reach their village. Filmed in Calgary, Alberta, Canada, Nome and St. Lawrence Island, its sensational movie poster barks, "A couple of Eskimo kids fight the battle of their lives for their lives!"
+
+==Cast==
+*Rossman Peetook ... Father
+*Susie Silook
+*Marty Smith
+
+[[Category:Walt Disney anthology series episodes]]
+[[Category:Television episodes]]
+[[Category:Multi-part episodes]]
+[[Category:1974 films]]
+[[Category:Live-action films]]
+[[Category:Disney films]]
+[[Category:Films]]

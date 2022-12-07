@@ -1,0 +1,34 @@
+{{NeedImage}}
+{{Episode
+| series     = [[Walt Disney anthology series|The Disney Sunday Movie]]
+| title      = Double Agent
+| season     = 31
+| number     = 22
+| image      = 
+| caption    = 
+| production = 
+| airdate    = [[March 29]], [[1987]]
+| writer     = Howard Friedlander (story)<br>Ken Peragine (story)<br>Steven Long Mitchell<br>Craig W. Van Sickle
+| director   = Michael Vejar
+| previous   = "[[Bedknobs and Broomsticks]]"
+| next       = "[[Bride of Boogedy]]"
+}}
+'''''Double Agent''''' ([[1987]]) was a made for TV film from [[Walt Disney Television]] directed by Michael Vejar. It starred [[Michael McKean]], Susan Walden, Christopher Burton, Judith Jones, Lloyd Bochner, Alexa Hamilton, Del Zamora, John Putch, Jane A. Johnston, Lois January, Saveli Kramarov, Allan Kolman, and Big John Studd. ''Double Agent'' was first telecast [[March 29]], 1987, on ''The Disney Sunday Movie'' series.
+
+==Synopsis==
+Jason Starr is an international spy. While on a mission there was an altercation and Jason disappears. His boss Vaughn then goes to his twin brother Warren Starbinder, a veterinarian, and asks him to pose as Jason so to complete his mission. Warren agrees to do so but the talk will not be easy since he is not a spy. Warren also cannot tell his wife and family what he's doing which makes it hard for him to explain the peculiar ways he is now behaving.
+
+==References in film==
+*Lloyd Bochner costars as "Secret Agent Vaughn", a reference to ''The Man from U.N.C.L.E.'' star Robert Vaughn.
+
+==External links==
+*[http://movies.nytimes.com/movie/125131/Double-Agent/overview/ ''Double Agent''] at [[Wikipedia:The New York Times|The New York Times]]
+*{{IMDb|title/ttid=0092919|title=Double Agent}}
+*[http://permissiontokill.blogspot.com/2007/12/double-agent-1987.html ''Double Agent'' at Blogspot]
+*[http://movies.msn.com/movies/movie.aspx?m=28197 MSN Movies]
+{{Wikipedia|Double Agent (1987 film)}}
+[[Category:1987 films]]
+[[Category:Disney films]]
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Walt Disney anthology series episodes]]

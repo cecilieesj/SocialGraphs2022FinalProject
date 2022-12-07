@@ -1,0 +1,61 @@
+{{Infobox Song
+|image = Fantasia-disneyscreencaps.com-1516.jpg
+|films = ''[[Fantasia 2000]]''
+|albums = [[Fantasia 2000 (soundtrack)]]
+|composer = {{WikipediaLink|Ottorino Respighi}}
+|original = The Chicago Symphony Orchestra (conducted by [[James Levine]])
+|preceded_by = "[[Symphony No. 5]]"
+|followed_by = "[[Rhapsody in Blue]]"
+|video = Disney's Fantasia 2000 Pines of Rome}}{{Quote|When you hear a title like '''Pines of Rome''', you may think of tree-lined streets and romantic ruins. But when the Disney animators heard this music, they thought of something completely different.|Itzhak Perlman|Fantasia 2000}}
+
+"'''Pines of Rome'''" by [[wikipedia:Ottorino Respighi|Ottorino Respighi]] is the second segment in the [[Walt Disney Feature Animation|Disney]] animated film ''[[Fantasia 2000]]''.
+
+==Synopsis==
+Set in a frozen Arctic landscape where aurora lights shine across the beautiful night sky, as the seagulls enter, the segment introduces three [[Humpback Whales|humpback whales]]. Two of them are adults, and the third is their little baby who appears to be feisty and loves to swim around and jump high out of the water.
+
+The baby humpback follows its parents to the surface where they jump and splash in and out of the Arctic waters until they rise out and fly except the baby humpback. After a few jumps, it finally manages to get airborne and joins its parents. It suddenly spots a group of seagulls and decides to fly with them but instead makes them annoyed. The angry seagulls chase after until the baby humpback escapes into the water and becomes trapped inside a huge iceberg.
+
+Surrounded by frozen icy walls, the baby humpback appears unhurt but all alone in the dark icy caverns. It begins to explore the cave searching for a way out. Beneath the cave's waters are many spiky icicles in every direction. Suddenly, part of the cave crumbles showing a little light. It rises to the surface and sees its mother's shadow on the other side of the ice walls. The baby humpback desperately tries to get to it and follows its parents' shadows to a light. Once it swims inside it, it begins to float to where the light is shining from and is reunited with its parents.
+
+As the brightest star flashes, the three whales return to the waters and join a larger pod of humpback whales. Soon millions of humpbacks take to the sky and fly across a forest landscape to the top of the clouds. They fly towards a storm cloud where bright light is shining from it until finally, they rise out of the waters where the star shines like a nighttime sunrise.
+
+==Development==
+"Pines of Rome" was the first music piece and segment chosen by Disney during the development for ''Fantasia 2000'' known at the time as "Fantasia Continued", [[Roy E. Disney]] also mentioned that "Pines of Rome" was the first musical selection he suggested. The piece itself brought enthusiasm to James Levine as the composition reminded them of flight
+
+In October of [[1993]], raw footage of "Pines of Rome" was shown throughout the Walt Disney Studios, director Hendel Butoy felt that the piece was lifting listeners off the ground and led to Disney animators drawing clouds with one of those clouds reminded everyone of a whale.
+
+To create the animation for the humpback whales, animators scanned their drawings of the whales to the [[Computer Animation Production System]], better known as CAPS. The whales eyes were traditionally hand drawn while their bodies are Computer Generated. In order to create the large pod of whales the code used to create the [[Wildebeests|Wildebeests Stampede]] from ''[[The Lion King]]'' was utilized as both films were developed around the same time, this allowed the whales to not overlap or bend through one another.
+
+"Pines of Rome" was recorded on [[March 28]], [[1994]] and was the first piece of music composed by Levine and the Chicago Symphony Orchestra for ''Fantasia 2000''.
+
+==Trivia==
+*The scene where millions of humpback whales take to the sky and fly across a forest landscape to the top of the clouds, represented ''[[Fantasia 2000]]'' in the finale segment of [[Wonderful World of Animation]].
+
+==Gallery==
+<gallery position="center" captionalign="center" widths="150" spacing="small">
+F2000 6.png|[[Steve Martin]] introducing the segment.
+F2000 7.png|[[Wikipedia:Itzhak Perlman|Itzhak Perlman]] also introducing the segment.
+F2000 8.png|The seagulls entering the Northern lights.
+F2000 11.png
+F2000 12.png
+Seagulls fantasia 2000.png
+F2000 14.png
+F2000 15.png
+F2000 17.png
+F2000 18.png
+F2000 19.png
+F2000 20.png
+F2000 21.png
+F2000 22.png
+</gallery>
+
+{{Fantasia}}
+[[Category:Fantasia]]
+[[Category:Fantasia segments]]
+[[Category:Non-Disney songs]]
+[[Category:Featured shorts]]
+[[Category:Instrumental songs]]
+[[Category:Films]]
+[[Category:Animated shorts]]
+[[Category:Featured songs]]
+[[Category:Music]]

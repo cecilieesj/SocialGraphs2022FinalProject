@@ -1,0 +1,294 @@
+<div style="float:right; max-width:260px; overflow:auto"><tabber>Film=
+{{Infobox film
+|image = Le Visionarium Poster.jpg
+|director = Jeff Blyth
+|starring = [[Robin Williams]]<br>[[Rhea Perlman]]<br>[[Jeremy Irons]]<br>Michel Piccoli
+|music = [[Bruce Broughton]]
+|time = 18 minutes
+|language = English, French, Japanese}}
+|-|Disneyland Paris=
+{{Infobox Disney ride
+|name = Un Voyage à Travers le Temps
+|image = The Timekeeper Paris.jpg
+|park = [[Disneyland Park (Paris)]]
+|land = [[Discoveryland]]
+|type = Circle-Vision Theater
+|theme = Time Travel
+|opened = [[April 12]], [[1992]]
+|closed = [[September 5]], [[2004]]
+|successor = [[Buzz Lightyear's Space Ranger Spin|Buzz Lightyear Laser Blast]]}}
+|-|Tokyo Disneyland=
+{{Infobox Disney ride
+|name = Visionarium<br>ビジョナリアム
+|image = The Timekeeper Tokyo.jpg
+|park = [[Tokyo Disneyland]]
+|land = [[Tomorrowland (Tokyo Disneyland)|Tomorrowland]]
+|opened = April 15, 1993
+|closed = September 1, 2002
+|successor = [[Buzz Lightyear's Space Ranger Spin|Buzz Lightyear's Astro Blasters]]}}
+|-|Magic Kingdom=
+{{Infobox Disney ride
+|image = The Timekeeper WDW.jpg
+|park = [[Magic Kingdom]]
+|land = [[Tomorrowland (Magic Kingdom)|Tomorrowland]]
+|opened = [[November 21]], [[1994]]
+|closed = [[February 26]], [[2006]]
+|predecessor = American Journeys
+|successor = [[Monsters, Inc. Laugh Floor]]}}
+</tabber></div>'''''The Timekeeper''''' (also known as '''''From Time to Time''''' and '''''Un Voyage à Travers le Temps''''') was a [[1992]] [[Circle-Vision 360°]] film that was presented at three Disney parks around the world. It was the first Circle-Vision show that was arranged and filmed with an actual plot and not just visions of landscapes, and the first to utilize [[Audio-Animatronics]]. It featured a cast of European film actors of [[France]], [[Italy]], Belgium, [[Russia]], and [[England]]. It was shown in highly stylized circular theaters, and featured historic and futuristic details both on the interior and exterior.
+
+''The Timekeeper'' and its original European counterpart ''Le Visionarium'' marked the first time that the Circle-Vision film process was used to deliver a narrative story line. This required a concept to explain the unusual visual characteristics of the theater, hence the character [[9-Eye]]. She was sent through time by the [[Timekeeper]], so that she could send back the surrounding images as she recorded them in whichever era she found herself in.<ref name="Imagineering 1">{{Cite book|last=Imagineers|first=The|authorlink=Walt Disney Imagineering|title=The Imagineering Field Guide to the Magic Kingdom at Walt Disney World|publisher=Disney Editions|date=2005-09-01|pages=124–5|isbn=0-7868-5553-3}}</ref>
+
+The European version was also known by its film name as ''Un Voyage à Travers le Temps'', while the Japanese version was simply named "Visionarium", with the caption ''From Time to Time'' on the poster. The American Film Theater was known as "Transportarium" for a period of six months after it debuted, but the name was later dropped in lieu of "Tomorrowland Metropolis Science Center", or formally "The Timekeeper".
+
+==History==
+''Le Visionarium'' (the original title) was the first Circle-Vision film in which Imagineers wanted to tell an immersive story and attempt a light-hearted dialog without just switching between scenes of landscapes, as had been done in all of the previous Circle-Vision films.
+
+The original concept for the film had included [[Jules Verne]] and the culture of past and present European history and events, and new inventions. Along with the previous elements, the story had to do with the idea of time travel with one concept including a child that explored the story of the great European scientists of the past on an intelligent computer. However, to keep the audience focused and use imagination to depict situations and places that do not cater to the average person, the number of visions of the past and extreme situations of the plot kept increasing all the time for the project.<ref>{{Cite web|url=http://www.jimhillmedia.com/article.php?id=639|title=Hidden Views of Le Visionarium|accessdate=December 18, 2006|author=Jean de Lutèce|deadurl=yes|archiveurl=https://web.archive.org/web/20060318012427/http://www.jimhillmedia.com/article.php?id=639|archivedate=March 18, 2006 }}</ref>
+
+While he wouldn't be heard in the Parisian version, the Timekeeper character was designed with Robin Williams in mind and he was brought in during the writing and early development process to do the character's English voice. However, Robin's famous feud with Disney over the breach of contract of overusing the [[Genie]] in ''[[Aladdin]]''<nowiki/>'s marketing campaign occurred during this process, and the audio heard in the English version would be compiled from test recordings of a run through reading of the script.<ref>[https://podcast.progresscityusa.com/e/the-progress-city-radio-hour-episode-42-town-hall-tim-delaney-part-ii/ The Progress City Radio Hour - Episode 43 - Town Hall: Tim Delaney, Part II]</ref>
+
+The film first premiered in [[Discoveryland]] at [[Disneyland Resort Paris|Disneyland Paris]] on [[April 12]], [[1992]] as ''Le Visionarium''. It was an extravagant attraction, and was touted by then Disney CEO [[Michael Eisner]] as the showcase attraction of the land at the time. However, TIME Magazine derided it as a "flop" of a "wan drama" in its review of Disneyland Paris.<ref>{{Cite news|url=http://www.time.com/time/magazine/article/0,9171,975357-3,00.html|title=Voila! Disney Invades Europe. Will the French Resist?|accessdate=December 1, 2007|author=Richard Corliss|work=Time|date=April 20, 1992}}</ref> The next year, the second incarnation of it opened at [[Tokyo Disneyland]], as part of the park's 10th Anniversary Celebration.<ref name="JT Cent">{{Cite web|url=http://jtcent.com/disneyland/tomorrow/tomvis.html|title=Visionarium - Tomorrowland - Tokyo Disneyland|accessdate=December 26, 2006|author=JT Cent|archiveurl=https://web.archive.org/web/20040416004214/jtcent.com/disneyland/tomorrow/tomvis.html|archivedate=April 16, 2004}}</ref>
+
+The attraction had long been on the ''Discoveryland USA'' proposal for the [[Magic Kingdom]] at [[Walt Disney World]]. However, when financial difficulties arose because of the EuroDisney Project, this Discoveryland project was canceled.<ref>{{Cite web|url=http://jimhillmedia.com/blogs/jim_hill/archive/2002/08/18/265.aspx|title=Discoveryland U.S.A. -- Part 1|accessdate=December 18, 2006|author=Jim Hill}}</ref><ref>{{Cite web|url=http://jimhillmedia.com/blogs/jim_hill/archive/2002/08/18/266.aspx|title=Discoveryland U.S.A. -- Part 2|accessdate=December 18, 2006|author=Jim Hill}}</ref> At one point, it was to be extended into a restaurant featured next door to the attraction. The Plaza Pavilion was to receive a makeover as the "Astronomer's Club", where a stage would have featured actors portraying famed scientists such as [[Leonardo da Vinci]], Isaac Newton, or Galileo, who would appear in the restaurant, and then be called back to the past by either 9-Eye or Timekeeper.
+
+However, the film was named ''From Time to Time'' and opened in the Magic Kingdom's Circle-Vision Theater, rechristened "Transportarium" on [[November 21]], [[1994]] as part of the New Tomorrowland expansion. Six months later, the attraction underwent some name changes. The theater was renamed "Tomorrowland Metropolis Science Center", and the film was formally known as ''The Timekeeper''.
+
+In [[2001]], the attraction was moved to the seasonal list of attractions along with [[Carousel of Progress]]. In February [[2006]], Walt Disney World reported that it was to be closed on [[February 26]], [[2006]]. That was the last version of the attraction to be closed. Both the Tokyo Disneyland and Disneyland Paris ''Visionarium'' films had closed in [[2002]] and [[2004]], respectively.
+After being placed on a seasonal schedule in April 2001, the Walt Disney World version was open on a sporadic schedule during the busy seasons. Some attribute it to the following criticisms, which the overseas versions of the attraction had not been faced with:
+*Obese or elderly guests may have found it hard to stand or strainful on the eyes
+*The lack of familiar Disney characters
+*The building's entrance was very inconspicuous and did not feature a large rotating globe icon or full title.
+
+After the events of [[September 11]], [[2001]] in the [[United States]], the attraction faced even harder times, due in part to a general decline in tourism due to the terrorist acts. The fact the film featured a scene of [[New York]] that still included the now-destroyed World Trade Center prompted a change that saw the Timekeeper's clock in this segment register the "current year" as [[2000]].
+
+However, the attraction lasted five more years. During the time when construction was occurring on [[Stitch's Great Escape!]], it was open more frequently along with Carousel of Progress. On days when it was not opened, the queue was a meet-and-greet for Disney characters such as Stitch and [[Pixar]] characters [[Buzz Lightyear]], and [[Mr. Incredible]], [[Elastigirl]], and [[Frozone]] from ''[[The Incredibles]]''.
+
+Until February 2006, the Walt Disney World version was the last one still operating, as the Tokyo Disneyland version closed in 2002 and was replaced with [[Buzz Lightyear's Space Ranger Spin|Buzz Lightyear's Astro Blasters]] in 2004, and the Disneyland Paris version closed in 2004 and was replaced by [[Buzz Lightyear's Space Ranger Spin|Buzz Lightyear Laser Blast]] in 2006, although it closed mainly because it lost its sponsor, Renault.
+
+In early [[2007]], the former location of ''The Timekeeper'' became home to ''[[Monsters, Inc. Laugh Floor]]''. The building still retains most of the elements of the previous tenant, including the water columns in the queue and the basic Circle-Vision theater. However, the floor has been modified to include seating and several of the screens are now covered by other elements. In [[2018]], the Metropolis Science Center facade additions were removed to ease guest flow through [[Tomorrowland (Magic Kingdom)|Tomorrowland]].
+
+==Pre-show synopsis==
+===European pre-show===
+Guests were ushered into a dimly-lit library-like chamber, complete with several artifacts, such as models of Jules Verne's ''Nautilus'' from ''[[20,000 Leagues Under the Sea]]'' and ''Albatross'' from ''The Clipper of the Clouds'', Da Vinci's flying machine, or the first balloon ever created. A short movie about the history of Renault making cars is shown (until they dropped its sponsorship in 2002). Guests were introduced to Timekeeper, who told them they were about to join him in an experimentation by viewing his latest and greatest invention: his extraordinary machine to explore time. Before he introduced it, he gave a short speech on how his machine would change the world just as the ones that surrounded guests in the pre-show room. He even sang briefly about visionaries. After that, he introduced the crowd to 9-Eye, and explained how she would travel through time first and let guests see this through her eyes. Guests then watched her training videos, which included a plunge over Niagara Falls, a flight into a barn full of dynamite in Topeka, [[Kansas]], a swirling ride aboard a centrifugator, and lastly, hitching a ride on a space shuttle.
+
+===Japanese pre-show===
+This pre-show scene was similar to the European version, however with some differences. Instead of the dark circular enclave as in the Disneyland Paris version, a bright open area was present. The wall that separated the building from the Tomorrowland corridor was a large stained-glass mural featuring 22 famous inventors and visionaries. Also featured was Timekeeper's study, library, and laboratory. The pre-show area also featured a 20-foot model of Da Vinci's Heliocentric Solar System, the ''Nautilus'' from Verne's ''[[20,000 Leagues Under the Sea]]'', the ''Albatross'' from Verne's ''The Clipper of the Clouds'', a real 1920s film projector from [[Walt Disney Pictures]], and an actual copy of ''20,000 Leagues Under the Sea''.<ref name="JT Cent" /> This version's film focused on Verne and H.G. Wells, explaining how their work changed history. Then, Nine-Eye was introduced to guests.
+
+===American pre-show===
+Before the actual show, guests were introduced to the invention of the show, "Circumvisual PhotoDroid", more frequently referred to as 9-Eye. Her nine eyes represented the nine cameras used in filming the show in the round, thus showing the view from one of them on each of the nine movie screens. She was the latest development by Timekeeper, the inventor of the time machine. Guests were invited to be witnesses of the first use ever of the newly invented machine. They also watched 9-Eye's training videos, which included a plunge over Niagara Falls, a flight into a barn full of dynamite in Topeka, Kansas, a swirling ride aboard a centrifugator, and lastly, hitching a ride on a space shuttle.
+
+==Attraction synopsis==
+===The film===
+[[File:Timekeeper.jpg|thumb|250px|The Timekeeper animatronic at Disneyland Paris]]
+After guests entered the theatre, Timekeeper came to life and had 9-Eye prepared for the journey through time. He then turned on the machine for its first use, then watched from his control panel as 9-Eye was thrust back to the Jurassic age period in Earth's history. She narrowly escaped a hungry [[Allosaurus]] as Timekeeper sent her to the last great ice age about 12,000 years ago. As she started freezing up, he sent her to 1450, for what should have been a demonstration of Johannes Gutenberg's printing press.
+
+However, Timekeeper messed up and sent her to a Scottish battlefield in which one warrior comes after her. Finally once the machine's kinks got worked out, Timekeeper sent 9-Eye to 1503, at the height of the Renaissance. The machine was placed right in the middle of Leonardo da Vinci's workshop, where he was painting the ''Mona Lisa'' and working on a model of his flying machine. 9-Eye, being curious, picked up an item close to her, and was quickly noticed by Da Vinci, who became fascinated by the strange machine, and started drawing it on paper.
+
+However, the meeting between 9-Eye and Da Vinci was cut short. Her next stop was 1763 in a French castle, where a child named [[Wolfgang Amadeus Mozart]] gave a musical performance to a crowd, which included King Louis XV and Madame de Pompadour. The meeting was once again cut short as she was noticed by the people, who started chasing her through various hallways. Timekeeper then decided to send her to the 1878 Exposition Universelle, but the machine was stuck on fast forward, so she witnessed the [[Paris]] skyline in such a motion that the progress of the [[Eiffel Tower]], the symbol of the 1889 Exposition Universelle, was shown in the background. Finally Timekeeper had the machine stopped in 1900, just in time for that year's Exposition Universelle.
+
+Timekeeper announced that guests were just in time for a meeting between [[H.G. Wells]] and Jules Verne. 9-Eye hid from the fair-goers but not so that Verne and Wells were hidden. After a brief conversation about their conflicting visions of the future, Wells walked away, leaving Verne with a model of his time machine, which he had just criticized as impossible. After a sarcastic comment about time travel from him, 9-Eye rebutted his claim and appeared to him. He decided to take a closer look at her and tried to grab her. Timekeeper, seeing this, tried to bring her back to the present, but accidentally took Verne with her as well.
+
+Timekeeper and 9-Eye, realizing their mistake, tried to send Verne back, but he refused after discovering he had finally arrived in the future he had always dreamed of. He begged them to show him the world of the present in 10 minutes or less, so he could return to 1900 and deliver his speech at the exhibition (which made Timekeeper ironically reply that he did it in 80 days). They agreed, and Timekeeper set the machine for the present. He sent Verne and 9-Eye to a dark tunnel, which Verne believed to be a "dark future". They were unaware they were standing in a railroad tunnel. The next thing to happen was a collision between Verne and a French TGV train, with the latter becoming a new hood ornament.
+
+From the train, Verne and 9-Eye explored the modern streets of Paris (with Verne walking among the traffic, nearly causing an accident), which led Verne, curious, to try driving. As such, Timekeeper put him in the front seat of a race car, and him took off, albeit in the wrong direction. He then enjoyed a bobsled run. After it, Timekeeper sent him and Nine-Eye to the bottom of the sea to show him how his novel, ''20,000 Leagues Under the Sea'', came to life.
+
+The scene then changed, going from being underwater to flying. Verne now stood in a balloon soaring over Red Square in [[Moscow]], sharing it with a Russian couple on their honeymoon. Since his presence was inconvenient, Timekeeper sent him to Roissy Airport near Paris. The Russian couple was accidentally taken there as well, where they could start their honeymoon. As Verne witnessed planes (the "flying wagons" as he called them), he begged for Timekeeper to let him fly. An employee soon arrived, discovered 9-Eye, and started talking to her. However, Verne, who ventured far from there, was arrested by policemen. With the help of the employee and Timekeeper's grip on time, he was freed (these two scenes were not part of the Walt Disney World version).
+
+The screen then showed a flight through the air above various European countrysides featuring castles and mountains. Verne was shown in a helicopter, sitting dangerously close to its open door. After flying over Mont Saint-Michel, Neuschwanstein Castle, various scenes of the English countryside, and the [[New York City]] skyline (only in the Walt Disney World version), he requested to go even higher. They took him to space, in order to show that another dream of his, space travel, had come true from his book, ''From the Earth to the Moon''.
+
+Time was running out, so Timekeeper and 9-Eye returned Verne to the site of the Grand Palais of the 1900 Exposition Universelle. However, Timekeeper made a mistake; Verne being in the right place, but at the wrong time, in the 1990s (the present day when the attraction opened). When they finally returned him to 1900, Wells happened to go back to the site of his discussion with him, and therefore saw all that went on with Timekeeper. Wells was flabbergasted, and Verne and 9-Eye exchanged goodbyes as Wells struggled to understand what just happened. 9-Eye returned to the present, and now that guests had witnessed a "flawless" demonstration of his time machine, Timekeeper decided to send 9-Eye into the future along with a few guests that volunteered to travel with her.
+
+Timekeeper then sent 9-Eye and selected guests to 2189, 300 years after the 1889 Exposition Universelle and the completion of the Eiffel Tower (both evidenced by Timekeeper's clock and by the appearance of the number "300" on the Eiffel Tower). As they explored a futuristic Paris aboard a flying car named ''Reinastella'', they saw Verne and Wells appearing in what looked like the latter's time machine from 1900. A stunned 9-Eye questioned how they got there, to which Verne replied, "In the future, anything is possible!". The show ended as they jetted off, and Timekeeper wished the guests well. As they left, he made plans to see other important events in history and in the future with his machine and 9-Eye.
+
+===Voice cast===
+{| class="wikitable"
+|-
+! Character
+! Voice actor (American)
+! Voice actor (French)
+! Voice actor (Japanese)
+|-
+|Timekeeper || [[Robin Williams]] || Michel Leeb || George Tokoro
+|-
+|9-Eye || [[Rhea Perlman]] || Myriam Boyer ||Yuki Saito
+|}
+
+===Film cast===
+{| class="wikitable"
+|-
+! Character
+! Actor
+|-
+|Jules Verne || Michel Piccoli
+|-
+|H.G. Wells || [[Jeremy Irons]]
+|-
+|Leonardo da Vinci || Franco Nero
+|-
+|Mona Lisa || Anna Pernicci
+|-
+|Louis XV || Jean Rochefort
+|-
+|Madame de Pompadour || Nathalie Baye
+|-
+|Roissy Employee || [[Gérard Depardieu]]
+|-
+|Jules Verne's Translator || Patrick Bauchau
+|}
+
+==Filming locations==
+*Alnwick Castle, Northumberland, England, [[United Kingdom]]
+**Site of Scottish Battle scene
+*Castello Orsini-Odescalchi, Bracciano, Italy
+**Set of Leonardo da Vinci's workshop
+*Château de Chantilly, Chantilly, Oise, France
+**Site of Mozart's performance before Louis XV
+*Palm Pavilion, Schloss Schönbrunn, Hietzing, Vienna, Austria
+**Site for exterior shots for the 1900 Exposition Universelle
+*Rouffach, Haut-Rhin, Alsace, France
+**Location of the scene featuring the TGV
+*Paris, Île-de-France, Val-d'Oise, France
+**Site for the location of Parisian traffic jam scene
+*Knittelfeld, Steiermark, Austria
+**The Renault Grand Prix Scene took place at the Österreichring
+*Olympic Bobsleigh Run, Innsbruck, Tyrol, Austria
+**Site for shots for the Bobsleigh Run
+*Lyford Cay, New Providence Island, Commonwealth of the Bahamas, West Indies
+**Site of deep-sea dive scene
+*Red Square, Central Federal District, Moscow, Russia
+**Location of hot air balloon from the European and Japanese versions
+*Roissy-en-France, Île-de-France, Val-d'Oise, France
+**Location of Charles de Gaulle Airport scene from the European and Japanese versions
+*Mont Saint-Michel, Normandy, Manche, France
+**Fly over Mont Saint-Michel
+*Neuschwanstein Castle, Bavaria, [[Germany]]
+**Fly over Neuschwanstein Castle
+*Calais, Pas-de-Calais, France
+**Fly over the European coastline
+*New York City, New York, United States
+**Fly over New York City from the American version
+
+==Film variations==
+The original European version of the film was different from the American version. A certain number of scenes were cut including the hot air balloon scene, some European coastline scenes, and a dialogue between Jules Verne and an employee of Charles de Gaulle Airport. The only addition in the American version was a New York City skyline scene. The hot air balloon scene was filmed over Red Square in Moscow, and as such taken under intense conditions by [[Walt Disney Productions]] in the then-Soviet Union.
+
+{| class="wikitable"
+|-
+! European and Japanese scene order
+! American scene order
+|-
+| align="center" | Jurassic Period
+| align="center" | Same
+|-
+| align="center" | Ice Age
+| align="center" | Same
+|-
+| align="center" | The Anglo-Scottish Wars
+| align="center" | Same
+|-
+| align="center" | Da Vinci's Workshop
+| align="center" | Same
+|-
+| align="center" | Mozart's Concert in 1763
+| align="center" | Same
+|-
+| align="center" | The Construction of the Eiffel Tower
+| align="center" | Same
+|-
+| align="center" | Exposition Universelle of 1900
+| align="center" | Same
+|-
+| align="center" | Jules Verne in the present day
+| align="center" | Same
+|-
+| align="center" | Verne's Collision with TGV
+| align="center" | Same
+|-
+| align="center" | Traffic scene near Arc de Triumphe
+| align="center" | Same
+|-
+| align="center" | Bobsled Run
+| align="center" | Same
+|-
+| align="center" | Deep-sea exploration scene
+| align="center" | Same
+|-
+| align="center" | Up in the air from Red Square
+| align="center" | Omitted
+|-
+| align="center" | Charles De Gaulle Airport
+| align="center" | Omitted
+|-
+| align="center" | Flying over European countriesides
+| align="center" | Same, although Orlando's version goes from underwater to flying
+|-
+| align="center" | New York skyline
+| align="center" | Omitted
+|-
+| align="center" | Outer Space
+| align="center" | Same
+|-
+| align="center" | Return to Paris, today
+| align="center" | Same
+|-
+| align="center" | Return to Paris in 1900
+| align="center" | Same
+|-
+| align="center" | Paris in 2189
+| align="center" | Same
+|-
+| align="center" | End
+| align="center" | Same
+|}
+
+==Failed proposal for Disneyland Resort==
+During the early 1990s, then Disney CEO Michael Eisner released ambitious plans for changes to the parks. "Tomorrowland 2055" was planned for a remake of Tomorrowland and [[Disneyland Resort]] in [[California]]. ''The Timekeeper'' was to be a showcase attraction, along with [[ExtraTERRORestrial Alien Encounter]] and Plectu's Fantastic Intergalactic Revue. One promotional brochure had Delta Airlines<ref>{{Cite web|url=http://jimhillmedia.com/blogs/jim_hill/archive/2004/11/04/490.aspx|title=A Special Weekend Edition of Why For?|accessdate=December 18, 2006|author=Jim Hill}}</ref> sponsoring the film. But these plans were later scrapped due to financial difficulties within the Parks & Resorts division, most stemming from the billion dollar losses incurred with the EuroDisney project. However, some clips of ''The Timekeeper'' could be seen in the queue for ''[[Rocket Rods]]'', which utilized the Circle-Vision 360° Theater.
+
+Other information placed Visionarium as an opening-day attraction at [[WestCOT]], the unbuilt park next to Disneyland. it would have been housed in a European Renaissance building in a European section of the WestCOT version of [[World Showcase]]. However, like the "Tomorrowland 2055" plan, this did not occur either.<ref>{{Cite web|url=http://members.tripod.com/~savehorizons/westcot1.htm|title=Tony Baxter...on WestCOT|accessdate=December 18, 2006|author=Tony Baxter}}</ref><ref>{{Cite web|url=http://www.mickeynews.com/Columns/DisplayColumn.asp_Q_id_E_536|title=CALIFORNIA DREAMING Part 1 – WESTCOT’S World Showcase|accessdate=December 18, 2006|author=Shaun Finnie|archiveurl=http://web.archive.org/web/20061217150830/http://www.mickeynews.com/Columns/DisplayColumn.asp_Q_id_E_536 <!-- Bot retrieved archive -->|archivedate=December 17, 2006}}</ref>
+
+==Technical aspects==
+*Film negative format (mm/video inches)
+**9 x 35 mm
+*Cinematographic process
+**Circle-Vision 360
+*Printed film format
+**9 x 35 mm
+*Aspect ratio
+**12.00 : 1
+
+==Soundtrack notes==
+===Audio dialogue===
+The three versions of the attraction featured a soundtrack of dialogue in each park's country's native tongue (French, Japanese, and English).
+
+Both the Tokyo Disneyland and Disneyland Paris versions featured guest-selectable translations on headset, which included:
+*For Paris:
+**English
+**German
+**Spanish
+**Italian
+**Dutch
+*For Tokyo:
+**English
+**Mandarin Chinese
+
+Since both the European and Japanese versions opened before the Walt Disney World version was created, the voicecast and dialogue are completely different. The American-style dialogue was not present in these versions, and it was a close translation of the French dialog.
+
+==Trivia==
+*It took Disney several days to convince Jean Rochefort to shave his mustache for the role of Louis XV.
+*Five hundred candles are used for the Chateau de Chantilly sequence. Because of this, firefighters had to be on site during filming, meaning that many of the extras seen during the scene are actually firefighters.
+
+==References==
+{{Reflist}}
+{{Disneyland Paris}}
+{{Tokyo Disneyland}}
+{{Magic Kingdom}}
+{{DEFAULTSORT:Timekeeper}}
+[[Category:Extinct Attractions]]
+[[Category:Discoveryland attractions]]
+[[Category:Tomorrowland attractions]]
+[[Category:Former Disneyland Paris Attractions]]
+[[Category:Former Tokyo Disneyland attractions]]
+[[Category:Former Magic Kingdom attractions]]
+[[Category:Film attractions]]
+[[Category:The Timekeeper]]
+[[Category:Circle-Vision 360°]]

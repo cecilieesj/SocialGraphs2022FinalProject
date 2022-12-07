@@ -1,0 +1,23 @@
+{{Infobox character
+|image = Loony Louis.png
+|name = Loony Louis
+|games = ''[[Toontown Online]]''
+|alignment = Neutral}}
+'''Loony Louis''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC [http://toontown.wikia.com/wiki/Duck Duck] who owns [http://toontown.wikia.com/wiki/Used_Clown_Cars Used Clown Cars] on [http://toontown.wikia.com/wiki/Silly_Street Silly Street], [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central]. He has a [http://toontown.wikia.com/wiki/Toontask Toontask] that rewards Toons the Medium Pouch Bag (25 [http://toontown.wikia.com/wiki/Gags Gags] total)
+
+==Toontask==
+﻿#Visit Loony Louis in Used Clown Cars on Silly Street, Toontown Central.
+#Fish out 4 Clown Tires in [http://toontown.wikia.com/wiki/Fishing Ponds].(Anywhere)
+#Return the 4 Clown Tires to Loony Louis.
+#Visit [http://toontown.wikia.com/wiki/Lucy_Tires Lucy Tires] in [http://toontown.wikia.com/wiki/Crack_Up_Auto_Repair Crack Up Auto Repair] on [http://toontown.wikia.com/wiki/Loopy_Lane Loopy Lane], [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central].
+#Defeat 6 Level 3+ [http://toontown.wikia.com/wiki/Cogs Cogs]. (Toontown Central)
+#Return to Lucy Tires.
+#Deliver Air Pump(from Lucy Tires) to Loony Louis.
+'''Reward: '''Medium Pouch Bag (25 Gags)﻿
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Males]]
+[[Category:Ducks]]
+[[Category:Animated characters]]
+{{Toontown Online}}

@@ -1,0 +1,37 @@
+{{Infobox film
+|image = Alicechopsthesueytitle.jpg
+|name = Alice Chops the Suey
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[August 30]], [[1925]]
+|time = 7:05
+|preceded = ''[[Alice's Tin Pony]]''
+|followed = ''[[Alice the Jail Bird]]''
+}}
+'''''Alice Chops the Suey''''' is an animated short film that is part of the ''[[Alice Comedies]]'' that were released by Winkler Pictures in [[1925]]. It was in black and white and silent.
+
+==Summary==
+Alice and Julius have an adventure in Chinatown. Alice is captured by a jinn and is rescued by Julius in a madcap chase.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+Alice chops the suey 1large.jpg
+Alice chops the suey 2large.jpg
+Alice chops the suey 3large.jpg
+Alice chops the suey 4large.jpg
+Alice chops the suey 5large.jpg
+Alice chops the suey 6large.jpg
+1925-suey-2.jpg
+1925-suey-3.jpg
+1925-suey-4.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=32 Alice Chops the Suey] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1925 shorts]]
+[[Category:Alice Comedies]]

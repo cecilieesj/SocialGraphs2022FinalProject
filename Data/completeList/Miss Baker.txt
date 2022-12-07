@@ -1,0 +1,44 @@
+{{Infobox character
+|image = Miss Baker.png
+|shows = ''[[Miles from Tomorrowland]]''
+|voice = [[Audrey Wasilewski]]
+|inspiration = The squirrel monkey [[Wikipedia:Miss Baker|Miss Baker]]<ref name="Twitter"/>
+|alias = Miss B
+|occupation = Loretta's pet robo-monkey<br>Member of [[Mission Force One]]
+|affiliations = Tommorwland Transit Authority
+|home = [[Stellosphere]] (formerly)<br>[[Zenith]]
+|likes = Loretta
+|dislikes = 
+|powers = Holo symbol projection<br>Extendable tail with a built in laser
+|fate = Adopted by the Callisto family
+|status = Active
+|owner = [[Loretta Callisto]]}}
+'''Miss Baker''' is [[Loretta Callisto|Loretta's]] pet Robo-Monkey who appears in the [[Disney Junior]] animated series, ''[[Miles from Tomorrowland]]''. She is a T.T.A. robot who disappeared a few years ago while on a mission until she was found and adopted by the Callisto family.
+
+==Abilities==
+*'''Holographic Symbol Projection:''' One of her basic features is projecting holographic symbols above her head which tell people what she is thinking.
+*'''Extendable Tail:''' Similar to [[M.E.R.C.]]'s extendable neck, Miss Baker has a tail that can extend to great lengths and has a built in laser on the end.
+
+==Trivia==
+*Miss Baker is named after the real monkey that was sent into space by the [[United States]]. She was the first animal sent into space by the U.S. to return alive.<ref name="Twitter">{{Cite web|url=https://twitter.com/saschapaladino/status/883522546540269569|title=Sascha Paladino post|website=Twitter|date=July 7, 2017}}</ref>
+*She is the Callisto's second robot pet, alongside [[M.E.R.C.]]
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small">
+Robo-Monkey Business 1.png
+Robo-Monkey Business 2.jpg
+Connect and Protect 4.png
+</gallery>
+
+==References==
+{{Reflist}}
+{{CharacterStub}}
+{{Miles from Tomorrowland}}
+[[Category:Robots]]
+[[Category:Monkeys]]
+[[Category:Disney Junior characters]]
+[[Category:Miles from Tomorrowland characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Pets]]
+[[Category:Disney characters]]

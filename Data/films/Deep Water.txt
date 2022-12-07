@@ -1,0 +1,56 @@
+{{WarningAlert}}
+{{Infobox film
+|name = Deep Water
+|image = Deep Water Official Poster 2.jpg
+|director = Adrian Lyne
+|producer = Arnon Milchan<br>Steven Zaillian<br>Garrett Basch<br>Guymon Casady<br>Ben Forkner<br>Anthony Katagas
+|writer = Zach Helm (screenplay)<br>Sam Levinson (screenplay)
+|starring = [[Ben Affleck]]<br>Ana de Armas
+|music = Marcelo Zarvos
+|cinematography = Eigil Bryld
+|editor = 
+|studio = [[20th Century Studios]]<br>Regency Enterprises<br>Film Rites<br>Entertainment 360<br>New Regency Productions<br>Entertainment One
+|distributor = [[Hulu]] (US)<br>Amazon Prime Video (International)
+|release = [[March 18]], [[2022]]
+|language = English
+|budget = $20 million
+|imdb_id = 2180339}}
+
+'''''Deep Water''''' is a 2022 US psychological thriller film directed by Adrian Lyne and written by Zach Helm and Sam Levinson. It is based on the 1957 novel of the same name by Patricia Highsmith. Originally produced under [[20th Century Studios]], the film was released on [[Hulu]] in the US and on Amazon Prime Video internationally on [[March 18]], [[2022]].
+
+==Plot==
+A well-to-do husband who allows his wife to have affairs in order to avoid a divorce becomes a prime suspect in the disappearance of her lovers.
+
+==Cast==
+* [[Ben Affleck]] as Vic Van Allen
+* Ana de Armas as Melinda Van Allen
+* Tracy Letts as Lionel
+* Rachel Blanchard as Maggie
+* [[Lil Rel Howery]] as Miles
+* Finn Wittrock as Nick
+* Jacob Elordi as Ricky
+* Kristen Connolly as Jackie
+* Dash Mihok as Tom
+* Jade Fernandez as Jennifer
+* Michael Braun as Jeff Peterson
+* Michael Scialabba as Kevin Washington
+
+==Release==
+Originally scheduled to be released by [[Walt Disney Studios Motion Pictures]] (under [[20th Century Studios]]) on November 13, 2020, the film was delayed to August 13, 2021, and again to January 14, 2022, due to the COVID-19 pandemic.<ref name="Variety1">{{Cite magazine|url=https://variety.com/2019/film/news/ridley-scott-the-last-duel-disney-dates-christmas-2020-1203406933/|title=Ridley Scott’s ‘The Last Duel’ Gets the Greenlight as Disney Dates Multiple Titles|first1=Justin|last1=Kroll|magazine=Variety|publisher=[[Penske Media Corporation]]|location=Los Angeles, California|date=November 16, 2019}}</ref><ref>{{Cite web|last= D'Alessandro |first=Anthony |date=September 23, 2020|title=‘Black Widow’ Jumps To Summer 2021 Spurring Marvel Pics Release Date Shift; ‘West Side Story’ Delayed A Year; ‘Soul’ Stays Theatrical |url= https://deadline.com/2020/09/black-widow-jumps-to-summer-2021-spurring-marvel-pics-release-date-shift-west-side-story-delayed-a-year-soul-stays-theatrical-1234582771/ |access-date=September 23, 2020 |website= Deadline Hollywood}}</ref> On December 9, 2021, it was taken off the release date schedule. It was later announced to be releasing on [[Hulu]]<ref>"Deep Water on 20th Century Studios". [https://filmyrating.com/deep-water-parents-guide-2022-film/ Filmy Rating]. Retrieved February 22, 2022.</ref> in the US, and on Amazon Prime Video in international markets, on an unannounced date in 2022. On February 14, 2022, Disney officially released the first poster and trailer, and announced that the film will released on March 18, 2022.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150">
+Deep Water Official Poster.jpg|Teaser poster
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://rottentomatoes.com/m/deep_water_2020 Rotten Tomatoes]
+{{DISPLAYTITLE:''Deep Water''}}
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:20th Century Fox films]]
+[[Category:Films based on books]]
+[[Category:R-rated films]]

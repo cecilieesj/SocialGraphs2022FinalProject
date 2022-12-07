@@ -1,0 +1,36 @@
+{{Infobox character
+|image = Profile - Susan Frankenstein.png
+|films = ''[[Frankenweenie]]''
+|actress = [[Shelley Duvall]] (1984 short film)
+|voice = [[Catherine O'Hara]] (2012 film)
+|alias = Mom
+|personality = Motherly, sweet, caring, soft-spoken, loving, gentle, calm, mature, supportive, empathetic, stern.
+|appearance = Slender, beautiful, tall
+|occupation = [[Victor Frankenstein|Victor]]'s mother
+|alignment = Good
+|family = [[Ben Frankenstein]] (husband)<br>[[Victor Frankenstein]] (son)
+|pets = [[Sparky (Frankenweenie)|Sparky]] (dog)
+|likes = [[Victor Frankenstein|Victor]], her [[Ben Frankenstein|husband]]|dislikes=Her son upset, Sparky's death|status=Active}}
+'''Susan Frankenstein''' is the wife of [[Ben Frankenstein]] and the mother of [[Victor Frankenstein]].
+==Description==
+Susan Frankenstein is a friendly, loving, and supportive mother who encourages her son’s scientific pursuits, even when her kitchen appliances end up in his attic lab. She is an avid reader and loves to watch movies with her husband, and enjoys the company of her family and her books.
+
+Susan appears to take on the role of a stereotypical cookie-cutter ’50s housewife.
+
+==Trivia==
+*Susan looks like Victoria Everglot from ''Corpse Bride''.
+
+==Gallery==
+<gallery position="center">
+Susan frankenstein.jpg
+Frankenweenie - Ben and Susan Frankenstein.jpeg
+</gallery>
+
+{{CharacterStub}}
+{{Frankenweenie}}
+{{DEFAULTSORT:Frankenstein, Susan}}
+[[Category:Frankenweenie characters]]
+[[Category:Females]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Parents]]

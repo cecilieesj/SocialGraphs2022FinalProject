@@ -1,0 +1,60 @@
+{{Infobox character
+|image = Tommy Howard.jpg
+|name = Tommy Howard
+|films = 
+|shorts = 
+|shows = ''[[Fillmore!]]''
+|games = 
+|rides = 
+|actor = 
+|actress = 
+|animator = 
+|voice = Josh Uhler
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = 
+|personality = 
+|appearance = 
+|occupation = Member of the Art Club
+|alignment = 
+|affiliations = 
+|goal = 
+|home = 
+|family = 
+|pets = 
+|friends = 
+|minions = 
+|enemies = 
+|likes = 
+|dislikes = 
+|powers = 
+|possessions = 
+|weapons = 
+|fate = 
+|quote = }}
+'''Tommy Howard''' is a minor character in Disney's ''[[Fillmore!]]''. He is voiced by Josh Uhler.<ref>http://www.behindthevoiceactors.com/tv-shows/Fillmore/Tommy/</ref>
+
+==Biography==
+He is a member of the art club along with [[Jean Geary]]. They are possible suspects of graffiti in the school's toilet stalls.
+
+==Appearance==
+*"[[To Mar a Stall]]"
+
+==References==
+{{Reflist}}
+
+{{CharacterStub}}
+{{Fillmore!}}
+{{DEFAULTSORT:Howard, Tommy}}
+[[Category:Fillmore characters]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Males]]
+[[Category:Teenagers]]
+[[Category:American characters]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Students]]

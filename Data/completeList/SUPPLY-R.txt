@@ -1,0 +1,44 @@
+{{Infobox character
+|name=SUPPLY-R
+|films= ''[[WALL-E (film)|WALL-E]]'' (cameo)
+|personality=Helpful
+|appearance=Rectangle-shaped robot
+|alignment = Good
+|home= The [[Axiom]] and at the end, [[WALL-E Transport Vehicle|WALL-E's truck]] on Earth
+|friends= [[BURN-E (character)|BURN-E]]
+|enemies=
+|likes=Making sure that all lampposts are turned on in position
+|dislikes=BURN-E being upset
+|powers= Serving with arms
+|weapons=
+|fate=Stays with the rest of the robots on Earth
+|quote="Power restored."<br>"There, there."||games = ||fullname = ||image = SUPPLY-R.png|shorts = ''[[BURN-E (short)|BURN-E]]''}}'''SUPPLY-R''' (which stands for '''Spare Ultra Plottic Pandron Yorth Ranger''') is a robot who stores a collection of spare lights for the exterior of the [[Axiom]]. He is capable of holding three such spares at a time.
+
+He makes a cameo in the [[2008]] [[Walt Disney Pictures|Disney]]/[[Pixar]] animated feature film, ''[[WALL-E (film)|WALL-E]]'' in the escape pod chamber.
+
+== Biology ==
+SUPPLY-R has a clean white body with discreet line patterns on his sides. A dark grey base is attached to his sides, similar to [[SECUR-T|Stewards]]. The shapes of the base roughly resemble right triangles, the right angle being close to his back.
+
+A deep black touch screen with a long rectangular shape is on SUPPLY-R's chest. Icons portraying the Axiom's lights for BURN-E to fix. Its vertexes substituted by fair curves. If a light were to break, a bright blinking red light would surround a specific icon symbolizing the broken light.
+
+SUPPLY-R's stomach has a bumpy dark grey plastic covering, surrounded by a painted yellow and black slanted border. Sometimes, the plastic covering would slide up, exposing six of SUPPLY-R's six metallic arms.
+
+From the BURN-E short, SUPPLY-R held three spare lights with his six arms.
+
+In order to notify [[BURN-E (character)|BURN-E]], he would retract out a seventh arm from of his left side (possibly his shoulder) and press a button labelled POW-R.
+
+An upper section of his frontal side extrudes out, resembling his head. A light blue covering with his name is 'worn' on top in light grey letters. A deep black LED screen with his bright light blue eyes is on the lower section of the extrusion.
+
+Since SUPPLY-R is often attached to a wall, his back is not often visible. It was visible at the end of BURN-E while he spoke with another unnamed robot. A square section of his upper back is not covered unlike the rest of his body. The section exposes various wires with a dark grey area (possibly his 'insides').
+
+==''BURN-E''==
+He plays a bigger role in the events of ''[[BURN-E]]''. When one of the lights was destroyed by a passing space rock, [[AUTO]] notified SUPPLY-R, who in turn summoned a welding robot [[BURN-E (character)|BURN-E]]. BURN-E powered down the circuit to the broken light through SUPPLY-R, took one of the spares, then went outside to replace the broken one. However, thanks to the antics of [[WALL-E (character)|WALL-E]] and [[EVE]], kept losing the new light. Embarrassed, he was constantly forced to return to SUPPLY-R, who was surprised and slightly irritated that he could lose the replacements. Finally, BURN-E managed to successfully attach SUPPLY-R's third and final new spare, then find a way back into the ''Axiom'' after getting locked out by WALL-E and EVE. He enthusiastically went to SUPPLY-R to power up the light, only for AUTO to tilt the Axiom and cause him to slide back out of the ship. When the Axiom landed on Earth, SUPPLY-R joined the other robots and exited the ship to see their new home. Eventually, an escape pod crashed near to where he was standing and chatting with another robot, and out came BURN-E, who had been searching for him. Finally, BURN-E succeeded in powering up the new light through SUPPLY-R, only for it to be destroyed seconds later by the escape pod's hatch. BURN-E collapsed on the ground in frustration, leaving SUPPLY-R to comfort him. e
+
+{{WALL-E}}
+[[Category:Characters]]
+[[Category:Pixar characters]]
+[[Category:WALL-E characters]]
+[[Category:Robots]]
+[[Category:Silent characters]]
+[[Category:WALL-E objects]]
+[[Category:Animated characters]]

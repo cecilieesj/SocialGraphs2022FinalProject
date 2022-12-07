@@ -1,0 +1,44 @@
+{{Infobox film
+|image = Ss-playfulpan-redux.jpg
+|imagewidth = 250px
+|name = Playful Pan
+|director = [[Burt Gillett]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = Walt Disney
+|music = Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[December 27]], [[1930]]
+|time = 6:56
+|preceded = ''[[Winter]]''
+|followed = ''[[Birds of a Feather]]''}}
+'''''Playful Pan''''' is a black-and-white ''[[Silly Symphony]]'' that debuted on [[December 27]], [[1930]].
+
+==Synopsis==
+The Greek God Pan comes to Earth, coaxing music and dance out of the flora and fauna. Lightning strikes start a fire that nearly burns everything. Pan uses his music to lure the flames into a nearby pond where they are safely extinguished.
+
+==Characters==
+* [[Pan]]
+
+==Home video releases==
+'''VHS'''
+*''[[Walt Disney Cartoon Classics]]: Silly Symphonies: Fanciful Fables'' (non-theatrical print)
+'''DVD'''
+* ''[[Walt Disney Treasures]]: More Silly Symphonies''
+
+==Gallery==
+<gallery captionalign="center" position="center">
+13205.jpg
+13206.jpg
+13207.jpg
+13210.jpg
+13211.jpg
+13212.jpg
+</gallery>
+
+{{Silly Symphony}}
+[[Category:Animated shorts]]
+[[Category:Silly Symphonies]]
+[[Category:1930 shorts]]

@@ -1,0 +1,46 @@
+{{Episode
+|series     = [[Walt Disney's Wonderful World of Color]]
+|title      = Way Down Cellar
+|season     = 14
+|number     = 14-15
+|image      = 1968-way-down-cellar-01.jpg
+|caption    = 
+|production = 
+|airdate    = [[January 7]], [[1968]] (part 1)<br>[[January 14]], 1968 (part 2)
+|writer     = 
+|director   = 
+|storyboard = 
+|ws         = 
+|story      =
+|previous   = "[[A Boy Called Nuthin']]"
+|next       = "[[From the Pirates of the Caribbean to the World of Tomorrow]]"}}
+"'''Way Down Cellar'''" is a [[1968]] Disney telefilm that originally aired in two parts on ''[[Walt Disney's Wonderful World of Color]]'' on [[NBC]] on [[January 7]], 1968 and [[January 14]], 1968.
+
+==Synopsis==
+In this adventure, three young boys stumble upon a secret tunnel. Eventually they learn it was used during the Revolutionary War.
+
+==Cast==
+*Richard Bakalyan ... Charlie
+*Sheldon Collins ... Beans Emerson
+*Lindy Davis ... Skeeter Martin
+*Frank McHugh ... Constable Seely
+*David McLean ... Professor Wilson
+*[[Butch Patrick]] ... Frank Wilson
+*Grace Lee Whitney ... Velma
+*[[Ben Wright]] ... Ethan Marcus
+
+==Gallery==
+<gallery position="center">
+Way_down_cellar_press_photo.jpg
+Way_down_cellar_press_photo_back.jpg
+1968-way-down-cellar-03.jpg
+1968-way-down-cellar-04.jpg
+1968-way-down-cellar-05.jpg
+1968-way-down-cellar-06.jpg
+</gallery>
+[[Category:Walt Disney anthology series episodes]]
+[[Category:Television episodes]]
+[[Category:Multi-part episodes]]
+[[Category:Films]]
+[[Category:1968 films]]
+[[Category:Disney films]]

@@ -1,0 +1,31 @@
+{{Infobox character
+|image = Mr_B_2.jpg
+|name = Mr. B
+|shorts = ''[[Lifted]]''
+|alignment = Neutral/Good}}'''Mr. B''' is an alien in the [[Pixar]] animated short, ''[[Lifted]]''.
+
+==Appearances==
+===''[[Lifted]]''===
+He is regularly in control of the UFO, but lets [[Stu (Lifted)|Stu]] take control one night and attempt to capture a human, named [[Ernie]]. After several failures, Mr. B takes control instead, and puts everything in the household back to where it was.
+
+==Gallery==
+<gallery position="center">
+Lifted_Aliens.jpg|Mr. B. (left) with Stu (right)
+Mr. B.png
+Mr. B 1.png
+268PX-~1.PNG|A diagram showing the steps Pixar took to create Mr. B
+</gallery>
+
+==Trivia==
+*[[Gary Rydstrom]] said Mr. B's name came from the fact that the character's teacher would only give him B grades.
+
+{{PixarWiki}}
+{{DEFAULTSORT:B}}
+[[Category:Pixar characters]]
+[[Category:Aliens]]
+[[Category:Silent characters]]
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Neutral characters]]
+[[Category:Animated characters]]
+[[Category:Adults]]

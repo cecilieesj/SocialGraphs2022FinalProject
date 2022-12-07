@@ -1,0 +1,57 @@
+{{Infobox film
+| name = The Pixar Story
+| director = [[Leslie Iwerks]]
+| image = The Pixar Story Poster.jpg
+| writer = Leslie Iwerks
+| producer = Leslie Iwerks
+| music = Jeff Beal
+| narrator = [[Stacy Keach]]
+| editing = Leslie Iwerks <br /> Stephen Myers, A.C.E
+| studio = Leslie Iwerks Productions
+| distributor = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br>Motion Pictures]]
+| time = 87 minutes
+| language = English
+|imdb_id = 1059955}}
+'''''The Pixar Story''''', directed by [[Leslie Iwerks]], is a documentary of the history of [[Pixar|Pixar Animation Studios]]. An early version of the film premiered at the Sonoma Film Festival in [[2007]], and it had a limited theatrical run later that year, before it was picked up by the Starz cable network in the United States.
+
+The film was released, outside North America, on DVD in summer [[2008]] as part of the "Ultimate Pixar Collection," a box set of Pixar films. It was then included as a special feature on the ''[[WALL-E (film)|WALL-E]]'' special edition DVD and Blu-ray releases, which were launched on November 18, 2008.
+
+The film premiered on BBC in the United Kingdom on [[August 24]], [[2009]].
+
+==Synopsis==
+The success story of Pixar Animation Studios from the ground up.
+
+==Notable interviewees==
+* [[Tim Allen]] – Actor, voiced [[Buzz Lightyear]]
+* [[Brad Bird]] – Director
+* Edwin Catmull – First Chief Technical Officer
+* [[Billy Crystal]] – Actor, voiced Mike in ''[[Monsters, Inc.]]'' and ''[[Monsters University]]''
+* [[Michael Eisner]] – ex-CEO of [[The Walt Disney Company|the Walt Disney Company]]
+* [[Tom Hanks]] – Actor, voiced Sheriff Woody
+* [[Bob Iger]] – CEO of the Walt Disney Company
+* [[Steve Jobs]] – Principle Investor & co-founder of Pixar
+* [[John Lasseter]] – Pixar co-founder & visionary
+* [[George Lucas]] – Owner of [[Lucasfilm]], Pixar's original foundation
+
+==Reception==
+The film was given generally positive reviews, receiving an aggregated score of 86% from Rotten Tomatoes, based on 7 reviews.
+
+==See also==
+*''[[Waking Sleeping Beauty]]'', a 2009 documentary film chronicling the history of [[Walt Disney Animation Studios]].
+
+==External links==
+* [http://www.leslieiwerks.com Leslie Iwerks Productions]
+
+{{Pixar}}
+
+{{Wikipedia}}
+
+{{DEFAULTSORT:Pixar Story, The}}
+{{DISPLAYTITLE:''The Pixar Story''}}
+
+[[Category:2007 films]]
+[[Category:Documentaries]]
+[[Category:Disney films]]
+[[Category:Pixar films]]
+[[Category:History]]
+[[Category:G-rated films]]

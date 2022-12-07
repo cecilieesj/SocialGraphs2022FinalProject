@@ -1,0 +1,53 @@
+{{Infobox film
+|image = Wind poster.jpg
+|name = Wind
+|director = Edwin Chang
+|producer = Jesús MartÍnez
+|writer = Edwin Chang
+|starring = Sonoko Konishi<br>Emilio Fuentes
+|music = Andrew Jimenez
+|cinematography = Scott Clifford<br>Robert Kinkead
+|editor = Tim Fox
+|studio = [[Pixar|Pixar Animation Studios]]
+|distributor = [[Pixar|Pixar Animation Studios]]<br>[[Walt Disney Pictures]]
+|release = [[December 13]], [[2019]]
+|time = 8 minutes
+|language = English
+|budget = 
+|gross = 
+|preceded = ''[[Float (film)|Float]]'' 
+|followed = ''[[Loop]]''
+|hidec = 
+|website = https://www.pixar.com/sparkshorts#wind1
+|imdb_id = 9536850
+|tv_com_id = }}
+'''''Wind''''' is an experimental short film produced by [[Pixar]] as part of Pixar's ''[[SparkShorts]]'' series and was released on [[Disney+]] on [[December 13]], [[2019]].
+
+== Synopsis ==
+Set in a world of magical realism, Wind sees a grandmother and her grandson trapped in a never-ending sink-hole, scavenging debris that floats around them to realize their dream of escaping to a better life.
+
+== Plot ==
+Ellis and his grandmother live in a mysterious void full of floating rocks and strange debris of disused items and machines. They managed to make a small home for themselves out of the garbage and plant potatoes, the only food they are able to grow. Every day, Grandma has Ellis attach a cord to himself to float out and collect items that they can use for their benefit. In particular, the two are building a rocket so that they can escape from the hole and into the bright light at the top. One day, Ellis discovers an abandoned plane in the wreckage, but it can only sit one person. Grandma offers a plan that he ride the rocket out and simply pull her up with the chord to which he agrees.
+
+With the final touches added to their rocket, Ellis gets in and flies upward, avoiding the rocks and debris that he passes by. Despite some turbulence, Ellis makes it out through the top and lands on the outside where he ends up in a lush field and sees birds flying overhead. He then grabs the cord and pulls it up, which takes almost the entire day. However, he is saddened to see that instead of tying herself to the chord, Grandma tied a box of potatoes as a farewell gift seeing as she can't make it up there. Ellis breaks down in tears as he hugs it.
+
+== Gallery ==
+<gallery position="center">
+Wind pixar image.jpg
+2019-wind-03.jpg
+2019-wind-04.jpg
+2019-wind-05.jpg
+2019-wind-06.jpg
+2019-wind-07.jpg
+</gallery>
+
+{{DISPLAYTITLE:Wind}}
+[[pt-br:Wind (curta)]]
+
+{{Disney+}}
+[[Category:Pixar shorts]]
+[[Category:Animated shorts]]
+[[Category:SparkShorts]]
+[[Category:Pixar]]
+[[Category:Featured shorts]]
+[[Category:Disney+ Originals]]

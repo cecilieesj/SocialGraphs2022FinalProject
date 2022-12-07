@@ -1,0 +1,25 @@
+{{Infobox character
+|image = Charlie_B.jpg
+|name = Charlie
+|films = ''[[The Brave Little Toaster to the Rescue]]''
+|voice = [[Eddie Deezen]]
+|occupation = Computer genius
+|likes = Fixing computer problems
+|dislikes = Not being able to resolve computer problems
+|powers = Computer skills
+|status = Active}}
+
+'''Charlie''' is one of the major characters from ''[[The Brave Little Toaster to the Rescue]]''.
+
+==Role in the film==
+Charlie is a computer genius and plays a major role in the film. After [[Rob McGroarty|Rob]] started having problems with his [[Computer and Mouse|computer]], he and his girlfriend [[Chris McGroarty|Chris]] called Charlie to see if he could help them fix it. He tried his best, but it was no use; it had the same error: "NO FILE EXISTS." He told Rob that there might be some computer virus. Two days later, he, Rob, and Chris go to the basement and notice that the source of the problem was from [[Wittgenstein]], who had been already fixed and was good as new. They then decided he would make a great exhibit at the Science Museum, so they moved him there, while also modernizing him with the latest technology so he would remain in perfect working condition for the foreseeable future.
+
+{{The Brave Little Toaster}}
+[[Category:The Brave Little Toaster characters]]
+[[Category:Heroes]]
+[[Category:Males]]
+[[Category:Teenagers]]
+[[Category:Characters]]
+[[Category:Animated characters]]
+[[Category:American characters]]
+[[Category:Non-Disney characters]]

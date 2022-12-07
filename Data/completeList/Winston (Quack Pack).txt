@@ -1,0 +1,28 @@
+{{Infobox character
+|image = Koi Story - Winston.jpg
+|name = Winston
+|shows = ''[[Quack Pack]]''
+|likes = Being free
+|dislikes = Being in a fish bowl, Gil spoiling him, Donald trying to catch him
+|status = Active}}'''Winston''' is a character in the ''[[Quack Pack]]'' episode, ''[[Koi Story]]''.
+
+==Gallery==
+<gallery spacing="medium" captionalign="center" position="center">
+Koi Story happy.jpg|Now Happy and free
+Koi Story catch.jpg|Caught by the fisherman
+</gallery>
+
+{{CharacterStub}}
+{{Quack Pack}}
+[[Category:Males]]
+[[Category:Fish]]
+[[Category:Disney characters]]
+[[Category:Characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Quack Pack characters]]
+[[Category:Adults]]
+[[Category:Giants]]
+[[Category:Silent characters]]
+[[Category:The Disney Afternoon characters]]
+[[Category:Donald Duck universe characters]]

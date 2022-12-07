@@ -1,0 +1,33 @@
+{{Infobox Song
+|image = Fantasia playful triangles.png
+|composer = {{WikipediaLink|Ludwig van Beethoven}}
+|films = ''[[Fantasia 2000]]''<br>''[[Doctor Strange in the Multiverse of Madness]]''
+|albums = ''[[Fantasia 2000 (soundtrack)|Fantasia 2000]]''
+|video = Disney's Fantasia 2000 Symphony No. 5
+|original = 
+|followed_by = ''[[Pines of Rome]]''|shows=''[[Little Einsteins]]''|singer=Chicago Symphony Orchestra (conducted by James Levine)}}
+'''Symphony No. 5 in C minor-I. Allegro con brio''' by Ludwig van Beethoven is the first segment of Disney's [[1999]] animated feature film, ''[[Fantasia 2000]]''. The segment has also been used in the closing credits, but omitted the first 45 seconds as well as the last 13 seconds from the music.
+==Synopsis==
+This segment starts without introduction immediately after the opening. Abstract patterns and shapes that resemble [[Colorful Triangles|butterflies]] in reds, oranges, yellows, greens, blues, purples, and pinks in shades, tints, hues and [[Black Triangles|bats in black]] explore a world of light and darkness which is ultimately conquered by light.
+
+==Credits==
+
+*'''Musical score:''' {{WikipediaLink|Ludwig van Beethoven}}
+*'''Directed by:''' Pixote Hunt
+*'''Story development:''' Kevin Yasuda
+*'''Art direction:''' Pixote Hunt
+*'''Animators:''' Wayne Carlisi and Raul Garcia
+
+==Gallery==
+{{Gallerylink}}
+{{Fantasia}}
+[[Category:Fantasia]]
+[[Category:Fantasia segments]]
+[[Category:Non-Disney songs]]
+[[Category:Little Einsteins]]
+[[Category:Instrumental songs]]
+[[Category:Films]]
+[[Category:Featured shorts]]
+[[Category:Animated shorts]]
+[[Category:Featured songs]]
+[[Category:Music]]

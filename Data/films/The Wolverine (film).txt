@@ -1,0 +1,134 @@
+{{Marvel Database:Film Template
+| Image                   = The Wolverine (film) poster 003.jpg
+| Aliases                 = Wolverine: Samurai (Japanese release)<br>Wolverine: Immortal (Spanish releases)
+
+| Directors               = James Mangold
+| Producers               = Lauren Shuler Donner; Hutch Parker
+| ComicWriters            = 
+| StoryWriters            = 
+| ScreenplayWriters       = Mark Bomback; Scott Frank
+| Musicians               = Marco Beltrami
+| Cinematographers        = Ross Emery
+| Editors                 = Michael McCusker
+| Distributors            = 20th Century Fox
+| ProductionCompanies     = Marvel Entertainment; The Donner's Company; TSG Entertainment
+| Running Time            = '''Theatrical Cut'''<br>126 minutes<br>'''Extended Cut'''<br>132 minutes
+| Rating                  = '''Theatrical Cut'''<br>MPAA: PG-13 for sequences of intense sci-fi action and violence, some sexuality and language<br>'''Extended Cut'''<br>MPAA: R for sequences of strong violence and some language
+| Budget                  = $120 million
+| Release Date            = July 23, 2013
+| US Release Date         = July 26, 2013
+
+| IMDB ID                 = 1430132
+| AM ID                   = the-wolverine-v496814
+| Marvel Movies           = The Wolverine
+| X-Men Movies            = The Wolverine
+
+| Previous Film           = X-Men: The Last Stand
+| Previous Film2          = {{sld|X-Men Origins: Wolverine (film)}}
+| Next Film               = X-Men: Days of Future Past (film)
+| Next Film2              = {{sld|Logan (film)}}
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[James Howlett (Earth-10005)|Wolverine (Logan)]]|X-Men: The Last Stand|X-Men: Days of Future Past (film)}} {{Flashback}}
+'''Supporting Characters:'''
+* {{Only|[[Yashida Corp (Earth-10005)|Yashida Zaibatsu]]}}
+** {{Only|[[Yukio (Earth-10005)|Yukio]]}}
+** {{Only|[[Mariko Yashida (Earth-10005)|Mariko Yashida]]}}
+* {{Only Dies|[[Keniuchio Harada (Earth-10005)|Keniuchio Harada]]}}
+'''Antagonists:'''
+* {{a|[[Yashida Corp (Earth-10005)|Yashida Zaibatsu]]}}
+** {{Flashback|[[Yashida (Earth-10005)|Silver Samurai (Yashida)]]}} {{Only Dies}}
+** {{Only Dies|[[Shingen Yashida (Earth-10005)|Shingen Yashida]]}}
+** {{Only Dies|[[Viper (Doctor Green) (Earth-10005)|Viper (Dr. Green)]]}}
+** {{Only|[[Black Clan (Earth-10005)|Black Clan]]}}
+* {{Only|[[Noburo Mori (Earth-10005)|Noburo Mori]]}}
+* {{Only|[[Yakuza (Earth-10005)|Yakuza]]}}
+'''Other Characters:'''
+* {{Dream|[[Jean Grey (Earth-10005)|Jean Grey]]}}
+* {{Photo|[[Ororo Munroe (Earth-10005)|Storm (Ororo Munroe)]]}}
+* Shizu {{Only}}
+* Saki {{Only}}
+* {{Only|[[Mieko (Earth-10005)|Mieko]]}}
+* {{Only|[[Hitoshi (Earth-10005)|Hitoshi]]}}
+* {{1st|[[Trask Industries (Earth-10005)|Trask Industries]]}} {{OnScreen}}
+* {{apn|[[Erik Lehnsherr (Earth-10005)|Magneto (Erik Lehnsherr)]]|X-Men: The Last Stand|X-Men: Days of Future Past (film)}} {{Cameo}}
+* {{apn|[[Charles Xavier (Earth-10005)|Professor X (Charles Xavier / "P. Xavier")]]|X-Men: The Last Stand|X-Men: Days of Future Past (film)}} {{Cameo}}
+'''Chronological Flashbacks'''
+* {{apn|[[James Howlett (Earth-10005)|James Howlett]]|X-Men Origins: Wolverine (film)|X-Men: First Class (film)}}
+'''Races and Species:'''
+* {{Flashback|[[Humans (Homo sapiens)|Humans]]}}
+* {{Flashback|[[Mutants (Homo superior)|Mutants]]}}
+'''Locations:'''
+* {{Flashback|[[Earth-10005]]}}
+** {{Flashback|[[Earth]]}}
+*** {{Only|[[Japan]]}} {{Flashback}}
+**** {{Only|[[Kyushu]]}} {{Flashback}}
+***** {{Only|[[Nagasaki Prefecture]]}} {{Flashback}}
+****** {{Only|[[Nagasaki]]}} {{Flashback}}
+**** {{Only|[[Honshu]]}}
+***** {{Only|[[Tokyo]]}}
+****** Ueno Station {{Only}}
+*** {{Last|[[Canada]]}}
+**** {{Only|[[Yukon]]}}
+'''Items:'''
+* {{a|[[Adamantium]]}}
+* {{Only|[[Silver Samurai's Armor]]}} {{Destroyed}}
+* {{Mentioned|[[Sentinels]]}}
+'''Vehicles:'''
+* [[Wikipedia:Shinkansen|Shinkansen (Bullet Train)]]
+'''Events:'''
+* {{Flashback|[[World War II]]}}
+* {{Flashback|[[Atomic Bombings of Hiroshima and Nagasaki]]}}
+
+| Plot                    = {{Quote|Trust me, bub. You don't want what I got.|[[James Howlett (Earth-10005)|Logan]] to [[Shingen Yashida (Earth-10005)|Shingen Yashida]]}}
+
+In 1945, a POW camp near the city of Nagasaki, Japan is being evacuated after being informed of an atomic bombing coming their way. A young soldier named Yashida notices a man named Logan in a chained up well watching the commotion and attempts to get him out, but the prisoner refuses and advises Yashida to get away. As the bomb hits Nagasaki, Yashida and several soldiers try to commit honorable suicide, but Yashida is stopped at the last minute by Logan, who rushes the young soldier to the well and shields him while he takes the full force of the nuclear blast. Afterwards, Yashida witnesses Logan's regenerative powers in work, as it heals all of Logan's burns in a matter of seconds. The two climb out where Yashida is horrified by the sight of the destroyed Nagasaki.
+
+Back in the present, Logan is now living as a hermit in Yukon after the events of Alcatraz Island and Jean Grey's death. Logan suffers nightmares and hallucinations of Jean after he was forced to kill her. He has also refused to go by his nickname "Wolverine" any longer. Later, Logan confronts several hunters for using illegal poisons to make a bear go berserk and kill other hunters. Logan is unable to thanks to the intervention of a Japanese woman named Yukio, who has the ability to see people's deaths.
+
+Yukio brings Logan to Tokyo where Logan is to meet the elderly and dying Yashida, who has become a very wealthy millionaire thanks to his various companies. At Yashida's estate, Logan meets the old man, who muses that he has not aged a bit while Yashida is old and on his deathbed. While Logan simply wants to say goodbye in respect, Yashida reveals his true intentions: he wants Logan to transfer his immortality to him, allowing Logan to live a normal life while Yashida can live forever. Logan refuses, knowing full well the tragedies and consequences immortality can bring to one. With his last wish denied, Yashida instead begs Logan to keep watch on his granddaughter, Mariko, heir to his wealth and the target for many criminals for his wealth.
+
+Logan is hesitant until Yashida seemingly dies as Mariko grieves. Yukio is saddened due to the fact that she was unable to predict Yashida's death.
+
+| Cast                    = * [[wikipedia:Hugh Jackman|Hugh Jackman]] as [[James Howlett (Earth-10005)|Wolverine / Logan]]
+* [[wikipedia:Hiroyuki Sanada|Hiroyuki Sanada]] as [[Shingen Yashida (Earth-10005)|Shingen Yashida]]
+* [[wikipedia:Tao Okamoto|Tao Okamoto]] as [[Mariko Yashida (Earth-10005)|Mariko Yashida]]
+* [[wikipedia:Rila Fukushima|Rila Fukushima]] as [[Yukio (Earth-10005)|Yukio]]
+* [[wikipedia:Famke Janssen|Famke Janssen]] as [[Jean Grey (Earth-10005)|Jean Grey]]
+* [[wikipedia:Will Yun Lee|Will Yun Lee]] as [[Keniuchio Harada (Earth-10005)|Harada]]
+* [[wikipedia:Svetlana Khodchenkova|Svetlana Khodchenkova]] as [[Viper (Doctor Green) (Earth-10005)|Viper / Dr. Green]]
+* [[wikipedia:Haruhiko Yamanouchi|Haruhiko Yamanouchi]] as [[Yashida (Earth-10005)|Yashida]]
+** [[wikipedia:Ken Yamamura|Ken Yamamura]] portrays Yashida as a young man.
+* [[wikipedia:Brian Tee|Brian Tee]] as [[Noburo Mori (Earth-10005)|Noburo Mori]]
+
+Additionally, Qyoko Kudo portrays Aya. Yaeko Kimura and Ryuta Kimura appear as [[Mieko (Earth-10005)|Mieko]] and [[Hitoshi (Earth-10005)|Hitoshi]], respectively. Keiko Matsumoto and Kimi portray Shizu and Saki, respectively. [[wikipedia:Ian McKellen|Ian McKellen]] and [[wikipedia:Patrick Stewart|Patrick Stewart]] make uncredited appearances as [[Erik Lehnsherr (Earth-10005)|Erik Lehnsherr]] and [[Charles Xavier (Earth-10005)|Charles Xavier]] in the mid-credits scene.
+
+| Notes                   = * The film is not, as was previously believed, a prequel in the same vein as ''[[X-Men Origins: Wolverine (film)|X-Men Origins: Wolverine]]'' and ''[[X-Men: First Class (film)|X-Men: First Class]]''.  Rather, events of the film take place after the events of ''[[X-Men: The Last Stand]]''. Director Mangold said "Where this film sits in the universe of the films is after them all. Jean Grey is gone, most of the X-Men are disbanded or gone, so there's a tremendous sense of isolation for him."<ref>{{cite web|url=http://www.empireonline.com/news/story.asp?NID=35599|title=Exclusive New Wolverine Image|last=Hewitt|first=Chris|date=26 October 2012|accessdate=9 May 2013|work=Empire}}</ref>
+==Gallery==
+===Alternate Posters===
+<gallery>
+The Wolverine (film) poster 004.jpg
+The Wolverine (film) poster 001.jpg
+The Wolverine (film) poster 002.jpg
+The-wolverine-japanese-sword-poster.jpg
+The Wolverine Poster Viper.jpg
+The Wolverine Poster Yukio.jpg
+The Wolverine Poster Silver Samurai.jpg
+The Wolverine Poster 009.jpg
+The Wolverine Poster 010.jpg
+</gallery>
+=== Videos ===
+<gallery widths="300" spacing="small" hideaddbutton="true">
+The Wolverine - Official Trailer (2013)
+The Wolverine International Trailer|International Trailer
+</gallery>
+<br clear="all">
+| Trivia                  = * In an alternate ending, Yukio gives Logan an "interesting" gift on the plane before departure. The contents are a costume similar to his Earth-616 counterpart.
+| Links                   = * [[Marvel Films]]
+* [http://www.cinemablend.com/new/hugh-jackman-james-mangold-answer-your-wolverine-questions-live-33708.html Hugh Jackman And James Mangold Will Answer Your Wolverine Questions Live]
+}}
+[[ru:Росомаха: Бессмертный]]
+[[Category:20th Century Fox]]
+[[Category:World War II]]
+[[Category:Atomic Bombings of Hiroshima and Nagasaki]]

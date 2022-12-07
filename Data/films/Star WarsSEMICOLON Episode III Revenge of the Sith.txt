@@ -1,0 +1,2097 @@
+{{Top|can|sprot|mprot|real|title=''Star Wars'': Episode III ''Revenge of the Sith''}}
+{{Otheruses|Star Wars: Episode III Revenge of the Sith}}
+{{Citation}}
+{{Movie
+|image=[[File:EPIII_RotS_poster.png]]
+|movie name=''Star Wars'': Episode III<br />''Revenge of the Sith''
+|director=[[George Lucas]]<ref name="Year by Year">''[[Star Wars Year By Year: A Visual History, Updated and Expanded Edition]]''</ref>
+|producer=[[Rick McCallum]]<ref name="Year by Year" />
+|writer=George Lucas<ref name="Year by Year" />
+|starring=*[[Ewan McGregor]]<ref name="Year by Year" />
+*[[Natalie Portman]]<ref name="Year by Year" />
+*[[Hayden Christensen]]<ref name="Year by Year" />
+*[[Ian McDiarmid]]<ref name="Year by Year" />
+*[[Frank Oz]]<ref name="Year by Year" />
+*[[Jimmy Smits]]
+*[[Peter Mayhew]]
+*[[Ahmed Best]]
+*[[Oliver Ford Davies]]
+*[[Temuera Morrison]]
+*[[Anthony Daniels]]<ref name="Year by Year" />
+*[[Silas Carson]]
+*[[Kenny Baker]]<ref name="Year by Year" />
+*[[Samuel L. Jackson]]<ref name="Year by Year" />
+*[[Christopher Lee]]<ref name="Year by Year" />
+|music=[[John Williams]]<ref name="Year by Year" />
+|release date=[[May 19]], [[2005]]<ref name="Year by Year" />
+|runtime=140 minutes
+|budget=$113,000,000
+|language=English
+|timeline=[[19 BBY]]<ref name="SWGA>''[[Star Wars: Galactic Atlas]]''</ref>
+|series=[[Prequel trilogy]], [[Star Wars saga|''Star Wars'' saga]]
+|preceded by=[[Star Wars: Episode II Attack of the Clones|Episode II ''Attack of the Clones'']]
+|followed by=[[Star Wars: Episode IV A New Hope|Episode IV ''A New Hope'']]}}
+{{Quote|Once more, the Sith will rule the galaxy! And we shall have... peace.|Darth Sidious|Star Wars: Episode III Revenge of the Sith}}
+'''''Star Wars'': Episode III ''Revenge of the Sith''''' is a [[2005]] film written and directed by [[George Lucas]]. It is the third and final part of the ''[[Star Wars]]'' [[prequel trilogy]].
+
+Three years after the [[First Battle of Geonosis]] and onset of the [[Clone Wars]], the noble [[Jedi Knight]]s have been leading a massive [[Grand Army of the Republic|clone army]] into a [[Clone Wars|galaxy-wide battle]] against the [[Confederacy of Independent Systems]]. The [[Supreme Chancellor]] of the [[Galactic Republic]] reveals his true nature as a [[Sith Lord]] as he unveils a plot to rule [[the galaxy]] by transforming the Republic into a [[Galactic Empire]]. Jedi hero [[Anakin Skywalker]] is seduced by the [[Dark side of the Force|dark side]] of [[the Force]] to become [[Darth Sidious]]'s new apprentice Darth Vader. The Jedi are all but eliminated with [[Obi-Wan Kenobi]] and [[Jedi Master]] [[Yoda]] forced into hiding. The only hope for the galaxy is Anakin's own offspring&mdash;the twin children born in secrecy who will grow up to become [[Luke Skywalker]] and [[Leia Skywalker Organa Solo|Leia Organa]].
+
+''Revenge of the Sith'' was released in theaters on Thursday, [[May 19]], [[2005]] (the same day that the first episode of the prequel trilogy [[Star Wars: Episode I The Phantom Menace|''The Phantom Menace'']] was released in 1999), and premiered (out of competition) on the 2005 Cannes Festival [[May 15]]. The film was generally positively received by critics, especially in comparison to the two previous prequels. It broke several box office records in its opening week and went on to earn over US $800 million worldwide, making it one of the top-grossing movies of 2005. It is the second ''Star Wars'' film which used a high-definition [[Wikipedia:24p|digital 24 frame]] system for most of the movie's live-action scenes. The film was re-released in the Blu-ray format in [[September]] of [[2011]]. On [[November 12]], [[2019]], the film was included with the launch of [[Disney+]].
+
+==Opening crawl==
+{{Opening crawl
+|name=Episode III<br />REVENGE OF THE SITH
+|text=War! The Republic is crumbling
+under attacks by the ruthless
+Sith Lord, Count Dooku.
+There are heroes on both sides.
+Evil is everywhere.
+
+In a stunning move, the
+fiendish droid leader, General
+Grievous, has swept into the
+Republic capital and kidnapped
+Chancellor Palpatine, leader of
+the Galactic Senate.
+
+As the Separatist Droid Army
+attempts to flee the besieged
+capital with their valuable
+hostage, two Jedi Knights lead a
+desperate mission to rescue the
+captive Chancellor....}}
+
+==Plot summary==
+===Battle over Coruscant===
+{{Quote|This is where the fun begins!|[[Anakin Skywalker]]|Star Wars: Episode III Revenge of the Sith}}
+[[File:R2_flames.jpg|thumb|left|200px|[[R2-D2]] destroys two [[B2-series super battle droid|super battle droids]] by setting them on fire.]]
+It has been three [[Standard year|years]] since the events of ''Attack of the Clones''. The [[Galactic Republic]] is in the midst of the [[Clone Wars|epic war]] with the [[Confederacy of Independent Systems]] under the leadership of [[Count]] [[Dooku]], who is also the [[Sith Lord]], [[Darth]] Tyranus. The Confederacy's [[cyborg]] military leader, [[General]] [[Grievous]] of the [[Separatist Droid Army]], has brought the war to [[Coruscant]] and captured [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]], leader of the [[Galactic Senate]], during a [[Battle of Coruscant|massive space battle]].
+
+As the [[Separatist Droid Army]] attempts to escape the Galactic capital, a massive space battle erupts, into which race [[Jedi Master]] [[Obi-Wan Kenobi]] and his former [[padawan]], now [[Jedi Knight]] [[Anakin Skywalker]], leading a mission to rescue the Chancellor. The [[Jedi]] fight through the Separatist armada. In the process, Obi-Wan's [[Eta-2 Actis-class light interceptor|interceptor]] is damaged by [[Pistoeka sabotage droid|buzz droids]] and his [[Astromech droid|astromech]], [[R4-P17]], is destroyed. Anakin attempts to shoot the [[droid]]s off, though succeeds only in blasting apart the wing of his former Master's vessel. Obi-Wan tells Anakin to hold his fire as he's not helping. Anakin agrees it was a bad idea. Obi-Wan tells Anakin to go on and rescue the Chancellor, but Anakin says he won't leave without Obi-Wan. Anakin uses one of his fighter wings to knock some of the buzz droids off Obi-Wan's fighter, but one manages to crawl onto Anakin's ship although it is quickly disabled by [[R2-D2]]. As they approach Grievous's flagship, Obi-Wan reminds Anakin their shields are still up, so Anakin breaks formation and attacks a shield generator, knocking out the shields on the docking bay of the ship. The destruction of it activates the ship' emergency breach door, which quickly begins closing. The two Jedi crash-land just before the door slams closed.
+
+Anakin and Obi-Wan make their way through the flagship, fighting through an army of droids. Meanwhile, R2-D2 aids them from the hangar bay while simultaneously incinerating a pair of [[B2-series super battle droid|super battle droids]], using fuel and his thrusters.
+
+===Rescuing the chancellor===
+{{Quote|I sense great fear in you, Skywalker. You have hate. You have anger. But you don't use them.|Dooku to Anakin Skywalker|Star Wars: Episode III Revenge of the Sith}}
+[[File:Darth_Tyranus_RotS.png|thumb|right|250px|Count Dooku about to duel Anakin and Obi-Wan]]
+The Jedi reach the top, finding the captive Chancellor Palpatine. They are confronted by [[Count]] [[Dooku]] himself, and an intense [[lightsaber]] duel ensues, with Obi-Wan telling Anakin that they will fight him together. The Jedi throw the Count off guard, by converting from basic attacks to more skilled tactics. During the battle, Obi-Wan is rendered unconscious when Dooku uses [[the Force]] to hold him in mid-air by the throat before hurling him against a railing.
+
+Anakin continues the battle and is repeatedly taunted by Dooku. Using his anger, Anakin taps into the [[dark side of the Force]] and gets the better of the duel. He severs both of Dooku's hands, rendering him incapable of defending himself, and then holds him at blade point with both his own lightsaber and Dooku's weapon. Palpatine encourages Anakin to kill Dooku, much to the shock of the latter who looks at the Chancellor pleadingly, only to be met with a sinister smile from Palpatine. At first, Anakin hesitates but Palpatine firmly insists; completely unaware of Palpatine's true intentions, Anakin viciously decapitates the helpless Dooku. His body falls to the ground and his head falls fast to the ground and rolled like a bowling ball.
+
+The ''Invisible Hand'' crosses by a Jedi Star cruiser. A broadside attack begins with both ship firing their cannons, a shell from the Jedi cruiser destroy one of the ''Invisible Hand''' cannons and ammo crates, causing the ''Invisible Hand'' to begin an uncontrolled descent into Coruscant. Despite Palpatine's persuasions that he should leave the unconscious Obi-Wan, Anakin carries him on his back, and maneuvers through the ship with the Chancellor. Obi-Wan later regains consciousness.
+
+===Confronting Grievous===
+{{Quote|That wasn't much of a rescue.|General Grievous to Obi-Wan Kenobi|Star Wars: Episode III Revenge of the Sith}}
+[[File:IG101GrievousIG102-ROTS.png|thumb|left|250px|[[General]] [[Grievous]] aboard the bridge of his flagship, ''[[Invisible Hand]]'']]
+After Grievous has the bridge crew regain control of his flagship by firing the emergency booster engines, he makes certain the two Jedi and their ward are captured. Having fallen foul of a [[ray shield]] trap, the three are brought to the bridge under custody, but R2 successfully creates a distraction, allowing the Jedi to retrieve their lightsabers and break free.
+
+Grievous then sends a pair of his powerful [[IG-100 MagnaGuard]] droids after the Jedi. Obi-Wan quickly beheads the first MagnaGuard with his blade, but the droid continues the fight, forcing Obi-Wan to slice the droid warrior apart before it deactivates. Anakin finishes off the second MagnaGuard and destroys the [[B1-series battle droid|battle droids]] attempting to drag Palpatine from the bridge. The Jedi close in on Grievous, though the wily General smashes a window with his fallen guard's [[electrostaff]], and is swept outside. Using a tow cable, Grievous latches himself to the ship and heads for the [[escape pod]]s. Launching all other escape capsules, Grievous speeds for the safety of a [[Lucrehulk-class LH-3210 cargo freighter|Trade Federation ''Lucrehulk''-class battleship]]. Once again, the flagship begins to descend in free fall into Coruscant, though due to its extensive damage taken from its broadside cannon fight with the Guarlara and entering Coruscant' atmosphere, the ships hangar bay begins to weaken. After extending the ships drag flaps, the hangar gives out and breaks off from the rest of the ship, sending them into a faster freefall. With the aid of a few [[emergency firespeeder]]s they land, hitting a control tower along on one of Coruscant's industrial landing platforms.
+
+===Happy reunions===
+{{Quote|Another happy landing.|Obi-Wan Kenobi|audio=HappyLanding.ogg|Star Wars: Episode III Revenge of the Sith}}
+[[File:Council_RotS.png|thumb|right|250px|The [[Jedi High Council]]]]
+On Coruscant, Anakin is praised for his heroics. He meets secretly with [[Padmé Amidala]], and they share a kiss in the shadows of the [[Imperial Executive Building|Senate office building]], keeping their love secret. She reveals to him that she is pregnant with their child.
+
+Elsewhere, Grievous, now both the political and military leader of the Separatists, arrives on [[Utapau]], where [[Trade Federation]] [[Viceroy]] [[Nute Gunray]], [[Geonosian]] [[Archduke]] [[Poggle the Lesser]], [[Techno Union]] head of state and [[Foreman]] [[Wat Tambor]] and others on the [[Executive Separatist Council|Separatist Council]] remain in hiding. The General is contacted by Darth Sidious, who gives him instructions to move the Separatist leaders to a volcanic [[planet]], [[Mustafar]]. He also explains that the war is almost over. Grievous is uncertain about this, given Count Dooku's death. Sidious assures him that Darth Tyranus's death and loss were necessary, for he would soon have a new apprentice: one far younger and more powerful.
+
+Later, on Coruscant, Anakin awakens in a panic, covered in sweat. He reveals to Padmé that he has been dreaming about her dying in childbirth, and believing that he can't live without her, vows not to let this dream come true.
+
+Chancellor Palpatine requests Anakin's presence, and they meet in the [[Emperor's office|Chancellor's office]]. The Senate has granted the Chancellor further emergency powers, giving him direct control of the [[Jedi Council]]. Palpatine confides in Anakin his fear, distrust, and contempt of the Masters. He appoints Anakin to be his personal representative on the Council.
+
+The High Council begrudgingly accepts Anakin's appointment, but does not grant him the rank of Master. Anakin reacts angrily at this perceived slight, but is quickly shut down by [[Mace Windu]]. Ignoring his outburst, the Council goes on to discuss matters concerning the war. It is decided that Anakin will be assigned to protect the Chancellor, and [[Yoda]] will take a battalion of clones to reinforce the [[Wookiee]]s on [[Kashyyyk]]. Anakin is angry and disappointed.
+
+Obi-Wan later tells Anakin that the Council wants Anakin to report on all the Chancellor's dealings, essentially spying on him. Anakin is confused and upset, feeling torn between two friends and loyalties. Obi-Wan himself is unhappy with the situation.
+
+===The tragedy of Darth Plagueis===
+{{Quote|Is it possible to learn this power?''"<br />"''Not from a Jedi.|Anakin Skywalker and Palpatine|Star Wars: Episode III Revenge of the Sith}}
+[[File:Palpatine_and_Anakin.png|thumb|left|300px|[[Darth Sidious|The]] [[Supreme Chancellor]] and Anakin Skywalker in Palpatine's private viewing box at the Galaxies Opera House]]
+At the [[Galaxies Opera House]] in the [[Uscru Entertainment District|Uscru District]], Anakin joins Palpatine in watching the [[Mon Calamari Aquatic Ballet]] performing ''[[Squid Lake]]''. Palpatine tells Anakin Clone Intelligence has located General Grievous hiding in the [[Utapau]] system. Anakin is delighted by this news, as Grievous's capture will accelerate the war's end. Palpatine remarks that he'd question the competence of the Jedi Council if Anakin was not sent on the mission. Inviting Anakin to join him, Palpatine dismisses his aides: once they are gone, Palpatine seduces Anakin to the dark side. He also tells Anakin that the Jedi Order wishes to overthrow the Republic and that if he has suspected it, Anakin must surely have sensed it. Anakin confirms that the Jedi don't trust him, a fact that Palpatine expands to include the Senate, the Republic, and democracy as a whole. Anakin tells Palpatine that his trust in the Jedi has been shaken and Palpatine deduces Anakin's distaste for the Council's mission to spy on the Chancellor. Palpatine takes Anakin back to some of the early political lessons Palpatine tried to teach him, about how all those who gain power are afraid to lose it and that includes the Jedi. Anakin tries to defend the Jedi by saying they use their powers for good, but Palpatine argues good is only a point of view, noting that in almost every conceivable manner, including a quest for greater power, the Sith and the Jedi are exactly alike. Anakin disagrees, remarking that the Sith depend on passion for strength, thinking only of themselves, whereas the Jedi are selfless, thinking only of others.
+
+After a brief pause in their conversation, Palpatine makes a remark about the tragedy of [[Darth Plagueis|Darth Plagueis The Wise]]. Palpatine describes Darth Plagueis as a Dark Lord of the Sith so powerful and wise that he could use the Force to influence the [[midi-chlorian]]s to create life. Not only this, but having such power and knowledge of the dark side, Plagueis could use this ability to save people he cared about from death, a statement which gets Anakin's attention (which was Palpatine's desire) and Palpatine describes the dark side of the Force as a pathway to many abilities considered by some to be unnatural. When Anakin asks what happened to Darth Plagueis, Palpatine concludes that Plagueis became so powerful that all he feared was losing his power, which he eventually did. Unfortunately for Plagueis, he taught his [[Sith apprentice|apprentice]], who happened to be Darth Sidious, all he knew: after he had, his apprentice killed him in his sleep. (The Sith apprentice in the story, as implied by the film and explicitly stated in various [[Star Wars Legends|''Star Wars'' Legends]] sources, is Palpatine himself.) Palpatine notes the irony of how Plagueis could keep others from dying, but not himself. When Anakin asks if it is possible to learn the power to stop death, Palpatine simply replies, "Not from a Jedi," further alienating Anakin from the Jedi Order.
+
+After Yoda arrives on Kashyyyk, Anakin relays the information about Grievous, explaining that a partial message was intercepted in a diplomatic packet from the Chairman of Utapau. Yoda says they should act quickly and decisively on this information. When Anakin expresses his interest in going at Palpatine's request, Mace Windu harshly tells him that the Council will decide who goes and not the Chancellor. Yoda believes that a Master with more experience is needed to confront, and defeat, Grievous. Ki-Adi-Mundi agrees and nominates Obi-Wan to go. With the nomination agreed on, the Council adjourns and Obi-Wan prepares to go to Utapau. Yoda, [[Luminara Unduli]], and [[CC-1004|Gree]], along with [[Tarfful]] and [[Chewbacca]] defend Kashyyyk against the Corporate Alliance Tanks, Dwarf Spider droids, Droid Gunships, and legions of [[battle droid]]s.
+
+===Obi-Wan vs. Grievous===
+{{Quote|Army or not, you must realize&hellip; you are doomed!''"<br />"''Oh, I don't think so.|Grievous and Obi-Wan Kenobi|Star Wars: Episode III Revenge of the Sith}}
+[[File:Kenobi_faces_Grievous_ROTS.png|thumb|right|250px|Grievous preparing to do battle with [[Obi-Wan Kenobi]]]]
+Anakin walks Obi-Wan to his Star Destroyer before he leaves. Anakin still believes he'd be needed on Utapau, and while Obi-Wan agrees, he also notes it might just be a wild [[Bantha]] chase. Anakin stops Obi-Wan and tells him that he knows he's disappointed Obi-Wan and that he's not been acting very grateful for the training he received. Anakin tells him he's just been so frustrated with the Council lately, but that he does apologize. Obi-Wan calls Anakin strong and wise and tells Anakin he's very proud of him and while Obi-Wan trained him since Anakin was a boy, he calls Anakin a far greater Jedi than Obi-Wan could hope to be. But Obi-Wan encourages Anakin to be patient and that it won't be long before the Council makes Anakin a [[Jedi Master]]. The two bid each other farewell and Obi-Wan leaves for Utapau. Little do they know that this is the last time they will see or speak to each other as fellow Jedi and friends.
+
+Obi-Wan arrives in [[Pau City]] on Utapau, and begins his search for General Grievous, riding a [[varactyl]] named [[Boga]]. He finds Grievous on the Tenth Level. After Obi-Wan dispatches the droids around Grievous, the two engage in single combat. Grievous's arms split in half, allowing him to use four lightsabers at once. Obi-Wan quickly cuts off the lower halves of the General's hands, helping to even out the odds a little. During the battle, the [[Third Systems Army/Legends|Third Systems Army]] arrives under the command of [[CC-2224]] (Cody). Obi-Wan manages to catch Grievous off guard and uses the Force to push the fiendish droid general into the ceiling. Grievous drops his remaining two lightsabers and attempts to flee on his [[Tsmeu-6 personal wheel bike|wheel bike]], while Obi-Wan pursues on [[Boga]]. During the chase, Obi-Wan drops his lightsaber, which [[Clone Commander|Commander]] Cody happens to find during the massive battle against the droids.
+
+On Coruscant, Anakin tells Palpatine that General Grievous has been found on Utapau. Anakin insists he should be on Utapau as well. Their conversation shifts to Palpatine's knowledge of the Force and Dark Side, both of which he learned from his mentor (Plagueis), much to the shock of Anakin who starts to become wary of the Chancellor. After Palpatine tells him that the Dark Side can save Padme from death, Anakin realizes that Palpatine is in fact Darth Sidious, the latter of which Palpatine confirms (This revelation means that Palpatine as Sidious engineered the [[Invasion of Naboo]] and War, betrayed and caused the deaths of Plagueis and Dooku, and has been deceiving the Jedi and Republic). Anakin ignites his lightsaber and threatens to kill Palpatine, but then decides to expose his deception and identity to the Jedi Council. He is still concerned with saving his wife, and believes only Palpatine's knowledge will ensure this.
+
+Obi-Wan continues to chase General Grievous on Utapau. He catches up with the General and jumps onto his wheel bike. Using Grievous's electrostaff, he manages to destabilize the speeder, and it goes into a spin. Both Obi-Wan and Grievous are thrown off as the speeder topples over the edge of Grievous's secret landing platform. Grievous then draws his [[blaster]], though it is knocked from his hand by Obi-Wan, now wielding the electrostaff. He knocks Grievous down, and a brawl ensues, during which Kenobi tears open the General's chest plates, revealing his living organs. Enraged, Grievous repeatedly hits Obi-Wan and then picks up the helpless Jedi and throws him over the edge. Obi-Wan barely manages to hang on and momentarily dangles for his life. As Grievous moves in for the kill, Obi-Wan uses the Force to retrieve the General's blaster and fires at Grievous's exposed organs. He hits, and they burst into flames. With his eyes flaming, Grievous falls to the floor, dead.
+
+===Sidious revealed===
+{{Quote|In the name of the Galactic Senate of the Republic, you're under arrest, Chancellor.''"<br />"''Are you threatening me, Master Jedi?''"<br />"''The Senate will decide your fate.''"<br />"''I ''am'' the Senate!''"<br />''"Not yet.''"<br />"''It's [[treason]], then.|Mace Windu and Palpatine|Star Wars: Episode III Revenge of the Sith}}
+[[File:ItsTreasonThen-ROTS.png|thumb|left|300px|Palpatine finally reveals his identity as the Dark Lord of the Sith, Darth Sidious.]]
+Anakin returns to the Jedi Temple and approaches Windu who tells Anakin that they have just been informed that Obi-Wan has destroyed General Grievous and so they are going to go to the Senate to ensure that Chancellor Palpatine gives back his emergency powers. However, Anakin reveals that Palpatine is a Sith Lord and is not likely to give up his powers, a statement which shocks Windu and stops him dead in his tracks. Anakin confirms what he just said and says he believes Palpatine is the one they have been looking for. When Windu asks how Anakin knows this, he tells Windu that Palpatine knows the ways of the Force and has been trained to use the dark side and that he is absolutely sure. Windu says their worst fears have now been realized and that if the Jedi Order is to survive, they must move quickly. Anakin warns Windu that Palpatine is very powerful and they'll need his help to arrest Palpatine, but Windu urges him to stay out of it as he senses much fear in Anakin and it could cloud his judgment. Windu also adds that if what Anakin says is true then Anakin will have gained his trust but for now, he wants Anakin to wait in the Council Chambers until he returns. Masters Windu, [[Kit Fisto]], [[Agen Kolar]] and [[Saesee Tiin]] board a [[Low Altitude Assault Transport/infantry|gunship]] and head to Palpatine's office.
+
+Sitting in the [[Jedi Council Chamber|Council Chambers]], remembering Palpatine's promise of stopping death and the dreams of Padmé dying in childbirth, Anakin ruminates over his decision: in his mind, he hears Palpatine's voice saying that if the Jedi kill him, any chance of saving Padmé will be lost. Finally, he leaves and rushes after the four Jedi.
+
+Windu and the three other Jedi Masters arrive at Chancellor Palpatine's office. Windu declares Palpatine is under arrest and the Masters ignite their lightsabers. Sidious pulls a lightsaber from his sleeve and hurls himself at the Jedi with a screeching war cry. Kolar is the first to die, run through the chest and as Kolar's life is ending due to the wound, Sidious turns and slices Tiin's torso. A few seconds later, with more effort from Sidious, Fisto is slain, killed by a slash across the gut. Only Windu remains, alone against the Dark Lord.
+
+===Rise of Lord Vader===
+{{Quote|The Force is strong with you. A powerful Sith you will become. Henceforth, you shall be known as Darth&hellip; Vader.|Darth Sidious to Anakin Skywalker|audio=YouShallBeKnownAsDarthVader-ROTS.ogg|Star Wars: Episode III Revenge of the Sith}}
+[[File:Palpydeformed.png|250px|thumb|[[Darth Sidious|Sidious's]] face being distorted by his backfired [[Force lightning]]]]
+Sidious and Windu continue the fight, dueling fiercely. The fight appears to be even early on, but Windu gradually gains ground, slowly driving the Sith Lord out of the Chancellor's antechamber and into the office proper. Shortly after the two shatter a large glass window, Windu delivers a kick to Sidious, leading to Sidious falling down and losing his lightsaber. Anakin arrives just as Windu holds Sidious at blade point. Windu declares Sidious has lost, but the Sith Lord then unleashes a torrent of [[Force lightning]]. However, Windu deflects it with his blade, casting much of the energy back into Sidious's body. Sidious becomes hideously deformed; his face becomes deathly pale and sagged, his teeth become yellow and rotten, his fingernails become long and dirty, and his eyes turn burning yellow with blood-red rims. He then ends his assault, claiming he is too weak to fight on. As Windu is deciding to kill Sidious, Anakin argues that Palpatine must stand trial: Windu disregards this, stating Sidious's control over the Senate and courts make him too dangerous to be left alive. Anakin is finally forced to choose between the Jedi Order or Padmé. As Windu is about to deliver the killing blow, Anakin betrays Windu and cuts off his sword arm. Sidious, cackling with glee, tortures and blasts the shocked Windu out of the window, sending him plunging to his death hundreds of stories below.
+
+Anakin is horrified by his actions, yet he knows now there is no turning back. He betrays the Jedi and pledges allegiance to Sidious, in return for the Dark Lord's power to stop death, in the hope of saving his beloved wife. Sidious takes Anakin as his [[Sith apprentice]], bestowing upon him the [[Sith]] name Darth Vader. Sidious instructs Vader launch a [[Siege of the Jedi Temple]], to ensure the so-called Jedi Rebellion is crushed, and then wipe out the Separatist Council on the [[Mustafar system|Mustafar System]], before declaring that "[[Grand Plan|Once more the Sith will rule the galaxy]]".
+
+Vader leads the [[501st Legion]] to the Temple. He and the clones rampage through the Temple, cutting down every Jedi that crosses his path, including swordsmaster [[Cin Drallig]] and even the [[youngling]]s hiding out in the Council Chamber.
+
+===Order 66===
+{{Quote|The time has come. Execute Order 66.|Darth Sidious|audio=Execute_Order_66.ogg|Star Wars: Episode III Revenge of the Sith}}
+[[File:ChildrenSlaughter.png|thumb|left|250px|[[Anakin Skywalker|Darth Vader]] just prior to murdering [[youngling]]s in the [[Jedi High Council|Council chamber]]]]
+Meanwhile, from his office, Sidious broadcasts a command to Clone Trooper [[CC-2224|Commander Cody]] and many other clone troopers spread throughout [[the galaxy]]: to execute [[Order 66]], a protocol to kill all Jedi, [[Behavioral modification biochip|which the Clones comply to]] (explained in seasons 6 and 7 of [[Star Wars: The Clone Wars|Star Wars: The Clone Wars)]].
+
+Across the galaxy, the [[Jedi General]]s find themselves being betrayed and murdered by their [[Clone trooper|Clone Troopers]]. As this happens, Yoda feels everyone who is dying. On Utapau, Kenobi is flung off a cliff by a blast from an [[All Terrain Tactical Enforcer]], but he and Boga survive the drop, and Obi-Wan flees on Grievous's hidden starfighter; on [[Mygeeto]], Jedi Master [[Ki-Adi-Mundi]] is gunned down by [[CC-1138]] and the [[21st Nova Corps]]; on the lush, tropical planet of [[Felucia]], Jedi Knight [[Aayla Secura]] is murdered by [[CC-5052]] and his [[327th Star Corps]]; on [[Cato Neimoidia]], [[Plo Koon]]'s [[Delta-7 Aethersprite-class light interceptor|Jedi starfighter]] is shot down by [[Aggressive ReConnaissance-170 starfighter]]s, sending it smashing into a clone staging area; and on [[Saleucami]], [[Stass Allie]]'s [[74-Z speeder bike]] is destroyed by [[CC-8826]] and his wingman, riding [[BARC speeder]]s. On Kashyyyk, Yoda is overlooking the ongoing battle as Commander Gree receives the order. He and his lieutenant attempt to sneak up to Yoda, but the aged Master senses their intent and beheads both clones with a slash of his lightsaber. Tarfful and Chewbacca help Yoda escape the planet.
+
+[[Senator]] [[Bail Prestor Organa|Bail Organa]] arrives at the flaming Temple to witness the slaughter of a young [[Padawan]] named [[Zett Jukassa]] by a squad of troopers led by Commander [[CC-1119|Appo]]. Organa, horrified, flees the scene and departs Coruscant in the ''[[Tantive III]]'', in an attempt to make contact with any surviving Jedi.
+
+[[File:Mygeeto-mundi.png|thumb|right|250px|[[Ki-Adi-Mundi]] leads [[21st Nova Corps|his troops]] on [[Mygeeto]] just before the enactment of [[Order 66]].]]
+Both Obi-Wan and Yoda survive Order 66 and are picked up by Senator Organa, having evaded pursuit. The Jedi decide to return to Coruscant to recalibrate the [[Jedi beacon]] calling for all Jedi to return to Coruscant, knowing that it's really a trap set by Darth Sidious. Kenobi hopes to instead warn any surviving Jedi to stay away from the Temple.
+
+Following the attack on the Jedi Temple, Vader returns to Padmé at the Senate Apartment Complex, from where the smoke rising from the wrecked Temple can be seen. He tells her the Jedi have tried to take over the Republic, and there are traitors in the Senate. He asks for her loyalty to the Chancellor, then tells her that he will go to the [[Mustafar system]], where the remaining Separatists have gathered, to end the war.
+
+Through a hologram, Sidious informs the Separatist Council that Vader would take care of them once he arrived, though the council is unaware that Sidious had betrayed them and truly sent Vader to kill them.
+
+===Birth of the Empire===
+{{Quote|So this is how liberty dies... with thunderous applause.|Padmé Amidala, to [[Bail Prestor Organa|Bail Organa]] following the [[Proclamation of the New Order]]|audio=HowLibertyDies-ROTS.ogg|Star Wars: Episode III Revenge of the Sith}}
+Vader arrives on Mustafar and is greeted by [[Viceroy of the Trade Federation|Viceroy]] Gunray, but the Sith apprentice quickly traps the Separatist Council in the bunker. He slaughters Poggle the Lesser, [[Rune Haako]], [[Po Nudo]] and Wat Tambor among others. He leaves Gunray until last, slicing the Neimoidian across the chest even as he pleads for his life. It is at this point that the first physical manifestation of the dark side in Vader begins to show itself, as his irises turn a pallid yellow, the rest of his eye taking on a bright crimson hue.
+
+The Senate holds a special session where Palpatine tells them of the "plot of the Jedi to overthrow the Senate," but that it was foiled. Amidst thunderous applause, he informs the Senate that the surviving Jedi will be hunted down and defeated. He then states that "in order to ensure the security and continued stability, the Republic will be reorganized into the first [[Galactic Empire]]," which Palpatine describes as creating a safe and secure society. As the majority of the Senate screams their approval, Padmé Amidala and Bail Organa, who are shocked at the result, simply look around and Padmé can only remark "So this is how liberty dies, with thunderous applause."
+
+[[File:Burning_of_the_Temple.png|thumb|left|250px|The burning of the [[Imperial Palace|Jedi Temple]]]]
+In the meantime, Obi-Wan and Yoda go to the Jedi Temple, slaying clone troopers and walking in disbelief through the carnage. Yoda notices that several of their fellow Jedi were cut down by a foe wielding a lightsaber. They recalibrate the Temple's signal to warn all surviving Jedi to keep away from the Temple, but then Obi-Wan, wanting to know the truth, checks the security hologram recordings. To his horror, one recording shows Vader slaughtering a class of Jedi younglings and then kneeling before Sidious. Yoda says they must destroy the Sith, but Obi-Wan is reluctant to kill Vader and wants to go after the Emperor instead. Yoda, however, states that Obi-Wan is not strong enough to face Sidious and that Anakin is gone, "consumed" by Vader. Yoda sets out to confront Sidious, telling Obi-Wan to "use his feelings" to find Vader.
+
+Following Yoda's advice, Obi-Wan visits Padmé and tells her that Anakin has turned to the dark side and killed the younglings in the Jedi Temple, as well as that everyone was deceived by Sidious who was behind everything which includes the war. Despite her anguish, Padmé refuses to reveal where her husband has gone. Obi-Wan deduces that Padmé is carrying Anakin's child and apologizes to her before leaving. On Mustafar, Vader surveys the violent landscape around him and weeps over his recent acts of violence; knowing he cannot turn back from the influence of Darth Sidious.
+
+Later, Padmé leaves Coruscant in her star skiff, departing for Mustafar to find her husband and the truth. Unknown to her, Obi-Wan secretly stows away aboard the ship just before it takes off.
+
+===Battle of the heroes===
+{{Quote|You were the Chosen One! It was said that you would destroy the Sith, not join them! Bring balance to the Force, not leave it in darkness!''"<br />"''I hate you!''"<br />"''You were my brother, Anakin! I loved you!|Obi-Wan Kenobi and Darth Vader|Star Wars: Episode III Revenge of the Sith}}
+[[File:YodaPalpsduel.png|200px|thumb|Darth Sidious and [[Yoda]], masters of [[the Force]], battle each other.]]
+The star skiff lands on Mustafar, and Padmé is greeted by a smiling Vader. Padmé reveals her conversation with Obi-Wan; he tells her it is only lies but does not deny the accusations. Padmé begs him to run away with her to raise their child in peace. Vader, mad with power, claims that they no longer have to run away and he can overthrow Palpatine so that the two of them can rule the galaxy together. Padmé, realizing how much her husband has changed, backs away in horror and tearfully begs him to stop, insisting she still loves him.
+
+As she pleads, Obi-Wan steps out onto the star skiff's boarding ramp. Upon seeing him, Vader becomes enraged and accuses Padmé of lying about her love for him and betraying him to Obi-Wan. Without even allowing her a chance to explain herself, he begins [[Force choke|Force-choking]] her. Obi-Wan intervenes and orders Vader to release Padmé, but Vader still knocks her unconscious. Turning his anger on Obi-Wan, Vader accuses him of turning his wife against him, but Obi-Wan retorts that Vader has done that himself and let himself be twisted by Sidious into the Sith he was meant to destroy. Vader refuses to listen and rants that he has brought order to his "new empire." Obi-Wan, unable to believe what he is hearing, prepares to fight. Vader fumes that those who are against him are his enemies and engages Obi-Wan in a [[Duel on Mustafar|ferocious duel]] of Student vs. Master.
+
+[[File:Kenobi_Vader_Mustafar.png|thumb|left|200px|Best friends fight the epic duel on [[Mustafar]].]]
+In the [[Chancellor's working office|Chancellor's office]] within the [[Galactic Senate Building]], Yoda confronts Darth Sidious. He tells him that he has a new apprentice he has. Sidious uses Force Lightning to push the Jedi master backwards into a pillar. Obi-Wan and Vader battle over the bridge and enter the [[Klegger Corp Mining Facility]], making their way through the hallways. Returning to [[Coruscant]], Sidious tells Yoda that the Jedi will be no more. The Jedi master stands up and pushes him backwards past the desk. They engage in an [[Skirmish in the Senate|intense battle]] using their lightsabers and Force abilities. At the Mustafarian Mining Complex, Obi-Wan and Vader battle in the conference room on the desk. Vader attempts to force choke the Jedi master with the enabled lightsaber. Obi-Wan loses it after getting kicked in the stomach, but he retrieves it. Yoda resumes fighting Sidious until they are taken the [[Galactic Senate Chamber]], the heart of the Senate. Vader is still battling Obi-Wan, who is on the defensive. They fight command center with the dead Separatist leaders on the floor. A missed slash from Vader's lightsaber damages a computer console, deactivating the facility's shields. As the door opens, Obi-Wan and Vader exit the mining facility and head outside. At the Galatic Senate Chamber, Sidious hurls Senate pods at Yoda, and the effort to avoid them exhausts the Jedi Master. Sidious then blasts Yoda with Force Lightning, causing the Jedi master to lose his lightsaber. With the last of his strength, Yoda redirects it back at him, but this causes an explosion that throws both himself and Sidious over the pod's edge.
+
+Obi-Wan and Vader's battle continue on as they tip-toe across some pipes. A [[mining droid]] comes by the Jedi and they fight with their lightsabers. The pair jump onto a bridge and walk onto some large stalks. At the same time, deadly lava blasts towards Vader and Obi-Wan, forcing them to take cover from raining debris. The lava cuts off a collection arm attached to the main structure. Sidious is able to hold on to a senate pod, while Yoda falls to the senate floor leaving his cloak behind. With Bail Organa's help, Yoda flees the Senate Building, intending to go into exile. Back on Mustafar, the rest of the battle resumes. Obi-Wan and Vader ride the collection arm down the lava river below, which falls over a molten waterfall. Abandoning the arm, Obi-Wan leaps onto a hovering mining platform below, with Vader pursuing him back up the lava river atop a collection droid. Obi-Wan appeals to his old friend one last time, but Vader still refuses to see reason, forcing Obi-Wan to accept that his student, friend, and brother is corrupted beyond redemption.
+
+After fending off another attack from Vader, Obi-Wan disengages as the platform nears the shore of the lava river, leaping up onto the black sand bank. Obi-Wan warns Vader that he now holds an unassailable position, but Vader, enraged and bloodthirsty, yells "You underestimate my power!" and foolishly leaps up to kill his old Master. With a swift sweep of his blade, Obi-Wan slices off Vader's left arm and legs. Vader tumbles down the embankment and rolls to a stop at the edge of the river of lava.
+
+As Obi-Wan watches, Vader, helpless and now fully consumed by the dark side, tries in vain to pull his crippled, smoking body up the embankment with his one remaining mechanical arm. Obi-Wan is overcome with disgust and sadness at the pitiful fate of "The Chosen One," and is reduced nearly to tears. He angrily shouts that Vader has failed in his life and destiny, and has hurt all those who loved him, including Obi-Wan himself. All Vader can do is scream in pain and powerless rage, cursing his former friend and Master. The lava below Vader then catches his leg, setting him on fire, horribly burning and disfiguring him, with Obi-Wan unable to help him and unwilling to kill him. After briefly staring at the charred, mutilated figure that was once Anakin Skywalker, Obi-Wan turns and walks away, taking Anakin's dropped lightsaber with him. He returns to the star skiff and leaves the planet with the unconscious Padmé and her droids.
+
+===Birth and rebirth===
+{{Quote|Obi-Wan, there is good in him. I know...I know there is&hellip; still&hellip;|Padmé Amidala to Obi-Wan Kenobi as her final words.|Star Wars: Episode III Revenge of the Sith}}
+The Emperor arrives on Mustafar with a group of [[Imperial shock trooper|shock troopers]] led by Commander [[CC-4477|Thire]]. They rescue Darth Vader from the edge of death using a stasis pod and Sith medicines held in the Emperor's [[Theta-class T-2c shuttle|shuttle]].
+
+On the isolated asteroid [[Polis Massa]], Yoda meditates and hears the spirit voice of [[Qui-Gon Jinn]]. The voice tells him that there is a way to merge with the Force and retain consciousness after death. In order to learn this power, Yoda declares himself an apprentice to the spirit of Qui-Gon Jinn.
+
+[[File:Ani01.png|thumb|right|250px|The remains of Vader's limbs are retrofitted with [[Cybernetics|prosthetics]].]]
+Obi-Wan arrives at Polis Massa with Padmé, who is given emergency medical treatment by the facility's droids. She is dying, having lost the will to live. The [[Midwife droid|medical droids]] work to save her babies&mdash;she has twins, much to the surprise of Bail Organa, Obi-Wan, and Yoda. A boy and a girl are born. In her last few dying breaths, Padmé gives them the names "[[Luke Skywalker|Luke]]" and "[[Leia Organa Solo|Leia]]."
+
+As his children are born, Vader is being rebuilt at the [[Grand Republic Medical Facility]] on Coruscant. Vader is given new legs, a new arm, mechanized lungs, and other "replacement parts." He is dressed in [[Darth Vader's armor|black armor]], a face mask is sealed tightly, and his helmet is fitted. Darth Vader begins to breathe through his mask. Most, if not the entire surgery is carried out in true dark-side form, with Vader wide awake and apparently unanesthetized, leaving him moaning, screaming, and writhing in excruciating agony.
+
+With Padmé's final breath, she maintains that there is still good in Anakin. She dies still believing in the man she loved, before his violent acts against the [[Jedi Order]] and the [[Executive Separatist Council|Separatist Council]].
+
+Vader is raised to a standing position, his surgery complete. Vader begins to speak through his vocabulator to the Emperor, asking about Padmé. The Emperor, seeking to cut Vader's last tie to his old life and permanently cement the dark side in his heart, lies to Vader, telling him that he accidentally killed his wife while Force-choking her. With his last shred of hope and love now gone and his mind broken by the realization he himself killed the person he wanted to save, Vader rips himself free of the operating table and unleashes a powerful scream of rage, shame, and grief through the Force, shattering the droids and equipment. Vader howls "Nooo!" in anger and despair, while the Emperor looks on with an evil grin.
+
+===A new hope===
+{{Quote|Hidden, safe, the children must be kept.|Yoda|Star Wars: Episode III Revenge of the Sith}}
+[[File:Vader_Sidious.png|thumb|left|250px|[[Anakin Skywalker|Darth Vader]] and his [[Darth Sidious|master]] watch as the [[DS-1 Death Star Mobile Battle Station|first Death Star]] is constructed.]]
+On board the ''Tantive III'', docked at [[Naboo]], Obi-Wan, Yoda, and Bail Organa sit at a conference table. They agree to preserve Padmé's pregnant appearance, thus faking the children's deaths. For their own safety, Luke and Leia will be split up in hopes that the Sith will not sense their presence. Leia will be adopted by Bail Organa, and Luke would be sent to his father's [[Lars family|step family]] on [[Tatooine]]. Obi-Wan and Yoda will watch and wait until the time is ready for the Skywalker children to do their part. Yoda tells Obi-Wan to study the technique Qui-Gon learned to achieve immortality.
+
+Bail Organa leaves [[R2-D2]] and [[C-3PO]] in the care of Captain [[Raymus Antilles]] of the ''Tantive III''. He orders a memory wipe of the talkative [[protocol droid]].
+
+On Naboo, Padmé's funeral takes place in a solemn ceremony in [[Theed]]. Her hands clasp the [[japor snippet]] given to her by Anakin following his departure from Tatooine some [[Star Wars: Episode I The Phantom Menace|thirteen]] years ago. To protect her children, her body appears to still be pregnant.
+
+In a deleted scene, Yoda travels to [[Dagobah]] to begin his self-imposed exile, which he partly owes as penance for his failure to defeat Sidious.
+
+On the bridge of a gray-hulled [[Venator-class Star Destroyer|''Venator''-class Star Destroyer]], Vader, the Emperor, and [[Governor]] [[Wilhuff Tarkin]] oversee the construction of [[DS-1 Death Star Mobile Battle Station|a moon-sized battle station]].
+
+On [[Alderaan]], the infant Leia is brought by Bail Organa to his wife, [[Queen]] [[Breha Organa|Breha]].
+
+On Tatooine, Obi-Wan brings Luke to his new family: his uncle, [[Owen Lars|Owen]], and his aunt, [[Beru Whitesun Lars|Beru]]. Obi-Wan leaves on an [[eopie]], heading to his exile in the [[Jundland Wastes]]. Owen and Beru, holding the infant Luke, look out to the horizon and watch the setting of Tatooine's twin suns, ending the movie, and the prequel trilogy.
+
+==Development==
+One piece of concept art Lucas approved for use as a starship in the film was described as a "Republic Clone Sky Fighter", but the ship ultimately was not included in the film. The design was later reused years later for the ''[[Star Wars: The High Republic]]'' multimedia initiative, much to the joy of its creator, [[Warren Fu]]. Fu is also notable for creating the concept art for the "Droid General" character who evolved into Grievous. One of his previous Grievous designs was used for the MagnaGuards.<ref name="Warren Fu interview">{{InsiderCite|213|Warren Fu: Envisaging Grievous}}</ref>
+
+Principal photography for ''Revenge of the Sith'' took place from [[June 30]]<ref name="San Diego Comic-Con Exclusives">{{SWYoutube|-BZX-WxjhFE|San Diego Comic-Con Exclusives, Brand New LEGO Art, and More!|archivedate=20200703022849}}</ref> to [[September 17]], [[2003]]. Most of the filming took place at [[Fox Studios, Sydney]]. An additional block of studio photography took place during late 2004 at [[Shepperton Studios]] and an [[Elstree Studios|Elstree Film Studio]] both in the [[Wikipedia:United Kingdom|UK]]. There is a short end sequence shot at [[Chott el Jerid]] in [[Tunisia]], during the filming of [[Star Wars: Episode II Attack of the Clones]] in 2000 to avoid returning to the country for a single scene. Second unit filming was at [[Grindelwald]] in [[Wikipedia:Switzerland|Switzerland]], [[Wikipedia:Guilin|Guilin]] in [[Wikipedia:China|China]], [[Wikipedia:Phuket|Phuket]] in [[Wikipedia:Thailand|Thailand]], and [[Mount Etna]] in [[Wikipedia:Italy|Italy]].<ref name="Minute Doc">''[[Within a Minute: The Making of Episode III]]''</ref>
+
+==Release==
+[[File:ROTSteaser.jpg|thumb|right|Teaser poster for ''Star Wars Episode III: Revenge of the Sith'']]
+''Revenge of the Sith'' charity premieres took place in Seattle, Los Angeles, Chicago, Washington D.C., Boston, Denver, Atlanta, San Francisco, and Miami on Thursday, [[May 12]], [[2005]]; and on [[May 13]], 2005, there were two additional charity premiere screenings in George Lucas's hometown of Modesto. On that same day, an episode of [[Wikipedia:MTV|MTV]]'s [[Wikipedia:Total Request Live|''Total Request Live'']] aired promoting the movie, featuring a performance from the band [[Wikipedia:Good Charlotte|Good Charlotte]].<ref name="Season 2 Directors">{{SWYoutube|u0Z7i0LnXOg|Mandalorian Season 2 Directors, We Celebrate a Birthday, and More!|archivedate=20200515034925}}</ref> The film's official premiere was at the Cannes Film Festival (out of competition) on May 15, 2005. It was released in most other countries on May 19. It was predicted that the premiere of ''Revenge of the Sith'' would cost the US economy approximately $627 million USD because of employees who would take the day off or report in sick.<ref name="CNN Money">{{Cite_web|url=https://money.cnn.com/2005/05/11/commentary/wastler/wastler/index.htm|title=The cost of the Sith|author=Wastler, Allen|date=2005-05-11|work=[[Wikipedia:CNN|CNN Money]]|archivedate=20050513205707}}</ref>
+
+Due to its dark undertones, disaster scenes and violent nature (mainly the scene where Anakin is burned alive in a rather graphic and realistic manner, as well as Dooku's decapitation and Grievous' internal organs being burned out), ''Revenge of the Sith'' is the first ''Star Wars'' film to receive a [[Wikipedia:PG-13|PG-13]] rating from the [[Wikipedia:MPAA|MPAA]]. All previously released films in the series were rated PG. In contrast, [[Star Wars: Episode IV A New Hope|''A New Hope'']] was originally rated G, but its rating was deliberately pushed up in order to attract a broader audience and because of the addition of Owen and Beru Lars' remains.
+
+===Merchandise===
+A [[Star Wars: Episode III Revenge of the Sith (novelization)|novelization]] of the film was written by [[Matthew Stover]]. It includes much more dialogue than the movie. The duel between Obi-Wan and Anakin is lengthened and is much more exaggerated. It also contains many references to Expanded Universe characters such as [[Raith Sienar/Legends|Raith Sienar]] or [[Garm Bel Iblis/Legends|Garm Bel Iblis]], for example, and some details, like the way [[Shaak Ti/Legends|Shaak Ti]] meets her fate, and Captain [[Lorth Needa/Legends|Needa's]] appearance at the Battle of Coruscant differ from their movie counterparts. Aside from Anakin and Obi-Wan's duel, however, the final act is very compressed, especially in comparison to the opening space battle, which encompasses the first third of the book.
+
+[[Dark Horse Comics]] published a [[Star Wars: Episode III — Revenge of the Sith|comic adaptation]] of the film in March 2005. Other books include the prequel novel ''[[Labyrinth of Evil]]'' and the sequel novel ''[[Dark Lord: The Rise of Darth Vader]]''.
+
+A [[Star Wars Episode III: Revenge of the Sith (video game)|video game based on the film]] was released on [[May 5]], 2005, two weeks before the film. The game followed the movie's storyline, for the most part, integrating scenes from the movie. However, many sections of the game featured cut scenes from the movie or entirely new scenes for the game. The style of the game was mostly lightsaber combat and fighting as Obi-Wan or Anakin/Vader. One unique and popular aspect of the game was that it included an alternate ending, which functioned as such to both the game and the movie, which involved Obi-Wan warning Vader about having the high ground, to which Vader leaps and dodges Obi-Wan's attempted [[Mou kei/Legends|Mou kei]] and subsequently stabs his former master in the back, killing him. After his death, Vader kicks Obi-Wan's lifeless corpse down the black sand bank, grins, and walks off, as Palpatine arrives on Mustafar to congratulate Vader on his victory. Vader proceeds towards Sidious' docked shuttle, and the new emperor declares the galaxy to belong to the both of them and gives Vader his new, red-bladed lightsaber. After quickly examining his new lightsaber, Vader ignites it and impales his Sith master, declaring the galaxy to belong only to him.
+
+The film's [[Star Wars Episode III: Revenge of the Sith (soundtrack)|soundtrack]] was released by Sony Classical on [[May 3]], 2005&mdash;more than two weeks before the release of the film. The music was composed and conducted by [[John Williams]], and performed by the [[London Symphony Orchestra]] and [[London Voices]]. A music video titled ''A Hero Falls'' was created for the film's theme "[[Battle of the Heroes]]," featuring footage from the film.
+
+===Home video===
+[[File:Ep3DVD.jpg|thumb|right|200px|''Revenge of the Sith'' on DVD]]
+''Star Wars Episode III: Revenge of the Sith'' was released on DVD on [[November 1]], [[2005]] (in Canada and the United States). The DVD was a two-disc set that has picture and sound mastered from the original digital source material. It includes a new full-length documentary as well as two featurettes, one which explores the prophecy of Anakin Skywalker as the Chosen One, the other looking at the movie's stunts. The 15-part web documentary series "Making Episode III" and a playable [[Xbox]] demo of ''[[Star Wars: Battlefront II]]'' (which was released simultaneously with the DVD) were also included in the set.
+
+The release was the first ''Star Wars'' film (and the first major film of all time) never to be widely released on VHS (for example, it ''was'' released on VHS in Australia). This caused some backlash from fans collecting both the DVD and VHS versions, who complained that their VHS set was not complete without Episode III. Both the DVD and VHS versions had only one alteration from the film's digital theatrical cut; A straight cut replaced a wipe between the scene where Obi-Wan leaves Mustafar and the scene where Vader climbs away from the lava. (The wipe was reinstated for the Blu-ray release.)
+
+Disc 1:
+*DVD Menu themes based on planets from the movie: Coruscant, Utapau and Mustafar
+*Available subtitles: English
+*Available Audio Tracks: English (Dolby Digital 5.1 EX), Spanish (Dolby Digital 2.0 Surround), French (Dolby Digital 2.0 Surround)
+*Commentary by writer-director George Lucas, producer Rick McCallum, animation director Rob Coleman, and ILM visual effects supervisors John Knoll and Roger Guyett
+*Hip hop Yoda music video, an [[Easter egg (virtual)|easter egg]] containing a non-canonical musical performance by Yoda and a group of clone troopers from the 41st Elite Corps (in phase II armor) in the [[Jedi Temple]].<ref name="HipHop">{{SWArchive|url=episode-iii/release/video/news20051110.html|text=Behind Hip Hop Yoda: Making a DVD Easter Egg|archivedate=20101110062601}}</ref> (This was the first release not to contain a secret blooper reel of footage from filming as an easter egg.) The video introduces us to a dancing Yoda, break-dancing in the Jedi Temple along with bopping clone troopers. This easter egg can be activated by putting Disc 1 in a DVD player, selecting "Options," and highlighting the [[THX]] logo and punching in the numbers "11,"<ref>Depending on a DVD remote's format, some may have to push 10+ before "11." For those who cannot activate the easter egg with the former method, the bonus is title 10 on the disc.</ref> "3," and "8," waiting for the pause after each number.
+
+Disc 2:
+*Main DVD Menu's theme is based on the ''Invisible Hand''
+*Exclusive deleted scenes with introductions by George Lucas and Rick McCallum
+*"Within a Minute" documentary film about the making of the Mustafar battle
+*"The Chosen One" featurette: George Lucas traces the myth of Darth Vader through episodes 1-6
+*"It's All for Real: The Stunts of Episode III"
+*A 15-part collection of [[Lucasfilm Ltd.]]'s Web documentaries
+*Star Wars: Battlefront II trailer and Xbox game demo
+*[[Star Wars: Empire at War]] [[Personal computer|PC]] game trailer
+*"A Hero Falls" music video
+*Poster and print campaign
+*Trailers and TV spots
+*Production photo gallery
+*DVD-ROM content includes a free trial of [[Hyperspace: The Official Star Wars Fan Club|Hyperspace: The Official ''Star Wars'' Fan Club]]
+
+Wal-Mart stores included an exclusive bonus disc, entitled [[Star Wars: Connections|''The Story of Star Wars'']], with some copies of ''Revenge of the Sith'', when it arrived on DVD. As with many previous ''Star Wars'' "history" featurettes, it is hosted R2-D2 and C-3PO. Presented in full frame with Dolby Digital 2.0 sound and running an hour in total, it was originally produced and released in 2004 as a 3-disc collection for the VideoNow Color personal video player. The DVD version contains the content from the first two discs: ''The Story of Anakin Skywalker'' and ''The Story of Luke Skywalker''. The footage used contains no scenes from ''Revenge of the Sith'' nor does it have the changes contained in the 2004 DVD Special Edition releases.<ref name="Retailer Exclusives">{{SWArchive|url=episode-iii/release/video/news20051031.html|text=''Revenge'' DVD Retailer Exclusives|archivedate=20080626054228}}</ref>
+
+Other retail stores gave away a few collectors items. At Target, Collectors would receive a collectors coin from the film, featuring Darth Vader on the "heads" side of the coin, and the Mustafar duel on the "tails" side of the coin. A $5 gift card was also given to the buyers of the DVD. The gift card features Vader, and has lights and sound added to it. Finally from Target, a bonus CD-Rom came with the Episode III soundtrack. At Best Buy, fans who belonged to the Rewards Zone would receive a ''Star Wars'' print by the artist Shepard Fairey.<ref name="Retailer Exclusives" />
+
+''Revenge of the Sith'' was released on [[Star Wars: The Complete Saga|Blu-ray]] in [[September]] [[2011]].<ref>{{SWArchive|url=movies/saga/bluraymay4/index.html|text=Bring the Complete Collection Home: ''Star Wars: The Complete Saga'' on Blu-Ray|archivedate=20110507103835}}</ref>
+
+On [[April 7]], [[2015]], the Walt Disney Studios, 20th Century Fox, and Lucasfilm jointly announced the digital releases of the six released ''Star Wars'' films. As Lucasfilm had retained digital distribution rights to Episodes I to III and V to VI, Walt Disney Studios Home Entertainment released ''Revenge of the Sith'' for digital download on [[April 10]], 2015.<ref>{{SW|url=news/the-star-wars-digital-movie-collection-coming-april-10|text=The ''Star Wars'' Digital Movie Collection Coming April 10}}</ref>
+
+Despite the [[The Walt Disney Company|Walt Disney Company's]] [[2012]] purchase of [[Lucasfilm Ltd.]] and the release rights to all future ''Star Wars'' films, Fox was to retain original distribution rights to [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], which they co-produced and co-financed, in perpetuity in all media worldwide. Fox was also to retain theatrical, nontheatrical, and home video rights worldwide for the franchise's five subsequent films, which Lucasfilm produced and financed independently, through [[May]] [[2020]], at which time ownership was to transfer to Disney. This complex relationship between Fox and Disney, particularly in regards to Fox's perpetual rights to Episode IV, was to create an obstacle for any future boxed set comprising all nine films.<ref>{{Cite_web|url=https://www.hollywoodreporter.com/news/tangled-rights-could-tie-up-384541|title=Tangled Rights Could Tie Up Ultimate 'Star Wars' Box Set (Analysis)|author=Masters, Kim|date=2012-10-30|work=The Hollywood Reporter|archivedate=20200215125918}}</ref> On [[December 14]], [[2017]], The Walt Disney Company announced that it was acquiring most of Fox's parent company, [[Wikipedia:21st Century Fox|21st Century Fox]], including the film studio and all distribution rights to ''A New Hope''.<ref name="Acquire">{{DisneyCompany|url=walt-disney-company-acquire-twenty-first-century-fox-inc-spinoff-certain-businesses-52-4-billion-stock-2|text=The Walt Disney Company To Acquire Twenty-First Century Fox, Inc., After Spinoff Of Certain Businesses, For $52.4 Billion In Stock|archivedate=20200617112439}}</ref> On [[March 20]], [[2019]], the [[Wikipedia:Acquisition of 21st Century Fox by Disney|deal]] was officially completed.<ref>{{Cite_web|url=https://www.hollywoodreporter.com/news/disney-closes-fox-deal-creating-global-content-powerhouse-1174498|title=Disney Closes $71.3 Billion Fox Deal, Creating Global Content Powerhouse|author=Georg Szalai, Paul Bond|date=2019-03-19|work=[[Wikipedia:The Hollywood Reporter|The Hollywood Reporter]]|archivedate=20200611175708}}</ref> On [[April 12]], 2019, a [[Wikipedia:Blu-ray|Blu-ray]] box set containing the nine main installments of the ''[[Star Wars]]'' [[Star Wars saga|saga]] remastered in 4K was reportedly announced to be in development for a [[2020]] release.<ref>{{Cite_web|url=https://www.thedigitalfix.com/film/content/105409/exclusive-skywalker-saga-4k|title=Exclusive: Disney are working on a 4K Blu-ray box set for Star Wars: The Skywalker Saga (updated)|date=2019-04-12|work=[https://www.thedigitalfix.com/film The Digital Fix: Film]|archivedate=20190506104719}}</ref>
+
+==Reception==
+===Box office===
+The film earned an estimated $16.5 million from 2,900 midnight screenings in North America upon its release. In total, it earned a record $50 million on its opening day. ''Sith'' has since been bumped to the second highest-grossing opening day. The film that beat ''Sith'' was ''Pirates of the Caribbean: Dead Man's Chest'' which earned $55 million on its opening day. ''Pirates'' eclipsing ''Sith''{{'s}} records would become a trend except for two specific records.
+
+''Revenge of the Sith'' broke another couple records on its opening day, including:
+*Midnight screenings - Previously held by ''The Lord of the Rings: Return of the King'', which earned $8 million from 2,100 midnight screenings.
+*Thursday gross - Previously held by ''The Matrix Reloaded'' with $37.5 million.
+
+''Sith'' added $33.5 million on the second day from 3,661 theaters. At $83.5 million in two days, the movie was the highest-grossing two-day movie, well on its way to becoming the highest three-day grossing movie in history.
+
+''Revenge of the Sith'' crossed $100 million and tied ''Spider-Man'' and ''The Matrix Reloaded'' as the only movies at the time to make $100 million in three days. Being that ''Sith'' grossed the highest amount in the three day period, it was given the number one rank as "fastest movie to $100 million." This record would also be broken by ''Pirates of the Caribbean: Dead Man's Chest'' which would reach the $100 million mark in just two days.
+
+''Revenge of the Sith'' totaled $158.5 million in its first four days, surpassing the previous four-day record held by ''The Matrix Reloaded'' ($134.3 million) and making it the second highest-grossing movie of 2005 after just four days in release (''Hitch'', $177.6 million). The four-day total by ''Sith'' is one of the records that ''Pirates of the Caribbean: Dead Man's Chest'' did not beat. The four-day gross was beaten in 2007, by ''Spider-Man 3''. ''Sith'', however, It would hold the five-day record for another three years until ''The Dark Knight'' would beat it.
+
+The movie was so popular in the UK, that in the second week of release ''Revenge of the Sith'' sold more tickets than the next twenty movies released combined.
+
+''Star Wars Episode III: Revenge of the Sith'' was released in over 100 countries. As of October 21, 2005, the movie had grossed $380,270,577 in the US and $469,727,028 Internationally, giving it a total of $849,997,605 worldwide.
+
+(All box office information from [http://www.boxofficemojo.com Box Office Mojo])
+
+===Critical reaction===
+The critical reaction to ''Revenge of the Sith'' was very enthusiastic. The film received mostly very positive reviews, especially in comparison to the last two prequels. Many critics have noted that they view it to be the best of the prequels.
+*Roger Ebert of the ''Chicago Sun-Times'' recommends the movie because he claims it to be a successful entertainment, with its point being the visuals, imagination, story, and action. This is contrary to his review of ''Attack of the Clones'', where Ebert claimed the point of the movie to be the dialogue and love scenes, which he wrote were flat and banal.
+*Richard Roeper of the ''Chicago Sun-Times'' hailed it as the best since ''The Empire Strikes Back''.
+*A.O. Scott of the ''New York Times'' hailed it as even better than ''A New Hope''.
+
+While many critics noted George Lucas's continued weakness with dialogue, [[Hayden Christensen]]'s depiction of a more mature Anakin Skywalker and his slow descent to the dark side was praised, and [[Ewan McGregor]] and [[Ian McDiarmid]]'s performances as the noble Obi-Wan Kenobi and the evil Palpatine respectively received rave reviews. Various critics have made note that they feel that the actors did a better job in general; though they, like in earlier prequels, have been displeased with [[Natalie Portman]]'s performance.
+
+Since early viewings, many have stated that there is a critique of then-current President George W. Bush in the film. Examples cited included Darth Vader's line to Obi-Wan Kenobi "If you're not with me, then you're my enemy," mirroring a quote Bush made after the September 11, 2001 attacks: "Either you're with us, or you're with the terrorists." However, Vader also had a similar line in [[Star Wars: Episode V The Empire Strikes Back|''The Empire Strikes Back'']] ("He will join us or die"). Kenobi's reply is an accusation that "Only a Sith deals in absolutes." Some observers have commented that this line of dialogue seems like a none-too-subtle political jab at Bush; the light and dark sides of [[The Force/Legends|the Force]] and Kenobi's line seems forced in that way. The sentence "Only a Sith deals in absolutes" is itself an absolute. However, the key word is ''deal''. Only a Sith would "deal" in an absolute in the sense of issuing an ultimatum (e.g. the Emperor's line to Luke in episode VI: "If you will not be turned, you will be destroyed."). The Jedi do not "deal" with the "join us or die" idea, which is consistent with them merely assenting to [[wikipedia:Linguistic universal|universal claims]].
+
+The anti-Bush connotation goes one step further in the novelization, with Mace Windu saying that the new laws decrease liberty in the name of security, but he doesn't feel safer (not so long after the PATRIOT Act was voted). Additionally, Palpatine's speech before the Senate in the novel includes the line, "It is morning in the Republic," which may be a play on one of Ronald Reagan's 1984 campaign slogans, "It's morning in America."
+
+But in interviews, George Lucas said that Bush was no influence in writing the movie. Rather, he wrote the basic story outline in the 1970s during the Vietnam War, thinking of President Richard Nixon.<ref>{{Cite_web|url=https://billingsgazette.com/index.php?id=1&display=rednews/2005/05/20/build/nation/65-star-wars_v.inc|title=Lucas: 'Sith' not written to echo Bush|date=2005-05-20|publisher=billingsgazette.com|archivedate=20051129161727}}</ref> He stated at Cannes, "The parallels between what we did in Vietnam and what we're doing in Iraq now are unbelievable."<ref>{{Cite_web|url=https://www.nytimes.com/2005/05/19/movies/latest-star-wars-movie-is-quickly-politicized.html|title=Latest 'Star Wars' Movie Is Quickly Politicized|author=Halbfinger, David M.|date=2005-05-19|publisher=New York Times|archivedate=20200417214236}}</ref> Lucas added that in more general terms, his story represents how any democracy can turn into a dictatorship with the consent of the people, like Caesar Augustus and Napoleon I of France.<ref>{{Cite_web|url=http://www.usatoday.com/life/movies/news/2005-05-15-cannes-lucas_x.htm|title=Lucas: 'Star Wars' isn't Iraq wars|author=Jacobson, Harlan|date=2005-05-15|publisher=USA Today|archiveurl=https://web.archive.org/web/20200514130908/https://usatoday30.usatoday.com/life/movies/news/2005-05-15-cannes-lucas_x.htm}}</ref><ref>{{Cite_web|url=http://www.cnn.com/2005/SHOWBIZ/Movies/05/16/cannes.starwars/index.html|title=Lucas on Iraq war, 'Star Wars'|author=Burns, Chris|date=2005-05-16|publisher=CNN|archivedate=20190606000706}}</ref> It could also be likened to how democratic freedom can be taken away using fear, much like Adolf Hitler or Hirohito. A line given by Senator Amidala upon Chancellor Palpatine's reorganization of the Republic as the First Galactic Empire reflects Lucas's observation: "So this is how liberty dies&mdash;with thunderous applause."
+
+In addition, the Jedi attempting to assassinate Palpatine is similar to Plutarch's account of the assassination of Julius Caesar. In both cases, the assassins attack because they fear the politician has or will have too much power for a republic to function properly. However, Caesar was unsuccessful in defending himself, and there was no premeditation on the Jedi's part on killing the Chancellor.
+
+==Deleted scenes==
+Six deleted scenes were included on Disc 2 of the DVD:
+*"Grievous Slaughters Shaak Ti" - The death of [[Shaak Ti/Legends|Shaak Ti]] by [[General]] [[Grievous]] on board the [[Invisible Hand/Legends|''Invisible Hand'']]. Deleted due to time constraints, and because the story was changed that Grievous left Shaak Ti on Coruscant alive, and she didn't die.
+*"A Stirring in the Senate" - The First Meeting of the [[Alliance to Restore the Republic/Legends|Rebel Alliance]]. Deleted because it took away from the central plot of Anakin Skywalker.
+*"Seeds of Rebellion" - The Second Meeting of the Rebel Alliance. Deleted because it took away from the central plot of Anakin Skywalker.
+*"Confronting the Chancellor" - The Presentation of the [[Delegation of 2000]] to [[Palpatine/Legends|Palpatine]]. Deleted because it took away from the central plot of Anakin Skywalker.
+*"A Plot to Destroy the Jedi?" - [[Mace Windu/Legends|Mace Windu]] senses the destruction of the [[Jedi Order/Legends|Jedi Order]]. Deleted due to time constraints and because the point was already known.
+*"Exiled to Dagobah" - Yoda lands on [[Dagobah/Legends|Dagobah]]. Deleted for fear it would clutter up the endings instead of making it just "father, mother, and the kids." Rick McCallum is quoted as saying that this was the biggest loss for him to the film and he hopes to see it on a future edition.
+
+Other scenes were also cut from the film:
+*[[Obi-Wan Kenobi/Legends|Obi-Wan]] visits Senator Amidala to discuss [[Anakin Skywalker/Legends|Anakin]], and tell her that he knows of her marriage. This scene features in the script, novel and comic book adaptation of the film, albeit differing slightly in each.
+*Obi-Wan selects [[Boga/Legends|Boga]] from the other [[Varactyl/Legends|varactyls]]. An animatic of this scene was put on [[StarWars.com]] in November 2007.
+*The Deaths of [[Luminara Unduli/Legends|Luminara Unduli]] and [[Barriss Offee/Legends|Barriss Offee]]. This scene was never shot.
+*The [[Order 66/Legends|Order 66]] "death" of [[Quinlan Vos/Legends|Quinlan Vos]]. This scene was never shot.
+*Another death of [[Shaak Ti/Legends|Shaak Ti]], elaborated in the novelization: Ti is stabbed in the back by Darth Vader during his raid on the [[Jedi Temple]] while she is meditating. She asks Anakin what happened to Windu, [[Kit Fisto/Legends|Fisto]], [[Agen Kolar/Legends|Kolar]], and [[Saesee Tiin/Legends|Tiin]]. Skywalker replies by stabbing her in the back (a similar death of Shaak Ti appeared in ''[[LEGO Star Wars: The Video Game]]'').
+*Obi-Wan eluding the [[Nos monster/Legends|Nos monster]], a natural predator of [[Utapau/Legends|Utapau]], after falling into the sinkhole on Utapau.
+*Talk scenes between [[Aayla Secura/Legends|Aayla Secura]] and [[CC-5052/Legends|Bly]], and [[Plo Koon/Legends|Plo Koon]] and [[CT-55/11-9009/Legends|Jag]].
+*An ambush scene by [[Yoda/Legends|Yoda]], [[Tarfful/Legends|Tarfful]], and [[Chewbacca/Legends|Chewbacca]]. A Clone Walker passes by a lake. Tarfful is lying dead on Wookiee boat. The clone stares at him for a moment and a furry creature covered in mud all over comes out of the water onto the boat. The clone asks the creature if anything is there. "Wookiee good, eat Wookiee," replies the creature. The clone decides it is just a native [[Kashyyyk/Legends|Kashyyyk]] creature and decides to leave. Immediately, Chewbacca jumps out of the water and pulls the clone underwater, killing him. Then Tarfful wakes up and the creature reveals itself to be Yoda. He tells the Wookiees to give him a second to bathe. Yoda jumps into the water and scrubs all the mud off. Yoda emerges and puts on his robes. They then continue towards the emergency escape pod.
+*A scene in which Yoda speaks to the voice of [[Qui-Gon Jinn/Legends|Qui-Gon Jinn's]] [[Force ghost|spirit]]. Yoda dedicates himself to Qui-Gon's teachings. This scene was featured in the [[Star Wars: Episode III Revenge of the Sith (novelization)|novelization]].
+*Darth Vader kills [[Wat Tambor/Legends|Wat Tambor]].
+
+==Continuity==
+In the DVD commentary for ''Revenge of the Sith'', Lucas makes an offhand comment regarding the [[DS-1 Death Star Mobile Battle Station|Death Star]] seen in the final moments of the film. He explains that it was exactly the same one as seen in ''A New Hope'', and goes on to say that it would be "a bit of a stretch," but explains that due to "union disputes and supply problems," it took 19 years to build. The [[canon]] novel [[Tarkin (novel)|''Tarkin'']] by [[James Luceno]], set five years after ''Revenge of the Sith'', explores some aspects of the construction of the Death Star. The book ''[[Catalyst: A Rogue One Novel]]'', also written by James Luceno, went into more detail about how the Republic secretly began the project and how it continued to expand under the Empire's direction. [[Thrawn (novel)|''Thrawn'']] and ''[[Thrawn: Treason]]'' also show some aspects of the production and supply issues of the Death Star. The movie ''[[Rogue One: A Star Wars Story]]'' sheds further light on the construction of the Death Star, as it depicts how the [[Alliance to Restore the Republic|Rebel Alliance]] came to have the [[Death Star plans]].
+
+Within the Legends continuity, [[Kevin J. Anderson]]'s novels ''[[Jedi Search]]'' and ''[[Champions of the Force]]'' explain that a prototype Death Star was built in preparation for the construction of the first Death Star in ''A New Hope''. These conflicting accounts were retconned in ''[[The New Essential Chronology]]'', which stated that the former was a testbed prototype for the [[Superlaser/Legends|superlaser]] to be installed on the latter. The ''Chronology'' also mentions the fact that in order to ensure protection from sabotage, the construction site was moved to various locations throughout the nineteen-year gap between ''Revenge of the Sith'' and ''A New Hope'', indicating that there were various attempts by unknown persons to disable or even destroy the massive battle station, a theory supported by a line from ''A New Hope'' where Vader proclaims that "There will be no one to stop us this time" in regard to the Death Star and its plans. The another Legends novels ''[[Star Wars: The Dark Nest Trilogy|The Dark Nest Trilogy]]'', written by [[Troy Denning]], explore the continuity pieces about the holographic recordings of Anakin, Padme and Obi-Wan in R2's memory banks. Although the [[Skywalker family/Legends|Skywalker family]] saga comes full circle, [[Luke Skywalker/Legends|Luke Skywalker]] and [[Leia Organa Solo|Leia Organa]] still don't know their mother's identity, but Luke has stumbled on a memory of R2-D2's that contains her image, even he watches a hologram of Anakin Force-choking Padmé, as well as his and Leia's birth. Denning shows Artoo's desire to hide these recordings from Luke – no doubt feeling he will learn something hurtful – while couching it in the fact that the astromech droid has developed quirks in his circuitry.
+
+The Legends video game ''[[Star Wars: The Force Unleashed]]'' revealed that Galen Marek greatly damaged the Death Star while infiltrating the station to rescue Rebel leaders. This was held to be a partial explanation for why it took so long to build the Death Star as well as Vader's line "There will be no one to stop us this time."
+
+==Credits==
+{{Credits
+|cast=
+*'''[[Ewan McGregor]]''' as '''[[Obi-Wan Kenobi]]'''<ref name="Credits">''Star Wars'': Episode III ''Revenge of the Sith'' credits</ref>
+*'''[[Natalie Portman]]''' as '''[[Padmé Amidala|Padmé]]'''<ref name="Credits" />
+*'''[[Hayden Christensen]]''' as '''[[Anakin Skywalker]]'''<ref name="Credits" />
+*'''[[Ian McDiarmid]]''' as '''[[Supreme Chancellor]] [[Darth Sidious|Palpatine]]'''<ref name="Credits" />
+*'''[[Samuel L. Jackson]]''' as '''[[Mace Windu]]'''<ref name="Credits" />
+*'''[[Jimmy Smits]]''' as '''[[Senator]] [[Bail Prestor Organa|Bail Organa]]'''<ref name="Credits" />
+*'''[[Frank Oz]]''' as '''[[Yoda]]'''<ref name="Credits" />
+*'''[[Anthony Daniels]]''' as '''[[C-3PO]]'''<ref name="Credits" />
+*'''[[Christopher Lee]]''' as '''Count [[Dooku]]'''<ref name="Credits" />
+*'''[[Keisha Castle-Hughes]]''' as '''[[Apailana|Queen of Naboo]]'''<ref name="Credits" />
+*'''[[Silas Carson]]''' as '''[[Ki-Adi-Mundi]]''' and '''[[Nute Gunray]]'''<ref name="Credits" />
+*'''[[Jay Laga'aia]]''' as '''[[Captain]] [[Gregar Typho|Typho]]'''<ref name="Credits" />
+*'''[[Bruce Spence]]''' as '''[[Tion Medon]]'''<ref name="Credits" />
+*'''[[Wayne Pygram]]''' as '''Governor [[Wilhuff Tarkin|Tarkin]]'''<ref name="Credits" />
+*'''[[Temuera Morrison]]''' as '''[[Commander]] [[CC-2224|Cody]]'''<ref name="Credits" />
+*'''[[David Bowers]]''' as '''[[Mas Amedda]]'''<ref name="Credits" />
+*'''[[Oliver Ford Davies]]''' as '''[[Sio Bibble]]'''<ref name="Credits" />
+*'''[[Ahmed Best]]''' as '''[[Jar Jar Binks]]'''<ref name="Credits" />
+*'''[[Rohan Nichol]]''' as '''Captain [[Raymus Antilles|Antilles]]'''<ref name="Credits" />
+*'''[[Jeremy Bulloch]]''' as '''Captain [[Jeremoch Colton|Colton]]'''<ref name="Credits" />
+*'''[[Amanda Lucas]]''' as '''[[Terr Taneel]]'''<ref name="Credits" />
+*'''[[Kenny Baker]]''' as '''[[R2-D2]]'''<ref name="Credits" />
+*'''[[Matt Sloan]]''' as '''[[Plo Koon]]'''<ref name="Credits" />
+*'''[[Peter Mayhew]]''' as '''[[Chewbacca]]'''<ref name="Credits" />
+*'''[[Rebecca Jackson Mendoza]]''' as '''[[Breha Organa|Queen of Alderaan]]'''<ref name="Credits" />
+*'''[[Joel Edgerton]]''' as '''[[Owen Lars]]'''<ref name="Credits" />
+*'''[[Bonnie Maree Piesse]]''' as '''[[Beru Whitesun Lars|Beru]]'''<ref name="Credits" />
+*'''[[Jett Lucas]]''' as '''[[Zett Jukassa]]'''<ref name="Credits" />
+*'''[[Tux Akindoyeni]]''' as '''[[Agen Kolar]]'''<ref name="Credits" />
+*'''[[Matthew Rowan|Matt Rowan]]''' as '''Senator [[Orn Free Taa]]'''<ref name="Credits" />
+*'''[[Kenji Oates]]''' as '''[[Saesee Tiin]]'''<ref name="Credits" />
+*'''[[Amy Allen]]''' as '''[[Aayla Secura]]'''<ref name="Credits" />
+*'''[[Bodie Taylor|Bodie 'Tihoi' Taylor]]''' as '''[[Clone trooper|Clone Trooper]]<ref name="Credits" />
+*'''[[Graeme Blundell]]''' as '''[[Ruwee Naberrie]]'''<ref name="Credits" />
+*'''[[Trisha Noble]]''' as '''[[Jobal Naberrie]]'''<ref name="Credits" />
+*'''[[Claudia Karvan]]''' as '''[[Sola Naberrie]]'''<ref name="Credits" />
+*'''[[Keira Wingate]]''' as '''[[Ryoo Naberrie]]'''<ref name="Credits" />
+*'''[[Hayley Mooy]]''' as '''[[Pooja Naberrie]]'''<ref name="Credits" />
+*'''[[Sandi Finlay|Sandy Finlay]]''' as '''[[Sly Moore]]'''<ref name="Credits" />
+*'''[[Katie Lucas]]''' as '''[[Chi Eekway Papanoida|Chi Eekway]]'''<ref name="Credits" />
+*'''[[Genevieve O'Reilly]]''' as '''[[Mon Mothma]]'''<ref name="Credits" />
+*'''[[Warren Owens]]''' as '''[[Fang Zar]]'''<ref name="Credits" />
+*'''[[Kee Chan]]''' as '''[[Malé-Dee]]'''<ref name="Credits" />
+*'''[[Rena Owen]]''' as '''[[Nee Alavar]]'''<ref name="Credits" />
+*'''[[Christopher Kirby]]''' as '''[[Giddean Danu]]'''<ref name="Credits" />
+*'''[[Matthew Wood]]''' as the voice of '''General [[Grievous]]'''<ref name="Credits" />
+*'''[[Kristy Wright]]''' as '''[[Moteé]]'''<ref name="Credits" />
+*'''[[Coinneach Alexander]]''' as '''[[Whie Malreaux]]'''<ref name="Credits" />
+*'''[[Mousy McCallum]]''' as '''[[Bene]]'''<ref name="Credits" />
+*'''[[Michael Kingma]]''' as '''[[Tarfful|Wookiee #1]]'''<ref name="Credits" />
+*'''[[James Rowland]]''' as '''[[Wookiee|Wookiee #2]]'''<ref name="Credits" />
+*'''[[Axel Dench]]''' as '''[[Merumeru|Wookiee #3]]'''<ref name="Credits" />
+*'''[[David Stiff]]''' as '''Wookiee #4'''<ref name="Credits" />
+*'''[[Steven Foy]]''' as '''Wookiee #5'''<ref name="Credits" />
+*'''[[Robert Cope]]''' as '''Wookiee #6'''<ref name="Credits" />
+*'''[[Julian Khazzouh]]''' as '''Wookiee #7'''<ref name="Credits" />
+
+;Uncredited
+*'''[[Aidan Barton]]''' as '''[[Luke Skywalker]]''' and '''[[Leia Skywalker Organa Solo|Princess Leia]]'''
+*'''[[Jerome Blake]]''' as '''[[Mas Amedda]]'''
+*'''[[Ben Cooke]]''' as '''[[Kit Fisto]]'''
+*'''[[Fay David]]''' as '''[[Luminara Unduli]]'''
+*'''[[Mimi Daraphet]]''' as '''[[Bultar Swan]]'''
+*'''[[Chantal Freer]]''' as '''[[Ellé]]'''
+*'''[[Nick Gillard]]''' as '''[[Cin Drallig]]'''
+*'''[[Pablo Hidalgo]]''' as '''[[Janu Godalhi]]'''
+*'''[[James Earl Jones]]''' as the voice of '''[[Anakin Skywalker|Darth Vader]]'''
+*'''[[Olive Levi]]''' as '''[[Fema Baab]]'''
+*'''[[Bai Ling]]''' as '''[[Bana Breemu]]'''
+*'''[[George Lucas]]''' as '''[[Notluwiski Papanoida|Papanoida]]'''
+*'''[[T.V. Moore]]''' and '''Dean Mitchell''' as '''[[Cellheim Anujo]]'''
+*'''[[Lily Nyamwasa]]''' as '''[[Stass Allie]]'''
+*'''[[Jeremy Prestoe]]''' as '''[[Tundra Dowmeia]]'''
+*'''[[Orli Shoshan]]''' as '''[[Shaak Ti]]'''
+*'''[[Paul Spence]]''' as '''[[Ask Aak]]'''
+
+[[File:SW3_Cast.jpg|thumb|right|200px|Most of the lead cast]]
+[[George Lucas]] makes a cameo appearance at the [[Galaxies Opera House/Legends|Galaxies Opera House]]. He is the blue-faced being, named [[Baron]] [[Notluwiski Papanoida|Papanoida]], seen just outside Palpatine's private box. It marks Lucas's first and only appearance in any of the ''Star Wars'' films. His three children also have cameos: Jett as a young Jedi-in-training called [[Zett Jukassa]] at the [[Jedi Temple]], his daughter Amanda as a senator called [[Terr Taneel]], and Katie as a blue-skinned alien senator called [[Chi Eekway Papanoida]], visible when Palpatine arrives at the Senate after being saved by the Jedi.
+
+Much of the crew make cameos in the film. For example [[Nick Gillard]], the stunt coordinator, plays a character named [[Cin Drallig]] (his name spelled backwards, omitting the ''k''). [[Rick McCallum]]'s daughter [[Mousy McCallum|Mousy]] plays one of the Padawans killed by Darth Vader, named [[Bene]]. Visual effects supervisor [[John Knoll]] played the Coruscant firefighter pilot. When Palpatine, Anakin, and Obi-Wan are falling down the elevator shaft in the beginning of the movie, it is John Knoll's hand that grabs the wire, not [[Hayden Christensen]]'s. Also in the movie was [[Jeremy Bulloch]] ([[Boba Fett]] in the [[original trilogy]]), who played [[Captain]] [[Jeremoch Colton]], the pilot of the [[CR70 corvette/Legends|CR70 corvette]], and later CR90 Rebel Blockade Runner, ''[[Tantive III]]''. This was a speaking role. A number of Lucasfilm and ILM employees also made cameo appearances on the balconies of the Galaxies Opera House, while on the steps [[Anthony Daniels]] reprised his Episode II cameo as [[Dannl Faytonni]].
+|crew=
+*Written And Directed By &mdash; [[George Lucas]]
+*Produced By &mdash; [[Rick McCallum]]
+*Executive Producer &mdash; George Lucas
+*Music By &mdash; [[John Williams]]
+*Cinematography by &mdash; [[David Tattersall]]
+*Film Editing by &mdash; [[Roger Barton]], [[Ben Burtt]]
+*Casting By &mdash; [[Christine King]]
+*Production Design by &mdash; [[Gavin Bocquet]]
+*Sound editor / sound re-recording mixer &mdash; [[Tom Myers]]
+*[[Javva the Hutt|Javva the Hut]] &mdash; [[Michael Smith]]
+*UI motion graphics by &mdash; [[Noel Rubin]] {{C|uncredited}}
+}}
+
+==Appearances==
+{{App
+|c-characters=
+*[[2638]] {{1st}}
+*[[Ask Aak]]
+*[[Nee Alavar]] {{1st}}
+*[[Stass Allie]]
+*[[Mas Amedda]]
+*[[Padmé Amidala]]
+*[[Raymus Antilles]]
+*[[Cellheim Anujo]] {{1st}}
+*[[Apailana]] {{1st}}
+*[[Passel Argente]]
+*[[Veedaaz Awmetth]] {{Del}}
+*[[Fema Baab]] {{1st}}
+*[[Bene]] {{1st}} {{Hologram}}
+*[[Beytolim]] {{1st}}
+*[[Sio Bibble]]
+*[[Jar Jar Binks]]
+*[[Boga]] {{1st}}
+*[[Ulfor Bombaasa]] {{1st}}
+*[[Brookish Boon]] {{1st}}
+*[[Bana Breemu]] {{Del}}
+*[[C-3PO]]
+*[[Tanner Cadaman]] {{1st}}
+*[[CT-0000/1010]] "Fox" {{1st}}
+*[[CT-55/11-9009]] "Jag" {{1st}}
+*[[CC-1004]] "Gree" {{1st}}
+*[[CC-1119]] "Appo" {{1st}}
+*[[CC-1138]] "Bacara" {{1st}}
+*[[CC-2224]] "Cody" {{1st}}
+*[[CC-2237]] "Odd Ball" {{1st}}
+*[[CC-4477]] "Thire" {{1st}}
+*[[CC-5052]] "Bly" {{1st}}
+*[[CC-8826]] "Neyo" {{1st}}
+*[[Chewbacca]]
+*[[Olana Chion]] {{1st}}
+*[[Jeremoch Colton]] {{1st}}
+*[[Sweitt Concorkill]] {{1st}}
+*[[Neb Creip]] {{1st}}
+*[[Braata Danlos]] {{C|Statue only}}
+*[[Giddean Danu]] {{1st}}
+*[[Opula Deget]] {{1st}}
+*[[Lushros Dofine]] {{1st}}
+*[[Dooku]]
+*[[Tundra Dowmeia]]
+*[[Ivor Drake]] {{1st}}
+*[[Cin Drallig]] {{1st}} {{Hologram}}
+*[[Eeusu Estornii]] {{1st}}
+*[[Eugroothwa]] {{1st}}
+*[[Lampay Fay]] {{1st}}
+*[[Faya Rodemos]] {{1st}} {{C|Statue only}}
+*[[Dannl Faytonni]]
+*[[Kit Fisto]]
+*[[FX-6]] {{1st}}
+*[[Melik Galerha]] {{1st}}
+*"[[Galle]]" {{1st}}
+*[[Janu Godalhi]] {{1st}}
+*[[Grakchawwaa]] {{1st}}
+*[[Grievous]] {{1st}}
+*[[Guanta]] {{1st}}
+*[[Rute Gunnay]] {{1st}}
+*[[Nute Gunray]]
+*[[Rune Haako]]
+*[[San Hill]]
+*[[Hollé]] {{1st}}
+{{!}}
+*[[IG-101]] {{1st}}
+*[[IG-102]] {{1st}}
+*"[[Jek]]" {{1st}} {{Ret}}
+*[[Greeata Jendowanian]]
+*[[Qui-Gon Jinn]] {{Mo}}
+*[[Zett Jukassa]] {{1stID|Zett Jukassa}}
+*[[Kagi]] {{1stm}}
+*[[Coleman Kcaj]] {{1st}}
+*[[Denaria Kee]]
+*[[Obi-Wan Kenobi]]
+*[[Ki-Adi-Mundi]]
+*[[Agen Kolar]]
+*[[Plo Koon]]
+*[[Lachichuk]] {{1st}}
+*[[Shmi Skywalker Lars]] {{Mo}}
+*[[Owen Lars]]
+*[[Beru Whitesun Lars|Beru Lars]]
+*[[Poggle the Lesser]]
+*[[Ma'kis'shaalas]] {{1st}}
+*[[Shu Mai]]
+*[[Malé-Dee]] {{1st}}
+*[[Whie Malreaux]] {{1st}} {{Hologram}}
+*[[Koyi Mateil]] {{1st}}
+*[[Tion Medon]] {{1st}}
+*[[Merumeru]] {{1st}}
+*[[Corla Metonae]] {{Del}}
+*[[Cat Miin]]
+*[[Sly Moore]] {{1stID|Sly Moore}}
+*[[Moteé]] {{1st}}
+*[[Mon Mothma]]
+*[[Jobal Naberrie]] {{1st}}
+*[[Pooja Naberrie]] {{1st}}
+*[[Ruwee Naberrie]] {{1st}}
+*[[Ryoo Naberrie]] {{1st}}
+*[[Sola Naberrie]] {{1st}}
+*[[Rugor Nass]]
+*[[Po Nudo]]
+*[[Barrow Oicunn]] {{1st}}
+*[[Bail Prestor Organa|Bail Organa]]
+*[[Breha Organa]] {{1st}}
+*[[Leia Skywalker Organa Solo|Leia Organa]]
+*[[Darth Sidious|Sheev Palpatine/Darth Sidious]]
+*[[Chi Eekway Papanoida]] {{1st}}
+{{!}}
+*[[Notluwiski Papanoida]] {{1st}}
+*[[Darth Plagueis]] {{1stm}}
+*[[Shadday Potkin]] {{1st}}
+*[[R2-D2]]
+*[[R4-F5]] {{1st}}
+*[[R4-G9]] {{1st}}
+*[[R4-P17]]
+*[[R4-P44]] {{1st}}
+*[[Delva Racine]] {{1st}}
+*[[Sheltay Retrac]] {{1st}}
+*[[Horox Ryyder]]
+*[[Gume Saam]]
+*[[Salporin]] {{1st}}
+*[[Rystáll Sant]]
+*[[Osh Scal]] {{1st}}
+*[[Aayla Secura]]
+*[[J'oopi Shé]] {{1st}}
+*[[Silya Shessaun]] {{Del}}
+*[[Gem Sirrom]] {{1st}}
+*[[Sistros Nevet]] {{C|Statue only}}
+*[[Anakin Skywalker|Anakin Skywalker/Darth Vader]]
+*[[Luke Skywalker]]
+*[[Orn Free Taa]]
+*[[Wat Tambor]]
+*[[Terr Taneel]] {{1st}}
+*[[Tarfful]] {{1st}}
+*[[Wilhuff Tarkin]]
+*[[Teta (duke)|Teta]] {{1st}}
+*[[Shaak Ti]] {{Hologram}}
+*[[Saesee Tiin]]
+*[[Tikkes]]
+*[[Meena Tills]] {{1st}}
+*[[Waks Trode]] {{1st}}
+*[[Nank Tun]]
+*[[Gregar Typho]]
+*[[Umé]] {{1st}}
+*[[Luminara Unduli]]
+*[[Unidentified Advanced Recon Force Scout Trooper officer]] {{1st}}
+*[[Unidentified clone lieutenant]] {{1st}}
+*[[Unidentified clone paratrooper]] {{1st}}
+*[[Unidentified Jedi youngling]] {{1st}}
+*[[Unidentified Neimoidian captain (Invisible Hand)|Unidentified Neimoidian captain]] {{1st}}
+*[[Unidentified unit commander]] {{1st}} {{Voice}}
+*[[Sateen Vestswe]] {{1st}}
+*[[Quinlan Vos]] {{Mo}}
+*[[Mace Windu]]
+*[[Dznori Xam]] {{1st}}
+*[[Selif Xam]] {{1st}}
+*[[Yanjon Zelmar]] {{1st}} {{C|Statue only}}
+*[[Yoda]]
+*[[Fang Zar]] {{1st}}
+|l-characters=
+*[[2638/Legends|2638]] {{1st}}
+*[[7EX]] {{1st}}
+*[[Ask Aak/Legends|Ask Aak]]
+*[[Nee Alavar/Legends|Nee Alavar]]
+*[[Stass Allie/Legends|Stass Allie]]
+*[[Mas Amedda/Legends|Mas Amedda]]
+*[[Padmé Amidala/Legends|Padmé Amidala]]
+*[[Raymus Antilles/Legends|Raymus Antilles]]
+*[[Veedaaz Awmetth/Legends|Veedaaz Awmetth]] {{Del}}
+*[[Cellheim Anujo/Legends|Cellheim Anujo]] {{1st}}
+*[[Apailana/Legends|Apailana]] {{1st}}
+*[[Koffi Arana]] {{1st}} {{Ret}}
+*[[Passel Argente/Legends|Passel Argente]]
+*[[Fema Baab/Legends|Fema Baab]] {{1st}}
+*[[Sors Bandeam]] {{1st}}
+*[[Bene/Legends|Bene]] {{Hologram}}
+*[[Jar Jar Binks/Legends|Jar Jar Binks]]
+*[[Boga/Legends|Boga]]
+*[[Ulfor Bombaasa/Legends|Ulfor Bombaasa]] {{1st}}
+*[[Brookish Boon/Legends|Brookish Boon]]
+*[[Braata]] {{C|Statue only}}
+*[[Bana Breemu/Legends|Bana Breemu]] {{Del}}
+*[[C-3PO/Legends|C-3PO]]
+*[[Nathaniel Camaran]]
+*[[Tanner Cadaman/Legends|Tanner Cadaman]]
+*[[CC-1004/Legends|CC-1004]] (Gree) {{1st}}
+*[[CC-1119/Legends|CC-1119]] (Appo)
+*[[CC-1138/Legends|CC-1138]] (Bacara)
+*[[CC-2224/Legends|CC-2224]] (Cody)
+*[[CC-4477/Legends|CC-4477]] (Thire)
+*[[CC-5052/Legends|CC-5052]] (Bly)
+*[[CC-8826/Legends|CC-8826]] (Neyo) {{1st}}
+*[[Chewbacca/Legends|Chewbacca]]
+*[[Olana Chion/Legends|Olana Chion]] {{Ret}}
+*[[Tsui Choi]]
+*[[Jeremoch Colton/Legends|Jeremoch Colton]] {{1st}}
+*[[Sweitt Concorkill/Legends|Sweitt Concorkill]] {{1st}}
+*[[Neb Creip/Legends|Neb Creip]] {{1st}}
+*[[CT-0000/1010/Legends|CT-0000/1010]] (Fox)
+*[[CT-3423]] {{1st}}
+*[[CT-55/11-9009/Legends|CT-55/11-9009]] {{C|Jai'galaar "Jag"}} {{1st}}
+*[[CT-57/11-9048]]
+*[[Giddean Danu/Legends|Giddean Danu]]
+*[[Led Daragon]] {{1st}}
+*[[Davijaan]]
+*[[Opula Deget/Legends|Opula Deget]] {{1st}}
+*[[Lushros Dofine]]
+*[[Dooku/Legends|Dooku/Darth Tyranus]]
+*[[Tundra Dowmeia/Legends|Tundra Dowmeia]]
+*[[Ivor Drake/Legends|Ivor Drake]] {{1st}}
+*[[Cin Drallig/Legends|Cin Drallig]] {{Hologram}}
+*[[Fame Drimal]] {{1st}}
+*[[Pont Edisser/Legends|Pont Edisser]]
+*[[Chi Eekway Papanoida/Legends|Chi Eekway Papanoida]]
+{{!}}
+*[[Jeswi Ele]] {{1st}}
+*[[Ellé/Legends|Ellé]] {{Del}}
+*[[Ejai]] {{1st}}
+*[[Eeusu Estornii/Legends|Eeusu Estornii]] {{1st}}
+*[[Eugroothwa/Legends|Eugroothwa]] {{1st}}
+*[[Lampay Fay/Legends|Lampay Fay]] {{1st}}
+*[[Faya]] {{C|Statue only}}
+*[[Dannl Faytonni/Legends|Dannl Faytonni]]
+*[[Kit Fisto/Legends|Kit Fisto]]
+*[[FX-6/Legends|FX-6]] {{1st}}
+*[[Melik Galerha/Legends|Melik Galerha]] {{1st}}
+*[[Janu Godalhi/Legends|Janu Godalhi]] {{1st}}
+*[[Grakchawwaa/Legends|Grakchawwaa]]
+*[[Ottegru Grey]] {{1st}}
+*[[Grievous/Legends|Grievous]]
+*[[Guanta/Legends|Guanta]] {{1st}}
+*[[Aruteous Gunnay]] {{1st}}
+*[[Nute Gunray/Legends|Nute Gunray]]
+*[[Rune Haako/Legends|Rune Haako]]
+*[[Hadiss/Legends|Hadiss]] {{C|Bone only}}
+*[[Són Halliikeenovich]] {{1st}}
+*[[San Hill/Legends|San Hill]]
+*[[Hollé/Legends|Hollé]] {{1st}}
+*[[IG-101/Legends|IG-101]]
+*[[IG-102/Legends|IG-102]]
+*[[Zyn Javeb]] {{1st}}
+*[[Greeata Jendowanian/Legends|Greeata Jendowanian]]
+*[[Qui-Gon Jinn/Legends|Qui-Gon Jinn]] {{Mo}}
+*[[Zett Jukassa/Legends|Zett Jukassa]]
+*[[Jurokk]] {{Ret}}
+*[[Kagi/Legends|Kagi]] {{Mo}}
+*[[Coleman Kcaj/Legends|Coleman Kcaj]] {{1st}}
+*[[Denaria Kee/Legends|Denaria Kee]]
+*[[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]]
+*[[Ki-Adi-Mundi/Legends|Ki-Adi-Mundi]]
+*[[Agen Kolar/Legends|Agen Kolar]]
+*[[Plo Koon/Legends|Plo Koon]]
+*[[Onara Kuat]] {{1st}}
+*[[Lachichuk/Legends|Lachichuk]] {{1st}}
+*[[Aito Laff]] {{1st}}
+*[[Beru Whitesun Lars/Legends|Beru Lars]]
+*[[Owen Lars/Legends|Owen Lars]]
+*[[Shmi Skywalker Lars/Legends|Shmi Skywalker Lars]] {{Mo}}
+*[[Shia Letap]] {{1st}}
+*[[Shu Mai/Legends|Shu Mai]]
+*[[Ma'kis'shaalas/Legends|Ma'kis'shaalas]] {{1st}}
+*[[Malé-Dee/Legends|Malé-Dee]]
+*[[Whie Malreaux/Legends|Whie Malreaux]] {{Hologram}}
+*[[Koyi Mateil/Legends|Koyi Mateil]] {{1st}}
+*[[Tion Medon/Legends|Tion Medon]]
+*[[Merumeru/Legends|Merumeru]] {{1st}}
+*[[Corla Metonae/Legends|Corla Metonae]] {{Del}}
+*[[Cat Miin/Legends|Cat Miin]]
+*[[Sly Moore/Legends|Sly Moore]]
+*[[Moteé/Legends|Moteé]]
+*[[Mon Mothma/Legends|Mon Mothma]]
+*[[Jobal Naberrie/Legends|Jobal Naberrie]]
+*[[Pooja Naberrie/Legends|Pooja Naberrie]]
+*[[Ruwee Naberrie/Legends|Ruwee Naberrie]]
+*[[Ryoo Naberrie/Legends|Ryoo Naberrie]]
+*[[Sola Naberrie]]
+*[[Rugor Nass/Legends|Rugor Nass]]
+{{!}}
+*[[Gap Nox]] {{1st}}
+*[[Po Nudo/Legends|Po Nudo]]
+*[[Barrow Oicunn/Legends|Barrow Oicunn]] {{1st}}
+*[[Bail Prestor Organa/Legends|Bail Prestor Organa]]
+*[[Breha Organa/Legends|Breha Organa]]
+*[[Leia Organa Solo|Leia Organa]]
+*[[Palpatine/Legends|Palpatine/Darth Sidious]]
+*[[Notluwiski Papanoida/Legends|Notluwiski Papanoida]]
+*[[Darth Plagueis/Legends|Darth Plagueis]] {{1st}} {{C|Ashes only}}
+*[[Poggle the Lesser/Legends|Poggle the Lesser]]
+*[[Shadday Potkin/Legends|Shadday Potkin]] {{1st}}
+*[[Tannon Praji]] {{1st}}
+*[[R2-D2/Legends|R2-D2]]
+*[[R4-F5/Legends|R4-F5]] {{1st}}
+*[[R4-G9/Legends|R4-G9]]
+*[[R4-P17/Legends|R4-P17]]
+*[[R4-P44/Legends|R4-P44]] {{1st}}
+*[[R77]] {{Del}}
+*[[Delva Racine/Legends|Delva Racine]] {{1st}}
+*[[Sheltay Retrac/Legends|Sheltay Retrac]] {{1st}}
+*[[Horox Ryyder/Legends|Horox Ryyder]]
+*[[Salporin/Legends|Salporin]] {{Ret}}
+*[[Rystáll Sant/Legends|Rystáll Sant]]
+*[[Osh Scal/Legends|Osh Scal]] {{1st}}
+*[[Aayla Secura/Legends|Aayla Secura]]
+*[[J'oopi Shé/Legends|J'oopi Shé]] {{1st}}
+*[[Silya Shessaun/Legends|Silya Shessaun]] {{Del}}
+*[[Gem Sirrom/Legends|Gem Sirrom]] {{1st}}
+*[[Sistros]] {{C|Statue only}}
+*[[Jaing Skirata]] {{Imo}}
+*[[Kom'rk Skirata]] {{Imo}}
+*[[Anakin Skywalker/Legends|Anakin Skywalker/Darth Vader]]
+*[[Luke Skywalker/Legends|Luke Skywalker]]
+*[[Orn Free Taa/Legends|Orn Free Taa]]
+*[[Wat Tambor/Legends|Wat Tambor]]
+*[[Terr Taneel/Legends|Terr Taneel]]
+*[[Tarfful/Legends|Tarfful]]
+*[[Wilhuff Tarkin/Legends|Wilhuff Tarkin]]
+*[[Teta (duke)/Legends|Teta]] {{1st}}
+*[[Shaak Ti/Legends|Shaak Ti]] {{Hologram}}
+*[[Saesee Tiin/Legends|Saesee Tiin]]
+*[[Tikkes/Legends|Tikkes]]
+*[[Meena Tills/Legends|Meena Tills]] {{1st}}
+*[[Romeo Treblanc]] {{C|First appearance after being [[Retcon|retconned]]}}
+*[[Waks Trode/Legends|Waks Trode]] {{1st}}
+*[[Nank Tun/Legends|Nank Tun]]
+*[[Maneeli Tuun/Legends|Maneeli Tuun]] {{1st}}
+*[[Gregar Typho/Legends|Gregar Typho]]
+*[[Umé/Legends|Umé]] {{1st}}
+*[[Unidentified clone scout trooper]]
+*[[Jikesh Valia/Legends|Jikesh Valia]]
+*[[Darth Venamis]] {{1stm}} {{Imo}} {{Ret}}
+*[[Sateen Vestswe/Legends|Sateen Vestswe]] {{1st}}
+*[[Quinlan Vos/Legends|Quinlan Vos]] {{Mo}}
+*[[Mace Windu/Legends|Mace Windu]]
+*[[Dznori Xam/Legends|Dznori Xam]] {{1st}}
+*[[Selif Xam/Legends|Selif Xam]] {{1st}}
+*[[Yanjon]] {{C|Statue only}}
+*[[Solipo Yeb]]
+*[[Yoda/Legends|Yoda]]
+*[[Fang Zar/Legends|Fang Zar]]
+*[[Zittaasabba/Legends|Zittaasabba]]
+|c-creatures=
+*[[Arthropod]]
+*[[Bantha]] {{Mo}}
+*[[Bird]]
+**[[Felucia bird]] {{1st}}
+*[[Buzzard/Canon|Buzzard]] {{1st}}
+**[[Saleucami buzzard]] {{1st}}
+*[[Eopie]]
+*[[Gelagrub]] {{1st}}
+*[[Gualaar]] {{1st}}
+*[[Insect]] {{1st}}
+**[[Beetle]] {{Del}}
+**[[Can-cell]] {{1st}}
+**[[Flea]] {{1st}}
+***[[Lava flea]] {{1st}}
+*[[Midi-chlorian]] {{Mo}}
+*[[Nos monster]] {{Del}}
+*[[Reptavian]]
+**[[Bogwing]] {{Del}}
+**[[Dactillion]] {{1st}}
+**[[Varactyl]] {{1st}}
+*[[Ruhau-whale]] {{1st}} {{C|Bones only}}
+*[[Saleucami bat]] {{1st}}
+*[[Spider]] {{1st}}
+**[[Ginntho]] {{1st}}
+|l-creatures=
+*[[Bantha/Legends|Bantha]] {{Mo}}
+*[[Beetle/Legends|Beetle]] {{Del}}
+**[[Ground beetle]] {{Del}}
+*[[Buzzard]]
+*[[Can-cell/Legends|Can-cell]]
+*[[Dactillion/Legends|Dactillion]]
+*[[Eopie/Legends|Eopie]]
+*[[Felucian bird]]
+*[[Gelagrub/Legends|Gelagrub]]
+*[[Ginntho/Legends|Ginntho]]
+*[[Gualaar/Legends|Gualaar]]
+*[[Lava flea/Legends|Lava flea]]
+*[[Nos monster/Legends|Nos monster]] {{Del}}
+*[[Ruhau-whale/Legends|Ruhau-whale]] {{C|Bones only}}
+*[[Varactyl/Legends|Varactyl]]
+|c-droids=
+*[[Astromech droid]]
+**[[Q7-series astromech droid]] {{1st}}
+**[[R-series]]
+***[[R2 series astromech droid]]
+***[[R4 astromech droid]]
+****[[R4-P Astromech]]
+*[[Battle droid]]
+**[[B-series battle droid]]
+***[[B1-series battle droid]]
+****[[OOM-series battle droid]]
+*****[[OOM command battle droid]]
+*****[[OOM pilot battle droid]]
+*****[[OOM-series security droid]]
+***[[B2-series super battle droid]]
+**[[Droideka]]
+***[[Q-series droideka]] {{1st}}
+**[[DSD1 dwarf spider droid]]
+**[[IG-series]]
+***[[IG-100 MagnaGuard]] {{1st}}
+**[[Octuptarra tri-droid]] {{1st}}
+**[[OG-9 homing spider droid]]
+*[[Cam droid]]
+**[[Senate hovercam droid]]
+*[[Directional droid]] {{1st}}
+*[[Droid tank]]
+**[[LM-432 crab droid]] {{1st}}
+**[[NR-N99 Persuader-class droid enforcer|NR-N99 ''Persuader''-class droid enforcer]] {{1st}}
+*[[Droid tri-fighter]] {{1st}}
+*[[HMP droid gunship]] {{1st}}
+*[[IW-37 pincer loader droid]] {{1st}}
+{{!}}
+*[[Labor droid]]
+**[[CLL-M2 binary loadlifter]] {{1st}}
+**[[Short-Range Transport droid]]
+*[[Medical droid]]
+**[[2-1B-series medical droid]]
+**[[DD-13 medical assistant droid]] {{1st}}
+**[[FX-series medical assistant droid]]
+***[[FX-9 surgical assistant]] {{1st}}
+**[[GH-7 series medical assistance droid|GH-7 medical droid]] {{1st}}
+**[[Midwife droid]] {{1st}}
+***[[Chroon-Tan B-Machine]] {{1st}}
+*[[Mining droid]]
+**[[DLC-13 mining droid]] {{1st}}
+**[[Electrorefining droid]] {{1st}}
+**[[Ore extraction droid]] {{1st}}
+*[[Pick-up droid]]
+*[[Pilot droid]]
+**[[FA-4 pilot droid]]
+*[[Pistoeka sabotage droid]] {{1st}}
+*[[Probe droid]]
+**[[Prowler 1000 seeker droid]] {{1st}}
+*[[Protocol droid]]
+**[[3PO-series protocol droid]]
+*[[Repair droid]]
+**[[MSE series]]
+***[[MSE-6 series repair droid]]
+*[[Secretary droid]]
+**[[BD-3000 luxury droid]] {{1st}}
+*[[Security droid]]
+*[[Variable Geometry Self-Propelled Battle Droid, Mark I]]
+|l-droids=
+*[[Astromech droid/Legends|Astromech droid]]
+**[[Q7-series astromech droid/Legends|Q7-series astromech droid]]
+**[[R2-series astromech droid]]
+**[[R4-series agromech droid]]
+***[[R4-P]]
+*[[Battle droid/Legends|Battle droid]]
+**[[B1-Series battle droid]]
+**[[B2 super battle droid/Legends|B2 super battle droid]]
+**[[Droid tri-fighter/Legends|Droid tri-fighter]]
+**[[DSD1 dwarf spider droid/Legends|DSD1 dwarf spider droid]]
+**[[HMP droid gunship/Legends|HMP droid gunship]]
+**[[IG-100 MagnaGuard/Legends|IG-100 MagnaGuard]]
+**[[LM-432 crab droid/Legends|LM-432 crab droid]]
+**[[NR-N99 Persuader-class droid enforcer/Legends|NR-N99 ''Persuader''-class droid enforcer]]
+**[[Octuptarra combat tri-droid]]
+**[[Octuptarra magna tri-droid]]
+**[[OG-9 homing spider droid/Legends|OG-9 homing spider droid]]
+**[[OOM command battle droid/Legends|OOM command battle droid]]
+**[[OOM pilot battle droid/Legends|OOM pilot battle droid]]
+**[[OOM security battle droid]]
+**[[Q-series droideka/Legends|Q-series droideka]]
+**[[Variable Geometry Self-Propelled Battle Droid, Mark I/Legends|Variable Geometry Self-Propelled Battle Droid, Mark I]]
+*[[BD-3000 luxury droid/Legends|BD-3000 luxury droid]]
+*[[FA-4 pilot droid/Legends|FA-4 pilot droid]]
+*[[FA-5 valet droid/Legends|FA-5 valet droid]]
+{{!}}
+*[[Labor droid/Legends|Labor droid]]
+**[[CLL-M2 ordnance lifter]]
+**[[HL-444 hover loader]]
+**[[IW-37 pincer loader droid/Legends|IW-37 pincer loader droid]]
+**[[MSE-4 droid]]
+**[[Mining droid/Legends|Mining droid]]
+***[[DLC-13 mining droid/Legends|DLC-13 mining droid]]
+*[[Medical droid/Legends|Medical droid]]
+**[[2-1B surgical droid]]
+**[[Chroon-Tan B-Machine/Legends|Chroon-Tan B-Machine]]
+**[[DD-13 medical assistant droid/Legends|DD-13 medical assistant droid]]
+**[[FX-6 medical assistant droid]]
+**[[GH-7 medical analysis unit]]
+*[[Pistoeka sabotage droid/Legends|Pistoeka sabotage droid]]
+*[[Protocol droid/Legends|Protocol droid]]
+**[[3PO-series protocol droid/Legends|3PO-series protocol droid]]
+*[[Prowler 1000 exploration droid]]
+*[[SRT autonomous short-range transport]]
+*[[Technical support droid]] {{1st}}
+|c-events=
+*[[Imperial Era]]
+**[[Empire Day]] {{1st}}
+**[[Duel in the Galactic Senate]] {{1st}}
+**[[Duel on Mustafar]] {{1st}}
+**[[Padmé Amidala's funeral]] {{1st}}
+**[[Proclamation of the New Order]] {{1st}}
+{{!}}
+*[[Republic Era]]
+**[[Cantham House meetings]] {{Del}}
+**[[Clone Wars]]
+***[[Battle of Coruscant]] {{1st}}
+***[[Battle of Utapau]] {{1st}}
+***[[Mission to Cato Neimoidia (Kenobi and Skywalker)|Mission to Cato Neimoidia]] {{1stm}} {{Imo}}
+***[[Mission to Mustafar]] {{1st}}
+***[[Outer Rim Sieges]] {{1st}}
+****[[Battle of Felucia (Outer Rim Sieges)|Battle of Felucia]] {{1st}}
+****[[Battle of Kashyyyk]] {{1st}}
+****[[Mygeeto Campaign]] {{1st}}
+*****[[Fourth Battle of Mygeeto]] {{1st}}
+****[[Siege of Saleucami]] {{1stm}}
+**[[Great Jedi Purge]] {{1st}}
+***[[Infiltration of the Jedi Temple]] {{1st}}
+***[[Siege of the Jedi Temple]] {{1st}}
+***[[Duel in Palpatine's office]] {{1st}}
+**[[Mission to rescue Shmi Skywalker Lars]] {{Imo}}
+**[[Occupation of Utapau]] {{1st}}
+|l-events=
+*[[Clone Wars/Legends|Clone Wars]]
+**[[Battle of Coruscant/Legends|Battle of Coruscant]]
+**[[Battle of Kashyyyk/Legends|Battle of Kashyyyk]]
+**[[Outer Rim Sieges/Legends|Outer Rim Sieges]]
+***[[Battle of Boz Pity (Clone Wars)|Battle of Boz Pity]] {{Imo}}
+***[[Battle of Felucia (Outer Rim Sieges)/Legends|Battle of Felucia]]
+***[[Battle of Mygeeto]]
+***[[Battle of Utapau/Legends|Battle of Utapau]]
+***[[Siege of Saleucami/Legends|Siege of Saleucami]]
+**[[Battle of Cato Neimoidia/Legends|Battle of Cato Neimoidia]] {{Mo}}
+**[[Hunt for Darth Sidious]] {{1stm}}
+**[[Mission to Mustafar/Legends|Mission to Mustafar]]
+**[[Mission to Utapau (Clone Intelligence)|Mission to Utapau]]
+**[[Battle of Cato Neimoidia (Order 66)|Battle of Cato Neimoidia]]
+{{!}}
+*[[Great Jedi Purge/Legends|Great Jedi Purge]]
+**[[Showdown on Coruscant]]
+**[[Order 66/Legends|Order 66]]
+**[[Operation: Knightfall]]
+**[[Infiltration of the Jedi Temple/Legends|Infiltration of the Jedi Temple]]
+**[[Duel on Mustafar/Legends|Duel on Mustafar]]
+**[[Skirmish in the Senate|Duel in the Senate]]
+|c-locations=
+*[[Colonies]] {{1st}}
+**[[Quellor sector]] {{1st}}
+***[[Cato Neimoidia system]] {{1st}}
+****[[Cato Neimoidia]] {{1st}}
+*****[[Tarko-se]] {{1st}}
+*[[Core Worlds]]
+**[[Alderaan sector]]
+***[[Alderaan system]]
+****[[Alderaan]]
+*****[[Unidentified region]] {{1st}}
+******[[Aldera]] {{1st}}
+*******[[Royal Palace of Alderaan]] {{1st}}
+****[[Alderaan's sun]] {{1st}}
+**[[Corusca sector]]
+***[[Coruscant subsector]]
+****[[Coruscant system]]
+*****[[Coruscant]]
+******[[Imperial City]]
+*******[[Cantham House]] {{Del}}
+*******[[Coruscant cruiser staging area]] {{1st}}
+*******[[Federal District]]
+********[[Imperial Palace|Jedi Temple]]
+*********[[Council Towers]]
+**********[[High Council Tower]]
+***********[[Jedi Council Chamber]]
+**********[[Reassignment Council Tower]]
+**********[[Tower of First Knowledge]]
+**********[[Tower of Reconciliation]]
+*********[[Jedi Archives]]
+*********[[Jedi Temple central security station]] {{1st}}
+*********[[Jedi Temple communication center]] {{1st}}
+*********[[Processional Way]] {{1st}}
+*********[[Temple Spire]]
+*********[[Yoda's quarters]]
+********[[Senate apartment complex]]
+*********[[Padmé's Apartment]]
+********[[Imperial Executive Building|Senate Office Building]]
+*********[[Emperor's office|Chancellor's office]]
+********[[Imperial Plaza|Senate Plaza]]
+*********[[Avenue of the Core Founders]]
+*********[[Galactic Senate Building]]
+**********[[Galactic Senate Chamber]]
+***********[[Chancellor's podium]]
+**********[[Chancellery Secretariat]] {{1st}}
+***********[[Chancellor's working office]] {{1st}}
+************[[Chancellor's podium]]
+*******[[Grand Republic Medical Facility]] {{1st}}
+*******[[Uscru District]]
+********[[Galaxies Opera House]] {{1st}}
+*****[[Coruscant Prime]]
+{{!}}
+*[[Foundry of the Confederacy]] {{1st}}
+*[[Mid Rim Territories]]
+**[[Boz Pity]] {{1stm}}
+**[[Chommell sector]]
+***[[Naboo system]]
+****[[Naboo]]
+*****[[Lake Country]] {{Mo}}
+*****[[Theed]]
+******[[Great Hall (Naboo)|Great Hall]]
+**[[Mytaranor sector]] {{1st}}
+***[[Kashyyyk system]] {{1st}}
+****[[Kashyyyk]] {{1st}}
+*****[[Wartaki Sea]] {{1st}}
+*****[[Wawaatt Archipelago]] {{1st}}
+******[[Kachirho]] {{1st}}
+*******[[Tree Kachirho]] {{1st}}
+*******[[Tree Vikkilynn]] {{1st}}
+*[[Outer Rim Territories]]
+**[[Albarrio sector]] {{1st}}
+***[[Mygeeto system]] {{1st}}
+****[[Mygeeto]] {{1st}}
+**[[Arkanis sector]]
+***[[Geonosis system]]
+***[[Tatoo system]]
+****[[Tatoo I]]
+****[[Tatoo II]]
+****[[Tatooine]]
+*****[[Jundland Wastes]]
+******[[Great Chott salt flat]]
+*******[[Lars Homestead]]
+**[[Atravis sector]] {{1st}}
+***[[Mustafar system]] {{1st}}
+****[[Jestefad]] {{1st}}
+****[[Lefrani]] {{1st}}
+****[[Mustafar]] {{1st}}
+*****[[Fralideja]] {{1st}}
+*****[[Klegger Corp Mining Facility]] {{1st}}
+**[[Sluis sector]] {{Del}}
+***[[Dagobah system]] {{Del}}
+****[[Dagobah]] {{Del}}
+*****[[Dragonsnake Bog]] {{Del}}
+**[[Spice Triangle]]
+**[[Subterrel sector]] {{1st}}
+***[[Polis Massa system]] {{1st}}
+****[[Polis Massa]] {{1st}}
+*****[[Polis Massa Base]] {{1st}}
+**[[Suolriep sector]] {{1st}}
+***[[Saleucami system]] {{1st}}
+****[[Saleucami]] {{1st}}
+**[[Tarabba sector]] {{1st}}
+***[[Utapau system]] {{1st}}
+****[[Utapau]] {{1st}}
+*****[[Pau Sinkhole]] {{1st}}
+******[[Pau City]] {{1st}}
+*******[[Civic Level]] {{1st}}
+*******[[Level 10]] {{1st}}
+****[[Utapau (star)]] {{1st}}
+**[[Thanium sector]] {{1st}}
+***[[Felucia system]] {{1st}}
+****[[Felucia]] {{1st}}
+|l-locations=
+*[[Colonies/Legends|Colonies]]
+**[[Cato Neimoidia/Legends|Cato Neimoidia]]
+*[[Core Worlds/Legends|Core Worlds]]
+**[[Alderaan sector/Legends|Alderaan sector]]
+***[[Alderaan system/Legends|Alderaan system]]
+****[[Alderaan/Legends|Alderaan]]
+*****[[Triplehorn mountains]]
+*****[[Aldera/Legends|Aldera]]
+******[[Aldera Royal Palace]]
+**[[Coruscant sector]]
+***[[Coruscant system/Legends|Coruscant system]]
+****[[Coruscant/Legends|Coruscant]]
+*****[[Galactic City]]
+******[[Senate District]]
+*******[[Ambassadorial Sector]]
+********[[500 Republica/Legends|''500 Republica'']]
+*********[[Senate Apartment Complex]]
+*******[[Senate Plaza]]
+*******[[Senate Building]]
+********[[Grand Convocation Chamber]]
+*********[[Chancellor's Podium]]
+********[[Chancellery Secretariat/Legends|Chancellery Secretariat]] {{1st}}
+*********[[Galactic Senate Chamber Holding Office]] {{1st}}
+**********Chancellor's Podium
+******[[Temple district]]
+*******[[Jedi Temple]]
+******[[Uscru Entertainment District/Legends|Uscru Entertainment District]]
+*******[[Galaxies Opera House/Legends|Galaxies Opera House]]
+*[[Mid Rim]]
+**[[Boz Pity/Legends|Boz Pity]] {{Mo}}
+**[[Mytaranor sector/Legends|Mytaranor sector]]
+***[[Kashyyyk system/Legends|Kashyyyk system]]
+****[[Kashyyyk/Legends|Kashyyyk]]
+*****[[Wawaatt Archipelago/Legends|Wawaatt Archipelago]]
+******[[Kachirho/Legends|Kachirho]]
+**[[Chommell sector/Legends|Chommell sector]]
+***[[Naboo system/Legends|Naboo system]]
+****[[Naboo/Legends|Naboo]]
+*****[[Theed/Legends|Theed]]
+{{!}}
+*[[Outer Rim Territories/Legends|Outer Rim Territories]]
+**[[Felucia system/Legends|Felucia system]]
+***[[Felucia/Legends|Felucia]]
+**[[Mustafar system/Legends|Mustafar system]]
+***[[Jestefad/Legends|Jestefad]]
+***[[Mustafar/Legends|Mustafar]]
+****[[Fralideja/Legends|Fralideja]]
+****[[Klegger Corp Mining Facility/Legends|Klegger Corp Mining Facility]]
+*****[[Separatist Council Conference Room/Legends|Separatist Council Conference Room]]
+*****[[Separatist Council War Room]]
+**[[Mygeeto system/Legends|Mygeeto system]]
+***[[Mygeeto/Legends|Mygeeto]]
+****[[Unidentified Mygeeto city]]
+**[[Saleucami system/Legends|Saleucami system]]
+***[[Saleucami/Legends|Saleucami]]
+**[[Sluis sector/Legends|Sluis sector]]
+***[[Dagobah system/Legends|Dagobah system]]
+****[[Dagobah/Legends|Dagobah]] {{Del}}
+**[[Arkanis sector/Legends|Arkanis sector]]
+***[[Tatoo system/Legends|Tatoo system]]
+****[[Tatooine/Legends|Tatooine]]
+*****[[Lars homestead]]
+**[[Tarabba sector/Legends|Tarabba sector]]
+***[[Utapau system/Legends|Utapau system]]
+****[[Utapau/Legends|Utapau]]
+*****[[Pau City/Legends|Pau City]]
+*[[Wild Space/Legends|Wild Space]]
+**[[Subterrel sector/Legends|Subterrel sector]]
+***[[Polis Massa system/Legends|Polis Massa system]]
+****[[Polis Massa/Legends|Polis Massa]]
+*****[[Polis Massa Research Base]]
+******[[Polis Massan medical facility]]
+|c-organizations=
+*[[Administrator]]
+*[[Baron]] {{1st}}
+*[[Beru Whitesun's family]]
+*[[Chief Petty Officer]] {{Del}}
+*[[Con artist]]
+*[[Confederacy of Independent Systems]]
+**[[Archduke]]
+**[[Commerce Guild]]
+***[[Presidente]]
+**[[Confederacy military]]
+***[[Confederacy of Independent Systems Navy]]
+***[[Separatist Droid Army]]
+****[[Supreme Martial Commander of the Separatist Droid Armies]]
+****[[Army infantry corps]]
+**[[Corporate Alliance]]
+***[[Magistrate]]
+**[[Count]]
+**[[Executive Separatist Council]]
+**[[General]]
+**[[Head of State]]
+**[[InterGalactic Banking Clan]]
+***[[Chairman]]
+***[[Muunilinst Banking Clan]]
+**[[Techno Union]]
+***[[Foreman]]
+**[[Trade Federation]]
+***[[Neimoidian Royal Guard]] {{1st}}
+***[[Viceroy]]
+***[[Viceroy of the Trade Federation]]
+*[[Galactic Empire]]
+**[[Emperor's Royal Guard]]
+**[[Galactic Emperor]]
+**[[Imperial Military]]
+***[[Imperial Army]]
+****[[Stormtrooper Corps]]
+*****[[Coruscant Guard]] {{1st}}
+******[[Galactic Senate Building detachment]] {{1st}}
+*******[[Thire's squad]] {{1st}}
+******[[Imperial shock trooper]] {{1st}}
+*****[[Stormtrooper]]
+***[[Imperial Navy]]
+****[[Imperial Navy's officer corps]]
+**[[Imperial Officer Corps]]
+***[[Imperial officer]]
+**[[Imperial Senate]] {{1st}}
+***[[Senator]]
+*[[Four Sages of Dwartii]] {{C|Statue only}}
+**[[Philosopher]] {{C|Statue only}}
+{{!}}
+*[[Galactic Republic]]
+**[[Coruscant Rescue Ops]] {{1st}}
+***[[Fire Team Three]] {{1st}}
+**[[Galactic Senate]]
+***[[Delegation of 2,000]] {{Del}}
+***[[Junior Representative]]
+***[[Loyalist]]
+***[[Loyalist Committee]]
+****[[Alderaanian delegation]]
+****[[Mon Calamari faction]]
+****[[Naboo delegation]]
+***[[Senate Guard]]
+**[[Office of the Chancellor]]
+***[[Supreme Chancellor]]
+***[[Vice Chair]]
+**[[Republic Military]]
+***[[Grand Army of the Republic]]
+****[[4th Sector Army]] {{1st}}
+*****[[21st Nova Corps]] {{1st}}
+******[[Ki-Adi-Mundi's squad]] {{1st}}
+****[[7th Sky Corps]] {{1st}}
+*****[[212th Attack Battalion]] {{1st}}
+******[[2nd Airborne Company]] {{1st}}
+*****[[Red unit]] {{1stm}}
+****[[9th Assault Corps]] {{1st}}
+*****[[41st Elite Corps]] {{1st}}
+******[[41st Scout Battalion]] {{1st}}
+*******[[Red Company]] {{1st}}
+*******[[Unidentified company]] {{1st}}
+****[[91st Mobile Reconnaissance Corps]] {{1st}}
+****[[327th Star Corps]] {{1st}}
+****[[501st Legion]]
+****[[Clone Intelligence]] {{1stm}}
+****[[Clone trooper]]
+*****[[Advanced Recon Force Scout Trooper]] {{1st}}
+*****[[Biker Advanced Recon Commando]] {{1st}}
+*****[[Clone trooper officer]]
+******[[Clone Captain]]
+******[[Clone Commander]]
+*******[[Clone Marshal Commander]] {{1st}}
+******[[Clone Lieutenant]]
+******[[Clone Sergeant]]
+*****[[Clone paratrooper]] {{1st}}
+*****[[Clone scout trooper]] {{1st}}
+****[[Jedi General]]
+****[[Quinlan Vos's unit]] {{1stm}} {{Imo}}
+****[[Ranger Corps]] {{1st}}
+***[[Galactic Republic Navy]]
+****[[Open Circle Fleet]] {{1st}}
+*****[[Obi-Wan's fleet]] {{1st}}
+******[[Clone Flight Squad Seven]] {{1st}}
+****[[Republic Starfighter Corps]] {{1st}}
+*****[[Clone trooper pilot]]
+*****[[Red Leader]]
+***[[Wookiee Army]] {{1st}}
+****[[Kachirho Wookiee Militia]] {{1st}}
+****[[Wookiee warrior]] {{1st}}
+**[[Republic courts]] {{Mo}}
+{{!}}
+*[[Governor]]
+*[[Grievous's family]] {{1st}}
+*[[Handmaiden]]
+*[[HoloNet]] {{C|Cut}}
+*[[House of Organa]]
+**[[First Chairman]]
+**[[Alderaanian monarchy|Queen of Alderaan]] {{1st}}
+*[[House Serenno]]
+**[[Count]]
+***[[Count of Serenno]]
+*[[Jedi]]
+**[[Jedi Order]]
+***[[Battlemaster]] {{1st}} {{Hologram}}
+***[[Chief of Security]] {{Hologram}}
+***[[Consular Jedi]]
+***[[Four Masters]] {{1st}} {{C|Statues only}}
+***[[Grand Master]]
+***[[Jedi High Council]]
+***[[Jedi Knight]]
+***[[Jedi Master]]
+***[[Jedi Initiate|Jedi youngling]]
+***[[Padawan]]
+*[[Jedi hunter]] {{1st}}
+*[[Merchant]]
+*[[Mon Mothma's family]]
+*[[Naberrie family]]
+*[[Papanoidas]] {{1st}}
+*[[Police officer]]
+*[[Queen]]
+*[[Royal House of Naboo]]
+**[[Governor of Naboo]]
+**[[Monarch of Naboo]]
+**[[Naboo Royal Handmaidens]]
+*[[Royal Naboo Security Forces]]
+**[[Naboo Palace Guard]]
+*[[Sith]]
+**[[Dark Lord of the Sith]]
+**[[Darth]]
+**[[Sith apprentice]]
+**[[Sith Lord]]
+**[[Sith Master]]
+**[[Sith Empire]] {{1stm}} {{Imo}}
+*[[Tarkin family]]
+*[[Utapaun Committee]] {{1st}}
+**[[Utapaun Security Forces|Pau'an military]] {{1st}}
+***[[Pau'an Warrior]] {{1st}}
+**[[Port Administrator]] {{1st}}
+*[[Utapau Skyforce]] {{1st}}
+|l-organizations=
+*[[Baron/Legends|Baron]]
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]
+**[[Commerce Guild/Legends|Commerce Guild]]
+**[[Corporate Alliance/Legends|Corporate Alliance]]
+**[[Count of Serenno/Legends|Count of Serenno]]
+**[[InterGalactic Banking Clan/Legends|InterGalactic Banking Clan]]
+**[[Separatist Droid Army/Legends|Separatist Droid Army]]
+***[[Supreme Commander of the Droid Armies]]
+**[[Separatist Council]]
+**[[Techno Union/Legends|Techno Union]]
+***[[Foreman/Legends|Foreman]]
+**[[Trade Federation of Planets|Trade Federation]]
+***[[Settlement Officer/Legends|Settlement Officer]]
+***[[Trade Federation Viceroy]]
+*[[Duke/Legends|Duke]]
+*[[Fire Team Three/Legends|Fire Team Three]]
+{{!}}
+*[[Galactic Empire/Legends|Galactic Empire]]
+**[[Galactic Emperor/Legends|Galactic Emperor]]
+**[[Imperial Army/Legends|Imperial Army]]
+***[[Stormtrooper/Legends|Stormtrooper]]
+**[[Imperial Navy/Legends|Imperial Navy]]
+**[[Imperial Senate/Legends|Imperial Senate]]
+*[[Galactic Republic/Legends|Galactic Republic]]
+**[[Coruscant Rescue Ops/Legends|Coruscant Rescue Ops]]
+**[[Galactic Senate/Legends|Galactic Senate]]
+***[[Red Guard]]
+***[[Senate Guard/Legends|Senate Guard]]
+***[[Senator/Legends|Senator]]
+***[[Supreme Chancellor/Legends|Supreme Chancellor]]
+**[[Grand Army of the Republic/Legends|Grand Army of the Republic]]
+***[[Clone trooper/Legends|Clone trooper]]
+****[[41st Stormtrooper Legion|41st Elite Corps]]
+****[[91st Mobile Reconnaissance Corps/Legends|91st Mobile Reconnaissance Corps]]
+****[[212th Attack Battalion/Legends|212th Attack Battalion]]
+****[[501st Legion/Legends|501st Legion]]
+****[[Clone trooper commander]]
+****[[Clone trooper pilot/Legends|Clone trooper pilot]]
+**[[Republic Navy]]
+{{!}}
+*[[HoloNet/Legends|HoloNet]] {{C|Cut}}
+*[[Jedi Order/Legends|Jedi Order]]
+**[[Grand Master/Legends|Grand Master]]
+**[[Jedi High Council/Legends|Jedi High Council]]
+**[[Jedi Knight/Legends|Jedi Knight]]
+**[[Jedi Master/Legends|Jedi Master]]
+**[[Padawan/Legends|Padawan]]
+**[[Youngling/Legends|Youngling]]
+*[[Merumeru's volunteer soldiers]]
+*[[Open Circle Fleet/Legends|Open Circle Fleet]]
+*[[Order of the Sith Lords]]
+**[[Dark Lord of the Sith/Legends|Dark Lord of the Sith]]
+*[[Sith apprentice/Legends|Sith apprentice]]
+*[[Sith Empire/Legends|Sith Empire]] {{Imo}}
+|c-species=
+*[[Aleena]]
+*[[Anx]]
+*[[Aqualish]]
+**[[Ualaq]]
+*[[Arcona]] {{Hologram}}
+*[[Bith]]
+*[[Cerean]]
+*[[Chagrian]]
+*[[Dug]]
+*[[Geonosian]]
+*[[Gossam]]
+*[[Gran]]
+*[[Gungan]]
+**[[Ankura]]
+**[[Otolla]]
+*[[Human]]
+**[[Alderaanian]]
+**[[Chandrilan]]
+**[[Cloning|Clone]]
+**[[Corellian]]
+**[[Cyborg]]
+**[[Naboo (people)|Naboo]]
+**[[Serennian]]
+*[[Iktotchi]]
+*[[Ishi Tib]]
+*[[Kaleesh]] {{1st}}
+*[[Kallidahin]]
+*[[Kel Dor]]
+*[[Koorivar]]
+{{!}}
+*[[Mirialan]]
+*[[Mon Calamari]]
+*[[Mustafarian]] {{1st}}
+**[[Northern Mustafarian]] {{1st}}
+**[[Southern Mustafarian]] {{1st}}
+*[[Muun]]
+*[[Nautolan]]
+*[[Neimoidian]]
+*[[Nikto]]
+**[[Kadas'sa'Nikto]]
+**[[Kajain'sa'Nikto]]
+*[[Ongree]]
+*[[Pacithhip]]
+*[[Pantoran]] {{1st}}
+*[[Pau'an]] {{1st}}
+*[[Quarren]]
+*[[Rodian]]
+*[[Skakoan]]
+*[[Sullustan]]
+*[[Swokes Swokes]]
+*[[Sy Myrthian]]
+*[[Tarnab]]
+*[[Theelin]]
+*[[Tholothian]]
+*[[Togruta]]
+*[[Tusken Raider]] {{Mo}}
+*[[Twi'lek]]
+*[[Utai]] {{1st}}
+*[[Umbaran]]
+*[[Vurk]]
+*[[Wookiee]]
+*[[Zabrak]]
+**[[Iridonian]]
+|l-species=
+*[[Aleena/Legends|Aleena]]
+*[[Anx/Legends|Anx]]
+*[[Aqualish/Legends|Aqualish]]
+*[[Bith/Legends|Bith]]
+*[[Cerean/Legends|Cerean]]
+*[[Chagrian/Legends|Chagrian]]
+*[[Dug/Legends|Dug]]
+*[[Geonosian/Legends|Geonosian]]
+*[[Gossam/Legends|Gossam]]
+*[[Gran/Legends|Gran]]
+*[[Gungan/Legends|Gungan]]
+*[[Human/Legends|Human]]
+*[[Iktotchi/Legends|Iktotchi]]
+*[[Ishi Tib/Legends|Ishi Tib]]
+*[[Kaleesh/Legends|Kaleesh]]
+*[[Kallidahin/Legends|Kallidahin]]
+*[[Kel Dor/Legends|Kel Dor]]
+{{!}}
+*[[Koorivar/Legends|Koorivar]]
+*[[Korun/Legends|Korun]]
+*[[Lurmen/Legends|Lurmen]] {{C|Cut}}
+*[[Mon Calamari/Legends|Mon Calamari]]
+*[[Muun/Legends|Muun]]
+*[[Mustafarian/Legends|Mustafarian]]
+*[[Nautolan/Legends|Nautolan]]
+*[[Neimoidian/Legends|Neimoidian]]
+*[[Nikto/Legends|Nikto]]
+*[[Ongree/Legends|Ongree]]
+*[[Pacithhip/Legends|Pacithhip]]
+*[[Pantoran/Legends|Pantoran]]
+*[[Pau'an/Legends|Pau'an]]
+*[[Rodian/Legends|Rodian]]
+*[[Quarren/Legends|Quarren]]
+*[[Unidentified Sarrish species]]
+*[[Shi'ido]]
+{{!}}
+*[[Skakoan/Legends|Skakoan]]
+*[[Sullustan/Legends|Sullustan]]
+*[[Swokes Swokes/Legends|Swokes Swokes]]
+*[[Sy Myrthian/Legends|Sy Myrthian]]
+*[[Theelin/Legends|Theelin]]
+*[[Togruta/Legends|Togruta]]
+*[[Twi'lek/Legends|Twi'lek]]
+*[[Umbaran/Legends|Umbaran]]
+*[[Yoda's species/Legends|Yoda's species]]
+*[[Utai/Legends|Utai]]
+*[[Vurk/Legends|Vurk]]
+*[[Weequay/Legends|Weequay]]
+*[[Wookiee/Legends|Wookiee]]
+*[[Zabrak/Legends|Zabrak]]
+*[[Zeuol]]
+|c-vehicles=
+*[[Escape pod]]
+**[[Wookiee escape pod]] {{1st}}
+*[[F-143 emergency speeder]] {{1st}}
+*[[Medical capsule]] {{1st}}
+*[[Oevvaor Jet Catamaran]] {{1st}}
+*[[Raddaugh Gnasp fluttercraft|''Raddaugh Gnasp'' fluttercraft]] {{1st}}
+*[[Repulsorcraft]]
+**[[Armored Assault Tank Mk I|Armored Assault Tank]]
+**[[Multi-Troop Transport]]
+**[[Speeder]]
+***[[Airspeeder]]
+****[[EasyRide passenger airspeeder]]
+**[[Infantry Support Platform]] {{1st}}
+**[[UT-AT]] {{1st}}
+**[[Util-313]] {{1st}}
+*[[Skiff]]
+**[[J-type Naboo star skiff]] {{1st}}
+**[[Lava skiff]] {{1st}}
+*[[Space station]]
+**[[Battle station]]
+***[[Death Star]]
+****[[DS-1 Death Star Mobile Battle Station]]
+*[[Starship]]
+**[[Capital ship]]
+***[[Dreadnought]]
+****[[Providence-class Dreadnought|''Providence''-class Dreadnought]] {{1st}}
+*****''[[Invisible Hand]]'' {{1st}}
+******[[31174]] {{1st}}
+******[[Hallway 328]] {{1st}}
+*******[[3224]] {{1st}}
+******[[Wizard's Tower]] {{1st}}
+***[[Star Destroyer]]
+****[[Venator-class Star Destroyer|''Venator''-class Star Destroyer]] {{1st}}
+*****[[Guarlara (Venator-class)|''Guarlara'']] {{1st}}
+*****[[Unidentified Venator-class Star Destroyer (Death Star)|Unidentified ''Venator''-class Star Destroyer (Death Star)]] {{1st}}
+*****[[Vigilance (Venator-class)|''Vigilance'']] {{1st}}
+**[[Cruiser]]
+***[[CR70 corvette]] {{1st}}
+****''[[Tantive III]]'' {{1st}}
+**[[Destroyer]]
+***[[Recusant-class light destroyer|''Recusant''-class light destroyer]] {{1st}}
+**[[Dropship]]
+***[[High-Altitude Entry Transport-221]] {{1st}}
+**[[Frigate]]
+***[[Munificent-class star frigate|''Munificent''-class star frigate]] {{1st}}
+**[[Gunship]]
+***[[Low Altitude Assault Transport/infantry]]
+**[[Lucrehulk-class LH-3210 cargo freighter|''Lucrehulk''-class freighter]]
+***[[Lucrehulk-class Battleship|''Lucrehulk''-class Battleship]]
+****[[Core ship]]
+*****[[Unidentified core ship]] {{1st}}
+****''[[Profusion]]'' {{1st}}
+**[[Shuttle]]
+***[[Sheathipede-class transport shuttle|''Sheathipede''-class transport shuttle]]
+****[[Unidentified Sheathipede-class transport shuttle (Grievous)|Unidentified ''Sheathipede''-class transport shuttle]] {{1st}}
+***[[Theta-class T-2c shuttle|''Theta''-class T-2c shuttle]] {{1st}}
+**[[Starfighter]]
+***[[Aggressive ReConnaissance-170 starfighter]] {{1st}}
+***[[Alpha-3 Nimbus-class V-wing starfighter|Alpha-3 ''Nimbus''-class V-wing starfighter]] {{1st}}
+***[[Belbullab-22 heavy starfighter]]
+****''[[Soulless One]]''
+***[[Delta-7 Aethersprite-class light interceptor|Delta-7 ''Aethersprite''-class light interceptor]]
+****[[Plo Koon's Delta-7 Aethersprite-class light interceptor|Plo Koon's Delta-7 ''Aethersprite''-class light interceptor]] {{1st}}
+***[[Eta-2 Actis-class light interceptor|Eta-2 ''Actis''-class light interceptor]] {{1st}}
+****[[Anakin Skywalker's Eta-2 Actis-class light interceptor|Anakin Skywalker's Eta-2 ''Actis''-class light interceptor]] {{1st}}
+****[[Darth Vader's green Eta-2 Actis-class light interceptor|Darth Vader's green Eta-2 ''Actis''-class light interceptor]] {{1st}}
+****[[Obi-Wan Kenobi's Eta-2 Actis-class light interceptor|Obi-Wan Kenobi's Eta-2 ''Actis''-class light interceptor]] {{1st}}
+****[[Obi-Wan Kenobi's blue Eta-2 Actis-class light interceptor|Obi-Wan Kenobi's blue Eta-2 ''Actis''-class light interceptor]] {{1st}}
+***[[Mankvim-814 interceptor]] {{1st}}
+***[[N-1 starfighter]]
+***[[Rogue-class Porax-38 starfighter|''Rogue''-class Porax-38 starfighter]] {{1st}}
+**[[Troop transport]]
+***[[Troop carrier]]
+****[[Platoon Attack Craft]]
+*[[Tank (vehicle)|Tank]]
+**[[HAVw A6 Juggernaut]] {{1st}}
+*[[Walker]]
+**[[All-terrain vehicle]]
+***[[All Terrain Attack Pod]] {{1st}}
+***[[All Terrain Open Transport]] {{1st}}
+***[[All Terrain Reconnaissance Transport]] {{1st}}
+***[[All Terrain Tactical Enforcer]]
+|l-vehicles=
+*[[Repulsorcraft/Legends|Repulsorcraft]]
+**[[Airbus/Legends|Airbus]]
+***[[Jedi shuttlebus]]
+**[[Airspeeder/Legends|Airspeeder]]
+***[[DC0052 speeder]]
+***[[EasyRide passenger airspeeder/Legends|EasyRide passenger airspeeder]]
+***[[Emergency firespeeder]]
+***[[Rian-327 airspeeder]]
+***[[XJ-2 airspeeder]]
+**[[Speeder bike/Legends|Speeder bike]]
+**[[74-Z speeder bike/Legends|74-Z speeder bike]]
+**[[BARC speeder/Legends|BARC speeder]]
+*[[Skiff/Legends|Skiff]]
+**[[J-type star skiff]]
+**[[Lava Skiff]] {{1st}}
+*[[Starship/Legends|Starship]]
+**[[CR70 corvette/Legends|CR70 corvette]]
+**''[[Sundered Heart]]''
+**[[Escape pod/Legends|Escape pod]]
+***[[E3-standard starship lifeboat/Legends|E3-standard starship lifeboat]]
+***[[Homemade evacuation pod]]
+**[[Lucrehulk-class battleship|''Lucrehulk''-class battleship]]
+**[[Core ship]]
+***''[[Unlimited Projection]]''
+**[[Munificent-class star frigate/Legends|''Munificent''-class star frigate]]
+**[[Destroyer/Legends|Destroyer]]
+***[[Providence-class carrier/destroyer|''Providence''-class carrier/destroyer]]
+****[[Invisible Hand/Legends|''Invisible Hand'']]
+*****[[Bay One]]
+*****[[3224/Legends|3224]]
+*****[[31174/Legends|31174]]
+*****[[Hallway 328/Legends|Hallway 328]]
+*****[[Wizard's Tower/Legends|Wizard's Tower]]
+**[[Recusant-class light destroyer/Legends|''Recusant''-class light destroyer]]
+**[[Shuttle/Legends|Shuttle]]
+***[[Sheathipede-class transport shuttle/Legends|''Sheathipede''-class transport shuttle]]
+***[[Theta-class T-2c shuttle/Legends|''Theta''-class T-2c shuttle]]
+**[[Star Destroyer/Legends|Star Destroyer]]
+***[[Venator-class Star Destroyer/Legends|''Venator''-class Star Destroyer]]
+****[[Guarlara (Venator-class)/Legends|''Guarlara'']]
+****[[Vigilance (Venator-class)/Legends|''Vigilance'']]
+**[[Freighter/Legends|Freighter]]
+***[[Light freighter/Legends|Light freighter]]
+****[[YT-1300 light freighter/Legends|YT-1300 light freighter]]
+*****[[Millennium Falcon/Legends|''Millennium Falcon'']]
+**[[Starfighter/Legends|Starfighter]]
+***[[Aggressive ReConnaissance-170 starfighter/Legends|Aggressive ReConnaissance-170 starfighter]]
+***[[Alpha-3 Nimbus-class V-wing starfighter/Legends|Alpha-3 ''Nimbus''-class V-wing starfighter]]
+**[[Belbullab-22 starfighter]]
+***[[Soulless One/Legends|''Soulless One'']]
+**[[Delta-7 Aethersprite-class light interceptor/Legends|Delta-7 ''Aethersprite''-class light interceptor]]
+**[[Eta-2 Actis-class interceptor|Eta-2 ''Actis''-class interceptor]]
+**[[Mankvim-814 light interceptor]]
+**[[N-1 starfighter/Legends|N-1 starfighter]]
+**[[Porax-38 starfighter]]
+{{!}}
+*[[Walker/Legends|Walker]]
+**[[All Terrain Attack Pod/Legends|All Terrain Attack Pod]]
+**[[All Terrain Open Transport/Legends|All Terrain Open Transport]]
+**[[All Terrain Recon Transport/Legends|All Terrain Recon Transport]]
+**[[All Terrain Tactical Enforcer/Legends|All Terrain Tactical Enforcer]]
+**[[Unstable Terrain Artillery Transport/Legends|Unstable Terrain Artillery Transport]]
+*[[Armored Assault Tank]]
+*[[DS-1 Orbital Battle Station/Legends|Death Star I]]
+*[[HAVw A6 Juggernaut/Legends|HAVw A6 Juggernaut]]
+*[[High-Altitude Entry Transport-221/Legends|High-Altitude Entry Transport-221]]
+*[[Infantry Support Platform/Legends|Infantry Support Platform]]
+*[[Low Altitude Assault Transport/infantry/Legends|Low Altitude Assault Transport/infantry]]
+*[[Medical capsule/Legends|Medical capsule]]
+*[[Multi-Troop Transport/Legends|Multi-Troop Transport]]
+*[[Oevvaor jet catamaran]]
+*[[Raddaugh Gnasp fluttercraft/Legends|Raddaugh Gnasp fluttercraft]]
+*[[Repulsorpod/Legends|Repulsorpod]]
+*[[Scoop skimmer/Legends|Scoop skimmer]]
+*[[Self-Propelled Heavy Artillery|Self-Propelled Heavy Artillery-Turbolaser]]
+*[[Platoon Attack Craft/Legends|Platoon Attack Craft]]
+*[[Tsmeu-6 personal wheel bike]]
+|c-technology=
+*[[Antenna]]
+**[[Integrated Comms Antenna]]
+*[[Armor]]
+**[[Clone trooper armor]]
+***[[Phase II clone trooper armor]] {{1st}}
+**[[Vader's armor]]
+*[[Blast door]]
+*[[Blaster]]
+**[[Blaster cannon]]
+***[[17kv antipersonnel twin blaster]]
+**[[Blaster pistol]]
+***[[Wookiee pistol]] {{1st}}
+**[[Blaster rifle]]
+***[[DC-15A blaster rifle]]
+***[[DC-15A blaster carbine]]
+***[[DT-57 "Annihilator" blaster]] {{1st}}
+****[[Grievance Striker]] {{1st}}
+***[[E-5 blaster rifle]]
+***[[Mustafarian blaster rifle]] {{1st}}
+***[[Senate Guard ceremonial blaster rifle]]
+**[[Target blaster]] {{1st}}
+*[[Breath mask]]
+**[[Antiox mask]]
+*[[Bowcaster]]
+**[[Chewbacca's bowcaster]]
+*[[Circular saw]]
+**[[Buzz saw]]
+*[[Code cylinder]]
+*[[Comlink]]
+**[[Hush-98 comlink]]
+*[[Comlink booster pack]]
+*[[Computer]]
+**[[Targeting computer]]
+*[[Deflector shield]]
+*[[Disruptor]]
+**[[X1 Carbine]] {{1st}}
+*[[Electro-shock prod]]
+*[[Electrostaff]]
+*[[Engine]]
+**[[Sublight engine]]
+***[[Ion engine]]
+****[[Creveld-4 radial ion drive]] {{1st}}
+*[[Force pike]]
+*[[Grappling hook]]
+*[[Headset]]
+*[[Holobook]]
+*[[Holocam]]
+*[[Homing beacon]]
+*[[Hover-stretcher]] {{1st}}
+*[[Hyperspace transport ring]]
+**[[Syliure-31 hyperspace docking ring]]
+*[[Ion cannon]]
+*[[Jedi beacon]] {{1st}}
+*[[Jetpack]]
+*[[Life support]]
+*[[Lightsaber]]
+**[[Aayla Secura's lightsaber]]
+**[[Agen Kolar's lightsaber]]
+**[[Cin Drallig's lightsaber]] {{1st}} {{Hologram}}
+**[[Ki-Adi-Mundi's lightsaber]]
+**[[Kit Fisto's lightsaber]]
+**[[Mace Windu's lightsaber]]
+**[[Obi-Wan Kenobi's third lightsaber|Obi-Wan Kenobi's lightsaber]]
+**[[Saesee Tiin's lightsaber]] {{1st}}
+**[[Shoto lightsaber]]
+***[[Yoda's lightsaber]]
+**[[Sith lightsaber]]
+***[[Curved-hilt lightsaber]]
+****[[Dooku's lightsaber]]
+***[[Darth Sidious' lightsabers]] {{1st}}
+**[[Stass Allie's lightsaber]]
+**[[Skywalker lightsaber|Skywalker's lightsaber]]
+{{!}}
+*[[Magnet]] {{1st}}
+*[[Mass-driver cannon]]
+*[[Missile]]
+**[[Discord missile]] {{1st}}
+*[[Missile launcher]]
+**[[RPC-2 Rocket Launcher]] {{1st}}
+*[[Moisture vaporator]]
+**[[GX-8 water vaporator]]
+*[[Officer's disk]]
+*[[Pressure suit]]
+*[[Quarrel]]
+*[[Reactor]]
+*[[Rebreather]]
+**[[A99 aquata breather]]
+*[[Repulsorlift]]
+*[[Repulsorpod]]
+*[[Rocket booster]]
+*[[Scomp link]]
+*[[Shield (physical armor)|Shield]] {{1st}}
+*[[Slugthrower]]
+**[[Wookiee projectile rifle]] {{1st}}
+*[[Stuncuffs]]
+*[[Superlaser]]
+*[[Turbolaser]]
+*[[Turret]]
+|l-technology=
+*[[A99 aquata breather/Legends|A99 aquata breather]]
+*[[Antiox breath mask]]
+*[[Blaster/Legends|Blaster]]
+**[[Blaster pistol/Legends|Blaster pistol]]
+**[[Target blaster/Legends|Target blaster]]
+***[[Kueget LN-21 blaster pistol/Legends|Kueget LN-21 blaster pistol]]
+*[[Stun cuffs|Binders]]
+*[[Cybernetics/Legends|Cybernetics]]
+**[[Darth Vader's armor]]
+*[[Datapad/Legends|Datapad]]
+*[[DC-15A blaster rifle/Legends|DC-15A blaster rifle]]
+*[[DC-15S]]
+*[[DC-17 hand blaster/Legends|DC-17 hand blaster]]
+*[[Deflector shield/Legends|Deflector shield]]
+*[[Discord missile/Legends|Discord missile]]
+{{!}}
+*[[Electrobinoculars/Legends|Electrobinoculars]]
+*[[Electrostaff/Legends|Electrostaff]]
+*[[Force pike/Legends|Force pike]]
+*[[Grappling hook/Legends|Grappling hook]]
+*[[Headset comlink]]
+*[[Armor/Legends|Helmet]]
+*[[Holomap]]
+*[[Holoprojector/Legends|Holoprojector]]
+*[[Hush-98 comlink/Legends|Hush-98 comlink]]
+*[[Kinetic-blast rifle]] {{1st}}
+*[[Laser cannon/Legends|Laser cannon]]
+*[[Lightsaber/Legends|Lightsaber]]
+**[[Curved-hilt lightsaber/Legends|Curved-hilt lightsaber]]
+{{!}}
+*[[Mechno-arm/Legends|Mechno-arm]]
+*[[MK II Paladin blaster rifle]]
+*[[Phase II clone trooper armor/Legends|Phase II clone trooper armor]]
+*[[Photoreceptor/Legends|Photoreceptor]]
+*[[Ray shield/Legends|Ray shield]]
+*[[Ray shield generator/Legends|Ray shield generator]]
+*[[Repulsorlift/Legends|Repulsorlift]]
+*[[Skakoan pressure suit]]
+*[[Stun cuffs]]
+*[[Sublight drive]]
+*[[Syliure-31 long-range hyperdrive module]]
+*[[Syliure-45 hyperdrive module]] {{1st}}
+*[[Transparisteel/Legends|Transparisteel]]
+*[[Turbolaser/Legends|Turbolaser]]
+|c-miscellanea=
+*[[Asteroid]]
+**[[Planetoid]] {{1st}}
+*[[Atmosphere]]
+*[[Bandolier]]
+*[[Beach]]
+*[[Binary star]]
+*[[Blanket]]
+*[[Brawl]] {{1st}}
+*[[Bronzium]]
+*[[Cane]]
+**[[Gimer stick]]
+**[[Staff of Command]]
+*[[Censer]] {{1st}}
+*[[Cerlin]]
+*[[City]]
+**[[Bridge city]] {{1st}}
+**[[Ecumenopolis]]
+*[[Clothing]]
+**[[Cape]]
+***[[Chunky cape]] {{1st}}
+**[[Cloak]]
+***[[Serennian cloak]]
+***[[Umbaran shadow cloak]]
+**[[Mantle]] {{1st}}
+**[[Padmé Amidala's wardrobe]]
+***[[Funeral gown]] {{1st}}
+**[[Republic military uniforms]] {{1st}}
+**[[Shiraya fan headdress]]
+**[[Traditional overcoat]]
+**[[Viceroy gown]] {{1st}}
+*[[Coarseweave]]
+*[[Crest of Alderaan]] {{1st}}
+*[[Crown]]
+*[[Democracy]]
+*[[Distress signal]] {{1st}}
+*[[Dream]]
+*[[Emergency Code Nine Thirteen]] {{1st}}
+*[[Entry dome]]
+*[[Eriaduan]]
+*[[Flight helmet]]
+*[[The Force]]
+**[[Chosen One]]
+**[[Dark side of the Force]]
+**[[Disturbance in the Force]]
+**[[Force power]]
+***[[Force choke]]
+***[[Force Dash]]
+***[[Force deflection]]
+***[[Force jump]]
+***[[Force lightning]]
+***[[Force vision]]
+**[[Light side of the Force]]
+**[[Netherworld of the Force]] {{1stm}}
+*[[Funeral]]
+*[[Great Plan]]
+*[[Hair]]
+*[[Hand-to-hand combat]]
+*[[Hanna pendant]]
+*[[Heart]] {{Mo}}
+*[[High Galactic]] {{Mo}} {{C|"Plan B"}}
+*[[Hybrid]]
+*[[Immortality]] {{Mo}}
+*[[Japor snippet]]
+*[[Jedi Code]] {{Mo}}
+*[[Jungle]]
+{{!}}
+*[[Language]]
+**[[Binary]]
+**[[Geonosian hive-mind]]
+**[[Rodian (language)|Rodian]]
+**[[Shyriiwook]]
+*[[Lethorn]]
+*[[Magma]] {{1st}}
+*"[[May the Force be with you]]"
+*[[Meditation]]
+*[[Memory wipe]] {{Mo}}
+*[[Militia]] {{1st}}
+*[[Mon Calamari Aquatic Ballet]] {{1st}}
+**[[Squid Lake]] {{1st}}
+*[[Mourning bead]] {{1st}}
+*[[Music]]
+*[[Mustafarian architecture]] {{1st}}
+*[[Naval warfare]]
+*[[Nebula]]
+*[[Neck ring]]
+*[[Oil]]
+*[[Opera]] {{1st}}
+*[[Order 66]] {{1st}}
+*[[Ossic architecture]] {{1st}}
+*Pajamas
+*[[Petition of 2,000]] {{Del}}
+*[[Phrik]]
+*[[Pillow]]
+*[[Plant]]
+**[[Tree]]
+***[[Gnarltree]] {{Del}}
+***[[Wroshyr tree]] {{1st}}
+*[[Plastoid]]
+*[[Politics]]
+*[[Pourstone]]
+*[[Project Stardust]]
+*[[Purse World]] {{1st}}
+*[[Reproduction]]
+*[[Reptile]]
+*[[Republic crest]]
+*[[Separatist hex icon]]
+*[[Silk]]
+**[[Onderon silk]] {{1st}}
+**[[Shimmersilk]] {{1st}}
+***[[Tyrian shimmersilk]] {{1st}}
+**[[Shraa silk]] {{1st}}
+*[[Sith artifact]] {{1st}}
+*[[Sith Chalice]] {{1st}}
+*[[Sleep]]
+*[[Spaceport]]
+*[[Special session of Congress]] {{1stID|special session of Congress}}
+*[[Staging area]] {{1st}}
+*[[Staff]]
+**[[Speaker's staff]] {{1st}}
+**[[Tion Medon's staff]] {{1st}}
+*[[Surface warfare]]
+*[[Symbol of the Royal House of Naboo]]
+*[[Tech dome]]
+*[[Throne]]
+*[[Time]]
+**[[Standard minute]] {{Mo}}
+**[[Standard year]] {{Mo}}
+*[[Trade Federation Script]]
+*[[Tragedy of Darth Plagueis the Wise]] {{1st}}
+*[[Transparisteel]]
+*[[Unidentified bas-relief frieze]] {{1st}}
+*[[Uris silk]]
+*[[Vacuum]]
+*[[Zeyd cloth]]
+|l-miscellanea=
+*[[Binary/Legends|Binary]]
+*[[Bunk/Legends|Bunk]]
+*[[The Force/Legends|The Force]]
+**[[Dark side of the Force/Legends|Dark side of the Force]]
+***[[Force lightning/Legends|Force lightning]]
+**[[Force deflection/Legends|Force deflection]]
+**[[Telekinesis/Legends|Telekinesis]]
+***[[Telekinesis#Force Choke|Force Choke]]
+**[[Force ghost]] {{Mo}}
+*[[Galactic Basic Standard/Legends|Galactic Basic Standard]]
+*[[Great Hyperspace War Bas-Relief]]
+*[[Hair/Legends|Hair]]
+*[[Leather/Legends|Leather]]
+**[[Rancor-leather]]
+*[[Lightsaber combat/Legends|Lightsaber combat]]
+**[[Cho mai/Legends|Cho mai]]
+**[[Cho mok/Legends|Cho mok]]
+**[[Cho sun/Legends|Cho sun]]
+**[[Dun Möch/Legends|Dun Möch]]
+**[[Form I/Legends|Form I]]
+**[[Form II/Legends|Form II]]
+**[[Form III/Legends|Form III]]
+**[[Form IV/Legends|Form IV]]
+**[[Form V/Legends|Form V]]
+**[[Form VI/Legends|Form VI]]
+**[[Form VII/Legends|Form VII]]
+**[[Mou kei/Legends|Mou kei]]
+**[[Jar'Kai/Legends|Jar'Kai]]
+**[[Sai]]
+**[[Sai cha/Legends|Sai cha]]
+**[[Shiak]]
+**[[Sun djem/Legends|Sun djem]]
+*[[Opera/Legends|Opera]]
+*[[Shyriiwook/Legends|Shyriiwook]]
+*[[Spirit urn/Legends|Spirit urn]] {{1st}}
+*[[Squid Lake/Legends|Squid Lake]]
+*[[Transparisteel/Legends|Transparisteel]]
+*[[Treason/Legends|Treason]]
+*[[Wroshyr tree/Legends|Wroshyr tree]]
+}}
+
+==Sources==
+{{Scroll box|
+{{Mediacat|soundcat=Audio files from Star Wars: Episode III Revenge of the Sith|imagecat=Images from Star Wars: Episode III Revenge of the Sith}}
+*{{InsiderCite|1|Anthony Daniels: Remembering That Galaxy Far, Far Away}}
+*{{SWArchive|url=episode-iii/bts/profile/f20030204/index.html|text=Meet the Episode III Art Department|archivedate=20030614084221}}
+*{{SWArchive|url=episode-iii/bts/profile/f20031204/index.html|text=Meet the Episode III Animatics Department|archivedate=20080528021539}}
+*{{SWArchive|url=episode-iii/bts/profile/f20051212/index.html|text=Hearing is Believing: Behind the Episode III Soundtrack|archivedate=20051215044918}}
+*{{SWArchive|url=episode-iii/bts/profile/f20050105/index.html|text=Chris Neil: Coaching Vader|archivedate=20050106064923}}
+*{{SWArchive|url=episode-iii/release/video/news20050725.html|text=Nov 1: Experience Episode III on DVD and ''Star Wars'' Battlefront II|archivedate=20050728001642}}
+*{{SWArchive|url=episode-iii/bts/production/f20050526|text=Episode III Easter Egg Hunt: Ships Aplenty|archivedate=20050528233807}}
+*{{SWArchive|url=episode-iii/release/video/news20050926.html|text=Trove of Behind-the-Scenes Extras on Episode III DVD|archivedate=20051013055621}}
+*{{SWArchive|url=episode-iii/release/video/f20051006/index.html|text=Inside the DVD: ''Revenge of the Sith''|archivedate=20051013072343}}
+*{{SWArchive|url=episode-iii/release/video/beacon147.html|text=Homing Beacon #147 - Seeing Through Vader's Eyes|archivedate=20100222043523}}
+*{{SWArchive|url=episode-iii/release/video/beacon148.html|text=Homing Beacon #148 - Episode III and Battlefront II Arrive|archivedate=20061201043417}}
+*{{SWArchive|url=episode-iii/release/video/news20051031.html|text=''Revenge'' DVD Retailer Exclusives|archivedate=20080626054228}}
+*{{SWArchive|url=episode-iii/release/video/news20051102.html|text="Charlotte's" Web of Ep III DVD Intrigue|archivedate=20051107025735}}
+*{{SWArchive|url=episode-iii/release/video/news20051108.html|text=Episode III DVD and Battlefront II Shatter Records|archivedate=20051124174626}}
+*{{SWArchive|url=episode-iii/release/video/news20051110.html|text=Behind Hip Hop Yoda: Making a DVD Easter Egg|archivedate=20101110062601}}
+*{{SWYoutube|5UnjrG_N8hU|''Star Wars'': Episode III ''Revenge of the Sith'' - Trailer|archivedate=20200811042015}}
+*''[[Star Wars in 100 Scenes]]''
+*{{SWYoutube|BQ1kR64uaRI|''Star Wars'': Episode III ''Revenge of the Sith'' &ndash; Digital Movie Collection Trailer|archivedate=20200109161339}}
+*{{SW|url=news/the-star-wars-digital-movie-collection-coming-april-10|text=The ''Star Wars'' Digital Movie Collection Coming April 10}}
+*{{SW|url=series/clone-wars/destroy-malevolence-episode-guide|text="Destroy Malevolence" Episode Guide &ndash; ''The Clone Wars''}}
+*{{SW|url=news/much-to-learn-you-still-have-10-things-you-might-not-know-about-mon-calamari|text=Much to Learn You Still Have: 10 Things You Might Not Know About Mon Calamari|archivedate=20211111125734}}
+*{{SW|url=news/much-to-learn-you-still-have-7-things-you-might-not-know-about-togrutas|text=Much to Learn You Still Have: 7 Things You Might Not Know About Togrutas|archivedate=20211029101749}}
+*''[[Star Wars: The Lightsaber Collection]]''
+*{{InsiderCite|200|Star Wars: The Clone Wars: The Final Countdown|''Star Wars: The Clone Wars'': The Final Countdown}}
+*''[[Star Wars: The Skywalker Saga: The Official Collector's Edition]]''
+*{{SW|url=series/the-bad-batch/aftermath-episode-guide|text="Aftermath" Episode Guide}}
+*{{SW|url=series/the-bad-batch/cut-and-run-episode-guide|text="Cut and Run" Episode Guide}}
+*{{SW|url=series/the-bad-batch/cornered-episode-guide|text="Cornered" Episode Guide}}
+*{{SW|url=news/lego-star-wars-terrifying-tales-easter-eggs|text=20 Eerie Easter Eggs from ''LEGO Star Wars Terrifying Tales''}}
+*{{SW|url=news/obi-wan-kenobi-teaser-trailer-highlights|text=5 Highlights From the ''Obi-Wan Kenobi'' Teaser Trailer}}
+*{{SW|url=news/obi-wan-kenobi-ew|text=''Obi-Wan Kenobi'' Photos and Details Revealed}}
+*{{SW|url=news/krrsantan-star-wars-tales-1-cover|text=Marvel Unleashes the Cover for ''Krrsantan: Star Wars Tales'' #1 &ndash; Exclusive Reveal}}
+*{{SW|url=news/obi-wan-kenobi-may-27|text=''Obi-Wan Kenobi'' to Premiere May 27 with Two Episodes}}
+*{{SW|url=news/obi-wan-kenobi-trailer-highlights|text=5 Highlights from the ''Obi-Wan Kenobi'' Trailer}}
+*{{SW|url=news/clones-at-20-trisha-biggar-interview|text=''Clones'' at 20 &#124; Costume Designer Trisha Biggar Reflects on Her Most Challenging Film}}
+*{{SW|url=news/clones-at-20-hayden-christensen-interview|text=''Clones'' at 20 &#124; Hayden Christensen Looks Back at His First Steps as Anakin Skywalker}}
+*{{SW|url=news/star-wars-pride-month-covers|text=Marvel and Lucasfilm Celebrate Pride Month with Special ''Star Wars'' Covers}}
+*{{SW|url=news/obi-wan-kenobi-everything-you-need-to-know|text=Obi-101: Everything You Need to Know About Obi-Wan Kenobi}}
+*{{SW|url=news/10-obi-wan-kenobi-moments|text=10 of Obi-Wan Kenobi's Greatest Moments (So Far)}}
+*{{SWYoutube|YQ8iIp33_EY|Ewan McGregor and Hayden Christensen Take The Stage At SWCA 2022 &#124; Star Wars Celebration Live!|archivedate=20220527012839}}
+*{{SWYoutube|swclPDFHKNk|Star Wars Celebration LIVE! - DAY 1|archivedate=20220526203352}}
+*{{SW|url=news/swca-2022-20-highlights-from-lucasfilms-studio-showcase|text=SWCA 2022: 20 Highlights from Lucasfilm's Studio Showcase}}
+*{{SWYoutube|4nHTV-1gmkU|Deborah Chow Discusses Obi-Wan Kenobi and More at SWCA 2022 &#124; Star Wars Celebration LIVE!|archivedate=20220527024850}}
+*{{SW|url=news/swca-2022-lucasfilm-publishing-behind-the-page-panel|text=SWCA 2022: 7 Things We Learned from the Lucasfilm Publishing Behind the Page Panel}}
+*{{SWYoutube|jqcv2RJ83nE|Star Wars Celebration LIVE! - DAY 2|archivedate=20220527162850}}
+*{{SW|url=news/obi-wan-kenobi-is-here|text=''Obi-Wan Kenobi'' is Here!|archivedate=20220609152730}}
+*{{SWYoutube|cN3xxVrOxbM|Star Wars: Attack of the Clones 20th Anniversary Celebration &#124; Star Wars Celebration Anaheim 2022|archivedate=20220528224831}}
+*{{SW|url=news/swca-2022-attack-of-the-clones-20-panel|text=SWCA 2022: 8 Things We Learned from the ''Star Wars: Attack of the Clones'' 20th Anniversary Panel}}
+*{{SW|url=news/swca-2022-ilmxlab-panel|text=SWCA 2022: 5 Highlights from ILMxLab's Making of ''Tales from the Galaxy's Edge'' Panel|archivedate=20220528191824}}
+*{{SW|url=news/swca-2022-marvel-yoda-interview|text=SWCA 2022: Marvel's ''Star Wars: Yoda'' Miniseries Revealed}}
+*{{SWYoutube|duTUfetIdts|Go Beyond The Spires in Virtual Reality: Making of ILMxLab's Tales From The Galaxy's Edge SWCA 2022|archivedate=20220530112928}}
+*{{SW|url=news/swca-2022-marvel-comics-panel|text=SWCA 2022: 8 Things We Learned from the Marvel ''Star Wars'' Comics Panel}}
+*{{SWYoutube|d6Uz3B0_fk8|Memory Lane &#124; Obi-Wan Kenobi &#124; Disney+|archivedate=20220617044044}}
+*{{SWYoutube|fiejbrdzywk|The Cast of Obi-Wan Kenobi Talk Darth Vader, Obi-Wan's Daring Mission, and More!|archivedate=20220617111825}}
+*{{SWYoutube|sYN9mXiskBc|Looking Back on the Series &#124; Obi-Wan Kenobi &#124; Disney+|archivedate=20220630193513}}
+*{{SW|url=news/inside-the-lucasfilm-archive-obi-wan-kenobi-props-1|text=Inside the Lucasfilm Archive: An Elegant Weapon and Other Jedi Artifacts from the ''Obi-Wan Kenobi'' Limited Series}}
+*{{SW|url=news/marvel-star-wars-25-exclusive-preview|text=Lessons of the Skywalker Saga in Marvel's ''Star Wars'' #25 &ndash; Exclusive Preview}}
+*{{SW|url=series/obi-wan-kenobi/part-ii-guide|text=Obi-Wan Kenobi Part II Episode Guide}}
+*{{SW|url=series/obi-wan-kenobi/part-iii-guide|text=Obi-Wan Kenobi Part III Episode Guide}}
+*{{SW|url=series/obi-wan-kenobi/part-iv-guide|text=Obi-Wan Kenobi Part IV Episode Guide}}
+*{{SWYoutube|wZnPw3xYhjc|Marvel Star Wars #27, MothMadness, and More!|archivedate=20220901191101}}
+*{{HasbroCite|set=Star Wars: Retro Collection|pack=Reva (Third Sister)|link=products/star-wars-retro-collection-reva-third-sister|archivedate=20220530170108}}
+*{{SW|url=news/andor-launch-interview-gilroy-and-cast|text="A Potent Moment in History": Insights from Tony Gilroy and the ''Andor'' Cast}}
+*{{SW|url=news/obi-wan-kenobi-a-jedis-return-highlights|text=5 Highlights from ''Obi-Wan Kenobi: A Jedi's Return''}}
+*{{HasbroCite|set=Star Wars: The Vintage Collection|pack=Reva (Third Sister)|link=products/star-wars-the-vintage-collection-reva-third-sister|archivedate=20220530164925}}
+*{{HasbroCite|set=Star Wars: The Black Series|pack=Reva (Third Sister)|link=products/star-wars-the-black-series-reva-third-sister|archivedate=20220530163118}}
+*{{InsiderCite|213|Warren Fu: Envisaging Grievous}}
+*{{SW|url=series/andor/andor-season-1-episode-4-episode-guide|text=''Andor'' &#124; Season 1, Episode 4 &ndash; Episode Guide}}
+*{{SWYoutube|P-L5iHlenRo|Tales of the Jedi Poster Art, Mon Mothma Arrives in Andor, and More!|archiveurl=https://archive.ph/rel2Y}}
+*{{SW|url=news/genevieve-oreilly-andor-interview|text=''Andor'' Actor Genevieve O'Reilly on the Legacy of Mon Mothma}}
+*{{SW|url=series/andor/andor-season-1-episode-6-episode-guide|text=''Andor'' &#124; "Episode 6: The Eye" Episode Guide}}
+*{{SW|url=news/5-spine-tingling-sith-moments|text=5 Spine-Tingling Sith Moments}}
+*[[The Art of Star Wars: The High Republic (Phase One)|''The Art of Star Wars: The High Republic'' (Phase One)]]
+*{{SW|url=news/the-art-of-star-wars-the-high-republic-interview|text="An Indescribably Great Feeling": Author Kristin Baver On Writing ''The Art of Star Wars: The High Republic''}}}}
+
+==Notes and references==
+{{Reflist}}
+==External links==
+{{Wikiquote}}
+*{{SW|url=films/star-wars-episode-iii-revenge-of-the-sith|text=''Star Wars Revenge of the Sith''}}
+*{{Lucasfilm|url=productions/episode-iii|text=Star Wars: Revenge of the Sith|archivedate=20200928214959}}
+*{{Imdb|url=title/tt0121766|title={{PAGENAME}}}}
+*{{WP|Star Wars: Episode III – Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith''}}
+*[[Star Wars: The Clone Wars]]
+
+{{Episode_III_multimedia}}
+{{Star_Wars}}
+
+{{Interlang
+|bg=Междузвездни войни: Епизод III – Отмъщението на ситите
+|ca=La Venjança dels Sith
+|cs=Star Wars: Epizoda III Pomsta Sithů
+|da=Star Wars Episode III: Sith-fyrsternes hævn
+|de=Episode III – Die Rache der Sith
+|el=Star Wars: Επεισόδιο 3 - Η Εκδίκηση των Σιθ
+|es=Star Wars: Episodio III La Venganza de los Sith
+|fa=قسمت سوم: انتقام سیث
+|fi=Tähtien sota: Episodi III – Sithin kosto
+|fr=Star Wars épisode III : La Revanche des Sith
+|ga=Eipeasóid III: Revenge of the Sith
+|hu=Csillagok háborúja III: A Sith-ek bosszúja
+|is=Episode III: Revenge of the Sith
+|it=Star Wars Episodio III: La vendetta dei Sith
+|ja=スター・ウォーズ エピソード3/シスの復讐
+|ka=ვარსკვლავური ომები, ეპიზოდი III: სითების შურისძიება
+|ko=스타워즈: 에피소드 3 시스의 복수
+|nl=Star Wars Episode III: Revenge of the Sith
+|no=Star Wars Episode III: Sithene tar hevn
+|pl=Zemsta Sithów
+|pt=Star Wars Episódio III: A Vingança dos Sith
+|ru=Звёздные войны. Эпизод III: Месть ситхов
+|sv=Star Wars Episod III: Mörkrets Hämnd
+|uk=Зоряні війни. Епізод III: Помста ситів
+|zh=星球大战III：西斯的复仇
+|ptFA=1
+}}
+
+[[Category:Saga films|3]]
+[[Category:2005 releases]]

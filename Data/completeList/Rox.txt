@@ -1,0 +1,55 @@
+{{Infobox character
+|image = Rox.png 
+|name = Rox
+|shows = ''[[Tron: Uprising]]'' 
+|games = 
+|rides = 
+|animator = 
+|voice = 
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = 
+|personality = Considerate, reasonable 
+|appearance = Slender, green circuitry, long black hair 
+|occupation = Medic
+|alignment = Good
+|affiliations = 
+|goal = 
+|home = [[The Grid]]
+|family = 
+|pets = 
+|friends = [[Paige]]
+|minions = 
+|enemies = [[ISO|ISOs]] 
+|likes = Her friends 
+|dislikes =ISOs 
+|powers = 
+|possessions = 
+|weapons = 
+|status = Derezzed
+|quote = }}
+'''Rox''' was a minor character in ''[[Tron: Uprising]]''. She was a medic and worked with [[Paige]].
+
+==Biography==
+==="[[Isolated]]"===
+Rox was a medic who, together with Paige and another medic friend, opened a medical center in their city. 
+
+When [[Quorra]] and [[Ada]] came under attack nearby, Paige intervened, and Rox later helped her fix them up. When the refugees, pretending to be Basics, spoke about the ISO War, she said it must have been terrible for them to realize ISOs had been in their city. 
+
+When she guessed, from Paige's evasive behavior, that the two new programs were actually ISOs, she and their other coworker alerted the authorities. [[General Tesler]] accepted their information, but then, despite their protests, ordered them derezzed, blaming it on the ISOs -- both to further the rumors about their destructiveness and to cement Paige's loyalty as she joined his forces to seek revenge.
+
+{{TronWiki}}
+{{Tron}}
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Females]]
+[[Category:Programs]]
+[[Category:TV Animation characters]]
+[[Category:Tron characters]]
+[[Category:Deceased characters]]
+[[Category:Nurses]]
+[[Category:Tron: Uprising characters]]
+[[Category:Disney XD characters]]

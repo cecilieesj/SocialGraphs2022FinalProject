@@ -1,0 +1,41 @@
+{{Infobox film
+|image = Director by Night Poster.jpg
+|name = Director by Night
+|director = Anthony Giacchino
+|writer = Anthony Giacchino
+|producer = [[Kevin Feige]]<br>[[Louis D'Esposito]]<br>[[Victoria Alonso]]<br>Brad Winderbaum<br>Jeff Redmond<br>Sarah Jenks
+|starring = Anthony Giacchino<br>[[Michael Giacchino]]
+|music = Lucas Matthews
+|cinematography = Andrew Baker
+|editor = Aaron Matthews<br>Marc Delforte
+|studio = [[Marvel Studios]]
+|distributor = [[Disney+]]
+|release = [[November 4]], [[2022]]
+|time = 54 minutes
+|language = English
+|imdb_id = }}
+'''''Director by Night''''' is a documentary film written and directed by Anthony Giacchino, as a behind the scenes for the [[Marvel Cinematic Universe]] television special ''[[Werewolf by Night (film)|Werewolf by Night]]''. It was released on [[November 4]], [[2022]].
+
+==Synopsis==
+''Director by Night'' tells the story of two Academy Award winning brothers and their different ways of telling stories. [[Michael Giacchino]], renowned film composer, makes his directing debut with ''Werewolf by Night''. His brother, veteran documentary filmmaker Anthony Giacchino, chronicles the experience, and explores the duo's filmmaking origins in the small [[New Jersey]] town where they grew up.<ref>[https://www.disneyplus.com/en-gb/movies/director-by-night/7LAI8wd0sRWN Director by Night Synopsis]</ref>
+
+==Videos==
+<gallery>
+Marvel Studios’ Special Presentation- Director By Night - Official Trailer - Disney+
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Marvel Cinematic Universe}}
+{{Disney+}}
+{{DISPLAYTITLE:''Director by Night''}}
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:Documentaries]]
+[[Category:2022 films]]
+[[Category:Disney+ Originals]]
+[[Category:Marvel Comics]]
+[[Category:Marvel Cinematic Universe films]]
+[[Category:Werewolf by Night]]

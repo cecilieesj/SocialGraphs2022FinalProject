@@ -1,0 +1,57 @@
+{{Upcoming|media=film}}
+{{Infobox film
+|image = A Haunting in Venice Logo.jpg
+|name = A Haunting in Venice
+|director = [[Kenneth Branagh]]
+|producer = [[Ridley Scott]]<br>Kenneth Branagh<br>Judy Hofflund<br>Kevin J. Walsh
+|writer = Michael Green
+|starring = Kenneth Branagh<br>Jamie Dornan<br>[[Tina Fey]]<br>Jude Hill<br>Kelly Riley<br>[[Michelle Yeoh]]
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[20th Century Studios]]<br>Kinberg Genre<br>Mark Gordon Pictures<br>Scott Free Productions<br>TSG Entertainment
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[September 15]], [[2023]]
+|time = 
+|language = English
+|budget = 
+|gross = 
+|preceded = ''[[Death on the Nile]]''
+|followed = 
+|website = 
+|imdb_id = 22687790}}
+'''''A Haunting in Venice''''' is an upcoming American mystery thriller film. It is directed by [[Kenneth Branagh]], written by Michael Green, and based on the 1969 novel ''Hallowe'en Party'' by Agatha Christie. The film is a sequel to the [[2022]] film ''[[Death on the Nile]]''. It is scheduled to be released on [[September 15]], [[2023]].
+
+==Synopsis==
+[[Hercule Poirot]], now retired, must solve the murder of a guest at a séance he is in attendance for.
+
+==Cast==
+*[[Kenneth Branagh]] as [[Hercule Poirot]]
+*Jamie Dornan as TBA<ref name="Cast"/>
+*[[Tina Fey]] as TBA<ref name="Cast"/>
+*Jude Hill as TBA<ref name="Cast"/>
+*Kelly Riley as TBA<ref name="Cast"/>
+*[[Michelle Yeoh]] as TBA<ref name="Cast"/>
+*Emma Laird as TBA<ref name="Cast"/>
+*Kyle Allen as TBA<ref name="Cast"/>
+*Camille Cottin as TBA<ref name="Cast"/>
+*Ali Khan as TBA<ref name="Cast"/>
+*Riccardo Scamarico as TBA<ref name="Cast"/>
+
+==Production==
+On March 3, 2022, ''The Hollywood Reporter'' reported that a third film in the franchise is in development for [[20th Century Studios]].<ref>[https://www.hollywoodreporter.com/movies/movie-news/avatar-death-on-the-nile-sequel-and-free-guy-future-1235103538/ 10-Plus Movies a Year for Hulu, ‘Avatar’ (For Real!), More ‘Free Guy’: 20th Century Studios President on Company’s Future]</ref>
+
+On October 10, 2022, it was announced that Jamie Dornan, [[Tina Fey]], [[Michelle Yeoh]] and more were cast in the film, with production scheduled to begin on October 31.<ref name="Cast">[https://www.hollywoodreporter.com/movies/movie-news/a-haunting-in-venice-cast-revealed-kenneth-branagh-1235238310/ Jamie Dornan, Tina Fey, Michelle Yeoh, Jude Hill Join Kenneth Branagh in Agatha Christie Mystery ‘A Haunting in Venice’]</ref>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Haunting in Venice, A}}
+{{DISPLAYTITLE:''A Haunting in Venice''}}
+[[Category:Films]]
+[[Category:20th Century Studios films]]
+[[Category:Live-action films]]
+[[Category:Films based on books]]
+[[Category:Sequel films]]
+[[Category:2023 films]]
+[[Category:Hercule Poirot]]

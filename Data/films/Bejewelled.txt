@@ -1,0 +1,36 @@
+{{Infobox film
+|image = Bejewelled_Disney.jpg
+|name = Bejewelled
+|director = Terry Marcel
+|producer = 
+|writer = 
+|starring = [[Emma Samms]]<br>Paris Jefferson<br>Dirk Benedict
+|music = Ken Thorne
+|cinematography = 
+|editor = 
+|studio = 
+|distributor = 
+|release = [[January 20]], [[1991]]
+|time = 95 minutes
+|language = English
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = 
+}}
+
+'''''Bejewelled''''' is a [[1991]] [[Disney Channel Original Movies|Disney Channel Original Movie]].
+
+==Plot==
+An American's family jewels are stolen during her trip to London and she reluctantly teams up with a private investigator-in-training to try and recover them.
+
+{{Stub}}
+{{Disney Channel Movies}}
+[[Category:Disney Channel Original Movies]]
+[[Category:1991 films]]
+[[Category:Live-action films]]
+[[Category:Disney films]]

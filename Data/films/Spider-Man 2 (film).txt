@@ -1,0 +1,282 @@
+{{Marvel Database:Film Template
+| Image                   = Peter Parker (Earth-96283) and Mary Jane Watson (Earth-96283) from Spider-Man 2 (film) Poster 0002.jpg
+| Aliases                 = 
+
+| Directors               = [[Sam Raimi]]
+| Producers               = [[Avi Arad]]; [[Laura Ziskin]]
+| ComicWriters            = [[Stan Lee]]; [[Steve Ditko]]
+| StoryWriters            = Alfred Gough; Miles Millar; Michael Chabon
+| ScreenplayWriters       = Alvin Sargent
+| Musicians               = Danny Elfman, Bart Hendrickson
+| Cinematographers        = Bill Pope
+| Editors                 = Bob Murawski
+| Distributors            = Sony Pictures Releasing
+| ProductionCompanies     = Columbia Pictures, Marvel Enterprises, Laura Ziskin Productions
+| Running Time            = 127 minutes
+| Rating                  = '''MPAA:''' PG-13 for stylized action violence
+| Budget                  = $200 million
+| Release Date            = June 30, 2004
+
+| AM ID                   = spider-man-2-v283387
+| IMDB ID                 = 0316654
+| Marvel Movies           = Spider-Man 2
+| Spider-Man Films        = Spider-Man 2
+
+| Tagline                 = Choice. Destiny. Sacrifice.
+
+| Previous Film           = Spider-Man (2002 film)
+| Next Film               = Spider-Man 3 (film)
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Peter Parker (Earth-96283)|Spider-Man (Peter Parker)]]|Your Friendly Neighborhood Spider-Man|Spider-Man 3: Movie Prequel Vol 1 1}}
+'''Supporting Characters:'''
+* {{a|[[Mary Jane Watson (Earth-96283)|Mary Jane Watson]]}}
+* {{a|[[Harold Osborn (Earth-96283)|Harry Osborn]]}}
+* {{a|[[Maybelle Parker (Earth-96283)|May Parker]]}}
+'''Antagonists:'''
+* {{Only Dies|[[Otto Octavius (Earth-96283)|Doctor Octopus (Dr. Otto Octavius)]]}}
+'''Other Characters:'''
+* {{Only|[[Mr. Aziz (Earth-96283)|Mr. Aziz]]}}
+* {{a|[[Daily Bugle (Earth-96283)|Daily Bugle]]}}
+** {{a|[[John Jonah Jameson (Earth-96283)|J. Jonah Jameson]]}}
+** {{a|[[Joseph Robertson (Earth-96283)|Joseph "Robbie" Robertson]]}}
+** {{a|[[Elizabeth Brant (Earth-96283)|Betty Brant]]}}
+** {{a|[[Ted Hoffman (Earth-96283)|Ted Hoffman]]}}
+* {{1st|[[Curtis Connors (Earth-96283)|Dr. Curt Connors]]}}
+* {{1st|[[Mr. Ditkovich (Earth-96283)|Mr. Ditkovich]]}}
+* {{1st|[[Ursula Ditkovich (Earth-96283)|Ursula Ditkovich]]}}
+* {{a|[[Oscorp Industries (Earth-96283)|Oscorp]]}}
+* {{Only Dies|[[Rosalie Octavius (Earth-96283)|Rosie Octavius]]}}
+* [[Wikipedia:Thomas Edison|Thomas Edison]] {{Mentioned}}
+* [[Wikipedia:Guglielmo Marconi|Guglielmo Marconi]] {{Mentioned}}
+* [[Wikipedia:Ludwig van Beethoven|Ludwig van Beethoven]] {{Mentioned}}
+* [[Wikipedia:Johann Bernoulli|Johann Bernoulli]] {{Mentioned}}
+* [[Wikipedia:T. S. Eliot|T. S. Eliot]] {{Mentioned}}
+* {{a|[[New York City Police Department (Earth-96283)|NYPD]]}}
+* {{Only|[[John Jonah Jameson III (Earth-96283)|John Jameson]]}}
+* {{a|[[New York City Fire Department (Earth-96283)|FDNY]]}}
+* {{Only Dies|[[Doctor Isaacs (Earth-96283)|Dr. Isaacs]]}}
+* {{Mentioned|[[Stephen Strange (Earth-96283)|Doctor Strange]]}}
+* {{a|[[Stan Lee (Earth-96283)|Stan Lee]]}}
+* {{Mentioned|[[Madeline Watson (Earth-96283)|Madeline Watson]]}}
+* {{Mentioned|[[Philip Watson (Earth-96283)|Philip Watson]]}}
+* {{Dream|[[Benjamin Parker (Earth-96283)|Ben Parker]]}}
+* {{Mentioned|[[Dennis Carradine (Earth-96283)|Dennis Carradine]]}}
+* {{a|[[Bernard Houseman (Earth-96283)|Bernard Houseman]]}}
+* {{Only|[[Henry Jackson (Earth-96283)|Henry Jackson]]}}
+* {{Invoked|[[Yahweh (Earth-96283)|God (Yahweh)]]}}
+* {{Illusion|[[Norman Osborn (Earth-96283)|Norman Osborn]]}}
+* {{Named|[[Edward Leeds (Earth-96283)|Edward Leeds]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Birds]]}}
+** {{Photo|[[Pigeons]]}}
+* {{Mentioned|[[Insects|Bugs]]}}
+* {{Mentioned|[[Cats]]}}
+* {{a|[[Dogs]]}}
+* {{Mentioned|[[Squirrels]]}}
+'''Locations:'''
+* {{a|[[Earth-96283]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[New York (State)|New York]]}}
+***** {{a|[[New York City]]}}
+****** {{a|[[Manhattan]]}}
+******* {{1st|[[Central Park]]}}
+******* {{a|[[Chrysler Building]]}}
+******* {{a|[[Empire State Building]]}}
+******* {{Only|[[Booth Memorial Hospital]]}}
+******* [[Manhattan#Midtown Manhattan|Midtown]]
+******** {{a|[[Times Square]]}}
+******** {{a|[[Fifth Avenue]]}}
+********* {{a|[[Daily Bugle Building]]}}
+******** {{a|[[Columbus Circle]]}}
+********* {{a|[[Osborn Manor]]}}
+******* {{a|[[Morningside Heights]]}}
+******** {{a|[[Columbia University]]}}
+*******{{a|Joe's Pizza}}
+****** {{a|[[Queens]]}}
+******* {{a|[[Forest Hills]]}}
+******** {{a|[[Aunt May's House]]}}
+***** {{Last|[[Long Island]]}}
+****** {{Last|[[Oscorp Tower|Oscorp Building]]}}
+** {{Invoked|[[Hell]]}}
+'''Items:'''
+* {{a|[[Spider-Man's Suit]]}}
+* {{a|[[Doctor Octopus' Tentacles]]}}
+* {{a|[[Goblin Formula|Human Performance Enhancers]]}}
+* {{a|[[Pumpkin Bomb]]}}
+* {{a|[[Goblin Armor|Goblin Armor (Oscorp Battlesuit)]]}}
+'''Vehicles:'''
+* {{a|[[Goblin Glider]]}}
+
+| Plot                    = {{Quote|'''No matter what I do ... No matter how hard I try ... It's the ones I love who will always be the ones who pay. I want a life of my own. I'm Spider-Man ... no more.'''|[[Peter Parker (Earth-96283)|Spider-Man (Peter Parker)]]}}
+
+It has been two years since [[Peter Parker (Earth-96283)|Peter Parker]] first donned his webs, and he is now finding a double life very difficult. He loses a job, faces financial difficulties, is having trouble with his estranged friend, [[Harold Osborn (Earth-96283)|Harry Osborn]], who still blames [[Norman Osborn (Earth-96283)|his father's]] death on Spider-Man (Harry does not know that Norman was actually the villainous Green Goblin or that Peter is Spider-Man, but is angered that Parker's trust is not in his best friend, but in Spider-Man, his "bread and butter"), struggles with his studies and school work, as [[Curtis Connors (Earth-96283)|Professor Curt Connors]] reprimands him, and finds that he is losing his powers. Moreover, he has learned that [[Maybelle Parker (Earth-96283)|Aunt May]] is being threatened with foreclosure on her house, and his potential girlfriend, [[Mary Jane Watson (Earth-96283)|Mary Jane]], has acquired a new boyfriend, [[John Jonah Jameson III (Earth-96283)|John Jameson]], the son of Peter's employer, [[John Jonah Jameson|J. Jonah Jameson]]. MJ turns increasingly hostile to Peter after he fails to keep a promise to see a play in which she is the female lead. Further, he questions if he could ever have what he "needs", a life as Peter Parker, which climaxes in a vision involving [[Benjamin Parker (Earth-96283)|Uncle Ben]].
+
+Peter's idol, a brilliant, gentle scientist named [[Otto Octavius (Earth-96283)|Otto Octavius]] becomes a mechanically-controlled lunatic, as the result of a disastrous fusion accident and the loss of [[Rosalie Octavius (Earth-96283)|his wife]]. "Doc Ock", as he is now called (due to the metal tentacles wired to his spine), desperately wants to rebuild his experiment, and Spider-Man, in the meantime, must stop him from robbing a bank. In the robbery attempt, [[Maybelle Parker (Earth-96283)|)|Aunt May]] is nearly kidnapped and is enlightened to the fact that Spider-Man is a hero after he saves her. Peter's morale hits a nadir when Harry lashes at him in a drunken rage, MJ and John Jameson announce their engagement and he loses his powers due to a form of burn-out syndrome. Peter temporarily gives up Spider-Man, shirking his responsibilities.
+
+[[File:Peter Parker (Earth-96283) from Spider-Man 2 (film) 0004.jpg|thumb|Peter temporarily throws away his costume.]]
+As Peter has much more spare time now, not only does he excel at his physics courses, but at least one of his relationships improves. Peter and MJ connect once again, but as MJ is engaged, it seems too late. On the other hand, Aunt May is distressed by Peter's confession that he was somewhat responsible for Uncle Ben's death. Soon after, though, she sees his bravery in admitting the truth and inadvertently inspires him to become Spider-Man once more, as she speaks of how he gives hope to others and that one must do things for the greater good in spite of one's own dreams. In the meanwhile, Doc Ock and Harry Osborn, now head of Oscorp's research division, make a deal: Harry supplies him with tritium for his experiment, and the Doctor agrees to capture Spider-Man for him.
+
+MJ remembers the upside-down kiss she had with her savior, Spider-Man, and that Peter's kiss felt suspiciously similar. She arranges a meeting with Peter, and although she is very fond of him, Peter's secretive behavior estranges and intrigues her. Before things can develop, however, they are attacked by Doc Ock. Because he knows that Peter and Spider-Man are close, he attacks Peter. Doc Ock threatens Peter and tells him to tell Spider-Man to fight him unless he wants MJ killed. Then he abducts her.
+
+This shock brings back Peter's powers. He has a massive fight with Doc Ock, and the insane scientist forces Peter to rescue a rogue train. With the utmost effort, Peter stops the train before it falls off an unfinished bridge. Before that, he took off his mask to avoid burning himself, but the people on the train return his mask, promising not to tell anyone. Unfortunately, he is weak from stopping the train and is captured easily by Doc Ock and brought before Harry. Harry unmasks him and is stunned that Spider-Man is Peter Parker. Peter implores him to tell him where Doc Ock went, or MJ will be killed.
+
+Peter finds Doc Ock in an abandoned warehouse, where he holds MJ hostage and has just launched his doomsday experiment, which is clearly going astray, extending flares, sucking up and incinerating anything metal (except Doc Ock's tentacles, which were designed to be impervious to heat and magnetism). They fight a second time, and in the end, Doc Ock regains his sanity. He also understands why Parker is "brilliant but lazy", as the student leads a double life. Old advice dispensed from the doctor to Parker and some of Aunt May's words are repeated by Parker that forces Doc Ock to realize the monstrosity of his actions. Determined to end his doomsday experiment by drowning it, Octavius destroys it and ends up dying a hero ("I will not die a monster!"). MJ finds out that Peter is Spider-Man, and is in awe and full of joy at the same time. But Peter tells her they can never be together, as he will always have deadly enemies, and M.J. should spare herself the grief of coming too close to him.
+
+As he hears of the warehouse disaster in the media in his penthouse, a distraught Harry meets face to face with his own father, the late Norman Osborn in a mirror. Norman demands his son to kill Parker, which prompts Harry to lash out and throw a dagger through the mirror. This, for the first time, marks Harry's possible departure into mental decline, furthered when he finds that the mirror is actually a passageway. The passageway reveals Norman Osborn's secret lifestyle as the [[Green Goblin]], as a full assortment of his weapons and gear can be found, as Harry realizes who his father really was.
+
+MJ runs away from her marriage with John Jameson. She gatecrashes Peter's apartment, telling him that she has decided to live with him - despite the risks - because a full dangerous life is better than a half, carefree life. She - almost forcefully - persuades Peter to finally be her boyfriend while accepting the need of his vows by letting him respond to a sudden call for help. As Peter joyfully swings to the rescue, Mary Jane remains, still somewhat apprehensive of the bizarre and potentially dangerous relationship they have committed themselves to.
+
+| Cast                    = * [[wikipedia:Tobey Maguire|Tobey Maguire]] as [[Peter Parker (Earth-96283)|Spider-Man / Peter Parker]]
+* [[wikipedia:Alfred Molina|Alfred Molina]] as [[Otto Octavius (Earth-96283)|Doctor Octopus / Otto Octavius]]
+* [[wikipedia:Kirsten Dunst|Kirsten Dunst]] as [[Mary Jane Watson (Earth-96283)|Mary Jane Watson]]
+* [[wikipedia:James Franco|James Franco]] as [[Harold Osborn (Earth-96283)|Harry Osborn]]
+* [[wikipedia:J. K. Simmons|J. K. Simmons]] as [[John Jonah Jameson (Earth-96283)|J. Jonah Jameson]]
+* [[wikipedia:Daniel Gillies|Daniel Gillies]] as [[John Jonah Jameson III (Earth-96283)|Col. John Jameson]]
+* [[wikipedia:Dylan Baker|Dylan Baker]] as [[Curtis Connors (Earth-96283)|Dr. Curt Connors]]
+* [[wikipedia:Donna Murphy|Donna Murphy]] as [[Rosalie Octavius (Earth-96283)|Rosie Octavius]]
+* [[wikipedia:Rosemary Harris|Rosemary Harris]] as [[Maybelle Parker (Earth-96283)|Aunt May]]
+* [[wikipedia:Bill Nunn|Bill Nunn]] as [[Joseph Robertson (Earth-96283)|Joseph "Robbie" Robertson]]
+* [[wikipedia:Ted Raimi|Ted Raimi]] as Hoffman
+* [[wikipedia:Elizabeth Banks|Elizabeth Banks]] as [[Elizabeth Brant (Earth-96283)|Betty Brant]]
+* [[wikipedia:Elya Baskin|Elya Baskin]] as Mr. Ditkovich
+* [[wikipedia:Cliff Robertson|Cliff Robertson]] as [[Benjamin Parker (Earth-96283)|Uncle Ben]]
+* [[wikipedia:Willem Dafoe|Willem Dafoe]] as [[Norman Osborn (Earth-96283)|Norman Osborn]]
+* [[wikipedia:Kelly Connell|Kelly Connell]] as [[Isaacs (Earth-96283)|Dr. Isaacs]]
+* [[wikipedia:Mageina Tovah|Mageina Tovah]] as Ursula Ditkovich
+* [[wikipedia:Bruce Campbell|Bruce Campbell]] as Snooty Usher
+** Campbell also made a cameo appearance in ''[[Spider-Man (2002 film)|Spider-Man]]'' as the wrestling ring announcer.
+
+| Notes                   = * '''''Spider-Man 2''''' is the Academy Award-winning sequel to the popular 2002 film ''[[Spider-Man (film)|Spider-Man]]'' and was released in the U.S. on June 30th, 2004. Its soundtrack was a major hit in the United States and elsewhere.
+
+===Credits===
+The film, directed by Sam Raimi, stars Tobey Maguire, Kirsten Dunst, James Franco and J.K. Simmons reprising their roles of [[Peter Parker]] ([[Spider-Man]]), [[Mary Jane Watson]], [[Harold Osborn|Harry Osborn]] and [[John Jonah Jameson|J. Jonah Jameson]], respectively. Alfred Molina plays the role of the villain, [[Doctor Octopus]] ("Doc Ock").
+
+The screenplay is credited to Alvin Sargent, with screen story credit given to Alfred Gough, Miles Millar, and Michael Chabon. [[Stan Lee]] and [[Steve Ditko]] receive additional screen credit for "comic book & characters".
+
+===Box office success===
+In its first six days, ''Spider-Man 2'' generated $180 million at the North American box office, a record at the time. It took in $88 million in its first weekend and an opening day record of $40,442,604. However, it was beaten a year later by ''Revenge of the Sith'', which grossed about $10 million more. Altogether, ''Spider-Man 2'' made $373,585,825 in North America, making it 2004's second highest-grossing movie (behind ''Shrek 2''). Worldwide, ''Spider-Man 2'' made $783,964,497, making it the 3rd highest grossing movie of 2004 worldwide (behind ''Harry Potter and the Prisoner of Azkaban'' and ''Shrek 2'').
+
+===Budget===
+* '''Story rights:''' $20 million
+* '''Screenplay:''' $10 million
+* '''Producers:''' $15 million
+* '''Director:''' $10 million
+* '''Cast:''' $30 million
+** '''Tobey Maguire:''' $17 million
+** '''Kirsten Dunst:''' $7 million
+** '''Alfred Molina:''' $3 million
+** '''Rest of cast:''' $3 million
+* '''The shoot:''' $45 million
+* '''Special effects:''' $65 million
+* '''Music:''' $5 million
+** '''Composer:''' $3.5 million
+* '''Total:''' $200 million<ref>[http://www.guardian.co.uk/arts/fridayreview/story/0,12102,1235533,00.html Anatomy of a Blockbuster]</ref>
+
+===Critical reaction===
+The general critical reaction to the film was very enthusiastic, with many critics saying the film had a dramatic power and emotional content that many summer blockbusters lack. Metacritic gave the film a collective rating of 83 out of 100 based on an average of 41 reviews citing "universal acclaim".<ref>{{cite web|url=http://www.metacritic.com/film/titles/spiderman2/|title=Metacritic's review of '''Spider-Man 2'''|work=Metacritic}}</ref> Rotten Tomatoes gave it a rating of 94%, based on 222 reviews.<ref>{{cite web|url=http://www.rottentomatoes.com/m/SpiderMan2-1133520/reviews.php|title=Rotten Tomatoes's review of '''Spider-Man 2'''|work=Rotten Tomatoes}}</ref>
+
+Roger Ebert, who was lukewarm on the first film,<ref>{{cite web|url=http://www.rogerebert.com/reviews/spider-man-2002|title=Roger Ebert's review of '''Spider-Man's first film'''|work=Roger Ebert}}</ref> praised the second movie and gave it four stars. He went on to call it the "greatest super-hero movie since "''Superman''".<ref>{{cite web|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20020503/REVIEWS/205030303/1023|title=Roger Ebert's review of '''Spider-Man 2'''|work=Roger Ebert}}</ref> A number of other newspapers also gave it good marks, and the movie was listed in AFI's Top Ten Films of 2004
+
+However, ''The New Yorker'' rated it as average, while ''Salon.com'' and ''Village Voice'' rated it as poor.
+
+In the 77th Academy Awards, the movie won the Academy Award for Visual Effects. It was also nominated for the Academy Award for Sound and the Academy Award for Sound Editing. There were many rumors that the film was in contention for the Academy Award for Adapted Screenplay, as many fans and critics alike regarded Alvin Sargent's screenplay as superb in terms of emotional depth and character development. There have also been a few critics and websites arguing that it even deserved a Best Picture nomination.
+
+Particular praise was lavished upon Alfred Molina for his sympathetic performance as Doc Ock, as well as Tobey Maguire's continued portrayal of the troubled and tormented super hero.
+
+===Awards and nominations===
+'''2005 Academy Awards (Oscars)'''
+* Won - Best Visual Effects — John Dykstra, Scott Stokdyk, Anthony LaMolinara, John Frazier
+* Nominated - Best Sound Mixing — Kevin O'Connell, Greg P. Russell, Jeffrey J. Haboush, Joseph Geisinger
+* Nominated - Best Sound Editing — Paul N.J. Ottosson
+'''2005 Academy of Science Fiction, Fantasy & Horror Films (Saturn Awards)'''
+* Won - Best Actor (Film) — Tobey Maguire
+* Won - Best Director — Sam Raimi
+* Won - Best Special Effects — John Dykstra, Scott Stokdyk, Anthony LaMolinara, John Frazier
+* Won - Best Writing — Alvin Sargent
+* Nominated - Best Supporting Actor (Film) — Alfred Molina
+* Nominated - Best DVD Special Edition Release
+* Nominated - Best Music — Danny Elfman
+'''2005 BAFTA Film Awards'''
+* Nominated - Best Sound — Kevin O'Connell, Greg P. Russell, Jeffrey J. Haboush, Paul N.J. Ottosson
+* Nominated - Outstanding Achievement in Special Visual Effects — John Dykstra, Scott Stokdyk, Anthony LaMolinara, John Frazier
+'''2005 BMI Film & TV Awards'''
+* Won - BMI Film Music Award — Danny Elfman
+'''2005 Broadcast Film Critics Association Awards'''
+* Won - Best Popular Picture
+* Nominated - Best Family Film (Live Action)
+'''2005 Cinema Audio Society'''
+* Nominated - Outstanding Achievement in Sound Mixing for Motion Pictures — Joseph Geisinger, Kevin O'Connell, Greg P. Russell, Jeffrey J. Haboush
+'''2005 Sony Ericsson Empire Awards'''
+* Won - Best Director — Sam Raimi
+* Nominated - Best Actor — Tobey Maguire
+* Nominated - Best Actress — Kirsten Dunst
+* Nominated - Best Film
+* Nominated - Scene of the Year — Spider-Man battles Doc Ock on the train
+'''2005 Hugo Awards'''
+* Nominated - Best Dramatic Presentation, Long Form
+'''2005 Kids Choice Awards (Blimp Award)'''
+* Nominated - Favorite Movie
+* Nominated - Favorite Movie Actor — Tobey Maguire
+'''2005 Motion Picture Sound Editors (Golden Reel Award)'''
+* Nominated - Best Sound Editing in Domestic Features: Sound Effects/Foley — Paul N.J. Ottosson, Christopher Flick, Scott G.G. Haller, Ruben Simon, Jussi Tegelman, Lisa Hannan, Ai-Ling Lee, Martin Lopez, Bernard Weiser
+| Trivia                  = * ''Spider-Man 2'' won the Academy Award for Best Visual Effects, making it the only film from Marvel to win one of those prestigious awards.
+* Before ''Spider-Man 2'' was even released, it was announced that ''[[Spider-Man 3 (film)|Spider-Man 3]]'' was to be released in 2007.
+* There are two references to ''Evil Dead'', one of Sam Raimi's earlier films:
+** The Booth Memorial Hospital in which Dr. [[Isaacs (Earth-96283)|Isaacs]] attempts to remove [[Otto Octavius|Octavius]]' tentacles with disastrous results.
+** At different points in the film, Peter and Harry both sport the same outfit as Ash from the Evil Dead films.
+* Promotion, marketing and anticipation for this film had grown so much in late 2003 that Sony considered putting webbing along with the ''Spider-Man 2'' logo on the bases at the 2003 All-Star Game. This was canceled due to negative baseball fan reaction.
+* Before the film was released, it was well-publicized that Tobey Maguire may have had to pull out of doing the film due to severe back pain. At one point, the producers had Jake Gyllenhaal on standby to take up the part. However, Maguire was in the end cleared to reprise his role as Peter Parker. The controversy was rumored to have made early shooting on the movie somewhat uncomfortable, as Kirsten Dunst was dating Gyllenhaal at the time, but the actors were eventually able to put the controversy behind them.
+** Maguire's back problems were also referenced in the film itself. When Peter Parker tries to leap off of a building shouting "I'm back! I'm back!", he falls to the ground in an alleyway. When he stands he winces crying "My back! My back!".
+* The name of Peter's landlord, "Ditkovitch", was an obvious hat-tip to Spider-Man co-creator [[Steve Ditko]].
+* Spider-Man creator [[Stan Lee]] makes yet another cameo appearance (as he did in ''[[Spider-Man (film)|Spider-Man]]'') during Spidey's first battle with Doc Ock. This time, he also saves a person from harm.
+* Again, the main villain is nearly given a name that ends up being dropped. This time, the names are "Science Squid" and "[[Doctor Strange]]" are the two suggested names. When the latter is suggested, Jonah says that he likes it, though then states that it's already been taken.
+* Actor Bruce Campbell also makes another cameo as the usher who would not let Peter into [[Mary Jane Watson|Mary Jane]]'s play.
+* In the scene where Parker watches police cars go by, Tobey Maguire is actually eating a tofu hot dog as he is a vegetarian.
+* ''Spider-Man 2'' is the first movie to be released in UMD format for the PSP. The first one million copies of the U.S. PSP included the movie free.
+* Doctor Octopus uses tritium to create nuclear fusion. The device he uses seems to be inspired by those used for inertial confinement fusion.
+* Toward the end of the movie, it was rumored that the Punisher was noticeable. This turned out to be false and is only someone who resembled Thomas Jane. This is purely coincidental. He was never intended by the makers to be the Punisher.<ref>[http://www.imdb.com/title/tt0316654/trivia Spider-Man 2's Trivia in IMDB]</ref>
+* When Peter stops the runaway subway, his first attempt echoes Superman's usual method of stopping a train by catching it by the locomotive and planting his feet until it stops.
+* The scene in which J. K. Simmons (as J. Jonah Jameson) shouts "Spider-Man was... A THIEF!" caused much hilarity. Simmons was wearing false teeth for Jameson's trademark scrooge smile, and whenever he tried to form the "TH" he spat out his false teeth. These scenes can be seen on the blooper reel of the DVD.
+* The typeface used for publicity and title purposes within the film is also used for the logo of PlayStation 3, also made by Sony.
+* The film follows in the footsteps of another super hero film, ''Superman II'' where are some basic plot elements in common, including the hero losing his powers, the love interest finding out the secret identity, etc.
+* The scene in which Doc Ock kidnaps Mary Jane, and carries her screaming to the top of a small building, is reminiscent of the scene in the original ''King Kong'' film in which Kong carries a screaming Ann Darrow to the top of a motel.
+* There is a cameo of ''Queer as Folk'' star Hal Sparks, in the elevator scene when Spider-Man had lost his powers, as a reference to the character of Michael Novotny, a comic nerd in the television series. However, Sam Raimi says in the DVD audio commentary that he picked Sparks for his stand-up routine, and does not mention the television series.
+* '''Spider-Man 2''' was originally set to be released in May 2004.
+* It was the first film with over 4,000 theaters for an opening day and second for overall counts. ''Shrek 2'' was the first film with over 4,000 theaters in overall counts.
+* This movie also had a burning building scene, but with a different plot. In the first film, the building was a trap set by the Green Goblin, while in this movie the fire was not.
+* Film Director John Landis has a cameo appearance in the scene in which [[Doctor Octopus]] is in the hospital after the accident.
+* In works of literature (comics included) it is common for a person's name to reflect their powers (as the powers are usually set before the name is created), hence Dr. Octopus's real name is Otto Octavius, which has similar sounds to Octopus. In real life, however, it would be incredibly coincidental for such an occurrence, causing J. Jonah Jameson to sarcastically remark "A guy named Otto Octavius winds up with eight limbs. What are the odds of that?"
+* A television airing from FX included some footage from the 2.1 Extended DVD, but did incorporate never seen before footage.<ref>https://bootlegcomparisons.com/2019/02/21/spider-man-2-blu-ray-vs-fx-television-broadcast/</ref>
+
+==Other Spider-Man media references==
+* At one point, the working title of ''Spider-Man 2'' was ''[[Amazing Spider-Man Vol 1|The Amazing Spider-Man]]'', which was the title of the first ongoing comic book series starring Spider-Man and is the title of the original 2012 reboot.
+* Elements of the film's plot are taken from the Stan Lee-written Spider-Man storylines "If this be My Destiny" ({{Cnst|Amazing Spider-Man Vol 1 31}}-33), {{Cnst|Amazing Spider-Man Vol 1 50}}, and the first ''Amazing Spider-Man'' annual.
+** The scene when Peter throws away the Spider-Man costume in a garbage can and walks away from it in an alleyway is a direct recreation of the final panel of ''Amazing Spider-Man'' Vol 1 50.
+* Throughout the whole movie, the only points when [[Otto Octavius]] is called 'Doc Ock' or 'Doctor Octopus' are when [[John Jonah Jameson|Jonah Jameson]] suggests the names at the [[Daily Bugle]], and in the final battle at the docks, where Spider-Man calls him "Ock". One of the suggested names is [[Doctor Strange]], which is [[Steve Ditko]]'s other major co-creation for Marvel Comics.
+* In the film, Peter Parker is a physics major, interested in experimental nuclear physics and fusion power, while his comic book counterpart studies biochemistry/biophysics at the fictitious [[Empire State University]]. His textbooks include Liboff's ''Introductory Quantum Mechanics'', fourth edition, and ''Photonics'' and he volunteers an eigenvalue to a problem in Professor Connors' class.
+* The movie includes multiple references to the comic story arc where [[John Jameson]] becomes [[John Jameson|Man-Wolf]]. Jameson wears the same medallion that in the comics turned him into Man-Wolf, and he is portrayed next to a full moon in one scene.
+* Some of the plots in ''[[Spider-Man (1994 animated series)]]'' were incorporated into this movie:
+** Major plot points about Doctor Octopus were from the episode {{sld|Spider-Man (1994 animated series) Season 1 4}}, including Octavius being a good man and Peter's mentor before the accident, and the idea of Doc Ock creating a dangerous fusion machine.
+** The scene in which Peter is late for MJ's theater performance was taken from the animated episode involving the [[Chameleon]] (with the Chameleon disguising himself as Peter).
+** The scene with Aunt May receiving bills was from the animated episode in which Peter is asked to take a photograph of the Lizard.
+** The scene with Peter losing his powers was taken from the animated episode where he had problems with his powers, prior to turning into a six-armed monster.
+* The woman with the violin sings a song about Spider-Man. That song was actually the theme song of the original early cartoon series. The tone and tempo were changed in the movie. It was also used in the first movie with the guy singing inside the subway station.
+* The second time Spider-Man lost his spider-powers, he fell down into a back alley. That alley was the same place he discovered his powers. When he went up to the rooftops to test his powers, the building he was on was the same building used in the first movie, where Peter was practicing his web slinging.
+* Dr. Curtis Connors actually appears in the film as Peter's physics professor. No mention of the [[Lizard]] has ever surfaced in the movie, though. Although, in the film he is missing his arm. In the comics, Connors becomes The Lizard due to a serum he makes from Lizard DNA to regrow that arm.
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+* {{rotten-tomatoes|id=spiderman_2}}
+* {{mojo title|id=0316654}}
+* {{shh|id=spiderman|title=Spider-Man Movies}}
+* [http://www.metacritic.com/film/titles/spiderman2/ Metacritic Spider-Man 2 review summary]
+* [http://www.allmusic.com/cg/amg.dll?p=amg&sql=A2vjleat64xg7/ Allmusic.com soundtrack review]
+* [http://www.imno.org/articles.asp?qid=166&sid=18 IMNO Interviews Ryan Woodward Storyboard Artist for Spider-Man 2]
+* [https://www.youtube.com/watch?v=BWsLc3j1AWg Spiderman 2 (2004) Trailer on Youtube]
+}}
+[[es:Spider-Man 2 (película)]]
+[[ru:Человек-паук 2]]
+[[tr:Örümcek-Adam 2 (film)]]
+[[Category:Sony Pictures Entertainment]]

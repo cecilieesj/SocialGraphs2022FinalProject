@@ -1,0 +1,30 @@
+{{Infobox character
+|image = Lux2.png
+|shows = ''[[Tron: Uprising]]''
+|name = Lux
+|voice = [[Lake Bell]]
+|status = Derezzed}}
+'''Lux''' was a minor character in ''[[Tron: Uprising]]''.
+
+==Biography==
+Lux comes into contact with [[Beck]] and [[Tron (character)|Tron]] when they are searching for Beck's stolen [[Identity Disc]] in Purgos. Initially friendly, she eventually reveals that she is operating in collusion with the underworld program that has obtained the disc, and seeks profit and acceptance from Kobol by capturing Beck in a weakened state. When Tron unmasks himself, however, she has a change of heart and sacrifices herself to buy time for Beck and Tron to escape. They later lay her identity disc to rest in an energy pool in the Outlands.
+
+==Gallery==
+<gallery position="center">
+Lux.png
+</gallery>
+
+{{TronWiki|Lux}}
+{{Tron}}
+[[Category:Tron characters]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Females]]
+[[Category:Programs]]
+[[Category:Heroines]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Tron: Uprising characters]]
+[[Category:Deceased characters]]
+
+[[Category:Disney XD characters]]

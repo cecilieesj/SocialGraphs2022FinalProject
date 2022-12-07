@@ -1,0 +1,99 @@
+{{Marvel Database:Film Template
+| Image                   = Avengers Confidential Black Widow & Punisher.jpg
+| Aliases                 = 
+
+| Directors               = Kenichi Shimizu
+| Producers               = Taro Morishima
+| StoryWriters            = Marjorie Liu
+| ScreenplayWriters       = Mitsutaka Hirota
+| Musicians               = Tetsuya Takahashi
+| Cinematographers        = Kenji Fujita
+| Editors                 = 
+| Distributors            = Sony Pictures Home Entertainment, Sony Pictures Entertainment Japan
+| ProductionCompanies     = Marvel Entertainment, Madhouse
+| Running Time            = 83 minutes
+| Rating                  = '''MPAA:''' PG-13
+| Budget                  = 
+| Release Date            = March 25, 2014
+| Language                = Japanese, English
+
+| AM ID                   = avengers-confidential-black-widow-punisher-v593730
+| IMDB ID                 = 3482378
+| Marvel Movies           = Avengers Confidential: Black Widow & Punisher
+
+| Previous Film           = Iron Man: Rise of Technovore
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Last|[[Natasha Romanova (Earth-101001)|Black Widow (Natasha Romanova)]]}}
+* {{Last|[[Frank Castle (Earth-101001)|Punisher (Frank Castle)]]}}
+'''Supporting Characters:'''
+* {{Only|[[Avengers (Earth-101001)|Avengers]]}}
+** {{Last|[[Anthony Stark (Earth-101001)|Iron Man (Tony Stark)]]}}
+** {{Last|[[James Rhodes (Earth-101001)|War Machine (Lt. Col. James Rhodes)]]}}
+** {{Only|[[Carol Danvers (Earth-101001)|Captain Marvel (Carol Danvers)]]}}
+** {{Only|[[Thor Odinson (Earth-101001)|Thor]]}}
+** {{Only|[[Bruce Banner (Earth-101001)|Hulk (Bruce Banner)]]}}
+** {{Last|[[Clinton Barton (Earth-101001)|Hawkeye (Clint Barton)]]}}
+* {{Last|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-101001)|S.H.I.E.L.D.]]}}
+** {{Last|[[Nicholas Fury (Earth-101001)|Nick Fury]]}}
+** {{Last|[[Maria Hill (Earth-101001)|Maria Hill]]}}
+** {{Only|[[Amadeus Cho (Earth-101001)|Amadeus Cho]]}}
+'''Antagonists:'''
+* {{Only|[[Leviathan (Earth-101001)|Leviathan]]}}
+** {{Only Dies|[[Viktor Uvarov (Earth-101001)|Orion (Viktor Uvarov)]]}}
+** {{Only Dies|[[Cain (Earth-101001)|Cain]]}}
+** {{Only Dies|[[Elihas Starr (Earth-101001)|Elihas Starr]]}}
+** {{Only|[[Bio-Soldiers (Earth-101001)|Bio-Soldiers]]}}
+** {{Only|[[Helmut Zemo (Earth-101001)|Baron Helmut Zemo]]}}
+** {{Only|[[John Horton (Earth-101001)|Griffin (John Horton)]]}}
+** {{Only|[[Franklin Hall (Earth-101001)|Graviton (Franklin Hall)]]}}
+** {{Only|[[Eric Williams (Earth-101001)|Grim Reaper (Eric Williams)]]}}
+** {{Only|[[Anthony Masters (Earth-101001)|Taskmaster (Tony Masters)]]}}
+** {{Only|[[Luchino Nefaria (Earth-101001)|Count Nefaria (Luchino Nefaria)]]}}
+'''Other Characters:'''
+* {{Only|[[Kerberos (Earth-101001)|Kirby]]}}
+* {{FlashOnly|[[Maria Castle (Earth-101001)|Maria Castle]]}} {{Only}} {{Deceased}}
+* {{FlashOnly|[[Lisa Castle (Earth-101001)|Lisa Castle]]}} {{Only}} {{Deceased}}
+* {{FlashOnly|[[Frank Castle, Jr. (Earth-101001)|Frank Castle, Jr.]]}} {{Only}} {{Deceased}}
+'''Locations:'''
+* {{Last|[[Earth-101001]]}}
+** {{Last|[[United States of America]]}}
+*** {{Last|[[Seattle]]}}
+*** {{Last|[[Miami]]}}
+** {{Last|[[Russia]]}}
+*** {{Last|[[Slorenia]]}}
+** {{Mentioned|[[Pakistan]]}}
+*** {{Mentioned|[[Karachi]]}}
+** {{Last|[[Hong Kong]]}}
+** {{Last|[[Madripoor]]}}
+'''Items:'''
+* {{Last|[[Iron Man Armor]]}}
+* {{Last|[[War Machine Armor]]}}
+* {{Last|[[Hawkeye's Bow]]}}
+* {{Last|[[Trick Arrows]]}}
+* {{Last|[[Black Widow's Gauntlets]]}}
+* {{Only|[[Mjolnir]]}}
+* {{Only|[[Grim Reaper's Scythe]]}}
+'''Vehicles:'''
+* {{Last|[[S.H.I.E.L.D. Helicarrier]]}}
+** S.H.I.E.L.D. Interceptors {{Last}}
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Jennifer Carpenter|Jennifer Carpenter]] as [[Natasha Romanova (Earth-101001)|Black Widow / Natasha Romanova]]
+* [[wikipedia:Brian Bloom|Brian Bloom]] as [[Frank Castle (Earth-101001)|Punisher / Frank Castle]]
+* John Eric Bentley as [[Nicholas Fury (Earth-101001)|Director Nick Fury]]
+* [[wikipedia:Grant George|Grant George]] as [[Elihas Starr (Earth-101001)|Elihas Starr]]
+* [[wikipedia:Kyle Hebert|Kyle Hebert]] as [[Cain (Earth-101001)|Cain]]
+* [[wikipedia:Kari Wahlgren|Kari Wahlgren]] as [[Maria Hill (Earth-101001)|Agent Maria Hill]]
+* [[wikipedia:Eric Bauza|Eric Bauza]] as [[Amadeus Cho (Earth-101001)|Amadeus Cho]]
+* [[wikipedia:J. B. Blanc|JB Blanc]] as [[Viktor Uvarov (Earth-101001)|Orion / Viktor Uvarov]]
+* [[wikipedia:Fred Tatasciore|Fred Tatasciore]] as [[Bruce Banner (Earth-101001)|Hulk / Bruce Banner]]
+* [[wikipedia:Matthew Mercer|Matthew Mercer]] as [[Anthony Stark (Earth-101001)|Iron Man / Tony Stark]]
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Direct-to-Video Films|Marvel Films]]
+}}
+[[es:Avengers Confidential: Black Widow & Punisher]]

@@ -1,0 +1,46 @@
+{{Quote|This is Admiral Raddus of the [[Rebel Alliance]]!|Raddus to all [[X-Wing]], [[Y-Wing]], and [[U-Wing]] fighters.}}
+{{Infobox character
+|image = File:Admiral_Raddus_EW.png
+|films = ''[[Rogue One]]''
+|voice = [[Stephen Stanton]]
+|actor = Paul Kasey
+|occupation = Admiral of the Rebel Alliance<br>Commander of the Alliance Fleet
+|affiliations = [[Rebel Alliance]]
+|home = Mon Cala
+|dislikes = [[Galactic Empire]]
+|status = Deceased
+|inspiration = [[Winston Churchill]]}}
+'''Admiral Raddus''' is a character featured in the ''[[Star Wars]]'' movie ''[[Rogue One]]''. He was a Mon Calamari male who served as Admiral in the [[Rebel Alliance]].
+
+==Background==
+
+===Biography===
+A gruff Mon Calamari officer, Raddus commands the rebel starfleet before the Battle of Yavin, working to knit a hodgepodge of ships into a military force and arrange the delivery of new capital ships to the Alliance. Raddus has little patience for the rebel council’s endless committee meetings. As he sees it, military muscle is the key to defeating the [[Galactic Empire|Empire]], not stirring speeches.
+
+==Trivia==
+*As stated by Neal Scanlan, the creature effects supervisor on ''[[Rogue One|Rogue One: A Star Wars Story]]'', Admiral Raddus was inspired by [[Winston Churchill]], the prime minister of the [[United Kingdom]] from 1940–1945 and then from 1951–1955, who famously led his country through {{WikipediaLink|World War II}} during his first term.
+
+==Gallery==
+<gallery widths="150" spacing="small" position="center">
+Rogue-one_12.jpg
+Rogue-One-A-Star-Wars-Story-6.jpg
+Hasbro-2016-New-York-Comic-Con-Raddus.jpg
+Vinylmation Rogue One.jpg
+75172-raddus.png
+Admiral Raddus concept variations.jpg
+Admiral Raddus.jpg
+Raddusbridge.jpg
+</gallery>
+
+==External links==
+*[[w:c:starwars:Raddus|Raddus on Wookieepedia]]
+
+{{Star Wars}}
+[[Category:Star Wars Anthology characters]]
+[[Category:Males]]
+[[Category:Aliens]]
+[[Category:Admirals]]
+[[Category:Live-action characters]]
+[[Category:Rebel Alliance characters]]
+[[Category:Heroes]]
+[[Category:Deceased characters]]

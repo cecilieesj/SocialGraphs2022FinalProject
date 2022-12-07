@@ -1,0 +1,30 @@
+{{Infobox character
+|image = Derek_holmes.jpeg
+|name = Shedlock Jones
+|alias = 
+|shows = ''[[DuckTales]]''
+|inspiration = [[Sherlock Holmes]]<br>[[The Sleuth]]
+|occupation = Detective
+|home = [[Duckburg]]
+|likes =
+|dislikes =
+|voice = [[Clive Revill]]
+|status = Active}}
+
+'''Shedlock Jones''' is a minor character in the TV series, ''[[DuckTales]]''. He only appears in "[[Dr. Jekyll & Mr. McDuck]]".
+==Role in the series==
+{{CharacterStub}}
+{{DuckTales}}
+{{DEFAULTSORT:Jones, Shedlock}}
+[[Category:English characters]]
+[[Category:Detectives]]
+[[Category:Males]]
+[[Category:Dogs]]
+[[Category:Anthropomorphic characters]]
+[[Category:Donald Duck universe characters]]
+[[Category:DuckTales characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:The Disney Afternoon characters]]
+[[Category:Heroes]]
+[[Category:Disney characters]]

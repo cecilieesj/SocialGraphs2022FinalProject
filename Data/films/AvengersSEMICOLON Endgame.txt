@@ -1,0 +1,680 @@
+{{Marvel Database:Film Template
+| Image                   = Avengers Endgame poster 002.jpg
+| Aliases                 = Mary Lou 2 (working title), Avengers: Untitled (Expo D23 2017), Avengers 4, Avengers: Infinity War - Part II
+
+| Directors               = [[Anthony Russo]]; [[Joseph Russo|Joe Russo]]
+| Producers               = [[Kevin Feige]]
+| ComicWriters            = [[Stan Lee]]; [[Jack Kirby]]
+| StoryWriters            = 
+| ScreenplayWriters       = Christopher Markus; Stephen McFeely
+| Musicians               = Alan Silvestri
+| Cinematographers        = Trent Opaloch
+| Editors                 = Jeffrey Ford; Matthew Schmidt
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = 182 minutes
+| Rating                  = '''MPAA''': PG-13 for sequences of sci-fi violence and action, and some language
+| Budget                  = $356 million
+| Release Date            = April 24, 2019
+| US Release Date         = April 26, 2019
+
+| AM ID                   = avengers-endgame-v619017
+| IMDB ID                 = 4154796
+| Marvel Movies           = {{PAGENAME}}
+| MCU                     = {{PAGENAME}}
+| Spider-Man Films        = {{PAGENAME}}
+
+| Previous Film           = Avengers: Infinity War
+| Previous Film2          = {{sld|Ant-Man and the Wasp (film)}}{{sld|Captain Marvel (film)}}
+| Next Film               = Spider-Man: Far From Home
+| Next Film2              = {{sld|Doctor Strange in the Multiverse of Madness}}{{sld|Thor: Love and Thunder}}{{sld|Black Panther: Wakanda Forever}}{{sld|Ant-Man and the Wasp: Quantumania}}{{sld|Guardians of the Galaxy Vol. 3 (film)}}{{sld|The Marvels (film)}}{{sld|Captain America: New World Order}}{{sld|Avengers: The Kang Dynasty}}
+
+| Tagline                 = Avenge the fallen.
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Disbands|[[Avengers (Earth-199999)|Avengers]]}}
+** {{apn|[[Clinton Barton (Earth-199999)|Hawkeye / Ronin (Clint Barton)]]|Marvel's Avengers: Infinity War Prelude Vol 1 1|Hawkeye (TV series) Season 1 1}} {{g|Rejoins and leaves team}}
+** {{apn|[[Anthony Stark (Earth-199999)|Iron Man / "Howard Potts" (Tony Stark)]]|Avengers: Infinity War|-}} {{Death}}
+** {{apn|[[Nebula (Earth-199999)|Nebula]]|Avengers: Infinity War|Thor: Love and Thunder}} {{g|Joins and leaves team; rejoins [[Guardians of the Galaxy (Earth-199999)|Guardians of the Galaxy]]}}
+** {{apn|[[Steven Rogers (Earth-199999)|Captain America / Captain Stevens (Steve Rogers)]]|Captain Marvel (film)|-}} {{Last}}{{Flashback}} {{g|Impersonates [[Steven Rogers (Earth-TRN732)|Captain America]]}} {{Leaves}}
+** {{apn|[[Bruce Banner (Earth-199999)|Hulk (Dr. Bruce Banner)]]|Captain Marvel (film)|Shang-Chi and the Legend of the Ten Rings}} {{g|Impersonates [[Bruce Banner (Earth-TRN732)|Hulk]]}} {{Leaves}}
+** {{apn|[[James Rhodes (Earth-199999)|War Machine (James "Rhodey" Rhodes)]]|Captain Marvel (film)|The Falcon and The Winter Soldier Season 1 1}} {{Leaves}}
+** {{apn|[[Natalia Romanoff (Earth-199999)|Black Widow (Natasha Romanoff)]]|Captain Marvel (film)|-}} {{Death}}
+** {{apn|[[89P13 (Earth-199999)|Rocket (89P13)]]|Avengers: Infinity War|Thor: Love and Thunder}} {{g|Joins and leaves team; rejoins [[Guardians of the Galaxy (Earth-199999)|Guardians of the Galaxy]]}}
+** {{apn|[[Thor Odinson (Earth-199999)|Thor]]|Avengers: Infinity War|Thor: Love and Thunder}} {{g|Leaves team; joins [[Guardians of the Galaxy (Earth-199999)|Guardians of the Galaxy]]}}
+** {{apn|[[Scott Lang (Earth-199999)|Ant-Man (Scott Lang)]]|Ant-Man and the Wasp (film)|-}} {{g|Joins and leaves team}}
+'''Supporting Characters:'''
+* {{Disbands|[[Avengers (Earth-199999)|Avengers]]}}
+** {{apn|[[Carol Danvers (Earth-199999)|Captain Marvel (Carol Danvers)]]|Captain Marvel (film)|Shang-Chi and the Legend of the Ten Rings}} {{g|Joins and leaves team}}
+** {{apn|[[Samuel Wilson (Earth-199999)|Falcon (Sam Wilson)]]|Avengers: Infinity War|The Falcon and The Winter Soldier Season 1 1}} {{Rebirth}} {{Leaves}}
+** {{apn|[[Peter Parker (Earth-199999)|Spider-Man (Peter Parker)]]|Avengers: Infinity War|Spider-Man: Far From Home}} {{Rebirth}} {{Leaves}}
+** {{apn|[[Wanda Maximoff (Earth-199999)|Wanda Maximoff]]|Avengers: Infinity War|WandaVision Season 1 1}} {{Rebirth}} {{Leaves}}
+* {{apn|[[Virginia Potts (Earth-199999)|Rescue (Pepper Potts)]]|Avengers: Infinity War|-}} {{1stas|Rescue}} {{Last}}
+* {{a|[[Dora Milaje (Earth-199999)|Dora Milaje]]}}
+** {{apn|[[Okoye (Earth-199999)|General Okoye]]|Avengers: Infinity War|-}} {{g|Joins and leaves [[Avengers (Earth-199999)|Avengers]]}}
+** Numerous unnamed members
+* {{apn|[[Brunnhilde (Earth-199999)|Valkyrie]]|Thor: Ragnarok|Thor: Love and Thunder}}
+* {{apn|[[Korg (Earth-199999)|Korg]]|Thor: Ragnarok|Thor: Love and Thunder}}
+* {{apn|[[Miek (Earth-199999)|Miek]]|Thor: Ragnarok|Thor: Love and Thunder}}
+* {{1st|[[Gamora (Earth-TRN734)|Gamora (2014)]]}} {{g|Leaves [[Black Order (Earth-TRN734)|Black Order]]}}
+* {{apn|[[T'Challa (Earth-199999)|Black Panther (King T'Challa)]]|Avengers: Infinity War|-}} {{Rebirth}}
+* {{apn|[[Shuri (Earth-199999)|Princess Shuri]]|Avengers: Infinity War|-}} {{Rebirth}}
+* {{a|[[Masters of the Mystic Arts (Earth-199999)|Masters of the Mystic Arts]]}}
+** {{apn|[[Stephen Strange (Earth-199999)|Doctor Strange (Dr. Stephen Strange)]]|Avengers: Infinity War|Spider-Man: No Way Home}} {{Rebirth}}
+** {{apn|[[Wong (Earth-199999)|Wong]]|Avengers: Infinity War|Shang-Chi and the Legend of the Ten Rings}}
+** Numerous unnamed members
+* {{a|[[Guardians of the Galaxy (Earth-199999)|Guardians of the Galaxy]]}}
+** {{apn|[[Peter Quill (Earth-199999)|Star-Lord (Peter Quill)]]|Avengers: Infinity War|Thor: Love and Thunder}} {{Rebirth}}
+** {{apn|[[Drax (Earth-199999)|Drax the Destroyer]]|Avengers: Infinity War|Thor: Love and Thunder}} {{Rebirth}}
+** {{apn|[[Mantis (Earth-199999)|Mantis]]|Avengers: Infinity War|Thor: Love and Thunder}} {{Rebirth}}
+** {{apn|[[Groot II (Earth-199999)|Groot]]|Avengers: Infinity War|Thor: Love and Thunder}} {{Rebirth}}
+* {{a|[[Jabari Tribe (Earth-199999)|Jabari Tribe]]}}
+** {{apn|[[M'Baku (Earth-199999)|M'Baku]]|Avengers: Infinity War|-}}
+** Numerous unnamed members
+* {{apn|[[James Buchanan Barnes (Earth-199999)|White Wolf (Bucky Barnes)]]|Avengers: Infinity War|The Falcon and The Winter Soldier Season 1 1}} {{Rebirth}}
+* {{apn|[[Hope Van Dyne (Earth-199999)|Wasp (Hope van Dyne)]]|Ant-Man and the Wasp (film)|-}} {{Rebirth}}
+* {{a|[[Ravagers (Earth-199999)|Ravagers]]}}
+** {{apn|[[Howard Duckson (Earth-199999)|Howard the Duck]]|Guardians of the Galaxy Vol. 2 (film)|-}}
+** {{apn|[[Kraglin Obfonteri (Earth-199999)|Kraglin Obfonteri]]|Guardians of the Galaxy Vol. 2 (film)|Thor: Love and Thunder}} {{BTS}}
+** Numerous unnamed members
+'''Antagonists:'''
+* {{apn|[[Thanos (Earth-199999)|Thanos]]|Avengers: Infinity War|-}} {{Death}}
+* {{Only Dies|[[Thanos (Earth-TRN734)|Thanos (2014)]]}}
+* {{Only|[[Black Order (Earth-TRN734)|Black Order (2014)]]}} {{Disbands}}
+** {{Only Dies|[[Nebula (Earth-TRN734)|Nebula (2014)]]}} {{g|Impersonates [[Nebula (Earth-199999)|Nebula (2023)]]}}
+** {{Only Dies|[[Ebony Maw (Earth-TRN734)|Ebony Maw (2014)]]}}
+** {{Only Dies|[[Corvus Glaive (Earth-TRN734)|Corvus Glaive (2014)]]}}
+** {{Only Dies|[[Cull Obsidian (Earth-TRN734)|Cull Obsidian (2014)]]}}
+** {{Only Dies|[[Proxima Midnight (Earth-TRN734)|Proxima Midnight (2014)]]}}
+'''Other Characters:'''
+* {{apn|[[Lila Barton (Earth-199999)|Lila Barton]]|Marvel's Avengers: Infinity War Prelude Vol 1 1|Hawkeye (TV series) Season 1 1}} {{g|Death and Rebirth}}
+* {{apn|[[Laura Barton (Earth-199999)|Laura Barton]]|Marvel's Avengers: Infinity War Prelude Vol 1 1|Hawkeye (TV series) Season 1 1}} {{g|Death and Rebirth}}
+* {{apn|[[Cooper Barton (Earth-199999)|Cooper Barton]]|Marvel's Avengers: Infinity War Prelude Vol 1 1|Hawkeye (TV series) Season 1 1}} {{g|Death and Rebirth}}
+* {{apn|[[Nathaniel Barton (Earth-199999)|Nathaniel Barton]]|Marvel's Avengers: Infinity War Prelude Vol 1 1|Hawkeye (TV series) Season 1 1}} {{g|Death and Rebirth}}
+* {{OnScreenOnly|[[Erik Selvig (Earth-199999)|Erik Selvig]]}}
+* {{OnScreenOnly|[[Sharon Carter (Earth-199999)|Sharon Carter]]}}
+* {{Photo|[[Margaret Carter (Earth-199999)|Peggy Carter]]}}
+* {{Only|[[James Starlin (Earth-199999)|Jim]]}}
+* {{apn|[[Cassandra Lang (Earth-199999)|Cassie Lang]]|Marvel's Avengers: Infinity War Prelude Vol 1 1|-}}
+* {{1st|[[Morgan Stark (Earth-199999)|Morgan Stark]]}}
+* {{g|[[F.R.I.D.A.Y. (Earth-199999)|F.R.I.D.A.Y.]]|Voice}}
+* {{a|[[Yakuza (Earth-199999)|Yakuza]]}}
+** {{Only Dies|[[Akihiko (Earth-199999)|Akihiko]]}}
+* {{Mentioned|[[Bor Burison (Earth-199999)|Bor]]}}
+* {{OnScreenOnly|[[Jane Foster (Earth-199999)|Dr. Jane Foster]]}}
+* {{OnScreenOnly|[[Malekith (Earth-199999)|Malekith]]}}
+* {{Mentioned|[[Frigga (Earth-199999)|Frigga]]}}
+* {{Mentioned|[[Gamora (Earth-199999)|Gamora]]}}
+* {{Only|[[Avengers (Earth-TRN732)|Avengers (2012)]]}}
+** {{Only|[[Anthony Stark (Earth-TRN732)|Iron Man (Tony Stark-2012)]]}}
+** {{Only|[[Steven Rogers (Earth-TRN732)|Captain America (Steve Rogers-2012)]]}}
+** {{Only|[[Thor Odinson (Earth-TRN732)|Thor (2012)]]}}
+** {{Only|[[Bruce Banner (Earth-TRN732)|Hulk (Dr. Bruce Banner-2012)]]}}
+** {{Only|[[Natalia Romanoff (Earth-TRN732)|Black Widow (Agent Natasha Romanoff-2012)]]}}
+** {{Only|[[Clinton Barton (Earth-TRN732)|Hawkeye (Agent Clint Barton-2012)]]}}
+* {{Only|[[Ancient One (Earth-TRN732)|Ancient One (2012)]]}}
+* {{Mentioned|[[Stephen Strange (Earth-TRN732)|Dr. Stephen Strange (2012)]]}}
+* {{apn|[[Loki Laufeyson (Earth-TRN732)|Loki (2012)]]|-|Loki (TV series) Season 1 1}} {{1st}} {{g|Impersonates [[Steven Rogers (Earth-TRN732)|Captain America-2012]]}}
+* {{Only|[[Loki Laufeyson (Earth-TRN733)|Loki (2013)]]}}
+* {{Only|[[Frigga (Earth-TRN733)|Frigga (2013)]]}}
+* {{Only|[[Einherjar (Earth-TRN733)|Einherjar (2013)]]}}
+* {{Mentioned|[[Ronan (Earth-TRN734)|Ronan the Accuser (2014)]]}}
+* {{Only|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-TRN732)|S.H.I.E.L.D. (2012)]]}}
+** {{Only|[[Special Tactical Reserve for International Key Emergencies (Earth-TRN732)|S.T.R.I.K.E. (2012)]]}}
+*** {{Only|[[Brock Rumlow (Earth-TRN732)|Agent Brock Rumlow (2012)]]}}
+*** {{Only|[[Jack Rollins (Earth-TRN732)|Agent Jack Rollins (2012)]]}}
+*** Several unnamed others {{Only}}
+** {{Only|[[Jasper Sitwell (Earth-TRN732)|Agent Jasper Sitwell (2012)]]}}
+** {{Only|[[Alexander Pierce (Earth-TRN732)|Secretary Alexander Pierce (2012)]]}}
+** {{Mentioned|[[Nicholas Fury (Earth-TRN732)|Nick Fury (2012)]]}}
+** Several unnamed others {{Only}}
+* {{Only|[[Hydra (Earth-TRN732)|Hydra (2012)]]}}
+** {{Mentioned|[[Doctor List (Earth-TRN732)|Doctor List (2012)]]}}
+* {{Mentioned|[[James Buchanan Barnes (Earth-TRN732)|Bucky Barnes (2012)]]}} 
+* {{Mentioned|[[Odin Borson (Earth-TRN732)|Odin (2012)]]}}
+* {{Mentioned|[[Odin Borson (Earth-TRN733)|Odin (2013)]]}}
+* {{Mentioned|[[Thor Odinson (Earth-TRN733)|Thor (2013)]]}}
+* {{Only|[[Peter Quill (Earth-TRN734)|Star-Lord (Peter Quill-2014)]]}}
+* {{Only|[[Jane Foster (Earth-TRN733)|Dr. Jane Foster (2013)]]}}
+* {{Only|[[United States Army (Earth-TRN735)|United States Army (1970)]]}}
+* {{Only|[[Stan Lee (Earth-TRN735)|Stan Lee (1970)]]}}
+* {{Photo|[[Steven Rogers (Earth-TRN735)|Captain America (Steve Rogers-1970)]]}}
+* {{Only|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-TRN735)|S.H.I.E.L.D. (1970)]]}}
+** {{Only|[[Phyllis Jenkins (Earth-TRN735)||Phyllis Jenkins (1970)]]}}
+** {{Only|[[Howard Stark (Earth-TRN735)|Howard Stark (1970)]]}}
+** {{Mentioned|[[Arnim Zola (Earth-TRN735)|Dr. Arnim Zola (1970)]]}}
+** {{Only|[[Henry Pym (Earth-TRN735)|Dr. Hank Pym (1970)]]}}
+** {{Only|[[Margaret Carter (Earth-TRN735)|Director Peggy Carter (1970)]]}}
+** [[Braddock]] <small>(1970)</small> {{Mentioned}}
+** Several unnamed agents {{Only}}
+* {{Mentioned|[[Maria Stark (Earth-TRN735)|Maria Stark (1970)]]}}
+* {{Mentioned|[[Anthony Stark (Earth-TRN735)|Tony Stark (1970)]]}}
+* {{Mentioned|[[Howard Stark Sr. (Earth-TRN735)|Howard Stark Sr. (1970)]]}}
+* {{Mentioned|[[Howard Stark (Earth-199999)|Howard Stark]]}}
+* {{Only|[[Edwin Jarvis (Earth-TRN735)|Edwin Jarvis (1970)]]}}
+* {{Only|[[Johann Schmidt (Earth-TRN734)|Red Skull / Stonekeeper (Johann Schmidt-2014)]]}}
+* {{Mentioned|[[Ivan Petrovich  (Earth-199999)|Ivan]]}}
+* {{Mentioned|[[Edith Barton (Earth-199999)|Edith Barton]]}}
+* {{BTS|[[Karen (A.I.) (Earth-199999)|Karen]]}}
+* {{1st|[[Warsong (Earth-199999)|Warsong]]}} {{Unnamed}}
+* {{apn|[[Harold Hogan (Earth-199999)|Happy Hogan]]|Spider-Man: Homecoming|Spider-Man: Far From Home}}
+* {{apn|[[Maybelle Parker (Earth-199999)|May Parker]]|Spider-Man: Homecoming|Spider-Man: Far From Home}}
+* {{apn|[[Henry Pym (Earth-199999)|Dr. Hank Pym]]|Ant-Man and the Wasp (film)|-}} {{Rebirth}}
+* {{apn|[[Janet Van Dyne (Earth-199999)|Janet Van Dyne]]|Ant-Man and the Wasp (film)|-}} {{Rebirth}}
+* {{apn|[[Harley Keener (Earth-199999)|Harley Keener]]|Iron Man 3 (film)|-}}
+* {{apn|[[Thaddeus Ross (Earth-199999)|Secretary Thaddeus "Thunderbolt" Ross]]|Avengers: Infinity War|-}}
+* {{apn|[[Maria Hill (Earth-199999)|Maria Hill]]|Avengers: Infinity War|-}} {{Rebirth}}
+* {{apn|[[Nicholas Fury (Earth-199999)|Nick Fury]]|Avengers: Infinity War|Spider-Man: Far From Home}} {{Rebirth}}
+* {{apn|[[Edward Leeds (Earth-199999)|Ned Leeds]]|Avengers: Infinity War|Spider-Man: Far From Home}} {{Rebirth}}
+* {{apn|[[Ramonda (Earth-199999)|Queen-Mother Ramonda]]|Black Panther (film)|-}}
+* {{Mentioned|[[Vision (Earth-199999)|Vision]]}}
+* {{Only|[[Margaret Carter (Earth-TRN736)|Peggy Carter (1949)]]}} {{FlashOnly}}
+* [[wikipedia:Bee Gees|The Bee Gees]] {{Mentioned}} <!--Historical Reference-->
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}} {{Flashback}}
+** {{a|[[Human-Celestial Hybrids]]}}
+* {{Mentioned|[[Xorrians]]}}
+* {{a|[[Asgardians]]}}
+* {{a|[[Luphomoids]]}}
+* {{a|[[Halfworlders]]}}
+* {{a|[[Titans (Eternals)|Titans]]}}
+* {{a|[[Kronans]]}}
+* {{a|[[Sakaaran Natives]]}}
+* {{Mentioned|[[Dark Elves]]}}
+* {{a|[[Frost Giants|Jotuns]]}}
+* {{a|[[Orloni]]}}
+* {{a|[[Korbinites]]}}
+* {{a|[[Zen-Whoberis|Zen-Whoberians]]}}
+* {{a|[[Outriders (Race)|Outriders]]}}
+* {{a|[[Chitauri]]}}
+* {{1st|[[Chitauri Apes]]}}
+* {{a|[[Leviathans (Chitauri)|Leviathans]]}}
+* {{a|[[Sakaarans]]}}
+* {{a|[[Flora colossi]]}}
+* {{a|[[Winged Horses]]}}
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[Barton Farm]]}}
+**** {{a|[[New York (State)|New York]]}}
+***** {{Destroyed|[[New Avengers Facility]]}}
+***** {{a|[[New York City]]}}
+****** {{a|[[Upper New York Bay]]}}
+******* {{a|[[Ellis Island]]}}
+******** {{a|[[Statue of Liberty]]}}
+****** {{a|[[Citi Field]]}}
+***** {{Mentioned|[[Hudson River]]}}
+****** {{Mentioned|[[Sullivan Street]]}}
+****** {{a|[[Queens]]}}
+******* {{a|[[Midtown High School|Midtown School of Science & Technology]]}}
+**** {{a|[[California (State)|California]]}}
+***** {{a|[[San Francisco]]}}
+*** {{Mentioned|[[Mexico]]}}
+**** {{Mentioned|[[Gamma Lab]]}}
+*** {{Mentioned|[[Germany]]}}
+**** {{Mentioned|[[Leipzig/Halle Airport]]}}
+*** {{a|[[Norway]]}}
+**** {{a|[[Tønsberg]]}}
+***** {{1st|[[New Asgard]]}}
+*** {{a|[[Japan]]}}
+**** {{a|[[Tokyo]]}}
+*** {{Mentioned|[[Toronto]]}}
+*** {{Mentioned|[[Budapest|Budapest, Hungary]]}}
+*** {{a|[[Wakanda]]}}
+** {{1st Real Name|[[0259-S|The Garden / Planet 0259-S]]}}
+** {{a|[[Microverse|Quantum Realm]]}}
+** {{a|[[Astral Plane]]}}
+** {{Mentioned|[[Harokin (Location)|Harokin]]}}
+** {{a|[[Titan (Moon of Saturn)|Titan]]}}
+** {{a|[[Contraxia]]}}
+* {{1st|[[Earth-TRN732|Alternate 2012 A.D.]]}}
+** {{1st|[[Earth]]}}
+*** {{Only|[[United States of America]]}}
+**** {{Only|[[New York (State)|New York]]}}
+***** {{Only|[[New York City]]}}
+****** {{Only|[[Manhattan]]}}
+******* [[Manhattan#Midtown Manhattan|Midtown]] {{Only}}
+******** {{Only|[[Stark Tower]]}}
+******* {{Only|[[Central Park]]}}
+******* {{Only|[[Greenwich Village]]}}
+******** {{Only|[[Bleecker Street]]}}
+********* {{Only|[[Sanctum Sanctorum]]}}
+* {{Only|[[Earth-TRN733|Alternate 2013 A.D.]]}}
+** {{Only|[[Asgard (Realm)|Asgard]]}}
+*** {{Only|[[Asgard (City)|City of Asgard]]}}
+* {{Only|[[Earth-TRN734|Alternate 2014 A.D.]]}}
+** {{Only|[[Morag (Planet)|Morag]]}}
+*** {{Only|[[Temple of the Power Stone]]}}
+** {{Only|[[Sanctuary (Planet)|Sanctuary]]}}
+** {{Only|[[Vormir]]}}
+* {{Only|[[Earth-TRN735|Alternate 1970 A.D.]]}}
+** {{Only|[[Earth]]}}
+*** {{Only|[[United States of America]]}}
+**** {{Only|[[New Jersey (State)|New Jersey]]}}
+***** {{Only|[[Wheaton]]}}
+****** {{Only|[[Camp Lehigh]]}}
+* {{a|[[Earth-TRN736|Alternate 1949 A.D.]]}} <small>(Steve and Peggy are married)</small> {{Only}} {{FlashOnly}}
+** {{Only|[[Earth]]}}
+*** {{Only|[[United States of America]]}}
+**** {{Only|[[Washington, D.C.]]}}
+'''Items:'''
+* {{a|[[Hawkeye's Bow]]}}
+* {{a|[[Trick Arrows]]}}
+* {{a|[[Iron Man Armor MK L (Earth-199999)|Iron Man Armor MK L]]}}
+* {{a|[[Captain Marvel's Suit]]}}
+* {{a|[[Stormbreaker]]}}
+* {{a|[[Universal Neural Teleportation Network]]}}
+* {{a|[[Captain America's Uniform|Captains America's Uniforms]]}}
+* {{a|[[Black Widow's Gauntlets|Black Widows' Gauntlets]]}}
+* {{a|[[Black Widow's Batons]]}}
+* {{a|[[War Machine Armor MK IV (Earth-199999)|War Machine Armor MK IV]]}}
+* {{a|[[Iron Man Armor MK XLVIII (Earth-199999)|Hulkbuster Armor 2.0]]}}
+* {{a|[[Infinity Gauntlet (Item)|Infinity Gauntlets]]}}
+* {{a|[[Ant-Man's Suit]]}} and {{a|[[Ant-Man's Helmet|Helmet]]}}
+* {{a|[[Pym Particles]]}}
+* {{Only|[[Iron Man Armor MK VI (Earth-199999)|Iron Man Armor MK VI (2012)]]}}
+* {{a|[[Captain America's Shield|Captains America's Shields]]}}
+* {{a|[[Vibranium]]}}
+* {{Only|[[Iron Man Armor MK VII (Earth-199999)|Iron Man Armor MK VII (2012)]]}}
+* {{a|[[Arc Reactor|Arc Reactors]]}}
+* {{Only|[[Mjolnir|Mjolnir (2013)]]}}
+* {{Only|[[Eye of Agamotto (Knowledge)|Eye of Agamotto]]}}
+* {{1st|[[War Machine Armor MK V (Earth-199999)|War Machine Armor MK V]]}}
+* {{1st|[[War Machine Armor MK VI (Earth-199999)|War Machine Armor MK VI]]}}
+* {{1st|[[Iron Man Armor MK LXXXV (Earth-199999)|Iron Man Armor MK LXXXV]]}}
+* {{Only|[[Loki's Scepter]]}}
+* {{1st|[[Cosmic Cube|Tesseracts]]}}
+* {{Only|[[Infinity Stones]]}}
+** {{Only|[[Mind Stone|Mind Stone (2012)]]}}
+** {{Only|[[Space Stone|Space Stones]]}}
+** {{Only|[[Reality Stone|Reality Stone (2013)]]}}
+** {{Only|[[Time Stone|Time Stone (2012)]]}}
+** {{Only|[[Power Stone|Power Stone (2014)]]}}
+** {{Only|[[Soul Stone|Soul Stone (2014)]]}}
+* {{a|[[Star-Lord Armor|Star-Lords' Helmets]]}}
+* {{Only|[[Awesome Mix Vol. 1]]}}
+* {{a|[[Element Gun|Quad Blasters]]}}
+* {{Only|[[Translator Implant (Alien Technology)|Translator Implant]]}}
+* {{1st|[[Godslayer|Gamora's Swords]]}}
+* {{Only|[[Proxima Midnight's Spear]]}}
+* {{Only|[[Corvus Glaive's Glaive]]}}
+* {{Only|[[Cull Obsidian's Hammer]]}}
+* {{a|[[Panther Habit]]}}
+* {{a|[[Vibranium Strike Gauntlets]]}}
+* {{a|[[Falcon's Wings|Exo-7 Falcon Flight Harness]]}}
+* {{a|[[Cloak of Levitation]]}}
+* {{a|[[Sling Ring]]}}
+* {{a|[[Shield of the Seraphim|Shields of the Seraphim]]}}
+* {{a|[[Drax's Knives]]}}
+* {{a|[[Iron Spider Armor]]}}
+** {{a|[[Web-Shooters]]}}
+* {{a|[[Winter Soldier's Bionic Arm|White Wolf's Bionic Arm]]}}
+* {{a|[[Wasp's Suit|Wasps' Suits]]}} and {{a|[[Bio-Synthetic Wings]]}}
+* {{1st|[[Iron Man Armor MK XLIX (Earth-199999)|Iron Man Armor MK XLIX (Rescue Armor)]]}}
+* {{a|[[M'Baku's War Club]]}}
+* {{a|[[Winds of Watoomb]]}}
+'''Vehicles:'''
+* {{a|[[Benatar]]}}
+* {{a|[[Quinjet]]}}
+* {{a|[[Milano]]}}
+* {{a|[[Necrocraft]]}}
+* {{g|[[Sanctuary (Vehicle)|Sanctuary II]]|Only appearance; destroyed}}
+* {{a|[[Q-Ship|Q-Ships]]}}
+* {{Destroyed|[[Ant-Van|X-Con Van with Hank Pym's Portable Lab]]}}
+* {{a|[[Dragon Flyers]]}}
+
+| Plot                    =  In 2018, Clint is living out his last few days under house arrest. He teaches his daughter Lila how to shoot a bow and arrow, being called by his wife to join the family for hotdogs. Laura asks if anyone wants mayo on their hotdogs, confusing Clint, Lila and her brother Cooper. When Laura asks her youngest son Nathaniel what he wants, he bluntly asks for ketchup. Clint walks over to join the family at their table, calling for Laura to join them. However, he turns around to see she's vanished. He turns back to see the rest of the family has also vanished. Panicked, he runs around yelling for them. (Unknown to Clint, half of all the life in the universe had just been wiped out by Thanos at the moment; his family were the unlucky ones in the random culling.)
+
+Fast-forwarding a little...
+
+Following their fight with Thanos on Titan, Tony and Nebula discover that the Guardians of the Galaxy's ship suffered damage in the battle (likely from the moon debris Thanos rained down on them). They manage to repair the damage enough to get two days worth of power out of the ship; however, it runs out of juice in the middle of space, stranded too far from any civilization for help. Rather than simply give up, Tony decides to bide time in the hopes someone will arrive; he plays games with Nebula, who starts bonding with him and treating his stab wound. After 22 days, they are out of food and will lose oxygen in a few hours. Tony records a goodbye message for Pepper, drifting off to sleep. However, his rest is interrupted by an orange glow approaching the ship. He looks out the window to see its coming from none other than Captain Marvel.
+
+On Earth, the Avengers are still reeling from their defeat and trying to figure out who on Earth was a victim of the snap. Captain Marvel brings Tony and Nebula to the Avengers compound, much to their relief. Tony is happy to see Pepper survived, sharing a moment with her. Rocket joins Nebula on the stairs of the ship, both mourning the loss of their surrogate family. After being brought up to speed, Tony snaps at Rogers for his failure; he reminds him about the idea he gave about a suit of armor around the planet (which lead to Ultron, due to Wanda giving him a vision of his worst fear two years ago), and that Rogers told him they'd lose together if they couldn't protect the world. Tony gives his nanotech armor to Rogers, bitterly telling him to go find Thanos and have another go; he passes out and is put in the med bay on IV to recover.
+
+However, Rocket and Nebula have some good news; when the snap occurred, it released a unique cosmic ripple effect across the universe. A few days ago, a similar one happened on a planet called Titan II, which Nebula reveals to be where Thanos planned to retire after completing his life's work. As Tony is too badly malnourished, Cap, Nat, Bruce, Thor, Danvers, Rhodey, Rocket and Nebula head for the planet. Danvers does a sweep of the planet once they arrive, discovering there is no advanced technology and Thanos is the only one on it. Below, a severely hurt and weakened Thanos is humbly cooking dinner. He is surprised by Thor, who cuts off his arm to prevent him from using the stones. Everyone else rushes in, ready to attack. However, Rocket discovers to his horror that the gauntlet is empty of the stones. Thanos reveals that their power would only tempt him after completing his work, so he destroyed them using the stones' own power to ensure the culling can not be undone. In a rage, Thor decapitates Thanos, remembering the Mad Titan's taunt about not going for his head.
+
+Five years later... 2023
+
+The Earth has more or less returned to proper stability. Rogers is leading a support group of survivors, encouraging them to move on from their losses. At the Avengers Facility, Nat is on a video call with Okoye, Rhodey, Danvers, Rocket and Nebula about progress in stabilizing Earth and the rest of the universe; Danvers, Rocket and Nebula are busy quelling chaos on other worlds, while Okoye and Rhodey are keeping an eye on Earth. Once the other four hang up, Nat asks Rhodey about Clint's location; he reveals a Mexican cartel was wiped out recently. Since the loss of his family, Clint has gone on bloody crusade to "rectify" the Blip's mistake in leaving criminals alive. Rogers joins her, joking that Thanos wasn't ''all'' wrong, as the water is cleaner and there's less pollution. Elsewhere, Luis's van with the tunnel to the quantum realm has since been put in an impound lot; a rat accidentally steps on the activation button and Scott Lang is spat out, confused by his surroundings. After getting the security guard to let him out with the equipment, Scott is shocked to see the effects of the snap. He races to his ex-wife's house to see if his daughter is still alive; to his shock, he is greeted by an early teen version of Cassie, who is happy to see her father again.
+
+Lang goes to the Avengers Facility, surprising Nat and Rogers. He explains that time moves differently in the quantum realm; he was in there for five hours, basically an hour for each year. He theorizes that they can use this time dilation to their advantage and use time travel to bring past versions of the Infinity Stones to the present day and reverse the snap's effects. They go to ask Tony for help, but he is unwilling to jeopardize the life of his four year-old daughter Morgan. Knowing only one other genius, Nat and Rogers take Lang to see Bruce Banner, who is now a celebrity as the Hulk, having figured out how to maintain his mind and have the strength of the Hulk. Their experiments with time travel accidentally alter Lang's age briefly, only to have Tony arrive and reveal that he is willing to help them (if it means they can bring back his protege/surrogate son Spider-Man). Nat recruits Clint for the mission, while Nebula, Rocket and Rhodey return. They also go to New Asgard to recruit Thor, who has become an overweight bitter drunk to forget his troubles; when offered redemption, Thor agrees to join. Once the group is assembled, Bruce explains that unlike EVERY single time travel movie everyone has seen, anything they do in the past will NOT alter their present day; instead, it will create alternate realities, meaning they don't have to worry about the timeline. Lang explains that without Hank Pym to create more Pym particles, there's only enough left for 10 round trips - a particle for each trip. Tony reveals he create devices to control when they go in time, which is in wrist-worn form.
+
+As everyone has "damn-near been killed" by a stone (except Lang), they go over all the times they seen the stones in the past to figure out locations. While brainstorming with Tony and Bruce, Nat realizes that they can obtain three stones at the same time if they pick the right year. Choosing New York 2012 (for the tesseract, Loki's scepter and the Eye of Agamotto), Morag 2014 (for the orb and a trip to Vomir) and Asgard 2013 (for the Aether), the group divides into three teams. Tony, Rogers, Bruce and Lang will go to 2012, Nebula, Rhodey, Clint and Nat will go to 2014 and Thor and Rocket will go 2013.
+
+Arriving in New York 2012 just after Bruce transformed into the Hulk to join the fight, Tony, Rogers, Lang and Bruce watch as the Hulk smashes Chitauri from an alley, embarrassing Bruce. Bruce is to go the Sanctum Sanctorum for the Time Stone, while they get the Space and Mind Stones after their past selves arrest Loki. Arriving on the roof of the Sanctum, Bruce finds the Ancient One blasting Chitauri away. She reveals that he's four years too early to find Dr. Strange there, but Bruce insists she hand over the Time Stone. The Ancient One pushes Bruce's astral form out of his body and reveals that taking the Stones from their places in time will cause chaotic alternate timelines as the stones maintain balance. Bruce understands, explaining that once they are done with the stones in the future, they will return them. In Stark Tower, Tony tells Lang how to give his past self a mild heart attack by unplugging part of his Arc Reactor. This distraction allows him to take the case with the Tesseract in it, but unfortunately, Hulk bursts through the stairs, angry at being forced to use them; the case opens and lands near Loki, who uses it to vanish. Elsewhere, Rogers joins Agents Sitwell and Brumelo in the elevator as they prepare to take Loki's scepter to Dr. List. He whispers "Hail HYDRA" to Sitwell, tricking him into thinking he's joined HYDRA. Unfortunately, 2012 Rogers mistakes his 2023 self for Loki in disguise, leading to the two of them fighting; distracting his past self by telling him Bucky is still alive, Rogers knocks himself out and returns to his team's arrival point. Tony reveals that they have an option for the Tesseract and more particles in 1970; they entrust Lang with the scepter and he returns to the present.
+
+Arriving in 1970, Tony reveals that they are at an SSR/S.H.I.E.L.D. base where they've been keeping the Tesseract and where Hank Pym is still working for S.H.I.E.L.D. Rogers makes a call to Pym, telling him that some soldiers opened a dangerous package of materials he needs for his work, tricking him out of his lab. Hiding in an office to briefly avoid security, Rogers sees it belongs to his love Peggy Carter. Tony manages to get the Tesseract in a briefcase but runs into his father Howard. Tony passes himself off as Howard Potts, learning his father was worried about how to raise him. Telling him that he's got a daughter, Tony subtly encourages his father to not worry about how to raise his child. Reuniting with Rogers, they both return to the present.
+
+In 2013 Asgard, Thor spots Jane being escorted around the palace, having a breakdown. Rocket encourages him to talk to Jane long enough for him to extract the Aether from her. However, the very next moment, Thor vanishes to watch his mother Frigga. Frigga spots Thor, immediately realizing he's the future version of her son. Thor asks for her council, and they return to her room. In the meantime, Rocket extracts the Infinity Stone from Jane, alarming everyone. He rejoins Thor, who calls for Mjolnir, discovering that he is still worthy of it. They return to the present.
+
+In 2014, Nebula, Rhodey, Clint and Nat arrive at Morag. Clint and Nat head to Vomir on a craft from Quill's ship, while Nebula and Rhodey knockout Quill to get the Power Stone before him. When they prepare to return, only Rhodey does; Nebula becomes paralyzed due to her cybernetics accidentally linked with 2014 self, allowing 2014 Thanos to learn of their plan. He kidnaps her and disguises her past self as her, sending her to the present to allow his arrival in that time. On Vomir, Nat and Clint meet the Red Skull, who reveals the Soul Stone can only be retrieved by giving up a loved one. Nat sacrifices herself, as she has no family other than the Avengers. A devastated Clint returns to the present.
+
+In 2023, everyone returns at the same time, learning of the Soul Stone's price. Mourning her briefly, Tony uses his nanotech to create a new gauntlet. Bruce offers to snap his fingers, as his Hulk body is resistant to the stones' gamma radiation. Right as he snaps his fingers, 2014 Nebula activates the time machine, allowing Thanos's ship to begin its arrival. Once the snap occurs, Clint is happily surprised to get a call from his wife. Lang notices more birds outside, coming to the conclusion they've won. However, Thanos' ship arrives and destroys the compound. 2014 Nebula is instructed by her father to retrieve the stones so he may redo his work. In the meantime, Outriders are attempting to hunt down Clint, who has the gauntlet; Bruce, Rocket and Rhodey are trapped under rubble with water slowly rising. Lang is racing to their location to help. 2014 Nebula finds Clint and takes the gauntlet, only to be confronted by 2023 Nebula and 2014 Gamora, who was won over by Nebula's sisterly love. Having not experienced the events that helped 2023 Nebula change, the 2014 version attempts to kill them; however, 2014 Nebula is killed by the original before she can harm 2014 Gamora.
+
+Tony, Rogers and Thor look out from the rubble in utter shock at the sight of Thanos. Angry and not caring that its a trap, all three engage him in battle, as Thanos reveals he will rebuild the universe after the devastation, so no-one will attempt this again. They fight him with Thor using both Mjolnir and Stormbreaker to attempt decapitating Thanos with Rogers holding Thanos in a headlock; however, because this version was not weakened severely from using the Infinity Gauntlet, his flesh is still resistant to most harm. Thanos pins Thor, about to kill him; however, Mjolnir flies past Thor and Thanos into the hands of Captain America (which Thor foresaw was possible [[Avengers: Age of Ultron|back when they fought Ultron]]). Thanos calls upon his Chitauri and Outrider armies to kill the Avengers.
+
+Rogers receives a call from Falcon, telling him he's on his left. A portal appears, and T'Challa, Shuri and Okoye step out of it, followed by Falcon. Acknowledging each other, T'Challa yells to his Wakandan army to prepare for battle. More portals opens up, with the Guardians of the Galaxy, Doctor Strange, Spider-Man, Wanda, Bucky, Pepper, Wasp, Valkyrie, the Masters of the Mystic Arts, the Ravengers, and the army of Asgard all marching out of portals to join the battle. Lang emerges from the rubble as Giant-Man moments later, carrying Rocket, Bruce, and Rhodey ready for battle. Dr. Strange asks Wong if this was everyone, making him ask if he wanted more fighters. Rogers fastens his shield and grabs Mjolnir, ordering for the Avengers to assemble. With that order, both side erupt into a massive battle. Clint asks Rogers what he's supposed to do with the Infinity Stones, to which he orders them be taken far away from Thanos. As a result, a game of hot potato starts with the gauntlet, with it being tossed to other heroes in an attempt to get it to the Quantum Tunnel in Lang's van. Wanda appears before Thanos, enraged for the murder of Vision; using her powers, she tortures the Mad Titan and begins tearing apart his armor. Thanos yells for bombardment from his ship, disrupting the fight briefly.
+
+By this point, Spider-Man has the gauntlet and even the Instant Kill of his suit can't hold off Outriders for much longer. Thanos's ship starts firing at the sky as a blinding light comes down and destroys it; Captain Marvel has returned. Teaming up with Pepper, Valkyrie, Mantis, Nebula, 2014 Gamora, Wanda, Shuri and Okoye, they race to get to the van. However, its destroyed, resulting in the gauntlet flying to Thanos. Dr. Strange nudges Tony to take action; this is the one possibility of them winning he foresaw. Tony struggles to get the gauntlet, but fails. Thanos snaps his fingers to eliminate everyone, but nothing happens. Tony reveals he stole the stones and his armor create a gauntlet for him. He snaps his fingers, causing Thanos and everyone loyal to him to disintegrate. Thanos sits in lament, accepting his fate. Pepper, Rhodey and Spider-Man rush to Tony, but [[F.R.I.D.A.Y. (Earth-199999)|F.R.I.D.A.Y.]] tells them he hasn't got long. Pepper shares one last loving moment with Tony and he passes peacefully.
+
+Time passes, and Earth celebrates the Avengers' victory, knowing their safety came at the cost of the life of Earth's greatest defender. All across the globe, friends and family are reunited. Lang and Hope visit Cassie, Shuri and T'Challa are reunited with their mother. Peter returns to school, discovering his best friend Need Leeds was among the victims of the Blip that came back as well. A recording Tony made prior to the Time Heist gives a speech about his hopes in that the plan works and leaves a final loving message for Morgan.
+
+A funeral is held a Tony's home, where the a reef is set afloat in the lake, with the frame Pepper once framed his first arc reactor with: ''Proof that Tony Stark has a heart''. In attendance are Pepper, Morgan, Happy, Rhodey, Peter, May, Rogers, Bruce, Thor, Strange, Wong, Lang, Janet, Hope, Hank, Quill, Nebula, Drax, Mantis, Rocket, Groot, T'Challa, Shuri, Okoye, Clint and his family, Wanda, Bucky, Sam, a grown-up [[Harley Keener (Earth-199999)|Harley Keener]], Maria Hill, Thaddeus Ross, Danvers and Nick Fury. After the service, Clint talks to Wanda about how he wishes Nat and [[Vision (Earth-199999)|Vis]] could know that they won. Wanda comforts her friend, telling him that they know. Happy tells Morgan he'll look after her, and asks her what he can do; she asks for a cheeseburger, making Happy remember when Tony got rescued from the Ten Rings. He tells her that he'll buy her all the cheeseburgers she wants.
+
+In New Asgard, Thor tells Valkyrie that his mother wisely told him to stop trying to be who he's "supposed to be" and find who he's "meant to be"; he makes her the new ruler of New Asgard officially, as she had more or less been running their society while he was in his drunken stupor. While he has no clue how to go about, he's decided to go back into the universe as a member of the Guardians of the Galaxy in the meantime. In the ship, Quill is looking at Gamora's picture wondering where the 2014 version of her went after the battle. Thor attempts to help Quill with the charts, making him wonder if Thor is trying to be the team leader. Drax, Nebula, Mantis and Rocket suggests fighting for the right to be leader, but both laugh it off. Thor confirms that Quill is their leader.
+
+In the forest outside the Avengers' property, Bruce is about to send Rogers back in time to return the Infinity Stones and Mjolnir. Once he's gone, Bruce counts down and hits the return button, However, nothing happens. Bucky draws their attention to an elderly man sitting not too far away. Bucky urges Sam to go talk to him. Sam realizes the old man is Rogers, asking him what happened. Rogers reveals that after he put everything back, he decided to get a life like Tony told him; it was a beautiful one. He hands Sam his shield, naming him the next Captain America. Sam is honored, telling him he'll do his best to honor his title. Seeing a wedding ring, Sam asks about Rogers' wife; however, Rogers decides not to tell him. Flashback to the 1940s, Rogers is dancing in his home with his wife. It turns out to be none other than his first love Peggy Carter.
+
+| Cast                    = * [[Wikipedia:Robert Downey, Jr.|Robert Downey, Jr.]] as [[Anthony Stark (Earth-199999)|Iron Man / Tony Stark]]<ref>{{cite web|url=http://www.hollywoodreporter.com/heat-vision/robert-downey-jr-joins-spider-885829|title=Robert Downey Jr. Joins 'Spider-Man: Homecoming'|first=Borys|last=Kit|work=THR|date=21 April 2016|accessdate=16 July 2017}}</ref>
+
+* [[wikipedia:Chris Evans (actor)|Chris Evans]] as [[Steven Rogers (Earth-199999)|Captain America / Steve Rogers]]<ref>{{cite web|url=http://www.esquire.com/entertainment/movies/interviews/a34618/chris-evans-avengers-age-of-ultron-interview-captain-america/|title=True or False: Chris Evans Is Just Like His Age of Ultron Hero Captain America|last=Patches|first=Matt|work=Esquire|date=27 April 2015|accessdate=27 April 2015}}</ref>
+** [[wikipedia:Patrick Gorman (American actor)|Patrick Gorman]] was the body double for the elderly Rogers
+
+* [[wikipedia:Mark Ruffalo|Mark Ruffalo]] as [[Bruce Banner (Earth-199999)|The Hulk / Bruce Banner]]<ref name="Announcement"/><ref>{{cite web|url=http://www.slashfilm.com/marvel-phase-3-kevin-feige/|title=Watch: All Of Your Marvel Phase 3 Questions Answered By Marvel Head Kevin Feige|last=Sciretta|first=Peter|work=/Film|date=28 October 2014|accessdate=8 April 2015}}</ref>
+
+* [[Wikipedia:Chris Hemsworth|Chris Hemsworth]] as [[Thor Odinson (Earth-199999)|Thor]]<ref>{{cite web|url=http://collider.com/avengers-3-4-chris-hemsworth-reveals-marvel-movies-left-on-his-contract/|title=Chris Hemsworth Reveals the 3 Marvel Movies Left on His Contract|last=Chitwood|first=Adam|work=Collider|date=15 April 2015|accessdate=15 April 2015}}</ref>
+
+* [[wikipedia:Scarlett Johansson|Scarlett Johansson]] as [[Natalia Romanoff (Earth-199999)|Black Widow / Natasha Romanoff]]<ref>{{cite web|url=http://www.eonline.com/news/874893/scarlett-johansson-sports-a-new-large-back-tattoo-but-is-it-real|title=Scarlett Johansson Sports a New Large Back Tattoo–But Is It Real?|first=Samantha|last=Schnurr|work=E! Online|date=22 August 2017|accessdate=31 August 2017}}</ref>
+
+* [[wikipedia:Jeremy Renner|Jeremy Renner]] as [[Clinton Barton (Earth-199999)|Hawkeye / Clint Barton]]<ref>{{cite web|url=http://screenrant.com/jeremy-renner-michael-douglas-marvel-team-up/|title=Jeremy Renner & Michael Douglas Hint At Marvel Team-Up|work=Screen Rant|date=24 October 2016|accessdate=24 October 2016}}</ref>
+
+* [[wikipedia:Don Cheadle|Don Cheadle]] as [[James Rhodes (Earth-199999)|War Machine / Col. James "Rhodey" Rhodes]]<ref>{{cite web|url=https://www.youtube.com/watch?v=yfciA8beo3o|title=D23 2017: Marvel Studios’ Avengers: Infinity War Cast and Creators Reveal Some Hints|author=Marvel Entertainment|work=Youtube|date=28 July 2017|accessdate=29 July 2017}}</ref>
+
+* [[wikipedia:Paul Rudd|Paul Rudd]] as [[Scott Lang (Earth-199999)|Ant-Man / Scott Lang]]<ref>{{cite web|url=https://www.instagram.com/p/Baw7eIADloq/?taken-by=robertdowneyjr|title=New flick, new short chair. #lumbarsupport #marvel #bts|last=Downey, Jr.|first=Robert|date=28 October 2017|accessdate=29 October 2017}}</ref>
+** Jackson Dunn portrays Scott at 12 years old
+** Lee Moore makes a posthumous appearance as 93-year old Scott
+** Bazlo and Loen LeClair portray Scott as a baby
+
+* [[wikipedia:Benedict Cumberbatch|Benedict Cumberbatch]] as [[Stephen Strange (Earth-199999)|Doctor Strange / Stephen Strange]]<ref>{{cite web|url=http://ew.com/article/2016/10/13/doctor-strange-kevin-feige-benedict-cumberbatch/|title=Doctor Strange will play a important role in MCU, Marvel Studios president says|last=Collis|first=Clark|work=Entertainment Weekly|date=13 October 2016|accessdate=16 July 2017}}</ref>
+
+* [[wikipedia:Chadwick Boseman|Chadwick Boseman]] as [[T'Challa (Earth-199999)|Black Panther / King T'Challa]]<ref name="Panther">{{cite web|url= https://screenrant.com/avengers-4-set-photos-black-panther-shuri/|title= Avengers 4 Set Photos Highlight Black Panther & Shuri|work= Screen Rant|last= Erao|first= Matthew|date= 2017-10-26|accessdate= 2017-10-26}}</ref>
+
+* [[wikipedia:Brie Larson|Brie Larson]] as [[Carol Danvers (Earth-199999)|Captain Marvel / Carol Danvers]]{{r|{{cite web|url=http://www.justjared.com/2017/09/18/brie-larson-chris-evans-land-in-atlanta-for-avengers-filming/|title=Brie Larson & Chris Evans Land in Atlanta for 'Avengers' Filming|work=Just Jared|date=18 September 2017|accessdate=1 October 2017}}}}{{r|{{cite web|url= https://www.vanityfair.com/hollywood/2017/11/the-future-of-the-marvel-cinematic-universe-robocop|title= What ''RoboCop'' Has to Do with the Future of the Marvel Cinematic Universe|work= Vanity Fair|last= Robinson|first= Joanna|date= November 28, 2017|accessdate= April 26, 2018}}}}
+
+* [[wikipedia:Tom Holland (actor)|Tom Holland]] as [[Peter Parker (Earth-199999)|Spider-Man / Peter Parker]]<ref>{{cite web|url= http://www.hollywoodreporter.com/heat-vision/marvels-kevin-feige-why-studio-wont-make-r-movies-guardians-2-joss-whedons-dc-move-99507|title= Marvel's Kevin Feige on Why the Studio Won't Make R-Rated Movies, 'Guardians 2' and Joss Whedon's DC Move|accessdate=18 April 2017|last= Kit|first= Borys|coauthors= Couch, Aaron|date=18 April 2017|work= THR}}</ref>
+
+* [[Wikipedia:Karen Gillan|Karen Gillan]] as [[Nebula (Earth-199999)|Nebula]]<ref>{{cite web|url=http://www.bbc.com/news/uk-scotland-highlands-islands-38638907|title=Karen Gillan on Tupperware Party, Inverness and Avengers|first=Pauline|last=McLean|work=BBC|date=17 January 2017|accessdate=16 July 2017}}</ref>
+
+* [[wikipedia:Zoe Saldana|Zoe Saldana]] as [[Gamora (Earth-TRN734)|Gamora]]<ref>{{cite web|url=https://twitter.com/lizo_mzimba/status/856592998146199553|title=Avengers 4 title - Avengers: Infinity Gauntlet says @ZoeSaldana at GOTG2 event. At wknd Marvel said title was still secret #InfinityGauntlet|last=Mzimba|first=Lizo|work=Twitter|date=24 April 2017|accessdate=16 July 2017}}</ref>
+
+* [[wikipedia:Evangeline Lilly|Evangeline Lilly]] as [[Hope Van Dyne (Earth-199999)|The Wasp / Hope van Dyne]]<ref>{{cite web|url=http://www.blastr.com/2016-10-9/watch-evangeline-lilly-introducing-wasp-when-shell-join-avengers|title=Watch: Evangeline Lilly on introducing the Wasp, when she'll join The Avengers|last=Avila|first=Mike|work=Blastr|date=9 October 2016|accessdate=10 October 2016}}</ref>
+
+* [[wikipedia:Tessa Thompson|Tessa Thompson]] as [[Brunnhilde (Earth-199999)|Valkyrie]]{{r|{{cite web|url= https://www.indiewire.com/2019/03/tessa-thompson-valkyrie-avengers-endgame-captain-marvel-movie-1202053599/|title= Tessa Thompson Confirmed for ‘Avengers: Endgame,’ Weighs In on Valkyrie-Captain Marvel Fan Buzz|work= IndieWire|last= Sharf|first= Zack|date= March 26, 2019|accessdate= March 27, 2019}}}}
+
+* [[wikipedia:Rene Russo|Rene Russo]] as [[Frigga (Earth-TRN733)|Frigga]]
+
+* [[wikipedia:Elizabeth Olsen|Elizabeth Olsen]] as [[Wanda Maximoff (Earth-199999)|Scarlet Witch / Wanda Maximoff]]<ref name="Star-Lord and Scarlet Witch"/>
+
+* [[wikipedia:Anthony Mackie|Anthony Mackie]] as [[Samuel Wilson (Earth-199999)|Falcon / Sam Wilson]]
+
+* [[wikipedia:Sebastian Stan|Sebastian Stan]] as [[James Buchanan Barnes (Earth-199999)|Winter Soldier / Bucky Barnes]]<ref>{{cite web|url=https://theplaylist.net/sebastian-stan-marvel-tonya-interview-20170911/2/|title=Sebastian Stan Says Marvel Studios Training Put To Good Use On ‘I, Tonya’ [Interview]|work=The PLaylist|last=Ellwood|first=Gregory|date=11 September 2017|accessdate=1 October 2017}}</ref>
+
+* [[wikipedia:Tom Hiddleston|Tom Hiddleston]] as [[Loki Laufeyson (Earth-199999)|Loki]]<ref>{{cite web|url=http://screencrush.com/loki-thor-3-avengers-infinity-war/|title=Loki Will Return for 'Thor: Ragnarok' and 'Avengers: Infinity War'|last=Hayes|first=Britt|work=Screen Crush|date=2 November 2014|accessdate=8 April 2015}}</ref>
+
+* [[wikipedia:Danai Gurira|Danai Gurira]] as [[Okoye (Earth-199999)|Okoye]]
+
+* [[wikipedia:Benedict Wong|Benedict Wong]] as [[Wong (Earth-199999)|Wong]]
+
+* [[wikipedia:Pom Klementieff|Pom Klementieff]] as [[Mantis (Earth-199999)|Mantis]]<ref>{{cite web|url=https://www.facebook.com/1151809504852906/photos/a.1154603241240199.1073741829.1151809504852906/1736466093053908/?type=3&theater|title=#pomantis is back in the makeup trailer! 👀#AvengersInfinityWar|last=Klementieff|first=Pom|date=28 September 2017|accessdate=28 September 2017}}</ref>
+
+* [[wikipedia:Dave Bautista|Dave Bautista]] as [[Drax (Earth-199999)|Drax the Destroyer]]<ref>{{cite web|url=https://twitter.com/DaveBautista/status/887105918625775616|title=I'll be in China. Bummer! 😔Doing a film with Woo Ping. 😃I'll also miss the premier. 😢Cuz I'll be on @Avengers 4! 😃#goodproblems|first=Dave|last=Bautista|work=Twitter|date=18 July 2017|accessdate=31 August 2017}}</ref>
+
+* [[wikipedia:Letitia Wright|Letitia Wright]] as [[Shuri (Earth-199999)|Princess Shuri]]<ref name="Panther"/>
+
+* [[wikipedia:John Slattery|John Slattery]] as [[Howard Stark (Earth-TRN735)|Howard Stark]]
+
+* [[wikipedia:Tilda Swinton|Tilda Swinton]] as [[Ancient One (Earth-TRN732)|Ancient One]]
+
+* [[wikipedia:Jon Favreau|Jon Favreau]] as [[Harold Hogan (Earth-199999)|Happy Hogan]]<ref name="Iron Man Supporting"/>
+
+* [[wikipedia:Hayley Atwell|Hayley Atwell]] as [[Margaret Carter (Earth-TRN735)|Peggy Carter]]
+
+* [[wikipedia:Natalie Portman|Natalie Portman]] as [[Jane Foster (Earth-TRN733)|Dr. Jane Foster]]
+
+* [[wikipedia:Marisa Tomei|Marisa Tomei]] as [[Maybelle Parker (Earth-199999)|May Parker]]
+
+* [[wikipedia:Taika Waititi|Taika Waititi]] as [[Korg (Earth-199999)|Korg]]
+
+* [[wikipedia:Angela Bassett|Angela Bassett]] as [[Ramonda (Earth-199999)|Queen Ramonda]]
+
+* [[wikipedia:Michael Douglas|Michael Douglas]] as [[Henry Pym (Earth-199999)|Dr. Hank Pym]]
+** John Michael Morris was the body double for [[Henry Pym (Earth-TRN735)|1970s Hank Pym]]
+
+* [[wikipedia:Michelle Pfeiffer|Michelle Pfeiffer]] as [[Janet Van Dyne (Earth-199999)|Janet van Dyne]]
+
+* [[wikipedia:William Hurt|William Hurt]] as [[Thaddeus Ross (Earth-199999)|Secretary Thaddeus "Thunderbolt" Ross]]
+
+* [[wikipedia:Cobie Smulders|Cobie Smulders]] as [[Maria Hill (Earth-199999)|Maria Hill]]
+
+* [[wikipedia:Sean Gunn|Sean Gunn]] as [[Kraglin Obfonteri (Earth-199999)|Kraglin Obfonteri]]
+
+* [[wikipedia:Winston Duke|Winston Duke]] as [[M'Baku (Earth-199999)|M'Baku]]{{r|{{cite web|url= https://www.gq-magazine.co.uk/article/winston-duke-interview|title= Winston Duke talks Us and Avengers: Endgame|work= GQ|last= McGurk|first= Stuart|date= March 25, 2019|accessdate= April 21, 2019}}}}
+
+* [[wikipedia:Linda Cardellini|Linda Cardellini]] as [[Laura Barton (Earth-199999)|Laura Barton]]
+
+* [[wikipedia:Maximiliano Hernández|Maximiliano Hernández]] as [[Jasper Sitwell (Earth-TRN732)|Agent Jasper Sitwell]]
+
+* [[wikipedia:Frank Grillo|Frank Grillo]] as [[Brock Rumlow (Earth-199999)|Agent Brock Rumlow]]{{r|{{cite web|url= https://www.hollywoodreporter.com/heat-vision/avengers-4-flashbacks-confirmed-by-frank-grillo-1155099|title= 'Avengers 4' Will Feature Flashbacks, Says Actor Frank Grillo|work= THR|last= McMillan|first= Graeme|date= October 25, 2018|accessdate= October 27, 2018}}}}
+
+* [[wikipedia:Hiroyuki Sanada|Hiroyuki Sanada]] as [[Akihiko (Earth-199999)|Akihiko]]{{r|{{cite web|url= https://heroichollywood.com/avengers-endgame-hiroyuki-sanada/|title= ‘Avengers: Endgame’ Reveals First Look At Hiroyuki Sanada’s Character|work= Deadline|last= Peris|first= Sebastian|date= April 19, 2019|accessdate= January 11, 2020}}}} 
+
+* [[wikipedia:Tom Vaughan-Lawlor|Tom Vaughan-Lawlor]] as [[Ebony Maw (Earth-TRN734)|Ebony Maw]]
+
+* [[wikipedia:James D'Arcy|James D'Arcy]] as [[Edwin Jarvis (Earth-TRN735)|Edwin Jarvis]]
+
+* [[wikipedia:Jacob Batalon|Jacob Batalon]] as [[Edward Leeds (Earth-199999)|Ned Leeds]]
+
+* [[wikipedia:Vin Diesel|Vin Diesel]] as the voice of [[Groot II (Earth-199999)|Groot]]
+** [[wikipedia:Terry Notary|Terry Notary]] performed the motion-capture for the character
+
+* [[wikipedia:Bradley Cooper|Bradley Cooper]] as the voice of [[89P13 (Earth-199999)|Rocket]]
+** [[wikipedia:Sean Gunn|Sean Gunn]] performed the motion capture for the character.
+
+* [[wikipedia:Gwyneth Paltrow|Gwyneth Paltrow]] as [[Virginia Potts (Earth-199999)|Pepper Potts]]<ref name="Iron Man Supporting">{{cite web|url= http://www.cbr.com/avengers-4-pepper-potts-set-photo/|title= Avengers 4 Set Photos Capture Iron Man Character’s Return|work= CBR.com|last= Damore|first= Meagan |date=23 August 2017|accessdate=23 August 2017}}</ref>
+
+* [[wikipedia:Robert Redford|Robert Redford]] as [[Alexander Pierce (Earth-TRN732)|Secretary Alexander Pierce]]
+
+* [[wikipedia:Josh Brolin|Josh Brolin]] as [[Thanos (Earth-199999)|Thanos]]<ref>{{cite web|url=http://www.thewrap.com/josh-brolin-joins-marvels-avengers-age-of-ultron-as-villain-thanos/|title=Josh Brolin Joins Marvel's 'Avengers' Sequels as Villain Thanos|last=Sneider|first=Jeff|work=The Wrap|date=30 May 2014|accessdate=8 April 2015}}</ref>
+
+* [[wikipedia:Chris Pratt|Chris Pratt]] as [[Peter Quill (Earth-199999)|Star-Lord / Peter Quill]]<ref name="Star-Lord and Scarlet Witch">{{cite web|url=http://deadline.com/2016/07/avengers-infinity-war-avengers-3-marvel-studios-1201795344/|title=Marvel’s ‘Avengers 3’ Gets Official Title With Temp Name Hung On ‘Avengers 4’|last=Lincoln|first=Ross A.|work=Deadline|date=29 July 2016|accessdate=16 July 2017}}</ref>
+
+* [[wikipedia:Samuel L. Jackson|Samuel L. Jackson]] as [[Nicholas Fury (Earth-199999)|Nick Fury]]
+
+Additionally, Lexi Rabe portrays [[Morgan Stark (Earth-199999)|Morgan Stark]]. [[wikipedia:Ross Marquand|Ross Marquand]] reprises the role of [[Johann Schmidt (Earth-TRN734)|Red Skull/Stonekeeper]]. Co-director [[Joseph Russo|Joe Russo]] (credited as Gozie Agbo) and Thanos co-creator [[Jim Starlin]] cameo as grieving men. [[Cassandra Lang (Earth-199999)|Cassie Lang]] in 2023 is now portrayed by [[wikipedia:Emma Fuhrmann|Emma Fuhrmann]]. [[wikipedia:Michael James Shaw|Michael Shaw]] and [[wikipedia:Terry Notary|Terry Notary]] reprise their roles as [[Corvus Glaive (Earth-TRN734)|Corvus Glaive]] and [[Cull Obsidian (Earth-TRN734)|Cull Obsidian]], respectively. [[wikipedia:Kerry Condon|Kerry Condon]] returns to voice [[F.R.I.D.A.Y. (Earth-199999)|F.R.I.D.A.Y.]] Ben Sakamoto, Ava Russo, and Cade Woodward portray [[Cooper Barton (Earth-199999)|Cooper]], [[Lila Barton (Earth-199999)|Lila Barton]], and [[Nathaniel Barton (Earth-199999)|Nathaniel Barton]], respectively. [[Stan Lee]] cameos as a hippie driver. ''[[wikipedia:Community (TV series)|Community]]'' alumni [[wikipedia:Yvette Nicole Brown|Yvette Nicole Brown]] and [[wikipedia:Ken Jeong|Ken Jeong]] make cameo appearances in the film. [[wikipedia:Callan Mulvey|Callan Mulvey]] reprises his ''The Winter Soldier'' role [[Jack Rollins (Earth-TRN732)|Agent Jack Rollins]]. Co-director [[Anthony Russo]]'s son Julian, niece Lia, and nephew Auggie portray Hulk fans. [[wikipedia:Ty Simpkins|Ty Simpkins]] reprises his role as [[Harley Keener (Earth-199999)|Harley Keener]] from ''Iron Man 3''. [[wikipedia:Matthew Berry|Matthew Berry]] cameos as a SHIELD agent.
+
+[[wikipedia:Carrie Coon|Carrie Coon]] doesn't reprise her voice role as [[Proxima Midnight (Earth-TRN734)|Proxima Midnight]], but [[wikipedia:Monique Ganderton|Monique Ganderton]] still provides the motion capture for the character. [[wikipedia:Katherine Langford|Katherine Langford]] shot a scene as a grown-up Morgan Stark, but the scene wasn't included in the final cut of the film.{{r|{{cite web|url= https://www.indiewire.com/2019/05/katherine-langfords-avengers-endgame-role-revealed-1202131589/|title= Katherine Langford’s Cut ‘Avengers: Endgame’ Character Revealed, Plus Why Her Scene Got Axed|work= THR|last= Sharf|first= Zack|date= May 6, 2019|accessdate=January 11, 2020}}}} [[wikipedia:Paul Bettany|Paul Bettany]] doesn't reprise his role as the [[Vision (Earth-199999)|Vision]], although previously indicating he would.<ref>{{cite web|url=http://collider.com/paul-bettany-interview-manhunt-unabomber-avengers-infinity-war#marvel|title=Paul Bettany on ‘Manhunt: Unabomber’, Understanding Ted Kaczynski, and ‘Avengers: Infinity War’|first=Christina|last=Radish|work=Collider|date=15 August 2017|accessdate=31 August 2017}}</ref>
+
+| Notes                   = * The film was announced during Marvel Studios' event at El Capitan Theatre on October 28, 2014.<ref name="Announcement">{{cite web|url=http://www.newsarama.com/22570-marvel-studios-event-live.html|title=Marvel Studios Event|work=Newsarama|first=Tom|last=McLean|date=28 October 2014|accessdate=28 October 2014}}</ref>
+* Although ''Avengers: Infinity War - Part II'' was the film's original title, the Russo brothers later confirmed that "Part I" and this movie would be re-titled to emphasize the differences between the two films, the former being re-titled to ''[[Avengers: Infinity War]]''.<ref>{{cite web|url=http://uproxx.com/movies/russo-brothers-confirm-avengers-infinity-war-title-change/|title=Russo Brothers Confirm: 'Avengers: Infinity War 1 And 2' Will Be Retitled|last=Ryan|first=Mike|work=Uproxx|date=4 May 2016|accessdate=4 May 2016}}</ref>
+* Filming for this film started on August 10, 2017,<ref>{{cite web|url=https://www.facebook.com/TheRussoBrothersOfficial/photos/a.740279982774603.1073741828.739779486157986/1046940722108526/?type=3&theater|title=Beginning the end.|author=The Russo Brothers|work=Facebook|date=10 August 2017|accessdate=31 August 2017}}</ref> and wrapped on January 11, 2018.<ref>{{cite web|url= http://collider.com/avengers-4-wraps-filming-russo-brothers|title= ‘Avengers 4’ Wraps Filming as the Russo Brothers Move into Post-Production|work= Collider|last= Trumbore|first= Dave|date= 2018-01-11|accessdate= 2018-01-12}}</ref> The filmmakers decided to shoot the two ''Avengers'' films back-to-back, despite the previous announcement that it would be shot simultaneously.<ref>{{cite news | first = Joseph| last = Schmidt|  url = http://comicbook.com/marvel/2017/01/22/avengers-infinity-war-sequel-begin-filming/| title = Avengers: Infinity War And Sequel Set To Begin Filming Monday| work = ComicBook.com| date = 2017-01-22| accessdate = 2017-01-24}}</ref>
+* The film's title was officially announced as ''Avengers: Endgame'' alongside the debut trailer released on December 7, 2018.<ref>[[:File:Marvel Studios' Avengers - Official Trailer]]</ref>
+* This film broke both the domestic opening weekend and worldwide opening box office records, with around $350 million domestic and $1.2 billion worldwide grosses, beating both records previously set by ''Avengers: Infinity War'' ($257.7 million and $640.5 million, respectively).<ref name="Box Office">{{cite web|url= https://deadline.com/2019/04/avengers-endgame-list-of-box-office-records-domestic-china-international-global-milestones-1202603577/|title= ‘Avengers: Endgame’: Domestic, Overseas & Global Box Office Records – List|work= Deadline|last= Tartaglione|first=  Nancy|date= April 28, 2019|accessdate= April 29, 2019}}</ref>
+** Additionally, this film broke the record for the fastest time a film managed to reach $1 billion at the worldwide box office, on its 5th day of release, again beating ''Avengers: Infinity War'' which did so on its 11th day.<ref name="Box Office"/>
+* On July 20, 2019, this film surpassed the $2,789.7 billion global gross of ''[[wikipedia:Avatar (2009 film)|Avatar]]'', to become the top grossing film of all time at the worldwide box office (not adjusted for inflation), at the time.{{r|{{cite web|url=https://www.hollywoodreporter.com/heat-vision/avengers-endgame-passes-avatar-become-no-1-film-all-time-1225121|title=Box Office: 'Avengers: Endgame' Passes 'Avatar' to Become No. 1 Film of All Time|work=The Hollywood Reporter|first=Pamela|last=McClintock|date=20 July 2019|accessdate=20 July 2019}}}}
+* With a worldwide total box office gross of $2,797 billion, this film became the highest-grossing film of 2019.{{r|{{cite web|url= https://www.boxofficemojo.com/year/world/2019/|title= 2019 Worldwide Box Office|work= Box Office Mojo|accessdate= January 5, 2020}}}}
+| Trivia                  = * According to co-director [[Anthony Russo]], the argument at the center of this movie was whether one can control their own destiny.<ref name="Slate">{{cite web|url=https://slate.com/culture/2019/05/avengers-endgame-ending-twists-directors-interview.html|title=The Directors of Avengers: Endgame on Its Biggest Twists|work=Slate|first=Mike|last=Pesca|date=9 May 2019|accessdate=15 May 2019}}</ref>
+* Writers [[wikipedia:Christopher Markus|Christopher Markus]] and [[wikipedia:Stephen McFeely|Stephen McFeely]] contemplated having the disappearance of [[Clinton Barton (Earth-199999)|Hawkeye]]'s family happen at the end of ''[[Avengers: Infinity War]]''.<ref name="NYT">{{cite web|url=https://www.nytimes.com/2019/04/29/movies/avengers-endgame-questions-and-answers.html|title=‘Avengers: Endgame’: The Screenwriters Answer Every Question You Might Have|work=The New York Times|first=Dave|last=Itzkoff|date=29 April 2019|accessdate=3 May 2019}}</ref>
+* In certain cuts of the movie, [[Carol Danvers (Earth-199999)|Captain Marvel]] wouldn't be revealed to be responsible of saving [[Anthony Stark (Earth-199999)|Tony Stark]] and [[Nebula (Earth-199999)|Nebula]] until after the ship got back to [[Earth]].<ref name="io9">{{cite web|url=https://io9.gizmodo.com/all-of-the-coolest-trivia-revealed-on-the-avengers-end-1837006830|title=All of the Coolest Trivia Revealed on the Avengers: Endgame Blu-ray|work=Gizmodo|first=Germain|last=Lussier|date=12 August 2019|accessdate=12 August 2019}}</ref>
+* Markus and McFeely struggled to decide where to take [[Thanos (Earth-199999)|Thanos]]' character from the previous movie. It was Executive Producer Trinh Tran's suggestion to kill him early on.<ref name="NYT"/>
+* The five-year time jump was inspired in part by TV series such as ''[[wikipedia:Fargo|Fargo]]'' and ''[[wikipedia:Lost|Lost]]''.<ref name="NYT"/>
+* The trajectories of the heroes in the film were determined as sort of a ''[[What If?]]'' scenario.<ref name="NYT"/>
+* When brainstorming ideas for each character's arc, it was considered to have Thor on a mission of vengeance. This idea was scrapped since the character's arc in ''Infinity War'' already had consisted of that.<ref name="NYT"/>
+* In an early draft of the film, following the 5-year jump, Steve Rogers would've been living with [[Sharon Carter (Earth-199999)|Sharon Carter]], but their relationship would've been turbulent. Carter's role was eventually excised because it was inessential to the plot of the movie.{{r|{{cite web|url=https://wegotthiscovered.com/movies/avengers-endgame-draft-steve-rogers-living-sharon-carter/|title=Avengers: Endgame’s Original Ending Had Steve Rogers Living With Sharon Carter|work=We Got This Covered|first=Christian|last=Bone|date=20 May 2019|accessdate=22 May 2019}}}}
+* An idea directors Anthony and [[Joseph Russo|Joe Russo]] tried to work into the movie was the scenario that roughly a quarter of all children worldwide would've been left orphaned after Thanos' snap. At a point early into development, they worked this angle by having Black Widow lead an organization in [[Washington, D.C.]] that was in charge of orphans.<ref name="Slate"/>
+* An idea for the status quo after the 5-year jump was for [[James Rhodes (Earth-199999)|Jim Rhodes]] to have become Vice President of the United States.{{r|{{cite web|url=https://comicbook.com/marvel/2019/10/24/war-machine-avengers-endgame-president-marvel-series/|title=Avengers: Endgame Had Bigger Plans for War Machine, Still a Possibility|work=ComicBook.com|first=Brandon|last=Davis|date=24 October 2019|accessdate=24 October 2019}}}}
+* Scrapped versions of the script showed that memorials like that in [[San Francisco]] existed in every city in the world.<ref name="NYT"/>
+* McFeely wrote scenes of Bruce Banner working in a lab to transform himself into "Smart Hulk." Additionally, in an early version of the plot of ''Infinity War'', Banner would have evolved into Smart Hulk during the battle of [[Wakanda]].<ref name="NYT"/> Since this plot resolution was scrapped late into development, certain scenes of the first act of ''Endgame'' had to be reshot, since they originally made use of Smart Hulk.{{r|{{cite web|url=https://www.vanityfair.com/hollywood/2019/11/avengers-endgame-writers-alternate-storylines|title=How the Avengers: Endgame Writers Made Life-and-Death Decisions|work=Vanity Fair|first=Anthony|last=Breznican|date=20 November 2019|accessdate=25 December 2019}}}}
+* In Tony's bedtime exchange with Morgan, they originally told each other "I love you tons." The expression "I love you 3,000" is a thing that Tony Stark actor [[wikipedia:Robert Downey Jr.|Robert Downey Jr.]]'s children have said to him in real life.<ref name="Express">{{cite web|url=https://www.express.co.uk/entertainment/films/1197249/Avengers-Endgame-Tony-Stark-catchphrase-love-you-3000-Robert-Downey-Jr-script-secret|title=Avengers Endgame: 'I love you 3000’ secret revealed in HEARTBREAKING Robert Downey Jr move|work=The Express|date=6 November 2019|accessdate=28 February 2020}}}}</ref>
+* The element of time-travel was brought to the table by Producer [[Kevin Feige]], who wanted to use the [[Time Stone]], or use time as an element.<ref name="NYT"/>
+* Physicists were consulted for the formulation of the movie's time-travel.<ref name="NYT"/>
+* Test screening audiences were confused by the film's rules of time-travel in comparison to ''[[wikipedia:Back to the Future|Back to the Future]]'', prompting reshoots of multiple jokes and explanations of the nuances of time-travel, including the scene in which [[Bruce Banner (Earth-199999)|Bruce Banner]] explicitly dismisses time-travel movies listed by Jim Rhodes and [[Scott Lang (Earth-199999)|Scott Lang]], including ''Back to the Future''.{{r|{{cite web|url=https://www.cbr.com/avengers-endgame-russos-mcu-time-travel-rules/|title=Russo Brothers Break Down the MCU's Rules For Time Travel|work=CBR.com|first=Sam|last=Stone|date=2 May 2019|accessdate=3 May 2019}}}}
+* The reason Clint's test travel through time is timed is because the Avengers expected that he could want to stay in the past. In a version of the movie's story, Clint attacked the Hulk after being forced to return.<ref name="io9"/>
+* A scene cut after Clint's return from the past had Scott Lang offer him orange slices as a callback to ''[[Captain America: Civil War]]''.<ref name="io9"/>
+* An unused idea for the movie involved Captain America going to space and travelling the galaxy with the [[Johann Schmidt (Earth-TRN734)|Red Skull]] as an untrustworthy sidekick to track down the errant Infinity Stones.<ref name="VF">{{cite web|url=https://www.vanityfair.com/hollywood/2019/07/avengers-endgame-captain-america-head-tony-stark-smart-hulk-thor-sdcc-russos-markus-mcfeely|title=Avengers: Endgame Filmmakers Reveal Dark, Trippy Original Version at Comic-Con|work=Fanity Fair|first=Joanna|last=Robinson|date=19 July 2019|accessdate=20July 2019}}</ref>
+* Markus and McFeely initially avoided having the characters time-travel to the Battle of New York since they considered it "pander-y" until co-Director Joe Russo asked for it. In the first draft of the film, the Avengers would have tried to get the [[Cosmic Cube|Tesseract]] from [[Asgard (City)|Asgard]] since the artifact was there at one point with the [[Reality Stone|Aether]]. In this version of the film, Iron Man would have infiltrated Asgard using a [[Stealth Armor|stealth armor]], but he would have had to fight [[Heimdall]] whose abilities would allow him to detect Stark. In this early draft, Thor would have had long scenes with [[Jane Foster]], and the Avengers would've tried to retrieve the [[Power Stone]] from [[Morag]] when the planet was still flooded.<ref name="NYT"/>
+* In a version of the story in which [[Wanda Maximoff (Earth-199999)|Scarlet Witch]] was one of the surviving heroes, she and [[89P13 (Earth-199999)|Rocket]] went to the [[Triskelion]] to get the [[Cosmic Cube|Tesseract]], and would then take a ride to the [[Sanctum Sanctorum]] and use its portal into the [[Kamar-Taj]] to get the [[Time Stone]].{{r|{{cite web|url=https://comicbook.com/marvel/2019/07/27/avengers-endgame-cut-scarlet-witch-rocket-road-trip-plot/|title=Avengers: Endgame Writers Reveal Cut Scarlet Witch and Rocket Raccoon Road Trip|work=ComicBook.com|first=JK|last=Schmidt|date=27 July 2019|accessdate=27 July 2019}}}}<ref name="NYT"/>
+* The moment in which the Avengers arrive from the future to the Battle of New York was changed in post-production. An early version had the team arrive after Iron Man kills a [[Leviathans (Chitauri)|Leviathan]] by flying through it and blowing it up from the inside. Test audienced required several minutes to acclimate themselves. Another version had the entry point be when the [[Bruce Banner (Earth-199999)|Hulk]] beats up [[Loki Laufeyson (Earth-199999)|Loki]] like a ragdoll.<ref name="Insider">{{cite web|url=https://www.businessinsider.com/inside-the-editing-process-of-avengers-endgame-black-widow-scene-change-2019-5|title=Inside the editing of 'Avengers: Endgame,' which included drastic changes to Black Widow's big moment and the time-travel scenes|work=Business Insider|first=Jason|last=Guerrasio|date=13 May 2019|accessdate=27 May 2019}}</ref>
+* The moment when Hulk imitates his old self in 2012 New York wasn't originally in the movie. Animators did it as a joke, but the Russos liked it and had [[wikipedia:Mark Ruffalo|Mark Ruffalo]] recreate it with motion capture.<ref name="io9"/>
+* The color scheme of the [[Iron Man Armor MK LXXXV (Earth-199999)|Iron Man Armor MK LXXXV]], namely the pronounced use of gold in the arms and legs, was chosen to be reminiscent of the [[Iron Man Armor Model 4|Classic Iron Man Armor]] from the comics.<ref name="Meinderding">{{cite web|url=https://screencrush.com/ryan-meinerding-marvel-concept-art-interview/|title=Ryan Meinerding, Marvel’s Head of Visual Development, Takes Us Behind-the-Scenes of Designing the MCU|work=Screen Crush|first=Matt|last=Singer|date=25 July 2019|accessdate=13 August 2019}}</ref>
+* There were versions of the movie written with [[Nick Fury]] and another with [[Maria Hill]] appointed to retrieve [[Loki's Scepter]] from the Avengers. After [[Alexander Pierce (Earth-199999)|Alexander Pierce]] actor [[wikipedia:Robert Redford|Robert Redford]] announced he was going to retire from acting, Markus and McFeely considered asking him to reprise his role.<ref name="NYT"/>
+* The shots from Asgard of [[Loki Laufeyson (Earth-TRN733)|Loki]] and [[Jane Foster (Earth-TRN733)|Jane Foster]] were repurposed from unused ''[[Thor: The Dark World]]'' footage. Because of this, [[wikipedia:Natalie Portman|Natalie Portman]] didn't have to step on set once to be in the film.<ref name="Insider"/>
+* A scene scrapped from the film's script had Rocket uncomfortably explain to Jane Foster why and how he had to remove the Aether from her body.<ref name="VF"/>
+* Scenes with past Nebula were reshot to better explain her having two frequencies of consciousness.<ref name="io9"/>
+* [[Howard Stark (Earth-TRN735)|Howard Stark]] getting sauerkraut for his wife was inspired by Stephen McFeely's mother craving sauerkraut when she was pregnant with him.<ref name="io9"/>
+* [[Margaret Carter (Earth-TRN735)|Peggy Carter]] was not going to appear in the 1974 sequence in the first draft of the script.<ref name="io9"/>
+* Drafts of the movie were written with Hawkeye making the sacrifice for the [[Soul Stone]].<ref name="Empire">{{cite web|url=https://www.empireonline.com/movies/features/avengers-endgame-26-spoilers-explained-directors-writers/|title=Avengers Endgame: 26 Spoilers Explained By The Directors And Writers|work=Empire|first=Ben|last=Travis|date=7 June 2019|accessdate=24 July 2019}}</ref>
+* Black Widow's sacrifice was originally shot differently. Clint and Natasha would have been followed to [[Vormir]] by [[Thanos (Earth-TRN734)|Thanos]] and his army and a small battle ensued. During the fight, Natasha decides to run off the cliff, and Clint tries to stop her while also fending off the attack. Despite test audiences reacting to the scene positively, it was reshot and changed to the final version to make something that serviced Black Widow more.<ref name="Insider"/>
+* The design lines of Hulk's jumpsuit are meant to form a big "H" on his chest.<ref name="Meinderding"/>
+* An early draft saw all the fallen heroes reunite at the Avengers Facility before Thanos attacks.<ref name="Empire"/>
+* The Russo Brothers dubbed Thanos' younger self as "Warrior Thanos," since he was more precocious and self-confident and "not quite as enlightened," whereas the Thanos from ''Avengers: Infinity War'' was mellowed-out and philosophical.<ref name="Empire"/>
+* An idea left unused for the opening of the final battle was that the Thanos from 2014 would have gone to Earth and killed the Avengers of his era, bringing the decapitated head of that timeline's Captain America to taunt the future Avengers.<ref name="VF"/>
+* A longer version of the film's final battle was written and shot. This climax was going to have its own three-act structure.<ref name="NYT"/>
+*The [[Avengers (Earth-199999)|Avengers]] entering the Quantum Realm and the Time Hiest scenes are similar to how the [[Avengers (Earth-12041)|Avengers]] entering and saving Avengers who were struck in multiple realites by the [[Cabal (Earth-12041)|Cabal]] in the ''[[Marvel's Avengers Assemble|Marvel's Avengers: Secret Wars]]'' episode "[[Marvel's Avengers Assemble Season 4 8|The Once and Future Kang]]."{{r|Marvel's Avengers Assemble Season 4 8}}
+* Hulk holding the rubble of the Avengers Facility is a reference to {{cl|Marvel Super Heroes Secret Wars Vol 1 4}}, in which the [[Bruce Banner (Earth-616)|Hulk]] holds a mountain to stop it from crushing the heroes of the story.<ref name="Empire"/>
+* A scrapped scene written for the final battle consisted of a moment in a trench where the battle had gotten paused for roughly three minutes and approximately eighteen characters were going to discuss strategies in a way Markus and McFeely eventually regarded didn't flow like a natural conversation and felt "completely fake" and "fraudulent."<ref name="NYT"/>
+* [[Henry Pym (Earth-199999)|Hank Pym]] and [[Janet Van Dyne (Earth-199999)|Janet Van Dyne]] were considered to appear in the final battle since they had their own Ant-Man and Wasp suits.<ref name="NYT"/>
+* There was a scene envisioned for the final act in which the [[James Buchanan Barnes (Earth-199999)|Winter Soldier]] would have saved Iron Man and [[Virginia Potts (Earth-199999)|Rescue]] in the battlefield. Bucky and Tony would then have had a moment in which Stark forgives him for the death of his parents, or at least have acknowledged that it wasn't his fault.{{r|{{cite web|url=https://screenrant.com/marvel-cinematic-universe-christopher-markus-stephen-mcfeely-interview/|title=Christopher Markus & Stephen McFeely Interview: MCU|work=ScreenRant|date=5 November 2020|accessdate=28 February 2020}}}}
+* In an earlier draft of the movie, 2014's [[Nebula (Earth-TRN734)|Nebula]] would have intercepted Stark's Infinity Gauntlet during the final battle. She would have tried to use the glove herself in an attempt to prove herself to Thanos but would have died. This scene would also have doubled as a nod to {{cl|Infinity Gauntlet Vol 1 5}}, in which [[Nebula (Earth-616)|Nebula]] wields the Infinity Gauntlet.{{r|{{cite web|url=https://www.cbr.com/avengers-endgame-nebula-infinity-gauntlet-concept-art/|title=Nebula Nearly Wore the Infinity Gauntlet in Avengers: Endgame|work=CBR.com|first=Anthony|last=Gramuglia|date=20 November 2019|accessdate=20 November 2019}}}}
+* Directors [[wikipedia:Russo brothers|Anthony and Joe Russo]] sought Robert Downey Jr.'s approval for his character's arc in the film. Downey had mixed emotions about it, but ultimately approved it.{{r|{{cite web|url=https://www.hollywoodreporter.com/heat-vision/robert-downey-jr-had-mixed-emotions-avengers-endgame-ending-1206174|title='Avengers: Endgame' Directors on Seeking Robert Downey Jr.'s Blessing and Marvel's First Gay Character|work=Hollywood Reporter|first=Aaron|last=Couch|date=1 May 2019|accessdate=3 May 2019}}}}
+* Various versions of the final confrontation between Thanos and Iron Man were shot; some featured lines of dialogue, others had Robert Downey Jr. improvise, and before the scene was reshot, the scene was silent. It was eventually decided that Thanos needed a moment at the end of the movie where he says something. It was decided to have him echo the final words of his future self to create symmetry.<ref name="Insider"/>
+* Editor Jeff Ford came up with the idea of Tony's "I am Iron Man" retort. Robert Downey Jr. was initially reluctant to reshoot the scene and get into the emotional state required for it. Producer Joel Silver helped convince Downey to do it.{{r|{{cite web|url=https://www.cinemablend.com/news/2471343/apparently-robert-downey-jr-didnt-want-to-do-tony-starks-last-big-line-in-avengers-endgame|title=Apparently Robert Downey Jr. Didn’t Want To Do Tony Stark’s Last Big Line In Avengers: Endgame|work=CinemaBlend|first=Sean|last=O'Connell|date=6 May 2019|accessdate=27 May 2019}}}}
+* [[wikipedia:Katherine Langford|Katherine Langford]] was cast as a grown-up version of Morgan Stark, whom Tony would see in a vision after snapping his fingers, mirroring a similar moment between Thanos and a vision of Gamora in ''Avengers: Infinity War''. According to the Russo Brothers, test audiences were confused by the scene, and it was ultimately cut because there was no emotional association with the adult version of Tony's daughter. The main idea behind the scene was to have future Morgan forgive Tony and give him peace before his death. Joe Russo explained that while the idea felt resonate, the movie was already over complicated.{{r|{{cite web|url=https://www.hollywoodreporter.com/heat-vision/katherine-langford-was-cut-avengers-endgame-as-tony-starks-daughter-1207787|title=Why Katherine Langford's 'Avengers: Endgame' Scene Was Cut|work=The Hollywood Reporter|first=Aaron|last=Couch|date=6 May 2019|accessdate=31 May 2019}}}}
+* Tony's death scene was shot without a script. Instead, Robert Downey Jr., [[wikipedia:Tom Holland|Tom Holland]], [[wikipedia:Gwyneth Paltrow|Gwyneth Paltrow]] and [[wikipedia:Don Cheadle|Don Cheadle]] were only told the context of the scene and given a few directions, the rest was improvised.{{r|{{cite web|url=https://www.youtube.com/watch?v=jBY4vKXT_Ss|title=Tom Holland: Iron Man death sequence was UNSCRIPTED I Spider-Man: Far From Home|work=PinkvillaINKVILLA|date=14 June 2019|accessdate=14 June 2019}}}}
+* Markus and McFeely wrote a number of dying words for Tony Stark, but Robert Downey Jr. thought it would be much more powerful for Tony to die silently.<ref name="VF"/>
+* Past Thanos sitting on a rock waiting to die was meant to mirror the character's future self sitting on his porch at the end of ''Infinity War''.<ref name="io9"/>
+* A scrapped extended version of Tony's death scene had the heroes bending on their knee to honor Stark's sacrifice. The scene additionally showed [[Gamora (Earth-TRN734)|Gamora]] slipping away while the heroes were mourning. The scene was filmed prior to Tony Stark's funeral, which the Russo Brothers felt was a more resonant and emotional reflection on Tony's.{{r|{{cite web|url=https://www.usatoday.com/story/entertainment/movies/2019/07/26/endgame-avengers-salute-their-fallen-exclusive-deleted-scene/1827992001/|title=See how the Avengers honor a fallen superhero in exclusive 'Endgame' deleted scene|work=USA Today|first=Brian|last=Truitt|date=26 July 2019|accessdate=26 July 2019}}}}
+* Tony Stark saying "I love you 3,000" at the end of his speech was included during additional dialogue recording, which is why it's delivered off-screen.<ref name="io9"/>
+* Natasha Romanoff didn't get a funeral because she was a cipher and Markus and McFeely didn't feel it was honest to the character to give her a funeral.<ref name="NYT"/>
+* According to Markus and McFeely, Tony Stark and [[Steven Rogers (Earth-199999)|Steve Rogers]]' finales mirror each other's story arc; Tony was about moving to selflessness while Steve moved towards self-interest.<ref name="NYT"/>
+* The idea for showing the main cast's signatures in the final credits was inspired by the end credits of ''[[w:c:memory-alpha:Star Trek VI: The Undiscovered Country|Star Trek VI: The Undiscovered Country]]''.<ref name="io9"/>
+* Kevin Feige had the idea to end the movie with an audio callback to ''[[Iron Man (film)|Iron Man]]'' to accompany the Marvel Studios logo. The production team dug through the material of ''Iron Man'' and found the smithing sounds used in the movie when Tony Stark was building the [[Iron Man Armor MK I (Earth-199999)|Iron Man Armor MK I]]. The sound's rhythm was adjusted slightly for its reuse.<ref name="Insider"/>
+* This is the last Marvel Cinematic Universe film with a cameo appearance from [[Stan Lee]].
+* In a non-canon commercial for {{sl|The Falcon and The Winter Soldier}}, the identity of "Noobmaster69" was jokingly revealed to be Aaron from {{sl|Captain America: The Winter Soldier}}.{{r|{{cite web|url=https://twitter.com/Xbox/status/1371491381395353601?s=20|title=You don’t need a Vibranium shield to be a hero. Admittedly, it does help.|work=Twitter|author=Xbox|date=15 March 2021|accessdate=16 March 2021}}}}
+
+==Gallery==
+===Images===
+<gallery>
+Avengers Infinity War Part I and II logo.jpg
+Avengers Endgame logo 001.jpg
+Avengers Endgame poster 001.jpg
+Avengers Endgame poster 002 Variant.jpg
+Avengers Endgame poster 035.jpg
+Avengers Endgame poster 036.jpg
+Avengers Endgame poster 037.jpg
+Avengers Endgame poster 038.jpg
+Avengers Endgame poster 039.jpg
+Avengers Endgame poster 040.jpg
+Avengers Endgame poster 003.jpg
+Avengers Endgame poster 003 Variant.jpg
+Avengers Endgame poster 004.jpg
+Avengers Endgame poster 005.jpg
+Avengers Endgame poster 006.jpg
+Avengers Endgame poster 007.jpg
+Avengers Endgame poster 008.jpg
+Avengers Endgame poster 009.jpg
+Avengers Endgame poster 010.jpg
+Avengers Endgame poster 011.jpg
+Avengers Endgame poster 012.jpg
+Avengers Endgame poster 013.jpg
+Avengers Endgame poster 014.jpg
+Avengers Endgame poster 015.jpg
+Avengers Endgame poster 016.jpg
+Avengers Endgame poster 017.jpg
+Avengers Endgame poster 018.jpg
+Avengers Endgame poster 019.jpg
+Avengers Endgame poster 020.jpg
+Avengers Endgame poster 021.jpg
+Avengers Endgame poster 022.jpg
+Avengers Endgame poster 023.jpg
+Avengers Endgame poster 024.jpg
+Avengers Endgame poster 025.jpg
+Avengers Endgame poster 026.jpg
+Avengers Endgame poster 027.jpg
+Avengers Endgame poster 028.jpg
+Avengers Endgame poster 029.jpg
+Avengers Endgame poster 030.jpg
+Avengers Endgame poster 031.jpg
+Avengers Endgame poster 032.jpg
+Avengers Endgame poster 033.jpg
+Avengers Endgame poster 034.jpg
+Avengers Endgame banner 001.jpg
+Avengers Endgame banner 002.jpg
+Avengers Endgame poster 041.jpg
+Avengers Endgame poster 041 Textless.jpg
+Avengers Endgame poster 041 Variant.jpg
+Avengers Endgame poster 041 Variant Textless.jpg
+Avengers Endgame poster 042.jpg
+Avengers Endgame poster 042 Textless.jpg
+Avengers Endgame poster 043.jpg
+Avengers Endgame poster 043 Textless.jpg
+Avengers Endgame poster 044.jpg
+Avengers Endgame poster 044 Textless.jpg
+Avengers Endgame poster 045.jpg
+Avengers Endgame poster 045 Textless.jpg
+Avengers Endgame poster 046.jpg
+Avengers Endgame poster 046 Textless.jpg
+Avengers Endgame poster 047.jpg
+Avengers Endgame poster 047 Textless.jpg
+Avengers Endgame poster 048.jpg
+Avengers Endgame poster 048 Textless.jpg
+Avengers Endgame poster 049.jpg
+Avengers Endgame poster 049 Textless.jpg
+Avengers Endgame poster 050.jpg
+Avengers Endgame poster 050 Textless.jpg
+Avengers Endgame poster 051.jpg
+Avengers Endgame poster 051 Textless.jpg
+Avengers Endgame poster 052.jpg
+Avengers Endgame poster 052 Textless.jpg
+Avengers Endgame poster 053.jpg
+Avengers Endgame poster 054.jpg
+Avengers Endgame poster 055.jpg
+</gallery>
+===Videos===
+====Trailers====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios' Avengers - Official Trailer
+Marvel Studios' Avengers Endgame - Official Trailer
+Marvel Studios’ Avengers Endgame Special Look
+Marvel Studios’ Avengers Endgame “To the End” TV Spot
+Marvel Studios' Avengers Endgame Policy Trailer
+</gallery>
+====Teasers====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios' Avengers Endgame - Big Game TV Spot
+Marvel Studios’ Avengers Endgame “Honor” TV Spot
+Marvel Studios' Avengers Endgame "Mission" Spot
+Marvel Studios' Avengers Endgame "No Mistakes, Kids" TV Spot
+Marvel Studios’ Avengers Endgame “Awesome” TV Spot
+Marvel Studios’ Avengers Endgame “Found” TV Spot
+Marvel Studios’ Avengers Endgame “Summer Begins” TV Spot
+Marvel Studios’ Avengers Endgame “Powerful” TV Spot
+Marvel Studios' Avengers Endgame "Time" TV Spot
+Marvel Studios’ Avengers Endgame “Go” TV Spot
+Marvel Studios' Avengers Endgame "Everything" TV Spot
+Marvel Studios' Avengers Endgame Big Review TV Spot
+Marvel Studios' Avengers Endgame "Save" TV Spot
+Marvel Studios' Avengers Endgame Blitz 1 Spot
+Marvel Studios' Avengers Endgame Thor 1 Movie TV Spot
+Marvel Studios’ Avengers Endgame Rolling Stone 1 Movie TV Spot
+Marvel Studios' Avengers Endgame "Assemble" TV Spot
+Marvel Studios’ Avengers Endgame “Prestige” TV Spot
+Marvel Studios' Avengers Endgame "Worldwide" TV Spot
+Marvel Studios' Avengers Endgame "Easter Eggs" TV Spot
+</gallery>
+====Featurettes====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios' Avengers Endgame "We Lost" Featurette
+Marvel Studios' Avengers Endgame "Stakes" Featurette
+Marvel Studios' Avengers Endgame LIVE Red Carpet World Premiere
+</gallery>
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[es:Avengers: Endgame]]
+[[it:Avengers: Endgame]]
+[[ru:Мстители: Финал]]
+==References==
+{{Reflist}}
+[[Category:Marvel Studios]]
+[[Category:Battle of New York]]

@@ -1,0 +1,89 @@
+{{Marvel Database:Film Template
+| Image                   = X-Men Dark Tide.jpg
+| Aliases                 = 
+
+| Directors               = William Vaughan
+| Producers               = Jeff Scheetz
+| ComicWriters            = 
+| StoryWriters            = 
+| ScreenplayWriters       = William Vaughan; Steven Roman
+| Musicians               = Ramin Djawadi
+| Cinematographers        = 
+| Editors                 = Ivan Young
+| Distributors            = 
+| ProductionCompanies     = 
+| Running Time            = 9 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = May 5, 2006
+
+| Official Website        = 
+| IMDB ID                 = 2949494
+| Marvel Movies           = X-Men: Darktide
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[X-Men (Earth-TRN608)|X-Men]]}}
+** {{Only|[[Scott Summers (Earth-TRN608)|Cyclops (Scott Summers)]]}}
+** {{Only|[[Jean Grey (Earth-TRN608)|Jean Grey]]}}
+** {{Only|[[Warren Worthington III (Earth-TRN608)|Archangel (Warren Worthington III)]]}}
+** {{Only|[[James Howlett (Earth-TRN608)|Wolverine (James 'Logan' Howlett)]]}}
+** {{Only|[[Henry McCoy (Earth-TRN608)|Beast (Hank McCoy)]]}}
+** {{Only|[[Charles Xavier (Earth-TRN608)|Professor X (Charles Xavier)]]}} {{OnScreen}}
+** {{Only|[[Ororo Munroe (Earth-TRN608)|Storm (Ororo Munroe)]]}}
+'''Antagonists:'''
+* {{Only|[[Sentinels]]}}
+* {{Only|[[Brotherhood of Mutants (Earth-TRN608)|Brotherhood of Mutants]]}}
+** {{Only|[[Raven Darkhölme (Earth-TRN608)|Mystique (Raven Darkhölme)]]}} {{Impersonates| [[Ororo Munroe (Earth-TRN608)|Storm]]}}
+** {{Only|[[Max Eisenhardt (Earth-TRN608)|Magneto (Max Eisenhardt)]]}}
+** {{Only|[[Cain Marko (Earth-TRN608)|Juggernaut (Cain Marko)]]}}
+'''Locations:'''
+* {{Only|[[Earth-TRN608]]}}
+** {{Only|[[Earth]]}}
+*** {{Only|[[United States of America]]}}
+**** {{Only|[[Florida (State)|Florida]]}}
+***** {{Only|[[Orlando (Florida)|Orlando]]}}
+****** {{Only|[[DAVE School]]}}
+**** {{Only|[[New York (State)|New York]]}} {{OnScreen}}
+***** {{Only|[[Westchester County]]}} {{OnScreen}}
+****** {{Only|[[Salem Center]]}} {{OnScreen}}
+******* {{Only|[[Xavier's School for Gifted Youngsters]]}} {{OnScreen}}
+*** {{Only|[[Atlantic Ocean]]}}
+**** Oil Rig {{Only}}
+'''Items:'''
+* {{Only|[[Cyclops' Visor]]}}
+* {{Only|[[Wolverine's Suit]]}}
+* {{Only|[[Magneto's Helmet]]}}
+* Psychic Inhibitor {{1st}}
+'''Vehicles:'''
+* {{Only|[[X-Men Blackbird|X-Jet]]}}
+
+| Plot                    = The [[X-Men (Earth-TRN608)|X-Men]] confronted the [[Sentinels]] at the DAVE school. The Sentinels were easily defeated. On their way back to [[Xavier's School for Gifted Youngsters]], [[Charles Xavier (Earth-TRN608)|Professer X]] contacted them and had them divert their course to an oil rig in the [[Atlantic Ocean]] as one of the team's members, [[Ororo Munroe (Earth-TRN608)|Storm]], had been lost there. On the oil rig, the X-Men came into conflict with [[Max Eisenhardt (Earth-TRN608)|Magneto]]'s [[Brotherhood of Mutants (Earth-TRN608)|Brotherhood of Mutants]] who was trying to stop the Earth's core to kill [[Humans (Homo sapiens)|humanity]]. Magneto's Brotherhood were defeated by the team.
+
+| Cast                    = 
+*Professor X: Peter Jordan
+*Sentinel #1: Darren Pleavin
+*Sentinel #2: Russell Wait
+*Mystique: Candice Moore
+*Juggernaut: Victor Lee
+*Magneto: Darren Pleavin
+*Jean Grey: Claudia Thompson
+*Cyclops: Darren Pleavin
+*Storm: Mary Ondeng Ewing
+*Archangel: Russal Wait
+*Wolverine: Digger Mesch
+*Beast: Dave Bridges
+
+==Videos==
+===Trailer===
+[[File:X-Men Minimates Darktide Trailer|center]]
+
+| Notes                   = * The film was originally a fan-film produced by the [https://dave.nuc.edu/ DAVE School] class of September 2005, though according to the credits, was produced with permission of Marvel and includes the copyrights of them in the credits.
+* The film was released on DVD in a bundle with a special four-piece set of X-Men-themed Minimates figures.
+| Trivia                  = *The X-Men wear their [[New X-Men]] costumes.
+* The film is dedicated to the memory of Paul Dawood.
+| Links                   = * [[Marvel Films#Direct-to-Video Films|Marvel Films]]
+}}

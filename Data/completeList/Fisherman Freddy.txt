@@ -1,0 +1,18 @@
+{{Infobox character
+|image = Fisherman Freddy.jpg
+|name = Fisherman Freddy
+|games = ''[[Toontown Online]]''
+|occupation = Fisherman
+|alignment = Good/Neutral}}
+'''Fisherman Freddy''' is a [http://toontown.wikia.com/wiki/Rabbit Rabbit] Fisherman [http://toontown.wikia.com/wiki/NPC NPC] in [http://toontown.wikia.com/wiki/Toontown Toontown]. He is located in the [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central] [http://toontown.wikia.com/wiki/Playground Playground ]''(He is found next to the gazebo near the [http://toontown.wikia.com/wiki/Fishing Fishing Pond.]). ''
+Like all Fisherman NPC's, you can talk to him to sell fish in your fishing bucket. For every 10 new fish species you sell, he will award you with a trophy and a [http://toontown.wikia.com/wiki/Laff Laff boost]. You can also receive Jellybeans from him when you sell fish.
+
+==Trivia==
+*﻿Many Toons make a Toon that looks like him, but since you are not allowed to use Disney-related characters, their Toon's name is Freddy, or just Fisherman.
+
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Rabbits]]
+[[Category:Males]]
+{{Toontown Online}}

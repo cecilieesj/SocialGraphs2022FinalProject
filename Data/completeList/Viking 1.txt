@@ -1,0 +1,46 @@
+{{Infobox character
+|image = Viking-1-the-Satellite.png
+|films = ''[[The Brave Little Toaster Goes to Mars]]''
+|voice = {{WikipediaLink|DeForest Kelley}}
+|inspiration = {{WikipediaLink|Viking 1}} satellite<br>The character of the same name from [[Thomas M. Disch]]'s novella
+|occupation = NASA Satellite
+|home = [[Mars]]
+|likes = Arguing with Tinselina, his mission
+|dislikes = Being broken down, remaining stranded on Mars
+|status = Active}}'''Viking 1''' is a character who appears in the sequel, ''[[The Brave Little Toaster Goes to Mars]]''.
+
+==Role in the film==
+Viking 1 is a satellite who was built by {{WikipediaLink|NASA}} and sent to [[Mars]], and like the real Viking 1, he became famous for becoming the first spacecraft to successfully land on Mars and perform his mission.
+
+He is known to be very proud of himself, but is also occasionally cranky, especially after breaking down and realizing it was planned that way when his mission was over, remain on Mars for all eternity. The only company he has ever had is an ACAM Christmas angel named [[Tinselina]] who was put inside him by an unknown kid at NASA and talks about nothing but Christmas.
+
+At the near end of the film, he is seen saying goodbye to Tinselina, as she has been invited to return to Earth by [[Toaster]] and the others.
+
+==Trivia==
+*Viking 1 was {{WikipediaLink|DeForest Kelley}}'s only voice role and final role in a Disney animated film before he died of stomach cancer a year later in June 11, 1999.
+
+==Gallery==
+<gallery widths="150" spacing="small" position="center" captionalign="center">
+Viking-1-1.png
+Viking-1-2.png
+Viking-1-3.png
+Viking-1-4.png|"Say it! I ran out of juice! My guidance battery's died!"
+Viking-1-5.png
+Viking-1-6.png|"No plans for a welcome home party!"
+Viking-and-Tinselina.png|Saying goodbye to [[Tinselina]]
+Viking-1-7.png
+Viking_lander_model.jpg|The actual Viking 1 satellite
+</gallery>
+
+{{The Brave Little Toaster}}
+[[Category:The Brave Little Toaster characters]]
+[[Category:Animated characters]]
+[[Category:Characters]]
+[[Category:Machines]]
+[[Category:Giants]]
+[[Category:Neutral characters]]
+[[Category:Heroes]]
+[[Category:Objects]]
+[[Category:Anthropomorphic characters]]
+[[Category:Non-Disney characters]]
+[[Category:Males]]

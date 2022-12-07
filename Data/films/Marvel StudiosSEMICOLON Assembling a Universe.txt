@@ -1,0 +1,22 @@
+{{Infobox film
+|image= Marvel Studios - Assembling a Universe.jpg
+|director = 
+|writer = 
+|studio = Marvel Television
+|release = [[March 18]], [[2014]]
+|time = 44 minutes
+|language = English}}'''''Marvel Studios: Assembling a Universe''''' is a television special that document the history of [[Marvel Studios]] and the [[Marvel Cinematic Universe]], and includes exclusive interviews and behind-the-scenes footage from all of the films, [[Marvel One-Shots|One-Shots]] and ''[[Agents of S.H.I.E.L.D.]]'', and sneak peeks of ''[[Avengers: Age of Ultron]]'', ''[[Captain America: The Winter Soldier]]'', ''[[Guardians of the Galaxy]]'', and unaired episodes of ''Agents of S.H.I.E.L.D.''. The special aired on [[March 18]], [[2014]] on [[ABC]].
+
+==Gallery==
+<gallery position="center">
+Marvel_Studios_-_Assembling_a_Universe.png|Promotional image.
+</gallery>
+
+{{Marvel Cinematic Universe}}
+[[Category:Films]]
+[[Category:2014 films]]
+[[Category:Documentaries]]
+[[Category:Television specials]]
+[[Category:Marvel Comics]]
+[[Category:Agents of S.H.I.E.L.D.]]
+[[Category:ABC]]

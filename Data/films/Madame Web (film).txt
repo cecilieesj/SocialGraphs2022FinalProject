@@ -1,0 +1,55 @@
+{{Marvel Database:Film Template
+| Image                   = 
+| Aliases                 = 
+
+| Directors               = S. J. Clarkson
+| Producers               = Lorenzo di Bonaventura; Erik Howsam; Palak Patel
+| ScreenplayWriters       = Kerem Sanga; Matt Sazama; Burk Sharpless
+| StoryWriters            = 
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Sony Pictures Releasing
+| ProductionCompanies     = Columbia Pictures, Marvel Entertainment, Di Bonaventura Pictures
+| Running Time            = 
+| Rating                  = 
+| Budget                  = 
+| Release Date            = February 16, 2024
+
+| IMDB ID                 = 11057302
+| AM ID                   = 
+| Marvel Movies           = {{PAGENAME}}
+| Spider-Man Films        = {{PAGENAME}}
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* <br/>
+'''Supporting Characters:'''
+* <br/>
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* <br/>
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * {{WP|Dakota Johnson}} as '''[[Madame Web]]'''{{r|{{cite web|url= https://deadline.com/2022/02/madame-web-dakota-johnson-1234925603/|title= ‘Madame Web’: Dakota Johnson Tapped To Play First Female Superhero Star In Sony Pictures’ Universe Of Marvel Characters|work= Deadline|last= Kroll|first= Justin|date= February 3, 2022|accessdate= April 23, 2022}}}}
+
+Additionally, {{WP|Sydney Sweeney}},{{r|{{cite web|url= https://deadline.com/2022/03/euphorias-sydney-sweeney-dakota-johnson-sony-marvel-madame-web-1234980232/|title= ‘Euphoria’s Sydney Sweeney To Co-Star Opposite Dakota Johnson In Sony’s Marvel Pic ‘Madame Web’|work= Deadline|last= Kroll|first= Justin|date= March 16, 2022|accessdate= April 23, 2022}}}} {{WP|Celeste O'Connor}},{{r|{{cite web|url= https://deadline.com/2022/05/madame-web-celeste-oconnor-joins-sony-marvel-film-1235031569/|title= ‘Madame Web’: Celeste O’Connor Joins Sydney Sweeney, Dakota Johnson In Sony’s Marvel Pic|work= Deadline|last= Grobar|first= Matt|date= May 24, 2022|accessdate= May 24, 2022}}}} {{WP|Isabela Merced}},<ref>{{cite web|url= https://deadline.com/2022/06/madame-web-isabela-merced-dakota-johnson-marvel-1235035969/|title= ‘Madame Web’: Isabela Merced Latest To Join Dakota Johnson In Sony’s Marvel Pic|work= Deadline|last= Kroll|first= Justin|date= June 1, 2022|accessdate= June 1, 2022}}</ref> {{WP|Tahar Rahim}},<ref name="ER">{{cite web|url= https://deadline.com/2022/06/madame-web-emma-roberts-sony-marvel-1235051101/|title= ‘Madame Web’: Emma Roberts Joins Sony Marvel Pic|work= Deadline|last= Kroll|first= Justin|date= June 27, 2022|accessdate= June 27, 2022}}</ref> {{WP|Emma Roberts}},<ref name="ER"/> {{WP|Mike Epps}},<ref>{{cite web|url= https://deadline.com/2022/07/madame-web-adds-mike-epps-1235060358/|title= Sony’s ‘Madame Web’ Adds Mike Epps|work= Deadline|last= Grobar|first= Matt|date= July 8, 2022|accessdate= July 8, 2022}}</ref> {{WP|Adam Scott (actor)|Adam Scott}}.<ref>{{cite web|url= https://deadline.com/2022/07/madame-web-adam-scott-sonys-marvel-1235064474/|title= ‘Madame Web’: Adam Scott Joins Sony’s Marvel Pic|work= Deadline|last= Kroll|first= Justin|date= July 15, 2022|accessdate= July 15, 2022}}</ref> and {{WP|Zosia Mamet}}<ref>{{cite web|url= https://deadline.com/2022/08/madame-web-adds-the-flight-attendants-zosia-mamet-1235084470/|title= ‘Madame Web’ Adds ‘The Flight Attendant’s Zosia Mamet|work= Deadline|last= Grobar|first= Matt|date= August 3, 2022|accessdate= August 4, 2022}}</ref> have been cast in undisclosed roles.
+
+| Notes                   = * Initially announced to be released on July 7, 2023,<ref>{{cite web|url= https://deadline.com/2022/04/spider-man-across-the-spider-verse-summer-2023-theatrical-release-sony-release-date-changes-1235007010/|title= ‘Spider-Man: Across The Spider-Verse’ Heads To Summer 2023; Sony Dates ‘Madame Web’, ‘Equalizer 3’ Among Other Release Changes|work= Deadline|last= D'Alessandro|first= Anthony|date= April 20, 2022|accessdate= July 21, 2022}}</ref> this film was later pushed back to October 6, 2023.<ref>{{cite web|url= https://variety.com/2022/film/news/madame-web-delay-insidious-5-1235320125/|title= Sony Delays ‘Madame Web’ Three Months, Sets ‘Insidious 5’ for July 2023|work= Variety|last= Chapman|first= Wilson|date= July 19, 2022|accessdate= July 21, 2022}}</ref> later pushed back to February 16, 2024.<ref>{{cite web|url= https://deadline.com/2022/09/sony-kraven-the-hunter-madame-web-karate-kid-1235121120/|title= New ‘Karate Kid’ Movie Among Sony Pictures Release Date Adds; ‘Kraven The Hunter,’ ‘Madame Web’ Move & More|work= Deadline|last= D'Alessandro|first= Anthony|date= September 16, 2022|accessdate= September 16, 2022}}</ref>
+
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}

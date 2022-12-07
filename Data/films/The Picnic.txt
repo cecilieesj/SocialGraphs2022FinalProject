@@ -1,0 +1,65 @@
+{{Infobox film
+|image = Thepicniccolorizedtitle.jpg
+|imagewidth = 250px
+|name = The Picnic
+|director = [[Burt Gillett]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = Walt Disney<br>[[Marcellite Garner]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[October 23]], [[1930]]
+|time = 7:04
+|preceded = ''[[The Gorilla Mystery]]''
+|followed = ''[[Pioneer Days]]''}}
+'''''The Picnic''''' is a ''[[Mickey Mouse]]'' cartoon, originally released on [[October 23]], [[1930]].
+
+==Summary==
+Mickey and Minnie go picnicking but make the mistake of bringing Pluto (here referred to as "Rover") along. The hound chases rabbits and damages Mickey's car. Meanwhile, animals ransack the picnic lunch and Mickey dances with Minnie to "In the Good Old Summertime." Finally, a sudden thunderstorm appears and the picnic is abandoned altogether, but Mickey and Minnie laugh it off as they start to drive home, with Pluto serving as an impromptu windshield wiper.
+
+==Characters==
+*[[Mickey Mouse]]
+*[[Minnie Mouse]]
+*[[Pluto]]
+
+==Releases==
+===Television===
+* ''[[Mickey's Mouse Tracks]]'', episode #55
+* ''[[Mickey Mouse and Friends]]'', episode #5
+* ''[[The Ink and Paint Club]]'', episode #1.37: "Mickey's Pal, Pluto"
+
+===Home video===
+* ''[[Walt Disney Treasures]]: Mickey Mouse in Black and White, Volume 2'' (DVD)
+
+==Comic strip==
+This short was adapted by [[Floyd Gottfredson]] for a week-long arc ''Mickey Mouse'' daily comic strip, running from January 5-10, 1931. Because Pluto hadn't been introduced in the strip at that point, he was replaced by a different dog named "Tiny".
+
+==Gallery==
+<gallery spacing="small" widths="150" position="center">
+12905.jpg
+12906.jpg
+12907.jpg
+12910.jpg
+12911.jpg
+12912.jpg
+Tumblr_n846bwHvEw1qhcrb0o1_1280.jpg
+Tumblr_m04ng8ud3S1r3jmn6o1_1280.png
+The Picnic.jpg
+</gallery>
+
+==Copyright info==
+The film's copyright was renewed on [[December 16]], [[1957]].<ref>[https://archive.org/details/catalogofcopyrig3111213li/page/117/mode/1up Catalog of Copyright Entries (1957 renewals)]</ref>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Picnic, The}}
+{{Mickey-Series}}
+{{Minnie-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Minnie Mouse shorts]]
+[[Category:Pluto shorts]]
+[[Category:1930 shorts]]
+[[Category:Mickey Mouse comic stories]]

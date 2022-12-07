@@ -1,0 +1,40 @@
+{{Infobox_character
+|rides = [[Star Tours: The Adventures Continue]]
+|occupation = Criminal seeker for the [[Galactic Empire]]
+|alignment = Bad
+|affiliations = The Galactic Empire
+|goal = To hunt down the rebel spy
+|friends = Sky-Troopers
+|fate = Pushed into deep space
+|image = StarTours-Prowler.jpg}}
+This '''Seeker Droid''' was a '''Prowler 1000 exploration droid''' or '''Prowler Probe Droid''' which appears in [[Star Tours: The Adventures Continue]].
+
+== History ==
+=== Background ===
+This droid was a prowler 1000 exploration droid which was utilized by the [[Galactic Empire]] at some point before the battle of Yavin. It was tasked with hunting down a rebel spy which was tracked down to [[Star Tours (company)|Star Tours]] Spaceport THX1138.
+
+The probe droid and an ambush of sky-troopers and [[stormtroopers]] halted the passage of Star Tours Flight 1401, a [[StarSpeeder 1000]] being helmed by accident by one [[C-3PO]]. Thee stormtroopers held the speeder as the probe droid located the spy and found it was one of the ship's passengers. As a result, the ship went to hyperdrive while ramming into the seeker droid, pushing it into space.
+
+=== Development History ===
+Prowler 1000 Exploration Droids were created for Star Wars Episode III (2005) albeit as droids used by the [[Galactic Republic]] in the clone wars. They also made a number of expanded universe appearances leading up to Star Tours.
+
+== Appearances ==
+=== Star Tours: The Adventures Continue ===
+The Seeker Droid appears in one of the two original opening scenes for Star Tours: The Adventures Continue. In its version of the scene it grabs onto the visor of the ship and holds a red screen which shows the faces of guests on it as it searches for the rebel spy.
+
+Eventually it finds the spy (usually one of the guests) and encourages the sky-troopers to attack before the ride truly begins by ramming into the probe droid.
+
+== Trivia ==
+* It was identified as, "The Seeker Droid" by a [[2002]] Star Tours [[Star Wars: Star Tours (toy line)|toy-line]].
+* One of the faces which flashes on the Seeker Droid's screen is that of [[George Lucas]].
+
+==Gallery==
+<gallery position="center">
+STARTOURsPacks03-lg.jpg
+</gallery>
+
+{{Star Wars}}
+[[Category:Theme park characters]]
+[[Category:Star Tours characters]]
+[[Category:Droids]]
+[[Category:Villains]]

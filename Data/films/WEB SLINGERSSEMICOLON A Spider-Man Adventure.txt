@@ -1,0 +1,87 @@
+{{Marvel Database:Film Template
+| Image                   = Avengers Campus Concept Art 004.jpg
+| Aliases                 = 
+| Universe                = 
+
+| Directors               = 
+| Release Date            = June 4, 2021
+| Producers               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = Approximately 7 minutes
+| Rating                  = 
+| Plot                    = Embark on an action-packed adventure alongside the amazing Spider-Man! When Peter Parker’s helpful but otherwise buggy Spider-Bots get stuck in replication mode and escape from a WEB Workshop, Spider-Man must stop the rampaging robots before they wreak total techno-havoc across Avengers Campus. Problem is, they’re rapidly leveling up and becoming tough to beat!
+
+Your task? Hop aboard a WEB Slinger vehicle and help weave a frenzied web to trap these arachni-rascals in true Spidey style. It’s up to you to unleash your inner hero and save the Campus from complete chaos!<ref name="article">{{cite web|url=https://disneyparks.disney.go.com/blog/2020/03/avengers-campus-set-to-open-july-18-2020-at-disneyland-resort/|title=Avengers Campus Set to Open July 18, 2020 at Disneyland Resort|work=disneyparks.disney.go.com|first=Scot|last=Drake|date=11 March 2020|accessdate=12 March 2020}}</ref>
+
+| Language               = English
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Worldwide Engineering Brigade (Earth-TRN971)|W.E.B. (Worldwide Engineering Brigade)]]}}
+** {{1st|[[Peter Parker (Earth-TRN971)|Spider-Man (Peter Parker)]]}}
+'''Supporting Characters:'''
+* {{1st|[[Sharon (A.I.) (Earth-TRN971)|Sharon]]}}
+'''Antagonists:'''
+* {{a|[[Spider-Bot|SPD//R Bots]]}}
+Other Characters:'''
+* {{Photo|[[Worldwide Engineering Brigade (Earth-TRN971)|W.E.B. (Worldwide Engineering Brigade)]]}}
+** {{Photo|[[Onome (Earth-TRN971)|Onome]]}}
+** {{Photo|[[Harley Keener (Earth-TRN971)|Harley Keener]]}}
+** {{Photo|[[Lunella Lafayette (Earth-TRN971)|Lunella Lafayette]]}}
+** {{Photo|[[Doreen Green (Earth-TRN971)|Doreen Green]]}}
+* {{Mentioned|[[Stark Industries (Earth-TRN971)|Stark Industries]]}}
+* {{Mentioned|[[Avengers (Earth-TRN971)|Avengers]]}}
+** {{Mentioned|[[Anthony Stark (Earth-TRN971)|Iron Man (Tony Stark)]]}}
+* {{a|[[Pym Technologies (Earth-TRN971)|Pym Technologies]]}}
+* {{a|[[Tivan Group (Earth-TRN971)|Tivan Group]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Robots]]}}
+'''Locations:'''
+* {{a|[[Earth-TRN971]]}}
+* {{a|[[Earth]]}}
+** {{a|[[United States of America]]}}
+*** {{a|[[California (State)|California]]}}
+**** {{a|[[Anaheim]]}}
+***** {{1st|[[Disney California Adventure Park]]}}
+****** {{1st|[[Avengers Campus]]}}
+******* {{1st|[[W.E.B. Headquarters]]}}
+******* {{1st|[[Pym Test Kitchen]]}}
+******* {{a|[[Collector's Museum|Collector’s Fortress]]}}
+** {{Mentioned|[[Wakanda]]}}
+'''Items:'''
+* {{a|[[Project: SL1NG//R]]}}
+* {{a|[[W.E.B. Vision]]}}
+* {{a|[[Vibranium]]}}
+* {{a|[[Pym Particles]]}}
+* {{OnScreenOnly|[[Iron Man Gauntlet]]}}
+* {{OnScreenOnly|[[Captain America's Shield|Replica of Captain America's Shield]]}}
+* {{a|[[Spider-Man's Suit]]}} and {{a|[[Web-Shooters]]}}
+* {{Minor|[[Gamma Ray Projector|Gamma Testing]]}}
+* {{a|[[Pym Discs]]}}
+* {{a|[[Bio-Synthetic Wings]]}}
+* {{a|[[Quantum Tunnel]]}}
+* {{a|[[Stormbreaker]]}}
+'''Vehicles:'''
+* {{Photo|[[S.H.I.E.L.D. Flying Car|Stark Industries Flying Car]]}}
+* {{1st|[[W.E.B. Slinger Vehicle|W.E.B. SL1NG//R Vehicle]]}}
+* {{a|[[Hank Pym's Tank]]}}
+* {{a|[[Quinjet|Quinjets]]}}
+
+| Cast                   = 
+* [[wikipedia:Tom Holland|Tom Holland]] as [[Spider-Man]]<ref name="article">{{cite web|url=https://disneyparks.disney.go.com/blog/2020/03/avengers-campus-set-to-open-july-18-2020-at-disneyland-resort/|title=Avengers Campus Set to Open July 18, 2020 at Disneyland Resort|work=disneyparks.disney.go.com|first=Scot|last=Drake|date=11 March 2020|accessdate=12 March 2020}}</ref>
+| Notes                  = 
+* ''WEB Slingers: A Spider-Man Adventure'' will be a spinning dark attraction in [[wikipedia:Disney California Adventure|Disney California Adventure]].
+| Links                  = 
+* Marvel.com: [https://www.marvel.com/articles/culture-lifestyle/avengers-campus-opening-date-summer-2020 Avengers Campus Opens at the Disneyland Resort on July 18]
+* [[Ant-Man and the Wasp: Nano Battle!]]
+* [[Guardians of the Galaxy: Cosmic Rewind]]
+* [[Guardians of the Galaxy - Mission: BREAKOUT!]]
+* [[Guardians of the Galaxy - Awesome Mix Live!]]
+* [[Iron Man Experience]]
+}}
+[[Category:Attractions]]
+[[Category:Disneyland California Adventure Park]]

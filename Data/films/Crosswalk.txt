@@ -1,0 +1,27 @@
+{{Infobox film
+|image = Crosswalk still.png
+|name = Crosswalk
+|director = Ryan Green
+|producer = Jennifer Newfield
+|release = [[August 4]], [[2021]]
+|studio = [[Walt Disney Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Disney+]]
+|music = Jake Monaco
+|preceded = ''[[Fetch (Short Circuit)|Fetch]]''
+|followed = ''[[Going Home (Short Circuit)|Going Home]]''}}
+'''Crosswalk''' is an animated short film produced by [[Walt Disney Animation Studios]] in the ''[[Short Circuit]]'' series that was released as a [[Disney+]] exclusive on [[August 4]], [[2021]].
+
+==Synopsis==
+A law-abiding citizen must find his inner strength to cross the street at a light that won't change.
+
+==Plot==
+Following the intro, depicting genetic ancestors with glasses, a man arrives at a crosswalk and pushes the button to await his turn to cross the street. After seeing a pigeon crossing with little to no care, the man attempts to do the same, but the crosswalk light begins to change and extend its time for waiting. The man pushes the button furiously, but the light begins to mock him by ordering him to do various acts. The man, finally fed up, reconnects a piece of his DNA and begins marching across with the light trying to tell him to stop. The man flies in the air and crashes down onto the other side successfully, only to realize that he left his briefcase behind. The light mocks him with "LOL".
+{{Stub}}
+{{Disney+}}
+[[pt-br:Faixa de Pedestres]]
+[[it:Attraversamento pedonale]]
+[[Category:Animated shorts]]
+[[Category:Disney+ Originals]]
+[[Category:Short Circuit]]
+[[Category:2021 shorts]]
+[[Category:Featured shorts]]

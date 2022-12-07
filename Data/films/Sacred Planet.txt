@@ -1,0 +1,49 @@
+{{Infobox film
+| name           = Sacred Planet
+| image          = file:Sacred-planet-movie-poster-2004-1020385597.jpg
+| caption        = Film Poster
+| director       = Jon Long
+| producer       = 
+| writer         = 
+| music          = 
+| cinematography = 
+| studio         = [[Walt Disney Pictures]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures]]
+| time           = 40 minutes
+| language       = English
+| budget         = 
+| gross          = $1,108,356
+| release = [[April 22]], [[2004]]}}'''''Sacred Planet''''' is a [[2004]] documentary. [[Robert Redford]] provided narration for the film. It was released on [[April 22]], 2004, and grossed $1,108,356.
+
+==Plot==
+This [[IMAX]] film shows exotic places that still exist and gives new insights into the Earth's diverse landscapes, peoples and animals. From the last remaining old growth forests of British Columbia, the snowy peaks and glaciers of [[Alaska]], the red rock canyons of [[Utah]] and [[Arizona]], the tropical jungles and underwater mysteries of Borneo, the ancient ruins of Thailand and remote deserts of Namibia to the white sand beaches of New Zealand.
+
+==Cast==
+*[[Robert Redford]] as Narrator (voice)
+*Arapata McKay as Native Voice (voice)
+*Tsaan Ciqae as Native Voice (voice)
+*Mae Tui as Native Voice (voice)
+*Cy Peck Jr. as Native Voice (voice)
+*Mutang Urud as Native Voice (voice)
+
+==Production Credits==
+*Directors: Jon Long*Writers: Jon Long, Karen Fernandez Long*
+*Producers: Jon Long, Karen Fernandez Long*
+*Rated: G (General Audience)*
+*Studio: Walt Disney Home Entertainment*
+*DVD Release Date: [[April 5]], [[2005]]*
+*Run Time: 40 minutes
+
+==Gallery==
+<gallery>
+Sacred_Planet.jpg
+</gallery>
+{{DISPLAYTITLE:''Sacred Planet''}}
+[[pt-br:Planeta Sagrado]]
+[[zh:最後的伊甸園]]
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:Documentaries]]
+[[Category:2004 films]]
+[[Category:IMAX films]]
+[[Category:G-rated films]]

@@ -1,0 +1,31 @@
+{{Infobox film
+|image =
+|name = Alice at the Rodeo
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[February 21]], [[1927]]
+|time = 8:16
+|preceded = ''[[Alice at the Carnival]]''
+|followed = ''[[Alice the Collegiate]]''
+}}
+'''''Alice at the Rodeo''''' is a [[1927]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+[[Julius the Cat|Julius]] wins a bucking bronco contest at the rodeo, but when [[Pete]] steals his winning he is forced to take on the Bear to get them back.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1927-rodeo-2.jpg
+1927-rodeo-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=54 Alice at the Rodeo] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1927 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Pete Shorts]]
+[[Category:Western Films]]

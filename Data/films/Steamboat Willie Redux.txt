@@ -1,0 +1,27 @@
+{{Infobox film
+|name        = Steamboat Willie Redux
+|director    = 
+|producer    = 
+|writer      = 
+|distributor = Disney Consumer Products
+|language    = English
+|image = Image:2013-steamboatRedux-01.jpg
+|imagewidth = 250px
+|release = [[August 10]], [[2013]]}}
+'''''Steamboat Willie Redux''''' is a new hand-drawn short produced by [[Disney Consumer Products]]. It's basically a remake of [[Steamboat Willie|the original short]] in various graphic styles by different artists. It premiered at the [[D23|D23 Expo]] on [[August 10]], [[2013]]. It was shown at the "Mickey: The True Original" Exhibition in New York.
+
+==Gallery==
+<gallery>
+Steamboat-willie-redux-feat.jpg
+Steamboat-Willie-Redux-Image-Hi-Res.jpg
+Steamboat-Willie-Image-2.jpg
+09 Anim devSW.jpg
+08 Anim devSW.jpg
+</gallery>
+[[Category:Mickey Mouse shorts]]
+[[Category:Animated shorts]]
+[[Category:Disney films]]
+[[Category:Films]]
+[[Category:2013 shorts]]
+[[Category:2013 films]]
+[[Category:Remakes]]

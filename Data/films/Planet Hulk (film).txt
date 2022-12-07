@@ -1,0 +1,114 @@
+{{Marvel Database:Film Template
+| Image                   = Planet Hulk (film).jpg
+| Aliases                 = 
+| Distinguish1            = Planet Hulk
+
+| Directors               = Sam Liu
+| Producers               = Eric S. Rollman; Stan Lee; Joshua Fine; Kevin Feige
+| ComicWriters            = Greg Pak
+| StoryWriters            = 
+| ScreenplayWriters       = Greg Johnson
+| Musicians               = Guy Michaelmore
+| Cinematographers        = 
+| Editors                 = George P. Rizkallah
+| Distributors            = Lionsgate
+| Running Time            = 81 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = February 2, 2010
+
+| AM ID                   = planet-hulk-v505334
+| IMDB ID                 = 1483025
+| Marvel Movies           = Planet Hulk
+
+| Tagline                 = Will he save their world...or destroy it?
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[Bruce Banner (Earth-10022)|Hulk (Bruce Banner)]]}}
+'''Supporting Characters:'''
+* {{Only|[[Warbound (Earth-10022)|Warbound]]}}
+** {{Only|[[Korg (Earth-10022)|Korg]]}} {{Joins}} {{Flashback}} {{Origin}}
+** {{Only|[[Hiroim (Earth-10022)|Hiroim the Shamed]]}} {{Joins}} {{Flashback}} {{Origin}}
+** {{Only|[[Miek (Earth-10022)|Miek]]}} {{Joins}}
+** {{Only|[[Elloe Kaifi (Earth-10022)|Elloe Kaifi]]}} {{Joins}}
+* {{Only|[[Caiera (Earth-10022)|Caiera the Oldstrong]]}} {{Flashback}} {{Origin}}
+* {{Only Dies|[[Lavin Skee (Earth-10022)|Lavin Skee]]}}
+* {{Only|[[Beta Ray Bill (Earth-10022)|Beta Ray Bill]]}} {{Flashback}}
+* {{Only Destruction|[[Androids]]}}
+'''Antagonists:'''
+* {{Only Dies|[[Angmo-Asan (Earth-10022)|Red King (Angmo-Asan)]]}} {{Flashback}}
+* {{Only|[[Primus Vand (Earth-10022)|Primus Vand]]}}
+* {{Only Dies|[[Governor Churik (Earth-10022)|Governor Churik]]}}
+* {{Only|[[Spikes (Race)|Spikes]]}} {{Flashback}}
+* {{Only|[[Kronans]]}} {{Flashback}}
+* {{Only Dies|[[Cavaranthus Mazorus|Devil Corker]]}}
+* {{Only|[[Mawkaw Magkong]]}}
+* {{Only|[[Death's Head Guard (Earth-10022)|Death's Head Guards]]}}
+'''Other Characters:'''
+* {{Only|[[Illuminati (Earth-10022)|Illuminati]]}} {{OnScreen}}
+** {{Only|[[Anthony Stark (Earth-10022)|Iron Man (Tony Stark)]]}} {{OnScreen}}
+** {{Only|[[Reed Richards (Earth-10022)|Mister Fantastic (Reed Richards)]]}} {{OnScreen}}
+** {{Only|[[Stephen Strange (Earth-10022)|Doctor Strange (Stephen Strange)]]}} {{OnScreen}}
+** {{Only|[[Blackagar Boltagon (Earth-10022)|Black Bolt (Blackagar Boltagon)]]}} {{OnScreen}}
+* {{Only|[[Thor Odinson (Earth-10022)|Thor]]}} {{FlashOnly}}
+* {{Only|[[En Dwi Gast (Earth-10022)|Grandmaster]]}} {{Cameo}}
+* {{Only|[[Peter Quill (Earth-10022)|Starlord]]}} {{Cameo}}
+* {{Only|[[Gamora (Earth-10022)|Gamora]]}} {{Cameo}}
+* {{Only|[[Adam Warlock (Earth-10022)|Adam Warlock]]}} {{Cameo}}
+* {{Only|[[Pip Gofern (Earth-10022)|Pip the Troll]]}} {{Cameo}}
+* {{Only|[[Sakaaran Imperials|Unnamed Sakaaran Imperials]]}}
+* {{Only|[[Shadow People|Unnamed Sakaaran Shadow People]]}}
+* {{Only|[[Sakaaran Natives|Unnamed Sakaaran Natives]]}}
+* {{Only|[[Deviant Skrulls|Unnamed Skrulls]]}} {{Cameo}}
+'''Locations:'''
+* {{Only|[[Earth-10022]]}}
+** {{Only|[[Sakaar]]}}
+*** {{Only|[[Wukar]]}}
+*** {{Only|[[Crown City]]}}
+*** {{Only|[[I'tjam]]}}
+** {{Only|[[Earth]]}}
+** {{Only|[[Luna (Moon)|Moon]]}}
+** {{Mentioned|[[Asgard (Realm)|Asgard]]}}
+* {{Only|[[Great Portal]]}}
+'''Items:'''
+* {{OnScreen|[[Iron Man Armor]]}} {{Only}}
+* {{OnScreen|[[Cloak of Levitation]]}} {{Only}}
+* {{OnScreen|[[Fantastic Four Uniforms|Fantastic Four Uniform]]}} {{Only}}
+* {{Only|[[Obedience Disk]]}}
+* {{Flashback|[[Stormbreaker]]}} {{Only}}
+* {{FlashOnly|[[Mjolnir]]}} {{Only}}
+* {{FlashOnly|[[Mechano Monster (Earth-10022)|Mechano Monster]]}} {{Only Destruction}}
+* {{Only Destruction|[[Wildebots]]}}
+* Red King's High-Tech Exoskeleton {{Only}}
+'''Vehicles:'''
+* {{Only Destruction|[[S.H.I.E.L.D. Shuttle]]}}
+
+| Plot                    = 
+
+| Cast                    = * Rick D. Wasserman as the Hulk
+* Kevin Michael Richardson as Korg
+* Mark Hildreth as the Red King
+* Marc Worden as Iron Man
+* Lee Tockar as Android
+* Liam O'Brien as Hiroim
+* Michael Kopsa as Lavin Skee
+* Lisa Ann Beley as Caiera
+* Sam Vincent as Miek
+* Russell Roberts as Primus Vand
+* Advah Soudack as Elloe Kaifi
+* Paul Dobson as Beta Ray Bill
+* Donald Adams as Governor Churik
+
+| Notes                   = * Despite not possessing any score at Rotten Tomatoes, '''Planet Hulk''' was well received by the fans.<ref>[https://www.rottentomatoes.com/m/planet_hulk? Planet Hulk (2010) at Rotten Tomatoes]</ref>
+| Trivia                  = * The scene where Korg recalls when he and his brothers fought Thor and Beta Ray Bill on [[Earth]] is slightly similar to Thor's battle with the Kronans in {{cl|Journey into Mystery Vol 1 83}}.
+* In the original comic story of ''[[Planet Hulk]]'', the alien whom Hulk and the Warbound fight was the [[Silver Surfer]], wherein the film Beta Ray Bill takes the Surfer's place.
+* In the film, the Hulk never reverts back to the form of Bruce Banner.
+* [[No-Name]], a member of the Warbound in the comics, does not appear in the film.
+* In the audience of the coliseum in Crown City, there are appearances from some notable residents of the cosmic side of the Marvel Universe, including a few Skrulls, Adam Warlock, Star-Lord, and Gamora.
+| Links                   = *[[Marvel Films#Direct-to-Video Films|Marvel Films]]
+}}
+[[ru:Планета Халка]]

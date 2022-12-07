@@ -1,0 +1,53 @@
+{{Infobox character
+|image = Dr._Badger_Zootopia.jpg
+|films = ''[[Zootopia]]''
+|voice = [[Katie Lowes]]
+|designer = Cory Loftis<br>Matthias Lechner<br>Nick Orsi
+|fullname = Madge Honey Badger
+|occupation = Doctor
+|home = [[Zootopia (location)|Zootopia]]
+|likes = Treating patients, going the extra mile to do her job, doing late night shifts
+|dislikes = [[Mayor Lionheart]] scolding her, failures, sick patients
+|status = Incarcerated}}
+'''Dr. Badger''' is a minor character from the [[2016]] [[Walt Disney Animation Studios|Disney]] animated feature film, ''[[Zootopia]]''. She is a doctor who handles the most pressing medical cases.
+
+==Background==
+===Development===
+Madge was originally named '''Honey Badger''' and served as a major character in the film. She was a conspiracy theorist who believed in the "''sheep conspiracy''", meaning she was obsessed with a supposedly oncoming apocalypse in which sheep would rule the world. She even had her own hidden bunker with sheep-specific defense weapons.<ref>[http://www.matthiaslechner.com/zootopia.html Matthias Lechner - Zootopia Visual Development blogpost]</ref><ref>''The Art of Zootopia''</ref>
+
+She was also one of [[Nick Wilde]]'s best friends, alongside [[Finnick]] and [[Clawhauser]], and would assist the other members of her circle in different scams.
+
+Though this version of Honey was scrapped, she was reworked to remain in the movie (with a new name), in a minor role as a doctor working on a savage outbreak plaguing predator citizens.
+
+==Role in the film==
+When [[Judy Hopps|Judy]] and [[Nick Wilde|Nick]] infiltrate the [[Cliffside Asylum]], they find the savage animals and [[Mayor Lionheart]] as the one responsible for their imprisonment. While the duo hides, Lionheart is seen discussing with Dr. Badger about her theory on predators being reverted back to their savage selves via biology. Dr. Badger voices her concern about the growing problem and suggests they make the case public. Mayor Lionheart scolds her, knowing he too is a predator, which would ruin his own reputation, not knowing Judy was videotaping them. After the exposure, both the mayor and the doctor are arrested.
+
+After finding out about the [[night howlers]] and exposing [[Bellwether]]'s plan, [[Peter Moosebridge]] announces that an antidote was created by the doctors for the savage predators. It is unknown if Dr. Badger was released to help them.
+
+==Trivia==
+*Her professional name was revealed in ''The Official Zootopia Handbook''.
+
+==Gallery==
+<gallery position="center">
+Zootopia Angry Lionhart.png|Dr. Madge being scolded by Mayor Lionheart for her theory.
+Honey Badger cut character.png|A page of Honey concept art from "The Art of Zootopia".
+DrBadgerArrested.png|Dr. Badger being arrested.
+</gallery>
+
+==References==
+{{Reflist}}
+{{Zootopia}}
+{{DEFAULTSORT:Badger, Dr.}}
+[[ar:الطبيبة بادجر]]
+[[pt-br:Dra. Mel Badger]]
+[[Category:Females]]
+[[Category:Adults]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Characters in the Disney animated features canon]]
+[[Category:Zootopia characters]]
+[[Category:Doctors]]
+[[Category:Animated characters]]
+[[Category:Anthropomorphic characters]]
+[[Category:Neutral characters]]
+[[Category:Badgers]]

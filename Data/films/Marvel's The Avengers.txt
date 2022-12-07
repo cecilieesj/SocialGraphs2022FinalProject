@@ -1,0 +1,279 @@
+{{Marvel Database:Film Template
+| Image                   = The Avengers (film) poster 011.jpg
+| Aliases                 = Marvel Avengers Assemble (British/Irish title)<br>Los Vengadores de Marvel (Latin American title)<br>Los Vengadores (Spanish title)<br>Os Vingadores: The Avengers (Brazilian title)<br>Yenilmezler (Turkish title)<br>Οι Εκδικητές (Greek title)<br>Group Hug (working title)
+
+| Directors               = Joss Whedon
+| Producers               = Kevin Feige
+| ComicWriters            = [[Stan Lee]]; [[Jack Kirby]]
+| StoryWriters            = Zak Penn; Joss Whedon
+| ScreenplayWriters       = Joss Whedon
+| Musicians               = Alan Silvestri
+| Cinematographers        = Seamus McGarvey
+| Editors                 = Jeffrey Ford; Lisa Lassek
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = 143 minutes
+| Rating                  = '''MPAA:''' PG-13 for intense sequences of sci-fi violence and action throughout, and a mild drug reference
+| Budget                  = $220 million
+| Release Date            = April 25, 2012
+| US Release Date         = May 4, 2012
+
+| AM ID                   = avengers-assemble-v451151
+| IMDB ID                 = 0848228
+| Marvel Movies           = The Avengers (film)
+| MCU                     = The Avengers
+
+| Previous Film           = The Incredible Hulk (2008 film)
+| Previous Film2          = {{sld|Iron Man 2 (film)}}{{sld|Thor (film)}}{{sld|Captain America: The First Avenger}}
+| Next Film               = Iron Man 3 (film)
+| Next Film2              = {{sld|Thor: The Dark World}}{{sld|Captain America: The Winter Soldier}}{{sld|Avengers: Age of Ultron}}
+
+| Appearances             = 
+'''Featured Characters:'''
+*{{a|[[Avengers (Earth-199999)|Avengers]]}} {{g|First appearance; disbands}}
+**{{apn|[[Clinton Barton (Earth-199999)|Hawkeye (Agent Clint Barton)]]|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 4|Avengers: Age of Ultron}} {{g|Joins and leaves team}}
+**{{apn|[[Natalia Romanoff (Earth-199999)|Black Widow (Agent Natasha Romanoff)]]|Marvel's The Avengers: Black Widow Strikes Vol 1 3|Captain America: The Winter Soldier Infinite Comic Vol 1 1}} {{g|Joins and leaves team}}
+**{{apn|[[Bruce Banner (Earth-199999)|Hulk (Dr. Bruce Banner)]]|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 4|Iron Man 3 (film)}} {{g|Joins and leaves team}}
+**{{apn|[[Steven Rogers (Earth-199999)|Captain America (Steve Rogers)]]|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 4|Captain America: The Winter Soldier Infinite Comic Vol 1 1}} {{g|Joins and leaves team}} {{Flashback}}
+**{{apn|[[Anthony Stark (Earth-199999)|Iron Man (Tony Stark)]]|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 4|Marvel's Iron Man 3 Prelude Vol 1 1}} {{g|Joins and leaves team}}
+**{{apn|[[Thor Odinson (Earth-199999)|Thor]]|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 4|Marvel's Thor: The Dark World Prelude Vol 1 1}} {{g|Joins and leaves team}}
+'''Supporting Characters:'''
+*{{a|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]]}}
+**{{apn|[[Phillip Coulson (Earth-199999)|Agent Phil Coulson]]|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 4|Marvel's Agents of S.H.I.E.L.D. Season 1 1}} {{Death}}
+**{{apn|[[Maria Hill (Earth-199999)|Agent Maria Hill]]|-|Marvel's Agents of S.H.I.E.L.D. Season 1 1}} {{1st}}
+**{{apn|[[Nicholas Fury (Earth-199999)|Director Nick Fury]]|Marvel's The Avengers: Black Widow Strikes Vol 1 3|Marvel's Agents of S.H.I.E.L.D. Season 1 2}}
+**{{apn|[[Erik Selvig (Earth-199999)|Doctor Erik Selvig]]|Thor (film)|Marvel's Thor: The Dark World Prelude Vol 1 1}}
+**{{apn|[[Jasper Sitwell (Earth-199999)|Agent Jasper Sitwell]]]|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 3|Marvel One-Shot: Item 47}}
+**Numerous unnamed agents
+*{{a|[[Stark Industries (Earth-199999)|Stark Industries]]}}
+**{{apn|[[Virginia Potts (Earth-199999)|Pepper Potts]]|Iron Man 2 (film)|Marvel's Iron Man 3 Prelude Vol 1 1}}
+*{{a|[[Just A Rather Very Intelligent System (Earth-199999)|J.A.R.V.I.S.]]}}
+'''Antagonists:'''
+*{{apn|[[Other (Chitauri) (Earth-199999)|The Other]]|-|Guardians of the Galaxy (film)}} {{1st}}
+*{{apn|[[Loki Laufeyson (Earth-199999)|Loki]]|Thor (film)|Marvel's Thor: The Dark World Prelude Vol 1 1}}
+*{{apn|[[Thanos (Earth-199999)|Thanos]]|-|Guardians of the Galaxy (film)}} {{1st}} {{Cameo}}
+'''Other Characters:'''
+*{{a|[[Project P.E.G.A.S.U.S. (Earth-199999)|Project P.E.G.A.S.U.S.]]}}
+*{{1st|[[National Aeronautics and Space Administration (Earth-199999)|NASA]]}}
+*{{1st|[[Georgi Luchkov (Earth-199999)|Georgi Luchkov]]}}
+*{{OnScreen|[[World Security Council (Earth-199999)|World Security Council]]}} {{Shadow}}
+**{{apn|[[Gideon Malick (Earth-199999)|Councilman Malick]]|-|Marvel's Agents of S.H.I.E.L.D. Season 3 6}} {{1st}} {{Unnamed}} {{OnScreen}} {{Shadow}}
+**{{apn|[[Councilwoman Hawley (Earth-199999)|Councilwoman Hawley]]|-|Captain America: The Winter Soldier}} {{1st}} {{Unnamed}} {{OnScreen}} {{Shadow}}
+**Numerous unnamed council members
+*{{FlashOnly|[[Howling Commandos (Earth-199999)|Howling Commandos]]}}
+**{{FlashOnly|[[Timothy Dugan (Earth-199999)|Dum-Dum Dugan]]}}
+*{{FlashOnly|[[Hydra (Earth-199999)|Hydra]]}}
+**{{FlashOnly|[[Johann Schmidt (Earth-199999)|Red Skull (Johann Schmidt)]]}}
+*{{Mentioned|[[Howard Stark (Earth-199999)|Howard Stark]]}}
+*{{OnScreenOnly|[[Destroyer (Enchanted Armor)|Destroyer]]}}
+*{{Named|[[Mephisto (Earth-199999)|Mephisto]]}}
+*{{Mentioned|[[Audrey Nathan (Earth-199999)|Audrey Nathan]]}}
+*{{Mentioned|[[Stephen Hawking (Earth-199999)|Stephen Hawking]]}}
+*{{1st|[[Heinrich Schafer (Earth-199999)|Dr. Heinrich Schafer]]}}
+* {{Mentioned|[[Adolf Hitler (Earth-199999)|Adolf Hitler]]}}
+*{{Mentioned|[[Yahweh (Earth-199999)|God (Yahweh)]]}}
+*{{Mentioned|[[Odin Borson (Earth-199999)|Odin]]}}
+*{{OnScreenOnly|[[Jane Foster (Earth-199999)|Jane Foster]]}}
+*{{Mentioned|[[General Dreykov (Earth-199999)|Dreykov]]}}
+*{{Mentioned|[[Antonia Dreykov (Earth-199999)|Dreykov's daughter]]}}
+*{{Only|[[Phase 2 (Earth-199999)|Phase 2]]}}
+*{{1st|[[Beth (Earth-199999)|Beth]]}}
+*{{a|[[New York City Police Department (Earth-199999)|NYPD]]}}
+* [[Wikipedia:Legolas|Legolas]] {{Mentioned}}
+*{{a|[[United States Army (Earth-199999)|United States Army]]}}
+*{{a|[[New York City Fire Department (Earth-199999)|FDNY]]}}
+*{{1st|[[Shawna Lynde (Earth-199999)|Shawna Lynde]]}}
+*{{1st|[[Senator Boynton (Earth-199999)|Senator Boynton]]}}
+*{{voice|[[Senator Stern (Earth-199999)|Senator Stern]]}}
+*{{mentioned|[[Federal Bureau of Investigation (Earth-199999)|F.B.I.]]}}
+*{{a|[[Stan Lee (Earth-199999)|Stan Lee]]}} {{OnScreenOnly}}
+'''Races and Species:'''
+*{{a|[[Asgardians]]}}
+*{{a|[[Chitauri]]}}
+*{{a|[[Frost Giants]]}}
+*{{1st|[[Leviathans (Chitauri)|Leviathans]]}}
+*{{Flashback|[[Humans (Homo sapiens)|Humans]]}}
+* {{Mentioned|[[Ants]]}}
+* {{Mentioned|[[Cats]]}}
+* {{Mentioned|[[Monkeys]]}}
+*{{Mentioned|[[Bilgesnipes]]}}
+* {{Mentioned|[[Pigeons]]}}
+*{{a|[[Titans (Eternals)|Titanians]]}}
+'''Locations:'''
+*{{a|[[Earth-199999]]}}
+**{{a|[[Sanctuary (Planet)|Sanctuary]]}}
+**{{a|[[Earth]]}}
+***{{a|[[United States of America]]}}
+****{{a|[[Mojave Desert]]}}
+*****{{a|[[Project P.E.G.A.S.U.S. Facility]]}}
+****{{a|[[New York (State)|New York]]}}
+*****{{a|[[New York City]]}}
+******{{a|[[Manhattan]]}}
+*******{{1st|[[Stark Tower]]}}
+*******{{a|[[Central Park]]}}
+*******{{Mentioned|[[39th Street]]}}
+*******{{OnScreen|[[Park Avenue]]}}
+*******{{Mentioned|[[Avenue of the Americas|Sixth Avenue]]}}
+*******{{a|[[42nd Street]]}}
+*******{{Mentioned|[[Madison Avenue]]}}
+*******{{a|[[Grand Central Station|Grand Central Terminal]]}}
+******* {{a|[[Chrysler Building]]}}
+******* {{Mentioned|[[Harlem]]}}
+******* {{a|[[Empire State Building]]}}
+****{{OnScreenOnly|[[Virginia (State)|Virginia]]}}
+*****{{OnScreenOnly|[[[[Willowdale]]]]}}
+******{{OnScreenOnly|[[Culver University]]}}
+****{{OnScreenOnly|[[New Mexico (State)|New Mexico]]}}
+*****{{OnScreenOnly|[[Puente Antiguo]]}}
+****[[Ohio (State)|Ohio]]
+*****{{Mentioned|[[Portland (Ohio)|Portland]]}}
+***{{a|[[Russia]]}}
+***{{a|[[India]]}}
+****{{a|[[West Bengal]]}}
+*****{{a|[[Calcutta]]}}
+***{{FlashOnly|[[Arctic Circle]]}}
+***{{a|[[Atlantic Ocean]]}}
+***{{a|[[Germany]]}}
+****{{a|[[Stuttgart]]}}
+***{{Mentioned|[[Budapest]]}}
+***{{Mentioned|[[Madripoor]]}}
+**{{Mentioned|[[Asgard (Realm)|Asgard]]}}
+** {{a|[[Sun (Star)|Sun]]}}
+** {{Invoked|[[Hell]]}}
+'''Items:'''
+*{{a|[[Cosmic Cube|Tesseract]]}}
+**{{BTS|[[Space Stone]]}}
+*{{1st|[[Loki's Scepter]]}}
+**{{BTS|[[Mind Stone]]}} {{1st}}
+*{{a|[[Iron Man Armor MK VI (Earth-199999)|Iron Man Armor MK VI]]}}
+*{{1st|[[Iron Man Armor MK VII (Earth-199999)|Iron Man Armor MK VII]]}}
+*{{a|[[Arc Reactor]]}}
+*{{Flashback|[[Captain America's Shield]]}}
+*{{a|[[Captain America's Uniform]]}}
+*{{1st|[[Hawkeye's Suit]]}}
+*{{a|[[Mjolnir]]}}
+*{{a|[[Hawkeye's Bow]]}}
+*{{a|[[Trick Arrows]]}}
+*{{a|[[Black Widow's Gauntlets]]}}
+*{{a|[[Tony Stark's New Element]]}}
+*{{1st|[[Destroyer Armor Prototype Gun]]}}
+*{{1st|[[Chitauri Gun]]}}
+*{{Mentioned|[[Life-Model Decoy]]}}
+*{{Mentioned|[[Super-Soldier Serum]]}}
+* {{Mentioned|[[Bifrost]]}}
+*{{1st|[[Space Throne]]}}
+*{{1st|[[Chitauri Bomb]]}}
+*{{1st|[[Chitauri Neural Link]]}}
+*{{1st|[[Chitauri Staff]]}}
+*{{1st|[[Chitauri Armor]]}}
+'''Vehicles:'''
+*{{1st|[[S.H.I.E.L.D. Helicarrier]]}}
+*{{1st|[[Quinjet|S.H.I.E.L.D. Quinjet]]}}
+*{{a|[[Captain America's Motorcycle]]}}
+*{{A|Stark Industries Jet}}
+*[[wikipedia:Acura|Acura Cars]]
+**[[wikipedia:Acura TL|Acura TL]]
+**[[wikipedia:Acura NSX Spider|Acura NSX Spider]]
+*[[wikipedia:Lockheed Martin F-35 Lightning II|Lockheed Martin F-35 Lightning II]]
+*[[wikipedia:Boeing Business Jet|Boeing 737 Business Jet]]
+*Chitauri air chariot {{1st}}
+*Chitauri mother ship {{1st}} {{Destruction}}
+'''Events:'''
+*[[Battle of New York]]
+
+| Plot                     = [[Loki Laufeyson (Earth-199999)|Loki]] encounters [[Other (Chitauri) (Earth-199999)|The Other]], an envoy for an alien race known as the [[Chitauri]]. In exchange for stealing the [[Cosmic Cube|Tesseract]], (an energy source of limitless power) for his mysterious master, the Other promises Loki a Chitauri army with which he can subjugate the Earth. The Other then gave Loki a powerful Scepter.
+
+[[Nicholas Fury (Earth-199999)|Nick Fury]], director of the espionage agency [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]], and his lieutenant [[Maria Hill (Earth-199999)|Agent Hill]] arrive by helicopter at a remote research facility during an evacuation, where physicist [[Erik Selvig (Earth-199999)|Doctor Erik Selvig]] is leading a research team experimenting on the Tesseract. Agent Phil Coulson explains that the object has begun radiating an unusual form of energy, as well as low levels of gamma radiation. The Tesseract suddenly activates and opens a portal, allowing Loki to reach Earth. Loki takes the Tesseract and uses his scepter to enslave Selvig and several agents, including Clint Barton, to aid him in his getaway.
+
+[[File:Natalia Romanoff (Earth-199999) from Marvel's The Avengers 013.jpg|thumb|left|210px|Romanoff tied to a chair]]
+In response to the attack, Fury reactivates the "Avengers Initiative". S.H.I.E.L.D. moves to their new base of operations, the Helicarrier, where Coulson contacts Agent Natasha Romanoff, who at the moment was in the middle of an interrogation where she was tied to a chair. But Coulson tells her that "Agent Barton has been compromised", Romanoff breaks loose of her bondage and manages to defeat her captors, Romanoff is then sent to India to recruit Dr. Bruce Banner; Coulson visits Tony Stark to have him review Selvig's research; and Fury approaches Steve Rogers with an assignment to retrieve the Tesseract. While Barton steals iridium needed to stabilize the Tesseract's power, Loki causes a distraction in Stuttgart, Germany, leading to a confrontation with Rogers, Stark, and Romanoff that ends with Loki's surrender. While Loki is being escorted to S.H.I.E.L.D., Thor, his adoptive brother, arrives and frees him hoping to convince him to abandon his plan and return to Asgard. After a confrontation with Stark and Rogers, Thor agrees to take Loki to S.H.I.E.L.D.'s flying aircraft carrier, the Helicarrier. There Loki is imprisoned while Banner and Stark attempt to locate the Tesseract.
+
+[[File:HummingStarkCap.jpg|thumb|right|210px|Heroes scattered.]]
+The [[Avengers (Earth-199999)|Avengers]] become divided, both over how to approach Loki and the revelation that S.H.I.E.L.D. plans to harness the Tesseract to develop weapons as a deterrent against hostile extra-terrestrials. As the group argues, Barton and Loki's other possessed agents attack the Helicarrier, disabling its engines in flight and causing Banner to transform into the Hulk. Stark and Rogers try to restart the damaged engines, and Thor attempts to stop the Hulk's rampage. Romanoff fights Barton, and knocks him unconscious, breaking Loki's mind control. Loki escapes after killing Coulson and ejecting Thor from the airship, while the Hulk leaves on his own. Fury uses Coulson's death to motivate the Avengers into working as a team. Stark and Rogers realize that simply defeating them will not be enough for Loki; he needs to overpower them publicly to validate himself as ruler of Earth. Loki uses the Tesseract, in conjunction with a device Selvig built, to open a portal above Stark Tower to the Chitauri fleet in space, launching his invasion.
+
+{{Quote|All right, listen up! Until we can close that portal up there, what we need is containment. Barton, I want you on that roof, eyes on everything. Call out patterns and strays. Stark, you've got the perimeter. Anything gets more than three blocks out, you turn it back or you turn it to ash. Thor, you've gotta try and bottleneck that portal, slow them down. You've got the lightning - light the bastards up! [''turns to Natasha''] You and me, we stay here on the ground, keep the fighting here. And Hulk, smash!|[[Steven Rogers (Earth-199999)|Captain America's]] instructions to his comrades.}}
+
+[[File:Avengers (Earth-199999) from Marvel's The Avengers 001.jpg|thumb|left|210px]]
+The Avengers rally in defense of New York City, but quickly realize they will be overwhelmed as wave after wave of Chitauri descend upon Earth. With help from Barton, Rogers, Stark, and Thor evacuate civilians, while Banner transforms back into the Hulk and goes after Loki, eventually beating him into submission. Romanoff makes her way to the portal, where Selvig, freed of Loki's control, reveals that Loki's scepter can be used to close the portal. Meanwhile, Fury's superiors attempt to end the invasion by launching a nuclear missile at Manhattan. Stark intercepts the missile and takes it through the portal toward the Chitauri fleet. The missile detonates, destroying the invaders' mother ship, thereby disabling their forces on Earth. Stark's suit runs out of power and he falls back through the portal, but the Hulk saves him from crashing to the ground. Romanoff deactivates the portal to prevent further invasion. In the aftermath, Thor returns Loki and the Tesseract to Asgard. Fury notes that the Avengers will return when they are needed.
+
+In the first of two post-credits scenes, the Other confers with his [[Thanos (Earth-199999)|master]] about the attack on Earth; in the second post-credits scene, the Avengers eat in silence at a [[Shawarma]] restaurant.
+
+| Cast                    = 
+*[[wikipedia:Robert Downey Jr.|Robert Downey Jr.]] as [[Anthony Stark (Earth-199999)|Iron Man / Tony Stark]]
+*[[wikipedia:Chris Evans|Chris Evans]] as [[Steven Rogers (Earth-199999)|Captain America / Steve Rogers]]
+*[[wikipedia:Mark Ruffalo|Mark Ruffalo]] as [[Bruce Banner (Earth-199999)|Hulk / Dr. Bruce Banner]]
+**[[wikipedia:Lou Ferrigno|Lou Ferrigno]] as voice of the [[Bruce Banner (Earth-199999)|Hulk]]
+*[[wikipedia:Chris Hemsworth|Chris Hemsworth]] as [[Thor Odinson (Earth-199999)|Thor]]
+*[[wikipedia:Scarlett Johansson|Scarlett Johansson]] as [[Natalia Romanoff (Earth-199999)|Black Widow / Agent Natasha Romanoff]]
+*[[wikipedia:Jeremy Renner|Jeremy Renner]] as [[Clinton Barton (Earth-199999)|Hawkeye / Agent Clint Barton]]
+*[[wikipedia:Tom Hiddleston|Tom Hiddleston]] as [[Loki Laufeyson (Earth-199999)|Loki]]
+*[[wikipedia:Clark Gregg|Clark Gregg]] as [[Phillip Coulson (Earth-199999)|Agent Phil Coulson]]
+*[[wikipedia:Cobie Smulders|Cobie Smulders]] as [[Maria Hill (Earth-199999)|Agent Maria Hill]]
+*[[wikipedia:Jenny Agutter|Jenny Agutter]] as [[Councilwoman Hawley (Earth-199999)|Councilwoman Hawley]]
+*[[wikipedia:Jerzy Skolimowski|Jerzy Skolimowski]] as [[Georgi Luchkov (Earth-199999)|Georgi Luchkov]]
+*[[wikipedia:Stellan Skarsgård|Stellan Skarsgård]] as [[Erik Selvig (Earth-199999)|Dr. Erik Selvig]]
+*[[wikipedia:Samuel L. Jackson|Samuel L. Jackson]] as [[Nicholas Fury (Earth-199999)|Director Nick Fury]]
+
+[[wikipedia:Paul Bettany|Paul Bettany]], [[wikipedia:Gwyneth Paltrow|Gwyneth Paltrow]], [[wikipedia:Maximiliano Hernández|Maximiliano Hernández]] reprise their roles as [[Just A Rather Very Intelligent System (Earth-199999)|J.A.R.V.I.S.]], [[Virginia Potts (Earth-199999)|Pepper Potts]], and [[Jasper Sitwell (Earth-199999)|Agent Jasper Sitwell]], respectively. [[wikipedia:Alexis Denisof|Alexis Denisof]] portrays [[Other (Chitauri) (Earth-199999)|The Other]]. [[wikipedia:Powers Boothe|Powers Boothe]] portrays an [[Gideon Malick (Earth-199999)|unnamed member of the World Security Council]]. [[wikipedia:Ashley Johnson|Ashley Johnson]] appears as [[Beth (Earth-199999)|Beth]]. [[wikipedia:Romy Rosemont|Romy Rosemont]] and [[wikipedia:James Eckhouse|James Eckhouse]] appear as [[Shawna Lynde (Earth-199999)|Shawna Lynde]] and [[Senator Boynton (Earth-199999)|Senator Boynton]], respectively. [[wikipedia:Stan Lee|Stan Lee]] makes a cameo. [[wikipedia:Damion Poitier|Damion Poitier]] appears as [[Thanos (Earth-199999)|Thanos]] in the mid-credits scene.
+
+| Notes                   = * The world premiere was held at the [[wikipedia:El Capitan Theatre|El Capitan Theatre]] on April 11, 2012.
+* At the time of its release, the film broke numerous box office records, including the biggest opening weekend in North America and tied with ''[[wikipedia:Avatar (2009 film)|Avatar]]'' and ''[[wikipedia:Harry Potter and the Deathly Hallows - Part 2|Harry Potter and the Deathly Hallows - Part 2]]'' for fastest film to gross $1 billion.{{r|{{cite web|url=https://www.huffingtonpost.com/2012/05/13/the-avengers-1-billion-box-office_n_1513011.html|title=‘The Avengers’: $1 Billion In Global Box Office After Record Second Weekend|work=HuffPost|first=Christopher|last=Rosen|date=13 May 2012|accessdate=3 April 2018}}}} With a worldwide total box office gross of about $1.51 billion, this film became the highest grossing film of 2012, and at its peak the fifth highest-grossing film of all time.{{r|{{cite web|url= http://www.boxofficemojo.com/yearly/chart/?view2=worldwide&yr=2012&p=.htm|title= 2012 Yearly Box Office Results|work= Box Office Mojo|accessdate= April 3, 2018}}}}{{r|{{cite web|url= http://www.boxofficemojo.com/alltime/world/|title= All Time Worldwide Box Office Grosses|accessdate= April 3, 2018|work= Box Office Mojo|archiveurl= https://archive.is/yK8kb|archivedate= April 3, 2018}}}}
+* ''Marvel's The Avengers'' is the first film in the [[Earth-199999|Marvel Cinematic Universe]] to be released by Walt Disney Pictures. Four of the preceding Marvel Studios productions (''[[Iron Man (film)|Iron Man]]'', ''[[Iron Man 2 (film)|Iron Man 2]]'', ''[[Thor (film)|Thor]]'' and ''[[Captain America: The First Avenger]]'') were released by Paramount Pictures and ''[[The Incredible Hulk (2008 film)|The Incredible Hulk]]'' was released by Universal Studios. The Paramount logo appears on Avengers posters and the film's opening titles as part of the deal between Disney and Paramount. Walt Disney Pictures is not credited until the final moments after the credits.
+| Trivia                  = [[File:The Avengers (film) poster 011 (English version).jpg|thumb|right|125px|UK version of the poster]]
+* Walt Disney Pictures retitled the film in the United Kingdom and Ireland to avoid confusion with [[wikipedia:The Avengers (TV series)|the unrelated 1961 British TV series of the same title]], which in turn had its own [[wikipedia:The Avengers (1998 film)|similarly titled movie adaptation in 1998]]. The film was retitled ''Avengers Assemble'', after the popular catchphrase from the comic books. The reaction to the title change was mixed.
+* The post-credits scene was filmed on the 12th of April<ref>[http://collider.com/the-avengers-filming-new-scene/158987/ Collider]</ref> (after ''Marvel's The Avengers'' world premiere). It features the six Avengers eating at the shawarma restaurant mentioned by Stark. [[wikipedia:Chris Evans (actor)|Chris Evans]] had to wear a prosthetic face mask to hide his beard growth and further conceals the mask behind his hand as he eats. Due to the late filming of this scene, it was not ready for the international release on the 25th and therefore does not appear on ''Marvel's The Avengers'' presentations in many countries.
+* The shawarma restaurant scene was inspired by [[Joss Whedon|Joss Whedon]]'s own work in the TV series ''[[Wikipedia:Angel (1999 TV series)|Angel]]'', namely the ending of the [[wikipedia:Angel (season 5)|fifth season]]'s fifteenth episode.<ref>{{cite web|url=http://www.comicbookresources.com/article/joss-whedons-favorite-angel-death-led-to-the-avengers-post-credits-scene|title=Joss Whedon's Favorite "Angel" Death Led to "The Avengers" Post-Credit Scene|work=Comic Book Resources|first=Jesse|last=Gormley|date=18 August 2016|accessdate=18 August 2016}}</ref>
+* According to director Joss Whedon, [[wikipedia:Scarlett Johansson|Scarlett Johansson]]'s participation in the film was in question early in the film's development. Because of this, Whedon's original script for the film included [[Wasp]] in her place.<ref>{{cite web|url=http://www.superherohype.com/news/articles/174139-joss-whedon-says-his-avengers-script-originally-included-the-wasp|title=Joss Whedon Says His Avengers Script Originally Included The Wasp|website=SuperHeroHype|last=Lesnick|first=Silas|date=18 December 2012|accessdate=2 January 2013|quote="There was a little bit of time where we thought we might not actually get Scarlett [Johansson]," he explains. "There was a very Waspy draft that I wrote. But it was way too Waspy. I was like, 'She's adorable! I'm just going to watch her!'"}}</ref>
+* Disney and Sony Pictures agreed for [[Oscorp Tower]] from ''[[The Amazing Spider-Man (2012 film)|The Amazing Spider-Man]]'' to be included in the film, but the idea was dropped because much of the skyline had already been completed.<ref>{{cite web|url=http://latino-review.com/2012/06/spider-man-the-avengers-sort/|title=How Spider-Man was Almost in 'The Avengers,' Sort Of|author=Da7e|work=Latino Review|date=11 June 2012|accessdate=6 September 2013}}</ref>
+* The scene where [[Bruce Banner (Earth-199999)|Bruce Banner]] describes how he tried to shoot himself but failed was seen in a deleted scene of ''The Incredible Hulk'', where Banner was in the Arctic. [[Steven Rogers (Earth-199999)|Captain America]] makes a cameo in this scene as well, where he and his shield are seen briefly as the ice shatters.
+*While developing the film, worried that [[Loki Laufeyson (Earth-199999)|Loki Laufeyson]] wouldn't be enough match for the [[Avengers (Earth-199999)|Avengers]], Joss Whedon added [[Zeke Stane]] to the story as another enemy for the Avengers after his [[Obadiah Stane (Earth-199999)|father]]'s death, but [[Kevin Feige]] suggested Whedon to drop the idea.<ref>{{cite web|url=https://www.thrillist.com/entertainment/nation/the-avengers-battle-of-new-york-joss-whedon|title=The Battle of New York: An 'Avengers' Oral History|last=PAtches and Failes|first=Matt and Ian|work=Thrillist|date=23 April 2018|accessdate=23 October 2020}}</ref>
+* The [[Xu Wenwu (Earth-199999)|Mandarin]] and Shang-Chi were considered to appear in the post-credits scene as a tease for the Chinese market, but Beijing's development team shot down the idea as they didn't want the first Chinese character of the [[Earth-199999|Marvel Cinematic Universe]] to be a villain but there was no desire to cast any actor as Shang-Chi, leading Marvel to ultimately desist from the idea and instead filmed the tease with [[Thanos (Earth-199999)|Thanos]].<ref>{{cite web|url=https://bleedingcool.com/movies/marvel-studios-offered-shang-chi-or-mandarin-for-first-avengers-movie/|title=Marvel Studios Offered Shang-Chi Or Mandarin For First Avengers Movie|last=Johnston|first=Rich|work=Bleeding Cool|date=6 August 2020|accessdate=23 October 2020}}</ref>
+
+==Gallery==
+===Alternate Posters===
+<gallery>
+The Avengers (film) poster 001.jpg
+The Avengers (film) poster 002.jpg
+The Avengers (film) poster 003.jpg
+The Avengers (film) poster 004.jpg
+The Avengers (film) poster 005.jpg
+The Avengers (film) poster 006.jpg
+The Avengers (film) poster 007.jpg
+The Avengers (film) poster 008.jpg
+The Avengers (film) poster 009.jpg
+The Avengers (film) poster 010.jpg
+The Avengers (film) poster 012.jpg
+The Avengers (film) poster 013.jpg
+The Avengers (film) poster 014.jpg
+The Avengers (film) poster 015.jpg
+The Avengers (film) poster 016.jpg
+The Avengers (film) poster 017.jpg
+The Avengers (film) poster 018.jpg
+Marvel's The Avengers film poster 019.jpg
+Marvel's The Avengers film poster 020.jpg
+Marvel's The Avengers film poster 021.jpg
+Marvel's The Avengers film poster 022.jpg
+</gallery>
+
+===Videos===
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel's The Avengers- Trailer (OFFICIAL)
+Marvel's The Avengers Super Bowl XLVI Commercial (Extended)
+Marvel Avengers Assemble (2012) Watch the Official trailer HD
+Marvel - The Avengers Super Bowl XLVI Commercial
+Marvel's The Avengers Trailer 2 (OFFICIAL)
+Marvel's The Avengers TV Spot - Team
+Marvel's The Avengers TV Spot - Headcount
+The Avengers - German Trailer with new footage in end.
+Filming of the movie
+Filming of the movie The Avengers - Captain America - Fight Scene
+Marvel's The Avengers Red Carpet World Premiere
+</gallery>
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[it:Marvel's The Avengers]]
+[[es:Los Vengadores (La Película)]]
+[[ru:Мстители (фильм)]]
+[[pt-br:Os Vingadores: The Avengers]]
+[[Category:Marvel Studios]]
+[[Category:Battle of New York]]

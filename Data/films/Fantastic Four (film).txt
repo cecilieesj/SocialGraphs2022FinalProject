@@ -1,0 +1,76 @@
+{{Upcoming|media=film}}
+{{Infobox film
+|image = Fantastic Four Logo.jpg
+|name = Fantastic Four
+|director = [[Matt Shakman]]
+|producer = [[Kevin Feige]]<br>Grant Curtis<br>Nick Pepin
+|writer = Jeff Kaplan<br>Ian Springer
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Marvel Studios]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[February 14]], [[2025]]
+|time = 
+|language = English
+|budget = 
+|gross = 
+|preceded = ''[[Deadpool 3]]''
+|followed = ''[[Avengers: The Kang Dynasty]]''
+|hidec = 
+|website = https://www.marvel.com/movies/fantastic-four
+|imdb_id = 10676052}}
+
+'''''Fantastic Four''''' is an upcoming American superhero film based on the Marvel Comics superhero team of the [[Fantastic Four (team)|same name]]. It is scheduled to be released on [[February 14]], [[2025]], and will be the thirty-eighth film of the [[Marvel Cinematic Universe]] and the first film of Phase Six. It is being directed by [[Matt Shakman]] and the screenplay is being written by Jeff Kaplan and Ian Springer. It will be produced by [[Marvel Studios]] and distributed by [[Walt Disney Studios Motion Pictures]].
+
+==Cast==
+*TBA as [[Mr. Fantastic|Reed Richards/Mr. Fantastic]]
+*TBA as [[Invisible Woman|Susan Storm/Invisible Woman]]
+*TBA as [[Human Torch|Johnny Storm/Human Torch]]
+*TBA as [[Thing|Ben Grimm/Thing]]
+
+==Development==
+On [[July 20]], [[2019]], ''Variety'' reported that [[Kevin Feige]] announced that a ''Fantastic Four'' film set in the Marvel Cinematic Universe was in early development, even after four unsuccessful attempts at a successful movie adaptation.<sup><ref>{{Cite web|url=https://variety.com/2019/film/news/new-fantastic-four-marvel-1203274712/|title= New "Fantastic Four" Movie in Development at Marvel|website= Variety|accessdate= July 20, 2019}}</ref></sup>
+
+On [[December 10]], [[2020]], the film was officially announced by [[Marvel Studios]] with [[Jon Watts]] attached to direct.<ref>[https://www.marvel.com/articles/movies/marvel-studios-announces-fantastic-four-film-jon-watts Breaking: Marvel Studios Announces ‘Fantastic Four’ Feature Film]</ref>
+
+On April 29, 2022, ''The Hollywood Reporter'' reported that Jon Watts had exited the project and would no longer direct the film.<ref>[https://www.hollywoodreporter.com/movies/movie-news/jon-watts-exits-marvel-fantastic-four-1235138382/ Director Jon Watts Exits Marvel’s ‘Fantastic Four’]</ref>
+
+On June 2, 2022, ''Deadline'' reported that ''Fantastic Four'' was a top priority at [[Marvel Studios]] and that they are actively searching for directors.<ref>[https://twitter.com/krolljvar/status/1532230656624758784 Justin Kroll on Twitter - June 2, 2022]</ref>
+
+On July 24, 2022, it was reported that the film will be the first film of Phase 6.<ref>[https://mobile.twitter.com/DiscussingFilm/status/1551009475976372225 Disgussing Film on Twitter - July 24 2022]</ref>
+
+On July 27, 2022, Feige announced that the film won't have an origin story. <ref>[https://www.hollywoodreporter.com/movies/movie-news/with-next-phases-set-marvel-hones-in-on-directors-1235187070/ With Next Phases Set, Marvel Homes in on Directors]</ref>
+
+On August 26, 2022, ''Deadline'' reported that [[Matt Shakman]] was in talks to direct the film, after Watts left the project.<ref>[https://deadline.com/2022/08/fantastic-four-movie-matt-shakman-directing-wandavision-1235100640/ ‘WandaVision’ Director Matt Shakman In Talks To Helm Marvel’s ‘Fantastic Four’ Movie]</ref>
+
+On September 10, 2022, it was announced at D23 that Shakman would indeed be directing the film.<ref>[https://twitter.com/MarvelStudios/status/1568677649048018944 Marvel Studios on Twitter - September 10, 2022]</ref>
+
+On September 21, 2022, ''Deadline'' reported that Jeff Kaplan and Ian Springer were hired to write the screenplay for the film. Kevin Feige and Matt Shakman will now focus on casting while the script is being written.<ref>[https://deadline.com/2022/09/fantastic-four-jeff-kaplan-ian-springer-marvel-studios-1235123893/ ‘Fantastic Four’: Jeff Kaplan And Ian Springer To Write New Film For Marvel Studios]</ref>
+
+==Trivia==
+*Before starring as [[Captain America|Steve Rogers/Captain America]] in the [[Marvel Cinematic Universe]], [[Chris Evans]] played the [[Human Torch]] in the [[2005]] film and its sequel, ''Rise of the Silver Surfer''.
+**Also, before starring as [[Erik Killmonger]] in the MCU for ''[[Black Panther (film)|Black Panther]]'', [[Michael B. Jordan]] played the same character in the [[2015]] film.
+
+==References==
+{{Reflist}}
+
+==External Links==
+*{{WP|Fantastic Four (2025 film)|Fantastic Four}}
+*{{IMDb|title/tt10676052}}
+*{{Twitter|FantasticFour}}
+*{{Instagram|FantasticFour}}
+*[[w:c:marvelcinematicuniverse:Fantastic Four (film)|Fantastic Four (film)]] on [[w:c:marvelcinematicuniverse:Marvel_Cinematic_Universe_Wiki|Marvel Cinematic Universe Wiki]]
+{{FilmStub}}
+{{Marvel Cinematic Universe}}
+{{DISPLAYTITLE:''Fantastic Four''}}
+[[pt-br:Quarteto Fantástico (filme)]]
+[[Category:Upcoming films]]
+[[Category:Fantastic Four]]
+[[Category:Live-action films]]
+[[Category:Films based on comics]]
+[[Category:Marvel Comics]]
+[[Category:Marvel Cinematic Universe films]]
+[[Category:2025 films]]
+[[Category:Upcoming]]

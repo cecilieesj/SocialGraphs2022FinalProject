@@ -1,0 +1,44 @@
+{{Infobox_character
+|image =Red_Gaurd.jpg‎
+|name = Red Guard
+|films = ''[[Tron]]''
+|actor = Dave Cass<br>Bob Neill<br>Ted White<br>Mark Stewart<br>Michael Sax<br>Tony Brubaker
+|alias = Warriors<br>Glitch Guards
+|weapons = Light Staff
+|occupation = Guards
+|alignment = Bad
+|affiliations = [[Master Control Program|MCP]]
+|goal = To be serving Sark and the MCP}}
+'''Red Guards''' (also known as '''Glitch Guards''') are the security programs loyal to [[Commander Sark]] and the [[MCP]] in the computer world. It is assumed that Sentries are the updated versions of guards. They use long Light Staffs to stun programs and also to block attacks. They haven't demonstrated the use of their [[Identity Disc|identity discs]] as weapons. Their primary function is acting as security for the MCP and [[the Grid]]. They are used to escort conscripts to the games from their cells. They also search for and round up any rogue programs.
+
+==Trivia==
+*The Guard is called "Warrior" in the [[1982]] Tron toyline.
+
+==Gallery==
+<gallery position="center" spacing="small">
+Red Gaurds.jpg
+Red Gaurd 2.jpg
+Tron Warrior.jpg
+Tron-disneyscreencaps.com-206.jpg
+Tron-disneyscreencaps.com-773.jpg|[[CLU]] captured by a Glitch Guard.
+tron-disneyscreencaps.com-3758.jpg|Flynn meets up with the Glitch Guards.
+tron-disneyscreencaps.com-4549.jpg
+tron-disneyscreencaps.com-7394.jpg
+Tron-disneyscreencaps.com-9316.jpg
+tron-disneyscreencaps.com-8298.jpg|Tron shoves a Glitch Guard over the edge.
+</gallery>
+
+{{TronWiki}}
+{{Tron}}
+{{CharacterStub}}
+[[Category:Tron characters]]
+[[Category:Live-action characters]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Males]]
+[[Category:Henchmen]]
+[[Category:Programs]]
+[[Category:Soldiers]]
+[[Category:Live-action villains]]
+[[Category:Villains]]
+[[Category:Character groups]]

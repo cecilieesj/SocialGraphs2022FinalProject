@@ -1,0 +1,44 @@
+{{Infobox Film
+|image = One Man Band title card.png
+|director = Andrew Jimenez<br>[[Mark Andrews]]
+|writer = Andrew Jimenez<br>Mark Andrews
+|music = Michael Giacchino
+|studio = [[Pixar|Pixar Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Buena Vista Pictures]]
+|release = [[May 5]], [[2005]]<br>[[June 9]], [[2006]] (with ''[[Cars]]'')
+|time = 4 minutes, 32 seconds
+|preceded = ''[[Jack-Jack Attack]]''
+|followed = ''[[Mater and the Ghostlight]]''
+|website = https://www.pixar.com/one-man-band
+|imdb_id = 0479113}}
+'''''One Man Band''''' is a [[2005]] [[Pixar Animation Studios|Pixar]] animated short film. The short was written and directed by Andrew Jimenez and [[Mark Andrews]] and produced by Osnat Shurer, head of Pixar's Shorts group. It was shown with the theatrical release of ''[[Cars]]''.
+
+==Plot==
+The story begins with a man, named [[Bass]], playing multiple brass and percussion instruments, and tries to get a little girl named [[Tippy]] to tip him a coin, but soon meets another musician, named [[Treble]] with orchestral woodwind and string instruments. They both instantly become rivals and fight over the girl's coin until she accidentally drops the coin, which falls into a drain. Tippy gets upset and is then angered by the two musicians causing her to lose it, and demands the two one-man-bands for a replacement coin, but they reveal that they are poor and broke. She takes one of the violins from the Treble, re-tuned it, and played an unexpected tune. A rich man, pleased by her performance, gives her a big bag of coins, and the girl eagerly picks it up. Before leaving, Tippy takes two coins for Bass and Treble and tosses them into the top of a fountain, where she was originally going to put her coin in for a wish. After the credits roll, the two musicians work together in an attempt at reaching the top, where the two coins remain.
+
+==Trivia==
+*The music during the credits is Pablo de Sarasate's ''[[wikipedia:Zigeunerweisen|Zigeunerweisen]]''.
+*This is the first [[Pixar]] short film to be produced in a 2.35:1 widescreen aspect ratio, unlike the short films were produced in 1.85:1.
+*This is the final original short by Pixar before it was bought by Disney in [[2006]].
+
+==Gallery==
+<gallery position="center" widths="185" captionalign="center">
+One man band poster.png|Poster
+Bass.png|Bass
+Treble.png|Treble
+Tippy.png|Tippy
+</gallery>
+
+==External links==
+* {{Interwiki|https://vignette.wikia.nocookie.net/pixar/images/6/64/Favicon.ico|pixar|One Man Band|Pixar Wiki}}
+{{DISPLAYTITLE:''One Man Band''}}
+[[es:One Man Band]]
+[[fr:L'Homme-orchestre]]
+[[pt-br:A Banda de Um Homem Só]]
+[[zh:许愿池 (电影)]]
+[[Category:Animated shorts]]
+[[Category:Cars]]
+[[Category:Pixar shorts]]
+[[Category:2005 shorts]]
+[[Category:Academy Award nominated films]]
+[[Category:Pixar]]

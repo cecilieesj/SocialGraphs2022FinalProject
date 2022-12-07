@@ -1,0 +1,32 @@
+{{Infobox character
+|image = Daffy Don.png
+|name = Daffy Don
+|games = ''[[Toontown Online]]''
+|inspiration = [[Mickey Mouse]]
+|alignment = Good/Neutral
+|powers = Healing
+|possessions = Juggling Balls}}
+'''Daffy Don''' is a [http://toontown.wikia.com/wiki/Toon Toon] [http://toontown.wikia.com/wiki/NPC NPC] [http://toontown.wikia.com/wiki/Mouse Mouse] and the owner of [http://toontown.wikia.com/wiki/Daffy_Taffy Daffy Taffy] on [http://toontown.wikia.com/wiki/Silly_Street Silly Street] in [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central].
+
+==Toontasks==
+*[http://toontown.wikia.com/index.php?title=Toontasks&action=edit&redlink=1 Just For Fun] or [http://toontown.wikia.com/wiki/Gag Gag] Training may vary.
+
+==SOS Toon==
+﻿Daffy Don is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. He is a 4-star [http://toontown.wikia.com/wiki/Toon-Up_Gags Toon-Up] SOS. When called upon, he will use [http://toontown.wikia.com/wiki/Juggling_Balls Juggling Balls] to heal all toons in play.
+
+As with all All-Toon Toon-Up gags, this Toon-Up will be divided evenly to all toons in battle.
+
+''This is an SOS Toon, therefore, all toons, including the caller, will be healed.''
+#Heals 70 [http://toontown.wikia.com/wiki/Laff Laff] Points to One Toon
+#Heals 35 Laff Points to Two Toons
+#Heals 23 Laff Points to Three Toons
+#Heals 18 Laff Points to Four Toons
+
+{{DEFAULTSORT:Don, Daffy}}
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Males]]
+[[Category:Mice]]
+[[Category:Characters]]
+{{Toontown Online}}

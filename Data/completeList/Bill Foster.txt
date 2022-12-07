@@ -1,0 +1,30 @@
+{{Infobox character
+|image = Ant-Man_and_the_Wasp_24.jpg
+|films = ''[[Ant-Man and the Wasp]]''
+|actor = [[Laurence Fishburne]]
+|fullname = William Barrett Foster
+|alias = Bill Foster<br>Doctor Foster 
+|occupation = Doctor
+|affiliations = Project G.O.L.I.A.T.H. <small>(formerly)</small><br>Berkeley University
+|status = Active
+|children = [[Ghost|Ava Starr]] (adoptive daughter)}}
+
+'''Bill Foster''' is a [[Marvel Comics]] character who made his [[Marvel Cinematic Universe]] debut as an antagonist in ''[[Ant-Man and the Wasp]]''. He is played by [[Laurence Fishburne]]. He is a brilliant scientist and a partner to [[Hank Pym]] who exposed himself to [[Pym Particles]] in order to fight crime and the forces of evil as the superhero '''Goliath'''. As his codename indicates, Foster prefers to grow rather than shrink, being able to grow into a 30 ft. giant. Foster's scientific breakthroughs with Pym Particles are known to the world at large. He also adopted [[Ghost|Ava Starr]].
+Bill Foster was created by [[Stan Lee]] and Don Heck.
+
+{{stub|character}}
+{{Marvel Cinematic Universe}}
+{{DEFAULTSORT:Foster, Bill}}
+[[es:Bill Foster]]
+[[Category:Live-action characters]]
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Ant-Man characters]]
+[[Category:Superheroes]]
+[[Category:Scientists]]
+[[Category:Giants]]
+[[Category:African American characters]]
+
+[[Category:Neutral characters]]
+[[Category:Acquired characters]]
+[[Category:Parents]]

@@ -1,0 +1,23 @@
+{{Infobox character
+|image = Agent_Kwan.png
+|name = Kwan Chen
+|shows = ''[[Agents of S.H.I.E.L.D.]]''
+|actor = [[Tzi Ma]]
+|occupation = Agent of [[S.H.I.E.L.D.]]
+|fate = Killed by [[Scorch (Marvel)|Scorch]]
+}}'''Agent Kwan Chen''' is a secondary character appearing only in the ''[[Agents of S.H.I.E.L.D.]]'' episode "[[Girl in the Flowered Dress]]" and is portrayed by [[Tzi Ma]]. He is an agent for the [[Hong Kong]] branch of [[S.H.I.E.L.D.]]
+
+== History ==
+He was tasked with keeping tabs on [[Scorch (Marvel)|Scorch]], who possesses pyrokinetic powers. When Scorch is kidnapped, Kwan, [[Phil Coulson|Coulson]], and [[Melinda May|May]] infiltrate the lab Scorch is in but because Scorch is under [[Extremis]]' effects he kills Kwan with a fireball through the chest.{{DEFAULTSORT:Chen, Kwan}}
+
+{{Marvel Cinematic Universe}}
+[[Category:Agents of S.H.I.E.L.D. characters]]
+[[Category:Males]]
+[[Category:Chinese characters]]
+[[Category:Agents]]
+[[Category:Deceased characters]]
+[[Category:S.H.I.E.L.D. agents]]
+[[Category:Characters]]
+[[Category:Spies]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Live-action characters]]

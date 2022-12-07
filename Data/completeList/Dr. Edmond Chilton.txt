@@ -1,0 +1,16 @@
+{{Infobox character
+|name = Dr. Edmond Chilton
+|image = Dr. Edmond Chilton.jpg
+|films = ''[[Pollyanna]]''
+|actor = [[Richard Egan]]
+|occupation = Doctor
+|home = Harrington|partner=[[Polly Harrington]] (lover)}}'''Dr. Edmond Chilton''' is the town doctor and [[Polly Harrington]]'s childhood sweetheart in ''[[Pollyanna]]''.
+{{CharacterStub}}
+{{DEFAULTSORT:Chilton, Edmond}}
+[[Category:Live-action characters]]
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Doctors]]
+[[Category:Pollyanna characters]]
+[[Category:Disney characters]]

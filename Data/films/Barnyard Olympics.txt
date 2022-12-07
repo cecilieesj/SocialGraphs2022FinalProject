@@ -1,0 +1,66 @@
+{{Infobox film
+|image =  Barnyard-olympics-movie-poster-1932-1020250165.jpg
+|imagewidth = 250px
+|name = Barnyard Olympics
+|director = [[Wilfred Jackson]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = [[Walt Disney]]<br>[[Marcellite Garner]]<br>[[Pinto Colvig]]
+|music = [[Frank Churchill]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[April 18]], [[1932]]<ref>[https://archive.org/details/motionpictureher109unse/page/62/mode/2up Motion Picture Herald (1932)]</ref>
+|time = 7:08
+|preceded = ''[[The Mad Dog]]''
+|followed = ''[[Mickey's Revue]]''}}
+'''''Barnyard Olympics''''' is a ''[[Mickey Mouse]]'' cartoon that was released on [[April 18]], [[1932]].
+
+==Summary==
+With Horace as his trainer, Mickey competes with Pete at running, vaulting, rowing, and finally, a delightfully crazy bicycle race.
+
+==Characters==
+*[[Mickey Mouse]] (voiced by [[Walt Disney]])
+*[[Minnie Mouse]] (voiced by [[Marcellite Garner]])
+*[[Pluto]] (voiced by [[Pinto Colvig]])
+*[[Pete]] (voiced by Pinto Colvig)
+*[[Clarabelle Cow]]
+*[[Horace Horsecollar]]
+
+==Releases==
+
+===Television===
+*''[[The Ink and Paint Club]]'', episode #1.52: "Rah! Rah! Disney Goes Athletic"
+
+===Home video===
+*''[[Walt Disney Treasures]]: Mickey Mouse in Black and White, Volume 2'' (DVD)
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150">
+16005.jpg
+16006.jpg
+Barnyard Olympics (April 15, 1932).jpg
+16007.jpg
+16010.jpg
+16011.jpg
+16012.jpg
+Tumblr mziwf4zNJI1qhcrb0o1 1280.jpg
+Tumblr n5dicik5EL1qhcrb0o1 1280.jpg
+BARNYARD_OLYMPICS.png
+</gallery>
+
+==Trivia==
+*This cartoon is the basis of the ''[[Kingdom Hearts III]]'' Classic Kingdom game ''Barnyard Sports''.
+*In the final shot of the cartoon, the crowd cheering for Mickey and Minnie is reused from an old Alice Comedies short.
+
+==References==
+<references/>
+{{Mickey-Series}}
+{{Minnie-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Minnie Mouse shorts]]
+[[Category:Pluto shorts]]
+[[Category:Films featuring Sports]]
+[[Category:1932 shorts]]
+[[Category:Pete Shorts]]

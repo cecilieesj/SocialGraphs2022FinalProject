@@ -1,0 +1,27 @@
+{{Infobox film
+|name        = Four Methods of Flush Riveting
+|director    = James Algar
+|producer    = 
+|writer      = 
+|distributor = Walt Disney Productions
+|language    = English
+|image = Image:Four_Methods_of_Flush_Riveting_1.jpg
+|imagewidth = 250px|release = [[1942]]}}'''''Four Methods of Flush Riveting''''' is a [[1942]] Disney industrial training film.
+
+==Synopsis==
+===Summary===
+Four methods of flush-riveting aircraft aluminum sheet-metal are described and illustrated.
+
+===Plot===
+Flush riveting is a way of connecting two pieces of sheet metal together, using rivets whose heads do not protrude above the surface of the metal. In aircraft construction, a flush rivet reduces drag, thus increasing aircraft performance. This World War II-era Walt Disney industrial-training film teaches four methods of flush-riveting aircraft aluminum sheet metal: the Countersink method, the Double Dimple method, the Pre-Dimple method, and the Combination Pre-Dimple and Countersink method. The choice of method to use is based upon the thicknesses of the top and bottom metal sheets.
+
+==Gallery==
+<gallery position="center">
+Four Methods of Flush Riveting 2.jpg
+Four Methods of Flush Riveting 3.jpg
+Four Methods of Flush Riveting 4.jpg
+Four Methods of Flush Riveting 5.jpg
+</gallery>
+[[Category:1942 shorts]]
+[[Category:Animated shorts]]
+[[Category:World War II films]]

@@ -1,0 +1,73 @@
+{{Infobox film
+|name        = Redux Riding Hood
+|image       = Image:Redux-riding-hood-139278l-thumbnail mediu.jpg
+|director    = [http://www.imdb.com/name/nm0601696/ Steve Moore]
+|producer    = [http://www.imdb.com/name/nm0601696/ Steve Moore]
+|writer      = Dan O'Shannon<ref name=cartoonbrew />
+|music       = Bennie Wallace
+|studio      = [[Walt Disney Television Animation]]<br>Toonz Animation Ltd New Zealand
+|distributor = [[Walt Disney Pictures]]
+|release     = [[1997]]
+|time        = 14:55
+|country     = United States
+|language    = English}}'''''Redux Riding Hood''''' is an animated short film directed by Steve Moore<ref name=bcdb>"[http://www.bcdb.com/cartoon/27866-Redux_Riding_Hood.html Redux Riding Hood]". ''www.bcdb.com'', April 13, 2012</ref> and produced by Disney in [[1997]]<ref name=cartoonbrew>{{cite news|last=Beck|first=Jerry|title=Steve Moore’s "Redux Riding Hood," The Short That Disney Hid For 15 Years, Is Finally Online {{!}} Cartoon Brew|url=http://www.cartoonbrew.com/disney/steve-moores-redux-riding-hood-the-short-that-disney-hid-for-15-years-is-finally-online.html|accessdate=25 May 2012|newspaper=Cartoon Brew|date=21 May 2012}}</ref> that received an Oscar nomination for Best Animated Short Film.<ref>[http://us.imdb.com/title/tt0141560/awards IMDb entry]</ref>
+
+The film was produced with cel animation and 2-D collage elements, a look developed by production designer John Kleber. From a set of four short/featurettes planned by Disney and MovieToons (to be titled "''Totally Twisted Fairy Tales''"), which was also to include "Jack in the Beanstalk", "The Three Little Pigs", and a fourth cartoon that was never finalized. The idea was to make a more adult short, by combining Disney artists and high-quality writers and their takes on classic fairy tales; however, only '''''Redux Riding Hood''''' was released, in animation festival showings.
+
+==Cast<ref name=cartoonbrew />==
+{| class="wikitable"
+|-
+! Actor !! Role
+|-
+| [[Garrison Keillor]] || The Narrator
+|-
+| [[Michael Richards]] || [[Big Bad Wolf|The Wolf]]
+|-
+| [[Mia Farrow]] || Doris
+|-
+| [[Lacey Chabert]] || [[Little Red Riding Hood]]
+|-
+| [[June Foray]] || [[Grandma]]
+|-
+| [[Fabio Lanzoni]] || The Woodsman
+|-
+| [[Don Rickles]] || The Boss
+|-
+| [[Jim Cummings]] || Thompkins
+|-
+| [[Adam West]] || Leonard Fox
+|}
+
+==Gallery==
+<gallery spacing="small" widths="150" position="center" captionalign="center">
+Short 304.jpg
+Char 94622.jpg
+Char 94623.jpg
+Char 94624.jpg
+Char 94625.jpg
+Char 94626.jpg
+Char 94627.jpg
+Char 94628.jpg
+Char 94629.jpg
+Banner 304.jpg
+1997-hood-08.jpg
+1997-hood-07.jpg
+1997-hood-06.jpg
+1997-hood-05.jpg
+1997-hood-04.jpg
+1997-hood-03.jpg
+1997-hood-02.jpg
+1997-hood-01.jpg
+</gallery>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://flipanimation.blogspot.co.uk/2012/05/here-it-is-redux-riding-hood.html Director Steve Moore's blog post detailing the history of the short]
+*[http://www.bcdb.com/bcdb/cartoon.cgi?film=27866 ''Redux Riding Hood''] at the [http://en.wikipedia.org/wiki/Big_Cartoon_DataBase Big Cartoon Database]
+*[http://www.youtube.com/watch?v=dPDVdFS5p1g '''''Redux Riding Hood''''' on Youtube]
+[[Category:Animated shorts]]
+[[Category:1997 shorts]]
+[[Category:Disney films]]
+[[Category:Academy Award nominated films]]

@@ -1,0 +1,43 @@
+{{Infobox film
+|image = 
+|name = Superfudge
+|director = 
+|producer = [[Anthony Russo]]<br>[[Joe Russo]]
+|writer = Amos Vernon<br>Nunio Randazzo
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Disney Television Animation]]<br>AGBO
+|distributor = [[Disney+]]
+|release = 
+|language = English
+|budget =
+|gross =
+|website = 
+|tv_com_id = 
+|imdb_id = 1817232}}
+
+{{NeedImage}}
+'''''Superfudge''''' is an upcoming animated film produced by [[Disney Television Animation]] and AGBO for [[Disney+]]. Based on the book of the same name by Judy Blume, the film will be written by Amos Vernon and Nunio Randazzo, with [[Anthony Russo]] and [[Joe Russo]] producing.<ref name="Announcement">[https://variety.com/2022/tv/news/brie-larson-jeremy-renner-disney-plus-unscripted-1235173633/|title=Marvel’s Brie Larson and Jeremy Renner to Produce and Star in Disney Plus Unscripted Shows]</ref>
+
+==Synopsis==
+12-year-old Peter Hatcher has struggles with the presence of his 3-year-old brother Farley (aka "Fudge"). But when Fudge gets lost in the streets of New York, he and his family embark on a journey that brings the two closer while a new problem arrives.<ref name="Announcement" />
+
+==Cast/Characters==
+
+==Trivia==
+* This is the first [[Disney Television Animation]] film to not to be neither based on a preexisting Disney property or serve as a pilot for a series.
+* ''Superfudge'' marks the first time the Russo brothers worked on an animated film.
+* This is the second Disney TVA production to have a [[Marvel Cinematic Universe]] alumnus involved in a creative capacity, following ''[[Moon Girl and Devil Dinosaur]]''.<ref name="Announcement"/>
+
+==References==
+{{Reflist}}
+
+{{Disney+}}
+{{DISPLAYTITLE:''Superfudge''}}
+[[Category:Animated films]]
+[[Category:Disney Television Animation]]
+[[Category:Disney+ Originals]]
+[[Category:Films based on books]]
+[[Category:Upcoming films]]

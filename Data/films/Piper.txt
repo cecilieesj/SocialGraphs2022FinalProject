@@ -1,0 +1,73 @@
+{{Infobox film
+|image = Piper-disneyscreencaps.com-40.jpg
+|director = [[Alan Barillaro]]
+|music = Adrian Belew
+|studio = [[Pixar Animation Studios]]
+|distributor = [[Walt Disney Pictures]]
+|release = [[June 17]], [[2016]]
+|preceded = ''[[Sanjay's Super Team]]''
+|followed = ''[[Marine Life Interviews]]''
+|writer = Alan Barillaro}}
+'''''Piper''''' is a [[2016]] [[Pixar]] 3D computer-animated short film shown in front of ''[[Finding Dory]]''. The short is directed by Alan Barillaro, with music provided by King Crismon's Adrian Belew.<ref name=ew>[http://www.ew.com/article/2016/04/06/pixar-piper-finding-dory-short-film?xid=entertainment-weekly_socialflow_twitter# Piper: Meet Pixar's cutest new short-film hero — exclusive]</ref> It won the Oscar for Best Animated Short Film at the 89th Academy Awards.
+
+==Plot==
+The short focuses on a newborn sandpiper, the eponymous [[Piper (character)|Piper]], who is brought to the shoreline by her mother so she can learn how to feed on bivalves. However, she is caught off guard by an incoming wave and becomes engulfed in it. Traumatized, Piper refuses to go to the shore again; however, her hunger leaves her no choice but to risk it. On her second attempt, she sees a tiny hermit crab who also comes ashore to feed. As a new wave approaches, she observes that the crab simply buries himself down in the sand. Out of other options, Piper resorts to imitating the crab. The wave submerges Piper, but she still stays safely at the bottom. Opening her eyes, she marvels over all the bivalves creeping out of the sand to take a quick breath before the wave ends. The short ends with Piper no longer afraid of the waves, even jumping playfully in the water and tucking herself in the sand each time a wave flows and is seen later that night, sleeping in the nest with her mother and using shells as a pillow.
+==Accolades==
+{| class="wikitable"
+|-
+!Year
+!Date of ceremony
+!Category
+!Recipient
+!Result
+|-
+|Academy Awards
+|[[February 26]], [[2017]]
+|Best Animated Short Film
+|Alan Barillaro and Marc Sondheimer
+|rowspan=2 {{Won}}
+|-
+|Annie Awards
+|[[February 4]], 2017
+|Best Animated Short Subject
+|''Piper''
+|}
+
+==Trivia==
+*''Piper'' is the first Pixar short film to win the Academy Award for Best Animated Short Film, since 2001's ''[[For the Birds]]''.
+
+==Video==
+<gallery position="center" captionalign="center">
+Piper – First Look – Official Disney Pixar HD
+</gallery>
+
+==Gallery==
+<gallery position="center">
+Piper Pixar.jpg
+Piper-looking.jpg
+Piper-withmother.jpg
+Piper-disneyscreencaps.com-458.jpg
+Piper and mother on the beach.png
+Piper_sitting_on_the_beach.jpg
+Piper-disneyscreencaps.com-652.jpg
+</gallery>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Interwiki|https://vignette.wikia.nocookie.net/pixar/images/6/64/Favicon.ico|pixar|Piper|Pixar Wiki}}
+{{DISPLAYTITLE:''Piper''}}
+[[nl:Piper]]
+[[pl:Pisklak]]
+[[pt-br:Piper: Descobrindo o Mundo]]
+[[zh:鷸]]
+[[Category:Pixar]]
+[[Category:Pixar shorts]]
+[[Category:Animated shorts]]
+[[Category:2016 films]]
+[[Category:Featured shorts]]
+[[Category:3-D films]]
+[[Category:Academy Award winning films]]
+[[Category:Best Short Academy Award winners]]
+[[Category:Annie Award Winner]]

@@ -1,0 +1,39 @@
+{{Infobox character
+|image = Profile - IVAN.jpg
+|films = ''[[Lightyear]]''
+|voice = Mary McDonald-Lewis
+|fullname = Internal Voice Activated Navigator
+|alias = 
+|occupation = Voice-activated virtual assistant<br>Autopilot
+|affiliations = [[Star Command]]
+|powers = Navigation<br>Voice-command
+|status = Active
+|owner = }}
+{{Quote|Ugh. Autopilots.|Buzz expressing his dislike for autopilots|Lightyear}}
+'''I.V.A.N.''' (an acronym for '''Internal Voice Activated Navigator''') is a portable voice-activated virtual assistant onboard computer aboard all the spaceships in the [[2022]] [[Walt Disney Pictures|Disney]]/[[Pixar]] animated film, ''[[Lightyear]]''.
+
+In the film, [[Buzz Lightyear|Buzz]] is not a big fan of I.V.A.N. He likes to be in control and does not trust autopilots. Buzz also finds I.V.A.N. annoying, always alerting him whenever things go wrong, pointing out each and every mission failure. In his opinion, autopilots over complicate things instead of helping.
+
+==Trivia==
+*Mary McDonald-Lewis, the voice of I.V.A.N., also did the voice of OnStar, the onboard computer in people's automobiles 
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+File:Turnip's IVAN.jpg|Turnip's IVAN
+File:XL-01 Ivan.jpg|XL-01's IVAN
+File:XL-02 IVAN.jpg|XL-02's IVAN
+File:IVANs.jpg
+File:Lightyear - IVAN 2.jpg|XL-15's IVAN
+File:Lightyear - IVAN 3.jpg
+Lightyear (279).jpg
+File:Lightyear - IVAN concept.jpg|All designs from I.V.A.N
+</gallery>
+
+{{CharacterStub}}
+{{Lightyear}}
+[[Category:Lightyear characters]]
+[[Category:Objects]]
+[[Category:Programs]]
+[[Category:Pixar characters]]
+[[Category:Animated characters]]
+[[Category:Time travelers]]

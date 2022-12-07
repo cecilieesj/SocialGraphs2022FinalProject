@@ -1,0 +1,67 @@
+{{Infobox film
+|image = Vanishing Prairie.jpg
+|director = [[James Algar]]
+|producer = [[Ben Sharpsteen]]
+|writer = James Algar<br>[[Winston Hibler]]<br>[[Ted Sears]]
+|music = [[Paul Smith]]
+|cinematography = Lloyd Beebe<br>Dick Borden<br>Herb Crisler<br>Murl Deusing<br>Warren Garst<br>Cleveland P. Grant<br>Bert Harwell<br>Stuart V. Jewell<br>Paul Kenworthy<br>Tom McHugh<br>Olin Sewall Pettingill Jr.<br>James R. Simon
+|editor = [[Lloyd Richardson|Lloyd L. Richardson]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Walt Disney Studios Motion Pictures|Buena Vista Film Distribution]]
+|release = [[August 17]], [[1954]]
+|time = 71 minutes
+|language = English
+|preceded = ''[[The Living Desert]]''
+|followed = ''[[The African Lion]]''
+|imdb_id = 0047642}}
+'''''The Vanishing Prairie''''' was a [[1954]] ''[[True-Life Adventures]]'' documentary film by [[Walt Disney Productions]], which won the Academy Award for Documentary Feature in 1954.<ref name="NY Times">{{cite web |url=http://movies.nytimes.com/movie/52220/The-Vanishing-Prairie/details |title=NY Times: The Vanishing Prairie |work=NY Times}}</ref> It was released on video in [[1985]] and then [[1993]].
+
+An edited, 60-minute version can be found on VHS.
+
+Digital releases feature the 1967 Buena Vista logo at the start.
+
+==Production==
+''The Vanishing Prairie'' began production in 1951 as a short subject focused on Bighorn Sheep simply titled ''Bighorn Sheep''. Over the next year, other short subjects closely related to that particular environment such as ''Cat Family'' and ''Prairie Story'' would go into production before it was eventually decided to combine these projects and other themes into a single feature film that became ''The Vanishing Prairie''.<ref>https://d23.com/revisiting-walt-disneys-true-life-adventures-the-vanishing-prairie/</ref>
+
+''The Vanishing Prairie'' was shot partially within Yellowstone National Park in Wyoming, Wind Cave National Park in South Dakota, and the Arboretum of the University of Wisconsin in Madison, as well as shots of Chimney Rock and Scott's Bluff in Nebraska briefly appearing early in the film. The Arboretum in particular was utilized for the prairie fire sequence, with footage of the controlled burn being spliced with the bison herd.<ref>https://isthmus.com/screens/vanishing-prairie-uw-arboretum-oscar/</ref> The footage of a bison mother giving birth would cause the film to be briefly banned by various censors boards in Chicago and New York.
+
+The theme music was given a set of lyrics by [[Hazel George|Hazel "Gil" George]] and was rechristened as "Pioneer's Prayer" in ''[[Westward Ho, the Wagons!]]'', a western film about pioneers on the Oregon Trail.
+
+The film's copyright was renewed on [[March 11]], [[1982]].<ref>[https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First&Search_Arg=RE0000123905&Search_Code=REGS Online Copyright Catalog search (form autofilled, pressing "begin search" brings up the entry)]</ref>
+
+==Gallery of Animals==
+<gallery>
+Tumblr_mild5d8MIa1qhcrb0o1_1280.jpg|Bighorn Sheep (Ovis canadensis) 
+1954-prairie-3.jpg|American Bison (Bison bison) 
+1954-prairie-4.jpg|Coyote (Canis latrans)
+</gallery>
+
+==Gallery==
+<gallery widths="185">
+1954-prairie-2.jpg
+Tumblr nfnwtmY84S1sa3t1go2 500.jpg
+Vanishing prairie australian poster.jpg|Poster from the release in [[Australia]] on [[July 10]], [[1955]]
+Vanishing prairie belgian poster.jpg|Poster from the release in Belgium (1950s)
+Vanishing_prairie_finnish_poster.jpg|Poster for the release in Finland on [[February 10]], [[1956]]
+Vanishing prairie french poster.jpg|Poster from the release in [[France]] on [[September 2]], 1955
+Vanishing prairie german poster.jpg|Poster from the release in [[Germany]] on [[July 11]], 1955
+Vanishing prairie japanese poster.jpg|Poster from the release in [[Japan]] on [[March 7]], [[1956]]
+Vanishing prairie japanese rerelease poster.jpg|Poster from the re-release in Japan on [[April 9]], [[1977]]
+Vanishing prairie witch mountain jp poster.jpg|Another 1977 Japan re-release poster, on a double bill with ''[[Escape to Witch Mountain]]''
+La pradera del pasado.jpg|Lobby card from the release in [[Mexico]] (1950s)
+La pradera cine España.jpg|Poster from the release in [[Spain]] on [[March 28]], [[1957]]
+Vanishing prairie swedish poster.jpg|Poster from the release in [[Sweden]] on [[November 7]], [[1955]]
+</gallery>
+
+==References==
+{{reflist}}
+{{FilmStub}}
+
+{{DEFAULTSORT:Vanishing Prairie, The}}
+{{DISPLAYTITLE:''The Vanishing Prairie''}}
+[[Category:Documentaries]]
+[[Category:1954 films]]
+[[Category:Live-action films]]
+[[Category:True-Life Adventures]]
+[[Category:Academy Award winning films]]
+[[Category:Unrated films]]

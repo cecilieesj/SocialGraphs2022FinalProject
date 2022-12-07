@@ -1,0 +1,64 @@
+{{Group Infobox
+|image = Gusteau's Employees.png
+|members = [[Alfredo Linguini]]<br>[[Colette]]<br>Lalo<br>Horst<br>Larousse<br>Pompidou
+|home = [[Paris]], [[France]]|films=''[[Ratatouille]]''|games=''[[Ratatouille: The Video Game]]''|leaders=[[Auguste Gusteau]]<br>[[Chef Skinner]] <br>[[Alfredo Linguini]] (all former)|occupation=Chefs for ''Gusteau's''|headquarters=[[Gusteau's]]|fate=Left the restaurant after [[Linguini]] revealed [[Remy]] as the real chef|goal=Cook food for customers of Gusteau's}}'''Gusteau's Employees''' are supporting characters in [[Walt Disney Pictures|Disney]]•[[Pixar]]'s [[2007]] animated feature film, ''[[Ratatouille]]''.
+
+==Role in the film==
+The employees work under [[Chef Skinner]] who inherited the restaurant after [[Auguste Gusteau]] died.
+
+Two years later, [[Alfredo Linguini]] came to work there as a plongeur (garbage boy).
+
+==List of employees==
+<tabber>
+|-|Lalo=
+{{Infobox character
+|name = Lalo
+|image = Lalo.png
+|films = ''[[Ratatouille]]''
+|voice = Julius Callahan
+|occupation = Saucier chef
+}}
+'''Lalo''' is the saucier chef at Gusteau's. Before he became the saucier, it was implied that Lalo ran away from home when he was 12 to work in the circus as an acrobat, but was fired for "messing around with the ringmaster's daughter." He is last seen near the ending of the film, where he quits his job sadly after Linguini introduces [[Remy]] to him and the others.
+
+|-|Horst =
+{{Infobox character
+|name = Horst
+|image = Horst1.png
+|films = ''[[Ratatouille]]''
+|voice = [[Will Arnett]]
+|occupation = Sous-chef
+}}
+'''Horst''' is a [[Germany|German]] sous-chef after Skinner, which means he is second in charge when he isn't around. Before Horst worked at Gusteau's restaurant, he was said to have done time in prison; no one knew for sure what he did, as he would change the story every time he was asked. His stories included defrauding a major corporation, robbing the second largest bank in France with only a ballpoint pen, creating an ozone hole over Avignon, and killing a man with his right thumb. He and the other chefs hired Linguini as garbage boy without Skinner's permission. Then he joined everybody who tried to kill Remy when he was caught. He next appeared when people asked, "What was new?" He calls the "new" meal "Special Order!" and then joined cheers with Linguini when he took over Gusteau's restaurant. Then when Anton Ego reviewed the restaurant, Horst and the other chefs tried to kill Remy, but Linguini told them to spare the rat. Heartbroken after learning that Linguini was a fraud, he was the first one to quit his job.
+
+|-|Larousse=
+{{Infobox character
+|name = Larousse
+|image = Larousse1.png
+|films = ''[[Ratatouille]]''
+|voice = [[James Remar]]
+|occupation = Chef garde manger
+}}
+'''Larousse''' is first seen introducing Linguini to Chef Skinner in the beginning of the film. It was mentioned that he ran gun for a resistance group, but he wouldn't mention which one because apparently, they didn't win. He is last seen near the ending of the film, where he quits his job sadly after Linguini introduces Remy to him and the others.
+
+|-|Pompidou=
+{{Infobox character
+|name = Pompidou
+|image = Pompidou.png
+|films = ''[[Ratatouille]]''
+|voice = [[Tony Fucile]]
+|occupation = Patissier
+}}
+'''Pompidou''' is the patissier of Gusteau's Restaurant, he creates delectable desserts for the customers to order. It was said that before he worked at Gusteau's, he was a compulsive gambler and was banned from every Las Vegas and Monte Carlo casino. He is last seen near the ending of the film, where he quits his job sadly after Linguini introduces Remy to him and the others.
+</tabber>
+{{Ratatouille}}
+[[Category:Males]]
+[[Category:Chefs]]
+[[Category:Adults]]
+[[Category:Animated characters]]
+[[Category:Pixar characters]]
+[[Category:Ratatouille characters]]
+[[Category:Neutral characters]]
+[[Category:French characters]]
+[[Category:Character groups]]
+[[Category:German characters]]
+[[ja:グストーの従業員]]

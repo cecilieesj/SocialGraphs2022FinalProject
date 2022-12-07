@@ -1,0 +1,24 @@
+{{Infobox film
+|image = Alicethelumberjackposter.jpeg
+|name = Alice the Lumberjack
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[December 27]], [[1926]]
+|preceded=''[[Alice's Brown Derby]]''
+|followed=''[[Alice the Golf Bug]]''
+}}
+'''''Alice the Lumberjack''''' is a [[1926]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+The regular story of Pete trying to kidnap Alice, this time as she and Julius work as lumberjacks on the river.
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=49 Alice the Lumberjack] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1926 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Lost cartoons]]
+[[Category:Pete Shorts]]

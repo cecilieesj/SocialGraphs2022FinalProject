@@ -1,0 +1,18 @@
+{{Infobox character
+|image = Barnacle Bessie.png
+|name = Barnacle Bessie
+|games = ''[[Toontown Online]]''
+|alignment = Neutral
+|inspiration  = [[Donald Duck]]}}
+'''Barnacle Bessie''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC green [http://toontown.wikia.com/wiki/Duck Duck] who owns [http://toontown.wikia.com/wiki/Trim_The_Nail_Boutique Trim The Nail Boutique] on [http://toontown.wikia.com/wiki/Barnacle_Boulevard Barnacle Boulevard] in [http://toontown.wikia.com/wiki/Donald%27s_Dock Donald's Dock].
+
+==SOS Toon==
+﻿Barnacle Bessie is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. She is a 5-star [http://toontown.wikia.com/wiki/Drop_Gags Drop] SOS. When called upon, she will use her [http://toontown.wikia.com/wiki/Grand_Piano Grand Pianos] that deal a damage of 170 to all [http://toontown.wikia.com/wiki/Cogs Cogs] in battle.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Ducks]]
+[[Category:Females]]
+[[Category:Characters]]
+[[Category:Characters in video games]]
+{{Toontown Online}}

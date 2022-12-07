@@ -1,0 +1,40 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = World's Best
+|director = Roshan Sethi
+|writer = Utkarsh Ambudkar<br>Jamie King
+|starring = Utkarsh Ambudkar<br>Punam Patel<br>Manny Magnus
+|producer = Thomas Kail<br>[[Utkarsh Ambudkar]]<br>Kate Sullivan
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Disney+]]
+|cinematography = 
+|music = Charlie B. Wilder
+|editor = 
+|time = 
+|language = English
+|release =[[2023]] 
+|budget = 
+|website = }}
+'''''World's Best''''' is an upcoming American musical comedy film. It is set to be released on [[Disney+]] in [[2023]].
+
+==Cast==
+*Manny Magnus as Prem
+*[[Utkarsh Ambudkar]] as Suresh
+*Punam Patel as Priya
+
+==Production==
+On April 21, 2022, ''Deadline'' reported that [[Disney+]] was developing a musical comedy film with Roshan Sethi directing. Filming is scheduled to begin in May.<ref>[https://deadline.com/2022/04/ghosts-utkarsh-ambudkar-rap-musical-comedy-feature-disney-1235007534/ ‘Ghosts’ Star Utkarsh Ambudkar Sets Rap Musical Comedy Feature At Disney+]</ref>
+
+==References==
+{{Reflist}}
+
+{{Disney+}}
+
+{{DISPLAYTITLE:''World's Best''}}
+[[Category:Upcoming films]]
+[[Category:Disney films]]
+[[Category:Disney+ Originals]]
+[[Category:Musicals]]
+[[Category:2023 films]]

@@ -1,0 +1,58 @@
+{{Infobox film
+|image = Wildwavescolorized.jpg
+|name = Wild Waves
+|director = [[Burt Gillett]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = Walt Disney<br>Carl W. Stalling<br>[[Marjorie Ralston]]
+|music = Carl W. Stalling
+|studio = [[Walt Disney Productions]]
+|distributor = [[Celebrity Productions]]
+|language = English
+|release = [[December 21]], [[1929]]
+|time = 7:00
+|preceded = ''[[The Haunted House (short)|The Haunted House]]''
+|followed = ''[[Fiddling Around]]''}}
+'''''Wild Waves''''' is a ''[[Mickey Mouse]]'' short that was released on [[December 21]], [[1929]].
+
+==Synopsis==
+Mickey rescues Minnie from drowning, then plays the song "Rocked in the Cradle of the Deep" with various beach animals.
+
+==Cast==
+*Walt Disney - Mickey Mouse
+*Carl Stalling - Mickey's singing voice, Walrus
+*[[Marjorie Ralston]] - [[Minnie Mouse]]
+
+==Notes==
+*The film's copyright was renewed on [[September 23]], [[1957]].<ref>[https://archive.org/details/catalogofcopyrig3111213li/page/120/mode/1up Catalog of Copyright Entries (1957 renewals)]</ref>
+*Some of the animation was reused in ''[[The Castaway]]''.
+*This was only one of three shorts to feature [[Marjorie Ralston|Marjorie Norton]] as the voice of Minnie Mouse, before she begged to stop as she was too shy to do any more. Afterwards, starting with ''[[The Cactus Kid]]'', [[Marcellite Garner]] (another Disney employee) would take over as Minnie.
+*Footage of this cartoon (using the colorized version) was featured in the "By the Beautiful Sea" segment in the ''[[Disney Sing Along Songs]]'' video ''[[Disney Sing Along Songs: Under the Sea|Under the Sea]]''.
+
+==Releases==
+===Television===
+* ''[[Mickey's Mouse Tracks]]'', episode #56
+* ''[[Mickey Mouse and Friends]]'', episode #41
+
+===Home video===
+*''[[Walt Disney Treasures]]: Mickey Mouse in Black and White, Volume 2'' (DVD)
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150">
+11805.jpg
+11806.jpg
+11807.jpg
+11810.jpg
+11811.jpg
+11812.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Mickey-Series}}
+{{Minnie-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Minnie Mouse shorts]]
+[[Category:1929 shorts]]

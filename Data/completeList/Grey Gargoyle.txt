@@ -1,0 +1,63 @@
+{{Infobox character
+|name= Grey Gargoyle
+|image=Grey_Gargoyle_EMH.jpg
+|films=
+|shows=''[[The Avengers: Earth's Mightiest Heroes]]''
+|voice= [[Troy Baker]]
+|animator=
+|model=
+|designer=
+|inspiration=The comicbook character of the same name
+|fullname=Paul Duval
+|alias=Grey Gargoyle
+|personality=
+|appearance=Stone-like man with a mustache
+|birthday=
+|occupation=
+|alliance=Masters of Evil
+|alignment = Bad
+|goal=
+|home=
+|family=
+|pets=
+|friends=[[Baron Zemo]], [[Enchantress (Marvel)|Enchantress]] (formerly), [[Skurge]] (formerly), [[Wonder Man]], [[Crimson Dynamo]], [[Abomination]], [[Chemistro]], [[Living Laser]]
+|minions=
+|enemies=[[Thor Odinson]]
+|likes=
+|dislikes=
+|powers=Stone-turning touch
+|weapons=
+|fate=Killed by Executioner
+|quote=
+|games= ''[[Marvel: Avengers Alliance]]''
+}}
+
+'''Grey Gargoyle''' is a supervillain from [[Marvel Cinematic Universe|Marvel Comics]] who can turn people into stone.
+
+Grey Gargoyle was created by [[Stan Lee]] and [[Jack Kirby]].
+
+==Appearances==
+===''[[The Avengers: Earth's Mightiest Heroes]]''===
+Grey Gargoyle first appears as a prisoner in the Big House, warning [[Whirlwind]] about not try to escape.
+
+He's among the inmates who escape when the Big House malfunctions and uses his powers to turn a [[S.H.I.E.L.D.]] agent into stone.
+
+Grey Gargoyle would later re-appear as a member of the Masters of Evil. He turns Karnilla into stone to help [[Enchantress (Marvel)|Enchantress]] and [[Skurge|Executioner]] to steal the Norn Stones. When he asks for his reward, Executioner approaches him, axe in hand. He is apparently killed.
+
+==Gallery==
+<gallery position="center" spacing="small" captionalign="center">
+Grey_gargoyle_EMH.png|Full-body shot of Grey Gargoyle
+Breakout1.jpg|Grey Gargoyle among other Big House prisoners during the breakout.
+</gallery>
+
+{{MAUWiki|Grey_Gargoyle_(Yost_Universe)}}
+{{Marvel Animated Universe}}
+[[Category:Marvel Comics characters]]
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:The Avengers: Earth's Mightiest Heroes characters]]
+[[Category:Deceased characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Scientists]]
+[[Category:French characters]]

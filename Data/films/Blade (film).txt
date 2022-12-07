@@ -1,0 +1,189 @@
+
+{{MoveTagged|Blade (1998 film)|20220724070005 }}
+{{Marvel Database:Film Template
+| Image                   = Blade (film).jpg
+| Aliases                 = 
+
+| Directors               = [[Stephen Norrington]]
+| Producers               = [[Peter Frankfurt]]; [[Wesley Snipes]]; [[Robert Engelman]]
+| ComicWriters            = Marv Wolfman, Gene Colan
+| StoryWriters            = 
+| ScreenplayWriters       = David S. Goyer
+| Musicians               = Mark Isham
+| Cinematographers        = Theo van de Sande
+| Editors                 = Paul Rubell
+| Distributors            = New Line Cinema
+| ProductionCompanies     = Marvel Enterprises, Amen Ra Films, Imaginary Forces
+| Running Time            = 120 minutes
+| Rating                  = '''MPAA:''' R for strong, pervasive vampire violence and gore, language, and brief sexuality
+| Budget                  = $45 million
+| Release Date            = August 21, 1998
+
+| AM ID                   = blade-v158809
+| IMDB ID                 = 0120611
+| Marvel Movies           = Blade (1998)
+
+| Previous Film           = 
+| Next Film               = Blade II (film)
+
+| Tagline                 = The power of an immortal. The soul of a human. The heart of a hero.
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Eric Brooks (Earth-26320)|Blade (Eric Brooks)]]}}
+'''Supporting Characters:'''
+* {{Only|[[Karen Jenson (Earth-26320)|Doctor Karen Jenson]]}}
+* {{1st|[[Abraham Whistler (Earth-26320)|Abraham Whistler]]}} {{ApDeath}}
+'''Antagonists:'''
+* {{Only|[[House of Erebus (Earth-26320)|The House of Erebus]]}}
+** {{1st|[[Vanessa Brooks (Earth-26320)|Vanessa Brooks]]}}
+** {{Only Dies|[[Mercury (Earth-26320)|Mercury]]}}
+** {{Only Dies|[[Quinn (Earth-26320)|Quinn]]}}
+** {{Only Dies|[[Gitano Dragonetti (Earth-26320)|Gitano Dragonetti]]}}
+** {{Only Dies|[[Deacon Frost (Earth-26320)|Deacon Frost]]}}
+** {{Only Dies|[[Racquel (Earth-26320)|Racquel]]}}
+** {{Only Dies|[[Crease (Earth-26320)|Crease]]}}
+** {{Only Dies|[[Pearl (Earth-26320)|Pearl]]}}
+** {{Only|[[Curtis Webb (Earth-26320)|Doctor Curtis Webb]]}}
+** {{Only Dies|[[Magra (Earth-26320)|La Magra]]}}
+* {{1st|[[Familiars (Earth-26320)|Familiars]]}}
+** {{Only Dies|[[Officer Krieger (Earth-26320)|Officer Krieger]]}}
+'''Other Characters:'''
+* {{Only|[[Dennis (Earth-26320)|Heatseeking Dennis]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Human-Vampire Hybrids]]}}
+* {{a|[[Vampires]]}}
+'''Locations:'''
+* {{1st|[[Earth-26320]]}}
+** {{1st|[[Earth]]}}
+*** {{1st|[[United States of America]]}}
+**** {{a|[[New York (State)|New York]]}}
+***** {{Only|[[New York City]]}}
+****** {{Only|[[Manhattan]]}}
+******* Vampire Rave Club {{Only}}
+******* Hospital {{Only}}
+******* Blade's Hideout {{Only}}
+******* Karen's apartment, Chester Williams Building, 215 Fifth Street {{Only}}
+******* The "Pearl Vampire Club", South Broadway at the northwest corner of 8th Street {{Only}}
+******* Temple of La Magra {{Only}}
+*** {{1st|[[Russia]]}}
+**** {{1st|[[Moscow]]}}
+'''Items:'''
+* {{1st|[[Blade's Sword]]}}
+'''Vehicles:'''
+* [[wikipedia:Dodge Charger|1968 Dodge Charger]] {{1st}}
+
+| Plot                    = A pregnant woman is being hospitalized after being bitten by, as one of the doctors say, "some kind of wild animal". In the process of trying to revive her, she gives birth to her baby boy and dies. The next scene proceeds to the present and continues with a seductive woman bringing an unsuspecting man to a strange nightclub. As the scene progresses, the man realizes something is amiss in the club yet cannot quite discern ''why''. However, his fears are soon confirmed when blood begins to pour down from the sprinkler system, revealing all of the club's patrons to be vampires. Unable to escape from the hideous creatures which have now surrounded him, the young man seems doomed until one of the vampires draws attention to an individual who has just entered -the "''Daywalker''".
+
+Blade coolly enters the main dance floor, causing frantic panic amongst the vampire crowd. He immediately begins a no-holds-barred slaughter of the vampires, using a combination of martial arts and firearms to pick them off. Eventually, after fighting his way through numerous guards, Blade singles out one vampire, in particular, named Quinn, nailing him to the wall with stakes and setting him alight. Upon hearing police sirens, Blade turns to Quinn and tells him "Give my regards to Frost", leaving a burnt Quinn along with the confused human as the only surviving inhabitants of his attack. The police take Quinn's crisp remains and send them for identification.
+
+Doctor Karen Jenson is the unlucky individual who performs the examination on Quinn's "''corpse''". During the examination, Quinn shockingly returns to life and feeds on both Jenson and her co-worker. However, Blade enters the morgue, having pre-supposed that Quinn would come back. He attacks the rejuvenated vampire but is yet again forced to flee when the police arrive. As he makes to leave, Blade sees a bleeding Doctor Jensen lying on the floor, beckoning for him to help her. Due to some instant emotional attachment (the doctor reminds him of his mother), Blade rescues Jensen and they head back to his base of operations. Quinn also escapes from the attack.
+
+The scene changes to the meeting room of The House of Erebus, a vampire Shadow Council. The Elder Dragonetti discusses Blade's recent intensified attacks and berates a young Deacon Frost for his recklessness in running these clubs. During this scene, there is a short explanation of vampire politics - most vampires believe that they should more or less co-exist with the humans (maintaining a secret, Mafia-like power cabal), whilst renegades such as Frost believe they should ''rule'' them outright. It is also established that there is some stigma from "pure-blood" vampires (i.e. those who are born vampires) towards those born human and later ''turned'' into vampires.
+
+The storyline switches back to Blade's lair, where Jenson meets Abraham Whistler, Blade's mentor and weapons technician in their fight against vampire-kind. Whistler delivers a small speech outlining Blade's past, their current mission and the nature of vampires, along with the power they hold in the outside world. Jenson decides to head home, although Blade reminds her this is a possibility that due to Quinn's bite, she too may become a vampire. It is also established in this scene that Blade is a half-vampire, and requires a serum to prevent his need to drink blood. Jenson begins to work on a permanent cure for the vampire condition, using Whistler's research as her starting ground.
+
+Upon arriving in her apartment, Jenson is assaulted by a policeman who is revealed to be a ''familiar'' - a human being who serves vampires (a collaborator, essentially, that after years of service might get rewarded by being turned into a vampire). Blade rescues Jenson and later follows the familiar back to another club of Frost's, there discovering that Frost has plans involving a vampire blood-god named La Magra. Although Blade and Jenson are assaulted by Frost's private army, they escape due to the timely arrival of Whistler.
+
+However, shortly after this, Frost makes a second strike. Whilst Blade heads out to fetch the ingredients for his serum, Frost abducts Dr. Jenson from the lair and badly beats Whistler, letting Quinn and the rest of his crew finish him off. Upon Blade's return, he finds a taunting video left from Frost. In a poignant scene, Blade aids Whistler in suicide (Blade hears a gunshot from outside but doesn't see it happen). Stricken with grief, Blade vows to find and kill Frost. During this time, Frost kills Elder Dragonetti by subjecting him to a sunrise, and forcibly gathers the other members of the Shadow Council as "''volunteers''".
+
+Blade arms himself for a raid on Frost's base, taking along with him specially-designed pneumatic syringes loaded with EDTA (normally used as a blood thinner to clear blood clots in the heart, which has a highly volatile reaction to vampire blood). During his attack on the base, Blade fights his way through a horde of vampires, yet discovers a horrible truth once he reaches the top floor of the building. He learns that his mother (the pregnant woman from the flashback scene) did not in fact die, and is now Frost's vampire mistress, as it was Frost himself who had bitten his mother during her pregnancy. Overcome with shock, Blade is easily subdued by the guards, who knock him out and take him to the Temple of Eternal Night, where Frost reveals the final stages of his plan.
+
+Using his resources and vast wealth, Frost has managed to rebuild the temple and intends to use it for La Magra's resurrection, a key ingredient of which is Blade's sunlight-resistant vampiric blood, along with the sacrifice of the other twelve council members (who were all members of the leading vampire noble houses). Through the ritual, Frost becomes an eminently more powerful vampire, far surpassing any other vampire's strength or speed, and gains the powers of each sacrificed member, such as immunity to silver, and red, bulging eyes (from the Kobejitsu tribe). Blade breaks free from his sacrificial housing, killing his mother and draining Dr. Jenson to renew his strength. After Blade disposes of Frost's minions, the two meet for one final climactic battle at the base of the temple. Upon discovering that Frost cannot be killed by any conventional means, Blade empties every single EDTA syringe he has on Frost (who's now constituted entirely of vampire blood), causing him to explode violently.
+
+Climbing out from the underground temple, Karen offers Blade her cure. Blade refuses, because "curing" him of his need for blood would also remove his Daywalker powers and he would be unable to hunt vampires, and requests for her to make him a better serum, reminding her that "''there's still a war going on''". The final scene shows Blade in Moscow, hunting down and killing a Russian vampire who has persuaded a human to follow him to a vampire club.
+
+| Cast                    = * [[wikipedia:Wesley Snipes|Wesley Snipes]] as [[Eric Brooks (Earth-26320)|Blade / Eric Brooks]]
+* [[wikipedia:Stephen Dorff|Stephen Dorff]] as [[Deacon Frost (Earth-26320)|Deacon Frost]]
+* [[wikipedia:Kris Kristofferson|Kris Kristofferson]] as [[Abraham Whistler (Earth-26320)|Abraham Whistler]]
+* [[wikipedia:N'Bushe Wright|N'Bushe Wright]] as [[Karen Jenson (Earth-26320)|Dr. Karen Jenson]]
+* [[wikipedia:Donal Logue|Donal Logue]] as [[Quinn (Earth-26320)|Quinn]]
+* [[wikipedia:Udo Kier|Udo Kier]] as [[Gitano Dragonetti (Earth-26320)|Vampire Elder Dragonetti]]
+* [[wikipedia:Arly Jover|Arly Jover]] as [[Mercury (Earth-26320)|Mercury]]
+* [[wikipedia:Traci Lords|Traci Lords]] as [[Racquel (Earth-26320)|Racquel]]
+* [[wikipedia:Kevin Patrick Walls|Kevin Patrick Walls]] as [[Officer Krieger (Earth-26320)|Officer Krieger]]
+* [[wikipedia:Tim Guinee|Tim Guinee]] as [[Curtis Webb (Earth-26320)|Dr. Curtis Webb]]
+* [[wikipedia:Sanaa Lathan|Sanaa Lathan]] as [[Vanessa Brooks (Earth-26320)|Vanessa Brooks]]
+* Eric Edwards as [[Pearl (Earth-26320)|Pearl]]
+
+Additionally, [[wikipedia:Shannon Lee|Shannon Lee]] portrays a resident. [[wikipedia:Kenny Johnson|Kenny Johnson]] makes an appearance in the beginning as [[Dennis (Earth-26320)|Heatseeking Dennis]]. [[wikipedia:Judson Scott|Judson Scott]] portrays Pallantine. [[wikipedia:Sidney S. Liufau|Sidney S. Liufau]] appears as a Japanese doorman. [[wikipedia:John Enos III|John Enos III]] portrays the bouncer of the Blood Club. [[wikipedia:Matt Schulze|Matt Schulze]] portrays [[Crease (Earth-26320)|Crease]]. [[wikipedia:Jenya Lano|Jenya Lano]] appears as the Russian woman in the film's closing scene.
+
+| Notes                   = * '''''Blade''''' is a 1998 film adapted from the [[Blade|Blade series]] starring [[wikipedia:Wesley Snipes|Wesley Snipes]] and [[wikipedia:Stephen Dorff|Stephen Dorff]]. It was directed by [[wikipedia:Stephen Norrington|Stephen Norrington]] and written by David Goyer. Snipes plays the character of Blade, a half-man, half-vampire, vampire hunter who becomes the protector of humans against the vampires. It spawned two sequels: ''[[Blade II (film)|Blade II]]'' was released in 2002 and ''[[Blade: Trinity (film)|Blade: Trinity]]'', was released in 2004.
+
+{{YouTube|'''Blade Trailer'''|[[File:"Blade (1998)" Theatrical Trailer|400px]]|406
+}}
+
+'''Taglines:'''
+* ''Against an army of immortals, one warrior must draw first blood.''
+* ''Part Man. Part Vampire. All Hero.''
+
+===Origins===
+The character [[Blade]] was created in 1973 for [[Marvel Comics]] by writer [[Marv Wolfman]] and artist [[Gene Colan]] and was a supporting character in the 1970s comic ''[[Tomb of Dracula Vol 1|Tomb of Dracula]]''. In the comic, Blade's mother was bitten by a vampire while she was in labor with Blade. Thus, Blade was born as a dhampir, a human with vampire genes.
+
+===Traits===
+In the film, [[Deacon Frost (Earth-26320)|Deacon Frost]] says that Blade "possesses all of the strengths of a vampire, but none of their weaknesses."  This is not entirely true, since he lusts for blood (though most vampires may not consider that a "weakness"), and he ages at the same rate as human, opposed to true vampires which can live indefinitely.  Despite this, he does have numerous abilities. Among these powers are enhanced strength, dexterity, and senses. He speaks Czech, Russian and to a degree the Vampire language, and has a great deal of knowledge about hunting vampires.
+
+===La Magra===
+One of the major plots of the film was to prevent Frost from raising La Magra, the Vampire blood god, and causing a vampire apocalypse. When Frost successfully became La Magra, he gained certain powers, making him almost invincible. Each ability he gained were from the twelve pure bloods (Ashe, Cianteto, Dragonetti, Faustinas who held two seats, Ligaroo, Lemure, Kobejitsu, Lobishomen, Von Esper, Upier, and Pallantine) sacrificed in the ritual. Some of those powers/abilities include:
+* Far superior strength and speed from that of a regular vampire.
+* Red, bulging eyes.
+* Instant regeneration of lost limbs.
+* Impervious to silver.
+* The ability to walk during the day due to Blade's blood.
+* Can instantly turn any human in his path into vampires. (This comes to debate since Dr. Karen Jenson was in the same area where La Magra and Blade's battle took place and was not instantly turned, though it's a probability that La Magra needs to concentrate his powers in order to make the turning possible.)
+* Can control minds, matter and the elements. (Gained from the Faustinas tribe)
+* Can shed his skin, turning into a ball of fire to methodically stalk his prey. (Gained from the Ligaroo tribe)
+
+The majority of these powers were never seen or mentioned in the film since Frost's reign as La Magra was short-lived, but it is believed that since all of the pure bloods' spirits lived within Frost's body, he would gain their abilities as well.
+
+===Filmtracks===
+These [http://www.cine-score.com/detailquery_film.php?film_id=20&filmname=Blade songs] listed are heard within the film only. For the official retail soundtrack listing, see below.
+# "Confusion (Pump Panel Reacon Mix)" - New Order
+# "Bad Moon Rising" - Creedence Clearwater Revival
+# "UT1-Dot" - Polygon Window
+# "Ah, Singapore" - Shonen Knife
+# "Yeah" - DJ Krush
+# "Dig This Vibe" - DJ Krush
+# "Dealing With The Roster" - Junkie XL
+# "Playing With Light" - Expansion Union
+# "Eclipse" - Solitaire
+# "Soeil" - Solitaire
+# "Call & Response" - Source Direct
+# "Ether" - Siren
+# "Fearless" - Solitaire
+# "Rattle The Fear" - Spirit Fire Child
+# "Rainbow Voice" - David Mykes from Hearing Solar Winds
+# "Ni Ten Ichi Ryu (Two Swords Technique)" - Photek
+# "Go Get On It" - Southside Reverb
+
+===Official Soundtrack Listing===
+These are the songs that appear on the official retail soundtrack - the majority of them are rap songs that were ''not'' heard in the film:
+# The Edge Of The Blade - Mystikal
+# 1/2 & 1/2 - Gang Starr
+# Blade - KRS-One
+# Fightin' A War - Down 2 Earth
+# Reservations - P.A.
+# Gangsta Bounce - Wolfpak
+# Things Ain't The Same - Kasino
+# Deadly Zone - Bounty Killer
+# Blade 4 Glory - Majesty
+# Strictly Business (Mantronik MBA Radio Edit) - Mantronik Vs. EPMD
+# Wrek Tha Discotek - Roger S.
+# Confusion (Pump Panel Reconstruction Mix) - New Order
+# Playing With Lightning - Expansion Union
+# Dig This Vibe - DJ Krush
+# Dealing With The Roster - Junkie XL<ref>[http://www.amazon.com/gp/product/B000009QJN Buy the Movie Album on Amazon]</ref>
+
+==Casting==
+*When New Line bought the right to the film, they believed only three actors could possibly do the role: Wesley Snipes, Denzel Washington, and Laurence Fishburne, but in David S. Goyer's mind, Snipes was always the perfect choice for the character of Blade.
+| Trivia                  = * The original ending included an eight-story monstrous version of La Magra. This was scrapped and re-done to the current known ending after many fans were disappointed when Stephen Dorff (Frost) was taken off-camera during the film's first screening. The original ending can be found in the special features section in the DVD version of the film.
+* The movie features Traci Lords, the former pornographic actress, as Racquel, a vampire who is shown covered in blood in one notable scene during the opening half of the film.
+* Bruce Lee's daughter Shannon Lee appears very briefly as a resident in the opening scene when Blade's mother is taken into hospital and about to give birth to him.
+* A video game for PlayStation entitled ''[[Blade (video game)|Blade]]'' was released in 2000 based on the characters of the film.
+* An alternate ending on the DVD featured director Stephen Norrington as a character costumed in dark clothing, and observing Blade from afar. Popular theory proposes that this character was intended to be [[Morbius|Michael Morbius]].
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+* {{imdb title|id=0120611|title=Blade}}
+* {{Marvel Movies|Blade (film)}}
+}}
+[[Category:New Line Cinema]]

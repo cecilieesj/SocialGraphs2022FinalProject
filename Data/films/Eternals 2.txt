@@ -1,0 +1,46 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|name = Eternals 2
+|director = Chloé Zhao
+|producer = [[Kevin Feige]]
+|writer = 
+|starring = Harry Styles<br>[[Patton Oswalt]]
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Marvel Studios]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = English
+|budget = 
+|gross = 
+|preceded = ''[[Eternals (film)|Eternals]]''
+|followed = 
+|website = 
+|imdb_id = }}
+'''''Eternals 2''''' is a placeholder title for an upcoming superhero film, based on the Marvel Comics superhero team of the same name. The film is a sequel to ''[[Eternals (film)|Eternals]]''. It is expected to be part of Phase Six or Seven of the [[Marvel Cinematic Universe]]. It will be produced by [[Marvel Studios]] and distributed by [[Walt Disney Studios Motion Pictures]].<ref name="Eternals2">[https://thedirect.com/article/eternals-2-marvel-sequel-announcement Eternals 2: Marvel Actor Reveals Sequel Announcement]</ref>
+
+==Synopsis==
+*''To be added''
+
+==Cast==
+*Harry Styles as [[Starfox|Eros/Starfox]]<ref name="Eternals2"/>
+*[[Patton Oswalt]] as [[Pip the Troll]]<ref name="Eternals2"/>
+
+==Production==
+On August 3, 2022, [[Patton Oswalt]] revealed in an interview that a sequel to ''Eternals'' is in development, with Chloé Zhao returning to direct.<ref name="Eternals2"/>
+
+==References==
+{{Reflist}}
+
+{{FilmStub}}
+{{Marvel Cinematic Universe}}
+[[Category:Upcoming films]]
+[[Category:Films based on comics]]
+[[Category:Marvel Comics]]
+[[Category:Eternals]]
+[[Category:Marvel Cinematic Universe films]]
+[[Category:Live-action films]]
+[[Category:Sequel films]]

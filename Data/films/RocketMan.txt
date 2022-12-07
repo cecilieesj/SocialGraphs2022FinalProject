@@ -1,0 +1,77 @@
+{{Infobox film
+| name        = RocketMan
+| image       = RocketMan.jpg
+| caption     = Promotional film poster
+| writer      = Oren Aviv<br>Craig Mazin<br>Greg Erb
+| starring    = [[Harland Williams]]<br>Jessica Lundy<br>[[William Sadler]]<br>Jeffrey DeMunn<br>James Pickens, Jr.<br>[[Beau Bridges]]
+| director    = Stuart Gillard
+| producer    = Roger Birnbaum
+| studio      = [[Walt Disney Pictures]]<br>[[Caravan Pictures]]
+| distributor = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures]]
+| release     = [[October 10]], [[1997]]
+| time        = 95 minutes
+| country     = United States
+| language    = English
+| budget      = $16 million
+| gross       = $15,448,043
+| music       = Michael Tavera
+|imdb_id = 0120029}}
+'''''RocketMan''''' is a [[1997]] comic science fiction film directed by Stuart Gillard, and starring [[Harland Williams]], Jessica Lundy, [[William Sadler]], and Jeffrey DeMunn. It was produced by [[Walt Disney Pictures]] and [[Caravan Pictures]], and was released on [[October 10]], 1997.
+
+==Plot==
+[[Wikipedia:NASA|NASA]] is training for the first manned mission to [[Mars]] by the spacecraft ''Aries''. Due to a supposed glitch in the computer navigation system, NASA looks for the original programmer of the software to see why the software seems to be broken. Fred Z. Randall ([[Harland Williams]]), the eccentric programmer who wrote the software, meets Paul Wick (Jeffrey DeMunn), the flight director of the Mars mission; William "Wild Bill" Overbeck ([[William Sadler]]), the commander of the Mars mission; and astronaut Gary Hackman (Peter Onorati), the computer specialist. After a display of hard-headed stubbornness by Gary, he is hit in the head by a model of the ''Pilgrim 1'' Mars lander, resulting in a skull fracture. NASA decides to replace him instead of delaying the mission. Fred is brought to NASA to see if he has what it takes to be an astronaut; he, along with Gordon Peacock, go through a series of exercises, which sees Fred do well, even going as far to break every record that Bill had. In the end, Fred gets the job.
+
+While getting ready to board the ''Aries'', Fred chickens out and refuses to go on the mission. Bud Nesbitt (Beau Bridges), who Wick claims is the cause of the Apollo 13 accident, tells Fred about the three commemorative coins given to him by President Johnson. He gave one coin to Neil Armstrong, another to Jim Lovell, and finally shows Randall a gold coin reading, "Bravery". "It hasn't done me much good," Bud says. "Maybe it'll mean something to you one day."
+
+Fred, along with Commander Overbeck, geologist Julie Ford (Jessica Lundy), and Ulysses, a trained [[chimpanzee]], will look for fossils on Mars. To save on resources, crew members are put into "hypersleep" for eight months while the ship heads towards Mars. Ulysses purposely takes Fred's "hypersleep chamber" for his own and Fred has to sleep in Ulysses' chimp-shaped chamber. He sleeps for only 13 minutes and has to stay up for eight months.
+<!-- Deleted image removed: [[Image:Rocketman 2j.JPG|thumb|left|250px|The ''Aries'' crew, from left to right: Ulysses, Julie Ford, Fred Randall, and William Overbeck]] -->
+While looking at Mars weather data Fred notices severe sandstorms that could endanger the crew. He contacts Bud in Houston and tells him about the storms that are forecast to hit the landing site. If the crew get caught in the storms, they could be lost forever. Bud tells Wick about the situation but Wick ignores him.
+<!-- Deleted image removed: [[Image:Rocketman 3.JPG|thumb|250px|Randall becomes the first person on Mars followed by Overbeck. Ford is still at the top of the ladder.]] -->
+The crew makes it to Mars, after Overbeck barks at Fred for being awake the whole time and using all the food, except food that the former despises (anchovy paste, creamed liver, and gefilte fish), for painting. They land the ''Pilgrim'' on the Martian surface. As Overbeck prepares to be the first human to step on Mars, Fred slips from the ladder and lands first.
+A day after the crew lands, the sandstorms arrive ahead of schedule. After almost losing Overbeck and Ulysses in the sandstorm, the crew lifts off from the Martian surface. Wick is replaced by Bud when it becomes clear that Wick does not trust his NASA crew. The ship has almost made it out of the sandstorm when rocks kicked up by the wind hit the lander. ''Pilgrim 1'' loses power and begins to spin out of control. Fred has to rewire the entire system, reboot it and power everything back up in less than two minutes or they will crash. With less than 20 seconds, he has to complete the circuit. He frantically searches for something and finally shoves the commemorative coin into the slot, allowing the lander to regain power. The crew safely return to the ''Aries'' orbiting Mars. Fred then asks Julie to dance with him in zero gravity to "[[When You Wish Upon a Star|When You Wish upon a Star]]".
+
+As Fred gets ready for "hypersleep" one last time, Ulysses climbs into his "hypersleep chamber" once again, forcing Fred to stay up for another eight months on the journey back home.
+
+In a post-credits scene, the crew's flag pole on Mars is shown missing its flag. It is revealed that Randall's American flag boxers, which were earlier used as a replacement for the original flag, had been stolen by a Martian.
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="CCCCCC"
+! Actor !! Role
+|-
+| [[Harland Williams]] || Fred Z. Randall
+|-
+| Jessica Lundy || Julie Ford
+|-
+| [[William Sadler]] || William 'Wild Bill' Overbeck
+|-
+| Jeffrey DeMunn || Paul Wick
+|-
+| James Pickens, Jr. || Ben Stevens
+|-
+| [[Beau Bridges]] || Bud Nesbitt
+|-
+| Raven || Ulysses
+|}
+
+==Production==
+The film was shot on location at the Johnson Space Center in Houston, Texas and in Moab, Utah for the scenes on the surface on [[Mars]].
+
+==Reception==
+The film mainly received negative reviews, with a 24% rating on review aggregator Rotten Tomatoes.<ref>http://www.rottentomatoes.com/m/1079403-rocketman/</ref> However, [[Roger Ebert]] gave the film a positive review, giving it 3 out of 4 stars.<ref>{{cite web|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19971010/REVIEWS/710100305|title= Rocket Man|publisher= rogerebert.com|date= |accessdate=}}</ref>
+
+==Home media==
+The film was one of the inaugural Disney titles released on DVD which soon went out-of-print. In April 2006, the Disney Movie Club began distributing a DVD re-release.
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*[http://www.rottentomatoes.com/m/1079403-rocketman/ RocketMan] at Rotten Tomatoes
+
+{{Wikipedia}}
+{{DISPLAYTITLE:''RocketMan''}}
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:1997 films]]
+[[Category:RocketMan]]

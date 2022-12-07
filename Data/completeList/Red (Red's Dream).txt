@@ -1,0 +1,38 @@
+{{Infobox character
+|image = redtheunicycle.jpg
+|name = Red
+|films = ''[[Toy Story 2]]'' (cameo)<br>''[[Monsters, Inc.]]'' (cameo)<br>''[[WALL-E (film)|WALL-E]]'' (cameo)
+|shorts = ''[[Red's Dream]]''
+|games = ''[[LEGO The Incredibles]]'' (cameo)
+|appearance = Red unicycle with a black seat and wheel
+|alignment = Good
+|home = Shop
+|enemies = [[Lumpy the Clown]]
+|likes = Juggling, dreaming
+}}'''Red''' is the titular protagonist in the short film ''[[Red's Dream]]''. It is a red unicycle with a black seat and wheel. It lives in a store and is waiting for somebody to buy it. It dreams of one day being part of a circus.
+
+==Trivia==
+*Red appears in a cameo in ''[[Toy Story 2]]'' on the television screen.
+*Red appears in ''[[WALL-E (film)|WALL-E]]'' after [[EVE]] knocks [[WALL-E (character)|WALL-E]] into the side of its truck. After it falls, Red can be seen lying on the ground.
+*In one level of ''[[LEGO The Incredibles]]'', Red can be seen on two monitors in a secret area.
+*Red appears on the Laugh Floor in the final act of ''[[Monsters, Inc.]]''.
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small">
+Red-leaning-on-wall.jpg
+Redtoystory2.jpg|Red on the television screen in ''[[Toy Story 2]]''.
+Red in Wall-e.png|Red in ''[[WALL-E (film)|WALL-E]]''.
+LEGO Incredibles Red's Dream.png|Red's cameo in ''LEGO The Incredibles''.
+Cameo monsters inc reds dream.png|Red in ''[[Monsters, Inc.]]''
+</gallery>
+
+{{PixarWiki}}
+
+[[Category:Pixar characters]]
+[[Category:Characters]]
+[[Category:Objects]]
+[[Category:Transportation]]
+[[Category:WALL-E objects]]
+[[Category:Silent characters]]
+[[Category:Animated characters]]
+[[Category:Characters in video games]]

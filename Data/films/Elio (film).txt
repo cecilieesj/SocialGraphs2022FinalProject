@@ -1,0 +1,71 @@
+{{Upcoming|media=film}}
+{{Infobox film
+|image = Elio logo.jpg
+|name = Elio
+|director = Adrian Molina
+|producer = Mary Alice Drumm<br>[[Pete Docter]] {{Small|(Executive Producer)}}
+|writer = 
+|starring = Yonas Kibreab<br>[[America Ferrera]]
+|music = 
+|cinematography =
+|editor = 
+|studio = [[Walt Disney Pictures]]<br>[[Pixar|Pixar Animation Studios]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[March 1]], [[2024]]
+|language = English
+|preceded = ''[[Elemental]]''
+|followed =''[[Inside Out 2]]'' 
+|budget =
+|gross =
+|website =
+|imdb_id = 4900148}}
+'''''Elio''''' is an upcoming American computer-animated film produced by [[Walt Disney Pictures]] and [[Pixar|Pixar Animation Studios]]. 
+
+It will be Pixar's 28th animated feature, and is scheduled to be theatrically released on [[March 1]], [[2024]].<ref>[https://twitter.com/Borys_Kit/status/1568391259026526209 Borys Kit on Twitter - September 9, 2022]</ref>
+
+==Synopsis==
+An 11-year-old boy named [[Elio Solis|Elio]] finds himself transported across the galaxy and is mistaken for the intergalactic ambassador of planet Earth.
+
+==Voice Cast==
+*Yonas Kibreab as [[Elio Solis]]<ref name="Pixar">[https://twitter.com/Pixar/status/1568391609787760640 Pixar on Twitter - September 9, 2022]</ref>
+*[[America Ferrera]] as Olga Solis<ref name="Pixar" />
+
+==Gallery==
+<gallery>
+Elio first look.jpg|First look concept art
+Elio olga first look.webp
+Elio d23 1.webp
+Elio d23 2.webp
+Elio d23 3.jpg|Elio's First Look
+Elio d23 4.jpg
+Elio d23 5.jpg
+Elio d23 6.jpg
+Elio d23 7.webp
+Elio d23 8.webp
+Elio d23 9.jpg
+Elio d23 10.jpg
+</gallery>
+
+==Trivia==
+*This is the third [[Pixar]] film to be released in March, after ''[[Onward]]'' and ''[[Turning Red]]''.
+
+==References==
+{{Reflist}}
+
+==External Links==
+*{{WP|Elio (film)|Elio}}
+
+{{FilmStub}}
+{{Elio}}
+{{Pixar}}
+{{Disney theatrical animated features}}
+{{DISPLAYTITLE:''Elio''}}
+[[pt-br:Elio (filme)]]
+[[Category:Upcoming films]]
+[[Category:Films]]
+[[Category:Pixar films]]
+[[Category:3-D films]]
+[[Category:Animated films]]
+[[Category:2024 films]]
+[[Category:Elio]]
+[[Category:Pixar]]

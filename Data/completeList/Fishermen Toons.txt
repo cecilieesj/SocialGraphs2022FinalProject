@@ -1,0 +1,52 @@
+{{NeedImage}}
+{{Infobox character
+|image = 
+|name = 
+|films = 
+|shorts = 
+|shows = 
+|games = ''[[Toontown Online]]''
+|rides = 
+|actor = 
+|actress = 
+|animator = 
+|voice = 
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = 
+|personality = 
+|appearance = 
+|occupation = 
+|alignment = 
+|affiliations = 
+|goal = 
+|home = 
+|family = 
+|pets = 
+|friends = 
+|minions = 
+|enemies = 
+|likes = 
+|dislikes = 
+|powers = 
+|possessions = 
+|weapons = 
+|fate = 
+|quote = }}
+'''Fishermen Toons''' are NPC Toons that you can sell Fish to, in the discontinued online video game, ''[[Toontown Online]]''.
+
+==How to interact with Fisherman Toons==
+*Walk up to any Fisherman Toon (Like Fisherman Droopy) with at one or more fishes in your bucket
+
+*The menu will pop up. And you can have the choice to sell them or to not.
+
+*Press any of the two of the options and the menu will close.
+
+*The fisherman toon will say "''Thanks! The Pet Shop will like this species''" or ''"Wow you got (your total of fish) out of 70 fish! That deserves a laff boost and a throphy!"''
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Characters]]
+{{Toontown Online}}

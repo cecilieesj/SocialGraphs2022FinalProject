@@ -1,0 +1,112 @@
+{{Marvel Database:Film Template
+| Image                   = Fantastic Four (2015 film) poster 007.jpg
+| Aliases                 = Fant4stic
+
+| Directors               = Josh Trank
+| Producers               = Simon Kinberg; Matthew Vaughn; Hutch Parker; Robert Kulzer; Gregory Goodman
+| ComicWriters            = [[Stan Lee]]; [[Jack Kirby]]; [[Brian Michael Bendis]]; [[Mark Millar]]; [[Adam Kubert]]
+| StoryWriters            = Jeremy Slater; Josh Trank
+| ScreenplayWriters       = Simon Kinberg; Jeremy Slater; Josh Trank
+| Musicians               = Marco Beltrami; Philip Glass
+| Cinematographers        = Matthew Jensen
+| Editors                 = Elliot Greenberg; Stephen Rivkin
+| Distributors            = 20th Century Fox
+| ProductionCompanies     = Marvel Entertainment; Constantin Film; Kinberg Genre; Marv Films; Robert Kulzer Productions; TSG Entertainment
+| Running Time            = 100 minutes
+| Rating                  = '''MPAA:''' PG-13 for sci-fi action violence, and language
+| Budget                  = $122 million
+| Release Date            = August 6, 2015
+| US Release Date         = August 7, 2015
+
+| AM ID                   = fantastic-four-v569323
+| Marvel Movies           = Fantastic Four (2015)
+| IMDB ID                 = 1502712
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[Fantastic Four (Earth-15866)|Fantastic Four]]}}
+** {{Only|[[Reed Richards (Earth-15866)|Reed Richards]]}} {{g|Joins and leaves [[Baxter Institute (Earth-15866)|Baxter Institute]]}}
+** {{Only|[[Benjamin Grimm (Earth-15866)|The Thing (Ben Grimm)]]}} {{g|Joins and leaves [[Military Threat Response Agency (Earth-15866)|MTRA]]}}
+** {{Only|[[Susan Storm (Earth-15866)|Susan Storm]]}} {{g|Leaves [[Baxter Institute (Earth-15866)|Baxter Institute]]}} {{g|Joins and leaves [[Military Threat Response Agency (Earth-15866)|MTRA]]}}
+** {{Only|[[Jonathan Storm (Earth-15866)|Human Torch (Johnny Storm)]]}} {{g|Joins and leaves [[Baxter Institute (Earth-15866)|Baxter Institute]] and [[Military Threat Response Agency (Earth-15866)|MTRA]]}}
+'''Supporting Characters:'''
+* {{Only|[[Baxter Institute (Earth-15866)|Baxter Institute]]}}
+** {{Only Dies|[[Franklin Storm (Earth-15866)|Doctor Franklin Storm]]}}
+'''Antagonists:'''
+* {{Only|[[Military Threat Response Agency (Earth-15866)|MTRA]]}}
+** {{Only Dies|[[Harvey Allen (Earth-15866)|Doctor Harvey Allen]]}}
+* {{Only Dies|[[Victor von Doom (Earth-15866)|Doom (Victor von Doom)]]}} {{g|Rejoins and leaves [[Baxter Institute (Earth-15866)|Baxter Institute]]}}
+'''Other Characters:'''
+* [[Character Index/Alternate Earths#Kenny (Earth-15866)|Mr. Kenny]] {{Only}}
+* {{Only|[[Jimmy Grimm (Earth-15866)|Jimmy Grimm]]}}
+* {{Only|[[Mrs. Grimm (Earth-15866)|Mrs. Grimm]]}}
+* {{Only|[[Mrs. Richards (Earth-15866)|Mrs. Richards]]}}
+* {{Only|[[Mr. Richards (Earth-15866)|Mr. Richards]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+'''Locations:'''
+* {{Only|[[Earth-15866]]}}
+** {{Only|[[Earth]]}}
+*** {{Only|[[United States of America]]}}
+**** {{Only|[[California (State)|California]]}}
+***** {{Only|[[Central City]]}}
+****** Richards Family Home {{Only}} 
+****** Grimm Family Home {{Only}}
+****** Franklin Storm Research Facility {{Only}}
+**** {{Only|[[New York (State)|New York]]}}
+***** {{Only|[[New York City]]}}
+****** {{Only|[[Manhattan]]}}
+******* [[Manhattan#Midtown Manhattan|Midtown]] {{Only}}
+******** {{Only|[[42nd Street]]}}
+********* {{Only|[[Baxter Building]]}}
+**** Area 57 {{Only}}
+*** {{Mentioned|[[Latveria]]}}
+*** {{Mentioned|[[Kosovo]]}}
+** {{Only|[[N-Zone|Planet Zero]]}}
+'''Items:'''
+* {{Only|[[Fantastic Four Uniforms|Fantastic Four Uniform]]}}
+* {{Only|[[Doctor Doom's Armor]]}}
+*  {{Only|[[Negative Zone Portal|Quantum Gate]]}}
+'''Vehicles:'''
+* [[Fantasti-Car|Flying Car]] {{Mentioned}}
+
+| Plot                    = 
+| Cast                    = 
+* [[wikipedia:Miles Teller|Miles Teller]] as [[Reed Richards (Earth-15866)|Reed Richards]]
+* [[wikipedia:Michael B. Jordan|Michael B. Jordan]] as [[Jonathan Storm (Earth-15866)|Johnny Storm]]
+* [[wikipedia:Kate Mara|Kate Mara]] as [[Susan Storm (Earth-15866)|Sue Storm]]
+* [[wikipedia:Jamie Bell|Jamie Bell]] as [[Benjamin Grimm (Earth-15866)|Ben Grimm/The Thing]]
+* [[wikipedia:Toby Kebbell|Toby Kebbell]] as [[Victor von Doom (Earth-15866)|Victor von Doom/Dr. Doom]]
+* [[wikipedia:Reg E. Cathey|Reg E. Cathey]] as Dr. [[Franklin Storm (Earth-15866)|Franklin Storm]]
+* [[wikipedia:Tim Blake Nelson|Tim Blake Nelson]] as Dr. [[Harvey Allen (Earth-15866)|Allen]]
+* [[wikipedia:Dan Castellaneta|Dan Castellaneta]] as Mr. [[Character Index/Alternate Earths#Kenny (Earth-15866)|Kenny]]
+* Owen Judge as Young Reed
+* Evan Hannemann as Young Ben
+* Chet Hanks as [[Jimmy Grimm (Earth-15866)|Jimmy Grimm]]
+* [[wikipedia:Mary-Pat Green|Mary-Pat Green]] as Mrs. [[Mrs. Grimm (Earth-15866)|Grimm]]
+* [[wikipedia:Tim Heidecker|Tim Heidecker]] as Mr. [[Mr. Richards (Earth-15866)|Richards]]
+* Mary Rachel Dudley as Mrs. [[Mrs. Richards (Earth-15866)|Richards]]
+
+| Notes                   = * This film was first scheduled for a release date of March 6, 2015, then a June 19, 2015 release, before finally settling on an August 7, 2015 release date.<ref>{{cite web|url=http://www.superherohype.com/news/173981-release-date-set-for-fantastic-four-reboot|title=Release Date Set for Fantastic Four Reboot|work=SuperHeroHype!|date=8 December 2012|accessdate=18 September 2014}}</ref><ref>{{cite web|url=http://www.superherohype.com/news/180297-fantastic-four-the-secret-service-and-assassins-creed-get-new-release-dates|title=Fantastic Four, The Secret Service and Assassin's Creed Get New Release Dates|last=Perry|first=Spencer|work=SuperHeroHype!|date=12 November 2013|accessdate=18 September 2014}}</ref><ref>{{cite web|url=http://www.thewrap.com/fantastic-four-moved-into-assassins-creed-release-date-by-fox/|title='Fantastic Four' Moved into 'Assassin's Creed' Release Date by Fox|last=Cunningham|first=Todd|work=The Wrap|date=18 September 2014|accessdate=18 September 2014}}</ref>
+* Following the Walt Disney Company's acquisition of 21st Century Fox and its assets, the film was re-categorized as a "Marvel Legacy" movie on the streaming platform Disney+, to separate it from the films in the [[Earth-199999|Marvel Cinematic Universe]].<ref>{{cite web|url=https://screenrant.com/marvel-legacy-non-mcu-movies-disney-plus/|title=Disney Rebrands Non-MCU Films As Marvel Legacy Movies|last=Gillespie|first=Daniel|work=ScreenRant|date=10 October 2020|accessdate=11 October 2020}}</ref>
+| Trivia                  = * Prior to re-shoots, Tim Blake Nelson's character Harvey Allen, was referred to as [[Mole Man|Harvey Elder]].<ref>{{cite web|url=http://www.hollywoodreporter.com/heat-vision/tim-blake-nelson-final-talks-700318|title=Tim Blake Nelson in Final Talks to Join 'The Fantastic Four' (Exclusive)|last=Kit|first=Borys|work=The Hollywood Reporter|date=30 April 2014|accessdate=14 September 2014}}</ref>
+* This film marks the last one in the ''Fantastic Four'' film property made by 20th Century Fox, with the property returning to Disney following their acquisition of Fox in March 2019.
+==Gallery==
+===Alternate Posters===
+<gallery position="center" captionalign="center">
+Fantastic Four (2015 film) teaser poster.jpg
+Fantastic Four (2015 film) poster 001.jpg
+Fantastic Four (2015 film) poster 002.jpg
+Fantastic Four (2015 film) poster 003.jpg
+Fantastic Four (2015 film) poster 004.jpg
+Fantastic Four (2015 film) poster 005.jpg
+Fantastic Four (2015 film) poster 006.jpg
+Fantastic Four (2015 film) Hitch poster 001.jpg
+Fantastic Four (2015 film) Hitch poster 002.jpg
+</gallery>
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[Category:20th Century Fox]]

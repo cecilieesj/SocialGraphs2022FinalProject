@@ -1,0 +1,159 @@
+{{Marvel Database:Film Template
+| Image                   = The Incredible Hulk (film).jpg
+| Aliases                 = 
+
+| Directors               = Louis Leterrier
+| Producers               = Avi Arad; Gale Anne Hurd; Kevin Feige
+| ComicWriters            = [[Stan Lee]]; [[Jack Kirby]]
+| StoryWriters            = 
+| ScreenplayWriters       = Zak Penn
+| Musicians               = Craig Armstrong
+| Cinematographers        = Peter Menzies, Jr.
+| Editors                 = John Wright; Rick Shaine; Vincent Tabaillon
+| Distributors            = Universal Pictures
+| ProductionCompanies     = Marvel Studios; Valhalla Motion Pictures
+| Running Time            = 112 minutes
+| Rating                  = '''MPAA:''' PG-13 for sequences of intense action violence, some frightening sci-fi images, and brief suggestive content
+| Budget                  = $130 million
+| Release Date            = June 12, 2008
+| US Release Date         = June 13, 2008
+
+| AM ID                   = the-incredible-hulk-v356353
+| IMDB ID                 = 0800080
+| Marvel Movies           = The Incredible Hulk (film)
+| MCU                     = The Incredible Hulk
+
+| Previous Film           = Iron Man (film)
+| Next Film               = Marvel's The Avengers
+
+| Appearances              = 
+'''Featured Characters:'''
+* {{apn|[[Bruce Banner (Earth-199999)|Hulk (Dr. Bruce Banner)]]|-|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 4}} {{1st}}
+'''Supporting Characters:'''
+* {{1st|[[Culver University]]}}
+** {{1st|[[Elizabeth Ross (Earth-199999)|Dr. Elizabeth "Betty" Ross]]}} 
+** {{1st|[[Leonard (Earth-199999)|Leonard]]}}
+* [[Character Index/Earth-199999#Stanley|Stanley]] {{1st}}
+* {{1st|[[Samuel Sterns (Earth-199999)|Mr. Blue (Samuel Sterns)]]}}
+'''Antagonists:'''
+* {{a|[[United States Army (Earth-199999)|U.S. Army]]}}
+** {{apn|[[Thaddeus Ross (Earth-199999)|General Thaddeus "Thunderbolt" Ross]]|-|Captain America: Civil War}} {{1st}}
+** {{only dies|[[Kathleen Sparr (Earth-199999)|Major Kathleen Sparr]]}}
+** {{1st|[[Joseph Samuel Greller (Earth-199999)|General Sam Greller]]}}
+** {{apn|[[Emil Blonsky (Earth-199999)|Abomination (Captain Emil Blonsky)]]|-|Shang-Chi and the Legend of the Ten Rings}} {{1st}}
+'''Other Characters:'''
+* {{a|[[Stan Lee (Earth-199999)|Stan Lee]]}}
+* {{Named|[[Stark Industries (Earth-199999)|Stark Industries]]}}
+** {{apn|[[Anthony Stark (Earth-199999)|Tony Stark]]|Iron Man (film)|Iron Man 2: Public Identity Vol 1 1}} {{Cameo}}
+* {{Hologram|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]]}}
+* [[Character Index/Earth-199999#Martina|Martina]] {{1st}}
+* {{1st|[[WHiH World News (Earth-199999)|WHiH World News]]}}
+* {{apn|[[Roger Harrington (Earth-199999)|Roger Harrington]]|-|Spider-Man: Homecoming}} {{1st}} {{Unnamed}}
+* {{Only|[[James Wilson (Earth-199999)|Jim Wilson]]}}
+* {{Only|[[Jack McGee (Earth-199999)|Jack McGee]]}}
+* {{1st|[[Federal Bureau of Investigation (Earth-199999)|F.B.I.]]}}
+* {{1st|[[New York City Police Department (Earth-199999)|N.Y.P.D.]]}}
+'''Mentioned/Referenced only:'''
+* {{Named|[[Nicholas Fury (Earth-199999)|Nick Fury]]}}
+* {{Mentioned|[[Project Rebirth (Earth-199999)|Project Rebirth]]}}
+* {{Mentioned|[[Abraham Erskine (Earth-199999)|Dr. Reinstein]]}}
+* {{Named|[[Richard Jones (Earth-199999)|Richard "Rick" Jones]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[South America]]}}
+**** {{a|[[Brazil]]}}
+***** {{a|[[Rio de Janeiro (State)|Rio de Janeiro]]}}
+****** {{a|[[Rio de Janeiro (City)|Rio de Janeiro]]}}
+*** {{a|[[North America]]}}
+**** {{a|[[Canada]]}}
+***** {{a|[[British Columbia]]}}
+****** {{a|[[Bella Coola]]}}
+**** {{a|[[Guatemala]]}}
+**** {{a|[[Mexico]]}}
+***** {{a|[[Chiapas]]}}
+**** {{a|[[United States of America]]}}
+***** {{a|[[Florida (State)|Florida]]}}
+****** {{a|[[Everglades]]}}
+***** {{a|[[New York (State)|New York]]}}
+****** {{a|[[New York City]]}}
+******* {{a|[[Manhattan]]}}
+******** {{a|[[Grayburn College]]}}
+******** {{a|[[Harlem]]}}
+********* {{a|[[121st Street]]}}
+********* {{a|[[Broadway]]}}
+******* {{a|[[Upper New York Bay]]}}
+******** {{a|[[Statue of Liberty]]}}
+***** {{a|[[Virginia (State)|Virginia]]}}
+****** {{a|[[Arlington County|Arlington]]}}
+******* {{a|[[Pentagon]]}}
+****** {{a|[[Willowdale]]}}
+******* {{a|[[Culver University]]}}
+'''Items:'''
+* {{1st|[[Super-Soldier Serum]]}}
+* {{1st|[[Gamma Ray Projector]]}}
+* {{1st|[[Stark Sonic Cannon]]}}
+'''Vehicles:'''
+* [[Wikipedia:Humvee|AM General HMMWV]]
+* [[Wikipedia:Humvee|AM General HMMWV M998]]
+* [[Wikipedia:Chevrolet Blazer|1995 Chevrolet Blazer]]
+* [[Wikipedia:Cadillac Gage Commando|1995 Omni International V-150-S]]
+* [[Wikipedia:Ford F-Series|1977 Ford F-Series]]
+
+| Plot                    = A series of flashback shots shows the gamma radiation accident that transformed scientist [[Bruce Banner (Earth-199999)|Bruce Banner]] into the Hulk, and hospitalized his lover, [[Elizabeth Ross (Earth-199999)|Dr. Elizabeth "Betty" Ross]], making Banner escape from the clutches of her father who wants to use Banner's power as a weapon. Now a fugitive from the [[United States Army (Earth-199999)|United States Army]], and Betty's father, [[Thaddeus Ross (Earth-199999)|General Thaddeus "Thunderbolt" Ross]], Banner now works in a soft drink bottling factory in Brazil while attempting to find a cure for his condition with the help of an Internet friend named "Mr. Blue". He also studies martial arts and meditative breathing techniques with a Brazilian Aikido expert to help control his emotions, and has not suffered a transformation for 158 days during his five years on the run.
+
+After Banner suffers a cut, and his blood finds its way into a soda bottle eventually drank by an ill-fated consumer, Ross discovers Banner's location, and sends a team to capture him, led by the Russian-born British special operations expert [[Emil Blonsky (Earth-199999)|Emil Blonsky]]. Following a ferocious battle in the soft drink bottling plant where he transforms into the Hulk, Banner escapes Blonsky, and ends up in [[Guatemala]], from which he travels to the United States, where he sees that a now-recovered Betty is working at [[Culver University]] and is dating psychologist [[Leonard (Earth-199999)|Leonard]]. He also sees his old friend Stanley, a pizzeria owner, who gives him a job as a delivery boy. Banner uses this job to sneak past a Culver University security guard to continue his research for his Internet friend and find the data from the original experiment, but it was all erased. One night Betty visits the pizzeria, and sees Bruce, later reuniting with him. She gives him a USB, containing a copy of their data before the original was erased.
+
+Blonsky reports to Ross that Bruce evaded them in Brazil because of the appearance of a large green monster. Ross explains that the monster is Banner, and that he was created accidentally during an experiment in radiation-resistance that, unbeknownst to Banner himself, was inspired by a World War II era military bio-force enhancement research program, or "Super-Soldiers", as Blonsky puts it. Blonsky, seeking both revenge and power, volunteers as a test subject in order to capture Banner, and receives a small dose of of the original mothballed super-soldier formula made in WWII by Dr. Reinstein and a part of the Weapon Plus program. He leads an assault on Banner at Culver University, during which Betty is knocked unconscious. Despite Blonsky's increased strength, speed and agility, the Hulk crushes most of the bones in Blonsky's body before absconding with Betty to Smoky Mountain National Forest. He eventually calms down and becomes human again.
+
+Banner and Betty then stay at a motel to recuperate. Betty gets him new clothes (including a big pair of purple shorts). While in the shower, Banner hurls up the USB which he swallowed in case he turned into the Hulk. They make out but Banner wants to avoid getting to excited. They travel to Manhattan, where they meet Banner’s "Mr. Blue" Internet friend. They had to avoid use of credit cards, using only money. Banner sends his data to Mr. Blue, but it is tracked by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]] They meet, "Mr. Blue", otherwise known as [[Samuel Sterns (Earth-199999)|Samuel Sterns]]. Accompanying Sterns to his lab, Banner and Betty learn that Sterns has developed a possible antidote that may reverse Banner's transformations after their occurrence but might not prevent future ones, while an overdose would possibly kill him. Despite the risks, Banner agrees to test Sterns' antidote and is restrained before being shocked into transforming with electricity and then reverted to normal with an injection of the serum. Exhilarated by the success of the antidote, Sterns reveals that he has synthesized Banner's blood sample into a large supply with the intention of using it to enhance the human condition to the next evolutionary level. Appalled by what Sterns had done and fearful of the Hulk's power falling into the wrong hands, Banner attempts to convince Sterns to destroy the blood supply but he is shot by a tranquilizer from one of General Ross' snipers. Blonsky then attacks him, demanding he transform into the Hulk and when he doesn't, the former knocks him out.
+
+As both Banner and Betty are taken into custody, Ross tries to convinces his daughter that the one she loves is a monster. Betty retorts that he was responsible for Bruce's condition and that he tried covering it to protect his career. Blonsky, whose super-soldier treatment has healed all his injuries but is desperate for more power, confronts Sterns and demands he subject him to a dose of Banner's gamma radiation treatment. Sterns warns that the combination of the super-soldier serum and a gamma treatment would be an unpredictable combination and the result could be an "abomination". Blonsky however is less than concerned about the possible consequences and Sterns promptly administers the gamma charge. As Blonsky mutates into a monstrous behemoth, he knocks Sterns aside and an irradiated sample of Banner's blood-derivative drips into an open wound on Sterns's temple, causing his cranium to mutate and expand. The Abomination goes on a rampage in the city, hoping to draw out Banner. Banner, realizing that he is the only one who can stop the Abomination, convinces General Ross to release him. He jumps out of Ross's helicopter as it hovers over the city, hoping the fall will stimulate his adrenal glands into triggering a transformation. Banner's plan succeeds and after a violent, pitched battle from the streets to atop a dilapidated building; the Abomination is defeated when the Hulk brutally strangles him unconscious with a huge chain. The Hulk then flees the scene with the Army in hot pursuit.
+
+Thirty one days later, Banner is in Bella Coola, British Columbia. Instead of trying to suppress his transformations, he is attempting to initiate them in a controlled manner. As his eyes turn green, a grin appears on his face. Meanwhile, General Ross is drinking in a bar when he is approached by [[Anthony Stark (Earth-199999)|Tony Stark]] (Robert Downey Jr.) who reveals that a "[[Avengers (Earth-199999)|team]]" is being put together.
+
+| Cast                    = 
+* [[wikipedia:Edward Norton|Edward Norton]] as [[Bruce Banner (Earth-199999)|Hulk / Dr. Bruce Banner]]
+** [[wikipedia:Lou Ferrigno|Lou Ferrigno]] provides the voice of the Hulk and appears as a Culver University security guard.
+** [[wikipedia:Terry Notary|Terry Notary]] provides motion capture for the Hulk.
+
+* [[wikipedia:Liv Tyler|Liv Tyler]] as [[Elizabeth Ross (Earth-199999)|Dr. Betty Ross]]
+
+* [[wikipedia:Tim Roth|Tim Roth]] as [[Emil Blonsky (Earth-199999)|Abomination / Emil Blonsky]]
+
+* [[wikipedia:William Hurt|William Hurt]] as [[Thaddeus Ross (Earth-199999)|General Thaddeus Ross]]
+
+* [[wikipedia:Tim Blake Nelson|Tim Blake Nelson]] as [[Samuel Sterns (Earth-199999)|Samuel Sterns]]
+
+* [[wikipedia:Ty Burrell|Ty Burrell]] as [[Leonard (Earth-199999)|Dr. Leonard]]
+
+* [[wikipedia:Christina Cabot|Christina Cabot]] as [[Kathleen Sparr (Earth-199999)|Major Kathleen Sparr]]
+
+* [[wikipedia:Peter Mensah|Peter Mensah]] as [[Joseph Samuel Greller (Earth-199999)|Sam Greller]]
+
+[[wikipedia:Robert Downey Jr.|Robert Downey Jr.]] appears in an uncredited cameo as [[Anthony Stark (Earth-199999)|Tony Stark]] at the end of the film. [[Wikipedia:Stan Lee|Stan Lee]] makes a cameo as an old man who gets sick after drinking Banner's blood. [[wikipedia:Paul Soles|Paul Soles]], who voiced the [[Bruce Banner (Earth-600026)|Hulk]] in the [[Marvel Superheroes: The Incredible Hulk|1966 animated series]], portrays [[Character Index/Earth-199999#Stanley|Stanley]]. [[wikipedia:Rickson Gracie|Rickson Gracie]] appears as Banner's Aikido instructor. [[wikipedia:Martin Starr|Martin Starr]] makes a cameo as a computer nerd. [[wikipedia:Michael K. Williams|Michael K. Williams]] makes a cameo as a New York bystander. Nicholas Rose and P.J. Kerr appear as [[Jack McGee (Earth-199999)|McGee]] and [[James Wilson (Earth-199999)|Wilson]], respectively.
+
+| Notes                   = * Although the film was released in 2008, the comic tie-in {{cl|Marvel's The Avengers Prelude: Fury's Big Week Vol 1}} confirms that it is set in 2010, with the first half of this film occurring during the latter half of ''[[Iron Man 2 (film)|Iron Man 2]]'', along with ''[[Thor (film)|Thor]]''.
+
+| Trivia                  = * [[wikipedia:Zak Penn|Zak Penn]] wrote three original drafts of the film's script. [[wikipedia:Edward Norton|Edward Norton]] revised Zak's final script, seeing as Norton is a screenwriter too. Ultimately, the Writers Guild of America (WGA) gave sole credit to Penn.
+* [[wikipedia:Martin Starr|Martin Starr]] appears in the film as an unnamed extra credited as "Computer Nerd" (and was only identified, as [[Amadeus Cho]], in the film's [[The Incredible Hulk (novel)|novelization]]). During a [[wikipedia:Reddit|Reddit]] Ask Me Almost Anything session, [[Marvel Studios]] President [[Kevin Feige]] revealed that Mr. Harrington and the "Computer Nerd" could be considered the same character.{{r|{{cite web|url=https://www.reddit.com/r/marvelstudios/comments/bp084n/hi_reddit_im_kevin_feige_amaa/enncmsh/|title=Hi reddit, I'm Kevin Feige. AMAA|work=Reddit|first=Kevin|last=Feige|date=16 May 2019|accessdate=18 May 2019}}}}
+
+==Gallery==
+===Alternate Posters===
+<gallery>
+The Incredible Hulk (film) Poster 001 textless.jpg
+</gallery>
+
+===Videos===
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Hulk Trailer
+</gallery>
+
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+* [http://www.movies.msn.com/movies/movie.aspx?m=2080160&GT1=WWW5 MSN exclusive video clip]
+* [http://www.mtv.com/overdrive/?id=1588023&vid=235404 MTV exclusive video clip]
+}}
+[[Category:Marvel Studios]]
+[[Category:Universal Pictures]]

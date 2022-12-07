@@ -1,0 +1,75 @@
+{{Infobox film
+| name           = Emil and the Detectives
+| image          = Emil_and_the_detectives.jpg
+| image_size     = 
+| caption        = 
+| director       = Peter Tewksbury
+| producer       = [[Walt Disney]]
+| writer         = Erich Kästner (book)<br>A.J. Carothers screenplay
+| narrator       = 
+| starring       = Walter Slezak
+| music          = 
+| cinematography = 
+| editing        = [[Thomas Stanford (film editor)|Thomas Stanford]]
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| release        = [[December 18]], [[1964]]
+| time           = 92 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = $1,275,000<ref>Anticipated rentals accruing distributors in North America. See "Top Grossers of 1965", ''Variety'', 5 January 1966 p 36</ref>
+| preceded_by    = 
+| followed_by    = 
+| website        = 
+| amg_id         = }}'''''Emil and the Detectives''''' is a [[1964]] film directed by Peter Tewksbury based on the novel by German author Erich Kästner. The film stars Walter Slezak and Bryan Russell.<ref>{{cite web|url=http://www.allmovie.com/movie/emil-and-the-detectives-v62258 |title=Emil and the Detectives - Cast, Reviews, Summary, and Awards |publisher=AllMovie |date= |accessdate=2012-03-31}}</ref>
+
+Though the plot is set in Berlin, the younger characters have been extensively Americanized, none more so than the titular character (played by Bryan Russell) and aspiring teenage detective Gustav (Roger Mobley).
+
+==Plot==
+Traveling by bus to visit his aunt, Emil loses an envelope of money to sneak thief Grundeis (Heinz Schubert). The boy enlists the aid of a gang of young detective-story aficionados, led by Gustav, to locate the thief. This leads to a perilous adventure when it turns out that Grundeis is in league with an erudite master criminal known as The Baron (Walter Slezak), who is planning a major heist.
+
+==Cast==
+*Walter Slezak as Baron
+*Bryan Russell as Emil Tischbein
+*Roger Mobley as Gustav
+*Heinz Schubert as Grundeis the thief
+*Peter Ehrlich as Muller
+*Cindy Cassell as Pony
+*Elsa Wagner as Grandma
+*Eva Ingeborg Scholz as Frau Tischbein, Emil's mother
+*Wolfgang Völz as Wachtmeister Stucke
+*Brian Richardson as The Professor
+*Robert Swann as Hermann
+*David Petrychka as Dienstag
+
+==Comic book adaption==
+*Gold Key: ''Emil and the Detectives'' (February 1965)<ref>{{gcdb issue|id=18965|title=Gold Key: ''Emil and the Detectives''}}</ref>
+
+==Serial==
+This movie was edited into a 10-part serial for ''The New Mickey Mouse Club ''retitled "The Three Skrinks." Episodes aired every Tuesday and Thursday from May 2, 1978 through June 1, 1978.
+
+==Gallery==
+<gallery position="center" widths="185">
+1964-detectives-4.jpg
+1964-detectives-3.jpg
+1964-detectives-2.jpg
+1964-detectives-1.jpg
+Tumblr na2g61PV0K1qhcrb0o1 500.gif
+Peter pan uk poster 1965 emil detectives.jpg|Poster from the [[United Kingdom|UK]] release, on a double bill with a re-release of ''[[Peter Pan (film)|Peter Pan]]''
+101 dalmatians emil japanese poster 1970.jpg|Poster from the Japanese release, on a double bill with a re-release of ''[[One Hundred and One Dalmatians]]''
+</gallery>
+
+==Copyright info==
+The film's copyright was renewed on [[February 4]], [[1992]].<ref>[https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First&Search_Arg=RE0000571613&Search_Code=REGS Online Copyright Catalog search (form autofilled, pressing "begin search" brings up the entry)]</ref> The copyright to the story it is based on was also renewed in the U.S.<ref>[https://archive.org/details/catalogofcopyrig3111libr/page/1586/mode/1up Catalog of Copyright Entries (Source material)]</ref>
+
+==References==
+{{reflist}}
+
+{{Wikipedia|Emil and the Detectives (1964)}}
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:1964 films]]
+[[Category:Films based on books]]
+[[Category:Unrated_films]]

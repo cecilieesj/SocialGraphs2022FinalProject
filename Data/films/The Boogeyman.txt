@@ -1,0 +1,48 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|title = The Boogeyman
+|director = Rob Savage
+|producer = Dan Levine<br>Dan Cohen
+|writer = Mark Heyman<br>Scott Beck & Bryan Woods<br>Akela Cooper
+|starring = [[David Dastmalchian]]<br>Marin Ireland<br>Vivien Lyra Blair<br>[[Madison Hu]]<br>Chris Messina<br>Sophie Thatcher
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[20th Century Studios]]<br>21 Laps Entertainment
+|distributor = [[Hulu]]<small> (U.S.) </small><br>[[Disney+]] Star<small> (International) </small>
+|release = [[2023]]
+|time = 
+|language = English
+|budget = 
+|gross = }}
+'''''The Boogeyman''''' is an upcoming American horror film based on the 1973 short story of the {{WPS|The Boogeyman (short story)|same name}} by {{WPS|Stephen King}}. It will be released on [[Hulu]] in the United States and [[Disney+]] Star in other countries in [[2023]].
+
+==Synopsis==
+The film follows a 16-year-old and her younger sister, still reeling from the death of their mother, as they’re targeted by a supernatural boogeyman, after their psychologist father has an encounter with a desperate patient in their house.<ref name="BoogeyMan">[https://deadline.com/2022/02/the-boogeyman-david-dastmalchian-marin-ireland-more-join-stephen-king-film-1234957566/ ‘The Boogeyman’: David Dastmalchian, Marin Ireland, Vivien Lyra Blair & Madison Hu Board 20th Century Studios’ Stephen King Adaptation]</ref>
+
+==Cast==
+*[[David Dastmalchian]] as TBA<ref name="BoogeyMan" />
+*Marin Ireland as TBA<ref name="BoogeyMan" />
+*Vivien Lyra Blair as TBA<ref name="BoogeyMan" />
+*[[Madison Hu]] as TBA<ref name="BoogeyMan" />
+*Chris Messina as TBA<ref name="BoogeyMan" />
+*Sophie Thatcher as TBA<ref name="BoogeyMan" />
+
+==Production==
+On February 22, 2022, ''Deadline'' reported that an adaptation of the short story by Stephen King titled ''The Boogeyman'', was in development for [[20th Century Studios]].<ref name="BoogeyMan" />
+
+==References==
+{{Reflist}}
+
+{{DISPLAYTITLE:''The Boogeyman''}}
+[[Category:Films]]
+[[Category:20th Century Studios films]]
+[[Category:Hulu]]
+[[Category:Disney+]]
+[[Category:Live-action films]]
+[[Category:2023 films]]
+[[Category:Disney+ Originals]]
+[[Category:Films based on books]]
+[[Category:Upcoming films]]

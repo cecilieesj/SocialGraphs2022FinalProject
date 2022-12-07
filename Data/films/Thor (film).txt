@@ -1,0 +1,227 @@
+{{Marvel Database:Film Template
+| Image                   = Thor Theatrical Poster.jpg
+| Aliases                 = 
+| Tagline                 = Two worlds. One hero.
+
+| Directors               = Kenneth Branagh
+| Producers               = Kevin Feige
+| ComicWriters            = [[Stan Lee]]; [[Larry Lieber]]; [[Jack Kirby]]
+| StoryWriters            = J. Michael Straczynski; Mark Protosevich
+| ScreenplayWriters       = Ashley Miller; Don Payne; Zack Stentz
+| Musicians               = Patrick Doyle
+| Cinematographers        = Haris Zambarloukos
+| Editors                 = Paul Rubell
+| Distributors            = Paramount Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = 115 minutes
+| Rating                  = '''MPAA:''' PG-13 for sequences of intense sci-fi action and violence
+| Budget                  = $150 million
+| Release Date            = April 21, 2011
+| US Release Date         = <nowiki>(Australia)</nowiki><br/><nowiki> April 27, 2011 (Int'l)</nowiki><br/> May 6, 2011
+
+| Marvel Movies           = Thor (film)
+| AM ID                   = thor-v411473
+| IMDB ID                 = 0800369
+| MCU                     = Thor (film)
+
+| Previous Film           = 
+| Next Film               = Marvel's The Avengers
+| Next Film2              = {{sld|Thor: The Dark World}}
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Thor Odinson (Earth-199999)|Thor Odinson]]|-|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 3}} {{1st}}
+'''Supporting Characters:'''
+* {{apn|[[Jane Foster (Earth-199999)|Jane Foster]]|-|Marvel's Thor: The Dark World Prelude Vol 1 1}} {{1st}}
+* {{apn|[[Erik Selvig (Earth-199999)|Erik Selvig]]|-|Marvel's The Avengers}} {{1st}} {{g|Joins [[Project P.E.G.A.S.U.S. (Earth-199999)|Project P.E.G.A.S.U.S.]]}}
+* {{apn|[[Darcy Lewis (Earth-199999)|Darcy Lewis]]|-|Marvel's Thor: The Dark World Prelude Vol 1 1}} {{1st}}
+* {{apn|[[Odin Borson (Earth-199999)|Odin Borson]]|-|Marvel's Thor: The Dark World Prelude Vol 1 1}} {{Flashback}}
+* {{apn|[[Frigga (Earth-199999)|Frigga]]|-|Marvel's Thor: The Dark World Prelude Vol 1 1}} {{1st}}
+* {{apn|[[Sif (Earth-199999)|Lady Sif]]|-|Marvel's Thor: The Dark World Prelude Vol 1 2}} {{1st}}
+* {{1st|[[Warriors Three (Earth-199999)|Warriors Three]]}}
+** {{apn|[[Fandral (Earth-199999)|Fandral]]|-|Marvel's Thor: The Dark World Prelude Vol 1 1}} {{1st}}
+** {{apn|[[Hogun (Earth-199999)|Hogun]]|-|Marvel's Thor: The Dark World Prelude Vol 1 2}} {{1st}}
+** {{apn|[[Volstagg (Earth-199999)|Volstagg]]|-|Marvel's Thor: The Dark World Prelude Vol 1 1}} {{1st}}
+* {{apn|[[Heimdall (Earth-199999)|Heimdall]]|-|Marvel's Thor: The Dark World Prelude Vol 1 1}} {{1st}}
+'''Antagonists:'''
+* {{Only Dies|[[Laufey (Earth-199999)|Laufey]]}}
+* {{apn|[[Loki Laufeyson (Earth-199999)|Loki Laufeyson]]|-|Marvel's The Avengers}} {{1st}}  {{Flashback}}
+* {{Only Dies|[[Grundroth (Earth-199999)|Grundroth]]}}
+* {{Only Dies|[[Hailstrum (Earth-199999)|Hailstrum]]}}
+* {{1st|[[Destroyer (Enchanted Armor)|The Destroyer]]}} {{Destroyed}}
+'''Other Characters:'''
+* {{1st|[[Einherjar (Earth-199999)|Einherjar Guard]]}}
+* {{1st|[[Isabela Alvarez (Earth-199999)|Isabela Alvarez]]}}
+* [[Character Index/Earth-199999#Jake|Jake]] {{1st}}
+* [[Character Index/Earth-199999#Pete|Pete]] {{1st}}
+* {{1st|[[Sleipnir (Earth-199999)|Sleipnir]]}}
+* {{apn|[[Hugin (Earth-199999)|Hugin]]|-|Thor: The Dark World}} {{1st}}
+* {{apn|[[Munin (Earth-199999)|Munin]]|-|Thor: The Dark World}} {{1st}}
+* {{mentioned|[[Bor Burison (Earth-199999)|Bor Burison]]}}
+* {{a|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]]}}
+** {{apn|[[Phillip Coulson (Earth-199999)|Agent Phil Coulson]]|Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 3}}
+** {{apn|[[Jasper Sitwell (Earth-199999)|Agent Jasper Sitwell]]|-|Marvel One-Shot: The Consultant}} {{1st}}
+** [[Character Index/Earth-199999#DeLancey|Agent DeLancey]] {{1st}}
+** [[Character Index/Earth-199999#Jackson|Agent Jackson]] {{1st}}
+** {{apn|[[Clinton Barton (Earth-199999)|Agent Clint Barton]]|-|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 3}} {{1st}} {{Cameo}}
+** [[Character Index/Earth-199999#Garrett|Agent Garrett]] {{1st}}
+** [[Character Index/Earth-199999#Cale|Agent Cale]] {{1st}}
+** {{apn|[[Nicholas Fury (Earth-199999)|Nick Fury]]|Iron Man 2 (film)|Captain America: The First Avenger}} {{Cameo}}
+* {{a|[[Stan Lee (Earth-199999)|Stan Lee]]}}
+* {{mentioned|[[Donald Blake (Earth-199999)|Dr. Donald Blake]]}}
+* {{mentioned|[[Bruce Banner (Earth-199999)|Dr. Bruce Banner]]}}
+* {{mentioned|[[Henry Pym (Earth-199999)|Dr. Henry Pym]]}}
+* {{mentioned|[[Anthony Stark (Earth-199999)|Tony Stark]]}}
+* {{1st|[[Project P.E.G.A.S.U.S. (Earth-199999)|Project P.E.G.A.S.U.S.]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Asgardians]]}}
+* {{a|[[Frost Giants|Jotuns]]}}
+* {{a|[[Frost Beasts]]}}
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+** {{Mentioned|[[Yggdrasill]]}}
+** {{a|[[Glossary:Nine Worlds|Nine Realms]]}} {{1st}}
+*** {{a|[[Earth|Midgard/Earth]]}}
+**** {{a|United States of America}} 
+***** {{a|[[New Mexico (State)|New Mexico]]}} {{1st}}
+****** {{a|[[Puente Antiguo]]}} {{1st}}
+******* Smith Motors {{1st}}
+******* Isabela's Diner {{1st}}
+***** [[Virginia (State)|Virginia]]
+****** [[Willowdale]]
+******* {{mentioned|[[Culver University]]}}
+**** {{a|Norway}} {{1st}}
+***** {{FlashOnly|[[Tønsberg]]}} {{1st}}
+*** {{a|[[Asgard (Realm)|Asgard]]}} {{1st}}
+**** {{a|[[Asgard (City)|City of Asgard]]}} {{1st}}
+***** {{a|[[Odin's Vault]]}} {{1st}}
+**** {{a|[[Bifrost]]}} {{1st}} {{g|Destroyed}}
+**** {{a|[[Himinbjörg]]}} {{1st}} {{g|Destroyed}}
+*** {{a|[[Jotunheim]]}} {{1st}}
+'''Items:'''
+* {{a|[[Mjolnir]]}} {{1stChron}} {{Flashback}}
+* {{a|[[Gungnir (Spear)|Gungnir]]}} {{Flashback}}
+* {{a|[[Hofund]]}}
+* {{a|[[Fimbuldraugr]]}}
+* {{a|[[Hridgandr]]}}
+* {{a|[[Healing Stones]]}}
+* {{Minor|Infinity Gauntlet (Item)|Infinity Gauntlet|Replica}} {{1st}}
+** {{Minor|Infinity Stones|Infinity Stones|Replicas}} {{1st}}
+*** {{Minor|Reality Stone|Reality Stone|Replica}} {{1st}}
+*** {{Minor|Time Stone|Time Stone|Replica}} {{1st}}
+*** {{Minor|Space Stone|Space Stone|Replica}} {{1st}}
+*** {{Minor|Mind Stone|Mind Stone|Replica}} {{1st}}
+*** {{Minor|Power Stone|Power Stone|Replica}} {{1st}}
+*** {{Minor|Soul Stone|Soul Stone|Replica}} {{1st}}
+* {{a|[[Casket of Ancient Winters]]}} {{Flashback}}
+* {{a|[[Lifeline Tablet|Tablet of Life and Time]]}}
+* {{a|[[Eternal Flame]]}}
+* {{a|[[Warlock's Eye]]}}
+* {{a|[[Tuning Fork]]}}
+* {{Mentioned|[[Hubble Space Telescope]]}}
+* {{1st|[[Cosmic Cube|Tesseract]]}}
+** [[Space Stone]] {{BTS}} {{1st}}
+'''Vehicles:'''
+* [[Wikipedia:Acura TL|Acura TL]] (S.H.I.E.L.D. edition)
+* [[Wikipedia:Acura MDX|Acura MDX]] (S.H.I.E.L.D. edition)
+* [[Wikipedia:Acura ZDX|Acura ZDX]] (S.H.I.E.L.D. edition)
+* [[wikipedia:Pinzgauer High-Mobility All-Terrain Vehicle|Pinzgauer]] all-terrain vehicle equipped with an extensive suite of scanning equipment.
+
+| Plot                    = 
+{{Quote|Your ancestors called it magic. You call it science. I come from a place where they're one and the same thing.|[[Thor Odinson (Earth-199999)|Thor]]}}
+In the present day, [[Jane Foster (Earth-199999)|Jane Foster]], [[Erik Selvig (Earth-199999)|Erik Selvig]], and [[Darcy Lewis (Earth-199999)|Darcy Lewis]] investigate an unusual phenomenon in the New Mexico desert, and hit a mysterious man inside the storm with their van.
+
+Centuries ago, in 965 A.D., the [[Frost Giants]] of Jotunheim, led by [[Laufey (Earth-199999)|Laufey]], attack Earth with the [[Casket of Ancient Winters]], but are defeated by the Gods of Norse mythology. [[Odin Borson (Earth-199999)|Odin]]'s army of [[Asgard]] reclaims the Casket and Jotunheim is reduced to ruin.
+
+Centuries later, Odin's son [[Thor Odinson (Earth-199999)|Thor]], the God of Thunder, is about to become the new king of Asgard when the ceremony is interrupted by Jotuns attempting to steal the Casket, who are defeated by the Destroyer, an enchanted metal giant in Odin's Trophy Room. Desperate to know why the attack occurred, Thor, his brother [[Loki]] and friends the [[Warriors Three (Earth-199999)|Warriors Three]] and [[Sif (Earth-199999)|Sif]] travel to Jotunheim behind the AllFather's back.
+
+At Jotunheim, the gods are greeted with an attack by Laufey's warriors, which is quickly halted when Odin arrives via Bifröst. As Laufey threatens a new war with Asgard, Odin banished Thor to Earth and casts a spell on Thor's hammer [[Mjolnir]], allowing only those worthy to be able to lift it.
+
+On Earth, Thor lands in the path of Jane Foster's van and is then tasered by Darcy, proving to be mortal. While Thor befriends Jane on Earth, Loki discovers that he is actually the son of Laufey. When snapping at Odin about it, Odin collapses and falls into the Odinsleep, a process which allows him to recuperate his powers. Loki is proclaimed as acting King of Asgard and forbids Thor's return from his exile on Earth.
+
+Jane agrees to help Thor reclaim Mjolnir when [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]] agent [[Phillip Coulson (Earth-199999)|Phil Coulson]] has her scientific research covered up and sent to a temporary base at the crater where the hammer landed. Thor fights off many agents but fails to lift Mjolnir. While imprisoned, Loki appears to him and tells him that Odin is dead, and [[Frigga (Earth-199999)|Frigga]] forbids Thor's return. Loki also proves unworthy to hold Mjolnir. Selvig, although strongly disbelieving Thor's connections with Norse mythology, convinces Coulson to set him free. That night, Thor explains to Jane the cosmology of his dimension and accepts his place as a mortal.
+
+The Warriors Three, Sif, and Heimdall conspire against Loki to bring Thor back, so Heimdall sends the four into New Mexico to find him, and is frozen in place by an angry Loki, holding the Casket. He sends the Destroyer to attack Earth. After the Warriors Three and Sif fail to defeat the Destroyer, Thor offers his life in exchange for Earth's safety. Stricken by the Destroyer's blow and near death, Thor earns worthiness to hold Mjolnir, which returns to him and restores his powers, which kill the Destroyer. Thor tells Coulson to consider him an ally of S.H.I.E.L.D. and Jane is allowed to complete her research under S.H.I.E.L.D. surveillance.
+
+Heimdall breaks free of his icy state and Thor returns to Asgard, promising to return to Jane with a kiss. Loki allows Laufey into Odin's chambers as part of their pact but kills the Frost giant in an attempt to please his father. Thor and Loki battle at the Bifröst bridge, which has been activated by Loki to destroy Jotunheim. Thor chooses to destroy the bridge and sacrifice his chance to see Jane again. Odin wakes and saves Thor and Loki from falling into an abyss, but Loki lets himself fall, presumably to his death, when he realizes he has shamed his adopted father.
+
+Thor and Heimdall discuss possible means of traveling to Earth without the Bifröst while Jane looks to have found a way, indicating Thor will soon find his chance to return.
+
+Erik Selvig meets S.H.I.E.L.D. director Nick Fury, who asks him to begin research on a powerful cube-shaped artifact. Selvig, under the influence of Loki, agrees to "take a look".
+
+==Gallery==
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Thor - Trailer (OFFICIAL)
+Thor Super Bowl Trailer
+Thor Trailer 2
+</gallery>
+
+| Cast                    = 
+* [[Wikipedia:Chris Hemsworth|Chris Hemsworth]] as [[Thor Odinson (Earth-199999)|Thor]]
+** [[Wikipedia:Dakota Goyo|Dakota Goyo]] as Young Thor
+* [[Wikipedia:Natalie Portman|Natalie Portman]] as [[Jane Foster (Earth-199999)|Jane Foster]]
+* [[Wikipedia:Tom Hiddleston|Tom Hiddleston]] as [[Loki Laufeyson (Earth-199999)|Loki]]
+** Ted Allpress as Young Loki
+* [[Wikipedia:Anthony Hopkins|Anthony Hopkins]] as [[Odin Borson (Earth-199999)|Odin]]
+* [[Wikipedia:Stellan Skarsgård|Stellan Skarsgård]] as [[Erik Selvig (Earth-199999)|Prof. Erik Selvig]]
+* [[Wikipedia:Kat Dennings|Kat Dennings]] as [[Darcy Lewis (Earth-199999)|Darcy Lewis]]
+* [[Wikipedia:Clark Gregg|Clark Gregg]] as [[Phillip Coulson (Earth-199999)|Agent Phil Coulson]]
+* [[Wikipedia:Colm Feore|Colm Feore]] as [[Laufey (Earth-199999)|Laufey]]
+* [[Wikipedia:Ray Stevenson (actor)|Ray Stevenson]] as [[Volstagg (Earth-199999)|Volstagg]]
+* [[Wikipedia:Idris Elba|Idris Elba]] as [[Heimdall (Earth-199999)|Heimdall]]
+* [[Wikipedia:Jaimie Alexander|Jaimie Alexander]] as [[Sif (Earth-199999)|Sif]]
+* [[Wikipedia:Tadanobu Asano|Tadanobu Asano]] as [[Hogun (Earth-199999)|Hogun]]
+* [[Wikipedia:Joshua Dallas|Joshua Dallas]] as [[Fandral (Earth-199999)|Fandral]]
+* [[Wikipedia:Rene Russo|Rene Russo]] as [[Frigga (Earth-199999)|Frigga]]
+
+[[Wikipedia:Jeremy Renner|Jeremy Renner]] and [[Wikipedia:Samuel L. Jackson|Samuel L. Jackson]] make uncredited cameos as [[Clinton Barton (Earth-199999)|Agent Barton]] and [[Nicholas Fury (Earth-199999)|Nick Fury]], respectively. [[wikipedia:Adriana Barraza|Adriana Barraza]] appears as [[Isabela Alvarez (Earth-199999)|Isabela Alvarez]]. [[wikipedia:Maximiliano Hernández|Maximiliano Hernández]] portrays [[Jasper Sitwell (Earth-199999)|Agent Jasper Sitwell]]. [[wikipedia:Joshua Cox|Joshua Cox]] and [[wikipedia:Joseph Gatt|Joseph Gatt]] portray [[Hailstrum (Earth-199999)|Hailstrum]] and [[Grundroth (Earth-199999)|Grundroth]], respectively. [[Wikipedia:Dale Godboldo|Dale Godboldo]] and [[Wikipedia:Patrick O'Brien Demsey|Patrick O'Brien Demsey]] appear as Agent Garrett and Agent Cale, respectively. Writers [[J. Michael Straczynski]], [[Walter Simonson]], and [[Stan Lee]] make cameos in the film.
+
+===Reception===
+Critics on Rotten Tomatoes gave ''Thor'' generally positive ratings with a 77% fresh certified fresh and an average rating of 6.7/10. The consensus called the film, "A dazzling blockbuster that tempers its sweeping scope with wit, humor, and human drama, Thor is mighty Marvel entertainment."<ref>{{Rotten-tomatoes|id=thor}}</ref> However, top critics on Metacritic gave the film mixed or average reviews with a normalized score of 58/100.<ref>[http://www.metacritic.com/movie/thor ''Thor''] on Metacritic </ref> Richard Roeper of the Chicago Sun-Times praised the film, calling it "the most entertaining superhero debut since the original ''[[Spider-Man (2002 film)|Spider-Man]]''," attributing its success to Chris Hemsworth performance as Thor.<ref>[http://www.richardroeper.com/reviews/thor.aspx ''Thor'' Review] on RichardRoeper.com</ref> On the other hand, Roger Ebert, also of the Chicago Sun-Times, gave the film a negative review, calling the screenplay a failure and found the characters uninteresting.<ref>[http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20110510/REVIEWS/110519987 Thor :: rogerebert.com :: Reviews] on the SunTimes.com. May 10, 2011.</ref>
+| Notes                   = 
+
+| Trivia                  = * Thor's hammer, Mjolnir, previously appeared in the post-credits scene of the film ''[[Iron Man 2 (film)|Iron Man 2]]''.
+* There is a travel billboard in one scene that says "Journey Into Mystery"- the name of the comic where [[Thor Odinson (Earth-616)|Thor]] first debuted.
+* A water tower in Puente Antiguo is painted with the words, "Home of the Vikings". 
+* When Selvig mentions he knew a "scientist, a pioneer in gamma radiation" who "wasn't heard from again" after S.H.I.E.L.D. showed up, he's referring to [[Bruce Banner (Earth-199999)|Dr. Bruce Banner]], better known as Hulk.
+* When the Destroyer lands on Earth, one S.H.I.E.L.D agent asks Coulson, "Is that one of Stark's?" mistaking the Asgardian construct for Stark technology. Coulson simply replies "I don't know. The guy never tells me anything", which refers to Tony Stark's reluctance to reveal anything about his current projects.
+* The scene in which men of Puente Antiguo gather to try and pull Mjolnir from the ground bears a strong resemblance to many knights' attempts to pull Excalibur from the stone in the story of King Arthur.
+* The Cosmic Cube, which appears in a post-credits scene at the end of the movie, became major plot points in ''[[Captain America: The First Avenger]]'' and ''[[Marvel's The Avengers]]''.
+* In the scene where Thor drinks with Dr. Selvig, the bar they are in seems to be the same that [[Thaddeus Ross (Earth-199999)|General Ross]] had a meeting with Tony Stark in ''[[The Incredible Hulk (2008 film)|The Incredible Hulk]]''.
+* Among the mystical items in Odin's vault are the [[Infinity Gauntlet]] and the [[Eye of Agamotto (Knowledge)|Eye of Agamotto]]. However, most of the items in the vault, including both of these, are revealed to merely be replicas in ''[[Thor: Ragnarok]]'', as both appear elsewhere in later MCU films.
+* Thor's armor in the film was inspired by the design made by Olivier Coipel for the modern ''Thor'' comics. 
+* Thor's half-brother [[Balder]] was featured in an early script of the movie, and he would've played a crucial role in the plot. Concept artist Charlie Wen even painted a preliminary keyframe of the character battling alongside Thor before finding out that he had been scrapped from the film.{{r|{{cite web|url=https://www.instagram.com/p/Bm3i-X6gNPe/?taken-by=imcharliewen|title=Charlie Wen (@imcharliewen)|work=Instagram|first=Charlie|last=Wen|date=24 August 2018|accessdate=24 August 2018}}}}
+
+==Gallery==
+===Alternate Posters===
+<gallery>
+Thor (film) poster 0011.jpg
+Thor (film) poster 0011 Textless.jpg
+Thor (film) poster 0007.jpg
+Thor (film) poster 0003.jpg
+Thor (film) poster 0002.jpg
+Thor (film) poster 0012.jpg
+Thor (film) poster 0010.jpg
+Thor (film) poster 0008.jpg
+Thor (film) poster 0005.jpg
+Thor (film) poster 0004.jpg
+Thor (film) poster 0003 textless.jpg
+Thor (film) poster 0002 textless.jpg
+Thor (film) poster 0012 textless.jpg
+Thor (film) poster 0010 Textless.jpg
+Thor (film) poster 0008 Textless.jpg
+Thor (film) poster 0005 Textless.jpg
+Thor (film) poster 0004 Textless.jpg
+Thor (film) poster 0006.jpg
+Thor (film) poster 0006 textless.jpg
+Thor (film) poster 0009.jpg
+</gallery>
+
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+* [http://thor.marvel.com/ Official Thor Movie Site]
+}}
+[[it:Thor (film)]]
+[[ru:Тор (фильм)]]
+[[tr:Thor (film)]]
+[[Category:Marvel Studios]]

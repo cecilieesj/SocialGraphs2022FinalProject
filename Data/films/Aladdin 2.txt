@@ -1,0 +1,43 @@
+{{Upcoming|media=film}}
+{{dablink|the upcoming live-action film|the animated film|[[The Return of Jafar]]}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Aladdin 2
+|director = 
+|producer = Dan Lin<ref name="Variety"/><br>Jonathan Eirich<ref name="Variety"/><br>Ryan Halprin {{Small|(executive)}}<ref name="Variety"/>
+|writer = John Gatins<ref name="Variety"/><br>Andrea Berloff<ref name="Variety"/>
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]<ref name="Variety"/><br>Rideback
+|distributor = [[Walt Disney Studios Motion Pictures]]<ref name="Variety"/>
+|release = 
+|time = 
+|language = English
+|budget = 
+|gross = 
+|preceded = ''[[Aladdin (2019 film)|Aladdin]]''
+|followed = 
+|website = 
+|imdb_id = 11779248}}
+'''''Aladdin 2''''' is an upcoming American live-action fantasy film, and sequel to ''[[Aladdin (2019 film)|Aladdin]]''.<ref name="Variety">{{Cite web|url=https://variety.com/2020/film/news/aladdin-sequel-1203502713/|title='Aladdin’ Sequel in the Works (EXCLUSIVE)|website=Variety|date=[[February 12]], [[2020]]}}</ref>
+
+==Production==
+On [[February 12]], [[2020]], it was announced via ''Variety'', that a sequel was in development, for the live-action remake of ''[[Aladdin (2019 film)|Aladdin]]''. Dan Lin and Jonathan Eirich, who produced the original, were confirmed to return, with Ryan Halprin, also acting as an executive producer. The film was also confirmed to be a theatrical release and not a [[Disney+]] title.<ref name="Variety"/>
+
+==Trivia==
+*The sequel will be an original story, and not a remake of ''[[The Return of Jafar]]'', the sequel to the [[Aladdin (film)|original animated film]].<ref>{{Cite web|url=https://comicbook.com/movies/2020/02/13/aladdin-2-to-be-original-story-wont-be-based-on-return-of-jafar/|title=Aladdin 2 to Be Original Story, Won't Be Based on Return of Jafar|website=Comic Book|date=[[February 13]], 2020}}</ref>
+*This will be the third sequel to a live-action [[Disney Remakes|Disney remake]], following ''[[102 Dalmatians]]'' and ''[[Maleficent: Mistress of Evil]]''.
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{Aladdin}}
+[[Category:Aladdin]]
+[[Category:Live-action films]]
+[[Category:Sequel films]]
+[[Category:Disney films]]
+[[Category:Disney Princess Films]]
+[[Category:Upcoming]]

@@ -1,0 +1,1656 @@
+{{Top|real|can|title=''Star Wars'': Episode VII ''The Force Awakens''}}
+{{Otheruses|Star Wars: Episode VII The Force Awakens|more=Star Wars Episode VII (disambiguation)|more2=Star Wars 7}}
+{{Movie
+|image=[[File:Star_Wars_Episode_VII_The_Force_Awakens.jpg]]
+|movie name=''Star Wars'': Episode VII<br />''The Force Awakens''
+|director=[[J.J. Abrams]]<ref name="Credits">''Star Wars'': Episode VII ''The Force Awakens'' credits</ref>
+|producer=*[[Kathleen Kennedy]]<ref name="Credits" />
+*J.J. Abrams<ref name="Credits" />
+*[[Bryan Burk]]<ref name="Credits" />
+*[[John Swartz]]<ref name="Credits" />
+*[[Lawrence Kasdan]] {{C|consultant}}<ref name="Credits" />
+*[[Simon Kinberg]] {{C|consultant}}<ref name="Credits" />
+|writer=*Lawrence Kasdan<ref name="Credits" />
+*J.J. Abrams<ref name="Credits" />
+*[[Michael Arndt]]<ref name="Credits" />
+|starring=*[[Harrison Ford]]<ref name="Credits" />
+*[[Mark Hamill]]<ref name="Credits" />
+*[[Carrie Fisher]]<ref name="Credits" />
+*[[Adam Driver]]<ref name="Credits" />
+*[[Daisy Ridley]]<ref name="Credits" />
+*[[John Boyega]]<ref name="Credits" />
+*[[Oscar Isaac]]<ref name="Credits" />
+*[[Lupita Nyong'o]]<ref name="Credits" />
+*[[Andy Serkis]]<ref name="Credits" />
+*[[Domhnall Gleeson]]<ref name="Credits" />
+*[[Anthony Daniels]]<ref name="Credits" />
+*[[Peter Mayhew]]<ref name="Credits" />
+*[[Max von Sydow]]<ref name="Credits" />
+|music=[[John Williams]]<ref name="Credits" />
+|release date=[[December 18]], [[2015]]<ref name="Release Date">{{SW|url=news/star-wars-episode-vii-to-open-december-18-2015|text=Star Wars: Episode VII to Open December 18, 2015}}</ref>
+|runtime=135 minutes<ref name="Runtime Fandango">{{Cite_web|url=https://www.fandango.com/star-wars-the-force-awakens-169229/movie-overview|title=Star Wars: The Force Awakens (2015)|publisher=Fandango|archivedate=20200108174250}}</ref>
+|budget=$200 million {{C|estimated}}<ref name="Budget">{{Cite_web|url=https://www.digitalspy.com/movies/a538457/star-wars-episode-7-script-still-not-finalised|title=Star Wars Episode 7 script still not finalized - Movies News - Digital Spy|author=Armitage, Hugh|date=2013-12-16|work=Digital Spy|publisher=Hearst Magazines UK|archivedate=20190322130203}}</ref>
+|language=English<ref name="Credits" />
+|timeline=[[34 ABY]]<ref name="TFA VD Date">''[[Star Wars: The Force Awakens: The Visual Dictionary]]'' dates the events of the movie to 30 [[Standard year|years]] after [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']], which happen in [[4 ABY]], per ''[[Star Wars: Galactic Atlas]]''.</ref>
+|series=[[Sequel trilogy]], [[Star Wars saga|''Star Wars'' saga]]
+|preceded by=[[Star Wars: Episode VI Return of the Jedi|Episode VI ''Return of the Jedi'']]
+|followed by=[[Star Wars: Episode VIII The Last Jedi|Episode VIII ''The Last Jedi'']]}}
+{{Quote|There's been an awakening. Have you felt it?|audio=An_Awakening.ogg|Supreme Leader Snoke|<ref name="TFA">{{Film|VII}}</ref>}}
+'''''Star Wars'': Episode VII ''The Force Awakens''''', marketed as '''''Star Wars: The Force Awakens''''', is a [[2015]] film directed by [[J.J. Abrams]]; co-written by Abrams, [[Lawrence Kasdan]], and [[Michael Arndt]]; and produced by [[Lucasfilm Ltd.|Lucasfilm]] president [[Kathleen Kennedy]] and [[Bad Robot Productions]]. It is the first part of the ''[[Star Wars]]'' [[sequel trilogy]]. The film stars [[Harrison Ford]], [[Mark Hamill]], [[Carrie Fisher]], [[Anthony Daniels]], and [[Peter Mayhew]] reprising their original roles. The original actors are joined by a host of new actors including [[Daisy Ridley]], [[John Boyega]], [[Adam Driver]], and [[Oscar Isaac]].
+
+The story begins thirty [[Standard year|years]] after the events of [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]. The [[First Order]] has risen from the ashes of the [[Galactic Empire]] and is opposed by [[General]] [[Leia Skywalker Organa Solo|Leia Organa]] and the [[Resistance]], both of which seek to find the missing [[Jedi Master]] [[Luke Skywalker]]. In the midst of this search, new heroes rise in the form of [[Rey Skywalker|Rey]], a 19 year-old girl and a [[Force-sensitive]] [[scavenger]] from [[Jakku]]; [[Finn]], a [[Stormtrooper (First Order)|stormtrooper]] who defected from the First Order; and [[Poe Dameron]], the best [[pilot]] in the Resistance. They are aided by [[Han Solo]] in their search for Skywalker and their mission to destroy the First Order's new [[superweapon]], [[Starkiller Base]], which targets the [[New Republic]] and the Resistance for destruction. They are opposed by villains such as [[Ben Solo|Kylo Ren]], a dark warrior with a mysterious past; and General [[Armitage Hux]], the commander of Starkiller Base.
+
+Despite initially claiming that the ''Star Wars'' story ended with the redemption of [[Anakin Skywalker]] in ''Return of the Jedi'', and after spending years refuting speculation that there would be another film, ''Star Wars'' creator [[George Lucas]] began work on Episode VII in [[2011]] in order to increase the value of Lucasfilm before he sold it to [[The Walt Disney Company]], although Disney would later elect to not use Lucas' story. The acquisition was finalized on [[October 30]], [[2012]]. Disney and Lucasfilm officially announced Episode VII and the sequel trilogy the same day. Lucasfilm later announced that the film would be an original story not beholden to the continuity of the ''Star Wars'' Expanded Universe, which was rebranded as the non-canon [[Star Wars Legends|''Star Wars'' Legends]].
+
+''The Force Awakens'' was released on [[December 17]], 2015 in the United Kingdom, Mexico, Latin America, and Asian countries; [[December 18]], 2015 in North America; and [[January 9]], [[2016]] in China. Some North American theaters offered special limited advance showings on the evening of December 17th rather than the traditional midnight showing. The film received widespread critical praise upon its release and was a massive box office success, becoming the highest grossing film of all time in North America when not adjusted for inflation. Worldwide, the film was the third highest-grossing film of all time at the time of its release (behind ''Avatar ''and ''Titanic''). It is currently the fourth highest-grossing film of all time (behind ''Avengers: Endgame'', ''Avatar ''and ''Titanic'').
+
+==Opening crawl==
+{{Opening crawl
+|name=Episode VII<br />THE FORCE AWAKENS
+|text=Luke Skywalker has vanished.
+In his absence, the sinister
+FIRST ORDER has risen from
+the ashes of the Empire
+and will not rest until
+Skywalker, the last Jedi,
+has been destroyed.
+
+With the support of the
+REPUBLIC, General Leia Organa
+leads a brave RESISTANCE.
+She is desperate to find her
+brother Luke and gain his
+help in restoring peace
+and justice to the galaxy.
+
+Leia has sent her most daring
+pilot on a secret mission
+to Jakku, where an old ally
+has discovered a clue to
+Luke's whereabouts....}}
+
+==Synopsis==
+===[[Attack on Tuanul]]===
+{{Quote|We got company.|Poe Dameron|<ref name="TFA" />}}
+[[File:Flametroopers_destroy_Tuanul.png|thumb|left|250px|[[Flametrooper]]s open fire on the village of Tuanul.]]
+Approximately 30 [[Standard year|years]] after the [[Battle of Endor|destruction of the second Death Star]], [[Luke Skywalker]], the last known surviving [[Jedi Master]] has disappeared. Both the [[First Order]], a successor to the fallen [[Galactic Empire]], and the [[Resistance]], a military force backed by the [[New Republic]] led by Luke's twin sister, [[General]] [[Leia Skywalker Organa Solo|Leia Organa]], [[Hunt for Lor San Tekka|scour]] the galaxy in an attempt to find him.
+
+Leia sends Resistance [[Resistance pilot|pilot]] [[Poe Dameron]] on a secret mission to the village of [[Tuanul]] on the [[desert]] [[planet]] [[Jakku]], to meet with village elder [[Lor San Tekka]], who has obtained a [[Map to Skywalker|map]] to Luke Skywalker's location. During the meeting, First Order [[Stormtrooper (First Order)|stormtroopers]] under the command of [[Ben Solo|Kylo Ren]] and [[Captain]] [[Phasma]] attack the village. Poe and his [[astromech droid]] [[BB-8]] attempt to flee in their [[T-70 X-wing starfighter]], but a pair of stormtroopers disable the [[engine]]s with their [[blaster]]s. With no alternative, Poe gives the map to BB-8 and orders the [[BB-series astromech droid|BB unit]] to flee. Poe remains behind to cover BB-8's escape.
+
+After stormtrooper [[Finn|FN-2187]] is deployed, [[FN-2003]] is hit with blaster fire by Poe. FN-2187 goes to help his squadmate, but FN-2003's wound proves fatal, and in his final moments, FN-2003 smears his blood on FN-2187's helmet before dying, deeply affecting FN-2187. After securing the area, the remaining villagers are herded into the town square. Tekka is captured and brought before Kylo Ren, who demands to know where the map leading to Luke is. Tekka responds that he knows who Ren used to be, and chides Ren that he cannot escape his real identity. Growing impatient, Ren kills Tekka by striking him down with his [[Kylo Ren's lightsaber|lightsaber]].
+
+Poe takes a shot at Ren from cover, but Ren casually stops the blaster bolt in mid-air with [[the Force]]. Poe is captured, and Ren decides to interrogate him further back on their ship. Before leaving, Phasma asks what to do with the crowd of captive villagers, and Ren orders them all slaughtered. Stormtrooper FN-2187 is horrified as the massacre plays out in front of him, remaining motionless and not firing his weapon.
+
+===Return to the ''Finalizer''===
+{{Quote|The Resistance will not be intimidated by you!|Poe Dameron to Kylo Ren|<ref name="TFA" />}}
+[[File:Kylo_tortures_Poe_Dameron.png|thumb|right|250px|Kylo Ren probes Poe Dameron for information about the map.]]
+Returning to the [[Resurgent-class Star Destroyer|''Resurgent'']][[Resurgent-class Star Destroyer|-class Star Destroyer]] ''[[Finalizer]]'', FN-2187 is overwhelmed with emotions because of the death of his squadmate and the massacre of the villagers. He ducks inside an empty shuttle to take his helmet off, breathing heavily, but Phasma notices him and tells him to submit his blaster for inspection, having earlier noticed that he did not fire a shot. Knowing he would be punished and re-evaluated for not firing on the villagers, and with his faith in the First Order severely shaken, he decides to desert. Meanwhile, after failed attempts of torturing Poe for vital information about the map of Luke Skywalker's location, Ren uses his [[Mind probe (Force power)|mind probe]] Force power to pry the information from Poe's mind. Ren learns that the map is located within a BB series droid that fled the village, and informs General [[Armitage Hux]] of the new information.
+
+===Encounter with the scavenger===
+{{Quote|Classified. Really? Me too. Big secret.|Rey to BB-8|<ref name="TFA" />}}
+[[File:Rey_encounters_BB-8_Ver2.png|thumb|left|250px|Rey encounters BB-8 in the deserts of Jakku.]]
+Elsewhere on Jakku, a [[scavenger]] named [[Rey Skywalker|Rey]] traverses the corridors of a downed ''[[Imperial II-class Star Destroyer|Imperial II]]''[[Imperial II-class Star Destroyer|-class Star Destroyer]] at the [[Starship Graveyard|Graveyard of Giants]]. Scavenging through the Imperial Star Destroyer, she finds a valuable piece of salvage and drops it in her satchel. Rey heads to [[Niima Outpost]], and hauls the sack of salvage throughout the town. She then goes to [[Unkar Plutt]] to exchange her scraps for [[foodstuff]], and he offers her a quarter portion for her salvage. After taking the foodstuff, Rey heads to her home, a downed [[All Terrain Armored Transport|AT-AT]], and prepares a meal for herself. After finishing her meal, she watches a [[starship]] depart from the planet and then notices a distant sound. She immediately runs off with her [[quarterstaff]] to investigate.
+
+There, she encounters BB-8 struggling against being captured by a [[Color|green-skinned]] [[humanoid]] scavenger named [[Teedo (Niima Outpost)|Teedo]]. She frees the [[droid]] and gives it directions to Niima Outpost and sends it on its way, but BB-8 insists on traveling with her. Rey goes to Unkar Plutt to again exchange her salvage for foodstuff, and the [[Crolute]] offers to buy BB-8 for sixty food portions; while tempted, Rey declines the offer. Plutt then sends two thugs to steal BB-8.
+
+===Escape from the ''Finalizer''===
+{{Quote|You do exactly as I say and I can get you out of here.|FN-2187 to Poe Dameron|<ref name="TFA" />}}
+[[File:Finn_and_Poe_Escape_Finalizer.png|thumb|right|250px|FN-2187 and Poe Dameron walk through the halls of the ''Finalizer'' to escape.]]
+Needing a pilot to escape, FN-2187 frees the captured Poe Dameron from his cell, and the two steal a [[TIE/sf space superiority fighter |TIE/sf fighter]]. FN-2187 mans the guns, killing several of his former comrades in the hangar, and then disables the ''Finalizer''{{'s}} [[turbolaser]]s on the outside of the vessel. During the escape, Dameron asks the stormtrooper his name, to which he explains that he has been raised from birth to be a stormtrooper, and the serial number "FN-2187" is the only designation he has ever had. Not content with calling a man a number, Dameron names the trooper "Finn", from the FN in his name. Finn likes the name, and goes on to use it. Dameron also tells him that the map vital to the Resistance was located within his astromech droid. Before they can continue their conversation and escape, the TIE is hit by a missile fired from the ''Finalizer'', sending it spiraling towards the planet below.
+
+Phasma reveals to Hux that this was FN-2187's first offense of non-conformity. A technician then informs Hux that the TIE fighter was projected to crash on [[Goazon Badlands]], a canyon zone on Jakku. Realizing that Poe and Finn were going after BB-8, Hux sends out a squadron of search teams to the area.
+
+===[[Escape from Jakku]]===
+{{Quote|"What about that ship?"<br />"That one's garbage!"|Finn and Rey about the ''Millennium Falcon''|<ref name="TFA" />}}
+[[File:Finn_and_Rey_Jakku_Escape.png|thumb|left|250px|Finn and Rey observe nearby Stormtroopers that are looking for BB-8.]]
+Finn and Dameron eject from the TIE shortly before it crashes, each landing separately some distance from the wreckage. Making his way to the crash, Finn finds Poe's [[Resistance fighter jacket|jacket]], but no other sign of the man, and the fighter sinks into the sand. Believing Dameron to be dead, Finn begins wandering through the desert, discarding his stormtrooper armor along the way and eventually arriving at the nearest settlement, thirsting for water.
+
+While Finn staggers to an animal trough to desperately slake his thirst, he notices thugs attempting to steal a BB unit droid, which Finn recognizes as BB-8, from a woman, Rey, but she fends them off with her staff. BB-8 notices Finn, wearing his master Dameron's jacket, prompting Rey to chase after him. Rey attacks Finn, believing him to be a thief. Finn explains that he had met and helped Poe escape the Resurgent Star Destroyer, but that Dameron had apparently perished during their crash. The First Order tracks Finn to the settlement, and launches an airstrike in attempt to search for BB-8 and the map. Rey, Finn, and BB-8 attempt to flee towards a [[TUG-b13|Quadjumper]], but [[TIE/fo space superiority fighter |TIE/fo fighters]] destroy it. With only one option left, the trio manages to escape in the ''[[Millennium Falcon]]''. Rey flies it through the Graveyard of Giants, while Finn fires on and destroys the pursuing TIE fighters. With the TIE fighters destroyed, they escape into space.
+
+Back aboard the ''Finalizer'', Lieutenant [[Dopheld Mitaka]] informs Kylo Ren that the droid escaped on a stolen freighter and that it was aided by the deserter FN-2187. Ren activates his lightsaber and lashes out in a rage-fueled tantrum, slashing at an instrument panel uncontrollably. Mitaka tells Ren that they also appear to have been helped by a local scavenger girl. Kylo grows even more livid, using the Force to pull the officer by his throat across the room in order to choke him with his bare hands, and asking him what girl it was.
+
+===Reunited with the ''Falcon''===
+{{Quote|Chewie, we're home.|Han Solo to Chewbacca|<ref name="TFA" />}}
+[[File:HanandChewie-TFA.png|thumb|right|250px|Han and Chewie are reunited with the ''Millennium Falcon'' once again.]]
+While Finn and Rey celebrate their escape from Jakku, the ''Millennium Falcon'' breaks down. The ship is in major need of repairs, so Finn, Rey and BB-8 begin working to fix it. While they are working on repairs, the ship is caught in a [[tractor beam]] by a freighter. Although they initially believe themselves to be captured by the First Order, they soon meet their real captors: [[Han Solo]] and [[Chewbacca]], the former owners of the ship. Upon boarding their old vessel, Han and Chewie go about inspecting their ship and find the two stowaways, Rey and Finn, who he assumes were the thieves that had stolen the ''Falcon''. When Rey and Finn explain that they were going to take a droid named BB-8 to the Resistance because it has a map that would reveal Luke's location, Han and Chewie agree to help them.
+
+===[[Skirmish aboard the Eravana|Skirmish aboard the ''Eravana'']]===
+{{Quote|Your game is old. There's no one in the galaxy left for you to swindle.|Bala-Tik to Han Solo|<ref name="TFA" />}}
+[[File:Han_and_Chewie_Eravana.png|thumb|left|250px|Han attempts to talk his way out of a confrontation between two gangs.]]
+Unfortunately, Han's freighter, the ''[[Eravana]]'', is boarded by two notorious criminal factions, the [[Guavian Death Gang]] and [[Kanjiklub]], both of whom want their money back from Solo. Not wanting Rey and Finn to be involved, Han hides both of them in the lower corridors of the freighter while he and Chewie go meet with the criminals, with BB-8 accompanying them. Han tries but fails to convince both parties that he would fix things eventually, with the Guavian Death Gang negotiator, [[Bala-Tik]], recognizing the BB-8 astromech droid from a First Order bounty placed on it. They demand that Han hand over the droid and any stowaways he might have on board. As the scuffle continues, Rey accidentally releases three [[rathtar]]s. The rathtars provide a distraction for Han and Chewie to escape, but one catches Finn and drags him around the freighter. Rey finds a control panel and shuts a blast door on the rathtar, freeing Finn. The two join Han and Chewie and successfully jump to [[hyperspace]] in the ''Falcon''. Bala-Tik then orders his men to inform the First Order that Han Solo and the BB unit are aboard the ship.
+
+===Meeting with the Supreme Leader===
+{{Quote|Our strategy must now change.|Snoke to General Armitage Hux|<ref name="TFA" />}}
+[[File:Kylo_Ren_and_Snoke.png|thumb|right|250px|Kylo Ren and Supreme Leader Snoke discuss the recent turn of events.]]
+At [[Starkiller Base]], a planet converted into a [[superweapon]], powered by draining the energy of a star, and capable of destroying star systems, Kylo Ren and General Hux are summoned by [[Supreme Leader]] [[Snoke]], who appears as a large remote [[hologram]] projection. Hux suggests using the Starkiller superweapon to destroy the government of the New Republic and the Resistance, and Snoke grants him the permission to do so. Snoke reveals to Ren that the astromech droid containing the map now resides in the ''Millennium Falcon'' - along with his father, Han Solo. Ren insists that his father means nothing to him, and with Snoke's training, he would not be seduced to the [[light side of the Force]].
+
+===Journey to Takodana===
+{{Quote|Want to get BB-8 to the Resistance? Maz Kanata is our best bet.|Han Solo to Finn and Rey|<ref name="TFA" />}}
+[[File:Maz_Kanatas_Castle_Takodana.png|thumb|left|250px|Han, Rey, Finn, and BB-8 arrive at Maz Kanata's castle.]]
+During the travel in hyperspace, the ''Falcon'' experiences a problem with its hyperdrive, but Rey demonstrates her knowledge of ships by bypassing the compressor and fixing the issue. Meanwhile, Finn attempts to bandage Chewie's arm, which was wounded while fighting on the ''Eravana''. After fixing the ship, Han questions Finn and Rey, wondering why they are fugitives. Rey explains that the First Order is after the map located within BB-8 and that Finn is with the Resistance.
+
+After BB-8 displays a projection of the map, Han explains that after Luke disappeared, there were many parties that went searching for him. Luke had tried to rebuild the Jedi Order, but an apprentice of his turned to the dark side, destroying all that Luke had built and killing the other [[padawan]]s that Luke had trained. Feeling responsible and blaming himself for the failure, Luke went into exile. Han also explains that he heard rumors that Luke went searching for the [[first Jedi Temple]].
+
+Solo explains that he was able to find the ''Millennium Falcon'' soon after it entered space because he and Chewbacca were scanning for its signature. This was also why the criminal gangs were able to track it down so quickly, and meant the First Order could track it as well. In order to bring BB-8 to the Resistance, they needed to switch to a clean ship, which Han says he can obtain from an old friend.
+
+Solo takes Rey, Finn, and BB-8 to the planet [[Takodana]] to meet with [[Maz Kanata]] at her [[Takodana Castle|castle]]. Han says that she has maintained her castle for over a thousand years, where she runs a bustling cantina. Unbeknownst to all, spies from different sides take notice of the group. [[GA-97]] alerts the Resistance that the BB unit has been located, while [[Bazine Netal]] informs the First Order of the same.
+
+===The conflict within===
+{{Quote|Forgive me. I feel it again... the pull to the light. Supreme Leader senses it. Show me again, the power of the darkness, and I will let nothing stand in our way. Show me, Grandfather, and I will finish what you started.|Kylo Ren to Darth Vader's helmet|audio=The_Pull_to_the_Light.ogg|<ref name="TFA" />}}
+[[File:Kylo_Ren_Vader_Helmet_Chamber.jpg|thumb|right|250px|Kylo Ren seeks guidance from his grandfather, Darth Vader.]]
+Attempting to seek guidance from his grandfather, [[Anakin Skywalker|Darth Vader]], Kylo Ren sits quietly in his meditation chamber. In front of him is the burned helmet of Vader, recovered from the funeral pyre on [[Endor]]. With the re-emergence of his father and Snoke's orders to kill him, Kylo feels an internal struggle within himself. He reveals to Vader's burned helmet that the light is pulling him in again and that even Snoke could sense it. He then asks his grandfather to show him the power of the darkness again, to pull him back to the [[dark side of the Force]] and help him overcome his future trials.
+
+===A call from the Force===
+{{Quote|Rey... these are your first steps.|The voice of [[Obi-Wan Kenobi]] during Rey's vision|<ref name="TFA" />}}
+Han and Chewie speak with Maz. Finn arranges with [[Sidon Ithano]] and his first mate [[Quiggold]] that he will work as payment if they will fly him to the [[Outer Rim Territories|Outer Rim]]. Rey implores Finn not to leave, but instead to help her find the Resistance. Finn, however, insists on leaving, and that there is no way to defeat the First Order. He also admits that he lied about being in the Resistance. He tells his story that he was a stormtrooper in the First Order. He had deserted after his first battle because he didn't want to kill unarmed villagers, for the First Order.
+
+After Finn leaves, Rey hears the screaming of a young girl. She follows the screams. She descends deeper and enters a chamber that contains many relics from the past. The Force calls her to Maz's curio box, an ancient [[Wroshyr wood|''Wroshyr'' wood]] chest. Inside it, she finds the [[Skywalker lightsaber|lightsaber]] that had previously belonged to Anakin Skywalker and his son Luke.
+
+[[File:Force_Vision_of_Jedi_Massacre_TFA.png|thumb|left|250px|Luke Skywalker and R2-D2 as seen in Rey's Force vision.]]
+Upon touching the lightsaber, she receives a series of [[Force vision|visions]]. Rey sees [[Cloud City]] and sees that there [[Duel on Cloud City|Luke duelled Darth Vader]]. She sees Luke placing his metallic hand on top of [[R2-D2]] near a fire, (presumed to be Luke's burning [[Jedi Temple of Luke Skywalker|Jedi temple]]). Next, she is lying on the ground, in the rain at night. Corpses lay around the [[Knights of Ren]] who slaughtered these victims. Kylo Ren notices and comes toward her. Before he reaches her, she sees herself as a child yelling, to her parents to stay on Jakku. When her parents were leaving Jakku, Unkar Plutt told her to quiet herself. Next, she sees Ren is chasing her in a snowy forest, in the future. Rey pulls herself out of the vision in terror. After the vision, she finds Kanata standing outside the room. Kanata explains to her the lightsaber's history and that it was calling to her. Kanata then reveals that she herself is Force-sensitive; although she was never a Jedi, she can simply close her eyes and feel the light of the Force within herself, and recognizes that Rey can do this too. Frightened by her vision, Rey runs into the woods with BB-8.
+
+===[[Hosnian Cataclysm]]===
+{{Quote|Today is the end of the Republic! The end of a regime that acquiesces to disorder!|General Armitage Hux|<ref name="TFA" />}}
+[[File:Hux_and_Starkiller_Base.png|thumb|250px|General Hux commands the firing of the Starkiller superweapon.]]
+After gaining Supreme Leader Snoke's permission to fire the Starkiller superweapon, Hux chooses the [[Hosnian system]], which hosts the capital of the New Republic, [[Hosnian Prime]], as well as the [[New Republic Defense Fleet]], in order to demonstrate the power of the First Order in an attempt to wipe out the "illegitimate" government of the New Republic in one fell swoop. The test is a success and Hosnian Prime, the current elected home of the [[New Republic Senate|Galactic Senate]], all other astronomical bodies in the system, and an unknown percentage of the New Republic fleet are annihilated by the First Order's superweapon. The destruction of the Hosnian system is visible from the surface of Takodana. Shaken by the destruction, Finn re-evaluates his choice to leave.
+
+===[[Battle of Takodana]]===
+{{Quote|I need a weapon!''"<br />"''You have one!|Finn and Maz Kanata|<ref name="TFA" />}}
+[[File:Pirate_castle_sacked.png|thumb|left|250px|Rey watches as Maz Kanata's castle is fired upon by the First Order.]]
+The First Order, tipped off to BB-8's presence, arrives and attacks Maz Kanata's castle. Flying in with TIE fighters and [[AAL-1971/9.1 Troop Transport|Atmospheric Assault Landers]], the First Order swiftly assaults the castle and levels it, killing many of its inhabitants. Maz gives Luke's old lightsaber to Finn for safekeeping, telling Han she doesn't have time to tell him how she retrieved it. BB-8 follows Rey into the forests surrounding the castle, and the First Order is unable to locate the droid until a stormtrooper officer reports to Kylo Ren that the astromech had been sighted in the company of a girl.
+
+During the fighting at the castle, Finn wields the lightsaber to kill one stormtrooper before he is overpowered by [[FN-2199]], a former squadmate of Finn's. His life is narrowly saved by Han, who uses Chewbacca's bowcaster to blast FN-2199 at the last second. Han and Chewbacca also kill multiple stormtroopers, but are captured along with Finn by the First Order. However, Resistance T-70 X-wings led by Poe Dameron, who is now revealed to still be alive, arrive to fight the First Order. A fierce dogfight ensues and results in the destruction of many First Order TIE fighters and the deaths of many stormtroopers from X-wing strafing runs.
+
+Rey encounters Kylo Ren at the woods, and fires at him with her blaster pistol, but Kylo restrains her using the Force. Probing her mind, he discovers that she has seen the map he's been looking for all this time, and orders the First Order to pull out, saying they had what they came for and no longer need BB-8. As the battle rages on above the castle, the remaining First Order troops board their ships and retreat, and Han witnesses his son carrying an unconscious Rey away. The Resistance is victorious, freeing Finn, Han, and Chewbacca. Han and Leia are reunited, and Han reveals to Leia that he saw their son.
+
+===Reunited at the Resistance Base===
+{{Quote|If Luke couldn't reach him, how could I?''"<br />"''Luke is a Jedi, you're his father.|Han and Leia|<ref name="TFA" />}}
+[[File:Resistance_Base_with_Map.png|thumb|right|250px|Leia, Han, C-3PO, and the Resistance leaders observe the recovered map.]]
+Han, Chewbacca, and Finn are brought to the Resistance base on [[D'Qar]]. BB-8 encounters the astromech droid R2-D2, who, as [[C-3PO]] explains, has been dormant since Luke's disappearance. With the recovered map from BB-8 displayed on hologram, 3PO reveals that it is only partially complete, and that the map matches no charted system on record. It is revealed that Han and Leia are aware that their son is Kylo Ren, and that their son's fall to the dark side, despite Luke's efforts to guide him, caused them to separate, with Han returning to his smuggling business and Leia spearheading the activities of the Resistance.
+
+Upon finding the location of the Resistance base, the Starkiller begins draining the power of the sun to destroy D'Qar. Meanwhile, the Resistance plans an attack of their own. Finn gives them the Starkiller's blueprints, which reveal that the Starkiller drains the energy of a star in order to charge its primary weapon, and that it requires a [[thermal oscillator]], which sustains the energy on the planet, in order to function. If the thermal oscillator were destroyed, it would de-stabilize the planet's core and implode the base. However, they would need to do it before the First Order charges the Starkiller weapon and destroys D'Qar. Finn, Han, and Chewie volunteer to disable the base's defensive shield from the inside. Before departing to Starkiller Base, Han and Leia embrace, and Leia pleads Han to bring their son home.
+
+===Rey's capture===
+{{Quote|You're afraid... that you will never be as strong as Darth Vader!|Rey to Kylo Ren|<ref name="TFA" />}}
+Rey is brought to Starkiller Base and interrogated by Kylo Ren, who wants information on the map to Luke Skywalker. Ren takes off his helmet and shows her his face. Initially, Ren is able to see into Rey's mind, mentioning an island surrounded by water. However, the dark warrior has a difficult time probing her mind, and Rey is even able to push back into Ren's mind. After a mental struggle, Rey announces that she can sense fear in him - fear that he will never be as powerful as Darth Vader. Humiliated, Kylo storms out of the room to seek audience with Snoke.
+
+[[File:Rey_and_Stormtrooper.png|thumb|left|250px|Rey uses a mind trick on a stormtrooper to aid her escape.]]
+Left alone and aware of what just happened, Rey realizes it is as Kanata told her: she truly is [[Force-sensitive]]. She attempts to use a Jedi [[mind trick]] on her [[FN-1824|stormtrooper guard]], to make him release her and leave the door open. It doesn't work, but Rey tries again: this time he walks over and tells her he will tighten her restraints instead of undoing them. Concentrating, Rey tries one last time, and the stormtrooper listens to her demands. She quickly also remembers to have him drop his blaster as he leaves so she can arm herself. Rey then makes her way through Starkiller Base, honing her Force abilities while using stealth. She also draws on her experience climbing through wrecked Imperial starships to make her way through the bowels of the installation's machinery. Meanwhile, Kylo reveals to Snoke that Rey is strong with the Force but untrained, and Snoke commands Kylo to bring Rey to him. When Kylo discovers that Rey escaped, he throws another fit of rage, slashing at her empty restraint chair.
+
+===[[Battle of Starkiller Base]]===
+[[File:Battle_of_Starkiller_Base.png|thumb|right|250px|The battle over the trenches of Starkiller Base.]]
+Han Solo pilots the ''Millennium Falcon'' to Starkiller Base accompanied by Chewbacca and Finn. Finn's main objective is to rescue Rey from captivity. Since the Starkiller's shields have a fractional refresh rate, Han pilots through the shields at lightspeed, and the ''Falcon'' makes a rough landing at the edge of a cliff. Han, Chewbacca, and Finn sneak into the main base and capture Captain Phasma, whom they force to disable the shields before disposing of her in a [[Garbage compactor|garbage chute]]. They reunite with Rey, who had already escaped on her own. With the shields down, [[Blue Squadron (Resistance)|Blue Squadron]] and [[Red Squadron (Resistance)|Red Squadron]] led by [[Black Leader]] Poe Dameron commence their assault. They fire on the Starkiller's hexagonal oscillator structure, but fail to destroy it as the First Order sends TIE fighters to stage a counterattack and throw the Resistance into chaos.
+
+[[File:HanSoloAndSon.png|thumb|left|250px|Han attempts to convince his son to abandon the dark side.]]
+Seeing this, Han, Chewbacca, Finn, and Rey try to create an opening by planting thermal detonators inside the base. Sensing his father's presence, Kylo goes to meet Han. Han then confronts his son, Kylo Ren, calling to him by his birth name, "Ben". They approach each other on a bridge over a large pit, and Han pleads with his son to reject Snoke and return to the light side of the Force. Ben, removing his mask and seeming regretful and scared, holds out his lightsaber to Solo, asking for his father's help. Han replies that he would do anything for him, but when he tries to retract the lightsaber from Ben's hand, he resists. Ben then twists the angle of the hilt and ignites the weapon through Han's torso. Witnessed by Rey, Finn, and Chewbacca, Han strokes his son's face for the last time, before falling to his death. Enraged, Chewbacca, Rey, and Finn start firing at Ren and the stormtroopers. As the firefight rages, back on D'Qar Leia has to sit down when she feels Han die through the Force, squeezing her eyes shut against the tears. Chewbacca injures Ren with his bowcaster, but Ren chases them out of the base and catches up to Finn and Rey in the forest.
+
+[[File:Kylo_Ren_duels_Finn.png|thumb|right|250px|Kylo Ren locks sabers with the former stormtrooper.]]
+Rey calls Ren a monster and then proceeds to shoot him with her blaster, but Ren knocks Rey out by Force pushing her into a tree. A desperate and terrified Finn comes to her aid immediately. Ren angrily accuses Finn of being a traitor, and Finn pulls out Luke's old lightsaber and attacks him in a rage. Ren is already badly injured, bleeding out of his abdomen from the bowcaster wound, but even so is too much for Finn. Finn manages to deal him a glancing wound, but nonetheless Ren quickly overpowers the former stormtrooper and deals him a grievous injury to his back. Ren tries to use [[telekinesis]] to pick up the lightsaber his grandfather built, but it resists his pull and instead flies to Rey, who has awakened from her stupor.
+
+[[File:Poe_blowing_up_Starkiller_Base.png|thumb|left|250px|Poe flies in and destroys the Starkiller's thermal oscillator.]]
+During this time, Chewie detonates the thermal detonators in the base, allowing Poe to lead a squadron of X-wings into the trenches of Starkiller Base. Poe finds an opening in the thermal oscillator and enters, while a following TIE crashes, unable to execute the same flight maneuver. Inside, Poe fires volley after volley of [[Proton torpedo|torpedoes]] into the oscillator, destroying the Starkiller's thermal oscillator thirty seconds before it finishes draining the sun to completely charge its primary weapon. This causes a chain reaction to go off, which destroys the base and levels the entire planet's terrain - without the weapon to dissipate it, the stored solar energy begins tearing the planet apart from the inside.
+
+[[File:Kylo_Ren_duels_Rey.png|thumb|right|250px|Rey and Kylo Ren duel on Starkiller Base.]]
+Rey and Ren continue fighting: Ren has taken even more wounds, from Chewbacca, Finn, and Rey, but even so initially holds the advantage, drawing on his rage to ignore the pain. Ren becomes so impressed with Rey that he tries to tempt her, complimenting her strength with the Force and offering to complete her training if she joins him. This backfires, however, as it only serves to reassure Rey of her own power, she begins to draw on the Force to hone her attacks, and the tide of the duel shifts. Ultimately, Rey is able to overpower Ren and deal him a severe wound to his face while severing his lightsaber in two. By this point, Kylo has taken too many wounds to continue standing, but he still struggles in vain to rise again. Before Rey can move in to finish him off, a large trench forms between them as the base begins to fall apart.
+
+Rey returns to Finn, despairing that Finn is not waking up and that they are trapped on the rupturing planet. However, Chewbacca arrives with the ''Millennium Falcon'' to rescue them. Inside the main base, chaos reigns as General Hux has already fled, and the other officers rush to abandon the installation as well. Hux, meanwhile, reports to Snoke, who orders him to rescue Ren and flee the base, so Ren can finish his training. The ''Millennium Falcon'' and the remainder of the Resistance fleet manage to escape Starkiller Base as it erupts into a ball of fire. They then enter hyperspace to return to D'Qar.
+
+===Locating Luke Skywalker===
+{{Quote|May the Force be with you.|Leia to Rey|<ref name="TFA" />}}
+The Resistance celebrates their victory while Leia, Chewbacca, and Rey mourn Han's death. R2-D2 suddenly awakens and reveals that he holds the map to Luke's location, with the only piece of the map missing being the one BB-8 was given by Poe. Together they complete the map and reveal the location of [[Ahch-To]], the planet on which Luke Skywalker sought out the first Jedi Temple. As the unconscious Finn recovers in the medical unit, Rey kisses him on the head and thanks him for everything.
+
+[[File:Luke_and_Rey_on_Ahch-To.png|thumb|left|250px|Rey finds Luke Skywalker on the oceanic planet of Ahch-To.]]
+With R2-D2 and Chewbacca in tow, Rey leaves on the ''Millennium Falcon'' and follows the map to the distant planet, a water world dotted with islands, which she had previously seen in her visions. Rey pilots the starship to a [[Temple Island|particular island]] with a large, ancient [[Jedi village|stone village]] on it. She climbs the rock-carved steps to the [[Saddle (Ahch-To)|top of the island]], where she finds Luke Skywalker. Without exchanging any words, Rey presents him with his father's lightsaber.
+
+==Development==
+{{Quote|I keep telling J.J. Abrams this is a $4 billion movie. We need to treat this very special. It's an unbelievable privilege and unbelievable responsibility to take a jewel and treat it in a way that is respectful of its past but brings it into the future.|Bob Iger|<ref name="Theme">{{Cite_web|url=https://variety.com/2014/biz/news/star-wars-theme-park-attractions-to-be-based-on-new-films-not-old-1201376154|title='Star Wars' Theme Park Attractions to Be Based on New Films, Not Old (EXCLUSIVE)|author=Graser, Marc|date=2014-12-10|work=Variety|publisher=variety.com|archivedate=20200701231726}}</ref>}}
+[[File:DisneyLucas.jpg|thumb|left|250px|The Disney acquisition of Lucasfilm from George Lucas paved the way for the creation of ''Star Wars'': Episode VII.]]
+On [[October 30]], [[2012]], [[The Walt Disney Company]] announced that it had purchased [[Lucasfilm Ltd.]], the production company behind the creation of the ''[[Star Wars]]'' franchise, from its owner, ''Star Wars'' creator [[George Lucas]], for $4.05 billion.<ref name="Disney press release">{{DisneyCompany|url=disney-news/press-releases/2012/10/disney-acquire-lucasfilm-ltd|text=DISNEY TO ACQUIRE LUCASFILM LTD.|archivedate=20121130230318}}</ref> The acquisition came in the wake of Lucas's announced retirement on [[May 31]],<ref name="Paste Magazine">{{Cite_web|url=http://www.pastemagazine.com/articles/2012/05/george-lucasretiring.html|title=George Lucas Announces Retirement|author=Farokhmanesh, Megan|date=2012-05-31|work=Paste Magazine|publisher=pastemagazine.com|archivedate=20120602152204}}</ref> and the subsequent [[June 1]] announcement that veteran film producer [[Kathleen Kennedy]] was succeeding Lucas as Lucasfilm's Co-Chair.<ref name="SW.com - Kathleen Kennedy">{{SWArchive|url=news/kathleen_kennedy_to_become_co-chair_of_lucasfilm-ltd.html|text=Kathleen Kennedy to become Co-Chair of Lucasfilm Ltd.|archivedate=20140322073032}}</ref> As part of the merger, Disney revealed that it planned to produce a [[sequel trilogy]] of films beginning in [[2015]], with Kennedy serving as executive producer.<ref name="Disney press release" /> Episode VII had already been in development for several months as of the Disney&ndash;Lucasfilm merger, and Lucas had written the story treatments for each of the three upcoming films.<ref name="The Future of Star Wars Movies">{{SW|url=news/new-video-series-a-discussion-about-the-future-of-star-wars|text=New Video Series: A Discussion About the Future of Star Wars}}</ref>
+
+===Writing===
+{{Quote|J.J. and I sat down to do it under a lot of pressure, did the first draft quickly but then I've been writing it ever since! So that's almost two-and-a-half years that we've been writing the thing, and the thing that's never changed was the idea that there is a spirit to the original trilogy that we wanted to restore.|[[Lawrence Kasdan]], in December 2015|<ref name="Kasdan Ghosts">{{Cite_web|url=http://www.craveonline.com/entertainment/933523-exclusive-interview-lawrence-kasdan-ghosts-star-wars|title=Exclusive Interview|Lawrence Kasdan and the Ghosts of Star Wars|author=Bibbiani, William|date=2015-12-14|archivedate=20170802034343}}</ref>}}
+Lucasfilm confirmed on [[November 9]] that pre-production had begun on ''Star Wars'': Episode VII, and that screenwriter [[Michael Arndt]] would write the script for the film.<ref name="Michael Arndt">{{SW|url=news/michael-arndt-to-write-screenplay-for-star-wars-episode-vii|text=Michael Arndt to Write Screenplay for ''Star Wars'': Episode VII}}</ref> By this time, Arndt had already turned in a forty- to fifty-page story treatment<ref name="Vulture - Star Wars: Episode VII Writer Confirmed">{{Cite_web|url=https://www.vulture.com/2012/11/star-wars-episode-vii-may-have-found-its-writer.html|title=Update: ''Star Wars: Episode VII'' Writer Confirmed|author=Brodesser-Akner, Claude|date=2012-11-08|work=Vulture|publisher=vulture.com|archivedate=20200807084536}}</ref><ref name="Hollywood Reporter - New Star Wars Movie Has Treatment">{{Cite_web|url=https://www.hollywoodreporter.com/heat-vision/new-star-wars-movie-has-387784|title=New 'Star Wars' Movie Has Treatment by 'Toy Story 3' Writer|author=Kit, Borys|date=2012-11-08|work=The Hollywood Reporter|publisher=hollywoodreporter.com|archivedate=20200807131201}}</ref><ref name="Hollywood Reporter - Michael Arndt to Write Episode VII">{{Cite_web|url=https://www.hollywoodreporter.com/heat-vision/new-star-wars-movie-michael-388424|title=New Star Wars Movie: Michael Arndt to Write 'Episode VII.' Lucasfilm Confirms|author=Kit, Borys|date=2012-11-09|work=The Hollywood Reporter|publisher=hollywoodreporter.com|archivedate=20200807173143}}</ref> At some point, Lucas's story outlines were set aside,<ref name="Treatments and Lessons">{{Cite_web|url=https://www.slashfilm.com/jj-abrams-interview-star-wars-the-force-awakens|title=Interview: J.J. Abrams Talks About Abandoning George Lucas' Treatments and Lessons of the Star Wars Prequels|author=Sciretta, Peter|publisher=Slashfilm|archivedate=20190328231105}}</ref> and a writer's room of sorts was assembled at a [[Wikipedia:Santa Monica, California|Santa Monica]] hotel. Those present included Arndt (still writing the script), [[Kiri Hart]], [[Lawrence Kasdan]], [[Kathleen Kennedy]] and [[Simon Kinberg]].<ref name="Kasdan-NYT">{{Cite_web|url=https://www.nytimes.com/2018/05/30/movies/star-wars-lawrence-kasdan.html|title=He's Tried to Leave 'Star Wars' Before. Will This Be It?|author=Itzkoff, Dave|date=2018-05-30|publisher=nytimes.com|archivedate=20180530223747}}</ref><ref>{{Cite_web|url=http://ew.com/article/2015/08/04/simon-kinberg-star-wars-plots|title=Simon Kinberg describes the brain trust that is plotting the next generation of ''Star Wars'' films|author=Stack, Tim|date=2015-08-04|publisher=[[Wikipedia:Entertainment Weekly|EW.com]]|archivedate=20180115195822}}</ref><ref name="Kasdan Ghosts" /> According to Kasdan, the sessions went on for months with little progress.<ref name="Kasdan-NYT" /> Abrams later described them as "a ton of ideas and outlines, a lot of cards on the wall, a lot of writing on whiteboards."<ref name="Genesis">{{Cite_web|url=https://www.vanityfair.com/hollywood/2015/05/star-wars-the-force-awakens-vanity-fair-cover|title=The Daring Genesis of J.J. Abrams's ''Star Wars: The Force Awakens''|author=Handy, Bruce|date=2015-09-01|publisher=Vanity Fair|archivedate=20200823053642}}</ref> Lucas was asked to be a consultant,<ref name="Disney press release" /> but he stepped away due to Disney's decision to take the story in a different direction than his original outlines.<ref>{{Cite_web|url=https://ew.com/article/2015/11/20/george-lucas-star-wars-force-awakens-breakup|title=George Lucas on new ''Star Wars'' film: 'They weren't keen to have me involved'|author=Breznican, Anthony|date=2015-11-20|publisher=''Entertainment Weekly''|archivedate=20200503114938}}</ref><ref name="DisneyRejection">{{Cite_web|url=https://www.cinemablend.com/new/How-George-Lucas-Star-Wars-7-Ideas-Were-Used-By-Disney-69271.html|title=How George Lucas' Star Wars 7 Ideas Were Used By Disney|author=Romano, Nick|date=2015-01-20|work=Cinema Blend|archivedate=20200731232823}}</ref> He later elaborated in an interview with [[Wikipedia:Stephen Colbert|Stephen Colbert]]: "The original saga was about the father, the children, and the grandchildren. I don't think that's a secret to anybody&mdash;that's in the novels&mdash;and the children were in their 20s and everything. But they've taken it in a different direction, and I'm excited&mdash;they didn't use my story, so I don't know what they're doing."<ref>{{Cite_web|url=http://www.denofgeek.us/tv/stephen-colbert/245556/stephen-colbert-never-wanted-to-host-the-daily-show-george-lucas-star-wars-the-force-awakens|title=Stephen Colbert Says He Never Wanted to Host The Daily Show|author=Crow, David|date=2015-04-18|publisher=denofgeek.com|archivedate=20150422022458}}</ref>
+
+Arndt worked on the script throughout 2013.<ref name="Team Scrambling">{{Cite_web|url=https://www.hollywoodreporter.com/news/star-wars-episode-vii-disney-651482|title=Star Wars: Disney CEO Bob Iger's Firm 2015 Date Leaves 'Episode VII' Team Scrambling|author=Siegel, Tatinana|date=2013-10-31|publisher=hollywoodreporter.com|archivedate=20200701064426}}</ref> Arndt was told to focus on the female lead, but he had difficulty balancing this with the prominance of Luke, so the creative team decided to remove Luke from most of the film and make him the character everyone was looking for.<ref name="EWR2">{{Cite_web|url=http://www.ew.com/article/2015/12/20/jj-abrams-answers-burning-question-about-r2-d2-star-wars-force-awakens|title=J.J. Abrams explains R2-D2's closing scene in ''Star Wars: The Force Awakens''|author=Breznican, Anthony|date=2015-12-20|work=Los Angeles Time|archivedate=20160101010830}}</ref> Eventually, Arndt was let go, and Kasdan was asked to co-write the script with [[J.J. Abrams]] (who had been announced as the film's director<ref name="JJConfirmed">{{SW|url=news/star-wars-is-being-kick-started-with-dynamite|text=Star Wars Is Being Kick-Started with Dynamite}}</ref>), for which they were allowed creative freedom to come up with a story.<ref name="KasdanAbrams">{{SW|url=news/master-filmmaking-team-announced-for-star-wars|text=Master Filmmaking Team Announced for ''Star Wars'': Episode VII}}</ref> In November 2013, Abrams and Kasdan started a new script, incorporating ideas that they each liked from the think tank. As Abrams told ''Vanity Fair'', "We said, Blank page. Page one. What do we desperately want to see?"<ref name="Genesis" /> Referring to the writer's room sessions, Kasdan told craveonline.com "&hellip;for nine months you talk about something, and then you go off and start from scratch again. You don't flush, you know?"<ref name="Kasdan Ghosts" /> Their writing process involved meeting up at cafes and restaurants and going on long walks through various major cities around the world&mdash;during which Abrams recorded their conversations on his phone.<ref name="Walk">{{Cite_web|url=https://ohmy.disney.com/insider/2015/12/09/how-star-wars-the-force-awakens-started-with-a-walk|title=How Star Wars: The Force Awakens Started With a Walk|date=2015-12-09|publisher=ohmy.disney.com|archivedate=20210126030209}}</ref><ref name="Genesis" /> They had put together a script by January 2014, though they were still working on major story elements even after production began that May.<ref name="Genesis" /> They were under pressure to deliver a script in a relatively short period of time, and some of the higher-ups reportedly requested that the film be delayed into 2016.<ref name="Team Scrambling" /> (Kennedy was among those who objected to the original May 2015 release date.<ref name="Genesis" />) Kasdan's son [[Jon Kasdan|Jon]] had uncredited writing contributions to the script,<ref>{{SW|url=news/solo-lawrence-and-jonathan-kasdan-interview|text=A Portrait Of The Scoundrel As A Young Man: Writers Lawrence And Jonathan Kasdan On ''Solo: A Star Wars Story''}}</ref> and Episode VIII director [[Rian Johnson]] requested Abrams change the ending by having R2-D2 (not BB-8) come to Ahch-To and for Luke not to be floating boulders as originally intended.<ref>{{Cite_web|url=https://ew.com/movies/2017/05/04/star-wars-rian-johnson-force-awakens-ending|title=''Star Wars: The Last Jedi'' director asked for a droid swap in ''The Force Awakens''|author=Breznican, Anthony|date=2017-05-04|work=Entertainment Weekly|archivedate=20200701101650}}</ref><ref>{{Cite_web|url=http://www.slashfilm.com/star-wars-the-force-awakens-original-ending|title='Star Wars: The Force Awakens' Original Ending Revealed|author=Bui, Hoai-Tran|date=2018-01-11|publisher=slashfilm.com|archivedate=20180126201831}}</ref>
+
+===Production===
+{{Quote|I've learned to be very careful about ''Star Wars''. If I say, 'There will be no skateboards in ''Star Wars''<nowiki/>'... that gets headlines.|Alan Horn, Disney Chairman|<ref name="AlanHorn">{{Cite_web|url=https://variety.com/2014/film/news/star-wars-casting-star-wars-abu-dhabi-1201160927|title=Disney's Alan Horn on Mastering the 'Star Wars'-ian Look'|author=Todd Spangler|date=2014-03-22|archivedate=20190811090055}}</ref>}}
+[[File:Episode_7_Cast.jpg|thumb|300px|The cast of ''Star Wars: The Force Awakens'']]
+''The Force Awakens'' began preliminary shooting in April 2014,<ref>{{Cite_web|url=https://www.hollywoodreporter.com/news/disney-chief-reveals-star-wars-693950|title=Disney Chief Reveals 'Star Wars: VII' Casting Almost Complete, Says Film Is Already Shooting (Video)|author=Appelo, Tim|date=2014-04-05|work=The Hollywood Reporter|archivedate=20200803220554}}</ref><ref>{{Cite_web|url=http://ew.com/article/2014/04/06/star-wars-vii-filming-cast|title='Star Wars: Episode VII' has already begun filming, says Disney's Alan Horn|author=Ray, Amber|date=2014-04-06|work=Entertainment Weekly|archivedate=20170901192324}}</ref> with second-unit work taking place in [[Wikipedia:Iceland|Iceland]] and [[Wikipedia:Abu Dhabi|Abu Dhabi]].<ref>{{Cite_web|url=https://www.visir.is/g/2014703199941/star-wars-tekin-upp-a-islandi-i-april|title=Star Wars tekin upp á Íslandi í apríl (Translation: Star Wars filmed in Iceland in April)|author=Gunnarsdóttir, Lilja Katrín|date=2014-03-19|publisher=visir.is|language=Icelandic|archivedate=20200810155019}} ([http://translate.google.com/translate?sl=is&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.visir.is%2Fstar-wars-tekin-upp-a-islandi-i-april%2Farticle%2F2014703199941&act=url Translated via Google Translate])</ref><ref>{{Cite_web|url=http://www.theforce.net/story/front/Alan_Horn_Confirms_Episode_VII_Filming_In_Abu_Dhabi_157530.asp|title=Alan Horn Confirms Episode VII Filming In Abu Dhabi|date=2014-04-22|work=TheForce.net|archivedate=20190804014929}}</ref><ref>{{Cite_web|url=https://www.bloomberg.com/video/everything-i-can-tell-you-about-stars-wars-horn-sq7qU_8eQmq38yaletf1DQ.html|title=Everything I Can Tell You About 'Stars Wars': Horn|date=2014-04-22|publisher=Bloomberg.com|archivedate=20140426005635}}</ref> On [[April 25]], Lucasfilm announced their plans for a new continuity that excluded the existing Expanded Universe, and confirmed that Episode VII and its sequels would not adhere to any existing continuity.<ref name="Canon Announcement">{{SW|url=news/the-legendary-star-wars-expanded-universe-turns-a-new-page|text=The Legendary ''Star Wars'' Expanded Universe Turns a New Page}}</ref> This was followed on [[April 29]] by the official release of the cast list for the movie. Mark Hamill, Carrie Fisher, Harrison Ford, [[Kenny Baker]], [[Peter Mayhew]], and [[Anthony Daniels]] would return to reprise their roles as the main characters of the original trilogy, and they would be joined by a number of new actors in leading roles: [[John Boyega]], [[Daisy Ridley]], [[Adam Driver]], [[Oscar Isaac]], [[Andy Serkis]], [[Domhnall Gleeson]], and [[Max von Sydow]].<ref name="Cast">{{SW|url=news/star-wars-episode-7-cast-announced|text=Star Wars: Episode VII Cast Announced}}</ref> Hamill remarked on returning to ''Star Wars'': "Part of the experience of [''Star Wars''] in my life was coming down from that, putting it behind me. We had a beginning, middle, and an end. And I certainly, in a million years, never expected to return. I thought, even if they do more trilogies, my story is over."<ref>{{Cite_web|url=https://ew.com/article/2014/12/15/star-wars-the-force-awakens-mark-hamill|title=Mark Hamill on his emotional return to 'Star Wars' and Luke Skywalker|author=Breznican, Anthony|date=2014-12-15|publisher=EW.com|archivedate=20200307002739}}</ref> [[Denis Lawson]] was asked to reprise his role as [[Wedge Antilles]] from the [[original trilogy]], but declined, initially stating that it would have "bored" him,<ref>{{Cite_web|url=https://www.thecourier.co.uk/news/local/perth-kinross/237277/new-star-wars-films-would-have-bored-me-says-scots-actor-denis-lawson|title=New Star Wars films 'would have bored me', says Scots actor Denis Lawson|date=2014-05-05|publisher=thecourier.co.uk|archivedate=20191004001542}}</ref> but later claiming that he had been busy on another project.<ref>{{Cite_web|url=https://www.bleedingcool.com/2017/12/09/denis-lawson-wedge-antilles-star-wars|title=Denis Lawson, Wedge Antilles from Star Wars, Did Not Reject Doing the New Films After All|author=Johnston, Rich|date=2017-12-09|publisher=bleedingcool.com|archiveurl=https://web.archive.org/web/20200810160805/https://bleedingcool.com/movies/denis-lawson-wedge-antilles-star-wars}}</ref>
+
+Principal photography was announced on [[May 10]], 2013, and began on [[May 16]], 2014 at the [[Wikipedia:United Kingdom|UK's]] [[Pinewood Studios]].<ref name="UKprod">{{SW|url=news/star_wars_feature_film_production_returns_to_the_uk|text=Star Wars Star Wars Feature Film Production Returns to the U.K.}}</ref><ref name="Set to Roll">{{SW|url=news/star-wars-episode-vii-set-to-roll-cameras-may-2014|text=Star Wars: Episode VII Set to Roll Cameras May 2014}}</ref><ref name="FB Prod Began">{{FacebookCite|profilelink=|url=photo.php?fbid=746518195399784|author=''Star Wars''|date=2014-05-16|description=Timeline Photos|quote=Officially begun, production has.|archivedate=20200515041518}}</ref><ref name="FB Pinewood Prod">{{FacebookCite|profilelink=|url=photo.php?fbid=746535818731355|author=''Star Wars''|date=2014-05-16|description=Timeline Photos|quote=Day one at Pinewood Studios.|archivedate=20200515041721}}</ref> For visual inspiration, Abrams looked at films directed by [[Wikipedia:John Ford|John Ford]], [[Wikipedia:Akira Kurosawa|Akira Kurosawa]], and [[Wikipedia:Terence Malick|Terrence Malick]].<ref>{{Cite_web|url=https://www.theguardian.com/film/2015/dec/10/jj-abrams-new-star-wars-movie-influenced-by-terrence-malick|title=JJ Abrams: new Star Wars movie 'influenced by Terrence Malick'|author=Child, Ben|date=2015-12-10|publisher=[[Wikipedia:The Guardian|''The Guardian'']]|archivedate=20190815172036}}</ref> [[Daniel Mindel]]&mdash;who had previously worked with Abrams as director of photography&mdash;returned to collaborate with the director on the film.<ref>{{Cite_web|url=https://www.bobafettfanclub.com/news/film-tv/exclusive-star-wars-episode-7-to-be-shot-on-film-by-dan-mindel|title=Star Wars Episode 7 to be Shot on Film by Dan Mindel|date=2013-08-22|publisher=Boba Fett Fan Club|archivedate=20200422025144}}</ref> Reportedly, one sequence was shot with [[Wikipedia:IMAX|IMAX]] cameras.<ref>{{Twitter|bad_robot|status/486628757780721664|[[Bad Robot Productions]]|quote=#bestformatever.|archivedate=20140709175744}}</ref><ref>{{Cite_web|url=https://variety.com/2014/film/features/with-interstellar-imax-hits-hollywoods-bigtime-1201341443|title=With 'Interstellar,' Imax Takes Aim at the Bigger Picture|author=Lang, Brent|date=2014-10-29|publisher=Variety|archivedate=20190811070846}}</ref> Although Peter Mayhew was able to reprise the role as Chewbacca,<ref>{{Cite_web|url=http://www.theforce.net/story/front/Chewbacca_Actor_Peter_Mayhew_Said_To_Return_For_Star_Wars_Episode_VII_157273.asp|title=Chewbacca Actor Peter Mayhew Said To Return For ''Star Wars'' Episode VII|date=2014-04-07|publisher=TheForce.net|archivedate=20190730030711}}</ref> some scenes had to be shot with a stunt double, due to Mayhew's age and physical health.<ref>{{Cite_web|url=http://ew.com/article/2015/08/13/star-wars-force-awakens-inside-return-han-solo/3|title=Star Wars: The Force Awakens: Inside Harrison Ford's return as Han Solo|author=Breznican, Anthony|date=2015-08-13|publisher=EW.com|archivedate=20171025215802}}</ref> On June 11, the 71-year old Harrison Ford broke his left leg when a hydraulic door at Pinewood Studios fell down and hit him, and was airlifted to John Radcliffe Hospital in Oxford.<ref>{{Cite_web|url=http://www.bbc.co.uk/news/entertainment-arts-27919126|title=Harrison Ford broke left leg in accident, publicist confirms|date=2014-06-19|publisher=BBC News|archivedate=20200209183754}}</ref> His recovery forced him to drop out of filming for eight weeks.<ref>{{Cite_web|url=https://www.hollywoodreporter.com/heat-vision/harrison-fords-star-wars-injury-712102|title='Star Wars' Injury to Sideline Harrison Ford for Eight Weeks|date=2014-06-16|publisher=The Hollywood Reporter|archivedate=20200108212141}}</ref> Abrams also sustained a minor back injury when he tried to help lift the door off of Ford's leg.<ref>{{Cite_web|url=https://www.eonline.com/news/682076/j-j-abrams-broke-his-back-trying-to-help-harrison-ford-on-star-wars-the-force-awakens-set|title=J.J. Abrams Broke His Back Trying to Help Harrison Ford on ''Star Wars: The Force Awakens'' Set|author=Heller, Corinne|date=2015-07-31|publisher=[[Wikipedia:E!#E! Online|''E! Online'']]|archivedate=20200105133901}}</ref> On June 28, actor Andy Serkis confirmed that [[Wikipedia:The_Imaginarium_Studios|The Imaginarium Studios]] would be involved with performance capture on the film, as well as all future ''Star Wars'' projects. Serkis also confirmed that the character he plays in the film would utilize performance capture.<ref>{{Cite_web|url=https://www.scifinow.co.uk/news/star-wars-7-exclusive-andy-serkis-talks-script-jj-abrams-more|title=Star Wars Episode VII: Andy Serkis on role, script & Abrams|author=Gross, Edward|date=2014-06-28|publihser=SciFiNow|archivedate=20190422204731}}</ref> On July 6, Lucasfilm confirmed that actors [[Crystal Clarke]] and [[Pip Andersen]] were cast in the film through open casting calls in the United Kingdom. They also revealed that production would take a two-week hiatus in August to accommodate Harrison Ford's leg injury. Afterwards shooting would resume, and conclude later in the fall.<ref name="Production Update">{{SW|url=news/star-wars-episode-vii-production-update|text=''Star Wars'': Episode VII Production Update}}</ref>
+
+On [[November 6]], 2014, the official ''Star Wars'' Twitter account announced that the film had completed principal photography. The post gave the official title for the film as ''Star Wars: The Force Awakens'', and was accompanied by a title card for the new name that, like the original trilogy, excluded the "Episode" subtitle.<ref name="Force Awakens Twitter">{{Twitter|starwars|status/530404275957293056/photo/1|Star Wars|quote=Star Wars: The Force Awakens has completed principal photography. #StarWarsVII #TheForceAwakens|archivedate=20200509104401}}</ref> The film had gone through several titles, including ''Shadow of the Empire'', similar to [[Star Wars: Shadows of the Empire|''Shadows of the Empire'']].<ref>{{Twitter|pablohidalgo|status/680519221344731136|[[Pablo Hidalgo]]|it had several.|nobackup=1}}</ref><ref>{{Twitter|pablohidalgo|status/680465074553622528|[[Pablo Hidalgo]]|it was Shadow (singular) of the Empire for a while.|nobackup=1}}</ref>
+
+===Design===
+[[Michael Kaplan]], who had designed the costumes for Abrams' ''Star Trek'' films, also signed on to costume Episode VII.<ref>{{Cite_web|url=https://www.buzzfeed.com/alexrees/star-trek-costume-designer-michael-kaplan-on-dressing-starfl|title="Star Trek" Costume Designer Michael Kaplan On Dressing Starfleet And Keeping Trekkies Happy|author=Rees, Alex|date=2013-05-17|publisher=Buzzfeed|archivedate=20200220201052}}</ref> Kaplan designed new stormtrooper uniforms for the film, as it was determined that the original costumes would not stand up to modern scrutiny. These new uniforms were inspired by [[Wikipedia:Apple Inc.|Apple]] products.<ref>{{Cite_web|url=https://www.vanityfair.com/hollywood/2015/05/star-wars-force-awakens-costumes|title=How Apple Inspired the Stormtroopers of ''Star Wars: The Force Awakens''|author=Tallis, Justin|date=2015-05-19|publisher=vanityfair.com|archivedate=20190505194647}}</ref> The production team built a new C-3PO suit to accommodate Anthony Daniels,<ref>{{Cite_web|url=http://insidetv.ew.com/2014/09/16/star-wars-anthony-daniels-interview/2|title=Anthony Daniels' deep-dive 'Star Wars' interview: C-3PO's past, present and future|author=Hibberd, James|date=2014-09-16|publisher=EW.com|archivedate=20140920120436}}</ref> while the [[R2-D2]] model was provided and overseen by members of the [[R2-D2 Builders Club]].<ref name="R2 in Episode VII">{{SW|url=news/r2-d2-is-in-star-wars-episode-7-and-hes-fan-made|text=R2-D2 is in ''Star Wars'': Episode VII, and he's Fan-made}}</ref>
+
+Supervising sound editor [[Matthew Wood]] brought in former cast and crew members of ''[[Star Wars: The Clone Wars]]'' to record various background dialogue.<ref>{{Cite_web|url=http://rebelforceradio.libsyn.com/rebel-force-radio-tfa-reaction-show-1|title=Rebel Force Radio: TFA Review Show #1|date=2015-12-20|publisher=[[Rebel Force Radio]]|archivedate=20160321202713}}</ref> [[Ewan McGregor]] and [[Frank Oz]] also recorded new lines for the scene of Rey's Force vision. McGregor's recording was combined with audio of the late [[Alec Guinness]], and pre-existing Yoda audio was ultimately used in lieu of Oz's new recording.<ref>{{Cite_web|url=http://www.ew.com/article/2015/12/20/jj-abrams-reveals-obi-wan-and-yoda-are-star-wars-force-awakens?xid=IFT-Trending|title=Obi-Wan and Yoda are secretly in ''Star Wars: The Force Awakens'' &ndash; Exclusive|author=Breznican, Anthony|date=2015-12-20|publisher=''Entertainment Weekly''|archiveurl=https://web.archive.org/web/20200807122422/https://ew.com/article/2015/12/20/jj-abrams-reveals-obi-wan-and-yoda-are-star-wars-force-awakens}}</ref>
+
+===Music===
+During a concert with the Young Musician's Foundation Debut Orchestra on [[February 9]], 2013 composer [[John Williams]] stated that he was hoping to get the chance to write the [[musical score]]s for the new trilogy.<ref>{{Cite_web|url=http://www.jwfan.com/?p=5407|title=Williams Says He 'Hopes' to Work on New Star Wars Trilogy|date=2013-02-11|publisher=John Williams Fan Network|archivedate=20190617004436}}</ref> Abrams made further statements on this at a [[Wikipedia:Star Trek Into Darkness|''Star Trek Into Darkness'']] conference on April 29, stating, "Again, for Star Wars, it's very early days, but I believe that, going forward, John Williams will be doing that film because he was there long before I was."<ref>{{Cite_web|url=https://www.hollywoodreporter.com/heat-vision/jj-abrams-says-john-williams-449208|title=J.J. Abrams Says John Williams Likely to Score 'Star Wars: Episode VII'|author=Ng, Philiana|date=2013-04-30|publisher=The Hollywood Reporter|archivedate=20191122081305}}</ref> On [[July 27]], 2013, a video of Williams confirming he would score the new film was screened at ''Star Wars'' [[Celebration Europe II]].<ref name="John Williams">{{SW|url=news/star-wars-celebration-europe-2013-john-williams-to-score-star-wars-episode-vii|text=''Star Wars'' Celebration Europe 2013: John Williams to Score ''Star Wars'': Episode VII}}</ref> On [[March 21]], 2015, Lucasfilm revealed that John Williams would conduct the score for ''The Force Awakens'' in Los Angeles. Williams's previous ''Star Wars'' scores were recorded in the United Kingdom with the London Symphony Orchestra.<ref name="Symphony">{{SW|url=news/john-williams-to-record-star-wars-the-force-awakens-score-in-los-angeles|text=John Williams to Record ''Star Wars: The Force Awakens'' Score in Los Angeles}}</ref> The sessions lasted from summer through fall of 2015.<ref>{{Cite_web|url=http://www.afm.org/im/john-williams|title=International Musician John Williams - Back Again to a Galaxy &hellip;|publisher=afm.org|archivedate=20151231203346}}</ref>
+
+==Release==
+{{Quote|We're living in such a different age now. It's like a competition to see who can leak information faster than the next guy. I don't get it. I'm keeping my fingers crossed that they don't get a copy of the script and leak the whole thing on the Internet.|Mark Hamill|<ref name="HamillLeak">{{Cite_web|url=http://chicago.suntimes.com/entertainment/mark-hamill-on-joining-new-elf-and-returning-to-star-wars|title=Mark Hamill on joining new 'Elf' and returning to 'Star Wars'|author=Bill Zwecker|date=2014-12-15|archivedate=20161107000105}}</ref>}}
+[[File:Star_Wars_The_Force_Awakens.jpg|thumb|left|250px|Official logo]]
+The first teaser trailer&mdash;released early due to both fan demand and Abrams' request<ref name="Theme" /><ref>{{Cite_web|url=https://www.wired.com/2015/11/star-wars-force-awakens-jj-abrams-interview|title=Lucky VII: Superfan J.J. Abrams on Directing ''The Force Awakens''|author=Dadich, Scott|partialdate=2015-11|publisher=[[Wikipedia:Wired|''Wired'']]|archivedate=20200621162230}}</ref>&mdash;was announced via the [[Bad Robot Productions]] Twitter account, with a note from Abrams saying fans will see a "tiny peek at what we're working on."<ref name="Teaser Confirmed">{{Twitter|bad_robot|status/536950878310129664|[[Bad Robot Productions]]|archivefile=File:The Force Awakens Teaser Announced.png}}</ref> The 88-second teaser premiered in 30 theaters across North America and was released online on [[November 28]], 2014.<ref name="SW.com Trailer Tease">{{SW|url=news/star-wars-the-force-awakens-tease-theater-list|text=''Star Wars: The Force Awakens'' Tease Theater List}}</ref><ref name="TFA Teaser">{{SWYoutube|erLk59H86ww|Star Wars: The Force Awakens Official Teaser Trailer|archivedate=20200526185005}}</ref> The teaser was shown in theaters around the world beginning in December 2014.<ref name="SW.com Trailer Tease" /> Character names were revealed shortly thereafter in online mock collector cards.<ref>{{Cite_web|url=https://ew.com/article/2014/12/11/star-wars-the-force-awakens-character-names|title='Star Wars: The Force Awakens' character names revealed -- exclusive|author=Breznican, Anthony|date=2014-12-11|publisher=Entertainment Weekly|archivedate=20200701103135}}</ref> Earlier that November, J.J. Abrams made a cameo on [[Wikipedia:Last Week Tonight with John Oliver|''Last Week Tonight with John Oliver'']], in which he could be seen directing R2-D2 on the set of ''The Force Awakens''. When a fish from Oliver's salmon cannon falls on the script that he's holding, Abrams gets frustrated and quits the film.<ref>{{Cite_web|url=http://www.theforce.net/story/front/JJ_Abrams_And_R2D2_Cameo_On_John_Olivers_Last_Week_Tonight_160812.asp|title=J.J. Abrams And R2-D2 Cameo On John Oliver's ''Last Week Tonight''|author=Geller, Eric|date=2014-11-10|publisher=TheForce.net|archivedate=20160412102351}}</ref>
+
+A second teaser was released on [[April 16]], 2015.<ref>{{SWYoutube|ngElkyQ6Rhs|Star Wars: The Force Awakens Official Teaser #2|archivedate=20190321151746}}</ref> The June 2015 issue of ''Variety'' featured a cover story on ''The Force Awakens'', with interviews with cast and crew and images from an [[Wikipedia:Annie Leibovitz|Annie Leibovitz]] photo shoot.<ref name="Vanity Fair cover">{{Cite_web|url=https://www.vanityfair.com/hollywood/2015/05/star-wars-the-force-awakens-vanity-fair-cover|title=The Cast of ''Star Wars: The Force Awakens'' on the Cover of ''Vanity Fair''|author=Leibovitz, Annie|date=2015-05-03|publisher=''Vanity Fair''|archivedate=20150503220054}}</ref> The August 2015 issues of ''[[Entertainment Weekly]]'' and [[Wikipedia:Empire (film magazine)|''Empire'']] also had the film as their cover stories.<ref>{{SW|url=news/entertainment-weekly-previews-star-wars-the-force-awakens|text=''Entertainment Weekly'' Previews ''Star Wars: The Force Awakens''}}</ref><ref>{{Cite_web|url=http://www.empireonline.com/news/story.asp?NID=45181|title=Exclusive Empire Star Wars Cover Revealed|author=Dyer, James|date=2015-08-21|publisher=[[Wikipedia:Empire (film magazine)|''Empire'']]|archivedate=20150822070022}}</ref><ref>{{Cite_web|url=http://www.empireonline.com/news/story.asp?NID=45182|title=Exclusive Empire's Second Star Wars Cover Revealed|author=Dyer, James|date=2015-08-21|publisher=''Empire''|archivedate=20150905054314}}</ref> ''The Force Awakens'' had a presence at 2015's [[Wikipedia:San Diego Comic-Con International|San Diego Comic-Con]] and [[Wikipedia:Disney D23|D23]] events.<ref>{{SW|url=news/star-wars-the-force-awakens-more-coming-to-san-diego-comic-con-2015|text=''Star Wars: The Force Awakens'' and More Coming to San Diego Comic-Con 2015}}</ref><ref>{{SW|url=news/8-cool-star-wars-things-at-d23-expo|text=8 Cool ''Star Wars'' Things at D23 Expo}}</ref> At the latter, it was revealed that [[Drew Struzan]] had returned to create poster art for the film, including a poster exclusive to the event.<ref>{{Cite_web|url=http://ew.com/article/2015/08/19/poster-artist-drew-struzan-says-force-awakens-will-be-best-star-wars-youve-ever|title=Drew Struzan says ''The Force Awakens'' could be 'the best ''Star Wars'' you've ever seen'|author=Gettell, Oliver|date=2015-08-19|publisher=EW.com|archivedate=20170706033420}}</ref> A third, shorter teaser was released on the ''Star Wars'' [[Wikipedia:Instagram|Instagram]] on [[August 27]].<ref>{{SW|url=news/video-of-star-wars-the-force-awakens-appear-on-instagram|text=New Footage of ''Star Wars: The Force Awakens'' Debuts on Instagram!}}</ref> On [[September 23]], [[Wikipedia:Facebook|Facebook]] released a 360-degree panoramic video clip of a speeder driving across Jakku.<ref>{{Cite_web|url=http://variety.com/2015/digital/news/facebook-360-degree-video-star-wars-snl-vice-1201600651|title=Facebook Launches 360-Degree Videos with 'Star Wars,' 'SNL,' Vice and More|author=Spangler, Todd|date=2015-09-23|publisher=Variety|archivedate=20170628163911}}</ref> The official [[Wikipedia:One sheet|one sheet]] was released on [[October 18]], 2015,<ref name="Poster">{{SW|url=news/star-wars-the-force-awakens-theatrical-poster-first-look-in-theater-exclusives-and-more|text=''Star Wars: The Force Awakens'' Theatrical Poster First Look, In-theater Exclusives And More}}</ref> while the full-length trailer debuted on [[October 19]] with [[Wikipedia:ESPN|ESPN's]] [[Wikipedia:Monday Night Football|Monday Night Football]].<ref>{{Cite_web|url=http://www.ew.com/article/2015/10/18/star-wars-force-awakens-poster-and-trailer-announced|title=''Star Wars: The Force Awakens'' poster and trailer announced!|author=Breznican, Anthony|date=2015-10-18|publisher=''Entertainment Weekly''|archivedate=20180115163316}}</ref>
+
+The cast and crew appeared on various TV programs, including [[Wikipedia:Good Morning America|''Good Morning America'']],<ref>{{Cite_web|url=http://www.theforce.net/story/front/Good_Morning_America_Star_Wars_Cast_Interview_Video_Round_Up_167147.asp|title=Good Morning America ''Star Wars'' Cast Interview Video Round Up!|author=Roberts, Dustin|date=2015-12-11|publisher=[[TheForce.net]]|archivedate=20160412094344}}</ref> [[Wikipedia:Live! with Kelly and Michael|''Live! with Kelly and Michael'']],<ref>{{Cite_web|url=http://www.theforce.net/story/front/John_Boyega_Daisy_Ridley_And_Billie_Lourd_On_Live_With_Kelly_And_Michael_167148.asp|title=John Boyega, Daisy Ridley, And Billie Lourd On Live! With Kelly And Michael|author=Roberts, Dustin|date=2015-12-11|publisher=TheForce.net|archivedate=20190730023624}}</ref> and [[Wikipedia:60 Minutes|''60 Minutes'']].<ref>{{Cite_web|url=http://www.theforce.net/story/front/John_Williams_JJ_Abrams_To_Appear_On_60_Minutes_167125.asp|title=John Williams & J.J. Abrams To Appear On ''60 Minutes''|author=Holoka, Chris|date=2015-12-11|publisher=TheForce.net|archivedate=20190730103639}}</ref><ref>{{Cite_web|url=http://www.theforce.net/story/front/JJ_Abrams_Gives_60_Minutes_A_Sneak_Peek_Into_Star_Wars_The_Force_Awakens_167141.asp|title=J.J. Abrams Gives 60 Minutes A Sneak Peek Into Star Wars: The Force Awakens|author=Roberts, Dustin|date=2015-12-11|publisher=TheForce.net|archivedate=20190730133027}}</ref> Abrams, Boyega, and Ridley participated in a ''[[Saturday Night Live]]'' sketch featuring cast members and guest celebrities in a series of fake auditions. Among the subjects parodied were racist reactions to Boyega's casting, Lucas's comments about not being involved, and Abrams's involvement in the rival franchise ''Star Trek''.<ref>{{Cite_web|url=https://ew.com/article/2015/11/22/snl-star-wars-auditions-force-awakens|title=''SNL'' reveals ''Star Wars: The Force Awakens'' auditions from Jon Hamm, Emma Stone & more|publisher''Entertainment Weekly''|author=Rosen, Christopher|date=2015-11-22|archivedate=20190528202913}}</ref><ref>{{Youtube|-T_pjMr7-n0|Star Wars Auditions - SNL|UCqFzWxSCi39LnW1JKFR3efg|Saturday Night Live|archivedate=20200717023644}}</ref> (More of these later aired on June 1, 2016.<ref>{{Youtube|FdSWEyl2mC4|Bonus Footage: Star Wars Auditions (Daisy Ridley, Matthew McConaughey & John Boyega)|channel/UCqFzWxSCi39LnW1JKFR3efg|Saturday Night Live|archivedate=20200213053445}}</ref>) Abrams and the cast appeared on a ''Star Wars''&ndash;themed episode of [[Wikipedia:Jimmy Kimmel Live!|''Jimmy Kimmel Live!'']] on [[November 23]].<ref>{{Cite_web|url=http://ew.com/article/2015/10/30/jj-abrams-star-wars-force-awakens-jimmy-kimmel-live|title=J.J. Abrams and ''Star Wars'' cast to visit ''Jimmy Kimmel Live!'' on Nov. 23|author=Snierson, Dan|date=2015-10-30|publisher=Entertainment Weekly|archivedate=20170706022744}}</ref> Harrison Ford spoke about his injury during shooting on ''The Tonight Show with Jimmy Fallon'' by destroying a Han Solo action figure.<ref>{{Youtube|p0qrxL8oGbE|Harrison Ford Demos His Star Wars Injury Using a Han Solo Doll|channel/UC8-Th83bH_thdKZDJCrn88g|The Tonight Show Starring Jimmy Fallon|archivedate=20191221055129}}</ref>
+
+Some members of the cast and crew also participated in an official press conference on [[December 5]].<ref>{{Cite_web|url=https://ew.com/article/2015/12/06/live-blog-star-wars-force-awakens-press-conference|title=Everything that happened during the ''Star Wars: The Force Awakens'' press conference|author=Sollosi, Mary|date=2015-12-06|publisher=''Entertainment Weekly''|archivedate=20200718172804}}</ref> The film had its [[Wikipedia:Red carpet|red-carpet]] premiere on [[December 14]] at [[Wikipedia:Hollywood Boulevard|Hollywood Boulevard]].<ref>{{Cite_web|url=https://www.latimes.com/entertainment/herocomplex/la-et-hc-star-wars-force-awakens-premiere-live-updates-htmlstory.html|title='Star Wars: The Force Awakens': A recap of the world premiere from celebrity cosplay on the red carpet to the first reactions|date=2015-12-15|publisher=''Los Angeles Times''|archivedate=20191230215503}}</ref> The event was streamed live on StarWars.com.<ref>{{SW|url=news/watch-the-star-wars-the-force-awakens-red-carpet-live-at-starwars-com|text=Watch the ''Star Wars: The Force Awakens'' Red Carpet Live at StarWars.com}}</ref> The cast (including the droids) participated in an [[Wikipedia:A cappella|a cappella]] [[Wikipedia:Medley (music)|medley]] of the music from the series with Jimmy Fallon and The Roots on ''The Tonight Show''.<ref>{{Youtube|ZTLAx3VDX7g|Jimmy Fallon, The Roots & "Star Wars: The Force Awakens" Cast Sing "Star Wars" Medley (A Cappella)|channel/UC8-Th83bH_thdKZDJCrn88g|The Tonight Show Starring Jimmy Fallon|archivedate=20200818154741}}</ref> Ford and Abrams participated on a sketch on ''The Late Show with Stephen Colbert'' depicting what convinced Ford to return: Colbert allegedly almost convinced Abrams to recast the role of Han with him.<ref>{{Youtube|BrRGTEwNS2M|Harrison Ford Almost Wasn't In "Star Wars: The Force Awakens|channel/UCMtFAi84ehTSYSE9XoHefig|The Late Show with Stephen Colbert|archivedate=20200806024907}}</ref> Later, when he appeared on ''Conan'', he was asked to sign producer Jordan Schlansky's LEGO ''Millennium Falcon'' and "accidentally" dropped it.<ref>{{Youtube|3_FieJToFKc|Jordan Schlansky Asks Harrison Ford To Sign His Millennium Falcon|channel/UCi7GJNg51C3jgmYTUwqoUXA|Team Coco|archivedate=20200322150501}}</ref> Abrams made a cameo on a May 2016 episode of [[Wikipedia:The Late Late Show with James Corden|''The Late Late Show with James Corden'']], in which he appeared in the backseat of a car and directed "Chewbacca Mom" [[Candace Payne]] on how to properly use a Chewbacca mask.<ref>{{Youtube|uQereoIxioI|Chewbacca Mom Takes James Corden to Work|channel/UCJ0uqCI0Vqr2Rrt1HseGirg|The Late Late Show with James Corden|archivedate=20200816202955}}</ref>
+
+===Charity===
+On May 21, 2014, Disney, Lucasfilm, and Bad Robot announced "Force for Change," a charity campaign "dedicated to finding creative solutions to some of the world's biggest problems"; initially, the campaign was focused on contributing to [[Wikipedia:UNICEF|UNICEF]]. Each person who donated was entered to win a set visit to and appearance in Episode VII.<ref>{{SW|url=force-for-change|text=Star Wars: Force for Change}}</ref> On [[August 11]], Denver, Colorado resident [[D.C. Barns]] was announced as the contest's winner.<ref name="Barns">{{SWYoutube|lXa8Bw3aGMQ|Star Wars: Force For Change Winner Reveal|archivedate=20190815031956}}</ref> J.J. Abrams later released a YouTube video in which he announced that the contest had raised $4.26 million.<ref>{{Cite_web|url=http://www.theforce.net/story/front/JJ_Abrams_And_The_Star_Wars_Crew_Thank_Fans_For_Force_For_Change_Donations_161612.asp|title=J.J. Abrams And The Star Wars Crew Thank Fans For 'Force For Change' Donations|author=Geller, Eric|date=2014-12-18|publisher=TheForce.net|archivedate=20190803213716}}</ref> In August 2014, several of the film's cast and crew participated in the "[[Wikipedia:Ice Bucket challenge|Ice Bucket Challenge]]," an Internet phenomenon whereby one pours water onto one's head as a pledge to donate to the [http://www.alsa.org/fight-als/ice-bucket-challenge.html ALS association].<ref>{{Cite_web|url=http://www.huffingtonpost.com/2014/08/26/star-wars-ice-bucket_n_5713507.html|title='Star Wars: Episode VII' Cast Takes Ice Bucket Challenge|date=2014-08-26|work=Huffington Post|archivedate=20161125105344}}</ref> On April 21, 2015, Abrams appeared on ''Jimmy Kimmel Live!'', where he performed the "Twizzler challenge" with Chewbacca, in honor of Autism Awareness Month.<ref>{{Cite_web|url=http://ew.com/article/2015/04/22/jj-abrams-chewbacca-twizzler-challenge|title=J.J. Abrams & Chewbacca took the Twizzler Challenge on ''Kimmel'' and basically remade ''Lady and the Tramp''|author=Dornbush, Jonathon|date=2015-04-22|publisher=ew.com|archivedate=20170706023640}}</ref> In August 2015, Lucasfilm and HP began a two-month program called "Art Awakens," in which people submitted art inspired by ''The Force Awakens'', of which a certain number were chosen for an art exhibit, the proceeds of which went to "Force for Change."<ref>{{SW|url=news/lucasfilm-and-hp-celebrate-star-wars-the-force-awakens-with-art-awakens-program|text=Lucasfilm and HP Celebrate ''Star Wars: The Force Awakens'' with "Art Awakens" Program}}</ref> On November 5, 2015, director J.J. Abrams screened an unfinished version of the film for [[Daniel Fleetwood]], a 32-year-old ''Star Wars'' fan with an aggressive form of cancer, who was likely to die before the film's release. The campaign for him to see the film was supported by several of the film's stars, including John Boyega, Mark Hamill, and Gwendoline Christie. Fleetwood passed away on November 9 or 10, 2015.<ref name="fleetwood">{{Cite_web|url=https://metro.co.uk/2015/11/10/terminally-ill-star-wars-fan-daniel-fleetwood-has-died-his-wife-confirms-5491081|title=Terminally ill Star Wars fan Daniel Fleetwood dies aged 32, his wife confirms|author=Deen, Sarah|date=2015-11-10|publisher=Metro|archivedate=20200302013103}}</ref> The film was also made available for viewing by astronauts on the [[Wikipedia:International Space Station|International Space Station]].<ref>{{Cite_web|url=http://time.com/4146994/star-wars-space-station-astronauts|title=ISS Astronauts Will Watch New Star Wars Movie in Space|author=Chan, Melissa|date=2015-12-13|publisher=Time|archivedate=20180530153749}}</ref> On November 28, it was revealed that [[R2-KT]], the droid built in honor of [[Katie Johnson]], would make an appearance in ''The Force Awakens''.<ref name="R2KT-TFA">{{Twitter|tk210|status/670633464056684545|Albin Johnson|quote=It's official, R2-KT is in The Force Awakens. We just received permission to share the news. #R2KTinStarWars @ArtooKatee #StarWars|archivefile=File:R2-KT The Force Awakens Confirmation.png}}</ref> [[Albin Johnson]], founder of the [[501st Legion (fan organization)|501st Legion]] and father of Katie, had constructed the droid after she was diagnosed with terminal brain cancer. In addition to R2-KT's appearance, a variation of the 501st's logo was featured as a flag outside Maz Kanata's castle.<ref name="501FB">{{FacebookCite|profilelink=|url=The501stLegion/photos/a.164650034751.117031.17637574751/10153843249514752/?type=3&theater|author=501st Legion|date=20-12-2015|description=The 501st Legion on Facebook|quote=As we lift our restrictions on spoilers, we thought it might be appropriate to express thanks for this "Easter egg" in #TheForceAwakens. A variation of the #501st logo flies proudly on a flag at Maz Kanata's castle on the planet Takodana. Thank you to J. J. Abrams and all of the crew at Lucasfilm and Disney for honoring our contributions to the Star Wars franchise. #StarWars #BadGuysDoingGood|archivefile=File:501st Easter egg.png}}</ref>
+
+===Merchandising===
+[[File:SWTheForceAwakensStruzanD23Poster.png|thumb|180px|Teaser poster from the D23 Expo]]
+Following Disney's acquisition of Lucasfilm in 2012, its "[[Wikipedia:Walt Disney Imagineering|imagineers]]" began developing ''Star Wars''&ndash;themed expansions to the various Disney theme parks. However, Bob Iger halted work on these expansions until ''The Force Awakens'' and other future ''Star Wars'' films had reached a point in their development that elements from those projects could be included.<ref name="Theme" /> On [[August 15]], 2015, it was announced that plans were moving forward for a ''Star Wars''-themed section of the Disney parks, which would include content based on ''The Force Awakens''.<ref>{{SW|url=news/new-and-enhanced-star-wars-experiences-coming-to-disney-parks|text=New and Enhanced ''Star Wars'' Experiences Coming to Disney Parks}}</ref>
+
+Disney's merchandising campaign for the film began on [[September 4]], 2015&mdash;dubbed "[[Force Friday]]."<ref>{{SW|url=news/star-wars-the-force-awakens-products-to-arrive-on-force-friday-september-4|text=''Star Wars: The Force Awakens'' Products to Arrive on 'Force Friday,' September 4}}</ref> Lucasfilm has published [[Journey to Star Wars: The Force Awakens|a series of books and comics]] that connect ''Return of the Jedi'' and ''The Force Awakens''.<ref>{{SW|url=news/journey-to-star-wars-the-force-awakens-publishing-program-coming-fall-2015|text="Journey to ''Star Wars: The Force Awakens''" Publishing Program Coming Fall 2015}}</ref><ref name="JourneyAnnounce">{{Cite_web|url=http://www.ew.com/article/2015/03/09/star-wars-release-20-books-journey-force-awakens|title=Star Wars to release 20 books in journey to ''The Force Awakens'' -- exclusive|author=Breznican, Anthony|date=2015-03-10|work=Entertainment Weekly|archiveurl=https://web.archive.org/web/20200525040906/https://ew.com/article/2015/03/09/journey-force-awakens}}</ref> A [[Star Wars: The Force Awakens (novelization)|novelization]] was released,<ref name="novelization">{{Cite_web|url=https://www.ign.com/articles/2015/04/18/star-wars-celebration-alan-dean-foster-writing-the-force-awakens-novelization|title=Star Wars Celebration: Alan Dean Foster Writing The Force Awakens Novelization|author=Osborn, Alex|date=2015-04-18|publisher=IGN|archivedate=20200726202113}}</ref> as well as a number of other titles directly connected to the film, such as an [[The Art of Star Wars: The Force Awakens|art book]],<ref name="Amazon">{{Amazon|url=exec/obidos/ASIN/1419717804|text=''The Art of Star Wars: The Force Awakens''|archiveurl=https://archive.is/CmsrG}}</ref> a [[Before the Awakening|character anthology]],<ref name="awakensanthology">{{Amazon|url=Before-Awakening-Star-Wars-Rucka/dp/148472822X|text=Star Wars: The Force Awakens: Character Anthology|archivedate=20200228024722}}</ref> and [[Ultimate Sticker Collection: Star Wars: The Force Awakens|''Ultimate Sticker Collection'']].<ref name="ultimatesticker">{{Amazon|url=Ultimate-Sticker-Collection-Force-Awakens/dp/1465438173|text=Ultimate Sticker Collection: Star Wars: The Force Awakens|archivedate=20160402190705}}</ref> Content from ''The Force Awakens'' was also featured in the video games ''[[Disney Infinity 3.0]]'', ''[[Star Wars Battlefront]]'' and ''[[LEGO Star Wars: The Force Awakens]]''.<ref>{{SW|url=news/star-wars-comes-to-disney-infinity-3-0|text=''Star Wars'' Comes to ''Disney Infinity 3.0''!}}</ref><ref>{{SW|url=news/ea-previews-the-battle-of-jakku-on-star-wars-battlefront|text=EA Previews the Battle of Jakku in ''Star Wars Battlefront''!}}</ref><ref>{{SW|url=news/calling-all-jedi-masters-and-master-builders-announcing-lego-star-wars-the-force-awakens|text=Calling All Jedi Masters and Master Builders: Announcing ''LEGO Star Wars: The Force Awakens''}}</ref> The company partnered with eight major brands: Covergirl & Max Factor, Duracell, FCA US, General Mills, HP, Subway, and Verizon.<ref name="grip">{{Cite_web|url=https://www.washingtonpost.com/news/business/wp/2015/08/17/with-the-force-of-star-wars-disney-tightens-grip-on-toy-universe|title=With the force of 'Star Wars,' Disney tightens grip on toy universe|author=Harwell, Drew|date=2015-08-17|publisher=Washington Post|archivedate=20170421202007}}</ref> Beginning in August 2015, [[Wikipedia:Target Corporation|Target]] stores held a campaign called "Share the Force," which included TV ads, exclusive in-store merchandise, and an online program in which ''Star Wars'' fans could submit images and videos that captured their memories of the franchise.<ref>{{Cite_web|url=http://adage.com/article/cmo-strategy/target-captures-star-wars-fan-memories-1977-today/300076|title=Target Captures Star Wars Fan Memories From 1977 to Today|author=Rodriguez, Ashley|date=2015-08-25|publisher=adage.com|archivedate=20170928180036}}</ref> Some of Japan's [[Wikipedia:All Nippon Airways|All Nippon Airways]] airplanes were painted to reflect elements from ''The Force Awakens''.<ref>{{Cite_web|url=http://edition.cnn.com/travel/article/star-wars-plane-ana-feat/index.html|title=New ANA 'Star Wars' planes feature R2-D2 and BB-8|author=Grinberg, Emanuella|date=2015-08-19|publisher=CNN.com|archivedate=20200109101423}}</ref>
+
+The merchandise garnered criticism as it lacked Rey's presence: [[Hasbro Inc.|Hasbro]] announced it would re-release its ''Force Awakens'' Monopoly set to include her after it excluded her in favor of Darth Vader, who is not in the movie. Abrams said he was not involved much in the merchandising, and that when "I read that she wasn't in the Monopoly game and was quickly making phone calls about this because if it were true — and it is true, and now Hasbro, of course, has said they're going to put Rey in — it doesn't quite make sense why she wouldn't be there."<ref>{{Cite_web|url=https://ew.com/article/2016/01/09/jj-abrams-star-wars-force-awakens-rey-toys|title=J.J. Abrams addresses 'preposterous' lack of Rey toys for Star Wars: The Force Awakens|author=Abrams, Natalie|date=2016-01-09|work=Entertainment Weekly|archivedate=20200715052205}}</ref>
+
+===Home media===
+''The Force Awakens'' was released in a Blu-ray combo pack and on DVD on [[April 5]], [[2016]], with a digital version available four days earlier on [[April 1]]. Special features included deleted scenes, featurettes, and a feature-length documentary, ''[[Secrets of The Force Awakens: A Cinematic Journey]]''. Various retailers also included exclusive content and/or packaging,<ref name="TFA Digital HD">{{SW|url=news/its-true-all-of-it-star-wars-the-force-awakens-is-coming-home|text=''Star Wars: The Force Awakens'' Comes to Blu-ray, DVD, and Digital}}</ref> and one deleted scene was exclusive to the digital download.<ref>{{Cite_web|url=https://ew.com/gallery/star-wars-force-awakens-deleted-scenes|title='Star Wars: The Force Awakens': Exclusive first look at deleted scenes|author=Breznican, Anthony|date=2016-03-23|publisher=Entertainment Weekly|archivedate=20200109210039}}</ref> On [[March 23]], 2016, the film was leaked online prior to its original Blu-ray release and was downloaded more than two million times in twelve hours.<ref>{{Cite_web|url=https://variety.com/2016/digital/news/star-wars-force-awakens-pirated-blu-ray-quality-1201737273|title='Star Wars: The Force Awakens' Pirated Blu-ray Copies Leak Online|author=Spangler, Todd|date=2016-03-23|publisher=Variety|archivedate=20200807113925}}</ref> A 3D Collector's Edition was also released in late 2016, containing Blu-ray 3D, Blu-ray, Digital HD and DVD versions of the film. It included all of the bonus features from the original release, as well as an audio commentary by J.J. Abrams, additional deleted scenes, and additional behind-the-scenes conversations with cast and crew.<ref name="3D">{{SW|url=news/star-wars-the-force-awakens-3d-collectors-edition-coming-this-fall|text=''Star Wars: The Force Awakens'' 3D Collector's Edition Coming This Fall}}</ref>
+
+The film made its television debut on the [[Wikipedia:Starz|Starz]] channels, beginning September 10, 2016.<ref>{{Cite_web|url=https://deadline.com/2016/07/star-wars-force-awakens-run-starz-beginning-september-10-1201787183|title='Star Wars' To Run On Starz Channels Beginning September 10|author=Lieberman, David|date=2016-07-15|work=Deadline Hollywood|archivedate=20200807090648}}</ref>
+
+==Reception==
+Theater tickets became available for pre-order on October 19th,<ref name="Poster" /> with many online retailers experiencing outages due to heavy demand, including top sites such as [[Wikipedia:Fandango (ticket service)|Fandango]].<ref>{{Cite_web|url=https://www.hollywoodreporter.com/news/star-wars-force-awakens-presales-833144|title='Star Wars: The Force Awakens' Presales Crash Movie Ticket Sites|author=Gajewski, Ryan|coauthors=Pamela McClintock|date=2015-10-19|publisher=[[Wikipedia:The Hollywood Reporter|The Hollywood Reporter]]|archivedate=20200807124141}}</ref><ref>{{Cite_web|url=https://www.hollywoodreporter.com/news/star-wars-advance-ticket-demand-832977|title='Star Wars' Advance Ticket Demand Crashes U.K. Theater Websites|author=Ritman, Alex|date=2015-10-19|publisher=The Hollywood Reporter|archivedate=20200807102543}}</ref> By the time of the film's release, over $100 million in pre-release tickets were sold, bypassing the previous record, held by [[Wikipedia:The Dark Knight (film)|''The Dark Knight'']].<ref>{{Cite_web|url=https://variety.com/2015/film/box-office/star-wars-the-force-awakens-box-office-advance-1201662572|title='Star Wars: The Force Awakens' Sells More Than $100 Million in Advance Tickets|author=Lang, Brent|coathors=McNary, Dave|date=2015-12-15|publisher=Variety|archivedate=20191031100022}}</ref>
+
+Some theater chains limited the types of [[Wikipedia:Cosplay|cosplay]] allowed at screenings of the film. For instance, fans at AMC and Cinemark weren't allowed to wear masks or face paint, or carry simulated weapons. Some chains also banned the carrying of [[lightsaber]] toys.<ref name="cosplay">{{Cite_web|url=http://www.ibtimes.com/star-wars-force-awakens-book-release-delayed-prevent-spoilers-leaking-2166580|title='Star Wars: The Force Awakens' Book Release Delayed To Prevent Spoilers From Leaking|author=Trivedi, Sachin|date=2015-11-03|publisher=International Business Times|archivedate=20180208184757}}</ref>
+
+The film carries a 93% fresh score at the review-aggregation site Rotten Tomatoes, with 434 reviews and an average score of 8.26/10.<ref name="rottentomatoes">{{Cite_web|url=https://www.rottentomatoes.com/m/star_wars_episode_vii_the_force_awakens|title=Rotten Tomatoes - ''Star Wars: Force Awakens''|date=2015-12-19|publisher=Rotten Tomatoes|archivedate=20200723055641}}</ref><ref name="rottentomatoes2">See [[:File:Rotten Tomatoes Force Awakens.jpg|this image]]</ref> Manohla Dargis of the ''New York Times'' stated that "The big news about 'Star Wars: The Force Awakens' is — spoiler alert — that it's good!" and that the film "takes off with a battle and closes on a meaningful moment of quiet."<ref name="nytimesreview">{{Cite_web|url=https://www.nytimes.com/2015/12/18/movies/star-wars-the-force-awakens-review.html|title='Star Wars: The Force Awakens' Delivers the Thrills, With a Touch of Humanity|author=Dargis, Manohla|date=2015-12-16|publisher=New York Times|archivedate=20200428142154}}</ref> John Wenzel of the ''Denver Post'' graded the film at 3 1/2 stars out of 4, calling it a "masterful symphony" and praising the film's emphasis on "practical effects and honest-to-God sets."<ref name="denverpostreview">{{Cite_web|url=http://www.denverpost.com/movies/ci_29258245/star-wars-force-awakens-movie-review-masterful-symphony-at-last|title="Star Wars: The Force Awakens" movie review: A masterful symphony at last|author=Wenzel, John|date=2015-12-16|publisher=Denver Post|archiveurl=https://web.archive.org/web/20200408211958/https://www.denverpost.com/2015/12/15/star-wars-the-force-awakens-movie-review-a-masterful-symphony-at-last}}</ref>
+
+On January 6, 2016, the film broke the record for the highest box-office gross for a film in the United States, beating the previous record of $760.5 million held by the 2009 epic science-fiction film [[Wikipedia:Avatar (2009 film)|''Avatar'']] by James Cameron. The record was reached less than three weeks after release.<ref name="boxofficerecord">{{SW|url=news/thank-you-star-wars-the-force-awakens-becomes-the-1-film-of-all-time-in-the-us|text=Thank You: ''Star Wars: The Force Awakens'' Becomes the #1 Film of All-Time in the US}}</ref> Adjusted for ticket price inflation, ''The Force Awakens'' is the most successful sequel of all time, narrowly beating ''Star Wars'': Episode V ''The Empire Strikes Back''.<ref name="Box Office Mojo All Time Adjusted">{{Cite_web|url=http://www.boxofficemojo.com/alltime/adjusted.htm|title=All Time Box Office - Domestic Gross - Adjusted|publisher=Box Office Mojo|archivedate=20160113131430}}</ref> On [[February 7]], 2016, the film was reported to have crossed the threshold of $2 billion in ticket sales.<ref name="ewbillions">{{Cite_web|url=https://ew.com/article/2016/02/07/star-wars-force-awakens-box-office|title=''Star Wars: The Force Awakens'' crosses $2 billion worldwide|author=Coggan, Devan|date=2016-02-07|publisher=Entertainment Weekly|archivedate=20200426134547}}</ref>
+
+''The Force Awakens'' was nominated for five Oscars at the 88th Academy Awards (the largest number of award nominations for a single ''Star Wars'' film since ''A New Hope''), held on [[February 28]], 2016. The film was nominated in the categories of Best Film Editing for Maryann Brandon and Mary Joe Markey; Best Original Score for John Williams; Best Sound Editing for Matthew Wood and David Acord; Best Sound Mixing for Andy Nelson, Christopher Scarabosio, and Stuart Wilson; and Best Visual Effects for Roger Guyett, Patrick Tubach, Neal Scanlan, and Chris Corbould.<ref name="Oscar Noms">{{Cite_web|url=http://www.hollywoodreporter.com/lists/oscar-nominations-complete-list-855398|title=Oscar Nominations: The Complete List|date=2016-01-14|publisher=The Hollywood Reporter|archiveurl=https://web.archive.org/web/20200809120747/https://www.hollywoodreporter.com/lists/oscars-nominations-complete-list-855398}}</ref> The general public voted ''The Force Awakens'' Movie of the Year at the [[Wikipedia:2016 MTV Movie Awards|2016 MTV Movie Awards]]; Daisy Ridley was also voted Best Breakthrough Performance, while Adam Driver won Best Villain.<ref>{{Cite_web|url=http://www.cbsnews.com/news/mtv-movie-awards-2016-highlights-and-winners|title="The Force Awakens" wins big at MTV Movie Awards 2016|date=2016-04-10|work=CBS|archivedate=20160703061616}}</ref>
+
+According to Robert Iger's 2019 memoir ''The Ride of a Lifetime'', George Lucas was not pleased with the film, feeling that it lacked creativity or innovation. On his part, Iger explained that his company intended to make a film that was familiar to what had come before.<ref>{{Cite_web|url=https://www.hollywoodreporter.com/heat-vision/disneys-bob-iger-says-george-lucas-felt-betrayed-by-star-wars-plans-1242953|title=Bob Iger Reveals George Lucas Felt "Betrayed" by Disney's 'Star Wars' Plans|author=McMillan, Graeme|date=2019-09-24|work=The Hollywood Reporter|publisher=hollywoodreporter.com|archivedate=20200728172647}}</ref> Kathleen Kennedy later commented on this to ''Rolling Stone'': "He may not agree with every choice J.J. made. He may not agree with every choice Rian made. But he appreciates the film-making. That I know."<ref>{{Cite_web|url=https://www.rollingstone.com/movies/movie-features/lucasfilm-president-kathleen-kennedy-interview-rise-skywalker-future-star-wars-912393|title=Lucasfilm's Kathleen Kennedy on 'Rise of Skywalker' and the Future of 'Star Wars'|author=Hiatt, Brian|date=2019-11-19|work=Rolling Stone|publisher=rollingstone.com|archiveurl=https://web.archive.org/web/20200225213742/https://www.rollingstone.com/movies/movie-news/lucasfilm-president-kathleen-kennedy-interview-rise-skywalker-future-star-wars-912393}}</ref>
+
+Abrams admitted one problem with the film, namely Rey and Leia hugging at the end, although it is not established that they know each other. Abrams explained Chewbacca was preoccupied with getting Finn medical attention, while Rey and Leia had spoken via transmitter off screen. He said, "Had Chewbacca not been where he was, you probably wouldn't have thought of it. But because he was right there, passed by Leia, it felt almost like a slight, which was definitely not the intention."<ref>{{Cite_web|url=https://www.slashfilm.com/leia-hugging-rey-jj-abrams-force-awakens|title=Exclusive: J.J. Abrams Explains Why Leia's Hug in 'The Force Awakens' Was Probably a "Mistake"|author=Sciretta, Peter|date=2016-03-08|publisher=/Film|archivedate=20200215231135}}</ref>
+
+==Media==
+===Poster gallery===
+{{Scroll_box|content=
+<gallery>
+File:The Force Awakens Announcement Poster.jpg|Announcement poster
+File:SWTheForceAwakensStruzanD23Poster.png|Drew Struzan D23 Teaser Poster
+File:Star_Wars_Episode_VII_The_Force_Awakens.jpg|Theatrical Poster
+File:ReyTFACharacterPoster.jpg|Rey Character Poster
+File:FinnTFACharacterPoster.jpg|Finn Character Poster
+File:KyloRenTFACharacterPoster.jpg|Kylo Ren Character Poster
+File:HanSoloTFACharacterPoster.jpg|Han Solo Character Poster
+File:LeiaTFACharacterPoster.jpg|General Leia Character Poster
+File:TFAPoeDameronCharacterPoster.jpg|Poe Dameron Character Poster
+File:Star Wars The Force Awakens Official Character Poster g Poster JPosters.jpg| BB-8 Character Poster
+File:TFA_IMAX3D_Poster.jpg|IMAX 3D Poster
+File:TFA_AMC_IMAX_Poster_-1.jpg|AMC Commemorative IMAX Poster #1
+File:AMC_IMAX_Poster_-2.jpg|AMC Commemorative IMAX Poster #2
+File:AMC_IMAX_Poster_-3.jpg|AMC Commemorative IMAX Poster #3
+File:AMC_IMAX_Poster_-4.jpg|AMC Commemorative IMAX Poster #4
+</gallery>}}
+
+===Cover gallery===
+{{Scroll_box|content=
+====North American releases====
+<gallery>
+File:TheForceAwakens-Digital.jpg|Digital Movie Pre-Order product layout
+File:TheForceAwakens-BlurayComboPack.jpg|Blu-ray Combo Pack
+File:TheForceAwakens-BestBuy.jpg|Best Buy Exclusive SteelBook Blu-ray Combo Pack
+File:TheForceAwakens-Target.jpg|Target Exclusive Blu-ray Combo Pack
+File:TheForceAwakens-Walmart.jpg|Walmart Exclusive Blu-ray Combo Pack
+File:TheForceAwakens-DVD.jpg|DVD
+File:TheForceAwakens-3DCollectorsEdition.jpg|3D Collector's Edition
+File:TheForceAwakens-BestBuyInside.jpg|Best Buy Exclusive Blu-ray Combo Pack product layout
+File:TheForceAwakens-3DCollectorsEditionInside.jpg|3D Collector's Edition product layout
+File:TheForceAwakens-Lithograph.jpg|Disney Store Exclusive Blu-ray Combo Pack Lithograph Set
+File:TheForceAwakens-ReyLithograph.jpg|Disney Store Exclusive Blu-ray Combo Pack Lithograph Set (Rey and BB-8)
+File:TheForceAwakens-KyloLithograph.jpg|Disney Store Exclusive Blu-ray Combo Pack Lithograph Set (Kylo Ren)
+File:TheForceAwakens-HanLithograph.jpg|Disney Store Exclusive Blu-ray Combo Pack Lithograph Set (Han Solo and Chewbacca)
+File:TheForceAwakens-JakkuLithograph.jpg|Disney Store Exclusive Blu-ray Combo Pack Lithograph Set (Jakku)
+</gallery>
+
+====International releases====
+<gallery>
+File:TheForceAwakens-MovieNEX.jpg|Blu-ray MovieNEX Premium Box (Japan)
+</gallery>}}
+
+==Credits==
+{{Credits
+|cast=
+[[File:TFA_voice_cast.jpg|thumb|250px|Some of the voice cast of ''The Force Awakens''.]]
+*'''[[Harrison Ford]]''' as '''[[Han Solo]]'''<ref name="Credits" />
+*'''[[Mark Hamill]]''' as '''[[Luke Skywalker]]'''<ref name="Credits" />
+*'''[[Carrie Fisher]]''' as '''[[Leia Skywalker Organa Solo|Princess Leia]]'''<ref name="Credits" />
+*'''[[Adam Driver]]''' as '''[[Ben Solo|Kylo Ren]]'''<ref name="Credits" />
+*'''[[Daisy Ridley]]''' as '''[[Rey Skywalker|Rey]]'''<ref name="Credits" />
+*'''[[John Boyega]]''' as '''[[Finn]]'''<ref name="Credits" />
+*'''[[Oscar Isaac]]''' as '''[[Poe Dameron]]'''<ref name="Credits" />
+*'''[[Lupita Nyong'o]]''' as '''[[Maz Kanata]]'''<ref name="Credits" />
+*'''[[Andy Serkis]]''' as '''Supreme Leader [[Snoke]]'''<ref name="Credits" />
+*'''[[Domhnall Gleeson]]''' as '''General [[Armitage Hux|Hux]]'''<ref name="Credits" />
+*'''[[Anthony Daniels]]''' as '''[[C-3PO]]'''<ref name="Credits" />
+*'''[[Max von Sydow]]''' as '''[[Lor San Tekka]]'''<ref name="Credits" />
+*'''[[Peter Mayhew]]''' as '''[[Chewbacca]]'''<ref name="Credits" />
+*'''[[Gwendoline Christie]]''' as '''Captain [[Phasma]]'''<ref name="Credits" />
+*'''[[Joonas Suotamo]]''' as '''[[Chewbacca]] Double'''<ref name="Credits" />
+*'''[[Pip Andersen]]''' as '''[[FN-2003|Lead Stormtrooper]]''' ([[FN-2003]])<ref name="Credits" />
+*'''[[Simon Pegg]]''' as '''[[Unkar Plutt]]'''<ref name="Credits" />
+*'''[[Kiran Shah]]''' as '''[[Teedo]]'''<ref name="Credits" />
+*'''[[Sasha Frost]]''' as '''[[Unidentified female Jakku villager|Jakku Villager]]'''<ref name="Credits" />
+*'''[[Pip Torrens]]''' as '''Colonel [[Kaplan (colonel)|Kaplan]]'''<ref name="Credits" />
+*'''[[Andrew Jack]]''' as '''Major [[Caluan Ematt|Ematt]]'''<ref name="Credits" />
+*'''[[Rocky Marshall]]''' as '''Colonel [[Erich S. Datoo|Datoo]]'''<ref name="Credits" />
+*'''[[Greg Grunberg]]''' as '''[[Temmin Wexley|Snap Wexley]]'''<ref name="Credits" />
+*'''[[Emun Elliott]]''' as '''[[Taslin Brance|Brance]]'''<ref name="Credits" />
+*'''[[Brian Vernel]]''' as '''[[Bala-Tik]]'''<ref name="Credits" />
+*'''[[Yayan Ruhian]]''' as '''[[Tasu Leech]]'''<ref name="Credits" />
+*'''[[Sebastian Armesto]]''' as '''Lieutenant [[Dopheld Mitaka|Mitaka]]'''<ref name="Credits" />
+*'''[[Maisie Richardson-Sellers]]''' as '''[[Korr Sella]]'''<ref name="Credits" />
+*'''[[Warwick Davis]]''' as '''[[Wollivan]]'''<ref name="Credits" />
+*'''[[Cailey Fleming]]''' as '''[[Rey Skywalker|Young Rey]]'''<ref name="Credits" />
+*'''[[Mark Stanley]]''' as '''[[Unidentified male warrior|Knight of Ren]]'''<ref name="Credits" />
+*'''[[Ken Leung]]''' as '''Admiral [[Ushos O. Statura|Statura]]'''<ref name="Credits" />
+*'''[[Iko Uwais]]''' as '''[[Razoo Qin-Fee|Razoo Quin-Fee]]'''<ref name="Credits" />
+*'''[[Anna Brewster]]''' as '''[[Bazine Netal]]'''<ref name="Credits" />
+*'''[[Harriet Walter]]''' as '''Dr. [[Harter Kalonia|Kalonia]]'''<ref name="Credits" />
+*'''[[Tim Rose]]''' and '''[[Erik Bauersfeld]]''' as '''Admiral [[Gial Ackbar|Ackbar]]'''<ref name="Credits" />
+*'''[[Mike Quinn]]''' and '''[[Kipsang Rotich]]''' as '''[[Nien Nunb]]'''<ref name="Credits" />
+*'''[[Michael Giacchino]]''' as '''[[FN-3181]]'''<ref name="Credits" />
+*'''[[Nigel Godrich]]''' as '''[[FN-9330]]'''<ref name="Credits" />
+*'''[[Judah Friedlander]]''' as '''Bar Patron'''<ref name="Credits" />
+*'''[[Victor McGuire]]''' as '''Bar Patron'''<ref name="Credits" />
+*'''[[Miltos Yerolemou]]''' as '''[[Unidentified male bar patron|Bar Patron]]'''<ref name="Credits" />
+*'''[[Francesca Longrigg]]''' as '''Bar Patron''' ([[Omalin Fisker]])<ref name="Credits" />
+*'''[[D.C. Barns]]''' as '''[[Unidentified male bar patron 2|Bar Patron]]'''<ref name="Credits" />
+*'''[[Matt Johnson]]''' as '''Bar Patron'''<ref name="Credits" />
+*'''[[Billie Lourd]]''' as '''Lieutenant [[Kaydel Ko Connix|Connix]]'''<ref name="Credits" />
+*'''[[Leanne Best]]''' as '''[[Min Sakul]]'''<ref name="Credits" />
+*'''[[Crystal Clarke]]''' as '''Ensign Goode''' ([[Pammich Nerro Goode]])<ref name="Credits" />
+*'''[[Jeffery Kissoon]]''' as '''Rear Admiral [[Guich]]'''<ref name="Credits" />
+*'''[[Claudia Sermbezis]]''' as '''[[Lema Eelyak]]'''<ref name="Credits" />
+*'''[[Gerald W. Abrams]]''' as '''Captain [[Cypress]]'''<ref name="Credits" />
+*'''[[James McGrath]]''' as '''Vice Admiral [[Resdox]]'''<ref name="Credits" />
+*'''[[Philicia Saunders]]''' as '''[[Tabala Zo]]'''<ref name="Credits" />
+*'''[[Morgan Dameron]]''' as '''Commodore [[Meta]]'''<ref name="Credits" />
+*'''[[Jessica Henwick]]''' as '''"Jess Testor"''' ([[Jessika Pava]])<ref name="Credits" />
+*'''[[Tosin Cole]]''' as '''Lieutenant [[Bastian]]'''<ref name="Credits" />
+*'''[[James McArdle]]''' as '''[[Niv Lek]]'''<ref name="Credits" />
+*'''[[Stefan Grube]]''' as '''[[Yolo Ziff]]'''<ref name="Credits" />
+*'''[[Dixie Arnold]]''' as '''Resistance Soldier'''<ref name="Credits" />
+*'''[[Hannah John-Kamen]]''' as '''[[Unidentified female First Order officer|First Order Officer]]'''<ref name="Credits" />
+*'''[[Tom Edden]]''' as '''[[Unidentified male First Order officer|First Order Officer]]'''<ref name="Credits" />
+*'''[[Kate Fleetwood]]''' as '''First Order Officer''' ([[Nastia Unamo|Unamo]])<ref name="Credits" />
+*'''[[Richard Riddell]]''' as '''First Order Officer''' ([[Rodinon]])<ref name="Credits" />
+*'''[[Jefferson Hall]]''' as '''[[Unidentified male First Order officer 2|First Order Officer]]'''<ref name="Credits" />
+*'''[[Thomas Brodie-Sangster]]''' as '''First Order Officer''' ([[Thanisson]])<ref name="Credits" />
+*'''[[Jack Laskey]]''' as '''First Order Officer''' ([[Mandetat]])<ref name="Credits" />
+*'''[[Brian Herring]]''' and '''[[Dave Chapman]]''' as '''[[BB-8]] performers'''
+*'''[[Bill Hader]]''' and '''[[Ben Schwartz]]''' as '''BB-8 Voice Consultants'''
+*'''[[Kenny Baker]]''' as '''[[R2-D2]] Consultant'''<ref name="Credits" />
+*'''[[Arti Shah]]''' as '''Maz Motion Capture Double'''
+*'''[[Mike Massa]]''' as '''Han Solo Double'''<ref name="Credits" />
+|crew=
+[[File:EPVII_BR_Workshop.png|thumb|250px|J.J. Abrams and Kathleen Kennedy at [[Bad Robot Productions]].]]
+*Director &mdash; [[J.J. Abrams]]
+*Producers &mdash; [[Kathleen Kennedy]], J.J. Abrams, [[Bryan Burk]], and [[Bad Robot Productions]]
+*Consulting Producers &mdash; [[Lawrence Kasdan]] and [[Simon Kinberg]]
+*Screenplay &mdash; [[Michael Arndt]], Lawrence Kasdan, and J.J. Abrams
+*Music by &mdash; [[John Williams]]
+*Executive Producers &mdash; [[Tommy Harper]], [[Jason McGatlin]]
+*Director of Photography &mdash; [[Daniel Mindel]]
+*Production Designers &mdash; [[Rick Carter]], [[Darren Gilford]]
+*Costume Designer &mdash; [[Michael Kaplan]]
+*Special Effects Supervisor &mdash; [[Chris Corbould]]
+*Sound Designer &mdash; [[Ben Burtt]]
+*Re-Recording Mixer &mdash; [[Gary Rydstrom]]
+*Supervising Sound Editor &mdash; [[Matthew Wood]]
+*Production sound mixer &mdash; [[Stuart Wilson]]
+*Visual Effects Supervisors (ILM) &mdash; [[Roger Guyett]], [[Patrick Tubach|Pat Tubach]]
+*Concept Artists &mdash; [[Doug Chiang]], [[Iain McCaig]]
+*Sound Mixer &mdash; [[Andy Nelson]]
+*Additional alien dialect &mdash; [[Sara Maria Forsberg]]
+*Art director &mdash; [[Mark Harris]]
+|uncredited=
+*'''[[Ewan McGregor]]''' and '''[[Alec Guinness]]''' as '''[[Obi-Wan Kenobi]]''' {{Voice}}
+*'''[[Frank Oz]]''' as '''[[Yoda]]''' {{Voice}}
+*'''[[Daniel Craig]]''' as '''[[FN-1824|a First Order Stormtrooper]]'''
+*'''[[Alan Chimes]]''' as '''a First Order Stormtrooper'''
+*'''[[Ancuta Breaban]]''' as '''a politician'''
+*'''[[Bernice Roust]]''' as '''a patron at [[Takodana Castle]]'''
+*'''[[Caroline Garnell]]''' as '''a resistance member'''
+*'''[[François Sternkiker]]''' as '''X-Wing pilot'''
+*'''[[Samantha Alleyne]]''' as '''a First Order stormtrooper''' and '''a First Order communications officer'''
+}}
+
+==Appearances==
+{{App
+|characters=
+*[[1138 (First Order)|1138]] {{1st}}
+*[[4B-EG-6]] {{1st}}
+*[[Gial Ackbar]]
+*[[Ap'lek]] {{1st}} {{Vision|Rey}}
+*[[Allium]] {{1st}}
+*[[Ello Asty]]
+*[[B-U4D]] {{1st}}
+*[[BB-8]] {{1st}}
+*[[Gwellis Bagnoro]] {{1st}}
+*[[Bala-Tik]] {{1st}}
+*[[Bastian]] {{1st}}
+*[[Sara Bel-Sun]] {{1st}} {{C|Starfighter only}}
+*[[Thadlé Berenko]] {{1st}}
+*[[Bobbajo]]
+*[[BR-BA]] {{1st}} {{C|Starfighter only}}
+*[[Taslin Brance]] {{1st}}
+*[[Zygli Bruss]] {{1st}}
+*[[C-3PO]]
+*[[Cardo]] {{1st}} {{Vision|Rey}}
+*[[Hobin Carsamba]] {{1st}}
+*[[Chewbacca]]
+*[[Infrablue Zedbeddy Coggins]] {{1st}}
+*[[Kaydel Ko Connix]] {{1st}}
+*[[Cratinus]] {{1st}}
+*[[Cypress]] {{1st}}
+*[[Poe Dameron]] {{1st}}
+*[[Vober Dand]]
+*[[Dathan]] {{1stm}} {{Imo}}
+*[[Erich S. Datoo]] {{1st}}
+*[[Bolivar Denai]] {{1st}}
+*[[Anophe Dengue]] {{1st}}
+*[[Thanlis Depallo]] {{1st}}
+*[[Jabba Desilijic Tiure]] {{C|Mentioned in song lyrics only}}
+*[[Drego]]
+*[[Trinto Duaba]]
+*[[Gannis Ducain]] {{Mo}}
+*[[Lema Eelyak]] {{1st}}
+*[[EGL-21]] {{1st}}
+*[[Caluan Ematt]]
+*[[Finn]] {{1st}}
+*[[Omalin Fisker]] {{1st}}
+*[[FN-1824]] {{1st}}
+*[[FN-417]] {{1st}}
+*[[FN-2003]] {{1st}}
+*[[FN-2199]] {{1st}}
+*[[FN-3181]] {{1st}}
+*[[FN-9330]] {{1st}}
+*[[Furillo]] {{1st}} {{C|Starfighter only}}
+*[[GA-97]] {{1st}}
+*[[Nahani Gillen]] {{1st}}
+*[[Sudswater Dillifay Glon]] {{1st}}
+*[[Pammich Nerro Goode]] {{1st}}
+*[[Grummgar]] {{1st}}
+*[[GTAW-74]] {{1st}}
+*[[Guich]] {{1st}}
+*[[Hal (Imperial officer)|Hal]] {{1stm}} {{C|Mentioned on uniform only}}
+*[[Durteel Haza]] {{1st}}
+{{!}}
+*[[Athgar Heece]] {{1st}}
+*[[Hoogenz]] {{1st}}
+*[[HURID-327]] {{1st}}
+*[[Armitage Hux]] {{1st}}
+*[[Toursant Irving]] {{Imo}}
+*[[Vanver Irving]] {{Imo}}
+*[[IT-000-XZ 1594]] {{1st}}
+*[[Sidon Ithano]]
+*[[Izby]] {{1st}}
+*[[J'Rrosch]]
+*[[Taryish Juhden]] {{1st}}
+*[[Harter Kalonia]] {{1st}}
+*[[Maz Kanata]]
+*[[Kaplan (colonel)|Kaplan]] {{1st}}
+*[[Obi-Wan Kenobi]] {{Voice}} {{Vision|Rey}}
+*[[KT-310]] {{1st}}
+*[[Kuruk]] {{1st}} {{Vision|Rey}}
+*[[Laparo]]
+*[[Tasu Leech]] {{1st}}
+*[[Niv Lek]] {{1st}}
+*[[Volzang Li-Thrull]] {{1st}}
+*[[Mandetat]] {{1st}}
+*[[Cherff Maota]] {{1st}} {{C|Bust}}
+*[[Davan Marak]] {{1st}}
+*[[M6-15R]] {{1st}}
+*[[M9-G8]] {{1st}}
+*[[ME-8D9]] {{1st}}
+*[[Meta]] {{1st}}
+*[[Miramir]] {{1stm}} {{Imo}}
+*[[Dopheld Mitaka]] {{1st}}
+*[[Scrapjaw Motito]] {{1st}}
+*[[Munduri]] {{1st}}
+*[[Ilco Munica]] {{1st}}
+*[[Gadde Neshurrion]] {{1st}}
+*[[Bazine Netal]]
+*[[Nien Nunb]]
+*[[O-MR1]] {{C|Left arm only}}
+*[[Praster Ommlen]] {{1st}}
+*[[Leia Skywalker Organa Solo|Leia Organa]]
+*[[P4-99]] {{1st}} {{C|Starfighter only}}
+*[[Jessika Pava]]
+*[[Phasma]] {{1st}}
+*[[Jashco Phurus]] {{1st}}
+*[[Sarco Plank]]
+*[[Unkar Plutt]] {{1st}}
+*[[Clyss Power]] {{1stm}} {{C|Mentioned on uniform only}}
+*[[Grevoth Prana IX]] {{1stm}}
+*[[Bollie Prindel]] {{1st}}
+*[[Dasha Promenti]] {{1st}}
+{{!}}
+*[[Prashee]] {{1st}}
+*[[PZ-4CO]]
+*[[Razoo Qin-Fee]] {{1st}}
+*[[Ubert Quaril]] {{1st}}
+*[[Quiggold]]
+*[[R-3DO]] {{1st}}
+*[[R0-4L0]] {{1st}}
+*[[R0-H2]] {{1st}}
+*[[R2-D2]]
+*[[R2-KT]]
+*[[R2-Q2]]
+*[[R5-X3]] {{1st}}
+*[[R6-D8]] {{1st}}
+*[[Dosmit Ræh]] {{1stm}} {{C|Mentioned in [[aurebesh]] only}}
+*[[Taybin Ralorsa]] {{1st}}
+*[[Red One (Resistance)|Red One]] {{1st}} {{C|Fighter only}}
+*[[Tolomar Reez]] {{1st}}
+*[[Ben Solo|Kylo Ren]] {{1st}} {{1stID|Ben}}
+*[[Resdox]] {{1st}}
+*[[Rey Skywalker|Rey]] {{1st}}
+*[[Rodinon]] {{1st}}
+*[[Roodown]] {{1stc}}
+*[[Avga Rosene]] {{1st}}
+*[[RP-G0]] {{1st}}
+*[[Min Sakul]] {{1st}}
+*[[Divis Scaldz]] {{1st}}
+*[[Korr Sella]] {{1st}}
+*[[Crokind Shand]] {{1st}}
+*[[Darth Sidious]] {{Voice}} {{Vision|Rey}}
+*[[Sache Skareet]] {{1st}}
+*[[Anakin Skywalker]] {{Mo}}
+*[[Luke Skywalker]]
+*[[Snoke]] {{1st}} {{Hologram}}
+*[[Han Solo]]
+*[[Sonsigo]] {{1st}}
+*[[Ushos O. Statura]] {{1st}}
+*[[Streehn]]
+*[[Oskus Stooratt]] {{1st}}
+*[[Pru Sweevant]] {{1st}}
+*[[Monn Tatth]] {{1st}}
+*[[Teedo (Niima Outpost)|Teedo]] {{1st}}
+*[[Lor San Tekka]] {{1st}}
+*[[Mi'no Teest]] {{1st}}
+*[[Thanisson]] {{1st}}
+*[[C'ai Threnalli]] {{1st}}
+*[[Thromba]]
+*[[TK-338]] {{1stm}}
+*[[Goss Toowers]] {{1st}}
+*[[Trudgen]] {{1st}} {{Vision|Rey}}
+*[[Strono Tuggs]] {{1st}}
+*[[Wi'ba Tuyll]] {{1st}}
+*[[Blass Tyran]] {{1st}}
+*[[Nastia Unamo]] {{1st}}
+{{!}}
+*[[Unidentified female bar patron]] {{1st}}
+*[[Unidentified female First Order officer]] {{1st}}
+*[[Unidentified female First Order stormtrooper]] {{1st}}
+*[[Unidentified female Jakku villager]] {{1st}}
+*[[Unidentified First Order officer (Finalizer)|Unidentified First Order officer <small>(''Finalizer'')</small>]] {{1st}}
+*[[Unidentified First Order officer (Starkiller Base)|Unidentified First Order officer <small>(Starkiller Base)</small>]] {{1st}}
+*[[Unidentified male bar patron]] {{1st}}
+*[[Unidentified male bar patron 2]] {{1st}}
+*[[Unidentified male First Order officer]] {{1st}}
+*[[Unidentified male First Order officer 2]] {{1st}}
+*[[Unidentified male Hosnian]] {{1st}}
+*[[Unidentified Resistance technician]] {{1st}}
+*[[Ushar]] {{1st}} {{Vision|Rey}}
+*[[V8-R]] {{1st}} {{C|Starfighter only}}
+*[[Pallaris Ven]] {{1st}} {{C|Starfighter only}}
+*[[Lanever Villecham]] {{1st}}
+*[[Rosser Weno]] {{1st}}
+*[[Temmin Wexley]] {{1stp}} {{1stID|Snap}}
+*[[Venalo Wintz]] {{1st}}
+*[[Vicrul]] {{1st}} {{Vision|Rey}}
+*[[Wollivan]] {{1st}}
+*[[Wright]] {{1st}} {{C|Fighter only}}
+*[[XA-LX]] {{1st}} {{C|Fighter only}}
+*[[Juhrah Yani]] {{1st}}
+*[[Yoda]] {{Voice}} {{Vision|Rey}}
+*[[Yolo Ziff]] {{1st}}
+*[[Tabala Zo]] {{1st}}
+*[[Zuvio]]
+|creatures=
+*[[Barghest]] {{1st}}
+*[[Bird]]
+**[[Bloggin]] {{1st}}
+**[[Steelpecker]] {{1st}}
+**[[Porg]] {{1st}} {{Ret}}
+**[[Sneep]] {{1st}}
+*[[Bodhar]] {{1st}} {{C|bones only}}
+*[[Dog]] {{Mo}}
+*[[Dune zaywar]] {{1st}} {{C|Tusk only}}
+*[[Fantabu]] {{1st}} {{C|Fur and woolonly}}
+*[[Ghhhk]] {{C|as dejarik piece}}
+*[[Gornt]] {{1st}} {{C|Meat only}}
+*[[Gorraslug]] {{1st}} {{C|as leather}}
+*[[Govath]] {{1st}} {{C|Wool only}}
+*[[Grimtaash]] {{C|as dejarik piece}}
+*[[Gundark]] {{C|Bones only}}
+*[[Happabore]]
+*[[Houjix]] {{C|as dejarik piece}}
+{{!}}
+*[[Kintan strider]] {{C|as dejarik piece}}
+*[[K'lor'slug]] {{C|as dejarik piece}}
+*[[Luggabeast]] {{1stp}}
+*[[Monnok]] {{C|as dejarik piece}}
+*[[Moof]] {{1stm}}
+*[[Narglatch]] {{C|Bones only}}
+*[[Ng'ok]] {{C|as dejarik piece}}
+*[[Rathtar]] {{1st}}
+*[[Roggwart]] {{C|Bones only}}
+*[[Unidentified Jakku quadruped]] {{1st}}
+*[[Worm]]
+**[[Nightwatcher worm]] {{1st}}
+*[[Worrt]]
+|droids=
+*[[Astromech droid]]
+**[[BB-series astromech droid]] {{1st}}
+**[[R-series]]
+***[[R0 astromech]] {{1st}}
+***[[R2 series astromech droid]]
+***[[R4 astromech droid]]
+***[[R5 series astromech droid|R5 unit]]
+***[[R6 astromech]] {{1st}}
+*[[Fighting droid]] {{1st}}
+*[[I2-CG droid]] {{1st}}
+*[[Interrogator droid]]
+**[[IT-000 interrogator droid]] {{1st}}
+*[[KT power droid]] {{1st}}
+*[[Labor droid]]
+**[[Heavy loader droid]] {{1st}}
+**[[YOL general worker]] {{1st}}
+*[[Loadlifter droid]]
+{{!}}
+*[[Patrol droid]] {{1st}}
+**[[Patrol droid (First Order)|First Order Patrol droid]] {{1st}}
+*[[Power droid]]
+**[[GNK-series power droid]]
+*[[Protocol droid]]
+**[[3PO-series protocol droid]]
+**[[PZ protocol droid]]
+**[[RA-7 protocol droid]] {{C|Arm only}}
+*[[Repair droid]]
+**[[MSE series]]
+***[[MSE-6 series repair droid]]
+*[[Sentry droid]]
+**[[Sentry droid (First Order)]] {{1st}}
+*[[Service droid]]
+**[[GA servant droid]] {{1st}}
+**[[LEP-series service droid]] {{Voice}}
+*[[Sifter droid]] {{1st}}
+**[[R-H029 sifter droid]] {{1st}}
+**[[SN-1F4 miniature sifter droid]] {{1st}}
+*[[Spy droid]]
+*[[Training droid]]
+**[[Marksman-H training remote]]
+*[[Welding droid]] {{1st}}
+**[[GTAW welding droid]] {{1st}}
+|events=
+*[[First Order-Resistance War]] {{1st}}
+**[[Battle of Takodana]] {{1st}}
+**[[Starkiller crisis]] {{1st}}
+***[[Battle of Starkiller Base]] {{1st}}
+*[[Galactic Civil War]] {{Imo}}
+**[[Battle of Yavin]] {{Imo}}
+**[[Duel on Cloud City]] {{Vision|[[Rey Skywalker|Rey]]}} {{C|Sounds only}}
+**[[Rescue of Princess Leia]] {{Imo}}
+*[[Great Jedi Purge]] {{Imo}}
+*[[New Republic Era]]
+**[[Cold War]]
+***[[Escape from Jakku]] {{1st}}
+***[[Escape from the Finalizer|Escape from the ''Finalizer'']] {{1st}}
+***[[Hosnian Cataclysm]] {{1st}}
+***[[Hunt for Lor San Tekka]] {{1st}}
+****[[Attack on Tuanul]] {{1st}}
+***Starkiller crisis {{1st}}
+****[[Hosnian Cataclysm]] {{1st}}
+**[[Destruction of the Jedi Temple]] {{1stm}}
+**[[Skirmish aboard the Eravana|Skirmish aboard the ''Eravana'']] {{1st}}
+**[[Trillia Massacre]] {{1stm}}
+|locations=
+*[[The galaxy]]
+**[[Core Worlds]]
+***[[Hosnian system]] {{1st}}
+****[[Cardota]] {{1st}}
+****[[Courtsilius]] {{1st}}
+****[[Hosnian]] {{1st}}
+****[[Hosnian Prime]] {{1st}}
+*****[[Republic City]] {{1st}}
+******[[Senate Square]] {{1st}}
+*******[[New Republic senatorial complex]] {{1st}}
+****[[Raysho]] {{1st}}
+**[[Inner Rim Territories]]
+***[[Jakku's sector]]
+****[[Jakku system]]
+*****[[Jakku]]
+******[[Goazon Badlands]]
+*******[[Sinking Fields]] {{1st}}
+******[[Kelvin Ravine]] {{1st}}
+*******[[Tuanul]] {{1st}}
+******[[Kelvin Ridge]] {{1stm}}
+******[[Niima Outpost]]
+*******[[Bay Three]] {{1st}}
+*******[[Concession Stand]] {{1st}}
+******[[Sacred Villages]] {{1st}}
+******[[Starship Graveyard]]
+*****[[Jakku's sun]] {{1stp}}
+{{!}}
+**[[Mid Rim Territories]]
+***[[Tashtor sector]]
+****[[Takodana system]]
+*****[[Takodana]]
+******[[Nymeve Lake]]
+******[[Takodana Castle]]
+*****[[Takodana's sun]] {{1st}}
+**[[Nantoon]] {{1stm}}
+**[[Outer Rim Territories]]
+***[[Auril sector]] {{1st}} {{Vision|Rey}}
+****[[Adega system]] {{1st}} {{Vision|Rey}}
+*****[[Ossus]] {{1st}} {{Vision|Rey}}
+******[[Jedi Temple of Luke Skywalker]] {{1st}} {{Vision|Rey}}
+***[[Bespin]] {{Vision|Rey}}
+****[[Cloud City]] {{Vision|Rey}}
+***[[Endor]] {{C|Mentioned in hologram only}} <!--On R2's map at the end of the film-->
+***[[Ponemah Terminal]] {{Mo}}
+***[[Sanbra sector]]
+****[[Ileenium system]]
+*****[[D'Qar]]
+******[[Resistance base]]
+***[[Sullust]] {{C|Mentioned in hologram only}} <!--On R2's map at the end of the film-->
+***[[Tatooine]] {{C|Mentioned in hologram only}} {{ID|Tattoine}} <!--On R2's map at the end of the film-->
+**[[Trillia]] {{1stm}}
+**[[Unknown Regions]]
+***[[7G sector]]
+****[[Ilum system]]
+****[[Starkiller Base system]] {{1st}}
+*****[[Ilum]]
+******[[Starkiller Base]] {{1st}}
+*******[[Command Center]] {{1st}}
+*******[[Hangar 718]] {{1stm}}
+*******[[Precinct 47]] {{1st}}
+*****[[Solo (star)|Solo]] {{1st}}
+*****[[Unidentified star (Starkiller Base)|Unidentified star]] {{1st}}
+***[[Ahch-To system]] {{1st}}
+****[[Ahch-To]] {{1st}}
+*****[[Temple Island]] {{1st}}
+******[[First Jedi Temple]] {{1stm}}
+******[[Jedi village]] {{1st}}
+******[[Saddle (Ahch-To)|Saddle]] {{1st}}
+**[[Western Reaches]]
+|organizations=
+*[[Alliance to Restore the Republic]] {{Mo}}
+**[[Tierfon Yellow Aces]] {{C|Emblem only}}
+*[[Arms dealer]]
+*[[Boss]]
+**[[Junk boss]] {{1st}}
+*[[Bounty hunter]]
+*[[Broken Horn Syndicate]] {{C|Emblem only}}
+*[[Chef]]
+*[[Church of the Force]] {{1st}}
+*[[Coalstreak Squadron]] {{1st}} {{C|Emblem only}}
+*[[Collector]]
+*[[Con artist]]
+*[[Constable]]
+*[[Controller]]
+*[[Corellian Engineering Corporation]] {{Mo}}
+*[[Dengue sisters]] {{1st}}
+*[[Deputy]]
+*[[Engineer]]
+*[[First Mate]]
+*[[First Order]] {{1st}}
+**[[First Order military]] {{1st}}
+***[[First Order Army]] {{1st}}
+****[[Stormtrooper Corps (First Order)|Stormtrooper Corps]] {{1st}}
+*****[[Flametrooper]] {{1st}}
+*****[[FN Corps]] {{1st}}
+*****[[Kylo Ren's division]] {{1st}}
+*****[[Megablaster heavy assault trooper]] {{1st}}
+*****[[Riot control stormtrooper (First Order)|Riot control stormtrooper]] {{1st}}
+*****[[Snowtrooper]] {{1st}}
+*****[[Stormtrooper (First Order)|Stormtrooper]] {{1st}}
+***[[First Order Navy]] {{1st}}
+****[[First Order fleet engineer]] {{1st}}
+****[[First Order starfighter corps]] {{1st}}
+*****[[First Order TIE Fighter Pilot]] {{1st}}
+*****[[Special Forces pilot]] {{1st}}
+*****[[Starkiller aerial defense force]] {{1st}}
+*****''[[Tarkin's Revenge]]'' {{1st}}
+***[[First Order Special Forces]] {{1st}}
+**[[First Order officer]] {{1st}}
+**[[Supreme Leader]] {{1st}} {{Hologram}}
+*[[Forger (profession)|Forger]] {{1st}}
+*[[Galactic Empire]] {{Mo}}
+*[[Guavian Death Gang]] {{1st}}
+**[[Guavian security soldier]] {{1st}}
+*[[Han Solo's shipping company]]
+*[[House of Organa]]
+**[[Prince]]ss {{Mo}}
+*[[Irving Boys]] {{Mo}}
+*[[Jedi Order]] {{Mo}}
+**[[Jedi]]
+**[[Jedi Master]]
+**[[Padawan]] {{Mo}}
+*[[Kanjiklub]] {{1st}}
+*[[Knights of Ren]] {{1st}}
+**[[Ren]]
+*[[Mercenary]]
+*[[Merchant]]
+**[[Junk dealer]]
+*[[Miramir's family]] {{1st}}
+{{!}}
+*[[Musician]]
+*[[New Republic]]
+**[[New Republic Senate|Galactic Senate]] {{Mo}}
+***[[Chancellor (New Republic)|Chancellor]] {{1stp}}
+***[[Senator]]
+**[[New Republic Defense Force]]
+***[[New Republic Defense Fleet]]
+****[[New Republic Home Fleet]] {{1st}}
+*[[Niima Outpost Militia]]
+*[[Ohnaka Gang]] {{C|Emblem only}}
+*[[Officer]]
+**[[Admiral]]
+**[[Captain]]
+**[[Chief Petty Officer]] {{1st}}
+**[[Colonel]]
+**[[Commander]]
+**[[Commodore]]
+**[[Communications Officer]]
+**[[Ensign]]
+**[[General]]
+**[[Lieutenant]]
+**[[Lieutenant Commander]]
+**[[Major]]
+**[[Petty Officer]] {{1st}}
+**[[Vice Admiral]]
+*[[Pirate]]
+*[[Police officer]]
+*[[Professor]]
+*[[Resistance]]
+**[[Resistance Army]] {{1st}}
+***[[Resistance trooper]] {{1st}}
+**[[Resistance ground crew]]
+***[[Ground Logistics Division]]
+**[[Resistance High Command]] {{1st}}
+**[[Resistance navy]]
+***[[Resistance Starfighter Corps]] {{1st}}
+****[[Black Leader]] {{1st}}
+****[[Blue Squadron (Resistance)|Blue Squadron]]
+*****[[Blue Leader]]
+*****[[Blue Three]]
+****[[Cobalt Squadron]] {{1st}} {{C|Emblem only}}
+****[[Red Squadron (Resistance)|Red Squadron]] {{1st}}
+*****[[Red Four]]
+*****[[Red Six]]
+****[[Resistance pilot]] {{1stID|resistance pilot}}
+**[[Resistance spy droid network]] {{1st}}
+***[[Droid Communications Chief]] {{1st}}
+**[[Resistance technician]] {{1st}}
+*[[Scavenger]]
+*[[Scientist]]
+**[[Cryptosurgeon]]
+*[[Scout]]
+*[[Second mate]] {{1stm}}
+*[[Shag Kava]] {{1st}}
+*[[Sidon Ithano's crew]]
+*[[Sith]] {{Mo}}
+**[[Darth]] {{Mo}}
+*[[Smuggler]]
+*[[Statura family]] {{1st}}
+*[[Technician]]
+*[[Unkar's thugs]] {{1st}}
+*[[Warlord]]
+|species=
+*[[Abednedo]]
+*[[Artiodac]] {{1st}}
+*[[Blarina]] {{1st}}
+*[[Bravaisian]] {{1st}}
+*[[Caskadag]] {{1st}}
+*[[Candovantan]] {{1st}}
+*[[Crolute]] {{1st}}
+*[[Culisetto]]
+*[[Delphidian]]
+*[[Dowutin]]
+*[[Dybrinthe]] {{1st}}
+*[[Frigosian]]
+*[[Gabdorin]]
+*[[Hassk]]
+*[[Human]]
+**[[Alderaanian]]
+**[[Chandrilan]]
+**[[Cloning|Clone]] {{Mo}}
+**[[Corellian]]
+**[[Naboo (people)|Naboo]]
+*[[Kyuzo]]
+*[[Mantellian Savrip]] {{C|as dejarik piece}}
+*[[Melitto]]
+*[[Mon Calamari]]
+*[[Narquois]]
+*[[Nu-Cosian]]
+*[[Onodone]] {{1stp}}
+*[[Ottegan]] {{1stp}}
+*[[Shozer]] {{1st}}
+*[[Stennes Shifter]]
+*[[Sullustan]]
+*[[Tarsunt]]
+*[[Teedo]] {{1st}}
+*[[Ubdurian]]
+*[[Urodel]] {{1st}}
+*[[Wookiee]]
+*[[Zenezian]] {{1st}}
+*[[Zuzabol]] {{1st}}
+|vehicles=
+*[[Escape pod]] {{Mo}}
+*[[Repulsorcraft]]
+**[[Speeder]]
+***[[Gian-211 patrol speeder]] {{1st}}
+***[[Jakku Raider Speeder]] {{1st}}
+***[[Light Infantry Utility Vehicle]] {{1st}}
+***[[Speeder bike]]
+****[[Rey's speeder]] {{1st}}
+*[[Space station]] {{Hologram}}
+**[[Battle station]] {{Hologram}}
+***[[Death Star]] {{Hologram}}
+****[[DS-1 Death Star Mobile Battle Station]] {{Hologram}}
+*[[Starship]]
+**[[Capital ship]]
+***[[Battlecruiser]] {{1st}}
+****[[Resurgent-class Star Destroyer|''Resurgent''-class Star Destroyer]] {{1st}}
+*****''[[Finalizer]]'' {{1st}}
+******[[Hangar Six]] {{1st}}
+*******[[Bay Two]] {{1st}}
+******[[Holding cell 64949]] {{1st}}
+***[[Dreadnought]] {{Wreck}}
+****[[Star Dreadnought]] {{Wreck}}
+*****[[Executor-class Star Dreadnought|''Executor''-class Star Dreadnought]] {{Wreck}}
+******''[[Ravager]]'' {{Wreck}}
+***[[Star Destroyer]]
+****[[Imperial-class Star Destroyer|''Imperial''-class Star Destroyer]] {{Wreck}}
+*****[[Imperial II-class Star Destroyer|''Imperial II''-class Star Destroyer]] {{Wreck}}
+******''[[Inflictor]]'' {{Wreck}}
+*****''[[Interrogator]]'' {{1st}} {{Wreck}}
+**[[Commuter ship]] {{1st}}
+***[[Star Tours Speeder]] {{1st}}
+**[[Cruiser]]
+***[[Light cruiser]]
+****[[First Order Light Cruiser]] {{1st}}
+***[[New Republic Cruiser]] {{1st}}
+**[[Freighter]]
+***[[Bulk freighter]]
+****[[Baleen-class heavy freighter|''Baleen''-class heavy freighter]] {{1st}}
+*****''[[Eravana]]'' {{1st}}
+***[[GR-75 medium transport]] {{Wreck}}
+***[[Light freighter]]
+****[[YT-1300 light freighter]]
+*****''[[Millennium Falcon]]''
+{{!}}
+**[[Scout ship]] {{1st}} {{C|monitor screen}}
+***[[Guavian Ship]] {{1st}} {{C|monitor screen}}
+**[[Shuttle]]
+***[[Abecederian line]] {{Wreck}}
+****[[Lambda-class T-4a shuttle|''Lambda''-class T-4a shuttle]] {{Wreck}}
+***[[Upsilon-class command shuttle|''Upsilon''-class command shuttle]] {{1st}}
+****[[Kylo Ren's command shuttle]] {{1st}}
+**[[Spacetug]]
+***[[TUG-b13]] {{1st}}
+**[[Starfighter]]
+***[[TIE line]]
+****[[TIE/fo space superiority fighter]] {{1st}}
+****[[TIE/ln space superiority starfighter]] {{Wreck}}
+****[[TIE/sf space superiority fighter]] {{1st}}
+***[[X-wing starfighter]]
+****[[T-65B X-wing starfighter]] {{Wreck}}
+****[[T-70 X-wing starfighter]]
+*****''[[Black One]]'' {{1st}}
+**[[Transport]]
+***[[CSS-1 Corellian Star Shuttle]]
+****''[[Meson Martinet]]'' {{1st}}
+***[[Jakku Transport]] {{1st}}
+***[[Troop transport]]
+****[[AAL-1971/9.1 Troop Transport]] {{1st}}
+****[[Resistance transport]] {{1st}}
+**[[Takodana Ship]] {{1st}}
+**[[Unidentified Resistance recon pod]] {{1stm}}
+*[[T-17]] {{1stm}}
+*[[Walker]]
+**[[All-terrain vehicle]]
+***[[All Terrain Armored Transport]] {{Wreck}}
+****[[All Terrain Armored Transport (Galactic Civil War)]] {{Wreck}}
+*****''[[Hellhound Two]]'' {{1st}} {{Wreck}}
+***[[All Terrain Mobile Artillery]] {{1st}}
+***[[All Terrain Patrol Droid]] {{1st}}
+|technology=
+*[[Arc welder]]
+*[[Armor]]
+**[[Death trooper armor]] {{1st}} {{Vision|Rey}} {{C|Fragment of helmet only}}
+**[[Guavian Death Gang security soldier armor]] {{1st}}
+**[[Kylo Ren's helmet]] {{1st}}
+**[[Pauldron]]
+**[[Stormtrooper armor]]
+***[[First Order stormtrooper armor]] {{1st}}
+****[[Phasma's armor]] {{1st}}
+**[[Vader's armor]] {{C|Burned helmet only}}
+*[[Barrel]]
+*[[Baton]]
+**[[Z6 riot control baton]] {{1st}}
+*[[Blaster]]
+**[[Blaster cannon]]
+***[[F-Z0 antipersonnel blaster cannon]] {{1st}}
+**[[Blaster pistol]]
+***[[Donderbus blaster pistol]] {{1st}}
+***[[DH-17 blaster pistol]]
+***[[Glie-44 blaster pistol]] {{1st}}
+***[[Heavy blaster pistol]]
+****[[DL-44 heavy blaster pistol]]
+*****[[Han's heavy blaster pistol]]
+***[[JSP-14 pistol]] {{1st}}
+***[[NN-14 blaster pistol]] {{1st}}
+****[[Rey's NN-14 blaster pistol]] {{1st}}
+*****[[Safety]] {{1st}}
+***[[SE-44C blaster pistol]] {{1st}}
+***[[Snub-blaster]] {{1st}}
+***[[VT-33d blaster pistol]] {{1st}}
+**[[Blaster rifle]]
+***[[Boiler rifle]] {{1st}}
+***[[EL-16 blaster rifle]] {{1st}}
+***[[EL-16HFE blaster rifle]] {{1st}}
+****[[Poe's blaster rifle]] {{1st}}
+***[[F-11D blaster rifle]] {{1st}}
+****[[Phasma's blaster rifle]] {{1st}}
+***[["Huttsplitter" blaster rifle]] {{1st}}
+***[["Wasp" blaster rifle]] {{1st}}
+**[[Percussive cannon]] {{1st}}
+**[[Repeating blaster]]
+***[[FWMB-10 repeating blaster]] {{1st}}
+**[[Sniper rifle]]
+***[[NT-242]] {{1st}}
+*[[Bloggin-oil lamp]] {{1st}}
+*[[Bonding tape]]
+*[[Bowcaster]]
+**[[Chewbacca's bowcaster]]
+*[[Breath mask]]
+**[[Roamer-6 emergency breathing mask]]
+*[[Compressor]] {{1st}}
+*[[Computer]]
+**[[Flight computer]] {{1st}}
+***[[Torplex flight computer]] {{1st}}
+*[[Datapad]]
+*[[Deflector shield]]
+**[[Planetary shield]] {{1st}}
+*[[Detonator]]
+*[[Ejector seat]]
+*[[Electro refractometer]] {{1st}}
+*[[Engine]]
+**[[Sublight engine]]
+***[[Ion engine]]
+****[[Twin ion engine]]
+*****[[P-s6 twin ion engine]] {{1st}}
+*[[Flamethrower]]
+**[[D-93 Incinerator flamethrower]] {{1st}}
+***[[D-93w flame projector gun]] {{1st}}
+{{!}}
+*[[Grenade]]
+**[[Mag-pulse grenade]] {{1st}}
+*[[Grenade launcher]]
+**[[Micro-grenade launcher]] {{1st}}
+*[[Harris wrench]] {{1st}}
+*[[Headset]]
+*[[Healing field generator]] {{1st}}
+*[[Holo-map]]
+*[[Hologram]]
+*[[Intensive care pod]] {{1st}}
+*[[Interrogation chair]]
+*[[J19 electroscope]] {{1st}}
+*[[Knife]]
+*[[Kyuzo war shield]]
+*[[Laser cannon]]
+**[[KX9 laser cannon]] {{Wreck}}
+**[[KX12 laser cannon]] {{1st}}
+**[[L-s9.6 laser cannon]] {{1st}}
+**[[Lb-14 dual heavy laser turret]] {{1st}}
+**[[Quad laser cannon]]
+***[[AG-2G quad laser cannon]]
+**[[R-9X heavy laser cannon]] {{1st}}
+*[[Lightsaber]]
+**[[Crossguard lightsaber]] {{1st}}
+***[[Kylo Ren's lightsaber]] {{1st}}
+**[[Skywalker lightsaber|Skywalker's lightsaber]]
+*[[Macroscope]] {{1st}}
+**[[J19 electroscope]] {{1st}}
+*[[Melee weapon]]
+**[[Staff]]
+***[[Quarterstaff]]
+****[[Rey's quarterstaff]] {{1st}}
+*[[Missile]]
+**[[Mag-pulse warhead]] {{1stm}}
+**[[Seeker (missile)|Seeker]] {{1st}}
+*[[Moisture vaporator]]
+*[[Motivator]] {{Mo}}
+*[[Pilex bit driver|Pillex driver]] {{1st}}
+*[[Proton torpedo]]
+**[[MG7-A proton torpedo]]
+*[[Quadex power core]] {{1stm}}
+*[[Quadnoculars]]
+**[[TE4.4 field quadnoculars]] {{1st}}
+*[[Quarrel]]
+*[[Rectenna]]
+*[[Repulsor anchor]] {{1st}}
+*[[Repulsorlift]]
+*[[Shield (physical armor)|Shield]]
+**[[Riot shield]]
+*[[Slugthrower]]
+*[[Spear]]
+**[[Ionization spear]] {{1st}}
+*[[SSP05 hyperdrive]] {{C|First mentioned; albeit indirectly}}
+*[[Stuncuffs]]
+*[[Superweapon]]
+**[[Hyper-lightspeed weapon]] {{1st}}
+*[[Thermal detonator]]
+**[[Pyro denton explosive]] {{1st}}
+*[[Thermal oscillator]] {{1st}}
+*[[Tractor beam]]
+*[[Trandoshan doubler]] {{1st}}
+*[[Trandoshan tripler]] {{1st}}
+*[[Vibro-halberd]] {{1st}}
+*[[Vibro-spike]] {{1st}}
+|miscellanea=
+*[[Acceleration couch]]
+*[[Armorweave]]
+*[[Aurebesh]]
+*[[Aurodium]]
+*[[Baffleweave]] {{1st}}
+*[[Bandolier]]
+*[[Betaplast]] {{1st}}
+*[[Board game]]
+**[[Deia's Dream]] {{1st}}
+*[[Bracelet]]
+**[[Bracelet of the Sutro]] {{1st}}
+*[[Callsign]]
+*[[Capital]]
+*[[Chance cube]]
+*[[Chitin]]
+*[[Chromium]]
+*[[Cilium]]
+*[[City]]
+*[[Classical architectural Hutt style]]
+*[[Clothing]]
+**[[Blarina vac-suit]] {{1st}}
+**[[Boot]]
+**[[Cape]]
+**[[Chain of Wisdom]] {{1st}}
+**[[First Order military uniforms]] {{1st}}
+**[[Flight helmet]]
+****[[K-22995 light flight helmet]]
+**[[Flight jacket]]
+**[[Flight suit]]
+**[[Flight vest]]
+**[[Greatcoat]]
+**[[Hat]]
+***[[Sedge hat]] {{1st}}
+**[[Jacket]]
+**[[Resistance fighter jacket]]
+**[[Robe]]
+***[[Tricorraan raider robes]] {{1st}}
+**[[Sackcloth]] {{1st}}
+**[[Sash of agreement]] {{1st}}
+**[[Sash of the Balanced]] {{1st}}
+**[[Ubdurian traveling smock]] {{1st}}
+*[[Color]]
+*[[Coma]]
+*[[Command tower]]
+*[[Death]]
+*[[Dejarik]]
+*[[Democracy]]
+*[[Desert]]
+*[[Division]]
+*[[Dobra Doompa]] {{1st}}
+*[[Doll]]
+**[[Alliance pilot doll]] {{1st}}
+*[[Droid ball fighting]] {{1st}}
+*[[First Order insignia]] {{1st}}
+*[[Foodstuff]]
+**[[Bread]]
+***[[Polystarch portion bread]] {{1st}}
+**[[Cushnip]] {{1st}}
+**[[Dressing]] {{1st}}
+***[[Chadian dressing]] {{1st}}
+***[[Ubese dressing]] {{1st}}
+**[[Fral]] {{1st}}
+**[[Fruit]]
+***[[Chando pepper]] {{1st}}
+***[[Durang fruit]] {{1st}}
+***[[Melon]]
+****[[Honey melon]] {{1st}}
+***[[Muja fruit]] {{1st}}
+***[[Oi-oi]] {{1st}}
+**[[Fruit jelly]] {{1st}}
+**[[Ration pack]]
+***[[Polystarch flour]] {{1st}}
+***[[Veg-meat]] {{1st}}
+**[[Sauce]]
+{{!}}
+*[[The Force]]
+**[[Dark side of the Force]]
+**[[Disturbance in the Force]]
+**[[Force power]]
+***[[Force Stasis]] {{1st}}
+***[[Force vision]]
+***[[Mind probe (Force power)|Mind probe]]
+***[[Mind trick]]
+***[[Telekinesis]]
+**[[Force-sensitive]]
+**[[Light side of the Force]]
+*[[Forest]]
+*[[Fuel]]
+**[[Rhydonium]]
+*[[Gaberwool]] {{1st}}
+*[[Gas]] {{Mo}}
+**[[Poison gas]] {{Mo}}
+*[[Goggles]]
+*[[Govath-wool]] {{1st}}
+*[[Hair]]
+*[[Hermit]]
+*[[Hyperspace]]
+*"[[I have a bad feeling about this]]"
+*[[Jedi training]] {{Mo}}
+*[[Kessel Run]] {{Mo}}
+*[[Lamp]]
+*[[Language]]
+**[[Abednedish]] {{1st}}
+**[[Binary]]
+***[[27th generation droidspeak]] {{1st}}
+**[[Compressed umbilic unicode]] {{1st}}
+**[[Delphidian (language)|Delphidian]] {{1st}}
+**[[Dowuta]] {{1st}}
+**[[Galactic Basic Standard]]
+**[[Gonkian]]
+**[[Hideo]] {{1st}}
+**[[Huttese]]
+**[[Jawren]] {{1st}}
+**[[Shyriiwook]]
+**[[Skakoverbal]]
+**[[Sullustese]]
+**[[Teedospeak]] {{1st}}
+**[[Ubdurian (language)|Ubdurian]] {{1st}}
+**[[Uthuthma (language)|Uthuthma]]
+*[[Leather]]
+**[[Bloggin-leather]] {{1st}}
+**[[Gorraslug-leather]] {{1st}}
+*[[Life Zone]] {{Vision|Rey}}
+*[[Maker]] {{Mo}}
+*[[Map to Skywalker]] {{1st}}
+*"[[May the Force be with you]]"
+*[[Maz's Curio Box]] {{1st}}
+*[[Militia]]
+*[[Music]]
+**[[Jabba Flow]] {{1st}}
+*[[Music|Musical instrument]]
+**[[Drum]]
+***[[Kasta drum]] {{1st}}
+**[[Hypolliope horn cluster]] {{1st}}
+**[[Seven-string hallikset]] {{1st}}
+**[[Xyloxan]] {{1st}}
+*[[Naval warfare]]
+*[[Nerf-leather]] {{1st}}
+*[[Ocean]]
+*[[Order 66]] {{Imo}}
+*[[Parsec]] {{Mo}}
+*[[Phantom energy]] {{1st}}
+*[[Pilot]]
+*[[Planet]]
+*[[Planetary ring]]
+*[[Plant]]
+**[[Heartweed]] {{1st}}
+**[[Nightbloomer]] {{1st}}
+**[[Spinebarrel]] {{1st}}
+*[[Poison]] {{Mo}}
+*[[Project Resurrection]] {{1stm}} {{Imo}}
+*[[Rank insignia of the First Order]] {{1st}}
+*[[Ration pack]] {{1st}}
+*[[Rebel Alliance starbird]]
+*[[Reconditioning]] {{1stm}}
+*[[Resistance rank badge]] {{1st}}
+*[[Ring]]
+**[[Signet ring]] {{1st}}
+***[[Leia Organa's signet ring]] {{1st}}
+*[[Ronin]]
+*[[Selenium]] {{1stm}}
+*[[Sentience]]
+*[[Species]]
+*[[Star map]]
+*[[Starfighter combat]]
+*[[Time]]
+**[[Galactic Standard Time]] {{1stm}}
+*[[Torture]]
+*[[Transparisteel]]
+*[[Garbage compactor|Trash compactor]] {{Mo}}
+*[[Treason]]
+*[[Trial of ascendancy]] {{1st}}
+*[[Tsu-seed]]
+*[[Water]]
+*[[Wroshyr wood]]
+*[[Zygerrian-style faux crests]] {{1st}}
+}}
+
+==Sources==
+{{Scroll_box|content=
+{{Mediacat|imagecat=Images from Star Wars: Episode VII The Force Awakens}}
+*{{InsiderCite|26|An Exclusive Interview with George Lucas}}
+*{{SW|url=news/new-star-wars-movies-announced-as-disney-enters-agreement-to-acquire-lucasfilm-ltd|text=New ''Star Wars'' Movies Announced as Disney Enters Agreement to Acquire Lucasfilm Ltd.}}
+*{{SW|url=news/on-the-brink-of-the-future|text=On the Brink of the Future}}
+*{{SW|url=news/passing-the-baton-meet-kathleen-kennedy|text=Passing the Baton: Meet Kathleen Kennedy}}
+*{{SW|url=news/the-long-winding-and-shapeshifting-trail-to-episodes-vii-viii-ix|text=The Long, Winding, and Shapeshifting Trail to Episodes VII, VIII & IX}}
+*{{SW|url=news/star-wars-will-be-forever|text=''Star Wars'' Will Be Forever}}
+*{{SW|url=news/michael-arndt-to-write-screenplay-for-star-wars-episode-vii|text=Michael Arndt to Write Screenplay for ''Star Wars'': Episode VII}}
+*{{SW|url=news/speculation-season-starts-let-the-sequel-trilogy-rumors-begin|text=Speculation Season Starts: Let the Sequel Trilogy Rumors Begin!}}
+*{{InsiderCite|138|Launchpad}}
+*{{SW|url=news/star-wars-is-being-kick-started-with-dynamite|text=''Star Wars'' Is Being Kick-Started with Dynamite}}
+*{{SW|url=news/director-j-j-abrams-and-his-lifelong-appreciation-of-star-wars|text=Director J.J. Abrams and His Lifelong Appreciation of ''Star Wars''}}
+*{{InsiderCite|140|Launchpad}}
+*{{InsiderCite|141|Launchpad}}
+*{{SW|url=news/star-wars-celebration-europe-2013-john-williams-to-score-star-wars-episode-vii|text=''Star Wars'' Celebration Europe 2013: John Williams to Score ''Star Wars'': Episode VII}}
+*{{SW|url=news/master-filmmaking-team-announced-for-star-wars|text=Master Filmmaking Team Announced for ''Star Wars'': Episode VII}}
+*{{InsiderCite|145|Shaping the Past}}
+*{{SW|url=news/star-wars-episode-vii-to-open-december-18-2015|text=Star Wars: Episode VII to Open December 18, 2015}}
+*{{SW|url=news/r2-d2-is-in-star-wars-episode-7-and-hes-fan-made|text=R2-D2 is in ''Star Wars'': Episode VII, and he's Fan-made}}
+*{{InsiderCite|146|Launchpad}}
+*{{InsiderCite|147|Launchpad}}
+*{{InsiderCite|147|Bad to the Bib}}
+*{{InsiderCite|147|Creature Creator}}
+*{{InsiderCite|148|Bantha Tracks (newsletter)|Bantha Tracks}}
+*{{SW|url=news/star-wars-episode-vii-set-to-roll-cameras-may-2014|text=Star Wars: Episode VII Set to Roll Cameras May 2014}}
+*{{SW|url=news/announcing-an-exciting-new-array-of-star-wars-childrens-books|text=Announcing An Exciting New Array of ''Star Wars'' Children's Books}}
+*{{InsiderCite|149|Launchpad}}
+*{{InsiderCite|149|Bantha Tracks (newsletter)|Bantha Tracks}}
+*{{SW|url=news/the-legendary-star-wars-expanded-universe-turns-a-new-page|text=The Legendary ''Star Wars'' Expanded Universe Turns a New Page}}
+*{{SW|url=news/star-wars-episode-7-cast-announced|text=Star Wars: Episode VII Cast Announced}}
+*{{SWYoutube|Nt37ppfO0OQ|Star Wars Day Greeting from J.J. Abrams and Lawrence Kasdan|archivedate=20200519062318}}
+*{{SWYoutube|XfNiC9iKM0Q|Star Wars: Force for Change - A Message from J.J. Abrams|archivedate=20200519062704}}
+*{{SW|url=news/star-wars-episode-vii-adds-academy-award-winner-lupita-nyongo-and-game-of-thrones-gwendoline-christie|text=''Star Wars'': Episode VII Adds Academy Award Winner Lupita Nyong'o and ''Game of Thrones''{{'}} Gwendoline Christie}}
+*{{InsiderCite|150|Launchpad}}
+*{{InsiderCite|150|Insider Looks Back}}
+*{{SW|url=news/star-wars-episode-vii-production-update|text=''Star Wars'': Episode VII Production Update}}
+*{{SW|url=video/droid-designs-chopper-from-star-wars-rebels-comes-to-life|text=Droid Design: Chopper from ''Star Wars Rebels'' Comes to Life}}
+*{{SW|url=news/star-wars-rebels-and-more-at-san-diego-comic-con-2014|text=''Star Wars Rebels'' and More at San Diego Comic-Con 2014 &ndash; Updated!}}
+*{{InsiderCite|151|Launchpad}}
+*{{InsiderCite|151|Fangirls}}
+*{{SW|url=video/star-wars-force-for-change-an-update-from-j-j-abrams|text=''Star Wars'': Force for Change &ndash: An Update from J.J. Abrams}}
+*{{SW|url=news/star-wars-invades-comic-con|text=''Star Wars'' Invades Comic-Con}}
+*{{SWYoutube|lXa8Bw3aGMQ|Star Wars: Force For Change Winner Reveal|archivedate=20190815031956}}
+*{{InsiderCite|152|Launchpad}}
+*{{InsiderCite|152|Rebel Friends!}}
+*{{SW|url=news/star-wars-collecting-taking-a-first-step-into-a-larger-world|text=''Star Wars'' Collecting: Taking a First Step Into a Larger World}}
+*{{SWYoutube|us0MWzVBnxM&|text=Will Warwick Davis Appear in Star Wars: Episode VII?|archivedate=20151231185500}}
+*{{InsiderCite|153|C-3PO's Communication Station!}}
+*{{InsiderCite|153|Connecting with the Force!}}
+*{{InsiderCite|153|Bounty Hunters (Star Wars Insider)|Bounty Hunters}}
+*{{InsiderCite|153|Bantha Tracks (newsletter)|Bantha Tracks}}
+*{{Twitter|starwars|status/530404275957293056/photo/1|Star Wars|archivedate=20200509104401}} {{1stID|''Star Wars: The Force Awakens''}}
+*{{SW|url=news/return-of-the-star-wars-rumors|text=Return of the ''Star Wars'' Rumors}}
+*{{SW|url=news/star-wars-the-force-awakens-tease-theater-list|text=''Star Wars: The Force Awakens'' Tease Theater List}}
+*{{SWYoutube|erLk59H86ww|Star Wars: The Force Awakens Official Teaser Trailer|archivedate=20200526185005}}
+*{{InsiderCite|154|Launchpad}}
+*{{InsiderCite|154|C-3PO's Communication Station!}}
+*{{InsiderCite|154|50 Greatest Reasons to Love the Original Trilogy}}
+*{{InsiderCite|154|Blaster (Star Wars Insider)|Blaster}}
+*{{SW|url=news/warwick-davis-a-career-from-endor-to-hogwarts|text=Warwick Davis: A Career from Endor to Hogwarts}}
+*{{SW|url=news/first-days-of-shooting-part-1-the-original-trilogy|text=''Star Wars''' First Days of Shooting, Part 1: The Original Trilogy}}
+*{{SW|url=films/star-wars-the-force-awakens-digital-trading-cards|text=Star Wars: The Force Awakens Digital Trading Cards}}
+*{{SWYoutube|-uHGK85ASSY|Inside The Force Awakens Trailer – Disney XD Official|archivedate=20141216063235}}
+*{{SW|url=news/star-wars-a-family-affair|text=''Star Wars'', A Family Affair}}
+*{{SW|url=news/star-wars-first-days-of-shooting-part-2-the-prequel-trilogy|text=''Star Wars'' First Days of Shooting, Part 2: The Prequel Trilogy}}
+*{{SWYoutube|48dGX8zmK4I|Thank you from the set of Star Wars: The Force Awakens!|archivedate=20190530171903}}
+*{{SW|url=news/biggest-star-wars-moments-of-2014|text=Biggest ''Star Wars'' Moments of 2014}}
+*{{SWYoutube|ev2cPgGppR0|Star Wars Saga Children's Books: Meet the Authors|nobackup=1}}
+*{{InsiderCite|155|Launchpad}}
+*{{InsiderCite|155|I'm Here to Rescue You}}
+*{{InsiderCite|155|Editing the Galaxy}}
+*{{InsiderCite|155|The Circle Is Now Complete}}
+*{{InsiderCite|155|Blaster (Star Wars Insider)|Blaster}}
+*{{SW|url=news/critical-opinion-revenge-of-the-sith-original-reviews|text=Critical Opinion: ''Revenge of the Sith'' Original Reviews}}
+*{{SW|url=news/carrie-fisher-anthony-daniels-and-more-coming-to-star-wars-celebration-2015|text=Carrie Fisher, Anthony Daniels, and More Coming to ''Star Wars'' Celebration 2015}}
+*{{SW|url=news/j-j-abrams-and-kathleen-kennedy-to-kick-off-star-wars-celebration|text=J.J. Abrams and Kathleen Kennedy to Kick Off ''Star Wars'' Celebration}}
+*{{InsiderCite|156|C-3PO's Communication Station}}
+*{{InsiderCite|156|Legendary Authors|Legendary Authors: Alan Dean Foster}}
+*{{InsiderCite|156|Classic Moment|Classic Moment: Selling Star Wars}}
+*{{SW|url=news/journey-to-star-wars-the-force-awakens-publishing-program-coming-fall-2015|text="Journey to ''Star Wars: The Force Awakens''" Publishing Program Coming Fall 2015}}
+*{{SW|url=news/rogue-one-is-the-first-star-wars-stand-alone-film-rian-johnson-to-write-and-direct-star-wars-episode-viii|text=''Rogue One'' is the First ''Star Wars'' Stand-Alone Film, Rian Johnson to Write and Direct ''Star Wars'': Episode VIII}}
+*{{SW|url=news/what-happened-after-endor-find-out-in-star-wars-aftermath|text=What Happened After Endor? Find Out in ''Star Wars: Aftermath''}}
+*{{SW|url=news/john-williams-to-record-star-wars-the-force-awakens-score-in-los-angeles|text=John Williams to Record ''Star Wars: The Force Awakens'' Score in Los Angeles}}
+*{{SW|url=news/watch-star-wars-celebration-anaheim-live-on-starwars-com-powered-by-verizon|text=''Star Wars'' Celebration Anaheim Live on StarWars.com, Powered by Verizon!}}
+*{{SW|url=news/star-wars-celebration-anaheim-merchandise-sneak-peek-part-4|text=''Star Wars'' Celebration Anaheim Merchandise Sneak Peek, Part 4!}}
+*{{SW|url=news/star-wars-force-for-change-at-celebration-anaheim|text=Star Wars: Force For Change at Celebration Anaheim}}
+*{{SWYoutube|bVUAFMVwYm0|Star Wars: Force for Change - Meet Winner D.C. Barns|archivedate=20190609032348}}
+*{{SWYoutube|ngElkyQ6Rhs|Star Wars: The Force Awakens Official Teaser #2|archivedate=20190321151746}}
+*{{SW|url=news/swca-star-wars-the-force-awakens-panel-liveblog|text=SWCA: ''Star Wars: The Force Awakens'' Panel Liveblog}}
+*{{SWYoutube|zydpi38qQRo|Star Wars Celebration 2015: The Force Awakens Panel Highlights|archivedate=20200106070752}}
+*{{InsiderCite|157|Launchpad}}
+*{{InsiderCite|157|C-3PO's Communication Station!}}
+*{{InsiderCite|157|The Saga Continues}}
+*{{InsiderCite|157|Blaster (Star Wars Insider)|Blaster}}
+*{{InsiderCite|157|Bantha Tracks (newsletter)|Bantha Tracks}}
+*{{SW|url=news/star-wars-the-force-awakens-products-to-arrive-on-force-friday-september-4|text=''Star Wars: The Force Awakens'' Products to Arrive on 'Force Friday,' September 4}}
+*{{SW|url=news/galaxy-wire-star-wars-news-from-around-the-web-may-8-2015|text=Galaxy Wire: ''Star Wars'' News from Around the Web – May 8, 2015}}
+*{{SW|url=news/capturing-a-galaxy-an-interview-with-annie-leibovitz-exclusive|text=Capturing a Galaxy: An Interview with Annie Leibovitz &ndash; Exclusive}}
+*{{SW|url=news/star-wars-insider-158-10-highlights|text=''Star Wars Insider'' #158: 10 Highlights!}}
+*{{InsiderCite|158|Launchpad}}
+*{{SW|url=news/star-wars-the-force-awakens-more-coming-to-san-diego-comic-con-2015|text=''Star Wars: The Force Awakens'' and More Coming to San Diego Comic-Con 2015}}
+*{{InsiderCite|158|C-3PO's Communication Station!}}
+*{{InsiderCite|158|Vanessa's View}}
+*{{InsiderCite|158|Bantha Tracks (newsletter)|Bantha Tracks}}
+*{{SW|url=news/galaxy-wire-star-wars-news-from-around-the-web-june-23-2015|text=Galaxy Wire: ''Star Wars'' News from Around the Web – June 23, 2015}}
+*{{SW|url=news/galaxy-wire-star-wars-news-from-around-the-web-july-1-2015|text=Galaxy Wire: ''Star Wars'' News from Around the Web &ndash; July 1, 2015}}
+*{{SW|url=news/coming-soon-to-your-personal-jedi-archives-journey-to-star-wars-the-force-awakens-sneak-peek|text=Coming Soon to Your Personal Jedi Archives: Journey to ''Star Wars: The Force Awakens'' &ndash; Sneak Peek!}}
+*{{SW|url=news/sdcc-2015-star-wars-publishing-panel-liveblog|text=SDCC 2015: ''Star Wars'' Publishing Panel Liveblog}}
+*{{SW|url=news/sdcc-2015-hasbro-star-wars-panel-liveblog|text=SDCC 2015: Hasbro ''Star Wars'' Panel Liveblog}}
+*{{SW|url=news/sdcc-2015-star-wars-the-force-awakens-panel-liveblog|text=SDCC 2015: ''Star Wars: The Force Awakens'' Panel Liveblog}}
+*{{SW|url=video/star-wars-the-force-awakens-comic-con-2015-reel|text=''Star Wars: The Force Awakens'' &ndash; Comic-Con 2015 Reel}}
+*{{InsiderCite|159|Launchpad}}
+*{{SW|url=news/galaxy-wire-star-wars-news-from-around-the-web-august-4-2015|text=Galaxy Wire: ''Star Wars'' News from Around the Web – August 4, 2015}}
+*{{SW|url=news/the-new-galaxy-of-star-wars-shattered-empire-an-interview-with-greg-rucka|text=The New Galaxy of ''Star Wars: Shattered Empire'': An Interview with Greg Rucka}}
+*{{SW|url=news/lucasfilm-and-hp-celebrate-star-wars-the-force-awakens-with-art-awakens-program|text=Lucasfilm and HP Celebrate ''Star Wars: The Force Awakens'' with "Art Awakens" Program}}
+*{{SW|url=news/galaxy-wire-star-wars-news-from-around-the-web-august-11-2015|text=Galaxy Wire: ''Star Wars'' News from Around the Web &ndash; August 11, 2015}}
+*{{SW|url=news/entertainment-weekly-previews-star-wars-the-force-awakens|text=''Entertainment Weekly'' Previews ''Star Wars: The Force Awakens''}}
+*{{SW|url=news/new-and-enhanced-star-wars-experiences-coming-to-disney-parks|text=New and Enhanced ''Star Wars'' Experiences Coming to Disney Parks}}
+*{{SW|url=news/galaxy-wire-star-wars-news-from-around-the-web-august-25-2015|text=Galaxy Wire: ''Star Wars'' News from Around the Web &ndash; August 25, 2015}}
+*{{SW|url=news/the-force-awakens-around-the-world-star-wars-fans-invited-to-join-global-event-on-youtube|text=''The Force Awakens'' Around the World: ''Star Wars'' Fans Invited to Join Global Event on YouTube}}
+*{{SWYoutube|9eFgKVrzEfg|Star Wars: Force Friday Preview|archivedate=20200505155901}}
+*{{SW|url=news/droid-dreams-how-neal-scanlan-and-the-star-wars-the-force-awakens-team-brought-bb-8-to-life|text=Droid Dreams: How Neal Scanlan and the ''Star Wars: The Force Awakens'' Team Brought BB-8 to Life}}
+*{{SW|url=news/ea-previews-the-battle-of-jakku-on-star-wars-battlefront|text=EA Previews the Battle of Jakku in ''Star Wars Battlefront''!}}
+*{{SW|url=news/video-of-star-wars-the-force-awakens-appear-on-instagram|text=New Footage of ''Star Wars: The Force Awakens'' Debuts on Instagram!}}
+*{{SW|url=news/force-friday-event-guide|text=Force Friday Event Guide}}
+*{{SW|url=news/the-star-wars-the-force-awakens-soundtrack-arrives-december-18|text=The ''Star Wars: The Force Awakens'' Soundtrack Arrives December 18}}
+*{{SW|url=news/star-wars-special-c-3po-1|text=How Did C-3PO Get His Red Arm? Find Out in ''Star Wars Special: C-3PO'' #1}}
+*{{InsiderCite|160|Launchpad}}
+*{{InsiderCite|160|Back on Set!}}
+*{{InsiderCite|160|Blaster (Star Wars Insider)|Blaster}}
+*{{InsiderCite|160|Bantha Tracks (newsletter)|Bantha Tracks}}
+*{{SW|url=news/9-connections-star-wars-aftermath-makes-to-the-known-star-wars-universe|text=9 Connections ''Star Wars: Aftermath'' Makes to the Known ''Star Wars'' Universe}}
+*{{SW|url=news/star-wars-insider-and-topps-unite-to-kick-off-journey-to-star-wars-the-force-awakens-trading-card-series|text=''Star Wars Insider'' and Topps Launch 'Journey to ''Star Wars: The Force Awakens''' Trading Cards}}
+*{{SW|url=news/how-a-han-guy-signed-up-for-team-luke|text=How a Han Guy Signed Up for Team Luke}}
+*{{SW|url=news/introducing-star-wars-absolutely-everything-you-need-to-know|text=Introducing ''Star Wars: Absolutely Everything You Need to Know''}}
+*{{SW|url=news/how-sphero-created-their-bb-8-toy|text=How Sphero Created Their BB-8 Toy}}
+*{{SW|url=news/the-art-of-star-wars-the-force-awakens-book-coming-in-december|text=''The Art of Star Wars: The Force Awakens'' Book Coming in December}}
+*{{SW|url=news/chuck-wendigs-force-friday-reading-of-star-wars-aftermath|text=Chuck Wendig's Force Friday Reading of ''Star Wars: Aftermath''}}
+*{{SW|url=news/force-powered-mail-star-wars-stamps-coming-to-the-uk|text=Force-Powered Mail: ''Star Wars'' Stamps Coming to the UK}}
+*{{SW|url=news/star-wars-insider-160-10-highlights|text=''Star Wars Insider'' #160: 10 Highlights!}}
+*{{SW|url=news/galaxy-wire-star-wars-news-from-around-the-web-september-22-2015|text=Galaxy Wire: ''Star Wars'' News from Around the Web &ndash; September 22, 2015}}
+*{{SW|url=news/a-galaxy-of-star-wars-the-force-awakens-books-coming-december-18-first-look|text=A Galaxy of ''Star Wars: The Force Awakens'' Books Coming December 18 – First Look!}}
+*{{SW|url=news/star-wars-day-at-att-park-fans-celebrate-the-saga|text=''Star Wars'' Day at AT&T Park: Fans Celebrate the Saga!}}
+*{{SW|url=news/highlights-from-the-art-awakens-contest|text=Highlights from the Art Awakens Program}}
+*{{SW|url=news/the-force-flows-at-new-york-comic-con-2015|text=The Force Flows at New York Comic Con 2015!}}
+*{{SW|url=news/star-wars-and-the-power-of-costume-set-to-invade-discovery-times-square|text=Rebel, Jedi, Princess, Queen, ''Star Wars'' and the Power of Costume Comes to Discovery Times Square}}
+*{{SW|url=news/a-day-in-the-life-of-spheros-bb-8|text=A Day in the Life of Sphero's BB-8}}
+*{{SW|url=news/journey-to-the-force-awakens-panel-at-new-york-comic-con-recap|text=Journey to ''The Force Awakens'' Panel at New York Comic Con – Recap}}
+*{{SW|url=news/star-wars-the-force-awakens-theatrical-poster-first-look-in-theater-exclusives-and-more|text=''Star Wars: The Force Awakens'' Theatrical Poster First Look, In-theater Exclusives And More}}
+*{{SW|url=video/star-wars-the-force-awakens-trailer-official|text=Star Wars: The Force Awakens Trailer (Official)}}
+*{{SW|url=news/fully-operational-fandom-the-waiting-is-the-hardest-and-maybe-greatest-part|text=Fully Operational Fandom: The Waiting Is the Hardest (and Maybe Greatest) Part}}
+*{{SW|url=news/galaxy-wire-special-edition-star-wars-the-force-awakens-blowout|text=Galaxy Wire Special Edition: ''Star Wars: The Force Awakens'' Blowout!}}
+*{{SW|url=news/fully-operational-fandom-pumpkins-from-a-galaxy-far-far-away|text=Fully Operational Fandom: Pumpkins from a Galaxy Far, Far Away}}
+*{{SW|url=news/thank-you-for-a-historic-star-wars-the-force-awakens-week|text=Thank You for a Historic ''Star Wars: The Force Awakens Week''}}
+*{{SW|url=news/star-wars-501st-and-rebel-legions-patrol-the-aquarium-of-the-pacific|text=''Star Wars'' 501st and Rebel Legions Patrol the Aquarium of the Pacific}}
+*{{SW|url=news/social-scanner-october-23-2015|text=Social Scanner &ndash; October 23, 2015}}
+*{{SW|url=news/star-wars-trailers-part-1-the-original-trilogy|text=''Star Wars'' Trailers Part 1: The Original Trilogy}}
+*{{SW|url=news/galaxy-wire-homemade-star-wars-costumes-october-27-2015|text=Galaxy Wire: Homemade ''Star Wars'' Costumes and More! &ndash; October 27, 2015}}
+*{{SW|url=news/fully-operational-fandom-pets-in-star-wars-costumes-are-the-best|text=Fully Operational Fandom: Pets in ''Star Wars'' Costumes Are the Best}}
+*{{SW|url=news/star-wars-in-the-uk-star-wars-night-with-the-cbso|text=''Star Wars'' in the UK: ''Star Wars'' Night with the CBSO}}
+*{{SW|url=news/social-scanner-halloween-edition-october-30-2015|text=Social Scanner: Halloween Edition! &ndash; October 30, 2015}}
+*{{SW|url=news/collectibles-from-the-outer-rim-vintage-return-of-the-jedi-activity-book|text=Collectibles from the Outer Rim: Vintage ''Return of the Jedi'' Activity Book!}}
+*{{SW|url=news/galaxy-wire-clocking-first-order-tie-fighters-and-more-november-3-2015|text=Galaxy Wire: Clocking First Order TIE Fighters and More! &ndash; November 3, 2015}}
+*{{SW|url=news/star-wars-the-force-awakens-character-posters-revealed|text=''Star Wars: The Force Awakens'' Character Posters Revealed}}
+*{{SW|url=news/inside-duracells-star-wars-commercial-battle-for-christmas-morning|text=Inside Duracell's ''Star Wars'' Commercial, 'Battle for Christmas Morning'}}
+*{{SW|url=news/from-phasma-to-the-falcon-see-the-art-awakens-program-winners|text=From Phasma to the ''Falcon'': See the Art Awakens Program Winners}}
+*{{SW|url=news/studying-skywalkers-themes-in-star-wars-attack-of-the-clones|text=Studying Skywalkers: Themes in ''Star Wars: Attack of the Clones''}}
+*{{SW|url=news/feel-the-dark-side-with-anovos-amazing-kylo-ren-helmet-first-look|text=Feel the Dark Side with ANOVOS' Amazing Kylo Ren Helmet &ndash: First Look}}
+*{{SW|url=video/action-movie-fx-star-wars|text=Action Movie FX: Star Wars}}
+*{{SW|url=news/star-wars-music-comes-to-spotify|text=''Star Wars'' Music Comes to Spotify}}
+*{{SW|url=news/social-scanner-hangin-with-bb-8-and-more|text=Social Scanner: Hangin' with BB-8 and More!}}
+*{{SW|url=video/star-wars-the-force-awakens-tv-spot-official|text=Star Wars: The Force Awakens TV Spot (Official)}}
+*{{SW|url=news/code-org-and-disney-launch-star-wars-building-a-galaxy-with-code|text=Code.org and Disney Launch {{'}}''Star Wars'': Building a Galaxy with Code'}}
+*{{SW|url=news/toy-empire-captain-phasma-figure-and-collectible-roundup|text=Toy Empire: Captain Phasma Figure and Collectible Roundup!}}
+*{{SW|url=news/general-mills-cereals-have-the-droids-youre-looking-for|text=General Mills Cereals Have the Droids You're Looking For}}
+*{{SW|url=news/now-you-can-direct-bb-8-star-wars-comes-to-bad-robots-action-movie-fx-app|text=Now, You Can Direct BB-8: ''Star Wars'' Comes to Bad Robot's Action Movie FX App}}
+*{{SW|url=news/meet-the-brooklyn-nets-jedi-center-an-interview-with-brook-lopez|text=Meet the Brooklyn Nets' Jedi Center: An Interview with Brook Lopez}}
+*{{SW|url=news/get-a-first-look-at-the-star-wars-the-force-awakens-imax-3d-poster|text=Take a First Look at the ''Star Wars: The Force Awakens'' IMAX 3D Poster}}
+*{{SW|url=video/star-wars-the-force-awakens-60-second-tv-spot|text=Star Wars: The Force Awakens TV Spot :60}}
+*{{SW|url=news/expand-your-star-wars-the-force-awakens-experience-in-disney-infinity-3-0-edition-with-power-discs-exclusive|text=Expand Your ''Star Wars: The Force Awakens'' Experience in ''Disney Infinity 3.0 Edition'' with Power Discs &ndash; Exclusive!}}
+*{{SW|url=news/social-scanner-fans-show-off-star-wars-the-force-awakens-tickets-and-more|text=Social Scanner: Fans Show Off ''Star Wars: The Force Awakens'' Tickets and More!}}
+*{{SW|url=news/art-awakens-gallery-event-celebrates-star-wars|text=Art Awakens Gallery Event Celebrates the Dark Side, the Light Side, and a Good Cause}}
+*{{SW|url=news/8-things-to-look-for-at-disneylands-season-of-the-force|text=8 Things to Look for at Disneyland's Season of the Force}}
+*{{SW|url=video/star-wars-the-force-awakens-tv-spot-2|text=''Star Wars: The Force Awakens'' TV Spot 2}}
+*{{SW|url=news/star-wars-trailers-part-2-the-prequel-trilogy|text=''Star Wars'' Trailers, Part 2: The Prequel Trilogy}}
+*{{SW|url=news/luminous-beings-are-we-the-first-star-wars-commercials|text=Luminous Beings Are We: The First ''Star Wars'' Commercials}}
+*{{SW|url=news/star-wars-the-force-awakens-to-be-mastered-in-dolby-vision-and-dolby-atmos|text=''Star Wars: The Force Awakens'' to be Mastered in Dolby Vision and Dolby Atmos}}
+*{{SW|url=news/force-4-fashion-brings-designers-and-star-wars-together-for-charity|text='Force 4 Fashion' Brings Designers and ''Star Wars'' Together for Charity}}
+*{{SW|url=news/star-wars-insider-2016-special-edition-10-11-highlights|text=''Star Wars Insider'' 2016 Special Edition: 11 Highlights!}}
+*{{SW|url=news/feel-the-force-with-star-wars-jedi-master-magazine|text=Feel the Force with ''Star Wars: Jedi Master'' Magazine}}
+*{{SW|url=video/harrison-ford-surprises-star-wars-fans-with-big-news-for-charity|text=Harrison Ford Surprises ''Star Wars'' Fans with Big News&hellip; For Charity}}
+*{{SW|url=news/harrison-ford-and-omaze-announce-a-chance-to-meet-the-cast-and-attend-the-premiere-of-star-wars-the-force-awakens|text=Meet the Cast and Attend the Premiere of ''Star Wars: The Force Awakens''}}
+*{{SW|url=news/warwick-davis-bb8-children-in-need|text=Warwick Davis, BB-8, and Others Join Forces for the BBC's ''Children in Need'' UK Fundraiser}}
+*{{SW|url=news/star-wars-holiday-gift-guide-2015|text=''Star Wars'' Holiday Gift Guide 2015!}}
+*{{SW|url=news/the-artist-awakens-talking-with-300-days-of-star-wars-tim-anderson|text=Fully Operational Fandom: The Artist Awakens &ndash; Talking with 300 Days of ''Star Wars''{{'}} Tim Anderson}}
+*{{SW|url=news/star-wars-ice-sculptures-come-to-belgium-and-theyre-amazing|text=''Star Wars'' Ice Sculptures Come to Belgium, and They're Amazing}}
+*{{SW|url=news/star-wars-battlefront-fan-reactions-and-great-gameplay-moments|text=''Star Wars Battlefront'': Fan Reactions and Great Gameplay Moments}}
+*{{SW|url=video/art-awakens-star-wars-and-the-passion-of-creativity|text=Art Awakens: ''Star Wars'' and the Passion of Creativity}}
+*{{SWYoutube|rj8jWBig0bs|Star Wars: The Force Awakens Finn TV Spot (Official)|archivedate=20200811195817}}
+*{{SW|url=news/disney-and-google-announce-stunning-interactive-experiences-to-celebrate-star-wars-the-force-awakens|text=Disney and Google Announce Stunning Interactive Experiences to Celebrate ''Star Wars: The Force Awakens''}}
+*{{SW|url=news/5-ways-to-incorporate-star-wars-into-your-thanksgiving-gathering|text=5 Ways to Incorporate ''Star Wars'' into Your Thanksgiving Gathering}}
+*{{SW|url=news/1976-star-wars-memo-the-public-will-be-electrified|text=1976 ''Star Wars'' Memo: "The Public Will Be Electrified"}}
+*{{SW|url=news/fully-operational-fandom-being-grateful-for-star-wars|text=Fully Operational Fandom: Being Grateful for ''Star Wars''}}
+*{{SWYoutube|A9RtGRFNQxs|Star Wars: The Force Awakens "All the Way" TV Spot (Official)|archivedate=20200702115304}}
+*{{SW|url=news/toy-empire-introducing-your-toddler-to-star-wars-with-toys|text=Toy Empire: Introducing Your Toddler to ''Star Wars''&hellip;with Toys!}}
+*{{SW|url=news/a-galaxy-of-star-wars-the-force-awakens-books-coming-december-18-first-look|text=A Galaxy of ''Star Wars: The Force Awakens'' Books Coming December 18 – First Look!}}
+*{{SW|url=news/experience-star-wars-like-never-before-in-jakku-spy|text=Experience ''Star Wars'' Like Never Before in Jakku Spy}}
+*{{SW|url=news/studying-skywalkers-themes-in-star-wars-a-new-hope|text=Studying Skywalkers: Themes in ''Star Wars: A New Hope''}}
+*{{SWYoutube|v7BwIyNN9rs|Mark Hamill Goes Undercover as a Stormtrooper on Hollywood Blvd|archivedate=20180102170004}}
+*{{SW|url=news/the-resistance-comes-to-hallmarks-keepsake-ornaments-series|text=The Resistance Comes to Hallmark's Keepsake Ornaments Series}}
+*{{SW|url=news/peek-inside-funkos-smugglers-bounty-first-order-subscription-box|text=Peek Inside Funko's Smuggler's Bounty First Order Subscription Box}}
+*{{SW|url=news/amazing-star-wars-the-epic-battles-poster-has-more-in-jokes-than-you-can-possibly-imagine|text=Amazing ''Star Wars: The Epic Battles'' Poster Has More In-Jokes Than You Can Possibly Imagine}}
+*{{SW|url=news/four-new-journey-to-star-wars-the-force-awakens-short-stories-available-now|text=Four New Journey to ''Star Wars: The Force Awakens'' Short Stories Available Now}}
+*{{SWYoutube|P7xZV_26VYU|Star Wars: The Force Awakens "Legacy" Featurette (Comic Con Experience, Brazil)|archivedate=20200222011517}}
+*{{SWYoutube|QNCk-zb6OqI|Kathleen Kennedy Announces Chance for TWO MORE Winners to Attend Star Wars Premiere|archivedate=20180410083504}}
+*{{SW|url=news/awaken-your-force-re-record-star-wars-music-for-the-star-wars-the-force-awakens-premiere|text=Awaken Your Force: Re-Record ''Star Wars'' Music for the ''Star Wars: The Force Awakens'' Premiere}}
+*{{SW|url=news/jedi-master-designers-highlights-from-force-4-fashion|text=Jedi Master Designers: Highlights from 'Force 4 Fashion'}}
+*{{SWYoutube|mMDgTt4kLdo|Star Wars: The Force Awakens "Secret" TV Spot (Official)|archivedate=20191222084528}}
+*{{SW|url=news/watch-the-star-wars-the-force-awakens-red-carpet-live-at-starwars-com|text=Watch the ''Star Wars: The Force Awakens'' Red Carpet Live at StarWars.com}}
+*{{SW|url=news/quiz-how-well-do-you-know-star-wars-return-of-the-jedi|text=Quiz: How Well Do You Know ''Star Wars: Return of the Jedi''?}}
+*{{SW|url=news/star-wars-fantasy-flight-games-preview-december-2015|text=''Star Wars'' Fantasy Flight Games Preview: December 2015}}
+*{{SWYoutube|X-mewHsIhAU|Star Wars: The Force Awakens "5 Days" TV Spot (Official)|archivedate=20200119202142}}
+*{{SW|url=news/take-the-battle-to-takodana-in-star-wars-commander|text=Take the Battle to Takodana in ''Star Wars: Commander''}}
+*{{SWYoutube|z0OIPggil7k|Star Wars: The Force Awakens World Premiere Red Carpet|archivedate=20200118050613}}
+*{{SW|url=news/from-concept-to-screen-the-millennium-falcon|text=From Concept to Screen: The ''Millennium Falcon''}}
+*{{SW|url=news/how-to-throw-the-ultimate-star-wars-the-force-awakens-party|text=How to Throw the Ultimate ''Star Wars: The Force Awakens'' Party}}
+*{{SW|url=news/6-ways-to-prepare-for-star-wars-the-force-awakens|text=6 Ways to Prepare for ''Star Wars: The Force Awakens''}}
+*{{SWYoutube|WSFizjkDYoI|How will you be a Force For Change?|archivedate=20170718021244}}
+*{{SWYoutube|RqSOo5reNO8|BB-8: From Sketch to Screen &ndash; Star Wars: The Force Awakens Featurette|archivedate=20200513155651}}
+*{{SWYoutube|m3aaUMV3REU|Star Wars: The Force Awakens European Premiere|archivedate=20191109122356}}
+*{{SWYoutube|sLl1N0FyqxE|Star Wars: The Force Awakens &ndash; The Power of Storytelling Panel and Q&A|archivedate=20160517124419}}
+*{{SWYoutube|RZSVPwQM0NI|These winners went to the Star Wars: The Force Awakens premiere!|archivedate=20191109093407}}
+*{{SWYoutube|Om2X_IwjRPg|StarWars.com Gives Lollipops to the Star Wars: The Force Awakens Cast|archivedate=20160101003808}}
+*{{SWYoutube|AWPhSbC0UmM|Hard-Hitting Questions for the Star Wars: The Force Awakens Cast and Creators|archivedate=20160101003808}}
+*{{SW|url=news/star-wars-the-force-awakens-play-set-for-disney-infinity-3-0-edition-now-available|text=''Star Wars: The Force Awakens'' Play Set for ''Disney Infinity 3.0 Edition'' Now Available}}
+*{{SW|url=news/luhan-becomes-a-jedi-in-chinas-star-wars-the-force-awakens-promo|text=LuHan Becomes a Jedi in China's ''Star Wars: The Force Awakens'' Promo}}
+*{{SW|url=news/thank-you-star-wars-the-force-awakens-becomes-the-1-film-of-all-time-in-the-us|text=Thank You: ''Star Wars: The Force Awakens'' Becomes the #1 Film of All-Time in the US}}
+*{{SW|url=news/star-wars-the-force-awakens-receives-5-oscar-nominations|text=''Star Wars: The Force Awakens'' Receives 5 Oscar Nominations}}
+*{{SW|url=news/from-blast-that-x-wing-to-traitor-the-voices-of-star-wars-the-force-awakens|text=From "Blast that X-Wing!" to "Traitor!": The voices of ''Star Wars: The Force Awakens''}}
+*{{SW|url=news/toy-empire-heroes-of-star-wars-the-force-awakens|text=Toy Empire: Heroes of ''Star Wars: The Force Awakens''}}
+*{{SW|url=news/star-wars-invades-toy-fair-2016|text=''Star Wars'' Invades Toy Fair 2016}}
+*{{SW|url=news/its-true-all-of-it-star-wars-the-force-awakens-is-coming-home|text=It's True. All of It. ''Star Wars: The Force Awakens'' Is Coming Home}}
+*{{SWYoutube|rVzbyDq3QSY|Star Wars: The Force Awakens In-Home Trailer|archivedate=20200808195630}}
+*{{InsiderCite|165|50 Things to Notice in Star Wars: The Force Awakens|50 Things to Notice in ''Star Wars: The Force Awakens''}}
+*{{SW|url=news/much-to-learn-you-still-have-8-things-you-might-not-know-about-wookiees|text=Much to Learn You Still Have: 8 Things You Might Know About Wookiees|archivedate=20210518163123}}
+*{{SW|url=news/much-to-learn-you-still-have-7-things-you-might-not-know-about-sullustans|text=Much to Learn You Still Have: 7 Things You Might Not Know About Sullustans|archivedate=20210422070953}}
+*{{SW|url=news/star-wars-the-force-awakens-3d-collectors-edition-coming-this-fall|text=''Star Wars: The Force Awakens'' 3D Collector's Edition Coming This Fall}}
+*{{SW|url=news/star-wars-best-of-2016|text=''Star Wars'': Best of 2016}}
+*''[[Solo: A Star Wars Story The Official Guide]]''
+*{{BuildXWingCite|1|Creating a Starship Fleet|Ralph McQuarrie &ndash; The Man Who Drew Star Wars}}
+*{{InsiderCite|192|The Beginning of the End (Star Wars Insider)|The Beginning of the End}}
+*''[[Star Wars: The Lightsaber Collection]]''
+*{{SWYoutube|VSRBvBhqGVY|Exciting Lucasfilm Announcements, A New Story From The High Republic, and More!|archivedate=20201217202150}}
+*{{BustCollectionCite|2|Behind the Cameras|Evolution of the Stormtroopers}}
+*''[[Star Wars: The Skywalker Saga: The Official Collector's Edition]]''
+*{{SW|url=news/justina-ireland-out-of-the-shadows|text="Nothing is the Same After This Book": Justina Ireland on ''Out of the Shadows''}}
+*{{SWYoutube|d-FdDsUwIPE|Marvel Star Wars: Revelations Reveal, Inspiring ILM Legends, and More!|archivedate=20220811190442}}
+*{{SW|url=news/from-the-pages-of-star-wars-insider-the-galaxys-greatest-villains|text=From the Pages of ''Star Wars Insider'': Captain Phasma and the Galaxy's Greatest Villains}}
+*{{SW|url=series/andor/andor-season-1-episode-2-episode-guide|text=''Andor'' &#124; Season 1, Episode 2 &ndash; Episode Guide}}
+*{{SW|url=series/andor/andor-season-1-episode-4-episode-guide|text=''Andor'' &#124; Season 1, Episode 4 &ndash; Episode Guide}}
+*{{SW|url=news/star-wars-holiday-gift-guide|text=''Star Wars'' Holiday Gift Guide 2022}}
+*{{SW|url=series/andor/andor-season-1-episode-11-episode-guide|text=''Andor'' &#124; "Episode 11, Daughter of Ferrix" Episode Guide}}}}
+
+==Notes and references==
+{{Scroll_box|content={{Reflist}}}}
+
+==External links==
+{{Wikiquote}}
+*{{SW|url=films/star-wars-episode-vii-the-force-awakens|text=''Star Wars'': Episode VII ''The Force Awakens''}}
+*{{SW|url=the-force-awakens|text=''Star Wars: The Force Awakens'' Official Site}}
+*{{Lucasfilm|url=star-wars-episode-7-the-force-awakens|text=''Star Wars'': Episode VII ''The Force Awakens''|archiveurl=https://web.archive.org/web/20180610063537/http://lucasfilm.com/star-wars-episode-7-the-force-awakens}}
+*{{Imdb|url=title/tt2488496|title={{PAGENAME}}}}
+*{{WP|Star Wars: The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens''}}
+*[http://www.empireonline.com/movies/features/force-awakens-full-story Star Wars: The Force Awakens – The Complete History] on Empire {{C|[https://web.archive.org/web/20160101182239/http://www.empireonline.com/movies/features/force-awakens-full-story Backup link]}}
+*[http://www.rollingstone.com/movies/features/star-wars-strikes-back-behind-the-scenes-of-the-biggest-movie-of-the-year-20151202 'Star Wars' Strikes Back: Behind the Scenes of the Biggest Movie of the Year] on Rolling Stone {{C|[https://web.archive.org/web/20190414111744/https://www.rollingstone.com/culture/culture-news/star-wars-strikes-back-behind-the-scenes-of-the-biggest-movie-of-the-year-50719 Backup link]}}
+
+{{Episode_VII_multimedia}}
+{{Star_Wars}}
+
+{{Interlang
+|bg=Междузвездни войни: Епизод VII - Силата се пробужда
+|ca=El Despertar de la Força
+|cs=Star Wars: Epizoda VII Síla se probouzí
+|da=Star Wars: Episode VII The Force Awakens
+|de=Episode VII – Das Erwachen der Macht#kanon
+|el=Star Wars: Επεισόδιο 7 - Η Δύναμη Ξυπνά
+|es=Star Wars: Episodio VII El Despertar de la Fuerza
+|fa=جنگ ستارگان اپیزود هفتم: نیرو برمی‌خیزد
+|fi=Tähtien sota: Episodi VII – The Force Awakens
+|fr=Star Wars épisode VII : Le Réveil de la Force
+|hr=Zvjezdani Ratovi: Epizoda VII Sila Se Budi
+|hu=Csillagok háborúja VII: Az ébredő Erő
+|is=The Force Awakens
+|it=Star Wars Episodio VII: Il risveglio della Forza
+|ja=スター・ウォーズ エピソード7/フォースの覚醒
+|ka=ვარსკვლავური ომები, ეპიზოდი VII: ძალის გამოღვიძება
+|ko=스타워즈: 에피소드 7 깨어난 포스
+|nl=Star Wars Episode VII: The Force Awakens
+|pl=Przebudzenie Mocy
+|pt=Star Wars Episódio VII: O Despertar da Força
+|ro=Trezirea Forței
+|ru=Звёздные войны. Эпизод VII: Пробуждение Силы
+|tr=Star Wars: Bölüm VII Güç Uyanıyor
+|uk=Зоряні війни. Епізод VII: Пробудження Сили
+|zh=星球大战VII：原力觉醒
+|ptGA=1
+}}
+
+[[Category:Saga films|7]]
+[[Category:2015 releases]]

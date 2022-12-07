@@ -1,0 +1,53 @@
+{{Infobox film
+|image = 004A-001title.jpeg
+|director = [[Bill Justice]]<br>Bill Roberts
+|producer = [[Walt Disney]]
+|music = [[Edward H. Plumb]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[RKO Radio Pictures]]
+|release = [[January 4]], [[1943]]
+|time = 11 minutes
+|language = English
+|imdb_id = 0034806}}
+'''''The Grain That Built a Hemisphere''''' is a [[1943]] short animated propaganda film about corn produced by [[Walt Disney]] for the U.S. Coordinator of Inter-American Affairs.<ref name=ref=Shale82>Shale, Richard. (1982). Donald Duck joins up: The Walt Disney Studio during World War II (Studies in cinema). Ann Arbor: UMI Research Press.</ref> It was nominated for an Academy Award for Best Documentary in 1943.
+
+==Gallery==
+<gallery position="center" spacing="small">
+Tumblr nf7mpk4ow71qhcrb0o1 1280.jpg
+004A-002hunt.jpeg
+004A-003multicorn.jpeg
+004A-004oldgroove.jpeg
+004A-005bloody.jpeg
+004A-006linework.jpeg
+004A-007farmwork.jpeg
+004A-008cornbag.jpeg
+004A-009cornmate.jpeg
+004A-010eatthecow.jpeg
+004A-011cornoil.jpeg
+004A-012donuts.jpeg
+004A-013poster.jpeg
+004A-014iv.jpeg
+004A-015beer.jpeg
+004A-016car.jpeg
+004A-017tiny.jpeg
+004A-018maya.jpeg
+</gallery>
+
+==Bibliography==
+* {{cite book |last=Shale |first=Richard |year=1982 |title=Donald Duck joins up: the Walt Disney Studio during World War II, Pages 80-3424 Volume 16 of Studies in cinema |publisher=UMI Research Press |location=Ann Arbor |isbn=978-0-8357-1310-8 |ref=Shale82}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* The short film [http://www.archive.org/details/TheGrainThatBuiltAHemisphere ''The Grain That Built A Hemisphere''] is available for free download at the [http://en.wikipedia.org/wiki/Internet_Archive Internet Archive] [http://en.wikipedia.org/wiki/Special:WhatLinksHere/Template:Internet_Archive_short_film ''more'']
+
+{{Wikipedia}}
+{{DEFAULTSORT:Grain That Built a Hemisphere, The}}
+{{DISPLAYTITLE:''The Grain That Built a Hemisphere''}}
+[[Category:Articles with Wikipedia content]]
+[[Category:Animated shorts]]
+[[Category:World War II films]]
+[[Category:1943 shorts]]
+[[Category:Educational films]]
+[[Category:Academy Award nominated films]]

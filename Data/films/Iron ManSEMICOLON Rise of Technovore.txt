@@ -1,0 +1,116 @@
+{{Marvel Database:Film Template
+| Image                   = Iron Man Rise of Technovore poster 001.jpg
+| Image2                  = Technovore Box Cover.jpg
+| Aliases                 = 
+
+| Directors               = Hiroshi Hamasaki
+| Producers               = Harrison Wilcox
+| ComicWriters            = Don Heck; Jack Kirby; Stan Lee; Larry Lieber
+| StoryWriters            = Brandon Auman
+| ScreenplayWriters       = Kengo Kaji
+| Musicians               = Tetsuya Takahashi
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Sony Pictures Home Entertainment, Sony Pictures Entertainment Japan
+| ProductionCompanies     = Madhouse; Marvel Entertainment
+| Running Time            = 88 minutes
+| Rating                  = '''MPAA:''' PG-13 for some intense sequences of violence and action
+| Budget                  = 
+| Release Date            = April 16, 2013
+
+| AM ID                   = iron-man-rise-of-technovore-v577820
+| IMDB ID                 = 2654124
+| Marvel Movies           = Iron Man: Rise of Technovore
+
+| Next Film               = Avengers Confidential: Black Widow & Punisher
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{a|[[Anthony Stark (Earth-101001)|Iron Man (Tony Stark)]]}}
+'''Supporting Characters:'''
+* {{1st|[[James Rhodes (Earth-101001)|War Machine (Lt. Col. James Rhodes)]]}}
+* {{1st|[[Frank Castle (Earth-101001)|The Punisher (Frank Castle)]]}}
+* {{a|[[Virginia Potts (Earth-101001)|Pepper Potts]]}}
+* {{a|[[Just A Rather Very Intelligent System (Earth-101001)|J.A.R.V.I.S.]]}}
+'''Antagonists:'''
+* {{Only Destruction|[[Technovore (Earth-101001)|Technovore]]}}
+* {{Only|[[Ezekiel Stane (Earth-101001)|Zeke Stane]]}}
+* {{Only|[[Sasha Hammer (Earth-101001)|Sasha Hammer]]}}
+* {{a|[[Advanced Idea Mechanics (Earth-101001)|A.I.M. (Advanced Idea Mechanics)]]}}
+** Unnamed agent
+* {{1st|[[Raiders (Earth-101001)|Raiders]]}}
+** Three unnamed members {{Only}}
+'''Other Characters:'''
+* {{1st|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-101001)|S.H.I.E.L.D.]]}}
+** {{1st|[[Nicholas Fury (Earth-101001)|Nick Fury]]}}
+** {{1st|[[Maria Hill (Earth-101001)|Maria Hill]]}}
+** {{1st|[[Natasha Romanova (Earth-101001)|Black Widow (Natasha Romanova)]]}}
+** {{1st|[[Clinton Barton (Earth-101001)|Hawkeye (Clint Barton)]]}}
+** {{1st|[[Mandroid (Earth-101001)|Mandroids]]}}
+* {{FlashOnly|[[Obadiah Stane (Earth-101001)|Obadiah Stane]]}}
+* {{Mentioned|[[Howard Stark (Earth-101001)|Howard Stark]]}}
+* Associates of AIM:
+** {{Only|[[Roxxon Energy Corporation (Earth-101001)|Roxxon Energy]]}}
+** {{Only|[[Hydra (Earth-101001)|H.Y.D.R.A.]]}}
+** {{Only|[[Parker Robbins (Earth-101001)|The Hood]]}}
+** [[Hulkbusters]] {{Only}}
+** {{Only|[[Sons of the Serpent (Earth-101001)|Sons of the Serpent]]}}
+** [[Wakanda]] {{Only}}
+** {{Last|[[Zodiac (Earth-101001)|Zodiac]]}}
+** {{Only|[[Universal Cosa Nostrum (Earth-101001)|Universal Cosa Nostrum]]}}
+** [[Omnisapient Systems]] {{Only}}
+** [[Chthon]] {{Only}}
+** {{Only|[[Power Broker, Inc. (Earth-101001)|Power Broker, Inc.]]}}
+** [[Defenders|Dragon Circle]] {{Only}}
+** [[Project P.E.G.A.S.U.S.|Project Pegasus]] {{Only}}
+** [[National Force]] {{Only}}
+** {{Only|[[Inquisition (Terrorists) (Earth-101001)|Inquisition]]}}
+** {{Only|[[Underground Liberated Totally Integrated Mobile Army To Unite Mankind (Earth-101001)|U.L.T.I.M.A.T.U.M.]]}}
+** {{Only|[[Children of Eternity (Earth-101001)|Children of Eternity]]}}
+** Alex Chang {{Only}}
+** Jeffrey Crosson {{Only}}
+** Bill Treacher {{Only}}
+** Mike Khemani {{Only}}
+** Hilton Stewart {{Only}}
+'''Locations:'''
+* {{a|[[Earth-101001]]}}
+** {{a|[[United States of America]]}}
+*** {{a|[[Utah (State)|Utah]]}}
+**** {{a|[[Stark Industries (Earth-101001)|Stark Industries]]}}
+** {{a|[[Pakistan]]}}
+*** {{a|[[Karachi]]}}
+** {{a|[[China]]}}
+*** {{a|[[Shanghai]]}}
+'''Items:'''
+* Howard Stark Satellite
+* {{a|[[Iron Man Armor]]}}
+* {{1st|[[War Machine Armor]]}}
+* {{Only|[[Iron Monger Armor]]}}
+* {{1st|[[Hawkeye's Bow]]}}
+* {{1st|[[Trick Arrows]]}}
+* {{1st|[[Black Widow's Gauntlets]]}}
+* {{1st|[[Punisher's Arsenal]]}}
+'''Vehicles:'''
+* {{1st|[[S.H.I.E.L.D. Helicarrier]]}}
+** S.H.I.E.L.D. Interceptors {{1st}}
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Norman Reedus|Norman Reedus]] as [[Frank Castle (Earth-101001)|The Punisher/Frank Castle]]
+* [[wikipedia:Matthew Mercer|Matthew Mercer]] as [[Anthony Stark (Earth-101001)|Iron Man/Tony Stark]]
+* [[wikipedia:Eric Bauza|Eric Bauza]] as [[Ezekiel Stane (Earth-101001)|Ezekiel Stane]] and [[Technovore (Earth-101001)|Technovore]]
+* [[wikipedia:Kate Higgins|Kate Higgins]] as [[Virginia Potts (Earth-101001)|Pepper Potts]]
+* [[wikipedia:James C. Mathis|James C. Mathis]] as [[James Rhodes (Earth-101001)|War Machine/Lt. Col. James "Rhodey" Rhodes]]
+* [[wikipedia:Kari Wahlgren|Kari Wahlgren]] as [[Maria Hill (Earth-101001)|Maria Hill]]
+* [[wikipedia:Clare Grant|Clare Grant]] as [[Natasha Romanova (Earth-101001)|Black Widow / Natasha Romanova]]
+* [[wikipedia:Troy Baker|Troy Baker]] as [[Clinton Barton (Earth-101001)|Hawkeye/Clint Barton]] and [[Just A Rather Very Intelligent System (Earth-101001)|J.A.R.V.I.S.]]
+* [[wikipedia:Tara Platt|Tara Platt]] as [[Sasha Hammer (Earth-101001)|Sasha Hammer]]
+* [[wikipedia:JB Blanc|JB Blanc]] as [[Obadiah Stane (Earth-101001)|Obadiah Stane]]
+* [[wikipedia:John Eric Bentley]] as [[Nicholas Fury (Earth-101001)|Nick Fury]]
+
+| Notes                   = * Tony tells Zeke Stane that he knows a "guy" from the 40's, possibly alluding to [[Captain America]].
+* He also told Pepper about skiing in Asgard, the home of the [[Asgardians|Aesir]].
+* All of the main characters in this movie (with the exception Zeke) seem to already know each other, even though they hadn't met each other yet in the last Iron Man anime.
+| Trivia                  = * Despite not possessing any score at Rotten Tomatoes, it was generally poorly received by fans and critics.<ref>[https://www.rottentomatoes.com/m/iron_man_rise_of_technovore Iron Man: Rise of Technovore at Rotten Tomatoes]</ref>
+| Links                   = * [[Marvel Films#Direct-to-Video Films|Marvel Films]]
+}}

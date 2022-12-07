@@ -1,0 +1,31 @@
+{{Infobox film
+| name           = Magic and Music
+| image          = File:MagicMusic.jpg
+| caption        = 
+| director       = 
+| producer       = 
+| music          = 
+| cinematography =  
+| studio         = Walt Disney Productions
+| distributor    = [[Buena Vista Distribution]]
+| release       = [[1974]]
+| time        = 
+| language       = English}}
+'''''Magic and Music''''' is a [[1974]] Disney educational animated short. It is an edited version of the ''[[Walt Disney anthology series|Disneyland]]'' episode of [[Magic and Music|the same name]].
+
+==Synopsis==
+The Wizard of the Mirror hosts as three songs are played, accompanied by cartoons: "Flight of The Bumble Bee," "Sometimes in Winter Time," and "Pastorale" with the dancing centaurs.
+
+==Trivia==
+*The music in the opening titles is taken from ''[[Eyes in Outer Space]]''.
+*This program was released on videocassette in the [[United Kingdom]] on the fifth volume of "The Disney Channel", paired with ''[[Peter and the Wolf]]''.
+
+==Gallery==
+<gallery>
+Walt disney productions magic and music.jpg
+Magic and music end title.jpeg
+</gallery>
+
+[[Category:1974 films]]
+[[Category:Animated shorts]]
+[[Category:Disney films]]

@@ -1,0 +1,42 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Flash Gordon
+|director = [[Taika Waititi]]
+|producer = John Davis<br>John Fox
+|starring = 
+|music = 
+|writer = Taika Waititi
+|cinematography = 
+|editor = 
+|studio = [[20th Century Studios]]<br>Davis Entertainment
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = TBA
+|time = 
+|language = English
+|budget = 
+|gross = }}
+'''''Flash Gordon''''' is an upcoming American action science-fiction film, based on the King Features comic strip of the same name created by Alex Raymond. It also serves as a reboot of the [[1980]] film of the same name. 
+
+==Synopsis==
+*''To be added''
+
+==Cast==
+*TBA as Flash Gordon
+
+==Production==
+On June 24, 2019, after multiple attempts, it was reported that [[Taika Waititi]] had signed on as the director of the Flash Gordon reboot.<ref>[https://deadline.com/2019/06/taika-waititi-flash-gordon-animated-movie-thor-ragnarok-jojo-rabbit-fox-disney-1202637059/ Taika Waititi To “Crack” ‘Flash Gordon’ As Fox/Disney Animated Film]</ref>
+
+Initially believed to be an animated film, producers John Davis and John Fox reiterated that the film will be in live-action.<ref>[https://collider.com/taika-waititi-flash-gordon-movie-live-action-new-details/ Exclusive: Taika Waititi's Animated 'Flash Gordon' Movie Is Now Live-Action]</ref>
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+
+{{DISPLAYTITLE:''Flash Gordon''}}
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Films based on comics]]
+[[Category:Film stubs]]
+[[Category:20th Century Studios films]]

@@ -1,0 +1,44 @@
+{{Infobox film
+| name           = Ghosts of the Abyss
+| image          = File:Ghosts_of_the_Abyss.jpg
+| caption        = The theatrical poster for ''Ghosts of the Abyss''.
+| director       = [[James Cameron]]
+| producer       = John Bruno<br>[[James Cameron]]<br>Chuck Comisky<br>Janace Tashjian<br>Andrew Wight
+| writer         = James Cameron
+| narrator       =
+| starring       = [[Bill Paxton]]<br>[[James Cameron]]<br> Dr. John Broadwater<br>Dr. Lori Johnston
+| music          = Joel McNeely<br>Lisa Torban
+| cinematography = Vince Pace<br>D.J. Roller
+| editing        = David C. Cook<br>Ed W. Marsh<br>Sven Pape<br>John Refoua
+| studio         = [[Walden Media]]<br>Earthship Productions<br>Ascot Elite Entertainment Group<br>Golden Village<br>Telepool<br>UGC PH
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures]] (United States)<br>Summit Entertainment {{small|(Internationally)}}
+| release       = [[March 31]], [[2003]] <small>(premiere)</small><br>[[April 11]], 2003 <small>(limited)</small>
+| runtime        = 59 minutes
+| country        = United States
+| language       = English
+| budget         =
+| gross          = $28,780,668<ref>{{cite web |url=http://www.the-numbers.com/movies/2003/GABYS.php |title=Ghosts of the Abyss - Box Office Data |publisher=The Numbers}}</ref>
+}}'''''Ghosts of the Abyss''''' is a [[2003]] documentary film released by [[Walt Disney Pictures]] and [[Walden Media]]. It was Disney's first film produced in 3D and was directed by Academy Award winning filmmaker [[James Cameron]], after his Oscar winning film ''Titanic''. During August and September, 2001, Cameron and a group of scientists stage an expedition to the wreck of the Titanic, and dive in Russian deep-submersibles to obtain more detailed images than anyone has before. With the help of two small, purpose-built remotely-operated vehicles, nicknamed "Jake" and "Elwood", the audience too can see inside the Titanic and with the help of CGI, audiences can view the ship's original appearance superimposed on the deep-dive images.
+
+<p style="margin-bottom: 0in">Also along for the ride Cameron invites friend and actor Bill Paxton who played Brock Lovett in the 1997 film. He narrates the event through his eyes. The film itself was premiered for [[IMAX]] 3D and was also nominated for a BFCA award for Best Documentary. The submersibles Mir 1 and Mir 2 carried the Ghosts of the Abyss team on twelve dives.</p>
+
+==Plot==
+<p style="margin-bottom: 0in">Director James Cameron returns to the site of the wreck of the RMS Titanic. With a team of history and marine experts and friend Bill Paxton, he embarks on an unscripted adventure back to the final grave where 1,517 people lost their lives. Using technology developed for this expedition, Cameron and his crew are able to explore virtually all of the wreckage, inside and out, as never before. This documentary was made for IMAX 3D Theatres and specially outfitted 35mm 3D theaters. Cameron and his team bring audiences to sights not seen since the sinking 91 years previously to the filming and explore why the vessel continues to intrigue and fascinate the public.</p>
+
+==Release==
+<p style="margin-bottom: 0in">The film was screened out of competition at the 2003 Cannes Film Festival.</p>
+
+<p style="margin-bottom: 0in">The feature film on the DVD is 90 minutes long and is available in a 2-disc edition and as the 5th disc in the Titanic 5-Disc Deluxe Limited Edition.  The 45-minute theatrical release is on the DVD as well.</p>
+
+==Soundtrack==
+<p style="margin-bottom: 0in">The official soundtrack's songs were composed and conducted by Joel McNeely, and the orchestrations were conducted by David Brown, Marshall Bowen, and Frank Macchia. The album was also recorded and mixed by Rich Breen, edited by Craig Pettigrew, and mastered by Pat Sullivan. The album was ultimately produced by James Cameron, Randy Gerston and Joel McNeely and released by Disney's [[Hollywood Records]] label.</p>
+<p style="margin-bottom: 0in">All music composed was by Joel McNeely.</p>
+==References==
+<references>
+</references>
+[[Category:Documentaries]]
+[[Category:2003 films]]
+[[Category:IMAX films]]
+[[Category:Live-action films]]
+[[Category:PG-rated films]]
+[[Category:Films Distributed by Disney in certain countries]]

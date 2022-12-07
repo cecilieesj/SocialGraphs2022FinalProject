@@ -1,0 +1,26 @@
+{{Infobox character
+|films = ''[[National Treasure]]<br>[[National Treasure: Book of Secrets]]''
+|actor = [[Harvey Keitel]]
+|quote = 
+|image = Peter Sadusky.jpg
+|personality = 
+|appearance = 
+|occupation = FBI agent
+|alignment = Good
+|goal = 
+|home = 
+|friends = 
+|enemies = [[Ian Howe]]
+|likes = 
+|fate = 
+|weapons = }}
+'''Peter Sadusky''' is a character in ''[[National Treasure]]''. He's an agent of the FBI and a member of the Freemason. He was played by [[Harvey Keitel]].
+
+{{CharacterStub}}
+{{DEFAULTSORT:Sadusky, Peter}}
+{{National Treasure}}
+[[Category:Disney characters]]
+[[Category:Males]]
+[[Category:Live-action characters]]
+[[Category:National Treasure characters]]
+[[Category:Heroes]]

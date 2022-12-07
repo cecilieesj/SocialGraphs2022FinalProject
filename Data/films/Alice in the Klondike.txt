@@ -1,0 +1,24 @@
+{{NeedImage}}
+{{Infobox film
+|name = Alice in the Klondike
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[June 27]], [[1927]]
+|preceded = ''[[Alice's Channel Swim]]''
+|followed = ''[[Alice's Medicine Show]]''
+}}
+'''''Alice in the Klondike''''' is a [[1927]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+Alice and Julius strike gold while prospecting in the Klondike and need to protect it from a thieving Pete.
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=63 Alice in the Klondike] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1927 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Lost cartoons]]
+[[Category:Pete Shorts]]

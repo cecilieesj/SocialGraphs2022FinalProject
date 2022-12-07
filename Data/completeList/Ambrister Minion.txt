@@ -1,0 +1,30 @@
+{{Infobox character
+|image = Ambrister.png
+|name = Ambrister Minion
+|films = ''[[Ratatouille]]''
+|voice = [[Brad Bird]]
+|occupation = Butler
+|likes = Pleasing Ego
+|dislikes = Ego losing his temper
+|status = Active}}
+'''Ambrister Minion''' is a minor character in [[Walt Disney Pictures|Disney]]•[[Pixar]]'s [[2007]] animated feature film, ''[[Ratatouille]]''.
+
+==Role in the film==
+Ambrister Minion is [[Anton Ego]]'s butler, and tells him about the popularity of [[Gusteau's]].
+
+==Trivia==
+*It could be suggested that Ambrister Minion was quite scared of Ego, as it is seen on his expressions.
+*He is the second Pixar character to be voiced by the director [[Brad Bird]]. The first being [[Edna Mode]] in ''[[The Incredibles]]''.
+{{CharacterStub}}
+
+{{PixarWiki}}
+{{Ratatouille}}
+{{DEFAULTSORT:Minion, Ambrister}}
+[[Category:Ratatouille characters]]
+[[Category:Pixar characters]]
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Servants]]
+[[Category:Neutral characters]]
+[[Category:Animated characters]]

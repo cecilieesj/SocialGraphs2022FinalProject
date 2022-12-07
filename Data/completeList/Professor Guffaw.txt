@@ -1,0 +1,20 @@
+{{Infobox character
+|image = Professor Guffaw.jpg
+|name = Professor Guffaw
+|games = ''[[Toontown Online]]''
+|appearance = Maroon Dog with sea green shirt and teal skirt
+|occupation = Professor<br>Shopkeeper
+|alignment = Good/Neutral}}'''Professor Guffaw''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC maroon [http://toontown.wikia.com/wiki/Dog Dog] and a shopkeeper Toon who owns [http://toontown.wikia.com/wiki/Laughing_Lessons Laughing Lessons], on [http://toontown.wikia.com/wiki/Silly_Street Silly Street], [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central].
+
+==SOS Toon==
+﻿Professor Guffaw is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. She is a 3-star Restock [http://toontown.wikia.com/wiki/Toon_Up Toon Up]. She will restock Toon Up gags to all Toons in battle.
+
+{{CharacterStub}}
+{{DEFAULTSORT:Guffaw, Professor}}
+[[Category:Toontown characters]]
+[[Category:Dogs]]
+[[Category:Females]]
+[[Category:Characters]]
+[[Category:Animated characters]]
+[[Category:Characters in video games]]
+{{Toontown Online}}

@@ -1,0 +1,24 @@
+{{Infobox film
+|name        = Blank: A Vinylmation Love Story
+|director    = Mike Ambs<br>Paul Foyder<br>Gino Roy<br>Whitfield Scheidegger<br>Greg Shewchuk
+|producer    = 
+|writer      = 
+|distributor = [[Disney Interactive Studios]]
+|language    = English
+|image = Image:2014-blank-vinylmation-love-story-01.jpg
+|imagewidth = 250px|release = February 3, 2014|time = 37 minutes|music = Alfred Montejano}}
+'''''Blank: A Vinylmation Love Story''''' is a [[2014]] Disney frame by frame animated short based on the [[Vinylmation]] series.
+
+==Gallery==
+<gallery>
+2014-blank-vinylmation-love-story-02.jpg
+2014-blank-vinylmation-love-story-03.jpg
+2014-blank-vinylmation-love-story-04.jpg
+2014-blank-vinylmation-love-story-05.jpg
+2014-blank-vinylmation-love-story-06.jpg
+</gallery>
+[[Category:2014 films]]
+[[Category:Animated shorts]]
+[[Category:Disney films]]
+[[Category:Films]]
+[[Category:Stop motion films]]

@@ -1,0 +1,43 @@
+{{Infobox film
+|name = The London Connection
+|director = Robert Clouse
+|producer = Jan Williams
+|writer = Gail Morgan Hickman<br>David E. Boston
+|music = John Cameron
+|cinematography = Godfrey A. Godar
+|editor = Peter Boita<br>Mike Campbell
+|studio = [[Walt Disney Productions]]
+|distributor = [[The Walt Disney Company]]
+|release = [[December 21]], [[1979]]
+|time = 100 minutes
+|language = English
+|image = File:TheLondonConnection.jpg}}'''''The London Connection''''' is a [[1979]] film directed by Robert Clouse. It stars Jeffrey Byron and Larry Cedar. It was renamed '''''The Omega Connection''''' when it aired on TV.
+
+==Plot==
+It's about a young American government agent who witnesses the kidnapping of a noted European scientist in [[London]]. The only item left behind in this startling incident is a gold ring, inscribed with an address, that leads the youth into a massive conspiracy of international proportions.
+
+==Cast==
+*Jeffrey Byron as Luther Starling
+*Larry Cedar as Roger Pike
+*[[Roy Kinnear]] as Bidley
+*Lee Montague as Vorg
+*Mona Washbourne as Aunt Lydia
+*David Kossoff as Professor Buchinski
+*Frank Windsor as McGuffin
+*Walter Gotell as Simmons
+*[[Nigel Davenport]] as Arthur Minton
+*Dudley Sutton as Goetz
+*David Battley as Peters
+*Julian Orchard as Driscoll
+*Kathleen Harrison as Elderly Lady
+*Percy Herbert as Ship's Captain
+*Don Fellows as General
+*Bruce Boa as Colonel
+{{FilmStub}}
+
+{{DEFAULTSORT:London Connection, The}}
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:1979 films]]
+[[Category:The London Connection]]

@@ -1,0 +1,27 @@
+{{WarningAlert}}
+{{Infobox film
+|name = The War at Home
+|image = The War at Home poster.jpg
+|director = [[Emilio Estevez]]
+|writer = James Duff
+|music = Basil Poledouris
+|studio = [[Touchstone Pictures]]
+|distributor = [[Buena Vista Pictures]]
+|release = [[November 20]], [[1996]]
+|language = English
+|budget = $3,000,000 (estimated)
+|gross = $44,722}}
+'''''The War at Home''''' is a [[1996]] motion picture starring [[Emilio Estevez]], [[Kathy Bates]], and [[Martin Sheen]]. Estevez also directed the film as well as served as a co-producer.
+
+==Plot==
+{{FilmStub}}
+{{Wikipedia|The War at Home (film)}}
+{{DEFAULTSORT:War at Home, The}}
+{{DISPLAYTITLE:''The War at Home''}}
+[[Category:Articles containing mature content]]
+[[Category:1996 films]]
+[[Category:Disney films]]
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Touchstone Pictures films]]
+[[Category:R-rated films]]

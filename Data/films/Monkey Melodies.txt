@@ -1,0 +1,52 @@
+{{Infobox film
+|image = Ss-monkeymelodies-redux.jpg
+|imagewidth = 250px
+|name = Monkey Melodies
+|director = [[Burt Gillett]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = Walt Disney<br>[[Marcellite Garner]]
+|music = Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[September 26]], [[1930]]
+|time = 6:56
+|preceded = ''[[Night]]''
+|followed = ''[[Winter]]''}}
+'''''Monkey Melodies''''' is a ''[[Silly Symphony]]'' that debuted on [[September 26]], [[1930]].
+
+==Summary==
+Monkeys and apes swing through the trees to the usual mix of classical tunes and standards; including this time the recent vaudeville hit "Abba Dabba Dabba."
+
+==Home video releases==
+'''VHS'''
+*''[[Walt Disney Cartoon Classics]]: Silly Symphonies: Animal Tales''
+'''DVD'''
+*''[[Walt Disney Treasures]]: More Silly Symphonies''
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150" captionalign="center">
+MonkeyMelodies-200.jpg
+MONKEY MELODIES (1).png
+MONKEY MELODIES (2).png
+MONKEY MELODIES (3).png
+MONKEY MELODIES (4).png
+MONKEY MELODIES (5).png
+MONKEY MELODIES (6).png
+MONKEY MELODIES (7).png
+MONKEY MELODIES (8).png
+Monkey melodies disney-1.png|Animation drawing by Dick Lundy.
+</gallery>
+
+==Copyright info==
+The film's copyright was renewed on [[December 16]], [[1957]].<ref>[https://archive.org/details/catalogofcopyrig3111213li/page/115/mode/1up Catalog of Copyright Entries (1957 renewals)]</ref>
+
+==References==
+{{Reflist}}
+
+{{Silly Symphony}}
+[[Category:Animated shorts]]
+[[Category:Silly Symphonies]]
+[[Category:1930 shorts]]
+[[Category:Featured shorts]]

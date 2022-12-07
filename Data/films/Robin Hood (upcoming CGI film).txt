@@ -1,0 +1,45 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Robin Hood
+|director = [[Carlos López Estrada]]
+|producer = Justin Springer
+|writer = Kari Granlund
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Disney+]]<br>[[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = 
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = }}
+'''''Robin Hood''''' is an upcoming live-action adaptation of the [[1973]] [[Robin Hood (film)|animated feature of the same name]]. The film was announced on [[April 10]], [[2020]], and will premiere exclusively on [[Disney+]].<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/robin-hood-remake-works-at-disney-blindspotting-director-1289702|title=Exclusive: Disney Developing Live-Action ‘Robin Hood’ Film|website=The Hollywood Reporter|date=April 10, 2020}}</ref>
+
+==References==
+{{Reflist}}
+{{Stub}}
+
+{{Robin Hood}}
+{{Disney+}}
+[[fr:Robin Hood (upcoming CGI film)|Robin Hood]]
+
+[[Category:Articles that need a picture]]
+[[Category:Robin Hood]]
+[[Category:Live-action films]]
+[[Category:Remakes]]
+[[Category:Films based on books]]
+[[Category:Films about animals]]
+[[Category:Disney films]]
+[[Category:Upcoming]]
+[[Category:Upcoming films]]
+[[Category:Disney+ Originals]]

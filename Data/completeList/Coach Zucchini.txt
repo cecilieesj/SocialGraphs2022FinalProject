@@ -1,0 +1,24 @@
+{{Infobox character
+|image = Coach Zucchini.png
+|name = Coach Zucchini
+|games = ''[[Toontown Online]]''
+|occupation = Coach
+|alignment = Neutral}}
+'''Coach Zucchini '''is a shopkeeper found in [http://toontown.wikia.com/wiki/Oak_Street Oak Street] near the [http://toontown.wikia.com/wiki/Sellbot_Headquarters Sellbot Headquarters] entrance. His building is called Squash and Strech gym. He is a skinny yellow duck with a purple shirt with red shorts.
+==Toontasks==
+﻿#Talk to Coach Zucchini.
+#Defeat a [http://toontown.wikia.com/wiki/Sellbot_Factory Sellbot Factory].
+#Return for Reward.
+
+'''Reward: Carry 80 Jellybeans.'''
+==Trivia==
+*The task he gives is one of the ones you'll hear toons asking for help with the most in [http://toontown.wikia.com/wiki/Daisy_Gardens Daisy Gardens].
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Ducks]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Coaches]]
+[[Category:Characters]]
+{{Toontown Online}}

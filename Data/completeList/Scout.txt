@@ -1,0 +1,37 @@
+{{Infobox character
+|image = Scout.jpg
+|name = Scout
+|games = ''[[Fantasia: Music Evolved]]''
+|voice = Jacqueline Emerson
+|friends = [[Yen Sid]]
+|powers = Making Music
+}}'''Scout''' is a character in ''[[Fantasia: Music Evolved]]''.
+==Background Information==
+Scout is a former apprentice of [[Yen Sid]], and accidentally creates the villain of the 
+game, "The Noise".
+
+==Personality==
+Scout is a friendly and enthusiast student. She yearns to solve problems on her own, and grows frustrated if she finds herself unable to complete a task by herself.
+
+==Gallery==
+<gallery>
+scout concept.jpg
+scout fme.jpg
+</gallery>
+
+{{CharacterStub}}
+{{Fantasia}}
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Animated characters]]
+[[Category:Females]]
+[[Category:Students]]
+[[Category:Teenagers]]
+[[Category:Fantasia characters]]
+[[Category:Characters in video games]]
+[[Category:Characters introduced in video games]]
+[[Category:Heroines]]
+[[Category:Disney Interactive Studios characters]]
+[[Category:Protagonists]]
+[[Category:Magic Users]]
+[[Category:Sorceresses]]

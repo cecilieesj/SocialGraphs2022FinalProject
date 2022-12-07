@@ -1,0 +1,54 @@
+{{Upcoming|media=film}}
+{{Infobox film
+|image = Inside Out 2 Logo.jpg
+|name = Inside Out 2
+|director = Kelsey Mann
+|producer = Mark Nielsen<br>[[Pete Docter]] {{Small|(Executive Producer)}}
+|writer = Meg LeFauve
+|starring = [[Amy Poehler]]<br>Phyllis Smith<br>[[Lewis Black]]<br>[[Kaitlyn Dias]]
+|music = 
+|cinematography =
+|editor = 
+|studio = [[Walt Disney Pictures]]<br>[[Pixar|Pixar Animation Studios]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[June 14]], [[2024]]
+|language = English
+|preceded = ''[[Inside Out]]''<br>''[[Elio (film)|Elio]]''
+|followed = 
+|budget =
+|gross =
+|website =
+|imdb_id = 22022452}}
+'''''Inside Out 2''''' is an upcoming American computer-animated film and the sequel to ''[[Inside Out]]''. It will be produced by [[Walt Disney Pictures]] and [[Pixar|Pixar Animation Studios]]. 
+
+It will be Pixar's 29th animated feature, and is scheduled to be theatrically released on [[June 14]], [[2024]].<ref name="Pixar">[https://twitter.com/Disney/status/1568392824131055616 Disney  on Twitter - September 9, 2022]</ref>
+
+==Voice Cast==
+*[[Amy Poehler]] as [[Joy]]<ref name="Pixar" />
+*Phyllis Smith as [[Sadness]]
+*[[Lewis Black]] as [[Anger]]
+*TBA as [[Disgust]]
+*TBA as [[Fear]]
+*[[Kaitlyn Dias]] as [[Riley Andersen]]
+
+==Trivia==
+*''Inside Out'' will be the sixth Pixar film to become a franchise, after ''[[Toy Story]]'', ''[[Cars]]'', ''[[Monsters, Inc.]]'', ''[[Finding Nemo]]'', and ''[[The Incredibles]]''.
+**It will also be the first Pixar film aired in the 2010s to become a franchise, since the precedents are from the 1990s (''Toy Story'') or 2000s (''Cars'', ''Monsters, Inc.'', ''Finding Nemo'', and ''The Incredibles'').
+*This will be the first Pixar sequel since ''[[Toy Story 4]].'' After ''Toy Story 4'' was released in 2019, Pixar decided to take a break from sequels to make more original films.
+*This will be the first Pixar sequel to be produced in 1.85:1 since ''[[Toy Story 3]]'' and ''[[Finding Dory]]''.
+*This is the fifth Pixar sequel to have a different director from the previous films in the franchise, after ''[[Toy Story 3]]'', ''[[Monsters University]]'', ''[[Cars 3]]'', and ''[[Toy Story 4]]''.
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{Inside Out}}
+{{Disney theatrical animated features}}
+{{DISPLAYTITLE:''Inside Out 2''}}
+[[Category:Upcoming films]]
+[[Category:Films]]
+[[Category:Pixar films]]
+[[Category:3-D films]]
+[[Category:Animated films]]
+[[Category:2024 films]]
+[[Category:Sequel films]]
+[[Category:Inside Out]]

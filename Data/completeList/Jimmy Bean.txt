@@ -1,0 +1,20 @@
+{{Infobox character
+|name = Jimmy Bean
+|image = 3619-15056.jpg
+|films = ''[[Pollyanna]]''
+|actor = [[Kevin Corcoran]]
+|friends = [[Pollyanna (character)|Pollyanna]]
+|alignment = Good
+|home = Harrington
+|likes= Having a family
+|dislikes= Poverty, being orphaned, abuse
+|fate = Gets adopted by Mr. Pendergast}}'''Jimmy Bean''' is [[Pollyanna (character)|Pollyanna]]'s playmate in the [[Pollyanna|film of the same name]].
+{{CharacterStub}}
+{{DEFAULTSORT:Bean, Jimmy}}
+[[Category:Live-action characters]]
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Kids]]
+[[Category:Pollyanna characters]]
+[[Category:Orphans]]
+[[Category:Disney characters]]

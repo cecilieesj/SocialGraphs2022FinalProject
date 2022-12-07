@@ -1,0 +1,27 @@
+{{Infobox character
+|image = Clerk Will.jpg
+|games = ''[[Toontown Online]]''
+|appearance = Yellow rabbit with a purple shirt and red pants
+|occupation = Clerk
+|alignment = Good/Neutral}}
+'''Clerk Will''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC [http://toontown.wikia.com/wiki/Rabbit Rabbit] and a clerk in [http://toontown.wikia.com/wiki/Donald%27s_Dock Donald's Dock's] [http://toontown.wikia.com/wiki/Goofy%27s_Gag_Shop Goofy's Gag Shop].
+
+==SOS Toon==
+﻿Clerk Will is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon] toons have to rescue in the [http://toontown.wikia.com/wiki/VP VP] battle. He is a 3-star [http://toontown.wikia.com/wiki/Trap_Gags Trap] SOS, and when called upon summons [http://toontown.wikia.com/wiki/Trapdoor Trapdoors] directly in front of all unlured [http://toontown.wikia.com/wiki/Cogs cogs]. His Trapdoors can do a damage of 50 for each trapped cog.
+
+As with all Trap Gags, this will always activate before [http://toontown.wikia.com/wiki/Lure_Gags Lure Gags].
+
+==Trivia==
+*All Trap SOS Toons are Clerks ([[Clerk Penny]], [[Clerk Clara]], [[Clerk Ray]], and himself)
+*Trap SOS do not trap cogs that are already Trapped or will be trapped (for that round).
+*Trap SOS Toons are the only offensive SOS Toons that do not use Level 6 Gags. These Toons use Trapdoors, which is a Level 5 Gag.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Rabbits]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Characters in video games]]
+[[Category:Animated characters]]
+[[Category:Characters introduced in video games]]
+{{Toontown Online}}

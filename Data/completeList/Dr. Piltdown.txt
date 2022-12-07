@@ -1,0 +1,44 @@
+{{Infobox character
+|voice = [[Corey Burton]]
+|image = B_25-BoneWire2_4.jpg
+|name = Dr. Piltdown
+|shows = ''[[Chip 'n Dale Rescue Rangers]]''
+|alignment = Bad
+|goal = To write a research paper on dinosaurs
+|occupation = Paleontologist
+|fate = Ends up getting chased into a supply closet
+|quote = "I don't think I'll write that research paper after all."
+|personality = Easily excited, impatient
+|minions = Researchers, Museum Guards
+|enemies = [[Chip and Dale]], [[Gadget Hackwrench]], [[Monterey Jack]], [[Zipper]], [[Steggy]]
+}}'''Dr. Piltdown''' is a paleontologist who appeared in the ''[[Chip 'n Dale Rescue Rangers]]'' episode "[[Prehysterical Pet]]".
+
+==Role in Episode==
+As his group of researchers unearthed a dinosaur bone, a sudden nearby explosion caused the fragile bone to shatter. When they investigated, Dr. Piltdown and his team saw what they believed to be a dinosaur egg in perfect condition and shipped it off to the museum. Unbeknownst to them, however, the "dinosaur egg" was really a spacecraft piloted by [[Steggy]], an alien Stegosaur from a world beyond.
+
+Dr. Piltdown isn't seen again until the episode's climax. When he and the researchers happened upon Steggy, they set out to make him part of the research project.
+
+==Gallery==
+<gallery position="center">
+B 25-BoneWire1 many.jpg
+B 25-BoneWire3 3.jpg
+pildaun.jpg
+vlcsnap-2015-08-05-19h51m40s983.png
+vlcsnap-2015-08-05-20h11m30s829.png|Piltdown showing Steggy's Spacecraft.
+vlcsnap-2015-08-09-09h56m39s952.png
+vlcsnap-2015-08-05-19h52m04s217.png|Piltdown's defeat.
+</gallery>
+
+{{CharacterStub}}
+{{Rescue Rangers}}
+{{DEFAULTSORT:Piltdown}}
+[[Category:Chip 'n Dale Rescue Rangers characters]]
+[[Category:The Disney Afternoon characters]]
+[[Category:TV Animation characters]]
+[[Category:Scientists]]
+[[Category:Animated characters]]
+[[Category:Bosses]]
+[[Category:Disney characters]]
+[[Category:Villains]]
+[[Category:Males]]
+[[Category:Adults]]

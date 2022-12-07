@@ -1,0 +1,86 @@
+{{Infobox character
+|image = Professor X DSitMoM.jpg
+|name = Professor X
+|films = {{Scroll|''X-Men<br>X2: X-Men United<br>X-Men: The Last Stand<br>X-Men Origins: Wolverine<br>X-Men: First Class<br>The Wolverine'' (post-credits scene)<br>''X-Men: Days of Future Past<br>X-Men: Apocalypse<br>Logan<br>Deadpool 2'' (cameo)<br>''[[Dark Phoenix]]<br>[[Doctor Strange in the Multiverse of Madness]]''}}
+|shows = ''[[Marvel Disk Wars: The Avengers]]<br>Legion<br>[[X-Men '97]]''
+|games = ''[[Marvel: Avengers Alliance]]
+|voice = Osamu Saka
+|inspiration = Professor Charles Xavier from [[Marvel Comics]]
+|fullname = Charles Francis Xavier
+|alias = Professor X<br>Professor Xavier
+|occupation = Founder of the [[X-Men (team)|X-Men]]
+|actor =  [[Patrick Stewart]]<br>[[James McAvoy]] (young)<br>Laurence Belcher (child)
+|affiliations = Xavier's School for Gifted Youngsters<br>[[X-Men (team)|X-Men]]<br>Illuminati (Earth-838)<br>[[Mutants]]
+|home = X-Mansion
+|powers = Telepathy<br>Mind control<br>Genius-level intelligence
+|status = Active
+|parents = Sharon Xavier (mother)<br>Stepfather
+|siblings = P. Xavier (twin brother)<br>[[Mystique]] † (foster sister)<br>[[Juggernaut]] (step-brother)
+|partner = Moira MacTaggert (love interest)}}
+
+'''Professor Charles Xavier''', also known as '''Professor X''', is a superhero who appears in the ''X-Men'' film franchise and the [[Marvel Cinematic Universe]]. He also appears in the ''[[Marvel Disk Wars: The Avengers]]'' series. 
+
+A [[mutants|mutant]], he is the most powerful telepath alive. While confronting his old friend and rival [[Magneto]], he was accidentally shot and had his spine damaged, leaving him confined to a wheelchair. He is the founder and headmaster of Xavier's School for Gifted Youngsters, a place where mutants can learn to control their powers and use them for good. He is the one the [[X-Men (team)|X-Men]] answer to, acting as both a leader and a surrogate father to the team. His dream is for mutants and normal humans to live together in peace and harmony.
+
+The character is primarily played by [[Patrick Stewart]], who appeared in the majority of ''X-Men'' films and the MCU. [[James McAvoy]] portrays a younger version of the character, starting with ''X-Men: First Class'' (2011).
+
+Professor X was created by [[Stan Lee]] and [[Jack Kirby]].
+
+==Appearances==
+===[[Marvel Cinematic Universe]]===
+====''[[Doctor Strange in the Multiverse of Madness]]''====
+[[Patrick Stewart]] reprises his role as Professor X in the [[Marvel Cinematic Universe]] in his first appearance as the character since ''Logan'' (2017).
+
+He is a resident of a universe outside of the MCU and is a member of the Illuminati alongside [[Mr. Fantastic|Mister Fantastic]], [[Black Bolt]], [[Captain Marvel (Earth-838)|Captain Marvel]], [[Captain Carter]], and [[Karl Mordo]]. When Thanos launched his crusade for the Infinity Stones, the Illuminati were able to defeat him using the Book of Vishanti. However, Doctor Strange of that universe confessed that he had caused an incursion, an event in which a reality is destroyed. He volunteered to be executed to prevent further harm, with Xavier and the rest of the Illuminati agreeing. 
+
+Years later, [[America Chavez]] and another version of Doctor Strange would wind up in this universe. Mordo brought Strange before the Illuminati for trial, with Xavier telepathically projecting the memory of the execution of his universe's Strange onto Strange to reveal the truth. But before they could vote to execute Strange, Wanda Maximoff (possessed by the Scarlet Witch from Strange's universe) began to invade the facility. Xavier decided to entrust America to Strange despite Mordo's objections, as he entered Wanda's mind and attempted to free her from the Scarlet Witch. This was unsuccessful, and the Scarlet Witch proceeded to snap Xavier's neck, instantly killing him. 
+
+===''X-Men'' (film series)===
+====''Deadpool 2''====
+Professor X, along with a few other members of the [[X-Men (team)|X-Men]] appear in a brief cameo. They can be seen conversing in another room, while [[Deadpool|Wade]] is in the X-Mansion, complaining the [[20th Century Studios|studio]] hasn't allowed them to bring in one of the more famous members of the team.
+
+====''[[Dark Phoenix]]''====
+Professor Xavier appears in Dark Phoenix, played by [[James McAvoy]] When the film begins, set in the early 1990s, the X-Men are enjoying a period of acceptance as public heroes, to the point that the President calls them for assistance in dealing with a shuttle accident, although Raven expresses concern that Xavier is more focused on their current celebrity status than his original goal of human/mutant co-existence. The situation becomes dangerous when Jean absorbs a mysterious space anomaly that almost destroyed the shuttle, elevating her already-formidable powers and compromising her mental state, which leads to Jean discovering that her father is alive; Xavier had previously told Jean that both her parents had died in a car accident Jean inadvertently caused when her powers activated, albeit only after her father rejected the offer to remain part of her life. The traumatized Jean destroys her father's house and accidentally kills Raven, which leads to Hank rejecting Xavier to join Magneto in seeking revenge on Jean for Raven's death. When an alien race confront Jean with the goal of draining off her new power to allow them to terraform Earth into their new homeworld, the X-Men come back together to protect Jean, helping her achieve a new sense of mental stability before she departs Earth. The film ends with Hank taking over as headmaster of the school while Xavier decides to 'retire' for a time, a final scene showing him playing chess with Magneto in Paris as they contemplate their new future.
+
+==Gallery==
+<gallery position="center" spacing="small">
+Marvel Disk Wars The Avengers - 1x17 - That Man, Wolverine! - Professor X.png|Professor X as he appears in the animated series
+Dark Phoenix Poster.jpg
+Dark Phoenix - Poster.jpg
+Dark Phoenix - Japanese Poster.jpg
+Dark Phoenix - Professor X.jpg|Professor X on the promotional poster for ''Dark Phoenix''.
+Dark Phoenix Professor X.jpg
+Multiverse-of-madness(2021) 5611.jpg
+File:Professor X MDW Chart.jpg
+</gallery>
+
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Professor X|Marvel Cinematic Universe Wiki}}
+
+{{Marvel Cinematic Universe}}
+{{Marvel Animated Universe}}
+[[pt-br:Professor X]]
+[[Category:Marvel Comics characters]]
+[[Category:Animated characters]]
+[[Category:Marvel Disk Wars: The Avengers characters]]
+[[Category:Heroes]]
+[[Category:Superheroes]]
+[[Category:Professors]]
+[[Category:Characters with disabilities]]
+[[Category:Mutants]]
+[[Category:TV Animation characters]]
+[[Category:Characters in video games]]
+[[Category:X-Men Cinematic Universe characters]]
+[[Category:Live-action characters]]
+[[Category:Scientists]]
+[[Category:Characters who narrate the story]]
+[[Category:Acquired characters]]
+[[Category:Lovers]]
+[[Category:Siblings]]
+[[Category:Psychics]]
+[[Category:Mentors]]
+[[Category:Time travelers]]
+[[Category:Alternate Timeline Versions]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Doctor Strange characters]]
+[[Category:Bosses]]

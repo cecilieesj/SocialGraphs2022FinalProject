@@ -1,0 +1,60 @@
+{{Marvel Database:Film Template
+| Image                   = Captain America New World Order logo 001.jpg
+| Aliases                 = Captain America 4; Rochelle Rochelle (working title)
+
+| Directors               = Julius Onah
+| Producers               = Kevin Feige; Nate Moore
+| ScreenplayWriters       = Malcolm Spellman; Dalan Musson
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = 
+| Rating                  = 
+| Budget                  = 
+| Release Date            = May 3, 2024
+
+| Previous Film           = Captain America: Civil War
+| Previous Film2          = {{sld|Avengers: Endgame}}
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* <br/>
+'''Supporting Characters:'''
+* <br/>
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* <br/>
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * {{WP|Anthony Mackie}} as [[Samuel Wilson (Earth-199999)|Captain America / Sam Wilson]]
+
+* {{WP|Carl Lumbly}} as [[Isaiah Bradley (Earth-199999)|Isaiah Bradley]]<ref name="D23">{{cite web|url= https://www.marvel.com/articles/movies/d23-2022-captain-america-new-world-order-sam-wilson-cast|title= September 10, 2022|work= Marvel.com|author= Marvel|date= September 10, 2022|accessdate= September 10, 2022}}</ref>
+
+* {{WP|Danny Ramirez}} as [[Joaquín Torres (Earth-199999)|Joaquín Torres]]<ref name="D23"/>
+
+* {{WP|Tim Blake Nelson}} as [[Samuel Sterns (Earth-199999)|Leader / Samuel Sterns]]<ref name="D23"/>
+
+* {{WP|Shira Haas}} as '''[[Sabra]]'''<ref>{{cite web|url= https://www.hollywoodreporter.com/movies/movie-news/captain-america-new-world-order-1235214960/|title= ‘Captain America: New World Order’ Sets New Castmembers at D23|work= THR|last= Couch|first= Aaron|coauthors= Kit, Borys|date= September 10, 2022|accessdate= September 10, 2022}}</ref>
+
+* {{WP|Harrison Ford}} as [[Thaddeus Ross (Earth-199999)|Thaddeus "Thunderbolt" Ross]]<ref>{{cite web|url= https://deadline.com/2022/10/harrison-ford-set-as-general-thaddeus-thunderbolt-ross-for-captain-america-new-world-order-will-star-opposite-anthony-mackie-1235146944/|title= Harrison Ford Set As General Thaddeus “Thunderbolt” Ross For ‘Captain America: New World Order’, Will Star Opposite Anthony Mackie|work= Deadline|last= Grobar|first= Matt|date= October 17, 2022|accessdate= October 17, 2022}}</ref>
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}
+[[es:Captain America: New World Order]]
+[[it:Captain America: New World Order]]
+[[ru:Капитан Америка: Новый мировой порядок]]

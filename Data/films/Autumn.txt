@@ -1,0 +1,41 @@
+{{Infobox film
+|image = Autumn.jpg
+|imagewidth = 250px
+|name = Autumn
+|director = [[Ub Iwerks]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = [[Walt Disney]]
+|music = Carl W. Stalling
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[February 13]], [[1930]]<ref>[https://archive.org/details/motionpic41moti/page/n1231 "Columbia: Sound Shorts" - Motion Picture News]</ref>
+|time = 6:24
+|preceded = ''[[Summer]]''
+|followed = ''[[Cannibal Capers]]''}}
+'''''Autumn''''' is a ''[[Silly Symphony]]'' short. It was released on [[February 13]], [[1930]], and is the third part of the Season's mini-series.
+
+==Synopsis==
+Third "4 Seasons" Symphony; Bears, beavers, squirrels, and other mammals rush to store up food for the winter - set, once again, to a lively pastiche of light classics.
+
+==Home video releases==
+'''DVD'''
+*''[[Walt Disney Treasures]]: More Silly Symphonies''
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150" captionalign="center">
+Squirrel_during_fall.png
+</gallery>
+
+==Copyright info==
+The film's copyright was renewed on [[December 16]], [[1957]].<ref>[https://archive.org/details/catalogofcopyrig3111213li/page/109/mode/1up Catalog of Copyright Entries (1957 renewals)]</ref>
+
+==References==
+<references/>
+
+{{Silly Symphony}}
+[[Category:Animated shorts]]
+[[Category:Silly Symphonies]]
+[[Category:1930 shorts]]
+[[Category:Featured shorts]]

@@ -1,0 +1,100 @@
+{{Marvel Database:Film Template
+| Image                   = Ultimate Avengers 2 Rise of the Panther poster 001.jpg
+| Image2                  = Ultimate Avengers 2.jpg
+| Aliases                 = Ultimate Avengers II
+
+| Directors               = Will Meugniot; Richard Sebast; Bob Richardson
+| Producers               = 
+| ComicWriters            = Mark Millar; Bryan Hitch
+| StoryWriters            = Greg Johnson; Boyd Kirkland; Craig Kyle
+| ScreenplayWriters       = Greg Johnson
+| Musicians               = George Kallis
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = 
+| Running Time            = 73 minutes
+| Rating                  = '''MPAA:''' PG-13
+| Budget                  = 
+| Release Date            = August 8, 2006
+
+| AM ID                   = ultimate-avengers-ii-v350523
+| IMDB ID                 = 0803093
+| Marvel Movies           = Ultimate Avengers 2
+
+| Previous Film           = Ultimate Avengers: The Movie
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[Avengers (Earth-60808)|Ultimate Avengers]]}}
+** {{Only|[[Steven Rogers (Earth-60808)|Captain America (Steve Rogers)]]}}
+** {{Only|[[Anthony Stark (Earth-60808)|Iron Man (Tony Stark)]]}}
+** {{Only|[[Thor Odinson (Earth-60808)|Thor]]}}
+** {{Only|[[Natasha Romanoff (Earth-60808)|Black Widow (Natasha Romanoff)]]}}
+** {{Only dies|[[Henry Pym (Earth-60808)|Giant-Man (Hank Pym)]]}}
+** {{Only|[[Janet Van Dyne (Earth-60808)|Wasp (Janet Van Dyne)]]}}
+* {{Only|[[T'Challa (Earth-60808)|Black Panther (T'Challa)]]}} {{Flashback}}
+'''Supporting Characters:'''
+* {{Only|[[T'Chaka (Earth-60808)|T'Chaka]]}} {{FlashOnly}}
+* {{Only|[[Nicholas Fury (Earth-60808)|Nick Fury]]}}
+* {{Only|[[Elizabeth Ross (Earth-60808)|Betty Ross]]}}
+* {{Only|[[Bruce Banner (Earth-60808)|Hulk (Bruce Banner)]]}}
+'''Antagonists:'''
+* {{Only|[[Chitauri]]}}
+** {{Only|[[Herr Kleiser (Earth-60808)|Herr Kleiser]]}}
+'''Other Characters:'''
+* {{Only|[[Edwin Jarvis (Earth-60808)|Edwin Jarvis]]}}
+* {{Only|[[James Buchanan Barnes (Earth-60808)|Bucky Barnes]]}}
+* {{Only|[[Gail Richards (Earth-60808)|Gail Richards]]}}
+* Dr. Oiler {{Only}}
+* {{Voice|[[Odin Borson (Earth-60808)|Odin]]}}
+* {{Mentioned|[[Surtur (Earth-3488)|Surtur]]}}
+'''Locations:'''
+* {{Only|[[Earth-60808]]}}
+** {{Only|[[Earth]]}}
+*** {{Only|[[United States of America]]}}
+****{{Only|[[New York (State)|New York State]]}}
+***** {{Only|[[New York City]]}}
+****** {{Only|[[Triskelion]]}}
+****** {{Only|[[Stark Tower]]}}
+*** {{Only|[[Africa]]}}
+**** {{Only|[[Wakanda]]}}
+***** {{Only|[[Mena Ngai|Great Mound]]}}
+'''Items:'''
+* {{Only|[[Vibranium]]}}
+* {{Only|[[Iron Man Armor]]}}
+* {{Only|[[Captain America's Shield]]}}
+* {{Only|[[Mjolnir]]}}
+* {{Only|[[Pym Particles]]}}
+* {{Only|[[Ant-Man's Helmet]]}}
+* {{Only|[[Ant-Man's Ants]]}}
+'''Vehicles:'''
+* {{Only|[[Quinjet]]}}
+
+| Plot                    = T'Challa, the Prince of Wakanda, returns from the outside world to learn the kingdom is being attacked by the alien Chitauri. Herr Kleiser, the alien shape-shifter who battled Captain America during World War II, kills T' Challa's father in combat and seeks Wakanda's store of vibranium, the metal the Chitauri use to manufacture their ships and weapons. After becoming King and assuming the alias of the Black Panther, T' Challa seeks the aid of Captain America. General Nick Fury of S.H.I.E.L.D. orders the Avengers to assemble, with the exception of Thor (who foresees a future in which the Avengers die in battle, which father Odin confirms is connected to a giant spacecraft heading for Earth) and the Hulk, whose alter-ego Bruce Banner is interrogated and bullied in a cell.
+
+Despite a misunderstanding in which the Avengers are attacked by the Wakandan soldiers, the Wasp (Janet van Dyne-) being injured, and Captain America's shield being stolen, the team rally and, together with Thor, battle the alien Chitauri. Banner then deduces that gamma rays will weaken vibranium and sends Betty to Wakanda with a gamma-ray projector. A worldwide invasion of Earth takes place, during which Wasp recovers and Bruce Banner presumably dies due to an overdose. While the team battles the mothership hanging over Wakanda, Captain America and Black Panther attempt to kill Kleiser, whose regenerative powers prove too strong. Instead, they bury him in liquid vibranium, from which he cannot escape. Giant Man and Iron Man use the gamma-ray projector on the mothership core and send it crashing to Earth. Giant Man is mortally wounded in the battle and dies in Wasp's arms. Iron Man, near death, is revived by Thor's summoning of the heavens, confirming to his allies that he is a genuine god. The Avengers hold a celebration in tribute to Giant Man and it is revealed that Banner survived by transforming into the Hulk at the last moment and he leaves. The film ends with Captain America and Black Widow going further in their relationship and sharing a passionate kiss.
+
+| Cast                    = *Justin Gross as Captain America/Steve Rogers
+*Grey DeLisle as Wasp/Janet Van Dyne
+*Michael Massee as Doctor Bruce Banner
+*Marc Worden as Iron Man/Tony Stark
+*Olivia d'Abo as Black Widow/Natalia Romanoff
+*Nan McNamara as Betty Ross
+*Nolan North as Giant Man/Hank Pym
+*Andre Ware as Nick Fury
+*David Boat as Thor
+*Fred Tatasciore as Hulk and Edwin Jarvis
+*Jim Ward as Herr Kleiser
+*Jeffrey D. Sams as T'Challa/Black Panther
+*Dwight Schultz	as Odin
+*Mark Hamill as Oiler
+*Dave Fennoy as T'Chaka
+*Susan Dalian as Nakinda
+*Kendre Berry as Young T'Challa
+*Chi McBride as Chief Elder<ref>[http://www.imdb.com/title/tt0803093/fullcredits?ref_=tt_ov_st_sm Ultimate Avengers 2: Rise of the Panther's Cast at IMDb]</ref>
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = *[[Marvel Films#Direct-to-Video Films|Marvel Films]]
+}}

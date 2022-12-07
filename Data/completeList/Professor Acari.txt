@@ -1,0 +1,36 @@
+{{Infobox character
+|image = Professor Acari.jpg
+|name = Professor Acari
+|shows = ''[[Kim Possible]]''
+|status = Active}}
+'''Professor Acari'''<ref>http://www.imdb.com/character/ch0398744/?ref_=tt_cl_t9</ref><ref>http://www.imdb.com/name/nm0005606/</ref><ref>http://www.imdb.com/name/nm0071818/</ref> is a minor character from the animated television show ''[[Kim Possible]]''. He appears in the episode, "[[Tick-Tick-Tick]]", and then again in "[[The Full Monkey]]".
+
+==History==
+Professor Acari is a very talented entomologist who also has some experience in robotics. Professor Acari runs an advanced lab somewhere in South America. Professor Acari called [[Kim Possible (character)|Kim Possible]] when [[Shego]] broke into his lab and stole his plans for a robotic tick.
+
+==Gallery==
+<gallery spacing="small" position="center">
+Professor Acari Full.jpg
+ProfessorAcari.jpg
+</gallery>
+
+==References==
+<references/>
+
+==External Links==
+*[[w:c:kimpossible:Professor Acari|Professor Acari]] at [[w:c:kimpossible:Main Page|Kim Possible Wiki]]
+
+{{Kim Possible}}
+{{DEFAULTSORT:Acari}}
+[[Category:Kim Possible characters]]
+[[Category:Adults]]
+[[Category:Males]]
+[[Category:Disney characters]]
+[[Category:Scientists]]
+[[Category:Inventors]]
+[[Category:Characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:American characters]]
+[[Category:Professors]]
+[[Category:Disney Channel characters]]

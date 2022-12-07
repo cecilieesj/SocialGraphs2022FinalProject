@@ -1,0 +1,19 @@
+{{Infobox film
+|image = Something_eat.jpg
+|imagewidth = 250px
+|name = Something You Didn't Eat
+|director = 
+|producer = [[Walt Disney]]
+|writer = 
+|studio = [[Walt Disney Productions]]
+|distributor = General Institute
+|release = [[June 11]], [[1945]]
+|language = English
+}}
+'''''Something You Didn't Eat''''' is a [[1945]] Disney animated short film. It was sponsored by the Cereal Institute (Office of War Information, War Food Administration).
+
+==Trivia==
+*One odd note comes in the form of several scenes whose background is a dead ringer for the Warner Bros. cartoon main title "bullseye" motif.
+
+[[Category:1945 shorts]]
+[[Category:Animated shorts]]

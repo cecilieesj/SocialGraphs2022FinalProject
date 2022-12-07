@@ -1,0 +1,32 @@
+{{Infobox character
+|image = Gam snes gcm4.jpg
+|games = ''[[The Great Circus Mystery starring Mickey and Minnie]]''
+|occupation = Juggler
+|status = Defeated}}
+'''Jaguar'''<ref>''Disney's Magical Quest 2'' (GBA) English instruction booklet, page 8.</ref> is an antagonist and the first mini-boss in the video game ''[[The Great Circus Mystery starring Mickey and Minnie|The Great Circus Mystery]]''. His first battle takes a place in the first level (The Haunted Circus), he later reappears in the final level (The Baron's Castle) as one of the two mini-bosses the player must defeat.
+
+==Background==
+Jaguar is one of the three Weasel Brothers who are associated with Baron von Pete. As his name is derived from the word "juggler", he is seen constantly juggling three torches. During the battle, the player must wait for Jaguar to throw the torches and then jump on his head to deal damage just before he retrieves them, which is his only attack. Jaguar repeats the ability again.
+
+==Role in the game==
+In "The Haunted Circus", Jaguar will be seen walking from the background and then will approach either [[Mickey Mouse|Mickey]] or [[Minnie Mouse|Minnie]] during battle. Throughout the battle, Jaguar will constantly throw his torches at the player which the player must jump over them and then jump on his head before he retrieves them. Upon defeating Jaguar, the player will proceed further to the circus grounds.
+
+In "The Baron's Castle", Jaguar is one of the two mini-bosses which Mickey or Minnie fights against. The player can either use the cowboy/cowgirl outfit to hit him with corks or jump on him with any outfit the player wears. The other mini-boss the player has to fight to get to [[Pete|Baron Pete]] is to defeat a portrait of Emperor Pete himself. However, either mini-boss can be fought in any order to get to Baron Pete.
+
+==Trivia==
+*He looks like the weasels from [[Toon Patrol]].
+*If the player jumps on Jaguar while he is juggling torches (or shooting corks at him while wearing the cowboy/cowgirl outfit), he does not make a shocked expression. The only time he makes a shocked expression is when the player jumps on him after throwing the torches just before Jaguar retrieves them.
+**Additionally, he is the only Weasel Brother who makes a shocked expression when attacked as well as being the only Weasel Brother to be fought more than once in the game.
+
+==References==
+{{Reflist}}
+
+{{CharacterStub}}
+[[Category:Circus performers]]
+[[Category:Adults]]
+[[Category:Males]]
+[[Category:Anthropomorphic characters]]
+[[Category:Weasels]]
+[[Category:Mickey Mouse universe characters]]
+[[Category:Villains]]
+[[Category:Video game bosses]]

@@ -1,0 +1,40 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Tower of Terror
+|director = [[Taika Waititi]]
+|producer = [[Scarlett Johansson]]
+|starring = 
+|music = 
+|writer = [[Josh Cooley]]
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = English
+|budget = 
+|gross = }}
+'''''Tower of Terror''''' is an upcoming American horror fantasy film directed by [[Taika Waititi]]. It serves as a reboot of the [[1997]] television film of the [[Tower of Terror (film)|same name]].
+
+==Production==
+On September 30, 2021, after [[The Walt Disney Company]] settled their lawsuit dispute with [[Scarlett Johansson]], they started working on a new ''Tower of Terror'' film, with Johansson producing.
+
+On November 1, 2021, it was reported that [[Taika Waititi]] was set to direct the film and [[Josh Cooley]] would write the screenplay.<ref>[https://thedisinsider.com/2021/11/01/exclusive-taika-waititi-to-direct-disneys-tower-of-terror/ Exclusive: Taika Waititi to Direct Disney’s ‘Tower of Terror’]</ref>
+
+==References==
+{{Reflist}}
+
+{{Tower of Terror}}
+{{FilmStub}}
+
+{{DISPLAYTITLE:''Tower of Terror''}}
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Movies based on attractions]]
+[[Category:The Twilight Zone Tower of Terror]]
+[[Category:Halloween productions]]
+[[Category:Disney films]]
+[[Category:Remakes]]

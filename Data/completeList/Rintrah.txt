@@ -1,0 +1,45 @@
+{{Infobox_character
+|image = Rintrah trailer.jpg
+|films = ''[[Doctor Strange in the Multiverse of Madness]]'' 
+|actor = Adam Hugill
+|voice = 
+|fullname = Rintrah
+|alias = 
+|occupation = Sorcerer<br>Master of the Mystic Arts
+|powers = [[Magic]]
+|status = Alive
+|parents=}}
+'''''Rintrah''''' is a [[Marvel Comics]] character who appears in the [[Marvel Cinematic Universe]] film ''[[Doctor Strange in the Multiverse of Madness]]''. 
+
+Rintrah was created by Peter Gillis, Chris Warner, Scott Williams and Randy Emberlin.
+
+==Background==
+===Powers and Abilities===
+Rintrah is a sorcerer and a master of the mystic arts. 
+
+===Personality===
+Rintrah is a minotaur-humanoid creature, who serves as [[Doctor Strange]]'s apprentice.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150">
+Doctor Strange in the Multiverse of Madness - Final Poster.jpg
+Rintrah trailer.jpg
+Rintrah promo art.png
+</gallery>
+
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Rintrah|MarvelCinematic Universe Wiki}}
+
+{{Marvel Cinematic Universe}}
+[[Category:Characters]]
+[[Category:Marvel Comics characters]]
+[[Category:Heroes]]
+[[Category:Males]]
+[[Category:Superheroes]]
+[[Category:Sorcerers]]
+[[Category:Magic Users]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Doctor Strange characters]]
+[[Category:Live-action characters]]
+[[Category:Acquired characters]]
+[[Category:Minotaurs]]

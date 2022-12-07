@@ -1,0 +1,30 @@
+{{Infobox film
+|image = 1926-parade-1.jpg
+|name = Alice's Little Parade
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[February 1]], [[1926]]
+|time = 6:50
+|preceded = ''[[Alice's Orphan]]''
+|followed = ''[[Alice's Mysterious Mystery]]''
+}}
+
+'''''Alice's Little Parade''''' is a [[1926]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+Julius leads an all-out war against the mice; but eventually has to defeat them single-handedly.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1926-parade-2.jpg
+1926-parade-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=38 Alice's Little Parade] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1926 shorts]]
+[[Category:Alice Comedies]]

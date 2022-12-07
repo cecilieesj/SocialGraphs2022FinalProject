@@ -1,0 +1,57 @@
+{{Infobox character
+|name= Ferdinand Lopez
+|image= Ferdinand_Lopez.png
+|films=''[[Captain America: The Winter Soldier]]''
+|shows=
+|games=
+|rides=
+|actor=Adetokumboh M'Cormack
+|actress= 
+|voice= 
+|animator=
+|model=
+|designer=
+|inspiration=The Marvel Comics villain Machete
+|awards=
+|fullname=Ferdinand Lopez
+|alias=
+|personality=
+|appearance= 
+|birthday= 
+|occupation=
+|alignment= Bad
+|affiliations= [[Batroc]]
+|goal=
+|home=
+|family=
+|pets=
+|Allies= Gerald Durand, Georges Batroc
+|minions=
+|enemies= [[Captain America]]
+|likes=
+|dislikes=
+|powers= 
+|weapons=
+|fate=
+|quote=
+}}'''Ferdinand Lopez''' is a [[Marvel Comics]] character and antagonist. He is a mercenary working for [[Batroc]].
+
+==Appearances==
+===''[[Captain America: The Winter Soldier]]''===
+Ferdinand Lopez is the right-hand of Georges Batroc, whom helped to hijack the [[S.H.I.E.L.D.]] ship, the Lemurian Star. Eventually, he and his comrades were capturades when a rescue team of SHIELD came to help the hostages, including Jasper Sitwell.
+
+==Relationships==
+* Georges Batroc - Leader
+* Gerald Durand - Colleague
+* Captain America - Attacker
+{{CharacterStub}}
+
+{{DEFAULTSORT:Lopez, Ferdinand}}
+[[Category:Marvel Comics characters]]
+[[Category:Mercenaries]]
+[[Category:Males]]
+[[Category:Live-action characters]]
+[[Category:Captain America characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Villains]]
+[[Category:Pirates]]

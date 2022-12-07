@@ -1,0 +1,40 @@
+{{Infobox film
+|image = Delivery_boy.jpg
+|imagewidth = 250px
+|name = The Delivery Boy
+|director = [[Burt Gillett]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = Walt Disney<br>[[Marcellite Garner]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[June 13]], [[1931]]
+|time = 8:11
+|preceded = ''[[The Moose Hunt]]''
+|followed = ''[[Mickey Steps Out]]''}}
+'''''The Delivery Boy''''' is a ''[[Mickey Mouse]]'' short that was released on [[June 13]], [[1931]].
+
+==Synopsis==
+Mickey's delivering musical instruments, but stops his wagon to take them out and "test" them with [[Minnie Mouse|Minnie]] - a project that involves a beehive, a bucket of tar, and dynamite, and leaves her farm and most of the instruments in ruins, and Mickey's mule without his hair. Songs played include "In the Shade of the Old Apple Tree" and an instrumental version of "Stars and Stripes Forever".
+
+==Characters==
+*[[Mickey Mouse]]
+*[[Minnie Mouse]]
+*[[Pluto]]
+
+==Releases==
+===Television===
+* ''[[The Ink and Paint Club]]'', episode #1.44: "Musical Mickey"
+
+===Home video===
+*''[[Walt Disney Treasures]]: Mickey Mouse in Black and White, Volume 2'' (DVD)
+
+{{Mickey-Series}}
+{{Minnie-Series}}
+{{DEFAULTSORT:Delivery Boy, The}}
+[[Category:Animated shorts|Delivery Boy, The]]
+[[Category:Mickey Mouse shorts|Delivery Boy, The]]
+[[Category:Minnie Mouse shorts]]
+[[Category:Pluto shorts]]
+[[Category:1931 shorts]]

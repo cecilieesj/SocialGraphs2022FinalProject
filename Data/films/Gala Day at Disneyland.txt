@@ -1,0 +1,38 @@
+{{Infobox film
+|image = GalaDay.jpg
+|director = Hamilton Luske
+|producer = [[Walt Disney]]
+|writer = 
+|studio = [[Walt Disney Productions]]
+|distributor = [[Walt Disney Studios Motion Pictures|Buena Vista Film Distribution]]
+|release = [[January 21]], [[1960]]
+|time = 27 minutes
+|language = English
+|imdb_id = 0123084
+}}
+'''''Gala Day at Disneyland''''' is an 1959 documentary featurette travelogue that was originally released to theaters by Buena Vista Film Distribution on [[January 21]], [[1960]]. It highlights the new additions to [[Disneyland]] in the summer of 1959, including [[Disneyland Monorail System]], [[Submarine Voyage]] and [[Matterhorn Bobsleds]], clips of [[Walt Disney]] dedicating the opening celebrations of the new additions and a "Disneyland '59" parade down [[Main Street, U.S.A.]].
+
+==Gallery==
+<gallery widths="185">
+1960-disneyland-2.jpg
+1960-disneyland-3.jpg
+1960-disneyland-4.jpg
+1960-disneyland-5.jpg
+1960-disneyland-6.jpg
+Sleeping beauty japanese poster original.jpg|Poster from the release in Japan, paired with the Japanese debut of ''[[Sleeping Beauty]]''
+</gallery>
+
+==Trivia==
+*This event was also covered on a live television broadcast, ''[[Kodak Presents Disneyland '59]]''. 
+*This featurette was played before ''[[Goliath II]]'' and ''[[Toby Tyler]]''.
+**In [[Japan]], it was played before ''[[Sleeping Beauty]]''.
+
+[[Category:1960 films]]
+
+== External links ==
+* {{AtoZ|gala-day-at-disneyland-film}}
+[[Category:Disneyland]]
+[[Category:Documentaries]]
+[[Category:Live-action films]]
+[[Category:Live-action shorts]]
+[[Category:Disney theme park films]]

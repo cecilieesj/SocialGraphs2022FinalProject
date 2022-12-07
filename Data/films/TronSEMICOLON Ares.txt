@@ -1,0 +1,50 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Tron: Ares
+|director = Garth Davis<ref>https://thedisinsider.com/2020/07/06/an-update-on-tron-exclusive/</ref>
+|producer = 
+|writer = Jesse Wigutow<br>Adam Horowitz<br>Edward Kitsis
+|starring = Jared Leto<ref>https://www.looper.com/235258/tron-3-release-date-cast-plot/</ref>
+|music =
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Walt Disney Animation Studios]]
+|release = 
+|time = 
+|language = English
+|budget = 
+|gross = 
+|preceded = ''[[Tron: Legacy]]''
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = }}
+'''''Tron: Ares''''' is an upcoming American live-action film by [[Walt Disney Pictures]] and an assumed sequel of ''[[Tron: Legacy]]''. It will premiere on [[Disney+]]. 
+
+==Cast==
+*[[Garrett Hedlund]] as [[Sam Flynn]]
+*[[Bruce Boxleitner]] as [[Alan Bradley]]
+*[[Olivia Wilde]] as [[Quorra]]
+*Jared Leto as TBA
+
+==Production==
+===Development===
+On October [[2010]], a third film was announced to be in development, with Joe Kosinski returning as director with a script written by Adam Horowitz and Edward Kitsis.<ref>https://www.slashfilm.com/screenwriters-return-for-tron-legacy-sequel/</ref> 
+On January [[2011]], it was announced that a short film was being made as a trailer for the third film.<ref>http://www.tron-sector.com/articles/view.aspx?id=813</ref> Joe Kosinski stated in April that the script was underway, while confirming that the movie will continue on after ''Tron: Legacy'' ended.<ref>https://www.heavyeggs.com/article/view/tron-3-details</ref> On June [[2012]], Horowitz and Kitsis confirmed that they were still involved with the third film, while repeating that Quorra will be one of the primary characters in the plot.<ref>https://tv.yahoo.com/news/kecks-exclusives-first-look-tron-reboots-olivia-wildes-111000463.html</ref>
+
+On March [[2019]], co-producer Justin Springer confirmed that development on the project is ongoing.<ref>https://www.slashfilm.com/tron-3-update-producer-justin-springer/</ref> On June 2020 the Walt Disney Studios President of Music & Soundtracks, Mitchel Leib, stated that while the studio hopes that Joe Kosinski will return to the franchise, the studio is currently searching for a director. On July 2019, ''The DisInsider'' provided an update on the project confirming that Leto and the cast from ''Tron: Legacy'' will co-star in the film.<ref>https://thedisinsider.com/2020/07/06/an-update-on-tron-exclusive/</ref> 
+On August 2020, it was announced that Garth Davis will serve as director, with a script written by Jesse Wigutow. In addition. to Jared Leto's role as one of the main characters, he will serve as co-producer with Justin Springer and Emma Ludbrook. 
+
+==References==
+{{Reflist}}
+{{Tron}}
+[[Category:Sequel films]]
+[[Category:Live-action films]]
+[[Category:Disney+ Originals]]
+[[Category:Tron]]
+[[Category:Hybrid films]]
+[[Category:Upcoming]]

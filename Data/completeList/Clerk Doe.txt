@@ -1,0 +1,21 @@
+{{Infobox character
+|image = Clerk Doe.jpg
+|name = Clerk Doe
+|games = ''[[Toontown Online]]''
+|appearance = Purple rabbit with a yellow shirt that has green stripes on the sleeves
+|occupation = Clerk<br>Worker
+|alignment = Good/Neutral}}
+'''Clerk Doe''' is a worker for [http://toontown.wikia.com/wiki/Gag_Shop Gag Shop] in [http://toontown.wikia.com/wiki/Minnie%27s_Melodyland Minnie's Melodyland]. She works alongside [[Clerk Ray]].
+
+==Trivia==
+*Her name, like Clerk Ray, is a pun on Do-Re-Mi.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Rabbits]]
+[[Category:Females]]
+[[Category:Characters]]
+[[Category:Characters introduced in video games]]
+[[Category:Characters in video games]]
+[[Category:Animated characters]]
+{{Toontown Online}}

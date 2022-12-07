@@ -1,0 +1,35 @@
+{{Infobox character
+|image = Lyra Erso.png
+|films = ''[[Rogue One]]''
+|actress = Valene Kane<ref>{{Cite_web|url=http://www.belfastlive.co.uk/news/tv/fall-star-valene-kane-admits-11935240|title=The Fall star Valene Kane admits she was stunned after landing Star Wars role|website=BellFastLive|date=November 23, 2016}}</ref>
+|occupation = Member of the Church of the Force
+|affiliations = [[Church of the Force]]
+|home = Aria Prime
+|dislikes = [[Galactic Empire]]
+|status = Deceased
+|partner = [[Galen Erso]] † (husband)
+|children = [[Jyn Erso]] † (daughter)|likes=Her family}}
+{{Quote|Trust [[the Force]].|Lyra Erso|Rogue One}}
+
+'''Lyra Erso''' is a character who appears in the ''[[Star Wars]]'' movie, ''[[Rogue One]]''. She was the wife of [[Galen Erso]] and the mother of [[Jyn Erso]]. During the Clone Wars, Lyra and her family were abducted by agents of the [[Confederacy of Independent Systems]] and were later rescued by lieutenant-commander [[Orson Krennic]], an old friend of her husband's and a member of Supreme Chancellor [[Palpatine]]'s top secret [[Death Star]] project. She is portrayed by Valene Kane.
+
+==Role in the [[Rogue One|Film]]==
+Lyra appears early on, telling a young [[Jyn Erso]] to escape as [[Orson Krennic]] and the [[Death Troopers]] arrive to tell her husband [[Galen Erso|Galen]] to return to help with the [[Death Star]] project. She is later killed by Death Troopers after shooting Krennic to try to save Galen. After the death of Lyra, her husband would be forced into working on the Death Star project while Jyn would eventually be found, rescued, and raised by [[Saw Gerrera]].
+
+==Referneces==
+{{Reflist}}
+
+==External links==
+*{{SWW|Lyra Erso}}
+
+{{CharacterStub}}
+{{Star Wars}}
+[[Category:Star Wars Anthology characters]]
+[[Category:Live-action characters]]
+[[Category:Comic characters]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Spouses]]
+[[Category:Characters]]
+[[Category:Deceased characters]]
+[[Category:Heroines]]

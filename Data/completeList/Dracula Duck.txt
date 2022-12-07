@@ -1,0 +1,73 @@
+{{Infobox character
+|name = Dracula Duck
+|image = Draculaduck.jpg
+|shows = 
+|games = ''[[DuckTales (video game)|DuckTales]]''<br>''[[QuackShot]]''<br>''[[Donald Duck: Goin' Quackers!]]'' (cameo)<br>''[[DuckTales Remastered]]''
+|animator = 
+|voice = [[Frank Welker]]
+|designer = 
+|inspiration = [[Scrooge McDuck]]<br>Count Dracula
+|fullname = Drake Von Vladstone
+|personality = Monstrous, cruel, wicked, evil
+|occupation = Vampire
+|alignment = Bad
+|goal = To destroy [[Scrooge McDuck]]
+|home = Transylvania, Romania
+|family = 
+|pets = 
+|likes = Killing [[Scrooge McDuck]] and his family
+|dislikes = Being defeated
+|powers = Teleportation<br>Bat-summoning
+|fate = Gets defeated by Scrooge and disintegrates
+|quote = }}
+'''Drake Von Vladstone''', better known as '''Count''' '''Dracula Duck''' is the final boss in the video games ''[[DuckTales (video game)|DuckTales]]'' and ''[[DuckTales Remastered]]''. His full real name was first mentioned in the remastered version.
+
+==NES Version==
+The boss fight takes place in Transylvania. Count Dracula Duck only has one attack. He teleports almost in a way like the ''[[w:c:castlevania:Castlevania (video game)|Castlevania]]'' version of [[w:c:castlevania:Dracula|Dracula]] does and summons a bat toward [[Scrooge McDuck]]. Scrooge must pogo jump on the bat to get a boost to pogo jump on him a few times until he is defeated. After his defeat, [[Magica De Spell]] and [[Flintheart Glomgold]] race Scrooge to the top of the pillar for all of the treasures collected.
+
+==Remastered Version==
+In the remastered version, he has a little bit of a story behind him. When the [[Beagle Boys]] broke into Scrooge's money bin, they were after the portrait of Drake Von Vladstone, which Scrooge bought from Magica in disguise. When the portrait is broke open, Scrooge used [[Gyro Gearloose|Gyro]]'s super computer to decipher a treasure map for five treasures: the Sceptre of the Incan King in the Amazon, the Coin of the Lost Realm in Draculesti Manor at Transylvania (which Vladstone later happens to be the heir to), the Giant Diamond of Inner Earth in the African Mines, the Lost Crown of Genghis Khan in the Himalayas and the Green Cheese of Longevity on the Moon.
+
+After all the treasures were collected, Glomgold and the Beagle Boys took [[Huey, Dewey, and Louie]] hostage until he gave up all the treasures. Then Magica appeared and stole all the treasures, revealing that those treasures are the key to summoning Count Dracula Duck under her control. She stole all the treasures and demanded that Scrooge give up his number one dime or else she would summon him. After he refused her offer, Magica took his nephews hostage and turned the Beagle Boys into pigs. She said that Scrooge has 24 hours to give his number one dime to her at Mount Vesuvius or his nephews will become "snackula for Dracula." Scrooge and Flintheart made an uneasy truce that Flintheart would get all the treasures if Scrooge gives his number one dime to Magica in exchange for his nephews' safety.
+
+When the two finally approached Magica, Flintheart snatched the dime from Scrooge's hands and revealed that he and Magica were working together the whole time. Magica revealed her ruse to Scrooge that she sold Drake Von Vladstone's portrait with the treasure map inside for five bucks so Scrooge would do the treasure hunting, saving Magica the trouble of finding the treasures. Even though she got the number one dime from Scrooge, she refused to let go of his nephews and went ahead with her plan of summoning Dracula Duck under her control anyway. Her command to him was to kill Scrooge.
+
+===Boss Battle===
+Count Dracula Duck still has his old attack from the NES version, but after Scrooge pogo jumps on his head, he uses Magica's cauldron with new attacks. A yellow vial thrown in the cauldron turns him into a titan so he can attack by biting Scrooge. A green vial thrown in the cauldron transforms him into a dragon and he attacks by breathing five fireballs at Scrooge. A red vial thrown into the cauldron transforms him into a flock of bats forming a ceiling, attempting to crush Scrooge with his only safety being one opening. When he is near defeat, Dracula Duck goes higher and summons two bats at Scrooge. After he is defeated, he disintegrates.
+
+== ''[[QuackShot]]'' ==
+In QuackShot, Dracula Duck reappears as a boss in Transylvania.
+
+==Trivia==
+*Dracula Duck makes a cameo appearance in the videogame ''[[Donald Duck: Goin' Quackers!]]''. He appears on various pictures of Magica's manor level.
+*The concept of a vampire resembling a regular Duck family character may have inspired a vampire who is a lookalike of [[Gladstone Gander]], in the 2013 comic story ''[http://coa.inducks.org/story.php?c=D%2FD+2002-013 A Haunted Party]''.
+
+==Gallery==
+<gallery position="center" captionalign="center">
+DuckTales Remastered -CountDuck.jpg
+dracula duck nes.jpg|Scrooge fighting Dracula Duck in the NES version
+</gallery>
+
+{{DuckTales}}
+{{DEFAULTSORT: Duck, Dracula}}
+[[Category:Characters]]
+[[Category:Characters in video games]]
+[[Category:Video game bosses]]
+[[Category:Disney Interactive Studios characters]]
+[[Category:Monsters]]
+[[Category:Giants]]
+[[Category:DuckTales characters]]
+[[Category:Villains]]
+[[Category:Ducks]]
+[[Category:Anthropomorphic characters]]
+[[Category:Deceased characters]]
+[[Category:Dragons]]
+[[Category:Bats]]
+[[Category:Adults]]
+[[Category:Animated characters]]
+[[Category:Disney characters]]
+[[Category:Those destroyed]]
+[[Category:Characters introduced in video games]]
+[[Category:Donald Duck universe characters]]
+[[Category:Transformed characters]]
+[[Category:Vampires]]

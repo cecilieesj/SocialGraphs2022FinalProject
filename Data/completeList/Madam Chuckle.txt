@@ -1,0 +1,23 @@
+{{Infobox character
+|image = Madam Chuckle.png
+|name = Madam Chuckle
+|games = ''[[Toontown Online]]''
+|alignment = Neutral}}
+'''Madam Chuckle '''is a [http://toontown.wikia.com/wiki/Toon Toon] NPC violet [http://toontown.wikia.com/wiki/Cat Cat] and a shopkeeper toon who owns [http://toontown.wikia.com/wiki/Tee-Hee_Tea_Shop Tee-Hee Tea Shop], on [http://toontown.wikia.com/wiki/Silly_Street Silly Street], [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central].
+
+==SOS Toon==
+﻿Madam Chuckle is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. She is a 3-star [http://toontown.wikia.com/wiki/Toon_Up Toon-Up] SOS. She uses [http://toontown.wikia.com/wiki/Juggling_Balls Juggling Balls] to heal all toons in battle.
+
+As with all All-Toon Toon-Up gags, the Toon-Up she uses will be divided evenly to all [http://toontown.wikia.com/wiki/Toon toons] currently in battle.
+
+''This is an SOS Toon, therefore, all toons, including the caller, will be healed.''
+#45 Laff Points to One Toon
+#23 Laff Points to Two Toons
+#15 Laff Points to Three Toons
+#11 Laff Points to Four Toons
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Cats]]
+[[Category:Characters]]
+{{Toontown Online}}

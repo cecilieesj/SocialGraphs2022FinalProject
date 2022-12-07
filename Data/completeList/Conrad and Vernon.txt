@@ -1,0 +1,44 @@
+{{Infobox character
+|image = Conrad_and_Vernon.png
+|name = Conrad and Vernon
+|shows = ''[[Nightmare Ned (TV series)]]''
+|games = ''[[Nightmare Ned]]''
+|designer = [[Donovan Cook]]
+|voice = '''Conrad:''' [[Jeff Bennett]]<br>'''Vernon:''' [[Rob Paulsen]]
+|inspiration = Real life bullies
+|personality = Troublesome, nasty, thuggish, disrespectful
+|appearance = '''Conrad:''' Rounded figure, beanie, jacket, overbite<br>'''Vernon:''' Tall, slender, t-shirt and shorts, snow cap
+|occupation = Students
+|alignment = Bad
+|friends = Each other
+|enemies = [[Ned Needlemeyer]]
+|likes = Bullying, pulling pranks (especially on Ned)
+}}'''Conrad and Vernon''' are recurring characters and antagonists from ''[[Nightmare Ned]]''.
+==History==
+Their idea of fun is bullying and playing pranks -- especially on [[Ned Needlemeyer]], due to him being an easy target. They appear in the cartoon as recurring antagonists, constantly picking on Ned and pulling pranks in his nightmares.
+
+In the adventure game, they appear only as background characters. They appear in one of the cutscenes in the school nightmare, stomping Ned down as they shove by. A short time later, it's revealed that Conrad and Vernon had clogged the toilets in the bathroom with paper towels, which Ned got in trouble for, as the bullies had just fled the scene and Ned was at the wrong place at the wrong time.
+
+Conrad and Vernon are named after [[Conrad Vernon]], who is known for his work in many DreamWorks films and also served as one of the show's storyboard artists.
+
+==Gallery==
+<gallery spacing="small" position="center" captionalign="center">
+Conrad Nightmare Ned.png|Conrad
+Vernon Nightmare Ned.png|Vernon
+Conrad and Vernon 02.png|Conrad and Vernon in "[[Ned's Life as a Dog]]"
+Alicorn Conrad & Vernon.png|Conrad and Vernon as alicorns in one of Ned's nightmares
+Conrad and Vernon 03.png|Conrad and Vernon in "[[Girl Trouble (Nightmare Ned)|Girl Trouble]]"
+</gallery>
+
+{{CharacterStub}}
+{{Nightmare Ned}}
+{{DTVA shows}}
+[[Category:Nightmare Ned characters]]
+[[Category:Character pairs]]
+[[Category:Kids]]
+[[Category:Students]]
+[[Category:TV Animation characters]]
+[[Category:Characters in video games]]
+[[Category:Transformed characters]]
+[[Category:Animated characters]]
+[[Category:Villains]]

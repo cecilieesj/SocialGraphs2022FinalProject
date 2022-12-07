@@ -1,0 +1,34 @@
+{{Infobox film
+| name=Walt & El Grupo
+| image=File:Walt-and-el-grupo-the-untold-adventures-movie-poster.jpg
+| director       = Theodore Thomas
+| producer       = Kuniko Okubo<br>Walter Elias Disney Miller & Mark L. Rosen <small>(executive producers)</small>
+| writer         = Theodore Thomas
+| music          = James Stemple <small>(original music)</small><br>Tony Blondal <small>(orchestrator)</small><br>Brooke Wentz <small>(music supervisor)</small><br>Alice Wood <small>(music editor)</small>
+| cinematography = Shana Hagan
+| distributor    = [[Walt Disney Pictures]]
+| language       = English
+| budget         = 
+|release = [[April 26]], [[2008]] <small>(San Francisco International Film Festival)</small><br>[[September 9]], [[2009]]<br><small>(limited release)</small>
+|time = 106 minutes|editor = Lisa Palattella
+|studio = Theodore Thomas Productions}}'''Walt & El Grupo''' is a [[2008]] documentary film produced by Theodore Thomas Productions through The Walt Disney Family Foundation Films. It is centered around the goodwill trips to Latin America that [[Walt Disney]] and his artists took that resulted in the films ''[[Saludos Amigos]]'' and ''[[The Three Caballeros]]''.
+
+== Summary ==
+For ten weeks in [[1941]], [[Walt Disney]], his wife [[Lillian Disney|Lilly]], and sixteen colleagues from his studio visited nations in Latin America to gather story material for a series of films with South American themes. The feature documentary film uses this framing device to explore inter-American relations, provide a rare glimpse into the artists who were part of the magic of Disney’s “golden age” and give an unprecedented look at the 39 year-old Walt Disney during one of the most challenging times of his entire life.
+
+==External links==
+*[http://www.waltandelgrupo.com/ Official website]
+
+==See also==
+* ''[[Walt Before Mickey]]''
+* ''[[Saving Mr. Banks]]''
+
+{{Saludos Amigos/The Three Caballeros}}
+[[Category:2008 films]]
+[[Category:Disney films]]
+[[Category:Documentaries]]
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Saludos Amigos]]
+[[Category:The Three Caballeros]]
+[[Category:PG-rated films]]

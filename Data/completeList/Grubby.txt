@@ -1,0 +1,37 @@
+{{Template:Infobox character
+|image = File:AdventuresOfTheGummiBears-Ursalia-Grubbi.png
+|name = Grubby
+|shows = ''[[Adventures of the Gummi Bears]]''
+|voice =[[Brian Cummings]] }}
+'''Grubby Barbic''' is a character from the animated television show ''[[Adventures of the Gummi Bears]]''.
+
+==History==
+Grubby is [[Ursa (Gummi Bear)|Ursa]], [[Gritty]], and the other Barbic's cook, he is introduced in the episode "[[Return to Ursalia]]".
+
+When welcoming the [[Gummi Bears]] from [[Gummi Glen]] to [[Ursalia]], he serves his old Barbic recipes on flaming arrows, shish-kebab-style.
+
+After a small battle between the two tribes over the [[Ursalia Horn]], he and his fellow Barbics join forces with the Glen Gummies, in a fight against [[Duke Igthorn]] and his [[Ogres]], with Grubby making sure that [[Sunni Gummi|Sunni]] and [[Buddy (Gummi Bears)|Buddy]] are safe.
+
+==Appearances==
+*"[[Return to Ursalia]]"
+*"[[True Gritty]]" (briefly, silent)
+
+==Gallery==
+<gallery widths=180 spacing=small position=center captionalign=center>
+AdventuresOfTheGummiBears-ReturnToUrsalia-RoundTable.png|Grubby (far left) with the other Barbics and Glen Gummies
+AdventuresOfTheGummiBears-ReturnToUrsalia-GlenGummiesVsBarbics.png|Stand-off between the bears
+</gallery>
+
+{{Adventures of the Gummi Bears}}
+[[Category:Adventures of the Gummi Bears characters]]
+[[Category:Bears]]
+[[Category:Disney characters]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Characters]]
+[[Category:Heroes]]
+[[Category:Chefs]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:The Disney Afternoon characters]]
+[[Category:Gummi bears]]

@@ -1,0 +1,151 @@
+<div style="float:right; max-width:260px; overflow:auto"><tabber>Film=
+{{Infobox film
+|image = file:Captain EO poster.jpg
+|director = [[Francis Ford Coppola]]
+|producer = Rusty Lemorande<br>[[George Lucas]] (Executive Producer)
+|writer = George Lucas<br>Rusty Lemorande<br>Francis Ford Coppola	
+|starring = [[Michael Jackson]]<br>[[Anjelica Huston]]<br>Dick Shawn<br>[[Tony Cox]]<br>Debbie Lee Carrington<br>Cindy Sorenson<br>Gary DePew
+|music = [[James Horner]]
+|cinematography = Peter Anderson
+|editor = Lisa Fruchtman<br>Walter Murch
+|studio = Three D D D Productions<br>Eastman Kodak Company<br>[[Lucasfilm]]<br>MKD Productions<br>[[Walt Disney Imagineering]]
+|distributor = Walt Disney Attractions<br>[[Buena Vista Pictures]]
+|release = [[September 12]], [[1986]] (Florida)
+|time = 17 minutes
+|budget = $23.7 million
+|imdb_id = 0090793
+}}
+|-|Epcot=
+{{Infobox Disney ride
+|name=Captain EO
+|image=Captain EO of Epcot.jpg
+|park=[[Epcot]]
+|land=[[Journey into Imagination Pavilion|Journey Into Imagination Pavilion]], [[Future World]] (1986-1994)<br>[[Imagination! Pavilion]], [[Future World]] (2010-2015)
+|opened = [[September 12]], [[1986]] (original)<br>[[July 2]], [[2010]] (reopening)
+|closed = [[July 6]], [[1994]] (original)<br>[[December 6]], [[2015]]<ref name="2015 closing">{{cite web|last1=Fickley-Baker|first1=Jennifer|title='Disney & Pixar Short Film Festival' To Debut At Epcot's Magic Eye Theater|url=http://disneyparks.disney.go.com/blog/2015/11/disney-pixar-short-film-festival-to-debut-at-epcots-magic-eye-theater/|website=disneyparks.disney.go.com|publisher=Disney Parks|accessdate=14 November 2015}}</ref> (reopening)
+|predecessor = ''[[Magic Journeys]]'' (original)<br>''[[Honey, I Shrunk the Audience]]'' (Closed in 2010)
+|successor = ''[[Honey, I Shrunk the Audience]]'' (original)<br>''Disney & Pixar Short Film Festival''<ref name="2015 closing" /> (second)<br>([[World Celebration]])
+}}
+|-|Disneyland=
+{{Infobox Disney ride
+|name=Captain EO
+|image=EO.jpg
+|park=[[Disneyland]]
+|land=[[Tomorrowland (Disneyland)|Tomorrowland]]
+|opened = [[September 18]], [[1986]] (original)<br>[[February 23]], [[2010]] (reopening)
+|closed = [[April 7]], [[1997]] (original)<br>[[June 22]], [[2014]] (reopening)
+|predecessor = ''[[Magic Journeys]]'' (original)<br>''[[Honey, I Shrunk the Audience]]'' (reopened)
+|successor = ''[[Honey, I Shrunk the Audience]]'' (original)<br>''[[Star Wars: Path of the Jedi]]'' (reopened)
+}}
+|-|Tokyo Disneyland=
+{{Infobox Disney ride
+|name=Captain EO<br> キャプテンEO
+|image=Captain EO of Tokyo Disneyland.jpg
+|park=[[Tokyo Disneyland]]
+|land=[[Tomorrowland (Tokyo Disneyland)|Tomorrowland]]
+|opened = [[March 20]], [[1987]] (original)<br>[[July 1]], [[2010]] (reopened)
+|closed = [[September 1]], [[1996]] (original)<br>[[June 30]], [[2014]] (reopened)
+|predecessor=''[[Magic Journeys]]'' (original)<br>''[[Honey, I Shrunk the Audience]]'' (reopened)
+|successor=''[[Honey, I Shrunk the Audience]]'' (original)<br>''[[Stitch Encounter]]'' (reopened)
+}}
+|-|Disneyland Paris=
+{{Infobox Disney ride
+|name=Captain EO
+|image=Captain EO of Disneyland Paris.jpg
+|park=[[Disneyland Park (Paris)]]
+|land=[[Discoveryland]]
+|opened = [[April 12]], [[1992]] (original)<br>[[June 12]], [[2010]] (reopened)
+|closed = [[August 17]], [[1998]] (original)<br>[[April 12]], [[2015]] (reopened)
+|predecessor = ''[[Honey, I Shrunk the Audience]]'' (original)
+|successor = ''[[Honey, I Shrunk the Audience]]'' (original)<br>''[[Mickey's PhilharMagic]]'' (reopened)
+}}
+</tabber></div>
+
+'''''Captain EO''''' was a [[1986]] American 3D science fiction film starring [[Michael Jackson]] and directed by [[Francis Ford Coppola]] (who came up with the name "Captain EO" from [[Wikipedia:Eos|Eos]], the Greek goddess of dawn) that was shown at [[The Walt Disney Company|Disney]] theme parks from 1986 through [[1996]]. The attraction returned to the Disney Parks in [[2010]] as a tribute after Jackson's death. The film was shown for the final time at [[Epcot]] on [[December 6]], [[2015]].
+
+The film's executive producer was [[George Lucas]]. The film was choreographed by Jeffrey Hornaday and [[Michael Jackson]], photographed by Peter Anderson,<ref>{{cite web |url= http://disneylandalumni.org/DACBLOG/this-disney-alumni-is-an-oscar-winner/ |title=This Disney Alumnus is an Oscar Winner |last= Eades |first=Mark |work=Disney Alumnus is an Oscar Winner |date=2014 |accessdate=2015-06-29 }}</ref><ref>{{cite web |url=http://www.insidethemagic.net/2014/03/unsung-epcot-center-hero-honored-with-academy-award-continues-groundbreaking-work-in-theme-park-attractions/ |title=Unsung EPCOT Center hero honored with Academy Award |last=Eades |first=Mark |date=2014-03-28 |accessdate=2015-06-29 }}</ref> produced by Rusty Lemorande and written by Lemorande, Lucas, and Coppola, from a story idea by the artists of [[Walt Disney Imagineering]]. Lemorande also initially designed and created two of the creatures, and was an editor of the film. The score was written by [[James Horner]] and featured two songs ("[[We Are Here to Change the World]]" and "[[Another Part of Me]]"), both written and performed by Michael Jackson.
+
+The Supreme Leader was played by [[Anjelica Huston]]. Cinematographer Vittorio Storaro was the lighting director during much of the principal photography. ''Captain EO'' is regarded as one of the first "4D" films (4D is the name given to a 3D film that incorporates in-theater effects, such as lasers, smoke, etc., synchronized to the film).<ref name="oldisnew">{{cite news |title=What's old is new again as 'Captain EO' returns to Epcot |first=Dewayne |last=Bevil |newspaper=[[Orlando Sentinel]] |date=June 30, 2010 |url=http://www.orlandosentinel.com/the-daily-disney/os-tdd-tips-captain-eo-returns-063010,0,4337078.story |accessdate=October 27, 2010}}</ref>
+
+==Plot==
+The film told the story of Captain EO ([[Michael Jackson]]) and the ragtag crew of his spaceship on a mission to deliver a gift to "The Supreme Leader" ([[Anjelica Huston]]), who lived on a world of rotting, twisted metal and steaming vents. Captain EO's alien crew consisted of his small flying sidekick Fuzzball, the double-headed navigator and pilot Idey (Debbie Lee Carrington) and Ody (Cindy Sorenson), robotic security officer Major Domo (Gary Depew), a small robot, Minor Domo (who fits like a module into Major Domo), and the clumsy elephant-like shipmate Hooter (Tony Cox) who always managed to upset the crew's missions. Dick Shawn played Captain EO's boss, Commander Bog.
+
+Upon arriving on the planet, the crew was captured by the henchmen of the Supreme Leader and brought before her. She sentenced the crew to be turned into trash cans, and Captain EO to 100 years of torture in her deepest dungeon. Before being sent away, Captain EO told the Supreme Leader that he saw the beauty hidden within her and that he brought her the key to unlock it: his song, "We Are Here to Change the World".
+
+The two robot members of the crew transformed into musical instruments, and the crew members began to play the various instruments. As Hooter ran toward his instrument, he tripped over EO's cape and broke it, stopping the music. The spell broken, the Supreme Leader ordered her guards to capture Captain EO and his crew.
+
+Hooter managed to repair his instrument and sent out a blast of music, providing EO with the power to throw off the guards. He used his power to transform the dark hulking guards into agile dancers who fell into step behind him for a dance number. As EO pressed forward toward the Supreme Leader, she unleashed her Whip Warriors, two cybernetic defenders each with a whip and shield that could deflect EO's power.
+
+The others all ran away, leaving Captain EO to fight the Whip Warriors alone. EO was trapped by a closing gate and was preparing for a last stand as both the whip warriors drew their whips back for a final blow. Fuzzball dropped his instrument and speedily flew over to tie the two whips together, causing the Whip Warriors to be thrown off balance and giving EO an opportunity to transform them as well. With no further obstacles, EO used his power to transform the remaining four henchmen (not yet unleashed) and they, the transformed whip warriors and the other dancers pressed forward in dance before EO transformed the Supreme Leader into a beautiful woman, her lair into a peaceful Greek temple, and the planet into a verdant paradise.
+
+A celebration broke out to "Another Part of Me", as Captain EO and his crew triumphantly exited and flew off into space, ending the film.
+
+==Cast==
+*Captain EO - [[Michael Jackson]]
+*The Supreme Leader - [[Anjelica Huston]]
+*Commander Bog - Dick Shawn
+*Hooter - [[Tony Cox]]
+*Idee - Debbie Carrington
+*Geex - Cindy Sorensen
+*Major Domo - Gary DePew
+*Dancers - Kahea Bright, Donald Devoux, Cameron English, Bruno Falcon III, Eric Henderson, Hugo Huizar, Evelyn Jezek, Ben Lokey, Lezlie Mogell, Stephen Nicholas, Mary Oedy, Beverly Shofner, Timothy Solomon, Kevin Bender, Janeen Best, Derrick Brice, Bill Burns, Alex Cole, Dennis Daniels, Felix Montano, Tony Fields, Forrest Gardner, Barry Lather, Reggie O'Gwin, Smith Osborne, Michelle Rudy, Darrel Wright, Tim Scott, James Everett, Bobby Walker, Paul Scott Adamo
+===Uncredited===
+*Fred Apolito - Slave
+*Doug Benson - Orange Dancer
+*Sheila Best, Gabriel Bologna, Renee Colette - Dancers
+*Percy Rodrigues - Voice of Narrator
+
+==Special effects==
+''Captain EO'' made full use of its 3D effects. The action on the screen extended into the audience, including asteroids, lasers, laser impacts, smoke effects, and starfields that filled the theater. These effects resulted in the seventeen-minute film costing an estimated $30 million to produce.<ref>{{cite book |last=Cadman |first=Chris |authorlink= |coauthors= |title=[[Michael Jackson]]: For the Record |year=2007 |publisher=Authors OnLine |location= |isbn=978-0-7552-0267-6 }}</ref> At the time, it was the most expensive film ever produced on a per-minute basis, averaging out at $1.76 million per minute.<ref>{{cite book |last=Smit |first=Christopher |authorlink= |coauthors= |title=Michael Jackson: Grasping the Spectacle |url= https://books.google.com/books?id=oyTMsHhKVhoC&pg=PA120&lpg=PA120|year=2012 |publisher=Ashgate Publishing, Ltd |location= |isbn=9781409441441|page=120 }}</ref>
+
+The 2010 version did not include the in-theater laser and starfield effects. It did utilize hydraulics previously used for ''[[Honey, I Shrunk the Audience]]'' to make the seats shake along with Captain EO's spaceship, as well as LED flood-lighting which was new to the theater. They were also used for the bass-heavy musical numbers. The seats also bounced to the beat of Jackson's song. ''Honey, I Shrunk the Audience''<nowiki/>'s seat-back misters were employed when Hooter sneezed. The leg ticklers from ''Honey, I Shrunk the Audience'' was also reused.
+
+==Music==
+The show's orchestral score was composed by [[James Horner]], while the area and pre-show music was written by Richard Bellis.
+
+Two new songs appeared in the film. The first was an early mix of "[[Another Part of Me]]". The song was re-mixed and later appeared on Jackson's hugely successful ''Bad'' album. It was released as a single in 1988.
+
+"[[We Are Here to Change the World]]" was not officially released until 2004 as part of ''[[wikipedia:Michael Jackson: The Ultimate Collection|Michael Jackson: The Ultimate Collection]]''. However, this version was a shorter edit of the full-length song. Soul/R&B singer Deniece Williams covered the song on her ''As Good As It Gets'' album in 1988.<ref name="allmusic">{{cite web|url={{Allmusic|class=album|id=r21881|pure_url=yes}}|title=AllMusic: "A Good As It Gets"|accessdate=May 29, 2007 |format= |work=allmusic.com|year= 2006 }}</ref>
+
+==Merchandising==
+Concurrent with the opening of the attraction, a behind-the-scenes documentary special entitled ''Captain EO: Backstage'' was produced for television by MKD Productions. The piece was directed by Muffett Kaufman and was hosted by [[Whoopi Goldberg]]. It featured interviews with the cast, writers and director.<ref>{{Cite episode |title= The Making of Captain EO|series= The Disney Sunday Movie|serieslink= Walt Disney anthology television series|network= ABC|airdate= 1986}}</ref>
+
+The story was adapted with art by Tom Yeates in the comic book ''[[wikipedia:Eclipse Comics|Eclipse]] 3D Special'' #18 and issued in two formats: regular-sized for distribution to the national network of comic book stores and tabloid-sized sold at Disneyland as a souvenir. Toys available included plush versions of Idey and Ody, Hooter, and the "Fuzzball" character. Other merchandise included trading cards, pins, keychains, a T-shirt of the film's logo, and a glow-in-the-dark T-shirt with the same three-color pattern painted across it that Captain EO wore in the film.
+
+==Reception and legacy==
+Several years after the attraction originally opened, it made its only network television appearance on [[wikipedia:MTV|MTV]], albeit in a down-converted 2-D version. It has not aired again since, nor has it officially been issued on home video, although bootleg videos exist.
+
+After the death of Michael Jackson on [[June 25]], [[2009]], ''Captain EO'' regained popularity on the Internet. For several years, a small group of fans had petitioned Disney to bring back the attraction and Jackson's death had brought this campaign to a peak.<ref>{{cite news |url=http://blogs.ocweekly.com/navelgazing/a-clockwork-orange/eo/ |title=Disneyland Urged to Bring Back Michael Jackson's Captain EO |last=Coker |first=Matt |date=June 26, 2009 |newspaper=OC Weekly |accessdate=May 10, 2013}}</ref> Soon afterward, Disney officials were seen in Disneyland at the Magic Eye Theater and reportedly held a private screening of ''Captain EO'' to determine if it could be shown again. On September 10, Disney CEO Bob Iger said, "There aren’t plans to bring back ''Captain EO'' at this time ... We are looking at it. It’s the kind of thing that, if we did it, would get a fair amount of attention and we’d want to make sure we do it right."<ref>{{cite web|author=Brady MacDonald|url=http://travel.latimes.com/daily-deal-blog/index.php/iger-no-plans-to-bri-5337/|title=Iger: No plans to bring ‘Captain EO’ back to Disneyland|accessdate=September 26, 2009|publisher=Los Angeles Times}}</ref>
+
+On December 18, 2009, Disney announced that ''Captain EO'' would return to Tomorrowland at Disneyland beginning in February 2010. Social and Print Media Manager Heather Hust Rivera from Disneyland Resort confirmed this on the DisneyParks Blog and stated that ''[[Honey, I Shrunk the Audience]]'' would be closing. That attraction hosted its final public showing in the Magic Eye Theater at midnight on January 4, 2010, to make way for the Michael Jackson film's return.
+
+The attraction re-opened at Disneyland on February 23, 2010.<ref>{{cite web|url=http://disneyparks.disney.go.com/blog/2010/02/official-reopening-date-set-for-captain-eo-featuring-michael-jackson/ |title=Official Reopening Date Set for 'Captain EO' Featuring Michael Jackson |publisher=Disney Parks Blog |date=February 19, 2010 |accessdate=February 19, 2010}}</ref> The attraction returned to [[Discoveryland]] at [[Disneyland Park (Paris)]] on June 12, 2010, returned to [[Epcot]] at [[Walt Disney World Resort]] on July 2,<ref>{{cite web|url=http://disneyparks.disney.go.com/blog/2010/04/captain-eo-returning-to-walt-disney-world-resort/ |title=Captain EO Returning to Walt Disney World Resort « Disney Parks Blog |publisher=Disneyparks.disney.go.com |date=April 28, 2010 |accessdate=December 4, 2011}}</ref> and to [[Tokyo Disneyland]] on July 1. At Epcot, the film had a "soft opening" (actual opening to the public prior to the official opening) on June 30, 2010, two days prior to its official re-opening.
+
+The attraction was billed as "''Captain EO'' Tribute" to distinguish the presentation of the film from its original 1986–1997 run. The new presentation made use of existing in-theatre special effects held over from ''Honey, I Shrunk the Audience'', but many of the original "4-D" effects such as the enormous fiber-optic "starfield" wall along with smoke and lasers were removed from the building at the show's first closing and were not returned for the revived presentation.<ref name="Captain EO at Yesterland">{{cite web|last=Weiss|first=Werner|title=Captain EO at Yesterland|url=http://www.yesterland.com/eo.html|publisher=Yesterland.com|accessdate=August 20, 2012}}</ref> The removed special effects from the original presentation are also missing in the Epcot, Tokyo Disneyland, and Disneyland Paris revivals that followed.
+
+On December 19, 2013, Tokyo Disneyland announced it would be closing ''Captain EO'' on June 30, 2014, to make way for ''[[Stitch Encounter]]'' in spring 2015.<ref>{{cite web|url=http://www.stitchkingdom.com/disney-stitch-encounter-tokyo-67757/ |title=‘Stitch Encounter’ to Replace ‘Captain EO’ at Tokyo Disney Resort |publisher=Stitch Kingdom |date=December 19, 2013 |accessdate=December 19, 2013}}</ref>
+
+Beginning July 4, 2014, the Magic Eye Theater at [[Disneyland]] was used to present a sneak peek of [[Marvel Studios|Marvel Studios']] ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]''. Although ''Captain EO'' was expected to return to the venue at a later date, beginning September 26, 2014, the theater was used to present a sneak peek of [[Walt Disney Animation Studios|Walt Disney Animation Studios']] ''[[Big Hero 6]]''.<ref>{{cite web|last=Slater|first=Shawn|title=‘Guardians of the Galaxy’ Sneak Peek Landing in Disney Parks July 4|url=http://disneyparks.disney.go.com/blog/2014/06/guardians-of-the-galaxy-sneak-peek-landing-in-disney-parks-july-4/|publisher=DisneyParks Blog|accessdate=June 9, 2014|date=June 9, 2014}}</ref><ref>{{cite web|last=Slater|first=Shawn|title=Sneak Preview of ‘Big Hero 6’ Coming to Disneyland Park September 26|url=http://disneyparks.disney.go.com/blog/2014/09/sneak-preview-of-big-hero-6-coming-to-disneyland-park-september-25/|publisher=DisneyParks Blog|accessdate=September 15, 2014|date=September 15, 2014}}</ref> Beginning mid-April 2015, the venue presented a sneak peek of [[Walt Disney Pictures|Walt Disney Pictures']] ''[[Tomorrowland (film)|Tomorrowland]]''. The venue was renamed the Tomorrowland Theater.<ref>{{cite web|last=Slater|first=Shawn|title=Exclusive Sneak Peek of Disney’s ‘Tomorrowland’ Coming to Disney Parks in April|url=http://disneyparks.disney.go.com/blog/2015/03/exclusive-sneak-peek-of-disneys-tomorrowland-coming-to-disney-parks-inapril/|publisher=Disney Parks Blog|accessdate=March 26, 2015|date=March 26, 2015}}</ref> Beginning November 16, 2015, the theater has been used to present scenes from the ''[[Star Wars]]'' films as part of the park's "Season of the Force" event.<ref>{{cite web|last=Glover|first=Erin|title=Details on Season of the Force, Coming November 16 to Disneyland Park in California|url=http://disneyparks.disney.go.com/blog/2015/09/details-on-season-of-the-force-coming-november-16-to-disneyland-park-in-california/|work=Disney Parks Blog|accessdate=September 24, 2015|date=September 24, 2015}}</ref>
+
+On November 13, 2015, Disney announced that ''Captain EO'' would be closing on December 6, 2015, to make way for a "Disney & Pixar Short Film Festival".<ref name="2015 closing" />
+
+==References==
+{{reflist}}
+{{Epcot}}
+{{Disneyland}}
+{{Tokyo Disneyland}}
+{{Disneyland Paris}}
+[[Category:Extinct Attractions]]
+[[Category:Captain EO]]
+[[Category:3-D films]]
+[[Category:3-D attractions]]
+[[Category:Tomorrowland attractions]]
+[[Category:Future World]]
+[[Category:Discoveryland attractions]]
+[[Category:Disney's Fastpass equipped attractions]]
+[[Category:Kodak]]
+[[Category:Former Epcot attractions]]
+[[Category:Former Disneyland attractions]]
+[[Category:Former Tokyo Disneyland attractions]]
+[[Category:Former Disneyland Paris Attractions]]
+[[Category:Film attractions]]

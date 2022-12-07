@@ -1,0 +1,126 @@
+{{Infobox_film
+|image = file:The_Black_Hole_Poster_1.jpg
+|director = Gary Nelson
+|producer = [[Ron W. Miller]]
+|writer = Jeb Rosebrook<br>Bob Barbash<br>Richard Landau
+|music = John Barry
+|cinematography = [[Frank V. Phillips]]
+|editor = Gregg McLaughlin
+|studio = [[Walt Disney Productions]]
+|distributor = [[Buena Vista Distribution]]
+|release = [[December 21]], [[1979]]
+|time = 98 minutes
+|language = English
+|budget = $20 million
+|gross = $35,841,901}}'''''The Black Hole''''' is a [[1979]] science-fiction film. It is notable for two reasons, being the first [[The Walt Disney Company|Disney]] film to be rated "PG" and one of the first Disney films to feature CGI. The film was first titled ''Space Station One''.
+
+==Plot==
+An exploratory spaceship, the [[U.S.S. Palomino]], is returning from a deep space exploration mission. The crew consists of: Captain [[Dan Holland]], First Officer Lieutenant [[Charlie Pizer]], journalist [[Harry Booth]], ESP-sensitive scientist Dr. Kate McCrae, the expedition's civilian leader Dr. Alex Durant, and the robot [[V.I.N.CENT]] ("'''V'''ital '''I'''nformation '''N'''ecessary '''CENT'''ralized").
+
+During its journey, the Palomino's crew is alerted to the existence of a nearby black hole and, near it, find a derelict ship somehow defying the hole's gravitational pull. The ship is identified as the long-lost [[U.S.S. Cygnus]], a ship McCrae's father, Ensign Frank McCrae, served aboard when it was reported missing. Deciding to investigate, the Palomino encounters a mysterious null gravity field surrounding the Cygnus. The ship is then damaged when it drifts away from the Cygnus and into the black hole's intense gravity field. The Palomino manages to move back to the Cygnus and finds itself able to dock with it.
+
+The Palomino crew encounters an android crew and Dr. [[Hans Reinhardt]], a prominent scientist and the Cygnus's commander. They also meet Reinhardt's second-in-command, the hulking robot [[Maximilian]]. Reinhardt explains that after his ship encountered a meteoroid field and was disabled, he ordered the crew to return to Earth, but Kate's father (Ensign McCrae) chose to remain aboard and has since died. To the incredulity of the Palomino's crew, Reinhardt reveals that he intends to fly the Cygnus through the black hole. Only Durant believes it possible and asks to accompany Reinhardt on the trip.
+
+The rest of the Palomino crew grow suspicious of the faceless drones' human-like behavior: Booth sees a robot limping and Holland witnesses a robot funeral and discovers the Cygnuscrew's personal items in the ship's living quarters. Old [[B.O.B.]] ('''B'''i'''O'''-Sanitation '''B'''atallion), a battered earlier model robot similar to V.I.N.CENT, explains that the faceless drones are in fact the crew, who mutinied when Reinhardt refused to return to Earth. They have since been lobotomized and "reprogrammed" to serve him. McCrae's father had led the mutiny and was killed. Using telepathy, V.I.N.CENT tells Kate the truth about what happened. When Kate tells Durant, he removes the reflective faceplate from a "robot" to reveal the face of a crew member. Durant tries to flee the bridge with Kate, but Maximilian kills him, contrary to Reinhardt's wishes. Reinhardt takes Kate prisoner, ordering her to be taken to the hospital to be lobotomized.
+
+As the process begins, Holland finds and rescues Kate, along with V.I.N.CENT and B.O.B. Meanwhile, fearing the situation is escalating into dangerous territory, Booth panics and attempts to escape alone in the Palomino. Reinhardt orders the craft shot down, but the weapons fire sends the ship crashing into the Cygnus, destroying its port-side anti-gravity forcefield generator. A meteor storm then destroys the starboard generator. Without its null-gravity bubble, the Cygnus starts to be torn apart by the black hole.
+
+Reinhardt and the Palomino survivors separately plan their escape aboard a [[Probe Ship]] used to study the black hole. Maximilian goes to prepare the probe ship shortly before Reinhardt is pinned by falling debris. His lobotomized crew stand motionless as he struggles. Maximilian confronts the others and fatally cripples Old B.O.B. moments before he is crippled by V.I.N.CENT and drifts out of the ship. Holland, Pizer, McCrae and V.I.N.CENT reach the probe, only to discover it's stuck in the gravity field of the black hole. It then goes through the black hole and plunges across the hole's event horizon.
+
+In a dialogue-free epilogue, the travelers exit the hole and, possibly viewed through Kate's ESP vision, enter [[wikipedia:Hell|Hell]] and then Heaven, Reinhardt and Maximilian merge and stand on a high rock overlooking a burning, hellish landscape – possibly the remains of the Cygnus – populated by robed figures resembling the drones. Next, a floating, ethereal figure with flowing long hair passes through a cathedral-like crystal arched tunnel. The probe then emerges from a white hole in another universe and is seen near a star and planet. The last shot shows the probe flying toward the planet.
+
+==Errors and Explanations==
+
+===Internet Movie Database===
+
+====Factual errors====
+#Once the meteorite crashes into the Cygnus, the Palomino crew should have been killed within seconds due to loss of oxygen. However, they survive for several minutes and are even seen scrambling out into the vacuum of space to board the probe ship without any protective suits. '''The null-g field could by preventing the loss of atmosphere.'''
+# When the "Palomino" is climbing up toward "Cygnus" from the near vicinity of the black hole, it is not in free fall. Therefore, Mr. Pizer would not float up out of his seat when he attempts to go after V.I.N.CENT. '''Actually, he is pushing himself out of his seat - it just ''looks'' as if he is floating up.'''
+#When the Palomino crew are trying to escape to the probe ship, they clearly go outside the structure (and atmosphere) of the Cygnus, as evidenced when Charlie starts to float away. As such, they should die within a minute from asphyxia, but they are able to move around outside for several minutes then clamber into the probe ship, alive. '''See explanation for factual error number 1 above.'''
+
+===Movie Mistakes===
+
+====Corrections====
+#When the Cygnus is heavily damaged by the meteor storm, a lot of the areas which the survivors of the Palomino cross in their flight are open to the vacuum of outer space - how comes that there is no decompression (except maybe in the greenhouse), not to mention a lack of oxygen? '''The novelization by Alan Dean Foster mentions that the null-g field, which keeps the Cygnus from being pulled into the black hole, also provides protection from the vacuum of space.''' Corrected by Phixius
+#When V.I.N.CENT uses his inbuilt power drill on Maximilian, you can see that the supposed metal hull is plastic, by the dust thrown up by the drilling, and the edge of the bore hole. '''Nowhere in the film is it stated that Maximillian is made of metal. It looks like fiberglass or even carbon fibre, both reasonable materials to make a robot's body shell out of.'''
+
+==Cast==
+*Maximilian Schell as Dr. [[Hans Reinhardt]]
+*Anthony Perkins as Dr. Alex Durant
+*Robert Forster as Captain [[Dan Holland]]
+*Joseph Bottoms as Lieutenant [[Charlie Pizer]]
+*Yvette Mimieux as Dr. Kate McCrae
+*Ernest Borgnine as [[Harry Booth]]
+*Tom McLoughlin as Captain [[S.T.A.R.]] ('''S'''pecial '''T'''roops/'''A'''rms '''R'''egiment)
+*[[Roddy McDowall]] as Voice of [[V.I.N.CENT]] ('''V'''ital '''I'''nformation '''N'''ecessary '''CENT'''ralized)
+*[[Slim Pickens]] as Voice of Old [[B.O.B.]] ('''B'''i'''O'''-Sanitation '''B'''atallion)
+
+==Comic book adaptation==
+In 1980, [[w:Gold Key Comics|Whitman Comics]] published a four-issue comic book series based on the film. The first three issues adapted the film, but the fourth and final issue, which carried the title ''Beyond the Black Hole'', was an original story tracking the survivors as they explored the new universe.
+
+==Trivia==
+*This was considered by many fans to be an unofficial spinoff of ''[[Star Wars]]'', as both stories take place in space and feature droids.
+*This is the first Disney film to be rated "PG". 
+*This movie came out the exact same year "Alien" and "Star Trek: The Motion Picture", and a year before "Star Wars Episode V The Empire Strikes Back".
+
+==Gallery==
+===Promotional Images===
+<gallery position="center" captionalign="center" spacing="medium">
+Black hole.jpg
+The Black Hole Poster 2.jpg
+The Black Hole Poster 3.png
+The Black Hole Soundtrack.jpg|Soundtrack Cover
+Black hole vhs.JPG|VHS Cover
+</gallery>
+
+===Screenshots===
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+cap011.JPG
+cap013.JPG
+cap015.JPG
+cap018.JPG
+cap019.JPG
+cap023.JPG
+cap030.JPG
+cap036.JPG
+cap041.JPG
+cap047.JPG
+cap059.JPG
+cap071.JPG
+cap080.JPG
+cap091.JPG
+cap109.JPG
+Tumblr n1myeyxlhz1qhcrb0o1 1280.jpg
+Tumblr_n8u0ujD5LP1qhcrb0o1_1280.jpg
+Tumblr nblzxuTODq1qhcrb0o1 1280.jpg
+Tumblr_nc7zzarD8t1qhcrb0o1_1280.jpg
+Ccv3-15.jpg
+Tumblr ndtsg5cUw91qhcrb0o1 1280.jpg
+Tumblr neuqrbyfz31qhcrb0o2 1280.jpg
+Tumblr ngvgssQQNM1qhcrb0o2 1280.jpg
+Tumblr_nicay0ApKm1qhcrb0o1_1280.jpg
+Blackhole2.jpg
+Blackhole3.jpg
+Blackhole4.jpg
+Blackhole5.jpg
+Blackhole6.jpg
+Blackhole9.jpg
+Blackhole10.jpg
+Tumblr_nr74ydpeke1qhcrb0o1_1280.jpg
+Tumblr_ns3xkcljGx1qiceiuo1_1280.jpg
+</gallery>
+
+==Videos==
+<gallery position="center" captionalign="center">
+The Black Hole - Trailer (HD) (1979)
+The Black Hole - Unofficial Official Trailer - Disney+
+</gallery>
+
+{{The Black Hole}}
+{{DEFAULTSORT:Black Hole, The}}
+[[Category:Live-action films]]
+[[Category:Disney films]]
+[[Category:1979 films]]
+[[Category:The Black Hole]]
+[[Category:PG-rated films]]
+[[Category:Academy Award nominated films]]

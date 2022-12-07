@@ -1,0 +1,20 @@
+{{Infobox character
+|name = Oscar the Ostrich
+|image = Oscar_and_mickey.jpg
+|films =
+|family =
+|friends = [[Mickey Mouse]], [[Minnie Mouse]], [[Donald Duck]], [[Pluto]], [[Clarabelle Cow]], [[Horace Horsecollar]]
+|enemies = [[Goofy]]
+}}
+'''Oscar''' is an ostrich who has appeared as a pet of [[Mickey Mouse]] in a 1936 comic story, "Oscar the Ostrich".
+
+==Gallery==
+<gallery>
+Oscar with mickey and minnie.jpg|Oscar with Mickey and Minnie
+</gallery>
+[[Category:Mickey Mouse universe characters]]
+[[Category:Characters introduced in comics]]
+[[Category:Pets]]
+[[Category:Males]]
+[[Category:Ostrich]]
+[[Category:Adults]]

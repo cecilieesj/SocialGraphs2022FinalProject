@@ -1,0 +1,63 @@
+{{Infobox film
+|name=TRON: The Next Day
+|director=Kurt Mattila
+|writer=
+'''Screenplay:'''<br>Kurt Mattila<br>Robert Auten<br>'''Story:'''<br>Kurt Mattila<br>Robert Auten
+|producer=Brian Hall<br>Christina Hwang
+|screenplays=Kurt Mattila<br>Robert Auten
+|story=Kurt Mattila<br>Robert Auten
+|starring=Dan Shor<br>[[Bruce Boxleitner]]<br>[[Garrett Hedlund]] (cameo)<br>[[Jeff Bridges]] (voice)
+|studio=Prologue Pictures<br>[[Walt Disney Studios]]
+|distributor=[[Walt Disney Studios Home Entertainment]]
+|time=10 minutes|image = Tron- The Next Day.jpeg}}'''''Tron: The Next Day''''' is a 10-minute short film, released on the Blu-ray edition of ''TRON: Legacy'' in April [[2011]], that fills in the gap between ''[[TRON]]'' and ''[[TRON: Legacy]]''. It features scenes from the real-world [[Flynn Lives]] ARG as well as purely in-universe content. The short film also reveals the full chronology of the [[w:c:Tron:Flynn Lives Organization|Flynn Lives Organization]], naming [[w:c:Tron:Roy Kleinberg|Roy Kleinberg]] as the secret figure heading up the operation and [[Alan Bradley]] as its financial backer. Some scenes in the short also set up the story for a potential [[Tron: Ascension|third film]].
+
+==Plot==
+
+Present day - the mysterious character and founder of the Flynn Lives movement, "ZackAttack", is seen entering a basement room, presumably the organization's headquarters, as he sees news reports of the recent takeover of [[ENCOM]]. Another TV news report catches his eye, announcing that the city's police department have started investigating the organization that he has headed for so long. Realizing that the whole operation is in danger, he flips a camera on, and starts recording his last video log, saying that "the landscape has become too difficult to operate in" and thanking those people who backed the campaign.
+
+The scene shifts to a tape recording from 1989, of Alan Bradley speaking to an ENCOM executive of [[Kevin Flynn]]'s disappearance. Alan decides to assume the position of "interim CEO", and says that he is "only doing this for [[Sam Flynn|Sam]]'s sake", and suggesting "the board not forget who the biggest shareholder will be if Kevin doesn't come back".
+
+ZackAttack explains how the movement was "born out of loss", and how Bradley tried to "continue Flynn's legacy", but failed as ENCOM's rival company, Dillinger Systems (presumably run by [[Ed Dillinger]]) took the software market from ENCOM.
+
+November 29, 1990 - Kurt Hardington demands a complete corporate restructuring operation at ENCOM, saying that there will be a new future, and that the company needs to "grow up" and that it can "get there without Kevin Flynn". It also mentions a list of employees who are to be terminated - essentially fired from ENCOM.
+
+Then footage is shown of several employees being terminated, some stating that ENCOM was "founded around a chess game" and that "Flynn's spirit totally got away from the top". Alan Bradley is also heard confronting Hardington, asking him how many employees is he "letting go", and saying that Hardington's plan "represented everything that Flynn was against" and that ENCOM is "writing Flynn off". Roy Kleinberg ([[Ram]]'s user from the original ''TRON'') is then shown in an interview, stating that "ENCOM was no longer in the video game business" and that "getting fired is the best thing that ever happened to me".
+
+1996 - Bradley is shown in an interview discussing the origins of his "[[Tron]]" nickname, saying that Flynn took to calling him that after he wrote the program. Bradley is then shown stone-faced by a question regarding Flynn's disappearance, and whether anyone thinks that he is alive.
+
+1998 - Footage is shown of several computers being infected by the so-called "Flynn Lives virus" that reportedly infected 40 million PC's in 1997. Matthew Roth, the writer of the virus, says that it's "more of an Easter Egg than a virus" and that Flynn Lives wasn't involved with it at all. He also mentions that a user knows as "ISOlated Thinker" kept Roth out of jail and covered his legal fees, and also says that the movement is "totally dead".
+
+1999 - Bradley is then shown again in an interview, saying that he acknowledges, along with ENCOM, that Flynn is gone, and that it was "a massive blow personally and professionally". Also, footage is played of some people being interviewed about Flynn's disappearance. ZackAttack is then shown saying in his video log that "Flynn was not dead, but gone", and that they "needed to find a new way to reach people; we needed to think like Kevin".
+
+2009 - Sam Flynn's involvement in restarting Flynn Lives is shown. It is said that he "started doing work" that the movement had "almost given up 10 years ago". Then, several press cuttings show Sam interrupting the Space Paranoids Online launch event, and also newer cuttings are shown of Sam's takeover of ENCOM. ZackAttack concludes the video log by saying that they "may have not found Kevin Flynn, but Flynn Lives in all of us who want to believe in him".
+
+After ZackAttack finishes recording the video log, he then retrieves a hard drive which acts as a secret archive of all the evidence needed for the operation. As he prepares to erase the hard drive, a man enters, revealing himself as Alan Bradley. ZackAttack is then revealed to be Roy Kleinberg, and that he ran the operation all along. Also, the user "ISOlated Thinker" is revealed to be Bradley himself, revealing him as the financial backer of the operation. Bradley convinces Kleinberg to "put Flynn Lives behind" them, and also offers him a place at the newly-restructured ENCOM, naming him as ENCOM's "moral compass". Kleinberg reluctantly accepts, and "Tron" and "Ram" walk out of the room while Roy is asking why Flynn gave Alan "the cool nickname".
+
+The scene then shifts to ENCOM Tower, where a journalist is reporting Sam Flynn's arrival for his first board meeting. As Sam arrives on his Ducati, he is instantly flooded with paparazzi, and when asked the question "what do you think your father would have said about your actions today", Sam responds by revealing his Flynn Lives t-shirt. The scene cuts to black as ENCOM's entrance door closes.
+
+==Behind the Scenes==
+The short film was filmed before Thanksgiving. Some of the clips used in the short were used as part of the ARG, and some were specifically shot for the short. The existence of the short has started with a rumor about 3 "teaser" scenes setting up ''TRON 3'', being Easter Eggs on the Blu-ray release of the film. Two of those scenes were featured in the actual short: the scene between Alan Bradley and Roy Kleinberg, Ram's user from the original ''TRON'', and the scene with Sam Flynn arriving at ENCOM Tower, albeit [[Quorra]] was originally the one who turned up at ENCOM, revealing that she "spoke to Kevin Flynn yesterday". The third rumored clip featuring the Dillingers has ended up as an Easter Egg on the ''TRON: Legacy'' US Blu-ray release. The short film itself is an official extra on all international versions of the Blu-ray release.
+
+==Notes==
+*Some three-character codes can be used at the point where a screen with the appearance of a Space Paranoids score board is displayed to unlock Easter eggs:
+** ALL or DJR - [[Edward Dillinger, Jr.]]'s chat with his speculated father addressed as the [[MCP]] from ''TRON''.
+** CEO - Alan Bradley's tapes.
+** MKT - Alan Bradley's CEO interview.
+** Sam - Sam Flynn dropping in at a Press Conference.
+** TAG - Sam Flynn "tagging graffiti" on ENCOM's back door.
+** FLV - Flynn Lives recruiting video.
+** DFB - To access Kevin Flynn's commercial on his book "The Digital Frontier".
+** GAM - Flynn's arcade reopened.
+** SPC - Vintage Space Paranoids commercial.
+
+==Trivia==
+*The ''TRON'' logo appears at the start in similar fashion to the first film, before transitioning to the city.
+*The scene with Alan grabbing some of Roy's popcorn is a reference to the scene in the original film, where Roy asks Alan for some of his popcorn.
+*The name of Ram's user was never revealed in ''TRON''. Instead, ''TRON: The Next Day'' presents the first use of the name, Roy Kleinberg.
+*Behind Roy in the scene where Alan asks him to join ENCOM are two of the Marvel Comics Tron [[w:c:Tron:Marvel TRON Variants|variant covers]], one of them being the Iron Man variant.
+
+{{Tron}}
+[[Category:Tron]]
+[[Category:Live-action shorts]]
+[[Category:Bonus Features]]
+[[Category:Documentaries]]

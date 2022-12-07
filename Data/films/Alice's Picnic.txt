@@ -1,0 +1,23 @@
+{{NeedImage}}
+{{Infobox film
+|name = Alice's Picnic
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[May 30]], [[1927]]
+|preceded = ''[[Alice's Three Bad Eggs]]''
+|followed = ''[[Alice's Channel Swim]]''
+}}
+'''''Alice's Picnic''''' is a [[1927]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+Alice and all her pals enjoy a picnic day at the park, until a gang of rats steal their food and they are forced to attack back.
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=61 Alice's Picnic] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1927 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Lost cartoons]]

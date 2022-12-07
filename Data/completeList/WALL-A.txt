@@ -1,0 +1,41 @@
+{{Infobox character
+|image = 579.png
+|films = ''[[WALL-E (film)|WALL-E]]<br>[[Toy Story 3]]'' (cameo)
+|shorts = ''[[BURN-E]]''
+|games = ''[[WALL-E (video game)|WALL-E]]''
+|inspiration = Trash compactors
+|fullname = Waste Allocation Load Lifter - Axiom class
+|occupation = Cleaner robot
+|affiliations = [[Buy n Large]]
+|home = [[Axiom]]
+|friends = [[WALL-E (character)|WALL-E]], [[EVE]], [[M-O]]
+}}'''WALL•A''' ('''W'''aste '''A'''llocation '''L'''oad '''L'''ifter: '''A'''xiom class) units are robots built by the [[Buy n Large|BnL Corporation]], and usually assigned to a spacecraft in the [[2008]] [[Walt Disney Pictures|Disney]]•[[Pixar]] animated feature film, ''[[WALL-E (film)|WALL-E]]''. They are charged with packing and removing garbage in a garbage disposal that is delivered there by the garbage truck bots. WALL•A units are considerably larger than WALL•E units, but like their smaller brethren, WALL•A units compact garbage into cubes. These cubes are then loaded into an airlock and ejected into space.
+
+
+
+
+==Appearances==
+===''[[WALL-E (film)|WALL-E]]''===
+Two WALL•A units were encountered by WALL•E, M-O, and EVE aboard the ''Axiom''. They mistakenly compress WALL•E and EVE into garbage cubes ready to be flushed out the airlock. Little that they know that M-O has wedged himself between the inner airlock doors as the outer airlock doors open, causing air to flush out into the space. At the same time, EVE, holding WALL•E, reaches out and grabs hold onto M-O in an attempt to save themselves from being jettisoned into space. The WALL•As take notice and shut the outer airlock doors, saving the three robots. They shine the light bulbs in their eyes as they observe the trio and wave goodbye as they watch WALL•E, EVE, and M-O leave the garbage area. They are later seen back on Earth with other robots and humans when the Axiom has landed.
+
+===''[[BURN-E]]''===
+WALL•As are also briefly seen in the short film ''BURN•E'' closing the garbage disposal airlock before BURN•E gets in and he is locked outside again.
+
+===Video game===
+A single WALL•A unit blocks WALL•E's path on Earth in the ''WALL•E'' video game. WALL•E works with EVE to destroy the robot's heart. Two more units are later seen aboard the Axiom just as they are in the movie.
+
+==Gallery==
+<gallery position="center" captionalign="center" widths="185">
+WALL-E credits4.jpg
+</gallery><br />{{PixarWiki}}
+{{WALL-E}}
+
+[[fr:WALL-E (personnage)]]
+[[Category:WALL-E characters]]
+[[Category:Pixar characters]]
+[[Category:Robots]]
+[[Category:Characters]]
+[[Category:Animated characters]]
+[[Category:Silent characters]]
+[[Category:Characters in video games]]
+[[Category:Giants]]

@@ -1,0 +1,34 @@
+{{Infobox character
+|name = Otus
+|films = 
+|image = OTUS DISNEY 2.gif
+|shows = ''[[Hercules (TV series)|Hercules]]''
+|inspiration = Otus from Greek Mythology
+|occupation = Greek Aquatic DemiGod<br>Trojan Academy student<br>Foreign exchange student
+|affiliation = [[Olympian Gods]]<br>Trojan Academy
+|parents = [[Poseidon]] (father)<br>[[Amphitrite]] (mother)
+|siblings = [[Triton (Hercules)|Triton]] (brother)
+|family = [[Zeus (Hercules)|Zeus]] (paternal uncle)<br>[[Hera]] (paternal aunt)<br>[[Hades]] (paternal uncle)<br>[[Hercules (character)|Hercules]] (paternal cousin)<br>[[Kronos]] (paternal grandfather)
+}}
+
+'''Otus''' is a minor character in the Disney animated series ''[[Hercules (TV series)|Hercules]]''. He is the son of [[Poseidon]] and [[Amphitrite]] and is the brother of [[Triton (Hercules)|Triton]]. He is a foreign exchange student at Trojan Academy who fought against [[Hercules (character)|Hercules]] during the [[Prometheus Academy]] raid on Trojan Academy.
+
+==Mythology==
+In Greek mythology, the '''Aloadae''' (or '''Aloadai'''; Ancient Greek: Ἀλωάδαι) were '''Otus''' (Ὦτος) and '''Ephialtes''' (Ἐφιάλτης), sons of Iphimedia, queen of Aloeus, by Poseidon, whom she induced to make her pregnant by going to the seashore and disporting herself in the surf or scooping seawater into her bosom. From Aloeus they received their patronymic, the Aloadai. They were strong and aggressive giants, growing by nine fingers every month nine fathoms tall at age nine, and only outshone in beauty by Orion.
+
+==Gallery==
+<gallery position="center" spacing="small">
+OTUS DISNEY.gif
+OTUS DISNEY 2.gif
+</gallery>
+
+{{Hercules}}
+[[Category:Hercules characters]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Giants]]
+[[Category:Immortal]]
+[[Category:Olympian Gods]]
+[[Category:Siblings]]
+[[Category:Demigods and Demigoddesses]]

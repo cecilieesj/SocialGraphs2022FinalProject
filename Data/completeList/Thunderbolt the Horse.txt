@@ -1,0 +1,46 @@
+{{Infobox character
+|image = Thunderbolt.jpg
+|name = Thunderbolt the Horse
+|films = 
+|shorts = ''[[The Steeple-Chase]]''
+|shows = 
+|games = 
+|rides = 
+|actor = 
+|actress = 
+|animator = 
+|voice = 
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = 
+|personality = 
+|appearance = 
+|occupation = 
+|alignment = 
+|affiliations = 
+|goal = 
+|home = 
+|family = 
+|pets = 
+|friends = 
+|minions = 
+|enemies = 
+|likes = Alcohol
+|dislikes = 
+|powers = 
+|possessions = 
+|weapons = 
+|fate = 
+|quote = }}
+'''Thunderbolt''' is a race horse with a small alcoholism problem. He stars in the 1933 [[Mickey Mouse]] short ''[[The Steeple-Chase]]''.
+
+{{CharacterStub}}
+[[Category:Males]]
+[[Category:Mickey Mouse universe characters]]
+[[Category:Horses]]
+[[Category:Disney characters]]
+[[Category:Animated characters]]
+[[Category:Characters]]

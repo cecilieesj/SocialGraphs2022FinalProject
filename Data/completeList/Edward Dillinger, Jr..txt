@@ -1,0 +1,31 @@
+{{Infobox character
+|name = Edward Dillinger, Jr.
+|films = ''[[Tron: Legacy]]''
+|image = Edward Dillinger Jr..jpg
+|actor = Cillian Murphy
+|fullname = Edward Dillinger Jr.
+|alias = Dillinger
+|occupation = CEO of EnCOM
+|family = 
+|status = Active
+|parents = [[Ed Dillinger]] (father)}}'''Edward Dillinger, Jr'''. is a minor character from the [[Walt Disney Pictures|Disney]]'s [[2010]] live-action film, ''[[Tron: Legacy]]'', sequel to the [[1982]] [[Tron|film]]. Edward is the son of the programmer and former [[ENCOM]] Senior Executive [[Ed Dillinger]]. In 2010, he is a board member at ENCOM, and has taken over the development of ENCOM OS 12, formerly known as Flynn OS. 
+
+==Biography ==
+On the eve of the launch of ENCOM OS 12, Edward was among the other ENCOM members of the board when [[Sam Flynn]] stole into the ENCOM Tower and hacked into ENCOM's servers. Edward was quick to see something was wrong when a movie clip of Flynn's dog began playing during a screen presentation and was among the first to react. Although he was the one who entered in the kill command to stop the clip from playing, he was unable to prevent the data leak and retired off-screen after calmly suggesting that the pirate hack should be portrayed as an act of generosity from ENCOM to the public.
+
+He is later mentioned in TRON: The Next Day when Roy Kleinberg asked [[Alan Bradley]] about whether they should keep him in the company. Alan says he will stay having earned his place.
+
+==Behind the Scenes==
+Edward Dillinger, Jr. is portrayed in Tron: Legacy by Irish actor Cillian Murphy in an uncredited role. It is rumored that he may return for the third TRON film. Bruce Boxleitner has hinted at that, saying during an interview, "Let's just say... Cillian Murphy doesn't do cameos." A teaser scene featuring Dillinger Jr., and a second ambiguous character has been produced together with TRON: The Next Day and is an "Easter egg" on the US Blu-ray release of TRON: Legacy. The second ambiguous character (with the username MCTRL_751) is either Ed Dillinger, Sr. or a new version of the Master Control Program. The former is probably more likely to be true, as Dillinger Jr. refers to the ambiguous character as "Dad".
+
+{{Tron}}
+{{DEFAULTSORT:Dillinger, Ed}}
+[[Category:Tron characters]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Adults]]
+[[Category:Live-action characters]]
+[[Category:Disney characters]]
+[[Category:Villains]]
+[[Category:Live-action villains]]
+[[Category:Businesspeople]]

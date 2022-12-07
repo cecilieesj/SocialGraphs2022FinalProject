@@ -1,0 +1,30 @@
+{{Infobox film
+|image =
+|name = Alice the Piper
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[December 15]], [[1924]]
+|time = 6:39
+|preceded = ''[[Alice and the Three Bears]]''
+|followed = ''[[Alice Cans the Cannibals]]''
+}}
+'''''Alice the Piper''''' is an animated short film that is part of the [[Alice Comedies]] that were released by Winkler Pictures in [[1924]]. It was in black and white and silent.
+
+==Summary==
+A take on the story of "The Pied Piper on Hamelin" as Alice and Julius are hired to rid the town of rats.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1924-piper-2.jpg
+1924-piper-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=20 Alice the Piper] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1924 shorts]]
+[[Category:Alice Comedies]]

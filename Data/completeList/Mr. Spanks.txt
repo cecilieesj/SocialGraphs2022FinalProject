@@ -1,0 +1,41 @@
+{{Infobox character
+|image = Spanks.png
+|name = 
+|shows = ''[[Gamer's Guide to Pretty Much Everything]]''
+|actor = Joe Hursley
+|actress = 
+|designer = 
+|inspiration = 
+|fullname = Marion Tiffany Amber Spanks
+|alias = 
+|personality = 
+|appearance = 
+|occupation = Teacher at Mondale High School
+|alignment = Bad
+|affiliations = 
+|goal = 
+|home = 
+|family = 
+|pets = 
+|friends = 
+|minions = 
+|enemies = 
+|likes = 
+|dislikes = 
+|powers = 
+|possessions = 
+|weapons = 
+|fate = 
+|quote = }}'''Marion Tiffany Amber Spanks''' is a recurring character and antagonist in ''[[Gamer's Guide to Pretty Much Everything]]''.
+
+{{CharacterStub}}
+{{Gamer's Guide to Pretty Much Everything}}
+{{DEFAULTSORT:Spanks, Mr.}}
+[[Category:Gamer's Guide to Pretty Much Everything characters]]
+[[Category:Schoolteachers]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Live-action characters]]
+[[Category:Villains]]
+[[Category:Live-action villains]]
+[[Category:Disney characters]]

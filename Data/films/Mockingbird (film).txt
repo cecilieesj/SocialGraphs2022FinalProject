@@ -1,0 +1,33 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Mockingbird
+|director = Alma Har’el
+|writer = 
+|starring = 
+|producer = J. Miles Dale<br>Robert Schwartz<br>Alma Har’el<br>Christopher Leggett
+|studio = [[Searchlight Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|cinematography = 
+|music = 
+|editor = 
+|time = 
+|language = English
+|release = 
+|budget = 
+|website = }}
+'''''Mockingbird''''' is an upcoming American science-fiction film, directed by Alma Har’el based on the novel of the same name by Walter Tevis.
+
+==Production==
+On April 20, 2022, ''Deadline'' reported that [[Searchlight Pictures]] was developing a ''Mockingbird'' film to be released theatrically, with Alma Har’el directing.<ref>[https://deadline.com/2022/04/honey-boy-alma-harel-mockingbird-searchlight-1235006100/ ‘Honey Boy’ Director Alma Har’el To Helm Adaptation Of ‘Mockingbird’ For Searchlight]</ref>
+
+==References==
+{{Reflist}}
+
+{{DISPLAYTITLE:''Mockingbird''}}
+[[Category:Upcoming films]]
+[[Category:Films based on books]]
+[[Category:Live-action films]]
+[[Category:Searchlight Pictures films]]
+[[Category:Searchlight Pictures]]

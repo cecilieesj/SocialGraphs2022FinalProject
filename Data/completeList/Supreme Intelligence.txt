@@ -1,0 +1,58 @@
+{{Infobox character
+|image = MCU Supreme Intelligence.jpg
+|films = ''[[Captain Marvel (film)|Captain Marvel]]''
+|shows = ''[[The Avengers: Earth's Mightiest Heroes]]<br>[[Hulk and the Agents of S.M.A.S.H.]]<br>[[Guardians of the Galaxy (TV series)|Guardians of the Galaxy]]''
+|voice = [[David Kaye]] (''Earth's Mightiest Heroes'')<br>[[Clancy Brown]] (''Hulk and the Agents of S.M.A.S.H.'')<br>[[Kevin Michael Richardson]] (''Guardians of the Galaxy'')
+|actor = [[Annette Bening]]
+|fullname = Supreme Intelligence
+|affiliations = [[Kree|Kree Empire]]
+|home = Hala
+|powers = Energy Absoption<br>Longevity
+|status = Active
+|inspiration = |likes=Human fashion, popular music}}
+
+The '''Supreme Intelligence''' is a character from [[Marvel Comics]] that appears as the overarching antagonist of ''[[Captain Marvel (film)|Captain Marvel]]''.
+
+It is the ruler of the [[Kree]]. Its name is indicative of the fact that it's the smartest Kree alive, being more intelligent than the greatest Kree scientists and the greatest Kree strategists.<ref>{{Cite web|url=https://www.cbr.com/captain-marvel-annette-bening-supreme-intelligence-2/|title=Captain Marvel: Here's the Supreme Intelligence on Annette Bening's role|website=CBR.com|date=February 22, 2018}}</ref>
+
+Before making an on-screen appearance in ''Captain Marvel'', Supreme Intelligence was mentioned in ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]''. The events of ''Captain Marvel'' have humbled it to some extent, even if it's not fully reformed, as it's signed a peace treaty with [[Xandar]]. [[Ronan the Accuser|Ronan]] rejecting this peace treaty is what kicks off the events of the movie, and ultimately leads to the formation of the titular [[Guardians of the Galaxy (team)|Guardians of the Galaxy]].
+
+The Supreme Intelligence was created by [[Stan Lee]] and [[Jack Kirby]].
+
+==Trivia==
+*In ''Captain Marvel'', the Supreme Intelligence is a computer that in virtual reality takes a form of someone whoever is using it at the time greatly admires. In the comics and the cartoon, the Supreme Intelligence is a giant Kree head.
+
+==Gallery==
+<gallery position="center">
+EMH Supreme Intelligence.png
+Agents of SMASH Supreme Intelligence.jpg
+</gallery>
+
+==References==
+<references />
+
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Supreme Intelligence|Marvel Cinematic Universe Wiki}}
+
+{{Marvel Cinematic Universe}}
+{{Marvel Animated Universe}}
+[[Category:Live-action characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Captain Marvel characters]]
+[[Category:The Avengers: Earth's Mightiest Heroes characters]]
+[[Category:Hulk and the Agents of S.M.A.S.H. characters]]
+[[Category:Guardians of the Galaxy characters]]
+[[Category:Queens]]
+[[Category:Scientists]]
+[[Category:Warriors]]
+[[Category:Elderly characters]]
+[[Category:Aliens]]
+[[Category:Females]]
+[[Category:Villains]]
+[[Category:Main antagonists]]
+[[Category:Live-action villains]]
+[[Category:Acquired characters]]
+[[Category:Programs]]

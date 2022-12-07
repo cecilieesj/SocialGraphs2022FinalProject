@@ -1,0 +1,61 @@
+{{Marvel Database:Film Template
+| Image                   = 
+| Aliases                 = 
+
+| Directors               = J. C. Chandor
+| Producers               = Avi Arad; Matt Tolmach; Amy Pascal
+| ScreenplayWriters       = Art Marcum; Matt Holloway; Richard Wenk
+| Musicians               = 
+| Cinematographers        = Ben Davis
+| Editors                 = 
+| Distributors            = Sony Pictures Releasing
+| ProductionCompanies     = Columbia Pictures, Marvel Entertainment, Arad Productions, Matt Tolmach Productions, Pascal Pictures
+| Running Time            = 
+| Rating                  = 
+| Budget                  = 
+| Release Date            = October 6, 2023
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* Kraven the Hunter (Sergei Kravinoff) {{1st}}
+'''Supporting Characters:'''
+* <br/>
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* <br/>
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * {{WP|Aaron Taylor-Johnson}} as [[Kraven the Hunter|'''Kraven the Hunter / Sergei Kravinoff''']]{{r|{{cite web|url=https://www.thewrap.com/aaron-taylor-johnson-kraven-the-hunter-sony-spider-man-villain-movie/|title=Aaron Taylor-Johnson to Play Spider-Man Villain Kraven the Hunter in Solo Movie|work=The Wrap|last=Verhoeven|first=Beatrice|date=May 26, 2021|accessdate=May 26, 2021}}}}
+
+* {{WP|Fred Hechinger}} as [[Chameleon|'''Chameleon / Dmitri Smerdyakov''']]{{r|{{cite web|url= https://deadline.com/2022/02/kraven-the-hunter-white-lotus-fred-hechinger-chamelon-marvel-1234958051/|title= ‘Kraven The Hunter’: ‘White Lotus’ Breakout Fred Hechinger To Play Chameleon In Sony’s Marvel Pic|work= Deadline|last= Kroll|first= Justin|date= February 22, 2022|accessdate= February 22, 2022}}}}
+
+* {{WP|Ariana DeBose}} as [[Calypso|'''Calypso / Calypso Ezili''']]{{r|{{cite web|url= https://variety.com/2022/film/news/ariana-debose-sony-kraven-the-hunter-1235193471/|title= ‘West Side Story’ Star Ariana DeBose to Play Calypso in Sony’s ‘Kraven the Hunter’|work= Variety|last= Rubin|first= Rebeccain|date= March 1, 2022|accessdate= March 2, 2022}}}}
+
+Additionally, {{WP|Russell Crowe}}{{r|{{cite web|url= https://www.hollywoodreporter.com/movies/movie-news/russell-crowe-marvel-kraven-hunter-1235089351/|title= Russell Crowe Joins Aaron Taylor-Johnson in Sony Marvel Movie ‘Kraven the Hunter’ (Exclusive)|work= THR|last= Galuppo|first= Mia|date= February 9, 2021|accessdate= February 9, 2021}}}} and {{WP|Alessandro Nivola}}{{r|{{cite web|url= https://deadline.com/2022/03/kraven-the-hunter-alessandro-nivola-sonys-marvel-pic-1234971242/|title= ‘Kraven The Hunter’: Alessandro Nivola To Play Villain In Sony’s Marvel Pic|work= Deadline|last= Kroll|first= Justin|date= March 4, 2022|accessdate= March 4, 2022}}}} have been cast in undisclosed roles.
+
+| Notes                   = * The film was originally scheduled for a January 13, 2023 release.<ref>{{cite web|url=https://www.thewrap.com/aaron-taylor-johnson-kraven-the-hunter-sony-spider-man-villain-movie/|title=Aaron Taylor-Johnson to Play Spider-Man Villain Kraven the Hunter in Solo Movie|work=The Wrap|last=Verhoeven|first=Beatrice|date=May 26, 2021|accessdate=May 26, 2021}}</ref> It was later pushed back to October 6, 2023.<ref>{{cite web|url= https://deadline.com/2022/09/sony-kraven-the-hunter-madame-web-karate-kid-1235121120/|title= New ‘Karate Kid’ Movie Among Sony Pictures Release Date Adds; ‘Kraven The Hunter,’ ‘Madame Web’ Move & More|work= Deadline|last= D'Alessandro|first= Anthony|date= September 16, 2022|accessdate= September 16, 2022}}</ref>
+
+| Trivia                  = * Aaron Taylor-Johnson had previously portrayed the Marvel character [[Pietro Maximoff (Earth-199999)|Quicksilver]] in the [[Earth-199999|Marvel Cinematic Universe]].
+
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+| IMDB ID                 = 8790086
+| Marvel Movies           = {{PAGENAME}}
+| Spider-Man Films        = {{PAGENAME}}
+}}
+[[Category:Sony Pictures Entertainment]]
+[[es:Kraven el Cazador (película)]]
+[[ru:Крэйвен Охотник (фильм)]]
+[[tr:Avcı Kraven (film)]]

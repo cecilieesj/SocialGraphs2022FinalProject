@@ -1,0 +1,44 @@
+{{Infobox film
+|image =
+|director = [[Walt Disney]]
+|producer = Walt Disney
+|writer = Walt Pfeiffer
+|cinematography = Red Lyon
+|studio = [[Laugh-O-Gram Studio]]
+|distributor = Leslie B. Mace
+|release = [[November 3]], [[1922]]
+|time = 9 minutes
+|language = Silent film<br>English intertitles
+|preceded = ''[[Goldie Locks and the Three Bears]]''
+|followed = ''[[Cinderella (1922 film)|Cinderella]]''
+|country = United States
+|imdb_id = 0013520}}
+'''''Puss in Boots''''' was a [[1922]] film directed by [[Walt Disney]]. The film was based on the story initially written by {{WikipediaLink|Giovanni Francesco Straparola}}, and later retold by {{WikipediaLink|Charles Perrault}}.
+
+==Synopsis==
+In a split from the original story, the titled cat helps [[Jack (Laugh-O-Gram shorts)|the young boy]] win the heart of the Princess by enlisting him in a bullfight.
+
+==Gallery==
+<gallery spacing="small" widths="150" position="center">
+Puss in boots 2large.jpg
+Puss in boots 3large.jpg
+Puss in boots 4large.jpg
+Puss in boots 5large.jpg
+Puss in boots 6large.jpg
+Puss in boots 7large.jpg
+</gallery>
+
+==See also==
+* [[List of animated shorts by Disney (1920s-1960s)]]
+* [[Walt Disney]]
+
+==External links==
+* [http://www.disneyshorts.org/years/1922/pussinboots.html Puss in Boots at the Encyclopedia of Disney Animated Shorts]
+
+{{Wikipedia|Puss in Boots (1922 film)}}
+{{Stub}}
+{{DISPLAYTITLE:''Puss in Boots''}}
+[[Category:Articles with Wikipedia content]]
+[[Category:Animated shorts]]
+[[Category:Laugh-O-Grams shorts]]
+[[Category:Public domain cartoons]]

@@ -1,0 +1,45 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Three Man and a Baby
+|director = Maurice Marable<ref>{{Cite web|url=https://deadline.com/2021/01/woke-director-mo-marable-disney-three-men-and-a-baby-zac-efron-1234683124/|title=Director Mo Marable To Helm Disney+ ‘Three Men And A Baby’ Reboot and Starring Zac Efron|accessdate=January 29, 2021}}</ref>
+|producer = Gordon Gray <ref name="Screenrant">{{Cite web|url=https://screenrant.com/three-men-baby-reboot-zac-efron-release-date-2022/|title=Three Men & A Baby Reboot Starring Zac Efron Releases 2022 On Disney+|accessdate=December 11, 2020}}</ref>
+|writer = Will Reichel <ref name="Screenrant"/>
+|starring = [[Zac Efron]]<ref>{{Cite web|url=https://www.hollywoodreporter.com/news/zac-efron-star-three-men-a-baby-remake-disney-1306682|title=Zac Efron to Star in 'Three Men and a Baby' Remake for Disney+|accessdate= October 8, 2020}}</ref>
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Disney+]]
+|release = [[2022]]
+|time = 
+|language = English
+|budget = 
+|preceded = 
+|imdb_id = 12880436}}
+'''''Three Men and a Baby''''' is an upcoming comedy film produced by [[Walt Disney Studios Motion Pictures]]. It is scheduled to be released in [[2022]]. It is going to directed by  Maurice Marable, written by Will Reichel and starring [[Zac Efron]].
+
+==Premise==
+A modern take on the ’80s comedy where a trio of New York bachelors find themselves taking care of an infant.<ref>{{Cite web|url=https://www.movieinsider.com/m5406/three-men-and-a-baby|title=Three Men and a Baby Movie|accessdate= August 13 2020}}</ref>
+
+==Cast==
+*[[Zac Efron]] as TBA
+
+==Production==
+As revealed during the Disney Investor Day 2020, the reboot of [[Three Men and a Baby]] will be released on [[Disney+]] in [[2022]]. The project is described as a modern take on the 1987 comedy, with the producer Gordon Gray attached as a producer and Will Reichel penning the script. <ref name="Screenrant"/>
+
+The fact that the reboot is spotlight as a modern from the original. In the 1980s version, which was based on a French film, a fair amount of humor was derived from the fact that three bachelors had to alter their lives and cluelessly work their way through the difficulties of attending to a newborn. The reboot will likely have to address changing societal views on fatherhood, while also maintaining the spirit of its predecessor.<ref name="Screenrant"/>
+
+==Trivia==
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{DISPLAYTITLE:''Three Men and a Baby''}}
+[[Category:2022 films]]
+[[Category:Touchstone Pictures films]]
+[[Category:Live-action films]]
+[[Category:Three Men and a Baby]]
+[[Category:PG-rated films]]
+[[Category:Remakes]]
+[[Category:Disney+ Originals]]

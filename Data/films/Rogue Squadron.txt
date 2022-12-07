@@ -1,0 +1,67 @@
+{{Upcoming|media=film}}
+{{Infobox film
+|image = Rogue-Squadron-movie-logo.png
+|name = Rogue Squadron
+|director = Patty Jenkins
+|producer = [[Kathleen Kennedy]]
+|writer = Matthew Robinson
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Lucasfilm]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = 
+|budget = 
+|gross = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 10300394
+|tv_com_id = }}
+'''''Rogue Squadron''''' is a currently-shelved ''[[Star Wars]]'' film, which would’ve been the first movie of the new ''Star Wars'' film series. 
+
+==Synopsis==
+The story was intended to  introduce a new generation of starfighter pilots as they earn their wings and risk their lives in a boundary-pushing, high-speed thrill-ride, and move the saga into the future era of the galaxy. Lock S-foils in attack position: Rogue Squadron arrives in theaters Christmas 2023.<ref>{{Cite web|url=https://www.starwars.com/news/future-lucasfilm-projects-revealed|title=FUTURE LUCASFILM PROJECTS REVEALED|accessdate=December 10, 2020}}</ref>
+
+==Development==
+According to an IGN interview with Patty Jenkins, ''Rogue Squadron'' will be an entirely new and original story and not an adaptation of the novel and video game series.<ref>{{Cite_web|url=https://www.ign.com/articles/patty-jenkins-star-wars-rogue-squadron-movie-is-not-a-video-game-adaptation|title=Patty Jenkins' Star Wars: Rogue Squadron Movie Is Not a Video Game Adaptation|accessdate=December 12, 2020}}</ref>
+
+During an interview for ''[[Wikipedia:Wonder Woman 1984|Wonder Woman 1984]]'' on [[December 14]], [[2020]], Patty Jenkins confirmed that a writer was already hired for ''Rogue Squadron'', and that he has been working on the film's story treatment "for awhile," and that the treatment was nearly finished.<ref>{{Cite_web|url=https://collider.com/star-wars-rogue-squadron-script-patty-jenkins-interview/|title=Patty Jenkins on 'Star Wars' Movie 'Rogue Squadron' & Who Is Writing the Script|accessdate=December 14, 2020}}</ref>
+
+According to [[Wikipedia:The Wall Street Journal|''The Wall Street Journal'']], [[The Walt Disney Company|Disney]] CEO Bob Iger wants this to be more accessible to general audiences than the company's previous ''Star Wars'' projects.<ref>{{Cite_web|url=https://www.wsj.com/articles/the-dark-side-of-disneys-star-wars-bet-11575663914|title=Disney Disturbs the Force: Pleasing Star Wars Fans Complicates Saga|accessdate=December 6, 2020}}</ref>
+
+On June 1, 2021, it was reported that Aline Bonetto had been hired as the production designer for the film.<ref>[https://theronin.org/2021/06/01/exclusive-patty-jenkins-star-wars-rogue-squadron-adds-wonder-woman-production-designer-aline-bonetto/ EXCLUSIVE: Patty Jenkins’ ‘Star Wars: Rogue Squadron’ Adds ‘Wonder Woman’ Production Designer Aline Bonetto]</ref>
+
+On June 25, 2021, ''The Hollywood Reporter'' reported that Lucasfilm had hired Matthew Robinson to write the screenplay for the film. Pre-production will begin this fall, with a targeted 2022 filming start date.<ref>[https://www.hollywoodreporter.com/movies/movie-news/star-wars-patty-jenkins-rogue-squadron-gets-a-writer-exclusive-1234973788/ ‘Star Wars’: Patty Jenkins’ ‘Rogue Squadron’ Gets a Writer (Exclusive)]</ref>
+
+On November 8, 2021, ''The Hollywood Reporter'' reported  the film would be delayed.
+
+On February 25, 2022, it was reported that the film would not be delayed, despite previous reports.<ref>[https://bespinbulletin.com/2022/02/rogue-squadron-still-eyeing-2023-according-to-update-disney-release-schedule/ Rogue Squadron still releasing in 2023 according to updated Disney release schedule]</ref>
+
+On May 27, 2022, in an interview with ''Total Film'' [[Kathleen Kennedy]] has confirmed that the next film in the Star Wars saga is not ''Rogue Squadron''.<ref>[https://www.gamesradar.com/star-wars-movies-kathleen-kennedy-celebration-interview/ Kathleen Kennedy on the future of Star Wars movies: "We need to create a whole new saga"]</ref>
+ 
+On September 15, 2022 it was removed from the release schedule.
+==Trivia==
+*The film shares the same title of the video game series, ''Star Wars: Rogue Squadron''. Four games in the series were released from [[1998]] to [[2003]] by Nintendo 64 and GameCube.
+
+==Videos==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+Star Wars- Rogue Squadron - Official Teaser (Directed by Patty Jenkins)
+</gallery>
+
+==External links==
+*{{SWW|Rogue Squadron (film)}}
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{Star Wars}}
+
+{{DISPLAYTITLE:''Rogue Squadron''}}
+[[Category:Star Wars Films]]
+[[Category:Upcoming films]]
+[[Category:Films]]
+[[Category:Lucasfilm]]

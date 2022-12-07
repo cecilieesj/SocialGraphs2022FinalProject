@@ -1,0 +1,30 @@
+{{Infobox film
+|image = 1996-clair-1.jpg
+|imagewidth = 250px
+|director    = Samuel Armstrong
+|producer    = Walt Disney
+|writer      = 
+|language    = English
+|release = [[1996]]
+|time = 6 minutes}}'''''Clair de Lune''''' is an unused ''[[Fantasia]]'' segment. It is set to Claude Debussy's classical musical piece "Clair De Lune". It was produced in [[1941]], but did not see a release until 1996. However, it appeared on the original broadcast of ''[[Music for Everybody]]''. In 1970, broadcasts replaced it with a montage of clips from ''[[Sleeping Beauty]]''.
+
+Footage from this segment was re-scored and re-edited as the "[[Blue Bayou]]" sequence in ''[[Make Mine Music]]''.
+
+==Synopsis==
+A tone poem featuring an egret looking for companionship in the loneliness of the bayou.
+
+==Gallery==
+<gallery>
+1996-clair-3.jpg
+1996-clair-2.jpg
+1996-clair-4.jpg
+1996-clair-5.jpg
+</gallery>
+
+==Trivia==
+* The music piece also appeared as underscore in the [[Phineas and Ferb]] episode "[[Sidetracked]]".
+
+{{Fantasia}}
+[[Category:Fantasia segments]]
+[[Category:Animated shorts]]
+[[Category:1996 shorts]]

@@ -1,0 +1,58 @@
+{{Infobox character
+|name= Stern
+|image= SenatorStern.png
+|films= ''Iron Man 2''<br />''[[Captain America: The Winter Soldier]]''
+|shorts=
+|shows=
+|actor=[[Garry Shandling]]
+|inspiration=
+|awards=
+|fullname=
+|personality=Mean, sarcastic, greedy, dishonest, arrogant, delusional
+|appearance=
+|occupation= Senator (formerly)
+|alignment=Bad
+|affiliations= United States Congress (formerly)<br />[[HYDRA]]
+|goal=
+|family=
+|friends= [[Agent Jasper Sitwell|Jasper Sitwell]], [[Justin Hammer]], [[War Machine|James Rhodes]]
+|minions=Security guards
+|enemies=[[Iron Man|Tony Stark]], [[Phil Coulson]], [[Nick Fury]]
+|status = Arrested
+|quote="Hail HYDRA."
+}}'''Senator Stern''' is a congressional senator secretly working for [[HYDRA]] in ''Iron Man 2'' and ''[[Captain America: The Winter Soldier]]''.
+==Appearances==
+===''Iron Man 2''===
+Stern first appeared in ''Iron Man 2'' where [[Iron Man|Tony Stark]], Rhodes, Pepper Potts, Phil Coulson, and Justin Hammer attend a hearing to try to get Tony to hand over his Iron Man armor due to the potential threat it poses but Stark refuses then turns to Justin Hammer, and eventually was forced to award Stark and Rhodes a medal after he defeated Whiplash, which Stark took much pleasure into.
+
+===''[[Captain America: The Winter Soldier]]''===
+Stern reappeared briefly in ''[[Captain America: The Winter Soldier]]'', where he was seen having lunch with SHIELD agent [[Agent Jasper Sitwell|Jasper Sitwell]]. After the meeting, as they hugged each other, Stern whispered, "Hail HYDRA." into Sitwell's ears. Secretly, however, both of them were [[HYDRA]] agents.
+
+Near the ending, Stern was arrested by various black-suited FBI agents due to his HYDRA membership being exposed due to Fury and Black Widow's leaks.
+
+==Gallery==
+<gallery position="center" spacing="small">
+Cap2 4379.jpg|Stern with [[Agent Jasper Sitwell|Sitwell]]
+Stern Phone.png
+</gallery>
+
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Stern|Marvel Cinematic Universe Wiki}}
+
+{{CharacterStub}}
+{{Marvel Cinematic Universe}}
+
+{{DEFAULTSORT:Stern, Senator}}
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Characters]]
+[[Category:Politicians]]
+[[Category:Males]]
+[[Category:American characters]]
+[[Category:Live-action villains]]
+[[Category:Live-action characters]]
+[[Category:HYDRA agents]]
+[[Category:Captain America characters]]
+[[Category:Adults]]
+[[Category:Villains]]
+
+[[Category:Iron Man characters]]

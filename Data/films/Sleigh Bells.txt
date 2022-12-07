@@ -1,0 +1,50 @@
+{{Infobox_film
+|image = Sleigh_Bells_Poster.jpg
+|name = Sleigh Bells
+|director = [[Walt Disney]]<br>[[Ub Iwerks]]
+|producer = [[Charles Mintz]]<br>George Winkler
+|editor = Ub Iwerks
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Universal Studios|Universal Pictures]]
+|release = [[July 23]], [[1928]]<ref>[https://archive.org/details/motionnew38moti/page/n497 "Universal Short Subjects" - Motion Picture News (1928)]</ref>
+|time = 4 minutes, 37 seconds (surviving print)
+|language = English
+|preceded = ''[[Tall Timber]]''
+|followed = ''[[High Up]]''
+}}'''''Sleigh Bells''''' is an animated [[Oswald the Lucky Rabbit]] short released on [[July 23]], [[1928]]. The short was missing until late [[2015]], when a surviving print was rediscovered and restored by researchers, the British Film Institute (BFI), and the [[Walt Disney Animation Studios]], respectively. In celebration, the short was screened for the first time since its release on [[December 12]], [[2015]].<ref>[http://www.bbc.com/news/entertainment-arts-34711495]</ref>
+
+==Synopsis==
+Oswald plays the hockey champ, but gets distracted and flirts with [[Ortensia]].
+
+==Characters==
+*[[Oswald the Lucky Rabbit]]
+*[[Ortensia]]
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150">
+1928-sleigh-03.jpg
+20200325_121450.jpg|StoryBoards
+20200325_121518.jpg
+20200325_121951.jpg
+20200325_122015.jpg
+20200325_122602.jpg
+20200325_122622.jpg
+20200325_122655.jpg
+20200325_123109.jpg
+20200325_123133.jpg
+20200325_123155.jpg
+OLTR_024_1.gif|a  GIF from a reconstruction video
+social.jpg
+oswald-3_3491186b (1).jpg
+1025950-still-03.jpg
+1025950-still-02.jpg
+</gallery>
+
+{{Stub}}
+
+==References==
+{{Reflist}}
+[[Category:Animated shorts]]
+[[Category:Christmas productions]]
+[[Category:Oswald the Lucky Rabbit shorts]]
+[[Category:1928 shorts]]

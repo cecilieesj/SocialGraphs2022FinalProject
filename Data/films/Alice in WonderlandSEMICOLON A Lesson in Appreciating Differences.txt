@@ -1,0 +1,22 @@
+{{Infobox film
+| name           = Alice in Wonderland: A Lesson in Appreciating Differences
+| image          = Alice in Wonderland Lesson in Appreciating Differences.png
+| caption        = 
+| director       = Philip Abbott
+| producer       = Philip Abbott<br>JC Alexander
+| music          = 
+| cinematography =  
+| studio         = Walt Disney Productions
+| distributor    = Walt Disney Educational Media Company
+| release        = September [[1978]]
+| time           = 9 minutes
+| language       = English}}'''''Alice in Wonderland: A Lesson in Appreciating Differences''''' is a [[1978]] Disney educational live-action animated short, part of the ''Disney's Animated Classics: Lessons in Living'' series. The short features clips from ''[[Alice in Wonderland]]''.
+
+==Synopsis==
+The film stresses appreciating others for their differences is an important quality in mature young people.
+{{FilmStub}}
+{{Alice in Wonderland}}
+[[Category:1978 films]]
+[[Category:Educational films]]
+[[Category:Alice in Wonderland]]
+[[Category:Disney Educational Productions]]

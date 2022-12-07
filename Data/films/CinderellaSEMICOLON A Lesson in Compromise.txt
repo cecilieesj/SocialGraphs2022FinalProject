@@ -1,0 +1,34 @@
+{{Infobox film
+| name           = Cinderella: A Lesson in Compromise
+| image          = Cinderella_Compromise.png
+| caption        = 
+| director       = Philip Abbott
+| producer       = Philip Abbott<br>JC Alexander
+| music          = 
+| cinematography =  
+| studio         = Walt Disney Productions
+| distributor    = Walt Disney Educational Media Company
+| release        = September [[1981]]
+| time           = 7 minutes
+| language       = English}}'''''Cinderella: A Lesson in Compromise''''' is a [[1981]] American educational live-action/animated short film, part of the ''Disney's Animated Classics: Lessons in Living'' series. The short features clips from ''[[Cinderella (1950 film)|Cinderella]]''.
+
+
+
+==Synopsis==
+The film shows that trying to get more than you need or deserve only leads to trouble.
+
+==Gallery==
+<gallery position="center">
+Illustration-Cinderella-A-Lesson-In-Compromise-01.png
+Illustration-Cinderella-A-Lesson-In-Compromise-02.png
+Illustration-Cinderella-A-Lesson-In-Compromise-03.png
+Illustration-Cinderella-A-Lesson-In-Compromise-04.png
+Illustration-Cinderella-A-Lesson-In-Compromise-05.png
+Illustration-Cinderella-A-Lesson-In-Compromise-06.png
+</gallery>
+
+{{Stub}}
+{{Cinderella}}
+[[Category:Educational films]]
+[[Category:Cinderella]]
+[[Category:1981 films]]

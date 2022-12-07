@@ -1,0 +1,61 @@
+{{Infobox film
+|image = EarlyBed1.jpg
+|imagewidth = 250px
+|name = Early to Bed
+|director = [[Jack King]]
+|producer = [[Walt Disney]]
+|writer = [[Carl Barks]]<br>Chuck Couch<br>[[Jack Hannah]]
+|music = [[Oliver Wallace]]
+|starring = [[Clarence Nash]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[RKO Radio Pictures]]
+|release = [[July 11]], [[1941]]
+|language = English
+|preceded = ''[[A Good Time for a Dime]]''
+|followed = ''[[Truant Officer Donald]]''
+}}
+'''''Early to Bed''''' is an animated [[Donald Duck|''Donald Duck'']] short that was originally released on [[July 11]], [[1941]].
+
+
+
+==Synopsis==
+The annoyingly loud ticking of an alarm clock is all it takes to keep Donald up for most of the night, to say nothing of a recalcitrant mattress.
+
+==Characters==
+*[[Donald Duck]] (voiced by [[Clarence Nash]])
+
+==Releases==
+'''Television'''
+* ''[[Good Morning, Mickey]]'', episode #55
+* ''[[Mickey's Mouse Tracks]]'', episode #29
+* ''[[Donald's Quack Attack]]'', episode #17
+
+'''DVD'''
+* ''[[Walt Disney Treasures]]: The Chronological Donald''
+* ''[[Have a Laugh!#DVD releases|Have a Laugh!]]: Volume 2''
+
+==''Have a Laugh!'' changes==
+All scenes involving the alarm clock (that is to say, almost the entire first half of the cartoon) have been excised from the short release due to time constraints.
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150">
+32505.jpg
+32506.jpg
+32507.jpg
+32508.jpg
+32509.jpg
+32510.jpg
+32511.jpg
+32512.jpg
+32513.jpg
+32514.jpg
+1941-early-5.jpg
+1941-early-8.jpg
+1941-early-11.jpg
+1941-early-12.jpg|"That'll hold ya"!
+</gallery>
+
+{{Donald-Series}}
+[[Category:Donald Duck shorts]]
+[[Category:Animated shorts]]
+[[Category:1941 shorts]]

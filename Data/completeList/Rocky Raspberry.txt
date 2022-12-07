@@ -1,0 +1,17 @@
+{{Infobox character
+|image = Rocky Rasberry.png
+|name = Rocky Raspberry
+|games = ''[[Toontown Online]]''
+|occupation = Shopkeeper
+|alignment = Neutral}}
+'''Rocky Raspberry''' is a NPC Toon and a Shopkeeper of [http://toontown.wikia.com/wiki/Astroturf_Mowers Astroturf Mowers], [http://toontown.wikia.com/wiki/Maple_Street Maple Street] in [http://toontown.wikia.com/wiki/Daisy_Gardens Daisy Gardens].
+
+==Toontasks==
+﻿Only Just for Fun! or Gag Training comes from the shopkeeper.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Males]]
+[[Category:Mice]]
+[[Category:Characters]]
+{{Toontown Online}}

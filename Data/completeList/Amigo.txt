@@ -1,0 +1,39 @@
+{{Infobox character
+|image = Amigo.jpg
+|games = ''[[Amigo to the Rescue]]''
+|alignment = Good
+|goal = To help animals in trouble
+|friends = Miss Whiskers, Lady A, C.O.L.L.A.R.
+|likes = Going on missions, his trusty C.O.L.L.A.R.
+|dislikes = Danger
+|quote = }}'''Amigo''' is the protagonist of Disney's "interactive show", ''[[Amigo to the Rescue]]''.
+
+==Background==
+Amigo is described as a friendly and heroic dog. Unlike other dogs who like to chase cats up trees, Amigo is friendly and shows animal kindness. For instance, when it comes to saving a cat named "Miss Whiskers", instead of barking at the other dogs to scare them away, Amigo distracts the dogs using his ball to save her.
+
+His best friend is his trusty device, [[C.O.L.L.A.R.]] Throughout the adventure, C.O.L.L.A.R. assists Amigo whenever he needs to go on a mission to complete the task such as rescuing animals in danger.
+
+==Appearances==
+===''[[Amigo to the Rescue]]''===
+In the pilot episode, Amigo is a canine who does his best to help animals in trouble. One day, when he is trying to save Miss Whiskers (a kitten friend of his) from a group of bully dogs, he hides in a pet fair where he and Miss Whiskers are adopted by Lady A.
+
+Lady A then gives him a collar, which is later revealed to have a "Computer Operated Life Like Assistant Robot" (or "C.O.L.L.A.R.") built into it, who finds hero potential in Amigo, much to Amigo's intrigue.
+
+After learning how to use C.O.L.L.A.R., Amigo, Miss Whiskers and Lady A go on a sailboat (Amigo admitting it's his first time on a boat), but he soon gets seasick from the rocking of the ship. As he looks over the side of the ship to help with his seasickness, Amigo meets a dolphin named Steve asking to help their friend. Amigo saves the other dolphin that Steve is looking for, but needs to get back to the surface, since C.O.L.L.A.R. is solar powered. He and C.O.L.L.A.R. are soon able to return to the surface and then the ship.
+
+==Trivia==
+*The color of Amigo's collar depends on what the player chooses it to be.
+*His name means "friend" in both Spanish and Portuguese.
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+AmigoConceptDL.jpg|Concept art of Amigo
+</gallery>
+
+{{Stub}}
+[[Category:Dogs]]
+[[Category:Disney Junior characters]]
+[[Category:Characters in video games]]
+[[Category:Males]]
+[[Category:Disney characters]]
+[[Category:Animated characters]]

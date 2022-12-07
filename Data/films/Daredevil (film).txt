@@ -1,0 +1,210 @@
+{{Marvel Database:Film Template
+| Image                   = Daredevil (film).jpg
+| Aliases                 = 
+
+| Directors               = Mark Steven Johnson
+| Producers               = Avi Arad; Gary Foster; Arnon Milchan
+| ComicWriters            = Stan Lee; Bill Everett; Frank Miller
+| StoryWriters            = 
+| ScreenplayWriters       = Mark Steven Johnson
+| Musicians               = Graeme Revell
+| Cinematographers        = Ericson Core
+| Editors                 = Dennis Virkler; Armen Minasian
+| Distributors            = 20th Century Fox
+| ProductionCompanies     = Regency Enterprises, Marvel Enterprises, New Regency, Horseshoe Bay Productions
+| Running Time            = '''Theatrical cut:'''<br>103 minutes<br>'''Director's Cut:'''<br>133 minutes
+| Rating                  = '''Theatrical cut:'''<br>PG-13<br>'''Director's Cut:'''<br>R
+| Language                = English
+| Budget                  = $78 million
+| Release Date            = February 14, 2003
+
+| AM ID                   = daredevil-v273845
+| IMDB ID                 = 0287978
+| Marvel Movies           = Daredevil (film)
+
+| Previous Film           = 
+| Next Film               = Elektra (film)
+
+| Tagline                 = He is the man without fear.
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Matthew Murdock (Earth-701306)|Daredevil (Matt Murdock)]]}}
+'''Supporting Characters:'''
+* {{Only Dies|[[Elektra Natchios (Earth-701306)|Elektra Natchios]]|}}
+* {{Only|[[Benjamin Urich (Earth-701306)|Ben Urich]]}}
+* {{Only|[[Nelson and Murdock (Earth-701306)|Nelson and Murdock]]}}
+** {{Only|[[Franklin Nelson (Earth-701306)|Franklin "Foggy" Nelson]]}}
+'''Antagonists:'''
+* {{Only|[[Edward Fallon (Earth-701306)|Fallon]]}}
+* {{Only|[[Bullseye (Earth-701306)|Bullseye]]}}
+* {{Only|[[Wilson Fisk (Earth-701306)|Kingpin (Wilson Fisk)]]}}
+* {{Only Dies|[[Jose Quesada (Earth-701306)|Jose Quesada]]}}
+* {{Only|[[Wesley Welch (Earth-701306)|Wesley]]}}
+'''Other Characters:'''
+* {{Only|[[John Romita (Earth-701306)|John Romita]]}}
+* {{Only|[[Karen Page (Earth-701306)|Karen Page]]}}
+* {{Only|[[William Everett (Earth-701306)|Father Everett]]}}
+* {{Only|[[Josie (Earth-701306)|Josie]]}}
+* {{Only|[[Dante Jackson (Earth-701306)|Dante Jackson]]}}
+* {{Only Dies|[[Lisa Tazio (Earth-701306)|Lisa Tazio]]}}
+* {{Only Dies|[[Jack Murdock (Earth-701306)|Jack Murdock]]}}
+* {{Only Dies|[[Nikolas Natchios (Earth-701306)|Nikolas Natchios]]}}
+* {{Voice|[[Heather Glenn (Earth-701306)|Heather Glenn]]}} {{Only}}
+* {{Only|[[Robert McKenzie (Earth-701306)|Robert McKenzie]]}}
+* {{Only|[[Stan Lee (Earth-701306)|Stan Lee]]}}
+'''Races and Species:'''
+* {{1st|[[Humans (Homo sapiens)|Humans]]}}
+'''Locations:'''
+* {{1st|[[Earth-701306]]}}
+** {{1st|[[Earth]]}}
+*** {{1st|[[United States of America]]}}
+**** {{1st|[[New York (State)|New York]]}}
+***** {{1st|[[New York City]]}}
+****** {{1st|[[Manhattan]]}}
+******* {{Only|[[Fisk Towers|Fisk Tower]]}}
+******* {{1st|[[Hell's Kitchen]]}}
+******** {{Only|[[Nelson and Murdock Law Office]]}}
+******** {{Only|[[Matt Murdock's Apartment]]}}
+******** {{Only|[[Josie's Bar]]}}
+******** Diner {{Only}}
+******** {{Only|[[Church of the Holy Innocents]]}}
+'''Items:'''
+* {{1st|[[Daredevil's Suit]]}}
+* {{Only|[[Daredevil's Billy Club]]}}
+* {{1st|[[Elektra's Twin Sai]]}}
+'''Vehicles:'''
+* [[wikipedia:Lincoln Town Car|Lincoln Town Car]] {{Only}}
+
+| Plot                    = As a child, straight-A student Matt Murdock runs away from his father upon discovering that his father is a thug for a local mobster.  He's splashed by some radioactive biohazard material in an accident, which blinds him. He learns to overcome this disability and developing a kind of 'sixth sense' which allows him to "see" by using sound waves to create a mental image of his surroundings. His father is murdered by the [[Kingpin]], and Murdock vows to avenge him.
+
+Years later, Murdock works as an attorney in [[Hell's Kitchen]], becoming the vigilante known as Daredevil at night. He seeks out and punishes those that he cannot harm in the courtroom. He fights crime in solitude until he meets [[Elektra]].  Murdock warms to Elektra, and they become acquainted with each other.  After Elektra's father is killed by the Kingpin's assassin, [[Bullseye]], she believes the murderer to be Daredevil, and she seeks him out.  Armed with two [[Sai (weapon)|Sais]], she beats him in a fight and realizes who is behind the mask.  So she fights with Bullseye instead, who kills her.  Daredevil avenges Elektra's death and allegedly kills Bullseye by throwing him through a church window so that he lands on a police cruiser.  Daredevil then brings the fight to the Kingpin, severely beating him in his own office.  Daredevil spares Kingpin's life, even when he promises that he will be released from prison eventually.  During a credit scene, Bullseye is shown in a hospital wing, slowly recovering and still capable of killing (a fly).
+
+| Cast                    = * [[wikipedia:Ben Affleck|Ben Affleck]] as [[Matthew Murdock (Earth-701306)|Matt Murdock / Daredevil]]
+* [[wikipedia:Jennifer Garner|Jennifer Garner]] as [[Elektra Natchios (Earth-701306)|Elektra Natchios]]
+* [[wikipedia:Colin Farrell|Colin Farrell]] as [[Bullseye (Earth-701306)|Bullseye]]
+* [[wikipedia:Michael Clarke Duncan|Michael Clarke Duncan]] as [[Wilson Fisk (Earth-701306)|Wilson Fisk / The Kingpin]]
+* [[wikipedia:Jon Favreau|Jon Favreau]] as [[Franklin Nelson (Earth-701306)|Franklin "Foggy" Nelson]]
+* [[wikipedia:Ellen Pompeo|Ellen Pompeo]] as [[Karen Page (Earth-701306)|Karen Page]]
+* [[wikipedia:Joe Pantoliano|Joe Pantoliano]] as [[Benjamin Urich (Earth-701306)|Ben Urich]]
+* [[wikipedia:Leland Orser|Leland Orser]] as Wesley Owen Welch
+* [[wikipedia:Lennie Loftin|Lennie Loftin]] as Nick Manolis
+* [[wikipedia::Erick Avari|Erick Avari]] as Nikolas Natchios
+* [[wikipedia:Derrick O'Connor|Derrick O'Connor]] as Father Everett
+* [[wikipedia:Paul Ben-Victor|Paul Ben-Victor]] as Jose Quesada
+* [[wikipedia:David Keith|David Keith]] as Jack Murdock
+* [[wikipedia:Scott Terra|Scott Terra]] as Young Matt
+* [[wikipedia:Frankie Jay Allison|Frankie Jay Allison]] as Abusive Father
+| Notes                   = * '''''Daredevil''''' is a 2003 film directed by Mark Steven Johnson, who also wrote the screenplay. It is based on the [[Marvel Comics|Marvel comics]] [[Daredevil|character]], using predominantly the tone and stories written by [[Frank Miller]].<!--and [[David Mack]]? Citation needed, but Mack, who consulted on the film, has said in an interview that his "Parts of a Hole" arc was also used-->
+
+{{YouTube|'''Daredevil Trailer'''|[[File:Daredevil Trailer|370px]]|380
+}}
+
+* A spin-off sequel, involving [[Elektra|Elektra Natchios]], was released in 2005. See ''[[Elektra (film)|Elektra]]''.
+** Throughout the film, Murdock deals with the moral implications of being a vigilante, and tries to prove that he isn't the villain.
+
+==Critical reaction and box office==
+The film was regarded as a modest success at the box office, although it did not make as much money as the ''[[X-Men (film)|X-Men]]'' and ''[[Spider-Man (film)|Spider-Man]]'' films. Though the original production was geared towards a darker, more adult film, the success of the then just released ''[[Spider-Man]]'' prompted Fox to curb the more mature elements and re-envision the film as a summer action vehicle in mid-production.
+
+Fan and critical reactions were mixed at best. Much disapproval was heaped upon Ben Affleck for his performance as Daredevil, whom many fans felt was not right for the role. Besides Ben Affleck, there was mixed fan reaction to the increased budget for CGI effects and retooling of the tone. There was also a small amount of controversy concerning the casting of African American actor Michael Clarke Duncan as the villainous Kingpin, whose traditional comic ethnicity was of Anglo-European descent. Jennifer Garner, who played [[Elektra]], fared slightly better, however, and won her own spin off, ''[[Elektra (film)|Elektra]]'', but it did poorly at the box office. The highest praise went to Colin Farrell, whose portrayal of the maniacal Bullseye was well received by fans and critics alike (an ability he has demonstrated in many movies).
+
+Daredevil's premise departed from what has been established in the long-running comic book series. In the film, Daredevil is a vigilante who has no problems executing criminals who escape justice (although he changes his ways by the end of the film). In the comic series, Daredevil is a principled individual who believes in upholding the rule of law above all else. His principles in the comics have led to conflicts with other superheroes such as [[Spider-Man]], [[Wolverine]], and the [[Punisher]], and, as his alter ego Matt Murdock, sometimes defend the criminals he catches in court.
+
+A glaring error in the film is the nature of the courtroom trial shown at the beginning. Matt Murdock is a defense lawyer working in a private practice. The film depicts him prosecuting an alleged rapist. This would actually be done by a government prosecutor, not a private attorney, unless it was a civil trial, although this would be inconsistent with many other details in the film.
+
+David Fear of MSN Movies ranks ''Daredevil'' as the second worst superhero movie to date, behind ''Batman and Robin''.<ref>[http://movies.msn.com/movies/superhero3 Msn Entertainment Movies Page]</ref> Roger Ebert's review rated it favorably compared to other superhero films.<ref>[http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20030214/REVIEWS/302140301/1023 Roger Ebert's Movie Review of Daredevil]</ref>
+
+==Director's Cut==
+In December 2004, a director's cut of the film was released on DVD. This version added 30 minutes of footage not seen in the original, including an entire subplot involving Murdock defending a murder suspect played by rapper Coolio, which allows Foggy to uncover evidence of the Kingpin's true identity. It also won quite a few more fans than the initial theatrical release.
+
+'''The following scenes were deleted that were featured in the PG-13 cut of the film:'''
+* The confession booth scenes between Father Steven and Matt Murdock.
+* The love scene between Elektra and Matt Murdock (Ironically, some critics had praised the realism of this scene, in which Matt would follow his desire rather than vacuously fighting crime).
+* The scene where Elektra and Matt walk through New York and briefly discuss their origins.
+* The look on Elektra's face when Bullseye stabs her.
+* The scene where Matt is told by Urich how Elektra is a target of the Kingpin, it is replaced with him learning this from a corrupt cop.
+
+[[File:Wilson Fisk (Earth-701306) from Daredevil (film) 0002.jpg|thumbnail|right|130px|Michael Clarke Duncan as the Kingpin]]
+
+'''The following additions were made:'''
+* More scenes involving The Kingpin at his most vicious, at one point killing two of his own bodyguards by breaking their necks in his office.
+* The final confrontation between Daredevil and The Kingpin is longer and more brutal.
+* The fight between Elektra and Bullseye is longer and ends with Bullseye giving her a kiss before he throws her onto the roof of the adjacent building.
+* The first scene where Matt and Foggy talk in the coffee shop is longer, including Foggy referencing his attempt to get Matt a seeing-eye dog.
+* After the murder of Elektra's father, there is a scene where Foggy is struggling to defend Dante Jackson in court without Matt's help as he fails to read Matt's Braille notes. The following scene reveals that Matt is at Natchios' funeral.
+* The fight scene in the playground with Matt and Elektra is longer, and ends with Elektra's bodyguard picking her up.
+* The scene in the bar where Daredevil takes out the bikers is longer and more violent.
+* The subplot involving the character of Daunte Jackson, played by Coolio, who is accused of a murder is reintroduced in its entirety with Matt Murdock and Foggy Nelson defending him.
+* Urich tipping Matt off about the corrupt police officer that Matt interviewed earlier in court and Matt going to interrogate the corrupt officer (played by Jude Ciccolella), by smashing his car in a parking lot to learn why he couldn't detect he was lying in court earlier to discover that the man has a pacemaker which is why Matt couldn't detect it (since a heartbeat is regulated with a pacemaker and prevents it from rising, and that Matt can only detect a lie when that person's heartbeat rises).
+* Matt and Foggy break into the apartment of Lisa Tazio, the murder victim in the Daunte Jackson trial and finding a clue, "8-9 WOW" (initially read as "6-8 MOM").
+* A late night scene where Foggy is working at the office trying to figure out the clue found in Lisa Tazio's apartment in which Karen Page figures out by flipping the paper upside down and Foggy realizing that the WOW, are the initials for The Kingpin's assistant, Wesley Owen Welch.
+* An exchange during the Natchios' party where Foggy and Wesley have a verbal exchange that ends by Foggy saying "What a dick!" after Wesley insults him. During this scene Foggy sees the initials for Weasley which would come in handy later.
+* The scene where Bullseye demands his own costume is restored to "I want a f*cking costume" as opposed to the theatrical version where he says "I want a bloody costume".
+* A flashback scene where young Matt is seen with a nun comforting him in hospital (the comics would identify this woman as his mother).
+* A scene where Matt is in church and his surrogate mother is watching him in the back of the church as he talks to Father Steven.
+* The introduction of Bullseye arriving at the airport and going through a metal detector.
+* The scene where Matt returns from his battle in the opening of the film, he is seen in his apartment pouring Epsom salts into the water of his coffin. As he is about to lay down, he hears noises and sounds from the outside world as far as seeing a woman crawling on the floor and ends by him laying down inside the coffin and the top sealing.
+* The scene in the morgue with Ben Urich and Kirby is longer in which Foggy ends up calling him on his cell phone and telling him about who murdered his informant from the clue that Matt had found in the murder victim's apartment.
+* More scenes between Matt and Ben discussing some personal issues.
+* Nick Manolis going to see Wesley after learning about his connection to Lisa Tazio's murder from Urich (which Foggy informed Urich about after Karen helped him figure it out) and offering him a plea bargain in exchange for testifying against Wilson Fisk.
+* Near the closing of the film, both Fisk and Wesley are seen locked in their cells, while a badly injured Bullseye is rebuilt in the prison's hospital. It is obvious the character in question is Bullseye since there is a fly buzzing around the room annoying the man in the body cast. Using his good fingers, Bullseye throws a syringe at the fly, impaling it on the wall. The scene with Bullseye was in the original release, however, it played midway through the closing credits as opposed to before the film's end.
+* During the finale, Daunte Jackson celebrates his acquittal by hugging Foggy on the steps of the courthouse as Matt looks on and the scene shifts with Matt walking by the church where he sees Father Steven after the afternoon mass had ended.
+
+==Filmtracks==
+'''Daredevil: The Album''' was released in 2003 by Wind-Up Records for the movie Daredevil, starring Ben Affleck. All songs were previously unreleased, and some songs appeared on later releases. Unlike later Wind-Up soundtrack releases, many songs from Daredevil: The Album notably appeared in the film.
+
+The album was one of the first collaborations between Marvel Comics and Wind-Up Records, which would continue with the releases of Fantastic Four and the Daredevil sequel/spin-off Elektra. Three singles were released from the album: Fuel's "Won't Back Down", The Calling's "For You", and Evanescence's "Bring Me to Life", the first major appearance by Evanescence which would lead to "Bring Me to Life" reaching number one on the Billboard Chart.
+
+Three songs were omitted from release on the album: N.E.R.D.'s "Lapdance", Dara Shindler's "Faraway", and House of Pain's "Top o' the Morning to Ya".
+
+# "Won't Back Down" by Fuel
+# "For You" by The Calling
+# "Bleed For Me" by Saliva
+# "Hang On" by Seether
+# "Learn the Hard Way" by Nickelback
+# "The Man Without Fear" by Drowning Pool (featuring Rob Zombie)
+# "Right Now" by Nappy Roots (featuring Marcos Curiel of P.O.D.)
+# "Evening Rain" by Moby
+# "Bring Me to Life" by Evanescence
+# "Until You're Reformed" by Chevelle
+# "Right Before Your Eyes" by Hoobastank
+# "Fade Out/In" by Paloalto
+# "Caught in the Rain" by Revis
+# "High Wire Escape Artist" by Boysetsfire
+# "Raise Your Rifles" by Autopilot Off
+# "Daredevil Theme [Blind Justice Remix]" by Graeme Revell and Mike Einziger
+# "My Immortal" by Evanescence
+# "Sad Exchange" by Finger Eleven
+# "Simple Lies" by Endo
+# "Let Go" by 12 Stones
+
+Other appearances:
+
+* "Won't Back Down" was later re-released on Natural Selection.
+* "Hang On" appeared on the U.S. version of Disclaimer II.
+* "Bring Me to Life" and "My Immortal" were re-released on Fallen. Later the album was re-issued with a newer recording of "My Immortal".
+* "Learn the Hard Way" appeared as a bonus track on The Long Road.
+| Trivia                  = * Due to the regularity of the movie's excessive scenes, Daredevil was banned in Malaysia.
+* [[Stan Lee]], Daredevil's co-creator, makes a cameo appearance in the movie when he is stopped by young and blind [[Daredevil|Matt Murdock]] from walking in front of a speeding car.
+* In the scene with [[Daredevil|Matt Murdock]]'s father, Jack Murdock, fighting, the sign outside the arena reads "Jack 'the Devil' Murdock vs. John Romita." John Romita was an artist in the 1960s who worked on the ''[[Daredevil]]'' comic books. In the [[Daredevil (novel)|novelization]] by Greg Cox, Romita is nicknamed "Gentleman" John Romita.
+* Also in the boxing sequence, Jack Murdock is talking to Fallon, who orders Jack to lose. During the conversation, Fallon lists all of his fighters, whose names are "Miller...Mack...Bendis". This is a reference to some of the ''Daredevil'' comics writers: [[Frank Miller]], [[David Mack]] and [[Brian Michael Bendis]]. The novelization goes further in naming Miller and Mack; "Miller" is given the name "Frankie Miller", "Mack" is given the name "Dave 'Madman' Mack."
+* The character Jose Quesada's name is a reference to Marvel's editor-in-chief, [[Joe Quesada]], who also did the artwork for a Daredevil storyline written by famous director [[Kevin Smith]], who makes a cameo in the movie as the morgue worker Kirby, which is a reference to comic book legend [[Jack Kirby]]. Also referred to only in dialogue is Mr. Lee, another reference to Stan Lee.
+* The character Father Everett's name is a reference to co-creator [[Bill Everett]].
+* Colin Farrell was originally considered for the role of Daredevil/Matt Murdock, while Ben Affleck was originally considered for the role of Bullseye.
+* Frank Miller appears in the movie as a man with a pen through his head, from whom Bullseye steals a motorcycle. He is listed in the credits as "Man with pen through head".
+* Karen Page makes a small appearance as the secretary at the Nelson & Murdock law firm.
+* The [[Daredevil: The Movie Vol 1 1|comic adaptation]] of the film included some scenes that were omitted from the original theatrical release, but included in the director's cut, such as a portion of the trial of Duante Jackson, Matt Murdock's interrogation of Officer McKenzie, and Foggy learning Wesley's connection to Lisa Tazio's murder. However, the comic also shows Daredevil impaling Bullseye with a glass shard before throwing him out the window.  Additionally, Bullseye is not shown surviving the fall, unlike either versions of the film.
+* The [[Daredevil (novel)|novelization]] indicates that Matt Murdock lost his sight in the spring of 1984 at age 12, and that it was 19 years before the present-day events of the movie (setting it in 2003).
+* The prologue chapter of the novelization opens by asking the reader to forget all they know about superheroes, that Daredevil took place in the "real" world and there was no "mutant healing" or "Spider-Sense". In the first chapter dealing with Matt's past in 1984, Matt compared his skateboarding to gliding like the Silver Surfer. This means that in the world of the Daredevil novelization at least, the X-Men, Spider-Man, and Silver Surfer are fictional.
+* The novelization also gives Fallon's full name as Eddie Fallon, and nicknames him the Fixer.
+
+==Gallery==
+===Alternate Posters===
+<gallery position="center" captionalign="center">
+Daredevil poster.jpg
+</gallery>
+| Links                   = *[[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[es:Daredevil (película)]]
+[[ru:Сорвиголова (фильм)]]
+[[Category:20th Century Fox]]

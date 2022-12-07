@@ -1,0 +1,40 @@
+{{Infobox film
+| name = Ghost of the Mountains
+| image = Ghost-of-the-Mountain.jpg 
+| caption  = 
+| director  = Ben Wallis
+| producer = Brian Leith 
+| writer  = 
+| narrator = [[Antoine Fuqua]]
+| starring = 
+| music = 
+| cinematography = 
+| editing = 
+| studio  = [[Disneynature]]<br>Brian Leith Productions
+| distributor  = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br>Motion Pictures]]
+| release = [[June 30]], [[2017]]
+| runtime  = 
+| country  = United States
+| language  = English
+| budget   = 
+| gross   = 
+|imdb_id = 7332500}}
+'''''Ghost of the Mountains''''' is a [[2017]] nature documentary about snow leopards in [[China]]. Directed by Ben Wallis<ref>{{cite news|last=Kessler|first=Rebecca|title=Stalking snow leopards: Q&A with the director of "Ghost of the Mountains"|url=https://news.mongabay.com/2017/09/stalking-snow-leopards-qa-with-the-director-of-ghost-of-the-mountains/|work=Mongabay|accessdate=23 November 2017|date=20 September 2017}}</ref> and narrated by Antoine Fuqua. ''Ghost of the Mountains'' was released theatrically by [[Disneynature]] on [[June 30]], 2017. It is the eleventh nature documentary released under that label.<ref>{{cite news|title=Disneynature Releases Ghost of the Mountains|url=https://www.laughingplace.com/w/news/2017/06/30/disneynature-releases-ghosts-mountains/|work=LaughingPlace.com|accessdate=23 November 2017|date=30 June 2017}}</ref><ref>{{cite news|last=Reif|first=Alex|title=Digital Review: Disneynature Ghost of the Mountains|url=https://www.laughingplace.com/w/articles/2017/07/05/digital-review-disneynature-ghost-mountains/|work=LaughingPlace.com|accessdate=23 November 2017|date=5 July 2017}}</ref>
+
+''Ghost of the Mountains'' focuses on the journey that the filmmaking team behind ''[[Born in China]]'' embarked on to find the very elusive leopards in their mountain habitats.
+
+==References==
+{{reflist}}
+
+==External links==
+{{FilmStub}}
+{{Wikipedia}}
+{{DISPLAYTITLE:''Ghost of the Mountains''}}
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:Disneynature films]]
+[[Category:Films about animals]]
+[[Category:G-rated films]]
+[[Category:2017 films]]
+[[Category:Documentaries]]

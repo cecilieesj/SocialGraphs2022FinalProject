@@ -1,0 +1,18 @@
+{{Infobox character
+|image = Character.edwina.jpg
+|shows = ''[[Bear in the Big Blue House]]''
+|voice = [[Whoopi Goldberg]]
+|alignment = Good
+|occupation = Musician}}
+'''Edwina Badger''' is a musician who also goes by the name "[http://muppet.wikia.com/wiki/Episode_419:_The_Great_Bandini The Great Bandini]". She was voiced by [[Whoopi Goldberg]]. Although she has a great talent for music, Edwina has an even greater talent for helping others to realize their own musical abilities.
+{{CharacterStub}}
+{{MuppetsWiki}}
+{{Bear in the Big Blue House}}
+{{DEFAULTSORT:Badger, Edwina}}
+[[Category:Females]]
+[[Category:Singing characters]]
+[[Category:Musicians]]
+[[Category:Bear in the Big Blue House characters]]
+[[Category:Characters]]
+[[Category:Badgers]]
+[[Category:Live-action characters]]

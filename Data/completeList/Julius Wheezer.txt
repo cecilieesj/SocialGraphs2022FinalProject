@@ -1,0 +1,22 @@
+{{Infobox character
+|image = Julius Wheezer.jpg
+|name = Julius Wheezer
+|games = ''[[Toontown Online]]''
+|occupation = Shopkeeper
+|alignment = Neutral}}
+'''Julius Wheezer''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC [http://toontown.wikia.com/wiki/Mouse Mouse] and a shopkeeper toon who owns [http://toontown.wikia.com/wiki/Etude,_Brute%3F_Shakespearian_Theatre_Company Etude, Brute? Shakespearian Theatre Company], on [http://toontown.wikia.com/wiki/Baritone_Boulevard Baritone Boulevard], [http://toontown.wikia.com/wiki/Minnie%27s_Melodyland Minnie's Melodyland].
+
+==SOS Toon==
+﻿Julius Wheezer is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. He is a 4-star SOS Cogs Miss. When called upon, he will use his [http://toontown.wikia.com/wiki/Pixie_Dust Pixie Dust] on all [http://toontown.wikia.com/wiki/Cogs cogs], making them inevitably laugh and miss for the current round.
+
+The Cogs Miss will last 1 round.
+
+==Trivia==
+*﻿His name is an obvious parody of Julius Caesar.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Mice]]
+[[Category:Males]]
+[[Category:Characters]]
+{{Toontown Online}}

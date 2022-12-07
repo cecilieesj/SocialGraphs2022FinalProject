@@ -1,0 +1,176 @@
+{{Marvel Database:Film Template
+| Image                   = Amazing Spider-Man Film April 2012 Poster.jpg
+| Aliases                 = 
+
+| Directors               = Marc Webb
+| Producers               = Avi Arad; Laura Ziskin; Matt Tolmach
+| ComicWriters            = [[Stan Lee]]; [[Steve Ditko]]
+| StoryWriters            = James Vanderbilt
+| ScreenplayWriters       = James Vanderbilt; Alvin Sargent; Steve Kloves
+| Musicians               = James Horner
+| Cinematographers        = John Schwartzman
+| Editors                 = Alan Edward Bell; Michael McCusker; Pietro Scalia
+| Distributors            = Sony Pictures Releasing
+| ProductionCompanies     = Marvel Entertainment; Laura Ziskin Productions; Arad Production; Matt Tolmach Productions
+| Running Time            = 136 minutes
+| Rating                  = '''MPAA:''' PG-13 for sequences of action and violence
+| Budget                  = $200-230 million
+| Release Date            = July 3, 2012
+
+| AM ID                   = the-amazing-spider-man-v423293
+| IMDB ID                 = 0948470
+| Marvel Movies           = The Amazing Spider-Man (2012)
+| Spider-Man Films        = The Amazing Spider-Man
+
+| Tagline                 = The untold story.
+
+| Previous Film           = 
+| Next Film               = The Amazing Spider-Man 2 (film)
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Peter Parker (Earth-120703)|Spider-Man (Peter Parker)]]}} {{Flashback}} {{Impersonates|[[Rodrigo Guevara (Earth-120703)|Rodrigo Guevara]]}}
+'''Supporting Characters:'''
+* {{1st|[[Gwendolyne Stacy (Earth-120703)|Gwen Stacy]]}}
+* {{Only dies|[[Benjamin Parker (Earth-120703)|Ben Parker]]}}
+* {{1st|[[Maybelle Parker (Earth-120703)|May Parker]]}}
+* {{Only dies|[[George Stacy (Earth-120703)|Capt. George Stacy]]}}
+* {{Only|[[Rajit Ratha (Earth-120703)|Dr. Rajit Ratha]]}} {{g|Death off-screen}}
+* {{1st|[[Richard Parker (Earth-120703)|Richard Parker]]}} {{FlashOnly}} {{ApDeath}}
+* {{Only|[[Eugene Thompson (Earth-120703)|Flash Thompson]]}}
+'''Antagonists:'''
+* {{a|[[Curtis Connors (Earth-120703)|The Lizard (Dr. Curtis Connors)]]}} {{1st}}
+* {{Only|[[Cash Register Thief (Earth-120703)|Uncle Ben's killer]]}}
+* {{1st|[[Gustav Fiers (Earth-120703)|Mysterious man in shadows]]}}
+'''Other Characters:'''
+* {{1st|[[Mary Parker (Earth-120703)|Mary Parker]]}} {{FlashOnly}} {{ApDeath}}
+* {{Only|[[Missy Kallenback (Earth-120703)|Missy Kallenback]]}}
+* {{Only|[[T-Bone (Earth-120703)|T-Bone]]}}
+* {{Only|[[Sally Avril (Earth-120703)|Sally Avril]]}}
+* {{1st|[[Helen Stacy (Earth-120703)|Helen Stacy]]}}
+* {{1st|[[Howard Stacy (Earth-120703)|Howard Stacy]]}}
+* {{1st|[[Simon Stacy (Earth-120703)|Simon Stacy]]}}
+* {{1st|[[Philip Stacy (Earth-120703)|Philip Stacy]]}}
+* {{1st|[[Norman Osborn (Earth-120703)|Norman Osborn]]}} {{Photo}}
+* {{1st|[[New York City Police Department (Earth-120703)|N.Y.P.D.]]}}
+* {{1st|[[Radioactive Spider (Earth-120703)|Genetically-Modified Spider]]}}
+* {{Only|[[Rodrigo Guevara (Earth-120703)|Rodrigo Guevara]]}}
+* {{1st|[[Oscorp Industries (Earth-120703)|Oscorp Industries]]}}
+* {{Invoked|[[Yahweh (Earth-120703)|God (Yahweh)]]}}
+* {{Invoked|[[Jesus of Nazareth (Earth-120703)|Jesus Christ]]}}
+* Jack
+* {{a|[[Daily Bugle (Earth-120703)|Daily Bugle]]}}
+* {{1st|[[Stan Lee (Earth-120703)|Stan Lee]]}}
+* {{1st|[[New York City Fire Department (Earth-120703)|New York City Fire Department]]}}
+'''Races and Species:'''
+* {{Flashback|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Mice]]}}
+* {{Mentioned|[[Rats]]}}
+* {{Corpse|[[Fish]]}}
+* {{Mentioned|[[Dinosaurs]]}}
+* {{a|[[Lizards]]}}
+* {{Photo|[[Cats]]}}
+'''Locations:'''
+* {{1st|[[Earth-120703]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[New York City|New York]]}}, {{a|[[New York (State)|New York]]}}
+**** {{a|[[Manhattan]]}}
+***** {{a|[[Oscorp Tower]]}}
+***** Stacy Apartment
+**** {{Mentioned|[[Coney Island]]}}
+**** {{a|[[Queens]]}}
+***** {{a|[[Forest Hills]]}}
+****** {{a|[[Aunt May's House]]}}
+****** {{a|[[Midtown High School]]}}
+**** {{a|[[Curt Connors' Home]]}}
+*** {{Mentioned|[[Tokyo]]}}
+'''Items:'''
+* {{1st|[[Spider-Man's Suit]]}}
+* {{1st|[[Web-Shooters|Spider-Man's Web-Shooters]]}}
+* {{Only|[[Connors Formula|Lizard Formula]]}}
+* {{a|[[Cross-Species Virus]]}} {{1stChron}}
+'''Vehicles:'''
+* Police Cars
+
+| Plot                    = {{Quote|This life is not an easy one... I've made enemies. '''Powerful''' enemies. Put those I love in danger. But the one thing that has haunted me, my entire life, is find the truth about my parents.|[[Peter Parker (Earth-120703)|Spider-Man (Peter Parker)]]}}
+
+Young [[Peter Parker (Earth-120703)|Peter Parker]] was left with his aunt and uncle, [[Benjamin Parker (Earth-120703)|Ben]] and [[Maybelle Parker (Earth-120703)|May]], when his parents, [[Richard Parker (Earth-120703)|Richard]] and [[Mary Parker (Earth-120703)|Mary]] were forced to leave. Peter grew up with the mystery of his parents' disappearance, becoming an outcast in high school. [[Eugene Thompson (Earth-120703)|Flash Thompson]] bullied Peter, who caught the eye of fellow classmate and crush, [[Gwendolyne Stacy (Earth-120703)|Gwen Stacy]].
+
+Peter finds his father's briefcase in his house's basement, which reveals to him the plane crash that killed his parents, and that his father had worked for [[Oscorp|OsCorp]] with [[Curtis Connors (Earth-120703)|Dr. Curt Connors]] in cross-species genetics. He goes to OsCorp searching for Connors and makes his way in by pretending to be a member of the high-school interns. Gwen, who is the guide of the group and assistant to Connors, recognizes Peter very quickly. She allows Peter to stay, so long as he stays out of trouble. Trying to find out more about his father's work, Peter sneaks into a lab where genetically altered spiders are being held. One manages to stay on his neck when he left and bit him. Peter takes a train home and falls asleep. Here, Peter's abilities begin to show, as he accidentally rips a woman's shirt off with his sticky hands, and takes out a group of enraged civilians, again by accident.
+
+Frightened by his new abilities, he attempts to research spider bite symptoms but is unable to find the spider that bit him, as it was a genetic mutation. He decides to visit Dr. Connors at his home and reveals to him that he is Richard's son. After a short discussion, Peter gives Connors the equation to complete a limb regeneration formula, which he had learned from studying his father's notes.
+
+The next day, Peter humiliates Flash in the school gym but gets in trouble when he accidentally breaks the backboard of the basketball hoop. Uncle Ben meets with the school principal and mentions that he had to switch his work shift in order to be there, and asks Peter to pick up Aunt May from that night. When Ben leaves, Peter asks Gwen out, and to his surprise, she says yes. Out of excitement, Peter goes to an abandoned shed after school and uses his new-found powers to swing from chains hanging from the ceiling. Later that night, Peter meets with Dr. Connors at OsCorp, helping to complete the regeneration formula, ignoring a call from Uncle Ben. When Peter returns home, he is scolded by Ben, who is enraged that he forgot to pick up May. Peter storms off and Ben leaves to search for him. Peter attempts to buy a small bottle of milk at a convenience store but is two cents short. The cashier refuses to let him pay two cents less, stating it is not his policy. The store is robbed soon after, and when asked to help stop the thief, Peter sarcastically replies it is not his policy. He hears a gunshot, and when he goes to investigate, he finds that Uncle Ben has been shot.
+
+Peter is given a police sketch of the suspect, who he recognizes as the thief he let go at the store. He is also informed that the suspect had a star tattoo on his left wrist. Enraged, he begins a hunt for the thief, attacking anyone who looks similar to the sketch. He eventually dons a mask to hide his identity from the crooks he attacks. During this time, he develops a web-like fluid and the "[[Web-Shooters]]" to fire it. His actions catch the attention of the Police Captain [[George Stacy (Earth-120703)|George Stacy]], who is also Gwen's father. He then creates a full suit for himself, which would become his Spider-Man costume.
+
+When Peter accepts Gwen's invitation for dinner, he meets her family and discusses with her father that the "Spider-Man" was a hero, not a vigilante. This annoys George, who insists he was nothing more than a punk in a mask. After a short argument, he and Gwen leave to "get some fresh air" on the rooftop. Here, he reveals to Gwen that he is Spider-Man, and they kiss, but he soon leaves in response to a police report on the bridge. There, Peter faces a large, reptilian creature, known as the Lizard (who is really Connors). He knocks the Lizard down, but is unable to fight him, as he rescues a small child from a burning car. It was here that Peter takes the Spider-Man name himself, and the public becomes widely aware of him.
+
+The next day, Peter goes to meet with Dr. Connors at OsCorp and very quickly realizes that Connors has mutated himself into the Lizard. He attempts to warn Captain Stacy about it, but he does not believe him. Peter later decides to track the Lizard into the sewers, and also get pictures of him for a cash reward at the [[Daily Bugle]]. He is attacked by the Lizard and severely wounded, and barely escapes. Peter leaves his camera in the sewer, which the Lizard finds and realizes Peter is Spider-Man. The Lizard later attacks the school in an attempt to kill Peter and prevent him from further interrupting his plans, but when the fight continues for too long, the police arrive, and he is forced to retreat.
+
+Peter calls Gwen, asking her to develop an antidote at OsCorp, then follows the Lizard and finds his lab. After finding video files in the makeshift lab, Peter discovers the Lizard is planning to use a device capable of creating a cloud carrying a serum large enough to cover an entire city to transform [[New York City|New York]] into lizard creatures like himself. He very quickly realizes the device is located at OsCorp and attempts to call Gwen to warn her and get her to leave. Gwen refuses and evacuates the building. Peter then rushes to OsCorp, in an attempt to save both Gwen and all of New York city.
+
+On his way, Peter is attacked by the NYPD. He is shot with an electrified dart, which briefly knocks him unconscious. Captain Stacy unmasks him, but Peter is woken by his spider-sense and knocks Stacy down before he can see who he is. After webbing the eyes of the officers, he is forced to reveal to Captain Stacy who he really is. Stacy realizes that Peter is truly trying to protect the city, and allows him to go. However, on his way, an officer shoots him in the leg. A weakened Spider-Man is then assisted by crane operators, as one of them was the father of the child he saved on the bridge. The operators move their cranes in a way that creates a straight shot to OsCorp.
+
+At OsCorp, Spider-Man arrives to fight the Lizard but is restrained by his tail. Captain Stacy arrives and helps Spider-Man by shooting the Lizard, stunning him. Peter uses liquid nitrogen to freeze the Lizard, making him more vulnerable. He manages to get to the chemical device and switch the reptilian serum with the antidote that Gwen had made. The Lizard eventually murders Captain Stacy and attempts to stop Peter, but fails, and the antidote cloud reverts the Lizard back into Curt Connors.
+
+As Captain Stacy is dying, Peter is forced to promise him not to see Gwen anymore, to keep her out of harm's way. Peter attends Captain Stacy's funeral and ignores Gwen the following days per her father's request. Peter eventually tells Gwen it was over, but she very quickly realizes her father was the reason for this. The following day at school, Peter is told by a teacher not to make promises he cannot keep in response to his tardiness. Peter whispers to Gwen, "but those are the best kind", revealing he would get back together with her. He swings through the city again that night, in response to a police report.
+
+In the post-credits scene, Connors, in his prison cell, is visited by a man, who says, "Hello doctor. Did you tell the boy?" Connors replies "Tell him what?" "Did you tell the boy the truth about his father?" Connors replies "No" and then demands that he leaves Peter alone before the visitor leaves.
+
+| Cast                    = 
+*[[wikipedia:Andrew Garfield|Andrew Garfield]] as [[Peter Parker (Earth-120703)|Spider-Man / Peter Parker]]
+*[[wikipedia:Emma Stone|Emma Stone]] as [[Gwendolyne Stacy (Earth-120703)|Gwen Stacy]]
+*[[wikipedia:Rhys Ifans|Rhys Ifans]] as [[Curtis Connors (Earth-120703)|The Lizard / Dr. Curtis Connors]]
+*[[wikipedia:Denis Leary|Denis Leary]] as [[George Stacy (Earth-120703)|Captain George Stacy]]
+*[[wikipedia:Campbell Scott|Campbell Scott]] as [[Richard Parker (Earth-120703)|Richard Parker]]
+*[[wikipedia:Irrfan Khan|Irrfan Khan]] as [[Rajit Ratha (Earth-120703)|Dr. Rajit Ratha]]
+*[[wikipedia:Martin Sheen|Martin Sheen]] as [[Benjamin Parker (Earth-120703)|Ben Parker]]
+*[[wikipedia:Sally Field|Sally Field]] as [[Maybelle Parker (Earth-120703)|May Parker]] 
+*[[wikipedia:Embeth Davidtz|Embeth Davidtz]] as [[Mary Parker (Earth-120703)|Mary Parker]] 
+*[[wikipedia:Chris Zylka|Chris Zylka]] as [[Eugene Thompson (Earth-120703)|Flash Thompson]] 
+*[[wikipedia:Hannah Marks|Hannah Marks]] as [[Missy Kallenback (Earth-120703)|Missy Kallenback]]
+*[[wikipedia:Kelsey Chow|Kelsey Chow]] as [[Sally Avril (Earth-120703)|Sally Avril]]
+*[[wikipedia:Michael Massee|Michael Massee]] as [[Gustav Fiers (Earth-120703)|Man in The Shadows]]
+
+| Notes                   = * One of the world's most popular characters is back on the big screen as a new chapter in the Spider-Man legacy is revealed in The Amazing Spider-Man. Focusing on an untold story that tells a different side of the Peter Parker story, the new film's stars Andrew Garfield, Emma Stone, Rhys Ifans, Denis Leary, Campbell Scott, Irrfan Khan, with Martin Sheen and Sally Field. The film is directed by Marc Webb from a screenplay written by James Vanderbilt, based on the Marvel Comic Book by Stan Lee and Steve Ditko. Laura Ziskin, Avi Arad, and Matt Tolmach are producing the film in association with Marvel Entertainment for Columbia Pictures, which opened in theaters everywhere in 2D and 3D on July 3, 2012.
+| Trivia                  = *Due to disagreements on ''Spider-Man 4'', Sam Raimi and Tobey Maguire dropped out of the film. Sony had already made a backup plan just in case this happened. James Vanderbilt wrote the reboot at the same time of Raimi's writing of ''Spider-Man 4''.
+
+*The name Spider-Man is only heard eight times throughout the entire movie. Three of those times are spoken by Captain George Stacy. No other character, not even Spider-Man himself, speaks the name more than once.
+
+*[[Brian Michael Bendis]], author of '''Ultimate Spider-Man''' had been asked to help write the script of the movie, and was confirmed this through his twitter account.
+
+* In 2011, Sony reached an agreement with Walt Disney Motion Pictures which would incorporate the OsCorp Tower of ''The Amazing Spider-Man'' into Disney's release ''[[Marvel's The Avengers]]'', but the New York skyline of said film had already finished rendering before OsCorp Tower had been designed. Despite this alleged attempt at a tie-in, the ''Amazing Spider-Man'' franchise is not considered part of the ''[[Earth-199999|Marvel Cinematic Universe]]'' franchise and does not share continuity with ''The Avengers'' or its subsequent releases by Marvel Studios.
+
+*In 2010, a campaign with the hashtag "#donald4spiderman" went viral, pushing for having [[wikipedia:Donald Glover|Donald Glover]] as Peter Parker in the upcoming movie, but he didn't get the chance to audition.<ref>{{cite web|url=https://www.latimes.com/entertainment/movies/la-et-mn-spider-man-homecoming-donald-glover-20170706-story.html|title=How Donald Glover wound up in ‘Spider-Man: Homecoming,’ and what it might mean for an inclusive future|author=Jen Yamato|work=Los Angeles Times |date=6 July 2017|accessdate=13 June 2020}}</ref>
+
+*In June 2012, to promote the film, Marvel and Wal-Mart released a special preview pack consisting of a DVD with behind the scenes videos, trailers and movie clips, and a reprinting of {{cl|Amazing Spider-Man Vol 1 6}}, the first appearance of the mainstream [[Curtis Connors (Earth-616)|Lizard]].
+
+*The viral website [http://thedailybugle.tumblr.com/ ''The Daily Bugle'' on Tumblr] gives the date of the film's events as occurring in July [[Category:2013|2013]] (according to [[John Jonah Jameson (Earth-120703)|J. Jonah Jameson]], the events occurred three months before his editorial of October 30, 2013).
+
+*The video game [[The Amazing Spider-Man (2012 video game)]], apparently takes place only months after the film. However, it is believed to be non-canon in the Amazing Spider-Man universe. 
+
+*In the comics, Gwen Stacy was an only child living with her widowed father. In the movie, her mother is alive and she has three younger brothers - Howard, Philip, and Simon.
+
+* This continuity was set to still have a Sinister Six movie and a third and fourth film of Spider-Man but those plans were cancelled due to Sony's deal with Disney.
+** In an interview, the director Marc Webb reveals what those movies could have been.<ref>{{cite web|url=http://ew.com/movies/2017/08/09/amazing-spider-man-3-plot-marc-webb-andrew-garfield/|title=Amazing Spider-Man 3: Director reveals scrapped plans for Andrew Garfield sequel|author=Nick Romano|work=EW (Entertainment Weekly)|date=9 August 2017|accessdate=31 August 2017}}</ref>
+
+==Gallery==
+===Alternate Posters===
+<gallery>
+Amazing Spider-Man Gwen Stacy Movie Poster.jpg
+The Amazing Spider-Man (2012 film) poster 0002.jpeg
+The Amazing Spider-Man (2012 film) poster 0003.jpg
+The Amazing Spider-Man (2012 film) poster 0004.jpg
+The Amazing Spider-Man (2012 film) poster 0005.jpg
+</gallery>
+===Videos===
+<gallery widths="300" spacing="small" hideaddbutton="true">
+The Amazing Spider-Man Official 4 Minute Preview HD Andrew Garfield, Emma Stone and Rhys Ifans
+</gallery>
+| Links                   = *[http://www.superherohype.com/news/spider-mannews.php?id=8976 Sony and Marvel announces Spider-Man reboot for 2012]
+* [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[es:El Sorprendente Hombre Araña (Película)]]
+[[pt:O Espetacular Homem-Aranha (Filme de 2012)]]
+[[Category:Sony Pictures Entertainment]]

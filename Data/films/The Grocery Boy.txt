@@ -1,0 +1,55 @@
+{{Infobox film
+|image = Groceryboytitle.jpeg
+|imagewidth = 250px
+|name = The Grocery Boy
+|director = [[Wilfred Jackson]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = [[Walt Disney]]<br>[[Marcellite Garner]]<br>[[Pinto Colvig]]
+|music = [[Frank Churchill]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[February 11]], [[1932]]
+|time = 7:08
+|preceded = ''[[The Duck Hunt]]''
+|followed = ''[[The Mad Dog]]''
+}}
+'''''The Grocery Boy''''' is a ''[[Mickey Mouse]]'' cartoon that was released on [[February 11]], [[1932]].
+
+==Summary==
+Mickey goes shopping for Minnie, but is late bringing the groceries back. She acts haughty as a result, then softens. She and Mickey make dinner in time to the music, but Pluto steals the turkey and causes chaos when they try to retrieve it.
+
+==Characters==
+* [[Mickey Mouse]] (voiced by [[Walt Disney]])
+* [[Minnie Mouse]] (voiced by [[Marcellite Garner]])
+* [[Pluto]] (voiced by [[Pinto Colvig]])
+
+==Releases==
+===Television===
+*''[[Mickey's Mouse Tracks]]'', episode #73
+
+===Home video===
+* ''[[Walt Disney Treasures]]: Mickey Mouse in Black and White, Volume 2'' (DVD)
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150">
+15805.jpg
+15806.jpg
+15807.jpg
+15810.jpg
+15811.jpg
+15812.jpg
+Tumblr mztsczWIFj1qhcrb0o1 1280.jpg
+Tumblr_m1v82jKnn11r3jmn6o1_1280.png
+Tumblr m1vfupGRU61r3jmn6o1 1280.png
+</gallery>
+
+{{Mickey-Series}}
+{{Minnie-Series}}
+{{DEFAULTSORT:Grocery Boy}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Minnie Mouse shorts]]
+[[Category:Pluto shorts]]
+[[Category:1932 shorts]]

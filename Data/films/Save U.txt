@@ -1,0 +1,38 @@
+{{Infobox film
+|image = Noimage.png
+|name = Save U
+|director = Mike Mitchell
+|producer = 
+|writer = 
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]<br>Gunn Films
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = 
+|budget = 
+|gross = 
+|preceded = ''[[Sky High]]''
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = }}
+'''''Save U''''' was a planned sequel to the [[2005]] Disney live-action superhero comedy film, ''[[Sky High]]''.
+
+==Production==
+In November of [[2016]], it was announced that Disney is developing a sequel, and that the film is in early development stages.<ref>{{cite web|url=http://www.thehollywoodnews.com/2016/10/17/exclusive-writer-revealed-dreamworks-shrek-5-sky-high-2-coming/|title=Exclusive: Story writer revealed for Dreamworks’ ‘Shrek 5’ – ‘Sky High 2’ coming?|publisher=The Hollywood News|last=Heath|first=Paul|date=October 17, 2016}}</ref> In January 2019, Mike Mitchell revealed about earlier plans to make a sequel; but due to the film's box-office performance, nothing came to be. The sequel would have been called ''Save U'' (as in Save University) and would have featured the characters graduating high school and attending college.<ref>{{cite web|url=https://io9.gizmodo.com/the-unrealized-sky-high-sequel-could-have-been-called-s-1832054122|title=The Unrealized Sky High Sequel Could Have Been Called Save University|website=io9|last=Lussier|first=Germain|date=January 25, 2019|accessdate=January 26, 2019}}</ref>
+
+==References==
+<references />
+{{Stub}}
+{{Sky High}}
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:Sky High]]
+[[Category:Films]]
+[[Category:Sequel films]]
+[[Category:Cancelled projects]]

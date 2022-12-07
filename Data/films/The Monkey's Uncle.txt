@@ -1,0 +1,68 @@
+{{Infobox film
+|name = The Monkey's Uncle
+|image = The Monkey's Uncle.jpg
+|image_size = 
+|alt = 
+|caption = 
+|director = [[Robert Stevenson]]
+|producer = [[Ron W. Miller|Ron Miller]]<br>[[Walt Disney]]
+|writer = Alfred Lewis Levitt<br>Helen Levitt
+|narrator = 
+|starring = [[Tommy Kirk]]<br>[[Annette Funicello]]<br>[[Leon Ames]]
+|music = [[Buddy Baker]]
+|cinematography = Edward Colman
+|editor = [[Cotton Warburton]]
+|studio = [[Walt Disney Pictures|Walt Disney Productions]]
+|distributor = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+|released = [[August 18]], [[1965]]
+|runtime = 87 minutes
+|country = United States
+|language = English
+|budget = 
+|gross = $4,000,000 (US/Canada rentals)
+|website = https://movies.disney.com/the-monkeys-uncle|imdb_id = 0059462|release = [[August 18]], [[1965]]|time = 87 minutes|preceded = ''[[The Misadventures of Merlin Jones]]''}}
+'''''The Monkey's Uncle''''' is a [[1965]] Walt Disney production starring [[Tommy Kirk]] as genius college student [[Merlin Jones]] and [[Annette Funicello]] as his girlfriend, Jennifer. The title refers to a chimpanzee named Stanley, Merlin's legal "nephew" (a legal arrangement resulting from an experiment to raise Stanley as a human); Stanley otherwise has little relevance to the plot. Jones invents a man-powered airplane and a sleep-learning system. The film is a sequel to the [[1964]] film, ''[[The Misadventures of Merlin Jones]]''.
+
+Midvale College is told that a wealthy man, Mr. Astorbilt (Arthur O'Connell), will give a large donation, but he has a strange request — he challenges the school to build a man-powered flying machine. If they succeed by a certain date, they get the donation, otherwise it will go to a rival school.
+
+Merlin Jones (Kirk) designs a lightweight airplane, powered by a propeller driven by bicycle pedals. Recognizing that even his football-jock friends won't be strong enough for such a feat, he develops a strength elixir (based on adrenaline), which should give the power that a man would need to get off the ground.
+
+To get the jocks' support, he creates "an honest way to cheat", adapting the recently-discovered sleep-learning method to help them pass a particularly hard history course. Once the jocks are asleep, a timer starts a phonograph album, with the sound of Jennifer reading their lessons to them. This backfires in class, however — asked to give an oral report, the jocks speak, but Jennifer's voice comes out. Eventually it works out in the students' favor.
+
+Jones gets their help, and the great day comes. The pilot drinks the elixir, then pedals off into the sky, winning the contest. Unfortunately, the "wealthy donor" is last seen fleeing from men in white coats, who want to take him back to the local mental hospital.
+
+==Production notes==
+This production marks both [[Tommy Kirk]]'s and [[Annette Funicello]]'s last film for Walt Disney. Actor Mark Goddard, who plays Haywood (and is perhaps best known as Major Don West on television's Lost in Space), made his feature film debut in this movie.
+
+The screen credit for writing reads, "Screenplay by Tom and Helen August", which were the pseudonyms for Alfred Lewis Levitt & Helen Levitt, two writers who were blacklisted.
+
+A copyright renewal for the film was registered on [[December 31]], [[1992]].<ref>[https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First&Search_Arg=RE0000603572&Search_Code=REGS Online Copyright Catalog search (form autofilled, pressing "begin search" brings up the entry)]</ref>
+
+==Music==
+[[The Monkey's Uncle (song)|The title song]], written by the [[Sherman Brothers]], is performed by Funicello, with The Beach Boys doing backup. This song was covered in 2006 by Devo 2.0 on the music CD [[Disneymania 4|Disneymania, Volume 4]].
+
+==Gallery==
+<gallery widths="185">
+1965-neveustudieux-5.jpg
+1965-neveustudieux-4.jpg
+1965-neveustudieux-3.jpg
+1965-neveustudieux-2.jpg
+1965-neveustudieux-1.jpg
+Tumblr lz57c2Zkox1qhcrb0o1 1280.jpg
+Tumblr n6xndpVwY21r2k74to1 1280.jpg
+Annette-funicello-tommy-kirk-lobby-card-e1438947460485.jpg
+Jennifer.jpg
+Song of the south monkey's uncle uk release poster.jpg|Poster from the release in the [[United Kingdom]], on a double bill with a re-release of ''[[Song of the South]]''
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Monkey's Uncle, The}}
+{{DISPLAYTITLE:''The Monkey's Uncle''}}
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:Films]]
+[[Category:1965 films]]
+[[Category:The Misadventures of Merlin Jones]]
+[[Category:Sequel films]]

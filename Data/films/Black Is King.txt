@@ -1,0 +1,44 @@
+{{Infobox film
+|image = Black Is King.jpg
+|name = Black Is King
+|director = [[Beyoncé|Beyoncé Knowles-Carter]]<br>Kwasi Fordjour<br>Emmanuel Adjei<br>Blitz Bazawule<br>Ibra Ake<br>Jenn Nkiru<br>Jake Nava<br>Pierre Debusschere<br>Dikayl Rimmasch
+|producer = {{Scroll|Jeremy Sullivan<br>Jimi Adesanya<br>Blitz Bazawule<br>Ben Cooper<br>Astrid Edwards<br>Durwin Julies<br>Yoli Mes<br>Dafe Oboro<br>Akin Omotoso<br>Will Whitney<br>Lauren Baker<br>Jason Baum<br>Alex Chamberlain<br>Robert Day<br>Christophe Faubert<br>Brien Justiniano<br>Rethabile Molatela Mothobi<br>Sylvia Zakhary<br>Nathan Scherrer<br>Erinn Williams}}
+|writer = Beyoncé Knowles-Carter<br>Yrsa Daley-Ward<br>Clover Hope<br>Andrew Morrow<br>
+|starring = {{Scroll|Beyoncé<br>Folajomi Akinmurele<br>Connie Chiume<br>Nyaniso Ntsikelelo Dzedze<br>Nandi Madida<br>Warren Masemola<br>Sibusiso Mbeje<br>Fumi Odeje<br>Stephen Ojo<br>Mary Twala}}
+|music = James William Blades<br>MeLo-X<br>Derek Dixie
+|cinematography = {{Scroll|Ryan Marie Helfant<br>Santiago Gonzalez<br>Mohammaed Atta Ahmed<br>David Boanuh<br>Michael Fernandez<br>Erik Henriksson<br>Danny Hiele<br>Laura Merians<br>Nicolai Niermann<br>Kenechukwu Obiajulu<br>Malik Sayeed<br>Benoit Soler}}
+|editor = Andrew Morrow<br>Maria-Celeste Garrahan<br>Haines Hall<br>Tom Watson
+|studio = [[Walt Disney Pictures]]<br>Parkwood Entertainment
+|distributor = Disney+
+|release = [[July 31]], [[2020]]
+|time = 85 minutes
+|language = English
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = 12607910}}
+'''''Black Is King''''' is a 2020 American musical film and visual album directed, written, and executive produced by American singer [[Beyoncé]].<ref name=":6">{{Cite web|date=2020-08-01|title=Review: Beyoncé's 'Black Is King' reimagines 'The Lion King' as abstract tribute to Black power, beauty and wisdom|url=https://www.latimes.com/entertainment-arts/tv/story/2020-07-31/beyonce-black-is-king-disney-plus-review|access-date=2020-08-16|website=Los Angeles Times|language=en-US}}</ref> The film serves as a visual companion to the 2019 album ''[[The Lion King: The Gift]]'', curated by Beyoncé for ''[[The Lion King (2019 film)|The Lion King]]'' (2019).<ref>{{Cite web|last=Robinson|first=Zandria Felice|date=2020-08-15|title=Beyoncé's Search for Home Continues on 'Black Is King'|url=https://www.theatlantic.com/culture/archive/2020/08/beyonce-black-is-king/615304/|access-date=2020-11-21|website=The Atlantic|language=en}}</ref> The film tells the story of a young African prince (Folajomi Akinmurele) who is exiled from his kingdom after the death of his father. As he grows up into a man ([[Nyaniso Dzedze]]), the prince undergoes a journey of self-identity, using the guidance of his ancestor (Beyoncé), childhood love ([[Nandi Madida]]) and his own subconscious (Stephen Ojo) to reclaim his throne. The prince's journey acts as an allegory for the African diaspora's journey of discovering, reclaiming and celebrating their culture and heritage, which is echoed by the inclusion of spoken-word poetry in the film that focuses on the question of black identity.
+
+''Black Is King'' was in production for over a year and was filmed across three continents. Beyoncé wanted to recruit a diverse cast and crew and to provide opportunities for new talent. The film's music, dances, costumes, hairstyles and sets were designed to showcase the beauty and richness of the cultures in the African continent and diaspora. The film was released globally on [[Disney+]] on [[July 31]], [[2020]], and was aired the following day across Sub-Saharan Africa on M-Net and Canal+ Afrique and across the Middle East and North Africa on OSN. A deluxe edition of ''The Gift'' was released alongside the film, which includes the song "Black Parade."
+
+The film received universal acclaim from critics, with praise for Beyoncé's direction, the cinematography, score, costume design, subject matter, and cultural themes. At the 63rd Annual Grammy Awards, ''Black Is King'' was nominated for Best Music Film, while the "Brown Skin Girl" won the award for Best Music Video.
+
+== References ==
+<references/>
+
+== External links ==
+* {{WP}}
+* ''[https://www.disneyplus.com/movies/d/7daDvpFdBXPs Black is King]'' on [[Disney+]]
+{{FilmStub}}
+{{Disney+}}
+{{The Lion King}}
+{{Wikipedia}}
+{{DISPLAYTITLE:''Black Is King''}}
+[[Category:Disney+ Originals]]
+[[Category:Films]]
+[[Category:The Lion King]]
+[[Category:2020 films]]

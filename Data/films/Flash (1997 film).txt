@@ -1,0 +1,36 @@
+{{Infobox film
+| name= Flash
+| image= File:Flash sm.jpg
+| caption = VHS Cover
+| writer=[[Monte Merrick]]
+| starring=[[Lucas Black]]<br>[[Brian Kerwin]]<br>[[Shawn Toovey]]
+| director=[[Simon Wincer]]
+| music=[[David Michael Frank]]
+| distributor=[[ABC]]
+| studio=ABC
+| release=[[December 21]], [[1997]]
+| time= 90 minutes
+| language=English
+| awards=
+| producer=[[Riley Kathryn Ellis]]<br>[[Monte Merrick]]<br>[[Christopher Seitz]]
+| budget=
+|imdb_id = 0136199}}
+'''''Flash''''' is a film released in theaters that was originally shown on [[Walt Disney anthology series|The Wonderful World of Disney]]. The film details the story of a child Conner Strong (played by Lucas Black), who visits a horse every day in hopes of buying it. To do so, Conner finds work as a delivery boy to save enough money for his dream. Conner lives with his father David (played by Brian Kerwin) and grandmother Laura (played by Ellen Burstyn), but when they do not have enough money to repay the bills, Conner's father rejoins the merchant marines to pay back the mortgage and has enough money to buy Conner the horse. However, when his job requires David to join the merchant marines and head to sea for five months, Connor's idyllic life begins to unravel. His grandmother becomes sick and dies, the family home faces foreclosure, and Connor is forced to sell Flash to an unruly owner who beats the beloved horse. Connor then rescues Flash and together they set off on a cross-country journey to reunite with Connor's father. Though the film was originally shown on The Wonderful World of Disney, repeated reruns of the film have occurred on [[Disney Channel|The Disney Channel]].
+
+==Gallery==
+<gallery>
+1997-flash-1.jpg
+1997-flash-2.jpg
+1997-flash-3.jpg
+</gallery>
+
+{{Wikipedia}}
+{{DEFAULTSORT:Flash (1997 Film)}}
+{{DISPLAYTITLE:''Flash''}}
+[[Category:1997 films]]
+[[Category:Disney films]]
+[[Category:Films featuring Sports]]
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Films about animals]]
+[[Category:Unrated_films]]

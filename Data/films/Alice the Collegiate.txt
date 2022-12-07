@@ -1,0 +1,23 @@
+{{NeedImage}}
+{{Infobox film
+|name = Alice the Collegiate
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[March 7]], [[1927]]
+|preceded = ''[[Alice at the Rodeo]]''
+|followed = ''[[Alice in the Alps]]''
+}}
+'''''Alice the Collegiate''''' is a [[1927]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+Alice coaches a college football team with Julius as her star quarterback.
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=55 Alice the Collegiate] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1927 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Lost cartoons]]

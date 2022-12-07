@@ -1,0 +1,60 @@
+{{Infobox film
+|image = Mickey's Revue.jpg
+|imagewidth = 250px
+|name = Mickey's Revue
+|director = [[Wilfred Jackson]]
+|producer = [[Walt Disney]]
+|writer = [[Pinto Colvig]] (story)
+|starring = [[Walt Disney]]<br>[[Marcellite Garner]]<br>[[Pinto Colvig]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[May 27]], [[1932]]<ref>[https://archive.org/details/motionpictureher109unse/page/62/mode/2up Motion Picture Herald (1932)]</ref>
+|preceded = ''[[Barnyard Olympics]]''
+|followed = ''[[Musical Farmer]]''}}
+'''''Mickey's Revue''''' is a ''[[Mickey Mouse]]'' cartoon that debuted on [[May 27]], [[1932]]. It is notable as the first appearance of [[Goofy]], then known as Dippy Dawg.
+
+==Synopsis==
+[[Mickey Mouse|Mickey]], [[Minnie Mouse|Minnie]], [[Horace Horsecollar|Horace]], and [[Clarabelle Cow|Clarabelle]] put on another big show, with an elder audience member named Dippy Dawg as the running gag - eating peanuts and laughing to the annoyance of the audience.
+
+==Characters==
+*[[Mickey Mouse]] (voiced by [[Walt Disney]])
+*[[Minnie Mouse]] (voiced by [[Marcellite Garner]])
+*[[Pluto]] (voiced by [[Pinto Colvig]])
+*[[Goofy|Dippy Dawg]] (debut) (voiced by [[Pinto Colvig]])
+*[[Clarabelle Cow]]
+*[[Horace Horsecollar]]
+*Hippo
+
+==Home video releases==
+'''Laserdisc'''
+*''Mickey Mouse: The Black and White Years - Volume One''
+
+'''DVD'''
+*''[[Walt Disney Treasures]]: Mickey Mouse in Black and White''
+*''Walt Disney's Vintage Mickey''
+
+==Trivia==
+* Clips from a colorized version can be seen in the [[1995]] [[Disney Channel]] short documentary ''[[The Making of A Goofy Movie]]''.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150">
+16105.jpg
+16106.jpg
+16107.jpg
+16110.jpg
+16111.jpg
+16112.jpg
+</gallery>
+
+==References==
+<references/>
+{{Mickey-Series}}
+{{Minnie-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Minnie Mouse shorts]]
+[[Category:Pluto shorts]]
+[[Category:Goofy shorts]]
+[[Category:1932 shorts]]
+[[Category:Articles needing improvement]]

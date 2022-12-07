@@ -1,0 +1,44 @@
+{{Infobox film
+| name           = The Legend of the Boy and the Eagle
+| image          = File:The Legend of the Boy and the Eagle.jpg
+| caption        = 
+| director       = Jack Couffer
+| producer       = [[Hamilton Luske]]<br>Joseph Strick
+| writer         = Jack Couffer
+| narrator       = 
+| starring       = Stanford Lomakema
+| music          = 
+| cinematography = Ed Durden<br>Jack Couffer
+| editing        = [[Verna Fields]]<br>[[Lloyd L. Richardson]]
+| distributor    = Buena Vista Distribution Company
+| release        = [[June 21]], [[1967]]
+| time           = 48 min.
+| country        = United States
+| language       = English
+| budget         = 
+|imdb_id = 0061904}}
+'''''The Legend of the Boy and the Eagle''''' is a [[1967]] American live-action [[The Walt Disney Company|Walt Disney]] film.
+
+== Plot ==
+A Hopi Indian boy is banished from his village after he defies tribal law and frees a sacred, sacrificial eagle. After surviving in the wilderness, he returns to his village where he is again rejected. Fleeing, the boy climbs a cliff and jumps off but before he reaches the ground, he turns into an eagle.
+
+==Cast==
+* [[Stanford Lomakema]] as The Eagle Boy
+* Frank Dekova as Narrator (voice)
+
+==Gallery==
+<gallery>
+Call It Courage vhs.jpg|VHS release
+F6c0619009a086b8b46e4110.L.jpg
+Cmk10455.jpg
+</gallery>
+
+{{Wikipedia}}
+
+{{DEFAULTSORT:Legend of the Boy and the Eagle, The}}
+{{DISPLAYTITLE:''The Legend of the Boy and the Eagle''}}
+[[Category:Articles with Wikipedia content]]
+[[Category:1967 films]]
+[[Category:Live-action films]]
+[[Category:Disney films]]
+[[Category:Western Films]]

@@ -1,0 +1,36 @@
+{{Infobox character
+|name = Ada
+|image = Ada.png
+|shows = ''[[Tron: Uprising]]''
+|voice = [[Parminder Nagra]]
+|occupation = [[ISO]]|status=Active}}
+
+'''Ada''' is a character in ''[[Tron: Uprising]]''. She is a female [[ISO]], and a friend of [[Quorra]].
+
+==Biography==
+Following the Purge, a few ISOs managed to escape their genocide and survived as fugitives. Ada and Quorra had been on the run for some time when Ada was critically injured and rendered unconscious. A group of other programs had surrounded the pair when [[Paige]] chanced upon the scene and helped the ISOs escape. Paige nursed Ada back to health, but her friends betrayed the fugitives, forcing Ada and Quorra to flee once more.
+
+It is unknown what Happen to Ada, as she wasn't seen with Quorra later.
+
+==Trivia==
+*Ada speaks with a light accent, similar to an Australian one; to date, this accent has been heard only from her. 
+*It is likely that her name was taken from Ada Lovelace, whom some consider the first computer programmer. 
+*In "[[ElecTRONica]]", a program named Ada stood in for Eckert on one occasion. However, she resembled Eckert and did not appear related to Quorra's friend. 
+
+==Gallery==
+<gallery position="center">
+Sn tron uprising quorra-1-.jpg|<div style="text-align: center;">Ada with [[Quorra]].</div>
+</gallery>
+
+{{TronWiki}}
+{{Tron}}
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Females]]
+[[Category:Programs]]
+[[Category:Tron characters]]
+[[Category:TV Animation characters]]
+[[Category:Heroines]]
+[[Category:Animated characters]]
+[[Category:Tron: Uprising characters]]
+[[Category:Disney XD characters]]

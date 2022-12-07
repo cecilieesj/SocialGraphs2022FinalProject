@@ -1,0 +1,204 @@
+{{Infobox film
+|image = The Many Adventures of Winnie the Pooh poster.jpg
+|director = [[John Lounsbery]]<br>[[Wolfgang Reitherman]]
+|producer = Wolfgang Reitherman<br>[[Walt Disney]] {{Small|(uncredited)}}
+|writer = [[Larry Clemmons]]<br>[[Ralph Wright]]<br>Vance Gerry<br>Xavier Atencio<br>[[Ken Anderson]]<br>Julius Svendsen<br>[[Ted Berman]]<br>[[Eric Cleworth]]
+|starring = {{Scroll|[[Sterling Holloway]]<br>[[John Fiedler]]<br>[[Ralph Wright]]<br>[[Paul Winchell]]<br>[[Barbara Luddy]]<br>[[Clint Howard]]<br>Junius Matthews<br>[[Howard Morris]]<br>[[Bruce Reitherman]]<br>Jon Walmsley<br>Timothy Turner<br>[[Sebastian Cabot]]}}
+|music = [[Buddy Baker]]<br>[[Richard M. Sherman]]<br>[[Robert B. Sherman]]
+|editor = Tom Acosta<br>James Melton
+|studio = [[Walt Disney Productions]]
+|distributor = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+|release = [[March 11]], [[1977]]
+|time = 74 minutes
+|language = English
+|preceded = ''[[Robin Hood (film)|Robin Hood]]''
+|followed = ''[[The Rescuers]]<br>[[Winnie the Pooh (film)|Winnie the Pooh]]''
+|imdb_id = 0076363
+}}
+{{Quote|Hip Hip Poohray!|Tagline}}
+'''''The Many Adventures of Winnie the Pooh''''' is an American animated musical comedy feature film released by [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]] and first released on [[March 11]], [[1977]]. The 22nd animated feature in the [[Disney Animated Canon]], it is based upon the children's stories about the bear written by A.A. Milne, as well as the final chapter of the second story, ''{{WikipediaLink|The House at Pooh Corner}}''.
+
+The film is actually composed of material from three previously released animated shorts:
+
+*''[[Winnie the Pooh and the Honey Tree]]'' ([[1966]])
+*''[[Winnie the Pooh and the Blustery Day]]'' ([[1968]])
+*''[[Winnie the Pooh and Tigger Too]]'' ([[1974]])
+
+The film and its characters have spawned an industry of sequels, television programs, clothing, books, and toys.
+
+The film also inspired an [[The Many Adventures of Winnie the Pooh (attraction)|attraction of the same name]] at both [[Disneyland]] and [[Walt Disney World]]. A much more elaborate attraction, also based on the film, opened in [[Tokyo Disneyland]] as "[[Pooh's Hunny Hunt]]".
+
+==Synopsis==
+The film's content comes largely from the three previously released animated featurettes Disney produced based upon the Winnie-the-Pooh books by A. A. Milne: ''[[Winnie the Pooh and the Honey Tree]]'' (1966), ''[[Winnie the Pooh and the Blustery Day]]'' (1968), and ''[[Winnie the Pooh and Tigger Too!]]'' (1974). Extra material with Holloway and Cabot reprising their roles used to link the three featurettes together was added to allow the stories to flow into each other.
+
+A fourth, shorter featurette, which was added to end the film, was based on the final chapter of ''{{WikipediaLink|The House at Pooh Corner}}'', in which [[Christopher Robin]] (Jon Walmsley) has to leave the [[Hundred Acre Wood]] behind as he is starting school. In it, he and [[Winnie the Pooh|Pooh]] discuss what they liked doing together and he asks Pooh to promise to remember him and to keep some of the memories of their time together alive. He agrees, and the film closes with The Narrator saying that wherever Christopher Robin goes, Pooh will always be waiting for him whenever he returns.
+
+==Voice cast==
+{| class="wikitable" width="90%"
+|- bgcolor="#cccccc"
+! rowspan="2" |Character
+! colspan="3" |Segment
+|-
+!''[[Winnie the Pooh and the Honey Tree|The Honey Tree]]''
+!''[[Winnie the Pooh and the Blustery Day|The Blustery Day]]''
+!''[[Winnie the Pooh and Tigger Too|Tigger Too]]''
+|-
+|<center>'''[[Winnie the Pooh]]'''</center>
+| colspan="3" |<center>[[Sterling Holloway]]</center>
+|-
+|<center>'''[[Christopher Robin]]'''</center>
+|<center>[[Bruce Reitherman]]</center><center>Jon Walmsley (re-recordings)</center>
+|<center>Jon Walmsley</center>
+|<center>Timothy Turner</center>
+|-
+|<center>'''[[Piglet]]'''</center>
+| bgcolor="#cccccc" |<center>''cameo''</center>
+| colspan="2" |<center>[[John Fiedler]]</center>
+|-
+|<center>'''[[Tigger]]'''</center>
+| bgcolor="#cccccc" |<center>''cameo as a stuffed toy''</center>
+| colspan="2" |<center>[[Paul Winchell]]</center>
+|-
+|<center>'''[[Rabbit]]'''</center>
+| colspan="3" |<center>[[Junius Matthews]]</center>
+|-
+|<center>'''[[Eeyore]]'''</center>
+| colspan="2" |<center>[[Ralph Wright]]</center>
+| bgcolor="#cccccc" |<center>''cameo''</center>
+|-
+|<center>'''[[Roo]]'''</center>
+| colspan="2" |<center>[[Clint Howard]]</center>
+|<center>Dori Whitaker</center>
+|-
+|<center>'''[[Kanga]]'''</center>
+| colspan="3" |<center>[[Barbara Luddy]]</center>
+|-
+|<center>'''[[Owl (Winnie the Pooh)|Owl]]'''</center>
+| colspan="2" |<center>[[Hal Smith]]</center>
+| bgcolor="#cccccc" |<center>''cameo''</center>
+|-
+|<center>'''[[Gopher (Winnie the Pooh)|Gopher]]'''</center>
+| colspan="2" |<center>[[Howard Morris]]</center>
+| bgcolor="#cccccc" |<center>absent</center>
+|-
+|<center>'''[[Mr. Narrator (character)|Narrator]]'''</center>
+| colspan="3" |<center>[[Sebastian Cabot]]</center>
+|}
+===Uncredited===
+*[[Thurl Ravenscroft]] - Singer (segment "Winnie the Pooh and the Honey Tree" and "Winnie the Pooh and the Blustery Day") & Black Honeypot
+*[[The Mellomen]] - Singers (segment "Winnie the Pooh and the Blustery Day")
+
+==Production==
+The film is the last one in the Disney canon in which [[Walt Disney]] had personal involvement, since one of the shorts (''[[Winnie the Pooh and the Honey Tree]]'') was released during his lifetime, and he was involved in the production of ''[[Winnie the Pooh and the Blustery Day]]''. The theatrical rights to the Pooh stories were acquired by Disney in 1961 and the original intent was to produce a feature film, but Walt decided to make shorts instead — after production had begun — since he thought the source material was not strong enough to adapt well into a full-length film. All three shorts as well as future feature films boast classic songs by the [[Sherman Brothers]] including "[[Winnie the Pooh (song)|Winnie the Pooh]]" and "[[The Wonderful Thing About Tiggers]]".
+
+[[File:Vlcsnap-2014-02-05-23h09m25s169.png|thumb|250px]]
+For [[Piglet]], hand gestures and other movements were used by the animators to create expressiveness, since he (and Pooh) had the appearance of dolls or stuffed animals with relatively simple button eyes. The scene where [[Rabbit]] deals with Pooh's being part of the "decor of his home" was not in the original book, but was reportedly contemplated by Disney when he first read the book.
+
+==Release==
+===Reception===
+Film critic [[Leonard Maltin]] called the original Pooh featurettes "gems"; he also noted that the artwork resembles the book illustrations, and that the particular length of these featurettes meant that the filmmakers didn't have to "compress or protract their script." The film holds a 92% "fresh" rating from critics on Rotten Tomatoes. Surprisingly, its financial records aren't known at all.
+
+Ruth Hill Viguers, however, when writing in ''A Critical History of Children’s Literature'' during the 1960s, mentioned Disney’s Winnie the Pooh along with several other Disney adaptations as having "destroyed the integrity of the original books".
+
+The {{WikipediaLink|American Film Institute}} nominated the film for its [[Wikipedia:AFI's 10 Top 10|Top 10 Animated Films list]].
+
+===Home video===
+The film was first released on [http://en.wikipedia.org/wiki/VHS VHS], [http://en.wikipedia.org/wiki/Betamax Betamax], [http://en.wikipedia.org/wiki/Capacitance_Electronic_Disc CED] video record, and [http://en.wikipedia.org/wiki/Laserdisc laserdisc] in the early 1980s. In 1996, it was re-released on VHS as part of the [[Walt Disney Masterpiece Collection|Masterpiece Collection]] and included video footage of the making which was shown before it starts. It was released on [[DVD]] for the first time in 2002 as a 25th Anniversary Edition, with digitally restored picture and sound. The individual shorts had also been released on their own on VHS in the 1990s.
+
+The 25th anniversary edition DVD includes, among other bonus features, "The Many Adventures of Winnie the Pooh: The Story Behind the Masterpiece", which documents the history of the books and their initial film adaptations. It also features interviews with animators [[Ollie Johnston]], [[Frank Thomas (animator)|Frank Thomas]], and [[Burny Mattinson]], as well as the [[Sherman Brothers]], [[Paul Winchell]], and others. Digital Media FX reviewer Shannon Muir stated that the audio and video quality of the film on this DVD was very high.
+
+The "Friendship Edition" DVD was re-released on June 19, 2007. All of the special features from the previous "25th Anniversary Edition" DVD were recycled; the only new addition being an episode of Playhouse Disney's computer-animated series ''[[My Friends Tigger & Pooh]]''. The DVD re-release coincides with the 30th anniversary of the release of the film.
+
+The Blu-ray version was released on August 27, 2013 along with the third DVD release and includes the current voice actors. The bonus features included a ''Mini Adventures of Winnie the Pooh'' segment, "Geniuses" and the only bonus feature that was kept from the previous DVD releases was the "Winnie the Pooh" theme song music video performed by [[Carly Simon]].
+
+''Winnie the Pooh Storybook Classics'' was released on VHS worldwide in 1994. The featurettes include, ''[[Winnie the Pooh and the Honey Tree]]'' (February 4, 1966), ''[[Winnie the Pooh and the Blustery Day]]'' (December 20, 1968), ''[[Winnie the Pooh and Tigger Too!]]'' (December 20, 1974) and ''[[Winnie the Pooh and a Day for Eeyore]] ''(March 11, 1983). This was last released in 2000.
+
+===Video games===
+Elements of the three featurettes along with the ''[[Winnie the Pooh and a Day for Eeyore]]'' featurette and ''[[The Tigger Movie]]'' were incorporated into the video game ''[[Winnie the Pooh: Adventures in the Hundred Acre Wood]]'' as a part of the gameplay for the video game.
+
+==Music==
+{{Main|The Many Adventures of Winnie the Pooh (soundtrack)}}
+*"[[Winnie the Pooh (song)|Winnie the Pooh]]"
+*"[[Up, Down, Touch the Ground]]"
+*"[[Rumbly in My Tumbly]]"
+*"[[Little Black Rain Cloud]]"
+*"[[Mind Over Matter]]"
+*"Rumbly in My Tumbly (reprise)"
+*"[[A Rather Blustery Day]]"
+*"[[The Wonderful Thing About Tiggers]]"
+*"[[Heffalumps and Woozles]]"
+*"[[Rain, Rain, Rain Came Down, Down, Down]]"
+*"[[Hip-Hip-Hooray!]]"
+*"The Wonderful Thing About Tiggers (reprise)"
+*"The Wonderful Thing About Tiggers (final version)"
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+ManyAdventuresOfPooh Bluray.jpg
+Winnie-the-pooh-disneyscreencaps.com-4.jpg
+ManyAdventuresOfPooh 25thAnniversary DVD.jpg|25th anniversary DVD release
+ManyAdventuresOfPooh FriendshipEdition DVD.jpg
+ManyAdventuresOfPooh MasterpieceCollection VHS.jpg|1996 VHS
+Winnie the pooh line up.jpg|Character line-up
+Winnie the Pooh is on the cover of his book.jpg
+Winnie the Pooh is about to eat honey.jpg
+Winnie the Pooh But what is a Tigger?.jpg
+The Many Adventures of Winnie the Pooh Lobby Movie Poster.jpg
+Winnie-the-pooh-disneyscreencaps.com-56.jpg
+Winnie the Pooh Tigger Piglet and Rabbit go on a misty walk.png
+Winnie the Pooh and the others are learning twice times or math.jpg
+Winnie the Pooh and Christopher Robin are both at the enchanted place.jpg
+File:The Many Adventures Of Winnie The Pooh (2000 UK VHS).jpg
+Winnie the Pooh DVD.jpg
+Many-adventures-winnie-1.jpg
+The Many Adventures of Winnie the Pooh characters.jpg
+</gallery>
+
+==Trivia==
+*A copyright renewal for the film was registered on [[October 5]], [[2004]].<ref>[https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First&Search_Arg=RE0000903184&Search_Code=REGS Online Copyright Catalog search (form autofilled, pressing "begin search" brings up the entry)]</ref>
+*This marks the second to last appearance of actor Ralph Wright. He would return one more time as the voice of Eeyore in [[Winnie the Pooh and a Day for Eeyore]], released 6 years later.
+*Along with ''[[The Rescuers]]'', this is the first time since [[1940]] that Disney released two animated features in the same year.
+*The film marks the first and final appearance of actors Junius Matthews ([[Rabbit]]), Barbara Luddy ([[Kanga]]), [[Sterling Holloway]] ([[Winnie the Pooh]]), and Sebastian Cabot ([[Mr. Narrator (character)|The Narrator]]).
+**Junius died of natural causes in [[1978]], Barbara died of lung cancer in [[1979]], Ralph died of a heart attack in [[1983]], Sterling later retired but died in [[1992]] of cardiac arrest, and Sebastian died of a stroke five months after the film was released.
+*The film was the first in the Disney canon to be a package film since ''[[The Adventures of Ichabod and Mr. Toad]]''.
+*The film is the last one to technically have any involvement from [[Walt Disney]], as he was involved in production of ''[[Winnie the Pooh and the Honey Tree]]'' and ''[[Winnie the Pooh and the Blustery Day]]''. It opens with "Walt Disney Presents" as opposed to "Walt Disney Productions" as most Disney films in the [[1970]]s had.
+
+==Sequel==
+[[Walt Disney Pictures]] released a sequel, simply called ''[[Winnie the Pooh (film)|Winnie the Pooh]]'', on [[April 15]], [[2011]] in the [[United Kingdom]], and on [[July 15]] of the same year in the [[United States]].
+
+==See also==
+*[[Disney Movies Anywhere]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|title/tt0076363}}
+*{{Disney.com|movies|the-many-adventures-of-winnie-the-pooh}}
+
+[[ar:مغامرات ويني الدبدوب]]
+[[da:Peter Plys]]
+[[es:The Many Adventures of Winnie the Pooh]]
+[[fi:Nalle Puh (elokuva)]]
+[[fr:Les Aventures de Winnie l'Ourson (film)]]
+[[it:Le avventure di Winnie the Pooh]]
+[[no:Filmen om Ole Brumm]]
+[[pl:Przygody Kubusia Puchatka]]
+[[pt-br:As Muitas Aventuras do Ursinho Pooh]]
+[[ru:Приключения Винни]]
+[[zh:小熊维尼歷險記]]
+
+{{Winnie the Pooh}}
+{{Disney theatrical animated features}}
+{{DEFAULTSORT:Many Adventures of Winnie the Pooh}}
+[[Category:Disney animated features canon]]
+[[Category:Traditionally Animated Films]]
+[[Category:Animated films]]
+[[Category:1977 films]]
+[[Category:Winnie the Pooh films]]
+[[Category:Films based on books]]
+[[Category:G-rated films]]
+[[Category:Compilation films]]
+[[Category:The Many Adventures of Winnie the Pooh]]
+[[Category:Disney films]]

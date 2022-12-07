@@ -1,0 +1,14 @@
+{{Infobox character
+|image = Otto Toon.jpg
+|name = Otto Toon
+|games = ''[[Toontown Online]]''
+|alignment = Good/Neutral}}
+'''Otto Toon''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC citrine [http://toontown.wikia.com/wiki/Bear Bear]. Otto Toon is a Field Office SOS Toon. He is a 1-star [http://toontown.wikia.com/wiki/Sound_Gags Sound] [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. His name is a parody of "Autotune".
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Bears]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Characters in video games]]
+{{Toontown Online}}

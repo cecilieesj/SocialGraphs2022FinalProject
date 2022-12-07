@@ -1,0 +1,61 @@
+{{Marvel Database:Film Template
+| Image                   = Thunderbolts (film) logo 001.jpg
+| Aliases                 = 
+
+| Directors               = Jake Schreier
+| Producers               = Kevin Feige
+| ScreenplayWriters       = Eric Pearson
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = 
+| Rating                  = 
+| Budget                  = 
+| Release Date            = July 26, 2024
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* <br/>
+'''Supporting Characters:'''
+* <br/>
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* <br/>
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * {{WP|David Harbour}} as [[Alexei Shostakov (Earth-199999)|Red Guardian / Alexei Shostakov]]<ref name="D23">{{cite web|url= https://www.marvel.com/articles/movies/d23-2022-thunderbolts-zemo-yelena|title= D23 Expo 2022: Marvel Studios' 'Thunderbolts’ Casting Announced|work= Marvel.com|author= Marvel|date= September 10, 2022|accessdate= September 10, 2022}}</ref>
+
+* {{WP|Hannah John-Kamen}} as [[Ava Starr (Earth-199999)|Ghost / Ava Starr]]<ref name="D23" />
+
+* {{WP|Julia Louis-Dreyfus}} as [[Valentina Allegra de Fontaine (Earth-199999)|Valentina Allegra de Fontaine]]<ref name="D23" />
+
+* {{WP|Sebastian Stan}} as [[James Buchanan Barnes (Earth-199999)|Winter Soldier / James Buchanan "Bucky" Barnes]]<ref name="D23" />
+
+* {{WP|Wyatt Russell}} as [[Jonathan Walker (Earth-199999)|U.S.Agent / John Walker]]<ref name="D23" />
+
+* {{WP|Florence Pugh}} as [[Yelena Belova (Earth-199999)|Black Widow / Yelena Belova]]<ref name="D23" />
+
+* {{WP|Olga Kurylenko}} as [[Antonia Dreykov (Earth-199999)|Taskmaster / Antonia Dreykov]]<ref>{{cite web|url= https://www.hollywoodreporter.com/movies/movie-news/marvels-thunderbolts-cast-set-with-florence-pugh-sebastian-stan-1235216780/|title= Marvel’s ‘Thunderbolts’ Cast Set with Florence Pugh, Sebastian Stan Leading|work= THR|last= Couch|first= Aaron|coauthors= Odman, Sydney|date= September 10, 2022|accessdate= September 10, 2022}}</ref>
+
+* {{WP|Harrison Ford}} as [[Thaddeus Ross (Earth-199999)|Thaddeus "Thunderbolt" Ross]]<ref>{{cite web|url= https://www.hollywoodreporter.com/movies/movie-news/harrison-ford-joining-captain-america-4-marvel-1235241621/|title= Harrison Ford Joining ‘Captain America 4’|work= THR|last= Galuppo|first= Mia|date= October 17, 2022|accessdate= October 18, 2022}}</ref>
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}
+[[ru:Громовержцы (фильм)]]

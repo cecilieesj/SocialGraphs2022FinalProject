@@ -1,0 +1,87 @@
+{{Marvel Database:Film Template
+| Image                   = Marvel Rising Operation Shuri poster 001.jpg
+| Aliases                 = 
+| Universe                = Earth-TRN684
+
+| Directors               = Alfred Gimeno
+| Producers               = 
+| ScreenplayWriters       = Mae Catt;
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Marvel HQ
+| ProductionCompanies     = Marvel Animation
+| Running Time            = 22 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = October 11, 2019
+
+| Previous Film           = Marvel Rising: Battle of the Bands
+| Next Film               = Marvel Rising: Playing With Fire
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Shuri (Earth-TRN684)|Shuri]]}}
+'''Supporting Characters:'''
+* {{a|[[Secret Warriors (Earth-TRN684)|Secret Warriors]]}}
+** {{a|[[Kamala Khan (Earth-TRN684)|Ms. Marvel (Kamala Khan)]]}}
+** {{a|[[Gwendolyn Stacy (Earth-TRN684)|Ghost-Spider (Gwendolyn Stacy)]]}}
+** {{a|[[Doreen Green (Earth-TRN684)|Squirrel Girl (Doreen Green)]]}}
+** {{a|[[America Chavez (Earth-TRN684)|Ms. America Chavez]]}}
+* {{a|[[Carol Danvers (Earth-TRN684)|Captain Marvel (Carol Danvers)]]}}
+* {{a|[[Mary Janes (Earth-TRN684)|The Mary Janes]]}}
+** {{a|[[Mary Jane Watson (Earth-TRN684)|Em Jay Watson]]}}
+** {{a|[[Gloria Grant (Earth-TRN684)|Glory Grant]]}}
+** {{a|[[Elizabeth Brant (Earth-TRN684)|Betty Brant]]}}
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* {{1st|[[T'Challa (Earth-TRN684)|Black Panther (T'Challa)]]}}
+* {{1st|[[Dora Milaje (Earth-TRN684)|Dora Milaje]]}}
+* {{1st|[[Zoe Zimmer (Earth-TRN684)|Zoe Zimmer]]}}
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* [[Earth-TRN684]]
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * Daisy Lightfoot as Shuri
+
+* [[wikipedia:Dove Cameron|Dove Cameron]] as Ghost Spider / Gwen Stacy
+
+* [[wikipedia:Kathreen Khavari|Kathreen Khavari]] as Ms. Marvel / Kamala Khan
+
+* [[wikipedia:Milana Vayntrub|Milana Vayntrub]] as Squirrel Girl / Doreen Green
+
+* [[wikipedia:Cierra Ramirez|Cierra Ramirez]] as Ms. America Chavez
+
+* [[wikipedia:Kim Raver|Kim Raver]] as Captain Marvel / Carol Danvers
+
+* [[wikipedia:Dee Bradley Baker|Dee Bradley Baker]] as Tippy-Toe
+
+* [[wikipedia:Kim Raver|Kim Raver]] as Captain Marvel / Carol Danvers
+
+* [[wikipedia:James C. Mathis III|James C. Mathis III]] as T'Challa / Black Panther
+
+* [[wikipedia:Tara Strong|Tara Strong]] as  Mary Jane Watson
+
+* [[wikipedia:Skai Jackson|Skai Jackson]] as Glory Grant
+
+* [[wikipedia:Jessica DiCicco|Jessica DiCicco]] as Zoe Zimmer
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+
+==Videos==
+<gallery>
+file:Marvel Rising Operation Shuri Feat. Daisy Lightfoot, Kat Khavari & Milana Vayntrub FULL EPISODE
+</gallery>
+
+}}
+[[Category:Short Films]]

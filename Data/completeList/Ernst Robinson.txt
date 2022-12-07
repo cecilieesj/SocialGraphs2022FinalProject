@@ -1,0 +1,25 @@
+{{Infobox character
+|name=Ernst Robinson
+|image=9468-18815.jpg
+|actor=[[Tommy Kirk]]
+|films=''[[Swiss Family Robinson]]''
+|parents=[[Father Robinson]] (father)<br>[[Mother Robinson]] (mother)
+|siblings=[[Fritz Robinson (Swiss Family Robinson)|Fritz Robinson]] (brother)<br>[[Francis Robinson]] (brother)
+|family=[[Roberta]] (possible future sister-in-law)
+|pets = [[Duke and Turk]] (dogs)<br>[[Rocky (Swiss Family Robinson)|Rocky]] (elephant)<br>Monkey<br>[[Clementine]] (ostrich)<br>[[Duchess (Swiss Family Robinson)|Duchess]] (zebra)<br>[[Lightning]] (mule)
+|status = Active
+}}
+
+'''Ernst Robinson''' is [[Father Robinson|Father]] and [[Mother Robinson]]'s middle son, [[Fritz Robinson (Swiss Family Robinson)|Fritz]]'s younger brother, [[Francis Robinson|Francis]]' older brother, and one of [[Roberta]]'s possible future brother-in-laws in ''[[Swiss Family Robinson]]''.
+
+{{CharacterStub}}
+{{Swiss Family Robinson}}
+{{DEFAULTSORT:Robinson, Ernst}}
+[[Category:Live-action characters]]
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Teenagers]]
+[[Category:Siblings]]
+[[Category:Swiss Family Robinson characters]]
+[[Category:Disney characters]]
+[[Category:Heroes]]

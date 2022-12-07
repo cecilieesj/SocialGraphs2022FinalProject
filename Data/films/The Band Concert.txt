@@ -1,0 +1,93 @@
+{{Infobox film
+|image = BandConcertPoster2.jpeg
+|director = [[Wilfred Jackson]]
+|producer = [[Walt Disney]]
+|starring = [[Clarence Nash]]
+|music = [[Leigh Harline]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[United Artists]]
+|release = [[February 23]], [[1935]]
+|time = 9:18
+|language = English
+|preceded = ''[[Mickey's Man Friday]]''
+|followed = ''[[Mickey's Service Station]]''}}
+'''''The Band Concert''''' is a [[1935]] animated short film, directed by [[Wilfred Jackson]]. It is the first ''[[Mickey Mouse]]'' cartoon in color.
+
+==Plot==
+Mickey's orchestra is in performing a concert at the park. As the film opens they are being applauded for having just played music from ''{{WikipediaLink|Zampa}}''. They next begin Rossini's {{WikipediaLink|William Tell overture}}.
+
+Mickey is first disturbed by [[Peter Pig|Peter Pig's]] {{WikipediaLink|vibrato}} trumpet playing and Paddy Pig's tuba playing ''Prelude: Dawn''. Later [[Donald Duck]] appears rolling a vendor cart through the audience selling lemonade, popcorn, and ice cream. Donald's voice disturbs Mickey, as he can be heard over the music.
+
+Donald then pulls out a small flute and hops up on stage uninvited. As the band is still playing the "Finale" segment, Donald begins playing "[[Turkey in the Straw]]" at the same tempo as the band. The entire band, seemingly unaware of themselves, begin to play Donald's song instead of the prepared music. Mickey angrily breaks Donald's flute, but he only produces another from his clothing. This continues for a while until it is discovered that Donald is carrying dozens of hidden flutes, some of which he seems to [[Wikipedia:Sleight of hand|pull from thin air]].
+
+After Donald has been kicked off stage, a bee comes along and harasses him. Donald fights the bee off and it goes on to bother the already agitated Mickey. Mickey's swatting of the bee is taken as a cue from the orchestra. Donald later throws ice cream at the bee, which catches Mickey in the crossfire. As Mickey plays ''Ranz des Vaches'', [[Horace Horsecollar]] tries to kill the bee with a hammer, but accidentally hits [[Goofy]] on the head, driving his head down into his jacket, but he continues playing his clarinet from inside it.
+
+Finally as Horace takes off his coat, the band comes to the "Storm" segment of the overture which summons an actual tornado, prompting the audience and Donald to run for their lives. It sucks up everything in its path, even the pavilion on which the band is playing. But they are so used to distractions by this point that they continue to play from inside it. As it passes, the band members (except Horace and Mickey) are thrown into a tree and the overture comes to its natural conclusion. Yet by this time the only remaining audience member is Donald Duck, who applauds enthusiastically. He then produces one last flute and plays "Turkey in the Straw" again, but the band members throw their instruments at him.
+
+==Characters==
+*[[Mickey Mouse]]
+*[[Donald Duck]] (voiced by [[Clarence Nash]])
+*[[Goofy]]
+*[[Horace Horsecollar]]
+*[[Clarabelle Cow]]
+*[[Peter Pig]]
+*[[Paddy Pig]]
+
+==Releases==
+===Television===
+*''[[The Walt Disney Christmas Show]]''
+*''[[Walt Disney anthology series|Disneyland]]'', episode #2.5: "[[The Adventures of Mickey Mouse]]"
+*''[[Good Morning, Mickey]]'', episode #5
+*''[[Mickey's Mouse Tracks]]'', episode #30
+*''[[Donald's Quack Attack]]'', episode #78
+*''[[The Ink and Paint Club]]'', episode #1.2: "Mickey Landmarks"
+*''[[Have a Laugh!]]'', episode #41
+*''[[Treasures from the Disney Vault]]'', June 28, 2016
+
+===Home video===
+'''VHS'''
+*''[[Walt Disney Cartoon Classics]]: Mickey's Crazy Careers''
+*''[[Mickey's Magical World]]''
+*''[[The Spirit of Mickey]]''
+*''Mickey's Greatest Hits''
+*Bonus on ''[[Make Mine Music]]''
+
+'''DVD'''
+*Bonus on ''[[Make Mine Music]]''
+*''[[Walt Disney Treasures: Wave One|Walt Disney Treasures]]: Mickey Mouse in Living Color''
+*''[[Celebrating Mickey]]''
+
+'''Blu-ray'''
+*''[[Celebrating Mickey]]''
+
+===Streaming===
+*[[Disney+]], November 12, 2019
+
+==Notes==
+*This short is the first color animated short in the Mickey Mouse series.
+**However, it was not the first time that some of these characters appeared on screen in color. Mickey Mouse and [[Clarabelle Cow]] appeared in ''[[Parade of the Award Nominees]]'', a special color film created especially for the [[1932]] Academy Awards, while both Donald Duck and [[Peter Pig]] made their debut in the [[1934]] color ''[[Silly Symphony]]'' ''[[The Wise Little Hen]]''.
+*In the ''[[Mickey Mouse Works]]'' short ''[[Mickey's April Fools]]'', Mickey imitates this role to prove to a lawyer that he is the real star along with some of his other past roles.
+*The short would provide inspiration for the [[Silly Symphony Swings]] at [[Disney California Adventure]].
+*A bonus level based on this short appears in ''[[Mickey Mania: The Timeless Adventures of Mickey Mouse]]'' except in the Super Nintendo version.
+*This short appears as one of the projector transition levels in ''[[Epic Mickey 2: The Power of Two]]''.
+*The tornado sequence was later reused in ''[[The Little Whirlwind]]''.
+*This short is best known for the start of Mickey and Donald’s longtime rivalry.
+
+==''Have a Laugh!'' changes==
+The following scenes were deleted from the short release due to time constraints:
+*The entire scene where the band begins to play "William Tell Overture" and Donald keeps interrupting by playing "Turkey in the Straw" on his flute with Mickey breaking it in half.
+*Donald fighting off the bee.
+*Mickey swatting the bee off with his baton twice; only once is shown.
+*The entire tornado scene while the band plays "The Storm" is cut.
+
+==Gallery==
+{{Gallerylink}}
+{{Mickey-Series}}
+{{DEFAULTSORT:Band Concert}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:1935 shorts]]
+[[Category:Donald Duck shorts]]
+[[Category:Goofy shorts]]
+[[Category:Epic Mickey transition levels]]
+[[Category:Featured shorts]]

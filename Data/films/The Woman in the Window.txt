@@ -1,0 +1,59 @@
+{{WarningAlert}}
+{{Infobox film
+|name = The Woman in the Window
+|image = The_Woman_in_the_Window_final_poster.jpg
+|director = Joe Wright
+|producer = Scott Rudin<br>Eli Bush<br>Anthony Katagas
+|writer = Tracy Letts
+|starring = [[Amy Adams]]<br>[[Gary Oldman]]<br>[[Anthony Mackie]]<br>Fred Hechinger<br>[[Wyatt Russell]]<br>Brian Tyree Henry<br>[[Jennifer Jason Leigh]]<br>[[Julianne Moore]]
+|music = [[Danny Elfman]]
+|cinematography = Bruno Delbonnel
+|editor = Valerio Bonelli
+|studio = [[20th Century Studios]]<br>[[Fox 2000 Pictures]]<br>Scott Rudin Productions<br>[[TSG Entertainment]]
+|distributor = [[Netflix]]<br>[[Walt Disney Studios Motion Pictures]]
+|release = [[May 14]], [[2021]]
+|language = English
+|budget = 
+|time=100 minutes
+|imdb_id = 6111574}}
+'''''The Woman in the Window''''' is a psychological thriller film directed by Joe Wright, and adapted from the screenplay by Tracy Letts. It is based on the [[wikipedia:The Woman in the Window (novel)|2018 novel of the same name]] by A. J. Finn. The film stars [[Amy Adams]], [[Gary Oldman]], [[Anthony Mackie]], Fred Hechinger, [[Wyatt Russell]], Brian Tyree Henry, [[Jennifer Jason Leigh]] and [[Julianne Moore]]. The film was final release under the [[Fox 2000 Pictures]] label, which Disney discontinued following the film's release.<ref>{{cite news|last=Fleming Jr.|first=Mike|title=Elizabeth Gabler's Fox 2000 To Shutter As Disney Takes Over|url=https://deadline.com/2019/03/elizabeth-gabler-fox-2000-to-shutter-as-disney-takes-over-1202580356/|accessdate=March 21, 2019|newspaper=Deadline|date=March 21, 2019}}</ref>
+
+The film was originally scheduled to be released by [[Walt Disney Studios Motion Pictures]] through the [[20th Century Studios]] label on [[disney:October_4|October 4]], [[2019]], but it got delayed to accomodate attempts to retool the film's third act following a negative response from a test audience.<ref>{{cite web|url=https://www.hollywoodreporter.com/news/amy-adams-woman-window-move-2020-as-disney-retools-film-1222951|title=Amy Adams' 'Woman in the Window' to Move to 2020 as Disney Retools Fox Film|website=The Hollywood Reporter|first=Rebecca|last=Keegan|date=July 9, 2019|accessdate=July 9, 2019}}</ref> It was rescheduled for a theatrical release on [[May 15]], [[2020]],<ref>{{cite web|url=https://deadline.com/2019/08/emma-stone-cruella-amy-adams-woman-in-the-window-disney-fox-release-date-changes-1202677451/|title=Amy Adams 'Woman In The Window' Will Now Open In Early Summer, 'Cruella' Moves To 2021|website=Deadline Hollywood|first=Anthony|last=D'Alessandro|date=August 20, 2019|accessdate=August 20, 2019}}</ref> but the film was pulled from the release schedule in March 2020, due to the COVID-19 pandemic. In August 2020, it was announced [[Netflix]] was in final talks to acquire the distribution rights to the film from 20th Century Studios.<ref>{{cite web|url=https://deadline.com/2020/08/netflix-acquiring-the-woman-in-the-window-amy-adams-disney-fox-2000-elizabeth-gabler-project-joe-wright-1203002581/|title=Netflix Negotiating For ‘The Woman In The Window’ With Amy Adams; Last Fox 2000 Elizabeth Gabler Project Will Be Let Go By Disney|website=Deadline Hollywood|date=August 3, 2020|accessdate=August 3, 2020}}</ref> In January [[2021]], it was officially announced to be released by Netflix in 2021, with a release date of [[May 14]] announced in March.
+
+==Cast==
+*[[Amy Adams]] as Dr. Anna Fox
+*[[Gary Oldman]] as Alistair Russell
+*[[Anthony Mackie]] as Edward "Ed" Fox
+*Fred Hechinger as Ethan Russell
+*[[Wyatt Russell]] as David Winters
+*Brian Tyree Henry as Detective Little
+*[[Jennifer Jason Leigh]] as Jane Russell
+*[[Julianne Moore]] as Jane Russell
+*Jeanine Serralles as Detective Norelli
+*Mariah Bozeman as Olivia Fox
+*Liza Colón-Zayas as Bina
+*Tracy Letts as Anna's therapist
+
+==Gallery==
+<gallery position="center">
+The_Woman_in_the_Window_poster.jpeg|Official poster before it take over by Netflix.
+</gallery>
+
+==Videos==
+<gallery position="center" captionalign="center">
+The Woman in the Window Official Trailer 20th Century FOX
+The Woman in the Window - Official Trailer - Netflix
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Woman in the Window}}
+{{DISPLAYTITLE:''The Woman in the Window''}}
+[[Category:Films]]
+[[Category:Articles containing mature content]]
+[[Category:20th Century Fox films]]
+[[Category:Live-action films]]
+[[Category:Films based on books]]
+[[Category:R-rated films]]
+[[Category:2021 films]]

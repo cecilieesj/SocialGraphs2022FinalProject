@@ -1,0 +1,19 @@
+{{Infobox character
+|image = Nancy Gas.jpg
+|name = Nancy Gas
+|games = ''[[Toontown Online]]''
+|occupation = Shopkeeper
+|alignment = Neutral}}
+'''Nancy Gas''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC coral [http://toontown.wikia.com/wiki/Duck Duck], and a shopkeeper toon who owns [http://toontown.wikia.com/wiki/Whoopee_Sofa_Cushions Whoopee Sofa Cushions] on [http://toontown.wikia.com/wiki/Punchline_Place Punchline Place] in [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central].
+
+==SOS Toon==
+﻿Nancy Gas is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. She is a 3-star [http://toontown.wikia.com/wiki/Lure_Gags Lure] SOS. She uses [http://toontown.wikia.com/wiki/Hypno_Goggles Hypno Goggles] to lure [http://toontown.wikia.com/wiki/Cogs cogs] into "sleep" mode.
+
+This Lure SOS will last 3 Rounds.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Ducks]]
+[[Category:Females]]
+[[Category:Characters]]
+{{Toontown Online}}

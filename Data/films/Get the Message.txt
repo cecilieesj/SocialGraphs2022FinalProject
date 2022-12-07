@@ -1,0 +1,22 @@
+{{Infobox film
+|name = Get the Message
+|image = Get Message.jpg
+|caption = 
+|director = [[Les Clark]]
+|producer = 
+|music = 
+|cinematography =  
+|studio = Walt Disney Educational Media Company
+|distributor = Walt Disney Educational Media Company
+|release = [[1971]]
+|time = 
+|language = English
+}}
+'''''Get the Message''''' is a [[1971]] Disney educational animated short.
+
+==Synopsis==
+Traces the development of communication techniques from the first "ugh" to the astral language of the space age, and concludes with a look at the implications of today's "information explosion."
+
+[[Category:1971 films]]
+[[Category:Animated shorts]]
+[[Category:Educational films]]

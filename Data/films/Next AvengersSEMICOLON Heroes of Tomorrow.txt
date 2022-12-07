@@ -1,0 +1,130 @@
+{{Marvel Database:Film Template
+| Image                   = Next-avengers-heroes-of-tomorrow.jpg
+| Aliases                 = 
+
+| Directors               = Jay Oliva
+| Producers               = Gary Hartle
+| ComicWriters            = 
+| StoryWriters            = Greg Johnson; Craig Kyle
+| ScreenplayWriters       = Christopher Yost
+| Musicians               = Guy Michelmore
+| Studio                  = Marvel Animation, Madhouse
+| Editors                 = George P. Rizkallah
+| Distributors            = 
+| Running Time            = 78 minutes
+| Rating                  = '''MPAA:''' PG
+| Budget                  = 
+| Release Date            = September 2, 2008
+
+| AM ID                   = next-avengers-heroes-of-tomorrow-v455413
+| IMDB ID                 = 1259998
+| Marvel Movies           = Next Avengers: Heroes of Tomorrow
+
+| Previous Film           = 
+| Next Film               = 
+
+| Tagline                 = The children of heroes past are our only hope for the future!
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Next Avengers (Earth-555326)|Next Avengers]]}}
+** {{1st|[[James Rogers (Earth-555326)|James Rogers]]}}
+** {{1st|[[Torunn Thorsdóttir (Earth-555326)|Torunn]]}}
+** {{1st|[[Henry Pym, Jr. (Earth-555326)|Henry Pym, Jr.]]}}
+** {{1st|[[Azari (Earth-555326)|Black Panther (Azari)]]}}
+** {{1st|[[Francis Barton (Earth-555326)|Hawkeye (Francis Barton)]]}} {{Joins}}
+'''Supporting Characters:'''
+* {{Only|[[Anthony Stark (Earth-555326)|Iron Man (Tony Stark)]]}}
+* {{Only|[[Vision (Earth-555326)|Vision]]}}
+* {{Only|[[Bruce Banner (Earth-555326)|Hulk (Bruce Banner)]]}}
+* {{Only|[[Elizabeth Ross (Earth-555326)|Betty Ross]]}}
+'''Antagonists:'''
+* {{Only Destruction|[[Ultron (Earth-555326)|Ultron]]}}
+* Ultron's robots {{Only}}
+* {{Only Destruction|[[Iron Avengers (Earth-555326)|Iron Avengers]]}}
+** {{Only Destruction|[[Captain America (Robot) (Earth-555326)|Captain America]]}}
+** {{Only Destruction|[[Thor (Robot) (Earth-555326)|Thor]]}}
+** {{Only Destruction|[[Black Panther (Robot) (Earth-555326)|Black Panther]]}}
+** {{Only Destruction|[[Hawkeye (Robot) (Earth-555326)|Hawkeye]]}}
+** {{Only Destruction|[[Black Widow (Robot) (Earth-555326)|Black Widow]]}}
+** {{Only Destruction|[[Giant-Man (Robot) (Earth-555326)|Giant Man]]}}
+** {{Only Destruction|[[Wasp (Robot) (Earth-555326)|Wasps]]}}
+'''Other Characters:'''
+* {{Flashback|[[Avengers (Earth-555326)|First Generation Avengers]]}} {{Only}}
+** {{Flashback|[[Thor Odinson (Earth-555326)|Thor]]}} {{Only}}
+** {{Flashback|[[Clinton Barton (Earth-555326)|Hawkeye (Clint Barton)]]}} {{Only Dies}}
+** {{Flashback|[[Henry Pym (Earth-555326)|Giant Man (Henry Pym)]]}} {{Only Dies}}
+** {{Flashback|[[T'Challa (Earth-555326)|Black Panther (T'Challa)]]}} {{Only Dies}}
+** {{Flashback|[[Steven Rogers (Earth-555326)|Captain America (Steven Rogers)]]}} {{Only Dies}}
+** {{Flashback|[[Natalia Romanova (Earth-555326)|Black Widow (Natalia Romanova)]]}} {{Only Dies}}
+** {{Flashback|[[Janet Van Dyne (Earth-555326)|Wasp (Janet Van Dyne)]]}} {{Only Dies}}
+* {{Only|[[Jocasta (Earth-555326)|Jocasta]]}}
+* {{Only|[[Scavengers (Earth-555326)|Scavengers]]}}
+* {{Flashback|[[Nathaniel Richards (Kang) (Earth-555326)|Kang the Conqueror]]}} {{Cameo}} {{Only}}
+* {{Flashback|[[Heinrich Zemo (Earth-555326)|Baron Heinrich Zemo]]}} {{Cameo}} {{Only}}
+* {{Flashback|[[Victor von Doom (Earth-555326)|Doctor Doom]]}} {{Cameo}} {{Only}}
+* {{Flashback|[[Mandarin (Earth-555326)|Mandarin]]}} {{Cameo}} {{Only}}
+* {{Flashback|[[Loki Laufeyson (Earth-555326)|Loki]]}} {{Cameo}} {{Only}}
+* {{Mentioned|[[Sif (Earth-555326)|Sif]]}}
+* {{Flashback|[[Ororo Munroe (Earth-555326)|Storm (Ororo Munroe)]]}} {{Only Dies}}
+'''Locations:'''
+* {{1st|[[Earth-555326]]}}
+** {{1st|[[Earth]]}}
+*** {{a|[[Arctic Circle]]}} refuge {{Only}}
+*** {{Only|[[New York City|Ultra City]]}}
+*** Desert {{Only}}
+*** {{Flashback|[[Wakanda]]}} {{Only}}
+*** {{Only|[[Asgard (Realm)|Asgard]]}}
+'''Items:'''
+* {{Only|[[Torunn's Sword]]}}
+* {{Only|[[Captain America's Shield]]}}
+* {{Only Destruction|[[Energy Shield]]}}
+* {{Only|[[Iron Man Armor]]}}
+* {{Only|[[Hawkeye's Bow]]}}
+* {{Only|[[Trick Arrows]]}}
+'''Vehicles:'''
+* {{Only|[[Quinjet]]}}
+
+| Plot                    = A battle with [[Ultron (Earth-555326)|Ultron]] leaves the [[Avengers (Earth-555326)|Avengers]] defeated, as most of the heroes were killed during the fight, and the world at the mercy of Ultron's machine army. [[Steven Rogers (Earth-555326)|Captain America]] tells [[Anthony Stark (Earth-555326)|Iron Man]] to take the Avengers' children to a fortified refuge hidden above the [[Arctic Circle]] so they'll be safe from Ultron. The children are [[James Rogers (Earth-555326)|James Rogers]], the son of Black Widow and Captain America; [[Henry Pym, Jr. (Earth-555326)|Henry Pym Jr.]], the son of Giant-Man and Wasp; [[Azari (Earth-555326)|Azari]], the son of Black Panther and Storm; and [[Torunn Thorsdóttir (Earth-555326)|Torunn]], the daughter of the absent Thor and Sif.
+ 
+Stark secretly raises and trains the children for over twelve years. One day, The Vision arrives at the refuge after hiding for over a decade from Ultron. He has come to inform Stark that Clint Barton's son is alive.
+
+While the curious children are eavesdropping on Stark and the Vision, James accidentally activates a series of Iron Man-style robots, called the Iron Avengers, that mimic the looks and abilities of Captain America, Hawkeye, Black Panther, Thor, Black Widow and Giant Man. Because they are programmed to defeat Ultron upon activation, they take off to do so, whereupon they are detected by Ultron's worldwide sensors, revealing the location of the refuge. Ultron then reprograms the Iron Avenger robots to follow his commands, proceeds to the refuge and invades it. Stark, now suited up as Iron Man, stalls Ultron long enough for the children to escape on the [[Quinjet]], but he is eventually subdued and captured.
+
+The Vision has them set on a course to the [[Savage Land]], but while the robot is recharging, Pym changes their course to go to Ultra City to rescue Stark, the four young Avengers fight off the city's security robots and the Iron Avengers. [[Francis Barton (Earth-555326)|Francis Barton]], son of Hawkeye and Mockingbird, helps the kids escape from the Iron Avengers. They decide to team up with the new Hawkeye, and his group of resistance fighters, called the Scavengers, to rescue their guardian. The four infiltrate Ultron's citadel to save Stark and discover Ultron's "trophy room", showcasing his defeat of the original Avengers and countless heroes. The young Avengers locate Stark, but discover that is actually one of Ultron's traps. After battling the Iron Avengers, the young Avengers and Stark manage to escape.
+
+They, along with an older [[Elizabeth Ross (Earth-555326)|Betty Ross]], head to find Bruce Banner. In an effort to submerge the Hulk, Banner has decided to hide out in the desert and keep away from other people for their own safety. After Banner refuses to help them, James comes up a plan to lure Ultron there so he can cause the Hulk to appear and destroy the robot. Torrun recovers her sword after calling for her father for strength.
+
+The Iron Avengers arrive and target their younger counterparts. Francis disarms Iron Hawkeye, but the robot simply makes another bow. Iron Giant Man makes Tony fall down a cliff, and James catches him. Pym battles Iron Giant Man while Azari battles the Iron Black Panther. James Rogers' energy shield device gets destroyed during the battle, so he takes the star shield from Iron Captain America. When Pym knocks down Iron Giant Man, the robot releases Iron Wasps to attack him. James tells to try to awaken the Hulk by somehow making Banner angry.
+
+Pym escapes the Iron Wasps and apologetically starts attacking Banner, finally turns into the Hulk and defeats Iron Giant Man and the Iron Wasps. While the young Avengers finish off the Iron Avengers, Ultron attacks the Hulk and defeats him. Ultron attacks the young Avengers, nearly killing them. However, Pym revives the Hulk by making him even angrier against Ultron. The Hulk destroys Ultron, ripping him in two. Then, in a fit of rage, the Hulk begins to turn on Pym, but is subdued by Betty.
+
+Finally, to stop Ultron from rebuilding himself, Torrun takes the two halves into space and throws away. She nearly suffocates and freezes in the process, but she is rescued when her father, Thor arrives and explains why he left her on Earth. Thor invites Torunn to join him in Asgard, but Torunn chooses instead to return to her family on Earth. As a parting gift, Thor sends her back to Earth in full Asgardian armor.
+
+With Ultron finally defeated, the five young Avengers prepare to return to Ultra City, to deal with Ultron's remaining forces and rescue the populace.
+
+==Gallery==
+<gallery position="center" captionalign="center" widths="300">
+Next Avengers Trailer
+</gallery>
+
+| Cast                    = 
+* Noah Crawford as [[James Rogers (Earth-555326)|James Rogers]]
+* Brenna O'Brien as [[Torunn Thorsdóttir (Earth-555326)|Torunn]]
+* Aidan Drummond as [[Henry Pym, Jr. (Earth-555326)|Pym]]
+* Dempsey Pappion as [[Azari (Earth-555326)|Azari]]
+* Adrian Petriw as [[Francis Barton (Earth-555326)|Francis Barton]]
+* Tom Kane as [[Anthony Stark (Earth-555326)|Tony Stark]] and [[Ultron (Earth-616)|Ultron]]
+* Fred Tatasciore as [[Bruce Banner (Earth-555326)|Hulk]]
+* Shawn Macdonald as [[Vision (Earth-555326)|Vision]]
+* Michael Adamthwaite as [[Thor Odinson (Earth-555326)|Thor]]
+* Ken Kramer as [[Bruce Banner (Earth-555326)|Bruce Banner]]
+* Nicole Oliver as [[Elizabeth Ross (Earth-555326)|Betty Ross]]
+| Notes                   = * Despite not possessing any score at Rotten Tomatoes, the movie was generally well received for the fans and critics.<ref>[https://www.rottentomatoes.com/m/next_avengers_heroes_of_tomorrow? Next Avengers: Heroes of Tomorrow at Rotten Tomatoes]</ref>
+| Trivia                  = 
+* The writer, Christopher Yost has been the writer for numerous Marvel animated shows and movies, Including episodes of ''[[X-Men: Evolution]]'', ''[[Fantastic Four: World's Greatest Heroes]]'', ''[[Iron Man: Armored Adventures]]'', ''[[Wolverine and the X-Men (animated series)|Wolverine and the X-Men]]'', ''[[Avengers: Earth's Mightiest Heroes (animated series)|Avengers: Earth's Mightiest Heroes]]'', and both of the ''[[Hulk Vs. (film)|Hulk Vs.]]'' film segments.
+* To bring out the Hulk, James Rogers gives Pym the suggestion "to make fun [Banner's] pants", an allusion to the comic book [[Hulk]]'s purple pants.
+* During the scene in Ultron's trophy room, the [[Vulture]]'s wings are seen.
+| Links                   = 
+*[[Marvel Films#Direct-to-Video films|Marvel Films]]
+}}

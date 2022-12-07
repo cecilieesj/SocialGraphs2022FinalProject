@@ -1,0 +1,115 @@
+{{Marvel Database:Film Template
+| Image                   = Generation X.jpg
+| Aliases                 = 
+
+| Directors               = Jack Sholder
+| Producers               = Avi Arad; Eric Blakeney; Matthew Edleman; Stan Lee; David Roessell; Bruce J. Sallan
+| ComicWriters            = 
+| StoryWriters            = 
+| ScreenplayWriters       = Eric Blakeney
+| Musicians               = 
+| Cinematographers        = Bryan England
+| Editors                 = Michael Schweitzer
+| Distributors            = Fox Television
+| Running Time            = 87 minutes
+| Rating                  = 
+| Language                = English
+| Budget                  = 
+| Release Date            = February 20, 1996
+
+| AM ID                   = generation-x-v154425
+| IMDB ID                 = 0116401
+| Marvel Movies           = Generation X (film)
+
+| Tagline                 = Heroes are no longer born... they are created.
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[Generation X (Earth-700029)|Generation X]]}}
+** {{Only|[[Jubilation Lee (Earth-700029)|Jubilee (Jubilation Lee)]]}}
+** {{Only|[[Angelo Espinosa (Earth-700029)|Skin (Angelo Espinosa)]]}}
+** {{Only|[[Monet St. Croix (Earth-700029)|M (Monet St. Croix)]]}}
+** {{Only|[[Arlee Hicks (Earth-700029)|Buff (Arlee Hicks)]]}}
+** {{Only|[[Mondo (Earth-700029)|Mondo]]}}
+** {{Only|[[Kurt Pastorius (Earth-700029)|Refrax (Kurt Pastorius)]]}}
+'''Supporting Characters:'''
+* {{Only|[[Emma Frost (Earth-700029)|White Queen (Emma Frost)]]}}
+* {{Only|[[Sean Cassidy (Earth-700029)|Banshee (Sean Cassidy)]]}}
+'''Antagonists:'''
+* {{Only|[[Russell Tresh (Earth-700029)|Dr. Russel Tresh]]}}
+* {{Only Dies|[[Robert Ralston (Earth-700029)|Bob Ralston]]}}
+* {{Mentioned|[[Bureau of Mutant Affairs (Earth-700029)|M.E.A.]]}}
+* {{Only|[[Lance (Earth-700029)|Lance]]}}
+'''Other Characters:'''
+* {{Only|[[Alicia Lee (Earth-700029)|Alicia Lee]]}}
+* {{Only|[[Jim Lee (Earth-700029)|Jim Lee]]}}
+* [[Character Index/Alternate Earths#Kayla (Earth-700029)|Kayla]] {{Only}}
+* {{Only|[[Estella Espinosa (Earth-700029)|Estella Espinosa]]}}
+* {{Mentioned|[[Hellions (Earth-700029)|Hellions]]}}
+'''Races and Species:'''
+* {{a|[[Mutants (Homo superior)|Mutants]]}}
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+'''Locations:'''
+* {{Only|[[Earth-700029]]}}
+** {{Only|[[Earth]]}}
+*** {{Only|[[United States of America]]}}
+**** {{Only|[[New York (State)|New York]]}}
+***** Oswego County {{Only}}
+****** {{Only|[[Xavier's School for Gifted Youngsters]]}}
+******* {{Only|[[Danger Room]]}}
+******* {{Only|[[Cerebro (Mutant Detector)|Cerebro/Command Center]]}}
+****** {{Only|[[Hastings (New York)|Hastings]]}}
+****** Williamstown State Mental Institution {{Only}}
+***** {{Only|[[Litchfield]]}}
+****** Watkins Mall {{Only}}
+****** Litchfield Police Department {{Only}}
+**** {{Only|[[California (State)|California]]}}
+***** {{Only|[[Los Angeles]]}}
+**** Mutant Camp {{Mentioned}}
+** {{Only|[[Dream Dimension]]}}
+'''Items:'''
+* {{Only|[[Mutant Registration Act]]}}
+* {{Only|[[Dream Machine (Emma Frost)|Dream Machine]]}}
+* {{Only|[[Cerebro (Mutant Detector)|Cerebro]]}}
+* Slick Lips lipsticks {{Only}}
+* Coffinnail cigarettes {{Only}}
+* ''Virtual Fighter'' video game {{Only}}
+'''Vehicles:'''
+* {{Only|[[X-Van]]}}
+
+| Plot                    = [[Sean Cassidy (Earth-700029)|Banshee]] and [[Emma Frost (Earth-700029)|Emma Frost]] are the headmasters of [[Xavier's School for Gifted Youngsters]]. They recruit [[Jubilation Lee (Earth-700029)|Jubilee]], and introduce her to her fellow students; M, Skin, Mondo, Buff and Refrax. The students are learning to cope with their mutant powers, and come into conflict with the "townies" who mock the students. Emma Frost worked previously with a mad scientist named Russel Tresh who felt that he could extract part of mutant's brains to develop psychic powers, and Russell is back and wants to use Skin's brain in his experiments.
+
+==Gallery==
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Generation X - T.V. Pilot
+Generation X (1996) Trailer
+</gallery>
+
+| Cast                    = * {{MM|Amarylis}} – [[Monet St. Croix (Earth-700029)|M (Monet St. Croix)]]
+* {{MM|Suzanne Davis}} – [[Arlee Hicks (Earth-700029)|Buff (Arlee Hicks)]]
+* {{MM|Matt Frewer}} – [[Russell Tresh (Earth-700029)|Dr. Russel Tresh]]
+* {{MM|Finola Hughes}} – [[Emma Frost (Earth-700029)|White Queen (Emma Frost)]]
+* {{MM|Heather McComb}} – [[Jubilation Lee (Earth-700029)|Jubilee (Jubilation Lee)]]
+* {{MM|Jeremy Ratchford}} – [[Sean Cassidy (Earth-700029)|Banshee (Sean Cassidy)]]
+* {{MM|Bumper Robinson}} – [[Mondo (Earth-700029)|Mondo]]
+* {{MM|Augustin Rodriguez}} – [[Angelo Espinosa (Earth-700029)|Skin (Angelo Espinosa)]]
+* {{MM|Randall Slavin}} – [[Kurt Pastorius (Earth-700029)|Refrax (Kurt Pastorius)]]
+* {{MM|Kevin McNulty}} – [[Robert Ralston (Earth-700029)|Robert Ralston]]
+* {{MM|Lalainia Lindbjerg}} – [[Character Index/Alternate Earths#Kayla (Earth-700029)|Kayla]]
+* {{MM|Jeaneth Munoz}} – [[Estella Espinosa (Earth-700029)|Estella Espinosa]]
+* {{MM|Kavan Smith}} – [[Lance (Earth-700029)|Lance]]
+
+| Notes                   = * '''''Generation X''''' is a made-for-TV-movie based on the [[Marvel Comics]] series ''[[Generation X]]'' aired by the Fox Broadcasting Company. The extremely low-budget film was scoffed at by fans and plans to develop a syndicated series were abandoned.
+* [[Arlee Hicks (Earth-700029)|Buff]] and [[Kurt Pastorius (Earth-700029)|Refrax]] were two new characters developed for and introduced in '''''Generation X''''' to replace the characters of [[Chamber]] and [[Husk]]. Husk and Chamber were absent from the film due to budget constraints limiting the special effects required to depicted their powers. Other characters also had the powers altered due to budget constraints.
+* Many fans were disappointed and offended that [[Jubilee]], a Chinese-American character, was portrayed by {{WP|Heather McComb}}, a Caucasian actress. According to an interview with director Jack Sholder, the original script and casting breakdown sent out to agents did not specify an Asian actress for the part of Jubilee.<ref>[http://www.blastr.com/2014-5-27/exclusive-director-jack-sholder-foxs-generation-x-controversial-castings-and-x-men-effect Director Jack Shoulder on FOX's GENERATION X, Controversial Castings and The X-Men Effect]</ref>
+| Trivia                  = * The characters [[Arlee Hicks (Earth-700029)|Buff]] and [[Kurt Pastorius (Earth-700029)|Refrax]] were two new characters developed for and introduced in '''''Generation X''''', while classic [[Generation X (Earth-616)|Generation X]] characters including [[Husk]], [[Synch]], [[Chamber]], and [[Penance]] were absent from the film.
+* The real world [[wikipedia:Hatley Park National Historic Site|Hatley Castle]] is the setting for the [[Xavier's School for Gifted Youngsters]] and is the same location used in [[Earth-10005|20th Century Fox's X-Men movie franchise]].
+* The ''X-Men'' Arcade game (based on the "[[Pryde of the X-Men]]" pilot) was in the background in the ''Generation X'' pilot. The scene where Jubilee was in the arcade room playing ''Street Fighter'', her powers activated and Tresh noticed the display. In the background behind Tresh is the arcade game.
+| Links                   = * [http://www.imdb.com/title/tt0116401/ Generation X on IMDb]
+* [[Marvel Films#Television Films|Marvel Films]]
+* [http://tigrrwildcat.50megs.com/movietv.htm Kindred Spirits - Info, pictures, video and sounds]
+* [http://www.eyrie.org/~frobozz/review/fmgenx.html Fan Review]
+* [http://www.internationalhero.co.uk/g/genx1996.htm International Catalogue of Superheroes]
+* [http://xoomer.virgilio.it/amasoni2002/shl/marvel/generation_x_(1996).htm Superhero Lives]
+}}
+[[Category:20th Century Fox]]

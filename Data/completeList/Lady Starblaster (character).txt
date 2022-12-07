@@ -1,0 +1,37 @@
+{{Infobox character
+|name = Lady Starblaster
+|image = Starblaster.png
+|fullname = Ami
+|voice = [[Sigourney Weaver]]
+|shows = ''[[Penn Zero: Part-Time Hero]]''
+|personality = Ruthless, dangerous
+|enemies = [[Penn Zero]], [[Boone]], [[Sashi Kobayashi|Sashi]]
+|appearance = Dark grey fuchsia hair, chartreuse eyes
+|partner = [[Rippen]] (husband)
+|likes = Rippen
+|status = Ends up in the Most Dangerous World Imaginable with Rippen
+|quote = "Captain's so formal. My enemies call me Lady Starblaster."|family=Hedwin (mother-in-law)<br>Axalon (father-in-law)<br>[[Vlurgen]] (sister-in-law)}}
+
+'''Lady Starblaster''' is a female villain from ''[[Penn Zero: Part-Time Hero]]''.
+
+==Trivia==
+*Sigourney Weaver also voices Axiom's computer from the [[2008]] [[Pixar]] film [[WALL-E (film)|WALL-E]].
+
+==Gallery==
+<gallery position="center" captionalign="center">
+LS 23.png
+</gallery>
+
+{{CharacterStub}}
+{{Penn Zero: Part-Time Hero}}
+{{DEFAULTSORT:Starblaster, Lady}}
+[[Category:Penn Zero: Part-Time Hero characters]]
+[[Category:Characters]]
+[[Category:Females]]
+[[Category:Disney characters]]
+[[Category:Aliens]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Villains]]
+[[Category:Lovers]]
+[[Category:Disney XD characters]]

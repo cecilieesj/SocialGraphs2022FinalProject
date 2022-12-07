@@ -1,0 +1,36 @@
+{{Infobox film
+| name           = Diamonds on Wheels
+| image          = File:1974-poursuite-diamands-01.jpg
+| director       = [[Jerome Courtland]]
+| writer         = Pierre Castex<br>William R. Yates
+| distributor    = [[Walt Disney Productions]]
+| release        = [[August 19]], [[1973]]
+| time           = 84 min
+| country        = United Kingdom
+| language       = English
+|imdb_id = 0069971}}
+'''''Diamonds on Wheels''''' is a family comedy film directed by Jerome Courtland and starring [[Patrick Allen]], George Sewell and Derek Newark and Barry Jackson. It was originally released in the [[United Kingdom]] on [[August 19]], [[1973]], on a double bill with ''[[The World's Greatest Athlete]]''. It later aired in the United States in three parts on ''[[The Wonderful World of Disney (NBC)|The Wonderful World of Disney]]'' starting on [[March 10]], [[1974]].
+
+==Plot==
+A million-dollar diamond robbery takes an unexpected turn when one of the gang decides to double-cross his partners and take the gems for himself.
+
+==Gallery==
+<gallery>
+1974-poursuite-diamands-05.jpg
+1974-poursuite-diamands-07.jpg
+1974-poursuite-diamands-08.jpg
+1974-poursuite-diamands-09.jpg
+1974-poursuite-diamands-11.jpg
+1974-poursuite-diamands-10.jpg
+1974-poursuite-diamands-06.jpg|UK theatrical release poster
+Diamonds on wheels.jpg|US VHS release
+Diamonds-on-wheels-5061l.jpg|UK VHS release
+</gallery>
+
+{{Wikipedia}}
+{{DISPLAYTITLE:''Diamonds on Wheels''}}
+[[Category:Articles with Wikipedia content]]
+[[Category:1974 films]]
+[[Category:Disney films]]
+[[Category:Films]]
+[[Category:Live-action films]]

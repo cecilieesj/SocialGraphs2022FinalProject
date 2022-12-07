@@ -1,0 +1,41 @@
+{{Infobox character
+|image = Profile - Merrin.png
+|games = ''[[Star Wars Jedi: Fallen Order]]''
+|voice = Tina Ivlev
+|model = Tina Ivlev (motion-capture)
+|inspiration =  
+|alias = Nightsister Merrin
+|occupation = Nightsister
+|affiliations = Nightsisters
+|home = [[Dathomir]]
+|likes = Rare steak
+|dislikes = [[Jedi]] (formerly), lies
+|powers = Magick
+|paraphernalia =
+|status = Active}}
+{{Quote|I was only a child when they attacked. An [[General Grievous|armored warrior]] brandishing [[Lightsaber|this]]...descended upon us...and cut down my people. My sisters.|Merrin reccaling the Massacre of the Nightsisters|Star Wars Jedi: Fallen Order}}
+'''Merrin''' is a character who apppears in the ''[[Star Wars]]'' video game, ''[[Star Wars Jedi: Fallen Order]]''. She is a Dathomirian Nightsister who lived on her homeworld, [[Dathomir]], during the Imperial Era before joining Kestis and the crew of the ''Stinger Mantis''.
+
+==Background==
+Merrin was only a child when [[General Grievous]] massacred the Nightsisters during the Clone Wars. Perceiving herself as the only survivor, Merrin grieved for her fallen sisters alone, and vowed someday to seek vengance. Following the rise of the [[Galactic Empire|Empire]], Merrin encountered [[Jedi]] Master Taron Malicos, who crash-landed on Dathmir after escaping Order 66. Malicos, who fell to the dark side of [[the Force]], manipulated Merrin into learning their magick. When the former Jedi Padawan [[Cal Kestis]] visited Dathmior in search of the Tomb of Kujet, Merrin realized Malicos had been deceiving her. Reluctant at first, she fought alongside Kestis in defeating Malicos. Afterwards she joined Kestis's in his quest to find the [[Holocron]] that held a list of force sensistive children.
+
+===Personality===
+Deeply effected by the death of her fellow Nightsisters, Merrin was hostile and aggressive, especially towards Jedi. Devoted to protecting what remained of Dathomir. After meeting Cal Kestis and learning the truth of Malicos' lies, she became level headed and put aside her previous animosity towards Jedi. She is also shown to have some sense of humor, demonstrated when she joked with Greez saying that she needed one of his arms as a sacrifice for a ritual to get past the blockade of the Empire at Nur.
+
+Due to her isolation on [[Dathomir]], Merrin showcased fascination and child-like wonder when visiting other planets, such as Kashyyk and Bogano. In addition, she appeared to be socially awkward and indifferent towards others, but not heartless. Also because of her isolation, she was oblivious to the events that had occured over the years, and knew nothing about the Empire.
+
+===Powers and abilities===
+*'''Magick:''' Merrin was versed in Nightsister magick, capable of enhancing Nightbrothers in combat, teleporting from one place to another at will, and throwing blasts of ichor by hand. Merrin could also manipulate the ground, such as by raising platforms through telekinesis or morphing the ground to bury a man alive. This telekinesis was not limited to Dathomir, as she proved able on Nur to raise two adult humans out of deep water with her magick alone. One ritual she knew could be used to cloak an entire ship from sensors.
+**'''Chant of Ressurection:''' The most potent magick of the Nightsisters allows Merrin to resurrect the dead.
+
+==Trivia==
+*Many of Merrin's design characteristics were recycled from the scrapped character Mag Zaroff, who was intended to be the video game's main antagonist before her inclusion was dropped in favor of using the [[Trilla Suduri|Second Sister]].
+
+==External links==
+*{{SWW|Merrin}}
+{{Star Wars}}
+[[Category:Star Wars characters]]
+[[Category:Characters introduced in video games]]
+[[Category:Females]]
+[[Category:Adults]]
+[[Category:Orphans]]

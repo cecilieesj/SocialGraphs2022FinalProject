@@ -1,0 +1,48 @@
+{{Infobox film
+|image = Trader-mickey-movie-poster-1932-1020199335.jpg
+|name = Trader Mickey
+|director = [[David Hand|Dave Hand]]<br>Burt Gillett
+|producer = [[Walt Disney]]
+|writer = 
+|starring = [[Walt Disney]]<br>[[Pinto Colvig]]
+|music = Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[United Artists]]
+|release = [[August 26]], [[1932]]<ref>[https://archive.org/details/motionpictureher110unse/page/52/mode/2up/ Motion Picture Herald (3/25/1933)]</ref>
+|language = English
+|preceded = ''[[Mickey's Nightmare]]''
+|followed = ''[[The Whoopee Party]]''
+}}
+'''''Trader Mickey''''' is a ''[[Mickey Mouse]]'' short that debuted [[August 26]], [[1932]].
+
+==Summary==
+While taking a shipload of musical instruments along the African coast, Mickey and Pluto are captured by cannibals. The savages plan to eat them until Mickey trades the instruments for their freedom, then engages in a wild jam session to "The Darktown Strutters' Ball."
+
+==Characters==
+*[[Mickey Mouse]] (voiced by [[Walt Disney]])
+*[[Pluto]] (voiced by [[Pinto Colvig]])
+*Cannibals
+
+==Home video releases==
+'''DVD'''
+*''[[Walt Disney Treasures]]: Mickey Mouse in Black and White, Volume 2''
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150">
+16805.jpg
+16806.jpg
+16807.jpg
+16810.jpg
+16811.jpg
+16812.jpg
+File0009.jpg
+TRADER_MICKEY.png
+</gallery>
+
+==References==
+<references/>
+{{Mickey-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Pluto shorts]]
+[[Category:1932 shorts]]

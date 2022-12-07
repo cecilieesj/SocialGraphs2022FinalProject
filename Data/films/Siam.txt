@@ -1,0 +1,20 @@
+{{Infobox film
+|name        = Siam
+|director    = [[Ralph Wright]]
+|producer    = [[Walt Disney]]<br>[[Ben Sharpsteen]]<br>Erwin L. Verity
+|writer      = [[Winston Hibler]]<br>Cecil Maiden<br>[[Ted Sears]]<br>[[Ralph Wright]]
+|distributor = Buena Vista Film Distribution Company
+|studio = Walt Disney Productions
+|language    = English
+|image = Image:51NatOaAL6L.jpg
+|release = [[December 24]], [[1954]] <small>(U.S.A.)</small><br>June [[1955]] <small>(West Germany, Berlin International Film Festival)</small><br>[[August 17]], 1955 <small>(Denmark)</small><br>[[September 2]], 1955 <small>(Belgium)</small>|music = Oliver Wallace|time = 32 minutes}}
+'''''Siam''''' is a [[1954]] Disney documentary film that originally released to theaters by [[Buena Vista Distribution]] on [[December 24]], [[1954]]. The film takes a half-hour look at the country of Siam.
+
+{{Stub}}
+[[Category:1954 shorts]]
+[[Category:Live-action shorts]]
+[[Category:Documentaries]]
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:People & Places]]
+[[Category:Academy Award nominated films]]

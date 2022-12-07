@@ -1,0 +1,270 @@
+{{Marvel Database:Film Template
+| Image                   = Deadpool 2 poster 018.jpg
+| Aliases                 = Love Machine (working title)<br>The Untitled Deadpool Sequel (marketing)
+
+| Directors               = David Leitch
+| Producers               = Simon Kinberg; Ryan Reynolds; Lauren Shuler Donner
+| ComicWriters            = [[Fabian Nicieza]]; [[Rob Liefeld]]
+| StoryWriters            = 
+| ScreenplayWriters       = Rhett Reese; Paul Wernick; Ryan Reynolds
+| Musicians               = Tyler Bates
+| Cinematographers        = Jonathan Sela
+| Editors                 = Dirk Westervelt; Craig Alpert; Elísabet Ronaldsdóttir
+| Distributors            = 20th Century Fox
+| ProductionCompanies     = Marvel Entertainment, Kinberg Genre, Maximum Effort, The Donners' Company
+| Running Time            = 119 minutes
+| Rating                  = '''MPAA:''' Rated R for strong violence and language throughout, sexual content and graphic nudity
+| Budget                  = $110 million
+| Release Date            = May 15, 2018
+| US Release Date         = May 18, 2018
+
+| AM ID                   = deadpool-2-v654248
+| IMDB ID                 = 5463162
+| Marvel Movies           = Deadpool 2
+| X-Men Movies            = Deadpool 2
+
+| Tagline                 = You never forget your second time.
+
+| Previous Film           = Deadpool (film)
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[Wade Wilson (Earth-41633)|Deadpool (Wade Wilson)]]}} {{Flashback}} {{g|Joins and leaves [[X-Men (Earth-41633)|X-Men]]}} {{Joins||[[X-Force (Earth-41633)|X-Force]]}}
+'''Supporting Characters:'''
+* {{Only Dies|[[Vanessa Carlysle (Earth-41633)|Vanessa Carlysle]]}} {{Flashback}}
+* {{Only|[[Jack Hammer (Earth-41633)|Weasel]]}}
+* {{Only|[[Blind Al (Althea) (Earth-41633)|Blind Al]]}}
+* {{Only|[[X-Men (Earth-41633)|X-Men]]}}
+** {{Only|[[Peter Rasputin (Earth-41633)|Colossus (Peter Rasputin)]]}} {{Joins||[[X-Force (Earth-41633)|X-Force]]}}
+** {{Only|[[Ellie Phimister (Earth-41633)|Negasonic Teenage Warhead]]}}
+** {{Only|[[Yukio (Earth-41633)|Yukio]]}}
+* {{Only|[[X-Force (Earth-41633)|X-Force]]}}
+** {{Only|[[Dopinder (Earth-41633)|Dopinder]]}} {{Flashback}} {{Joins}}
+** {{Only|[[Nathan Summers (Earth-66250)|Cable (Nathan Summers)]]}} {{Joins}}
+** {{Only|[[Russell Collins (Earth-41633)|Firefist (Russell)]]}} {{Joins}}
+** {{Only Dies|[[Jesse Aaronson (Earth-41633)|Bedlam]]}} {{Joins}}
+** {{Only Dies|[[Vanisher (Earth-41633)|Vanisher]]}} {{Joins}}
+** {{Only Dies|[[Axel Cluney (Earth-41633)|Zeitgeist]]}} {{Joins}}
+** {{Only Dies|[[Gaveedra Seven (Earth-41633)|Shatterstar (Rusty)]]}} {{Joins}}
+** {{Only|[[Neena Thurman (Earth-41633)|Domino]]}} {{Joins}}
+** {{Only Dies|[[Peter W. (Earth-41633)|Peter]]}} {{Joins}}
+'''Antagonists:'''
+* {{Only Dies|[[Sergei Valishnikov (Earth-41633)|Sergei Valishnikov]]}}
+* {{Only Dies|[[Headmaster (Earth-41633)|The Headmaster]]}}
+* {{Only|[[D.M.C. (Earth-41633)|D.M.C.]]}}
+* {{Only|[[Cain Marko (Earth-41633)|Juggernaut (Cain Marko)]]}}
+'''Other Characters:'''
+* {{Toy|[[James Howlett (Earth-17315)|Logan]]}}
+* {{Mentioned|[[Bandhu (Earth-41633)|Bandhu]]}}
+* [[Wikipedia:Kirsten Dunst|Kirsten Dunst]] {{Mentioned}} {{Topical Reference}}
+* [[Wikipedia:Tom Cruise|Tom Cruise]] {{Mentioned}} {{Topical Reference}}
+* [[w:c:starwars:Luke Skywalker|Luke Skywalker]] {{Mentioned}} {{Topical Reference}}
+* [[w:c:starwars:Leia Organa|Leia Organa]] {{Mentioned}} {{Topical Reference}}
+* [[w:c:dc:Kal-El (DC Extended Universe)|Superman (Clark Kent)]] {{Mentioned}} {{Topical Reference}}
+* {{Mentioned|[[Thomas Wilson (Earth-41633)|Deadpool's father]]}}
+* {{Only|[[Buck (Earth-41633)|Buck]]}}
+* {{Mentioned|[[Angel (Earth-TRN414)|Angel]]}}
+* {{Only|[[X-Men (Earth-41633)|X-Men]]}} {{Cameo}}
+** {{Only|[[Charles Xavier (Earth-41633)|Professor X (Charles Xavier)]]}} {{Cameo}}
+** {{Only|[[Henry McCoy (Earth-41633)|Beast (Hank McCoy)]]}} {{Cameo}}
+** {{Only|[[Scott Summers (Earth-41633)|Cyclops (Scott Summers)]]}} {{Cameo}}
+** {{Only|[[Peter Maximoff (Earth-41633)|Quicksilver (Peter Maximoff)]]}} {{Cameo}}
+** {{Only|[[Ororo Munroe (Earth-41633)|Storm (Ororo Munroe)]]}} {{Cameo}}
+** {{Only|[[Kurt Wagner (Earth-41633)|Nightcrawler (Kurt Wagner)]]}} {{Cameo}}
+** {{Photo|[[James Howlett (Earth-41633)|Logan]]}}
+* {{Only|[[Irene Merryweather (Earth-41633)|Irene Merryweather]]}}
+* {{Only Dies|[[Thomas Cassidy (Earth-41633)|Black Tom Cassidy]]}}
+* {{Only|[[Omega Red (Earth-41633)|Omega Red]]}}
+* {{Only|[[Bernard Hoyster (Earth-41633)|Sluggo]]}}
+* {{Mentioned|[[Clinton Barton (Earth-199999)|Hawkeye (Clint Barton)]]}}
+* {{Mentioned|[[James Buchanan Barnes (Earth-199999)|Winter Soldier (Bucky Barnes)]]}}
+* [[w:c:dc:Bruce Wayne (DC Extended Universe)|Batman (Bruce Wayne)]] {{Mentioned}} {{Topical Reference}}
+* [[Wikipedia:Tupac|Tupac]] {{Mentioned}} {{Topical Reference}}
+* [[Wikipedia:Ice Cube|Ice Cube]] {{Mentioned}} {{Topical Reference}}
+* {{Drawing|[[Stan Lee (Earth-41633)|Stan Lee]]}}
+* {{Mentioned|[[Natalia Romanoff (Earth-199999)|Black Widow (Natasha Romanoff)]]}}
+* {{Mentioned|[[Nathan Summers (Earth-616)|Cable (Nathan Summers)]]}}
+* {{Invoked|[[Thanos (Earth-199999)|Thanos]]}}
+* {{Only Dies|[[Hope Summers (Earth-66250)|Hope]]}} {{FlashOnly}} {{Cameo}}
+* {{Only Dies|[[Aliya Summers (Earth-66250)|Cable's wife]]}} {{FlashOnly}} {{Cameo}}
+* {{Only|[[Russell Collins (Earth-66250)|Firefist (Russell)]]}} {{FlashOnly}} {{Cameo}}
+* {{Invoked|[[Jesus of Nazareth (Earth-41633)|Jesus Christ]]}}
+* {{apn|[[Wade Wilson (Earth-TRN414)|Deadpool (Wade Wilson)]]|Deadpool: No Good Deed|-}} {{Last}}
+* {{apn|[[Vanessa Carlysle (Earth-TRN414)|Vanessa Carlysle]]|Deadpool (film)|-}} {{Last}}
+* {{Only Dies|[[Sergei Valishnikov (Earth-TRN414)|Sergei Valishnikov]]}}
+* {{Only|[[Peter W. (Earth-Unknown)|Peter]]}}
+* {{Mentioned|[[X-Force (Earth-Unknown)|X-Force]]}}
+* {{ApDeath|[[Wade Wilson (Earth-18315)|Weapon XI (Wade Wilson)]]}}
+* {{Only|[[James Howlett (Earth-18315)|Wolverine (Logan)]]}}
+* {{Mentioned|[[William Stryker, Jr. (Earth-18315)|Colonel William Stryker Jr.]]}}
+* {{Only Dies|[[Ryan Reynolds (Earth-Unknown)|Ryan Reynolds]]}}
+* [[Wikipedia:Jack Benny|Jack Benny]] {{Voice}}
+* [[Wikipedia:Karl Marx|Karl Marx]] {{g|Portrait}}
+* {{Only|[[Adolf Hitler (Earth-Unknown)|Adolf Hitler]]}} {{g|Extended cut only}}
+'''Races and Species:'''
+* {{a|[[Mutants (Homo superior)|Mutants]]}}
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+'''Locations:'''
+* {{Only|[[Earth-41633]]}} {{Flashback}}
+** {{Only|[[Earth]]}} {{Flashback}}
+*** {{Only|[[China]]}} {{Flashback}}
+**** {{Only|[[Hong Kong]]}} {{Flashback}}
+*** {{Only|[[Japan]]}} {{Flashback}}
+**** {{Only|[[Honshu]]}} {{Flashback}}
+***** {{Only|[[Tokyo]]}} {{Flashback}}
+*** {{Only|[[United States of America|United States]]}} {{Flashback}}
+**** {{Only|[[New York (State)|New York]]}} {{Flashback}}
+***** {{Only|[[Westchester County]]}}
+****** {{Only|[[Salem Center]]}}
+******* {{Only|[[Xavier's School for Gifted Youngsters]]}}
+**** {{Only|[[Hellhouse (School)|Sister Margaret's School for Wayward Girls]]}}
+**** {{Only|[[State Home for Foundlings|Essex House for Mutant Rehabilitation]]}} {{Destroyed}}
+*** {{Only|[[Canada]]}}
+**** {{Only|[[Northwest Territories]]}}
+***** {{Only|[[Ice Box]]}}
+** {{Mentioned|[[Mojoverse]]}}
+** {{Mentioned|[[Heaven (Paradise)|Heaven]]}} {{Vision}}
+* {{Only|[[Earth-66250]]}} {{FlashOnly}}
+** {{Only|[[Earth]]}} {{FlashOnly}}
+* {{Mentioned|[[Earth-616|Prime Marvel Universe]]}}
+* {{Mentioned|[[DC Universe|DC Extended Universe]]}}
+* {{Only|[[Earth-18315]]}}
+** {{Only|[[Earth]]}}
+*** {{Only|[[Canada]]}}
+**** {{Only|[[British Columbia]]}}
+***** {{Only|[[Alkali Lake]]}}
+****** {{Only|[[Weapon X Facility]]}}
+* Ryan Reynolds' Reality {{Only}}
+** {{a|[[Earth]]}}
+*** {{Mentioned|[[Canada]]}}
+* {{a|[[Earth-TRN414]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[United States of America|United States]]}}
+**** {{a|[[New York (State)|New York]]}}
+'''Items:'''
+* {{Flashback|[[Deadpool's Suit]]}}
+* {{Flashback|[[Deadpool's Katanas]]}}
+* {{a|[[X-Uniforms]]}}
+* {{Cameo|[[Cerebro (Mutant Detector)|Cerebro]]}}
+* {{Cameo|[[Hoverchair|Professor X's Wheelchair]]}}
+* {{a|[[Inhibitor Collar]]}}
+* {{1st|[[Split Second Temporal Dislocation Harness|Cable's Time-Travel Device]]}}
+* {{Mentioned|[[Winter Soldier's Bionic Arm]]}}
+* {{1st|[[Shatterstar's Swords]]}} {{Destroyed}}
+* {{a|[[Adamantium]]}}
+'''Vehicles:'''
+* {{a|[[X-Men Blackbird|X-Jet]]}}
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Ryan Reynolds|Ryan Reynolds]] as [[Wade Wilson (Earth-41633)|Deadpool / Wade Wilson]]
+** Reynolds additionally provided the voice and facial motion capture for [[Cain Marko (Earth-41633)|Juggernaut]].{{r|{{cite web|url=https://www.cbr.com/deadpool-2-ryan-reynolds-juggernaut/|title=Deadpool 2 Got the Biggest Name Possible to Play its Surprise Villain|work=CBR.com|first=Albert|last=Ching|date=18 May 2018|accessdate=18 May 2018}}}}
+
+* [[wikipedia:Josh Brolin|Josh Brolin]] as [[Nathan Summers (Earth-66250)|Cable / Nathan Summers]]<ref>{{cite web|url=http://www.hollywoodreporter.com/heat-vision/deadpool-2-josh-brolin-play-cable-993232|title=Josh Brolin to Play Cable in 'Deadpool 2' (Exclusive)|last=Kit|first=Borys|work=The Hollywood Reporter|date=12 April 2017|accessdate=22 April 2017}}</ref>
+
+* [[wikipedia:Morena Baccarin|Morena Baccarin]] as [[Vanessa Carlysle (Earth-41633)|Vanessa]]<ref>{{cite web|url=http://decider.com/2016/09/08/morena-baccarin-deadpool-gotham-video-interview/|title=‘Gotham’ Star Morena Baccarin Talks ‘Deadpool 2’ & DC Vs. Marvel (VIDEO)|last=O'Keefe|first=Meghan|work=Decider|date=8 September 2016|accessdate=8 August 2017}}</ref>
+
+* [[wikipedia:Julian Dennison|Julian Dennison]] as [[Russell Collins (Earth-41633)|Russell Collins / Firefist]]<ref>{{cite web|url=https://www.instagram.com/p/BV33VF8DqSz/|title=Giving Julian Dennison a warm 💀💩L welcome as we stare off into our beautiful future together. #RickyBakerPool #NZ|last=Reynolds|first=Ryan|work=Instagram|date=28 June 2017|accessdate=28 June 2017}}</ref><ref>{{cite web|url=https://www.bleedingcool.com/2018/04/15/new-deadpool-2-footage-shown-during-the-various-walking-dead-shows/|title=New Deadpool 2 Footage Shown During the Various Walking Dead Shows|last=Booth|first=Kaitlyn|work=Bleeding Cool|date=15 April 2018|accessdate=2 May 2018}}</ref>
+
+* [[wikipedia:Zazie Beetz|Zazie Beetz]] as [[Neena Thurman (Earth-41633)|Domino / Neena Thurman]]<ref>{{cite web|url=http://deadline.com/2017/03/deadpool-2-zazie-beetz-domino-casting-1202040329/|title='Deadpool 2' Casts 'Atlanta's Zazie Beetz As Domino|last=Hipes|first=Patrick|work=Deadline|date=9 March 2017|accessdate=22 April 2017}}</ref>
+
+* [[wikipedia:T. J. Miller|T. J. Miller]] as [[Jack Hammer (Earth-41633)|Weasel]]<ref>{{cite web|url=http://movieweb.com/deadpool-2-tj-miller-more-weasel/|title=T.J. Miller Promises More Weasel in Deadpool 2 EXCLUSIVE|last=Roman|first=Julian|work=Movieweb|date=22 May 2017|accessdate=8 August 2017}}</ref>
+
+* [[wikipedia:Brianna Hildebrand|Brianna Hildebrand]] as [[Ellie Phimister (Earth-41633)|Negasonic Teenage Warhead / Ellie Phimister]]<ref name="Colossus and Negasonic">{{cite web|url=http://collider.com/deadpool-2-colossus-negasonic-teenage-warhead/|title=Exclusive: Colossus and Negasonic Teenage Warhead Will Return in 'Deadpool 2'|last=Goldberg|first=Matt|work=Collider|date=12 January 2017|accessdate=22 April 2017}}</ref>
+
+* [[wikipedia:Jack Kesy|Jack Kesy]] as [[Thomas Cassidy (Earth-41633)|Black Tom Cassidy]]<ref>{{cite web|url=http://deadline.com/2017/05/deadpool-2-jack-kesy-villain-black-tom-ryan-reynolds-1202101493/|title=‘Deadpool 2’ Sets Jack Kesy As Villain: Could He Be Black Tom?|last=Fleming|first=Mike Jr.|work=Deadline|date=24 May 2017|accessdate=24 May 2017}}</ref>
+
+* [[wikipedia:Stefan Kapičić|Stefan Kapičić]] as [[Peter Rasputin (Earth-41633)|Colossus / Peter Rasputin]]<ref name="Colossus and Negasonic"/>
+
+* [[wikipedia:Karan Soni|Karan Soni]] as [[Dopinder (Earth-41633)|Dopinder]]<ref>{{cite web|url=http://www.cinemablend.com/news/1611800/deadpool-2-is-bringing-back-these-three-supporting-characters|title=Deadpool 2 Is Bringing Back These Three Supporting Characters|last=Holmes|first=Adam|work=CinemaBlend|date=13 January 2017|accessdate=22 April 2017}}</ref>
+
+* [[wikipedia:Leslie Uggams|Leslie Uggams]] as [[Blind Al (Althea) (Earth-41633)|Blind Al]]<ref>{{cite web|url=http://www.blackfilm.com/read/2017/04/exclusive-leslie-uggams-return-deadpool-2/|title=Exclusive: Leslie Uggams To Return In Deadpool 2|last=Morales|first=Wilson|work=Black Film|date=19 April 2017|accessdate=22 April 2017}}</ref>
+
+* [[wikipedia:Terry Crews|Terry Crews]] as [[Jesse Aaronson (Earth-41633)|Bedlam]]<ref name="Terry Crews and Shatterstar">{{cite web|url=https://www.inverse.com/article/41046-deadpool-2-colossus-shatterstar-terry-crews|title=Colossus Actor Reveals 'Deadpool 2' Trailer Secrets, Confirms New Mutants|last=Francisco|first=Eric|work=Inverse|date=07 Ferbuary 2018|accessdate=11 Ferbuary 2018}}</ref><ref name="Bedlam and Pete Wisdom">{{cite web|url=https://screenrant.com/deadpool-2-terry-crews-bedlam-confirmed/|title=Deadpool 2: Terry Crews’ Role Confirmed|last=Mithaiwala|first=Mansoor|work=Screen Rant|date=22 March 2018|accessdate=24 March 2018}}</ref>
+
+* [[wikipedia:Rob Delaney|Rob Delaney]] as [[Peter W. (Earth-41633)|Peter]]<ref name="Bedlam and Pete Wisdom"/>
+
+* [[wikipedia:Lewis Tan|Lewis Tan]] as [[Gaveedra Seven (Earth-41633)|Shatterstar]]<ref name="Terry Crews and Shatterstar"/><ref>{{cite web|url=https://www.instagram.com/p/BhwWerqlEo6/?taken-by=lewistanofficial|title=T.J. Miller Promises More Weasel in Deadpool 2 EXCLUSIVEShatter mutha f*ckin’ Star... and peter #deadpool2 #xforce #longhairdontcare #shatterstar|last=Tan|first=Lewis|work=Instagram|date=20 April 2018|accessdate=19 April 2018}}</ref>
+
+* [[wikipedia:Bill Skarsgård|Bill Skarsgård]] as [[Axel Cluney (Earth-41633)|Zeitgeist]]<ref>{{cite web|url=http://www.indiewire.com/2018/04/bill-skarsgard-deadpool-2-zeitgeist-first-look-1201958114/|title=Bill Skarsgård Makes 'Deadpool 2' Debut: 'It' Actor Confirmed as X-Force Mutant Zeitgeist — First Look|last=Sharf|first=Zack|work=IndieWire|date=27 April 2018|accessdate=2 May 2018}}</ref>
+
+* [[wikipedia:Shiori Kutsuna|Shioli Kutsuna]] as [[Yukio (Earth-41633)|Yukio]]<ref>{{cite web|url=http://deadline.com/2017/06/deadpool-2-shioli-kutsuna-ryan-reynolds-fox-1202111974/|title=‘Deadpool 2’ Sets Actress Shioli Kutsuna In A Key Role|last=N'Duka|first=Amanda|work=Deadline|date=12 June 2017|accessdate=12 June 2017}}</ref> 
+
+* [[wikipedia:Eddie Marsan|Eddie Marsan]] as [[Headmaster (Earth-41633)|The Headmaster]]<ref>{{cite web|url= http://www.cbr.com/deadpool-2-eddie-marsan/|title= Deadpool 2: V for Vendetta’s Eddie Marsan Joins Cast|work= CBR.com|last= Fitch|first= Adam|date= 2017-08-23|accessdate=2017-08-23}}</ref>
+
+| Notes                   = 
+* [[wikipedia:Tim Miller (director)|Tim Miller]], who directed the first ''[[Deadpool (film)|Deadpool]]'' film,  was expected to return to direct the sequel, until he left due to creative differences, and was replaced by [[wikipedia:David Leitch (filmmaker)|David Leitch]].<ref>{{cite news|url=http://deadline.com/2016/10/deadpool-director-tim-miller-exits-sequel-ryan-reynolds-creative-disagreements-fox-1201841001/|title=Deadpool Director Tim Miller Exits Sequel Disagreements Ryan Reynolds|last=Fleming, Jr.|first=Mike|work=Deadline|date=22 October 2016|accessdate=22 April 2017|archiveurl=http://www.webcitation.org/6lbepbUam|archivedate=November 21, 2016|deadurl=no}}</ref><ref>{{cite news|url=http://www.thewrap.com/deadpool-director-tim-miller-exit-ryan-reynolds-creative-differences/|title=‘Deadpool 2’ Drama: Here’s What Ryan Reynolds and Director Tim Miller Clashed Over (Exclusive)|last=Gonzalez|first=Umberto|last2=Maglio|first2=Tony|date=22 October 2016|accessdate=22 April 2017|archiveurl=http://www.webcitation.org/6lbfE1cGo|archivedate=November 21, 2016|deadurl=no}}</ref><ref>{{cite news | first = Kit| last = Borys| author = | coauthors =Galuppo, Mia| url = http://www.hollywoodreporter.com/heat-vision/deadpool-2-david-leitch-direct-944728| title = It's Official: 'John Wick' Director David Leitch to Helm 'Deadpool 2'| work = Hollywood Reporter| publisher = | pages = | page = | date = 18 November 2016| accessdate = 22 April 2017| language = English}}</ref>
+* 20th Century Fox announced the June 1, 2018 release date for ''Deadpool 2'' in April 2017, alongside several other films, including ''[[The New Mutants (film)|The New Mutants]]'' and ''[[Dark Phoenix (film)|Dark Phoenix]]'', but was later pushed up to May 18, 2018.<ref>{{cite web|url= https://www.hollywoodreporter.com/heat-vision/deadpool-2-gambit-new-mutants-get-new-release-dates-1073560|title= 'X-Men' Shake-Up: 'Deadpool 2,' 'Gambit,' 'The New Mutants' Get New Dates (Exclusive)|work= THR|last= Parker|first= Ryan|coauthors= Kit, Borys|date= 2018-01-11|accessdate= 2018-01-11}}</ref>
+* On October 14th, 2017, it was announced that this film along with ''X-Men: Dark Phoenix'', had both wrapped filming.<ref>{{cite web|url= http://www.comingsoon.net/movies/news/895739-deadpool-2-and-x-men-dark-phoenix-have-both-wrapped-filming#/slide/1|title= Deadpool 2 and X-Men: Dark Phoenix Have Both Wrapped Filming|work= ComingSoon.net|date= 2017-10-14|accessdate= 2017-10-15}}</ref>
+| Trivia                  = * One of the creative differences why ''[[Deadpool (film)|Deadpool]]'' director [[wikipedia:Tim Miller (director)|Tim Miller]] left the movie was his idea to incorporate into the plot a deeper exploration of the love story between [[Vanessa Carlysle (Earth-41633)|Vanessa]] and [[Wade Wilson (Earth-41633)|Wade]], which included her transformation into the super-powered [[Copycat]]. In the last moments prior to exiting the project, Miller spoke to 20th Century Fox higher-ups and pleaded they kept that aspect of the movie even if they scrapped the rest.<ref name="Playlist">{{cite web|url=https://theplaylist.net/tim-miller-deadpool-2-fantastic-four-20191029/|title=Tim Miller Reveals His Plans For His Unmade ‘Deadpool 2’ Including A Battle Featuring ‘Fantastic Four’s’ The Thing|work=The Playlist|first=Griffin|last=Schiller|date=29 October 2019|accessdate=31 October 2019}}</ref>
+** The relationship between Deadpool and [[Russell Collins (Earth-41633)|Russell]] being the heart of the movie was planned from the start, even before Miller left production.<ref name="Playlist"/>
+** Miller intended for Cable to be more comic accurate and be 6'7" tall.<ref name="Playlist"/>
+** Miller had also gotten permission to make use of [[Fantastic Four]] character [[The Thing]] and have him fight the [[Cain Marko (Earth-41633)|Juggernaut]] in the film's climactic action set-piece.<ref name="Playlist"/>
+* The film's earliest drafts set it roughly five years after the first film, and featured Deadpool as a father. According to Ryan Reynolds himself, "by page 1.5, it was totally untenable" and the idea was dropped.{{r|{{cite web|url=http://ew.com/movies/2018/05/07/deadpool-2-original-script/|title=Deadpool 2 original script had Deadpool as a dad|work=Entertainment Weekly|first=Tim|last=Stack|date=7 May 2018|accessdate=8 May 2018}}}}
+* Some drafts of this film had Wade and Vanessa breaking up, rather than her dying.<ref name="CBR interview">{{cite web|url=https://www.cbr.com/deadpool-2-spoilers-screenwriters-rhett-reese-paul-wernick-interview/|title=Deadpool 2 Writers Break Down the (Many) Big Surprises in the Film|work=CBR.com|first=Albert|last=Ching|date=18 May 2018|accessdate=19 May 2018}}</ref>
+* Deadpool was almost going to sport an updated costume with additional paneling on the arms, back, and legs. This redesign was dropped in favor of continuing with the costume from the first movie.{{r|{{cite web|url=https://www.cbr.com/deadpool-2-ryan-reynolds-unused-costume/|title=Ryan Reynolds Shares Pic of Unused Deadpool 2 Costume|work=CBR.com|first=John|last=Ridlehoover|date=13 July 2020|accessdate=15 July 2020}}}}
+* The X-Men's cameo was directed by ''[[Dark Phoenix (film)|Dark Phoenix]]'' director Simon Kinberg. The characters were filmed in that film's set in Montreal, and then they were inserted in ''Deadpool 2'' via green screen.{{r|{{cite web|url=http://comicbook.com/marvel/2018/05/18/deadpool-2-x-men-cameo-scene-professor-beast/|title=Simon Kinberg Directed That Hilarious 'Deadpool 2' Scene|work=ComicBook.com|first=Brandon|last=Davis|date=18 May 2018|accessdate=18 May 2018}}}}
+* Black Tom originally had a bigger role in an earlier script of this film. He lived until the end of the third act, and he became the devil on Firefist's shoulder, trying to get him to turn bad. His role was cut due to budget constraints.<ref name="CBR interview"/>
+* Brad Pitt's cameo as the Vanisher was worked on very late into the film's production. According to co-writer Rhett Reese, he agreed to do it "for scale and a cup of Starbucks — but Ryan's got to go get the Starbucks for me."<ref name="CBR interview"/>
+* The film's mid-credit scenes were shot as part of additional photography, and were not featured in test screenings.<ref name="CBR interview"/>
+* The film's mid-credit scenes of Deadpool travelling through time originally ended with Wade killing an infant Adolf Hitler. According to co-writer Rhett Reese, this idea was dropped due to the belief it was too harsh to have Deadpool kill a baby.{{r|{{cite web|url=https://www.cbr.com/deadpool-2-ending-kill-hitler-baby/|title=Deadpool 2 Nearly Ended with Wade Killing Baby Hitler|work=CBR.com|first=Stephen|last=Gerding|date=18 May 2018|accessdate=18 May 2018}}}} An altered version of this scene was included in the ''The Super Duper Cut'' home release of the film, with Deadpool instead calming him, changing his diaper and saying that he will be back with Cable as he loves killing kids.
+* A preliminary idea for the mid-credits scenes was to show more X-Force recruitment interviews, with one of the interviewees tentatively being [[wikipedia:Chris Evasn|Chris Evans]] reprising the role of the [[Jonathan Storm (Earth-121698)|Human Torch]] from the ''[[Fantastic Four (2005 film)|Fantastic Four]]'' and ''[[Fantastic Four: Rise of the Silver Surfer (film)|Fantastic Four: Rise of the Silver Surfer]]'' films.{{r|{{cite web|url=https://uproxx.com/movies/deadpool-2-writers-cut-scenes-rhett-reese-paul-wernick/|title=The ‘Deadpool 2’ Writers Tell Us About Cut Scenes Featuring Chris Evans And Baby Hitler|work=Uproxx|first=Mike|last=Ryan|date=16 May 2018|accessdate=18 May 2018}}}}
+* Originally, the planned film ''X-Force'' would've served as a direct follow-up to this film. And according to writers Rhett Reese and Paul Wernick, a direct sequel would've entered production as soon as that one had wrapped.{{r|{{cite web|url= https://screenrant.com/deadpool-3-writers-x-force-break/|title= X-Force Gives A Much-Needed Break For Writers To Figure Out Deadpool 3|work= Screen Rant|last= Morrison|first= Matt|date= May 17, 2018|accessdate= September 9, 2020}}}} After Disney's acquisition of 20th Century Fox in March 2019, said plans were scrapped, in favor of rebooting the franchise and integrating it into the [[Earth-199999|Marvel Cinematic Universe]].{{r|{{cite web|url=http://www.syfy.com/syfywire/disney-chief-looking-forward-to-x-men-ff-deadpool-in-mcu-future-of-avatar-and-star-wars|title=Disney Chief 'Looking Forward' to X-Men, FF, Deadpool in MCU, Future of Avatar and Star Wars|work=SYFY WIRE|first=Brian|last=Silliman|date=15 December 2017|accessdate=6 September 2020}}}}{{r|{{cite web|url=http://deadline.com/2017/12/disney-fox-deal-bob-iger-digital-future-hulu-and-2b-cost-savings-1202226884/|title=Disney-Fox Deal: Bob Iger Discusses Digital Future, James Murdoch, Hulu and $2B Cost Savings|last=White|first=Peter|coauthors=Hayes, Dade|work=Deadline|date=14 December 2017|accessdate=26 December 2017}}}}
+
+==Gallery==
+===Alternate Posters===
+<gallery>
+Deadpool 2 poster 001.jpg
+Deadpool 2 poster 002.jpg
+Deadpool 2 poster 003.jpg
+Deadpool 2 poster 004.jpg
+Deadpool 2 poster 005.jpg
+Deadpool 2 poster 006.jpg
+Deadpool 2 poster 007.jpg
+Deadpool 2 poster 008.jpg
+Deadpool 2 poster 009.jpg
+Deadpool 2 poster 010.jpg
+Deadpool 2 poster 012.jpg
+Deadpool 2 poster 013.jpg
+Deadpool 2 poster 014.jpg
+Deadpool 2 poster 015.jpg
+Deadpool 2 poster 016.jpg
+Deadpool 2 poster 017.jpg
+Deadpool 2 poster 019.jpg
+Deadpool 2 poster 020.jpg
+Deadpool 2 poster 021.jpg
+Deadpool 2 poster 022.jpg
+Deadpool 2 poster 023.jpg
+Deadpool 2 poster 024.jpg
+Deadpool 2 poster 025.jpg
+Deadpool 2 poster 026.jpg
+Deadpool 2 poster 027.jpg
+Deadpool 2 poster 028.jpg
+Once Upon a Deadpool poster 001.jpg
+Once Upon a Deadpool poster 002.jpg
+Once Upon a Deadpool poster 003.jpg
+</gallery>
+===Images===
+<gallery>
+Neena Thurman (Earth-41633) 001.jpg|Domino (Zazie Beetz)
+Neena Thurman (Earth-41633) 002.jpg|Domino (Zazie Beetz)
+Nathan Summers (Earth-41633) 001.png|Cable (Josh Brolin)
+Nathan Summers (Earth-41633) 002.jpg|Cable (Josh Brolin)
+Deadpool 2 poster 011.jpg
+</gallery>
+===Videos===
+====Trailers====
+<gallery widths="300" spacing="small" hideaddbutton="true">
+Deadpool, Meet Cable
+Deadpool 2 The Trailer
+Deadpool 2 The Final Trailer
+</gallery>
+====Teasers====
+<gallery widths="300" spacing="small" hideaddbutton="true">
+Deadpool's "Wet on Wet" Teaser
+Deadpool 2 Thanks You
+</gallery>
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[ru:Дэдпул 2]]

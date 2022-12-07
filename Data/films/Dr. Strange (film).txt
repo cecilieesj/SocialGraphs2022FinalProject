@@ -1,0 +1,72 @@
+{{Marvel Database:Film Template
+| Image                   = Dr. Strange (film).jpg
+| Aliases                 = 
+
+| Directors               = Philip DeGuere
+| Producers               = Alex Beaton; Philip DeGuere; Gregory Hoblit
+| ComicWriters            = [[Stan Lee]]; [[Steve Ditko]]
+| StoryWriters            = 
+| ScreenplayWriters       = Philip DeGuere
+| Musicians               = Paul Chihara
+| Cinematographers        = Enzo A. Martinelli
+| Editors                 = Christopher Nelson
+| Distributors            = MCA Home Video
+| Running Time            = 93 minutes
+| Rating                  = Not Rated
+| Budget                  = 
+| Release Date            = September 6, 1978
+
+| AM ID                   = dr-strange-v14595
+| IMDB ID                 = 0077469
+| Marvel Movies           = Dr. Strange (1978)
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[Stephen Strange (Earth-96173)|Dr. Stephen Strange]]}}
+'''Supporting Characters:'''
+* {{Only|[[Clea Lake (Earth-96173)|Clea Lake]]}}
+* {{Only|[[Wong (Earth-96173)|Wong]]}}
+'''Antagonists:'''
+* {{Only|[[Morgan Le Fay (Earth-96173)|Morgan Le Fay]]}}
+* {{Only|[[Nameless One (Earth-96173)|The Nameless One]]}}
+* {{Only|[[Balzaroth (Earth-96173)|Balzaroth]]}}
+* {{Only|[[Asmodeus (Demon) (Earth-96173)|Asmodeus]]}}
+'''Other Characters:'''
+* {{Only|[[Yao (Earth-96173)|The Ancient One]]}}
+* {{Only|[[Thomas Lindmer (Earth-96173)|Thomas Lindmer, Sorcerer Supreme]]}}
+* {{Only|[[Frank Taylor (Earth-96173)|Dr. Frank Taylor]]}}
+* {{Mentioned|[[Raggadorr (Earth-96173)|Raggadorr]]}}
+'''Races and Species:'''
+* {{Only|[[Humans (Homo sapiens)|Humans]]}}
+* {{Only|[[Demons]]}}
+'''Locations:'''
+* {{Only|[[Earth-96173]]}}
+** {{Only|[[Sanctum Sanctorum|Lindmer's Mansion]]}}
+** East Side Hospital {{Only}}
+** Clea's apartment {{Only}}
+** {{Only|[[Astral Plane#Earth-96173|Astral Plane]]}}
+*** {{Only|[[Dream Dimension#Earth-96173|Dimension of Dreams]]}}
+** {{Only|[[Dark Dimension#Earth-96173|Nameless One's dimension]]}}
+'''Vehicles:'''
+* Taxi {{Only}}
+
+| Plot                    = 
+
+| Cast                    = * Peter Hooten as [[Stephen Strange (Earth-96173)|Dr. Stephen Strange]]
+* Clyde Kusatsu as [[Wong (Earth-96173)|Wong]]
+* Jessica Walter as [[Morgan Le Fay (Earth-96173)|Morgan Le Fay]]
+* Eddie Benton as [[Clea Lake (Earth-96173)|Clea Lake]]
+* Philip Sterling as [[Frank Taylor (Earth-96173)|Dr. Frank Taylor]]
+* John Mills as [[Thomas Lindmer (Earth-96173)|Thomas Lindmer, Sorcerer Supreme]]
+* Michael Ansara as [[Yao (Earth-96173)|The Ancient One]] (voice)
+* Ted Cassidy as [[Balzaroth (Earth-96173)|Balzaroth]] (voice)
+
+| Notes                   = * Jessica Walter talked about the "Untold Story" of the movie in an interview with "Hollywood Reporter".<ref>{{cite web|url=http://www.hollywoodreporter.com/heat-vision/doctor-strange-untold-story-failed-1978-tv-movie-942728|title='Dr. Strange': The Untold Story of the 1978 TV Movie Everyone "Had Great Hopes For"|last=Couch|first=Aaron|work=Hollywood Reporter|date=01 November 2016|accessdate=07 November 2017}}</ref>
+| Trivia                  = * This doubled as a TV movie and a pilot for a Dr Strange TV show, although it was never picked up.
+| Links                   = * [[Marvel Films#Television Films|Marvel Films]]
+}}
+[[ru:Доктор Стрэндж (фильм, 1978)]]
+[[Category:Universal Pictures]]

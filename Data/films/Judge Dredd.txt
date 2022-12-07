@@ -1,0 +1,101 @@
+{{WarningAlert}}
+{{Infobox film
+| name           = Judge Dredd
+| image          = Judge Dredd promo poster.jpg
+| caption        = Theatrical release poster
+| director       = Danny Cannon
+| producer       = Charles Lippincott<br>Beau E. L. Marks
+| starring       = [[Sylvester Stallone]]<br>Armand Assante<br>[[Rob Schneider]]<br>[[Diane Lane]]
+| screenplay     = William Wisher, Jr.<br>Steven E. de Souza
+| story          = Michael De Luca<br>William Wisher, Jr.
+| music          = [[Alan Silvestri]]
+| cinematography = Adrian Biddle
+| editor         = Alex Mackie<br>Harry Keramidas
+| studio         = Cinergi Pictures<br>Edward R. Pressman Film
+| distributor    = [[Hollywood Pictures]] (US)<br>Pathé (UK)
+| release        = [[June 30]], [[1995]]
+| time           = 96 minutes
+| country        = United States
+| language       = English
+| budget         = $90 million
+| gross          = $113,493,481
+| imdb_id        = 0113492}}
+'''''Judge Dredd''''' is a [[1995]] American science fiction action film directed by Danny Cannon, and starring [[Sylvester Stallone]], [[Diane Lane]], [[Rob Schneider]], Armand Assante, and [[Max von Sydow]]. The film is based on the {{WikipediaLink|Judge Dredd|strip of the same name}} in the British comic ''2000 AD''. It was a critical and commercial disappointment.
+
+==Plot==
+In the 3rd millennium, much of Earth has become an uninhabitable wasteland. The majority of humanity resides in huge Mega-Cities, where the traditional justice system has been replaced by a corps of Judges whose role combines those of police officer, judge, jury, and executioner. The most dedicated "Street Judge" in Mega-City One is [[Judge Dredd|Joseph Dredd]] ([[Sylvester Stallone]]), who assists Judge Hershey ([[Diane Lane]]) in ending a block war. Herman Ferguson ([[Rob Schneider]]), a hacker recently released from prison, is caught in the firefight and hides inside a food dispensing robot, only to be arrested by Dredd and sentenced to five years' imprisonment for tampering with city property.
+
+Rico (Armand Assante), a former Judge turned psychopathic murderer, escapes from prison and reclaims his Judge's uniform and "Lawgiver" gun as well as a decommissioned combat robot. A news reporter (Mitch Ryan) critical of Dredd is soon murdered, and Dredd is the chief suspect. Hershey acts as Dredd's defense lawyer in a trial before a tribunal of Council Judges including Dredd's mentor Chief Judge Fargo ([[Max von Sydow]]) and Judge Griffin (Jürgen Prochnow). Dredd is found guilty based on DNA evidence: The Lawgiver encodes the DNA of the wielder onto each round fired, and the DNA from the murder weapon matches Dredd's. Fargo steps down as Chief Judge, asking as his last request that the Council spare Dredd's life. Dredd is sentenced to life imprisonment while Fargo embarks on his "long walk", a tradition in which a retiring Judge ventures into the "Cursed Earth" wasteland "to bring law to the lawless". Griffin, who freed Rico and had him frame Dredd for the murder, succeeds Fargo as Chief Judge and instructs Rico to sow chaos throughout the city.
+
+Dredd finds himself seated next to Herman Ferguson on a transport ship to the Aspen penal colony. While passing over the Cursed Earth the ship is shot down by the Angel Gang, a family of cannibalistic scavengers who capture Dredd and Herman. A squad of Judges tracks Dredd to the Angels' camp and a battle ensues. Fargo arrives just in time to save Dredd's life, but is mortally wounded by Mean Machine Angel (Chris Adamson). Before dying, Fargo reveals the secrets of Dredd's past: Dredd is the result of the Janus project, an experiment in genetic engineering intended to create the perfect Judge. DNA from the Council Judges was combined to create two clones, Dredd and Rico. Both were given artificial memories of childhood, and they became close friends. However, while Dredd became the ideal Judge that the Council hoped for, Rico's personality twisted and he instead became the perfect criminal. Dredd was forced to judge Rico for murdering civilians, but instead of being executed Rico was sent to Aspen by Griffin. Since he and Rico share the same DNA, Dredd deduces that Rico framed him for the reporter's murder. Fargo concludes that Griffin is trying to reactivate the Janus project, and begs Dredd to stop him.
+
+Back in Mega-City One, Rico creates panic by assassinating 108 Judges in two days. Griffin uses this to convince the Council Judges to unlock the Janus files, but when they refuse to reactivate the program he has Rico kill them. Arriving immediately after this, Dredd and Herman are accused by Griffin of murdering the Council. They evade the Judges and seek help from Hershey, who has been investigating Dredd's past. Dredd tells her about the Janus project, and the trio head to the Janus laboratory at the Statue of Liberty.
+
+Rico betrays Griffin, having the robot kill him, and replaces the DNA for the Janus clones with his own. Herman uses his hacking skills to save Dredd and Hershey from the robot. Rico orders his clones activated prematurely, but they are incomplete and unable to stop Dredd. Dredd pursues Rico to the top of the statue, and after a final struggle sends Rico falling to his death. Central, the city's controlling supercomputer, has recorded the entire event and broadcasts the information, clearing Dredd's name. The remaining Judges ask him to become the new Chief Judge, but Dredd passes the title over to Hershey, preferring to remain a Street Judge.
+
+==Cast==
+* [[Sylvester Stallone]] as Judge Dredd
+* Armand Assante as Rico Dredd
+* [[Rob Schneider]] as Fergee
+* [[Diane Lane]] as Judge Hershey
+* Jürgen Prochnow as Judge Griffin
+* [[Max von Sydow]] as Chief Judge Fargo
+* Joanna Miles as Judge McGruder
+* Joan Chen as Dr. Ilsa Hayden
+* Balthazar Getty as Nathan Olmeyer
+* Maurice Roëves as Miller
+* Ian Dury as Geiger
+* Christopher Adamson as Mean Machine Angel
+* Ewen Bremner as Junior Angel
+* Peter Marinker as Judge Esposito
+* Angus MacInnes as Judge Silver
+* [[James Earl Jones]] as Narrator (voice)
+* Scott Wilson as Pa Angel
+
+==Production==
+The costumes used in the film were designed by Gianni Versace.
+
+Film composer David Arnold was originally set to score the film, having collaborated with director Danny Cannon on his previous film ''The Young Americans''. Eventually, Arnold was replaced by film composing veteran Jerry Goldsmith, but as post-production dates fell further and further behind, Goldsmith was forced to drop out of the project as well, due to prior commitments to score other films (''First Knight'' and ''Congo''). Prior to leaving the project, Goldsmith composed and recorded a short piece of music that would eventually be used for the film's trailers and advertising campaigns. In the end, [[Alan Silvestri]] was selected as the new composer and would go on to score the final film. The end credits song for the film, "Dredd Song", was written and performed by the English alternative rock band The Cure. The song appears on disc three of their 2004 rarities box set ''Join the Dots: B-Sides & Rarities 1978–2001 (The Fiction Years)'' as well as on the film's soundtrack album. The song "Judge Yr'self" by the Manic Street Preachers was originally going to be on the soundtrack. Their guitarist Richey Edwards disappeared in early 1995, and since the song was the last written with him in the band, it never made it to the final soundtrack listing. The song was not released until 2003, when the band released ''Lipstick Traces (A Secret History of Manic Street Preachers)''.
+
+==Reception==
+The film received negative reviews upon its release. 18% of reviewers on review aggregator website [[Wikipedia:Rotten Tomatoes|Rotten Tomatoes]] liked the film, with an average rating of 3.7/10; the critical consensus stating that "''Judge Dredd'' wants to be both a legitimate violent action flick and a parody of one, but director Danny Cannon fails to find the necessary balance to make it work." The film was considered to be a flop in the United States as it grossed only $34.7 million domestically. However it did a bit better overseas with over $78.8 million around the world to a total of $113.5 million worldwide. ''Judge Dredd'' earned a Golden Raspberry Award nomination for Sylvester Stallone as Worst Actor.
+
+===Stallone's view of the film===
+Thirteen years after the release of ''Judge Dredd'', Sylvester Stallone discussed his feelings about the movie in an issue of ''Uncut'' magazine in 2008:
+
+<blockquote>I loved that property when I read it, because it took a genre that I love, what you could term the 'action morality film' and made it a bit more sophisticated. It had political overtones. It showed how if we don't curb the way we run our judicial system, the police may end up running our lives. It dealt with archaic governments; it dealt with cloning and all kinds of things that could happen in the future. It was also bigger than any film I've done in its physical stature and the way it was designed. All the people were dwarfed by the system and the architecture; it shows how insignificant human beings could be in the future. There's a lot of action in the movie and some great acting, too. It just wasn't balls to the wall. But I do look back on ''Judge Dredd'' as a real missed opportunity. It seemed that lots of fans had a problem with Dredd removing his helmet, because he never does in the comic books. But for me it is more about wasting such great potential there was in that idea; just think of all the opportunities there were to do interesting stuff with the Cursed Earth scenes. It didn't live up to what it could have been. It probably should have been much more comic, really humorous, and fun. What I learned out of that experience was that we shouldn't have tried to make it ''Hamlet''; it's more ''Hamlet and Eggs''...</blockquote>
+
+===Wagner's view of the film===
+John Wagner, the creator of the comic character on which the film was based, said when interviewed by ''Empire'' in 2012: "the story had nothing to do with Judge Dredd, and Judge Dredd wasn’t really Judge Dredd."
+
+==Novelization and graphic novel==
+Two novels and a graphic novel were based on the movie:
+*''Judge Dredd'' by Neal Barrett, Jr. (June 1995, 250 pages, St Martins, ISBN 0-312-95628-2)
+*''Judge Dredd: The Junior Novelisation'' by Graham Marks (May 1995, 142 pages, Boxtree, ISBN 0-7522-0671-0)
+*''Judge Dredd: Official Movie Adaptation'' by Andrew Helfer and Carlos Ezquerra (June 1995, 64 pages, DC Comics, ISBN 1-56389-245-6)
+
+==References==
+
+===Further reading===
+* ''The Making of Judge Dredd'' (by Jane Killick, David Chute, and Charles M. Lippincott, 192 pages, Hyperion Books, 1995, ISBN 0-7868-8106-2)
+* ''Knowing Audiences: "Judge Dredd" - Its Friends, Fan and Foes'' (by Martin Barker and Kate Brooks, 256 pages, University of Luton Press, 1998, ISBN 1-86020-549-6)
+* ''The Art of Judge Dredd the Movie'' (by David Chute, 160 pages, Boxtree, 1995, ISBN 0-7522-0666-4)
+
+==External links==
+* [http://www.2000ad.org/?zone=prog&page=films 2000 AD film adaptations page]
+* [http://www.rottentomatoes.com/m/judge_dredd/ ''Judge Dredd''] at [[Wikipedia:Rotten Tomatoes|Rotten Tomatoes]]
+* [http://www.allrovi.com/movies/movie/v134919 ''Judge Dredd''] at [http://en.wikipedia.org/wiki/AllRovi AllRovi]
+* [http://tcmdb.com/title/title.jsp?stid=18811 ''Judge Dredd''] at [http://en.wikipedia.org/wiki/Turner_Classic_Movies TCM Movie Database]
+* [http://www.boxofficemojo.com/movies/?id=judgedredd.htm ''Judge Dredd''] at [http://en.wikipedia.org/wiki/Box_Office_Mojo Box Office Mojo]
+
+{{Wikipedia|Judge Dredd (film)|Judge Dredd}}
+{{DISPLAYTITLE:''Judge Dredd''}}
+[[Category:Articles with Wikipedia content]]
+[[Category:1995 films]]
+[[Category:Hollywood Pictures films]]
+[[Category:Live-action films]]
+[[Category:Films]]
+[[Category:Films based on comics]]
+[[Category:R-rated films]]
+[[Category:Articles containing mature content]]
+[[Category:Films Distributed by Disney in certain countries]]

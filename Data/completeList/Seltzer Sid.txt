@@ -1,0 +1,20 @@
+{{Infobox character
+|image = Sid Seltzer.png
+|name = Sid Seltzer
+|games = ''[[Toontown Online]]''
+|occupation = Shopkeeper
+|alignment = Neutral}}
+'''Seltzer Sid '''is a Shopkeeper and a [http://toontown.wikia.com/wiki/Dog Dog] [http://toontown.wikia.com/wiki/NPC NPC] of [http://toontown.wikia.com/wiki/Seltzer_Bottles_(And_Cans!) Seltzer Bottles (And Cans!)] in Toontown Central who is a bluegreen short normal weight [http://toontown.wikia.com/wiki/Dog dog] with a purple shirt.
+
+==Toontasks==
+﻿Only Just For Fun! or Gag Training Tasks comes from the Shopkeeper.
+
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Dogs]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Animated characters]]
+[[Category:Neutral characters]]
+{{Toontown Online}}

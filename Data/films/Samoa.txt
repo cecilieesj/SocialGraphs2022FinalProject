@@ -1,0 +1,25 @@
+{{Infobox film
+|name        = Samoa
+|director    = [[Ben Sharpsteen]]
+|producer    = [[Walt Disney]]
+|writer      = 
+|distributor = Buena Vista Film Distribution Company <small>(U.S.A.)</small><br>RKO <small>(Japan)</small>
+|studio = [[Walt Disney Productions]]
+|language    = English
+|image = Samoa.jpg
+|release = [[December 25]], [[1956]] <small>(U.S.A.)</small><br>[[April 25]], [[1959]] <small>(Japan)</small>|music = 
+|time = 32 minutes <small>(U.S.A.)</small><br>26 minutes <small>(Denmark)</small>}}
+'''''Samoa''''' is a documentary film, that originally released to theaters by [[Buena Vista Distribution]] on [[December 25]], [[1956]]. The film features a tour at the life in the country of Samoa. It is narrated by [[Winston Hibler]].
+
+==Gallery==
+<gallery>
+Tonka jpn poster.png|In [[Japan]], ''Samoa'' was paired with ''[[Tonka]]'' (circa 1959)
+</gallery>
+
+{{FilmStub}}
+[[Category:1956 shorts]]
+[[Category:Live-action shorts]]
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Documentaries]]
+[[Category:People & Places]]

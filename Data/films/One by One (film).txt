@@ -1,0 +1,54 @@
+{{Infobox film
+|name = One by One
+|image = File:Onebyone.jpg
+|director = Pixote Hunt
+|writer = Pixote Hunt
+|producer = [[Don Hahn]]
+|musician = [[Lebo M]]
+|studio = [[Walt Disney Animation Studios]]
+|distributor = [[Walt Disney Pictures]]
+|release = [[August 31]], [[2004]] 
+|movie_language = English
+|time = 4 minutes
+|imdb_id = 0431962}}
+'''''One by One''''' is a traditionally animated short film directed by Pixote Hunt and released by [[Walt Disney Pictures]] on [[August 31]], [[2004]], as an extra feature on the DVD release of ''[[The Lion King II: Simba's Pride|The Lion King 2: Simba's Pride]]'' Special Edition included on Disc 2 of said film.<ref name=awn1>{{cite news|last=Shaw|first=Scott|title=Disney's One by One|url=http://www.awn.com/articles/reviews/disneys-ione-onei|accessdate=November 13, 2011|newspaper=Animation World Network|date=September 3, 2004}}</ref> The short intended to be one of the segments for the proposed but never completed ''Fantasia 2006''.<ref>{{cite news|last=Ziebarth|first=Christian|title=Roy Disney Presents At The Newport Film Festival 2008|url=http://animatedviews.com/2008/disney-event-at-newport-festival-2008/|accessdate=November 13, 2011|newspaper=Animated Views|date=May 5, 2008}}</ref>
+
+==Synopsis==
+The film shows a story of children from a South African town flying kites down a hill after one boy is inspired by a colorful feather floating from the sky. The children find materials from places all over the town and produce equally colorful kites. After a walk, they fly the kites and release them into the sky for the ending of the film.
+
+==Production==
+The short film takes its title and inspiration from [[One by One]], a "freedom song" written and performed by [[Lebo M]] for ''[[The Lion King]]''. Although the song was cut from the final film, it did make it into the [[Disney Theatrical Group|Disney Theatrical]] [[The Lion King (musical)#Songs|adaptation]], before being used on this short.<ref name=awn1 />
+
+==Credits==
+*Directed by Pixote Hunt
+*Co-Directed by David A. Bossert
+*Executive Producer: [[Roy Edward Disney]]
+*Producer: [[Don Hahn]]
+*Co-Producer: Baker Bloodworth
+*Associate Producer: David Steinberg
+*Art Direction: Mike Humphries
+*Music Composed, Arranged and Produced by [[Lebo M]]
+*Lead Vocal Performance by [[Lebo M]]
+*Additional Solo Vocals by Kheswa, Children's Choir, South Africa Adult Choirs
+
+==Gallery==
+<gallery position="center">
+NewPicture6.jpg
+One by 2.jpg
+One by 1.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+==See also==
+*[[The Lion King II: Simba's Pride|The Lion King 2: Simba's Pride]]:Special Edition 2-Disc DVD
+
+{{Wikipedia}}
+{{Fantasia}}
+{{The Lion King}}
+{{DISPLAYTITLE:''One by One''}}
+[[Category:The Lion King]]
+[[Category:Fantasia segments]]
+[[Category:2004 shorts]]
+[[Category:Featured shorts]]

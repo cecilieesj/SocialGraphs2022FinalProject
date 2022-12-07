@@ -1,0 +1,30 @@
+{{Infobox character
+|image = Moe Zart.jpg
+|name = Moe Zart
+|games = ''[[Toontown Online]]''
+|occupation = Shopkeeper
+|alignment = Neutral
+|inspiration = [[Minnie Mouse]]}}'''Moe Zart''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC [http://toontown.wikia.com/wiki/Dog Dog] and a shopkeeper Toon who resides in [http://toontown.wikia.com/index.php?title=More_Scores_(Sporting_Goods)&action=edit&redlink=1 More Scores (Sporting Goods)], on [http://toontown.wikia.com/wiki/Alto_Avenue Alto Avenue], [http://toontown.wikia.com/wiki/Minnie%27s_Melodyland Minnie's Melodyland].
+
+==SOS Toon==
+﻿'''Moe Zart''' is a [http://toontown.wikia.com/wiki/VP VP] [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon] reward that you can receive by defeating the VP. This SOS is a rare, five-star SOS. It is [http://toontown.wikia.com/wiki/Sound_Gags Sound] and will do 80 damage to all [http://toontown.wikia.com/wiki/Cogs cogs] that you are battling at the time. (Not including boss (aka VP, [http://toontown.wikia.com/wiki/CFO CFO], [http://toontown.wikia.com/wiki/CJ CJ], or [http://toontown.wikia.com/wiki/CEO CEO]) cogs.) His Fog Horn has a damage of 80, while the regular fog horn only has 50 damage. His gag is the most powerful sound gag
+
+==Animation (as an S.O.S)==
+1. ﻿A [http://toontown.wikia.com/wiki/Dog dog] [http://toontown.wikia.com/wiki/Toon toon] will pop up out of the ground using a "black hole teleport" and say "Hi (Your toon's name)! Glad to Help!
+
+2. He will pull out a [http://toontown.wikia.com/wiki/Fog_Horn Fog Horn], doing 80 damage to all cogs you are fighting. If more than just the SOS toon is using a sound gag, he will use sound with you.
+
+3. He will then say "See you later!" and jump back into his teleport hole.
+
+==Trivia==
+*His name is a pun of the famous musician Mozart.
+
+
+
+{{CharacterStub}}
+{{Toontown Online}}
+[[Category:Toontown characters]]
+[[Category:Dogs]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Characters in video games]]

@@ -1,0 +1,26 @@
+{{Infobox character
+|image = Professor Pete.jpg
+|name = Professor Pete
+|games = ''[[Toontown Online]]''
+|alignment = Good
+|inspiration = Pete}}'''Professor Pete''' is a [http://toontown.wikia.com/wiki/Cat Cat] [http://toontown.wikia.com/wiki/NPC NPC] in [http://toontown.wikia.com/wiki/Toontown Toontown]. He is located in the [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central] in the [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central] [http://toontown.wikia.com/wiki/Playground Playground].
+==Toontasks==
+*Visit Professor Pete ''(Toontown Schoolhouse, Toontown Central Playground)''
+*Recover 5 Cog Gears from Level 2+ [http://toontown.wikia.com/wiki/Cogs Cogs] ''(Anywhere)''
+*Return to Professor Pete
+*Deliver a Gear Report to any [http://toontown.wikia.com/wiki/HQ_officer HQ Officer ]''([http://toontown.wikia.com/wiki/Toon_HQ Toon HQ], Anywhere)''
+=====Reward: 1+ Laff=====
+Also, upon reaching [http://toontown.wikia.com/wiki/Donald%27s_Dock Donald's Dock], toons will be given Delivery Toontasks by delivering a specific gag to him. These are short and simple toontasks for the easy-taskgoers.
+
+Reward: Gag Track Training Films ([http://toontown.wikia.com/wiki/Donald%27s_Dock Donald's Dock])
+
+As every shopkeeper does also gives out Just For Fun and Gag Training.
+
+==Trivia==
+*Pete's SOS is unique; it will restock Gags in all Gag Tracks that are Level 1-6
+
+{{CharacterStub}}
+{{DEFAULTSORT:Pete, Professor}}
+[[Category:Toontown characters]]
+[[Category:Cats]]
+{{Toontown Online}}

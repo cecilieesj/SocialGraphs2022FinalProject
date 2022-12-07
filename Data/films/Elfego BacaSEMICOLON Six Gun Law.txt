@@ -1,0 +1,36 @@
+{{Infobox film
+| name           = Elfego Baca: Six Gun Law
+| image          = File:1962-elfego2-1.jpg
+| image_size     = 
+| caption        = Original theatrical poster
+| director       = Christian Nyby
+| producer       = 
+| writer         = Maurice Tombragel
+| narrator       = 
+| starring       = 
+| music          = Rich Dehr<br>Franklyn Marks<br>Frank Miller
+| cinematography = Lucien Ballard
+| editing        = Edward Sampson
+| distributor    = [[Buena Vista Distribution]]
+| release       = December [[1962]] <small>(England)</small><br>[[May 20]], [[1966]] <small>(West Germany)</small>
+| time        = 78 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| preceded_by    = 
+| followed_by    = 
+}}'''''Elfego Baca: Six Gun Law''''' is a [[1962]] movie, edited from episodes of Disney's TV mini-series ''[[The Nine Lives of Elfego Baca]]''.
+
+==Synopsis==
+Elfego becomes a lawyer and defends, in his first case, a friend wrongly accused of theft. 
+
+==Gallery==
+<gallery>
+1962-elfego2-2.jpg
+1962-elfego2-3.jpg
+</gallery>
+[[Category:1962 films]]
+[[Category:Disney films]]
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Compilation films]]

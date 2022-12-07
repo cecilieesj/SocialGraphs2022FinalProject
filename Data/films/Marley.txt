@@ -1,0 +1,32 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Marley
+|director = [[Bill Condon]]<ref name="Announcement" />
+|producer = Din Jinks<br>Greg Yole<ref name="Announcement" />
+|writer = Bill Condon<ref name="Announcement" />
+|starring =
+|music = [[Stephen Schwartz]]<ref name="Announcement" />
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time =
+|language = English}}
+'''''Marley''''' is an upcoming Christmas musical film, produced by [[Walt Disney Pictures]]. The film will be written and directed by [[Bill Condon]], with Din Jinks and Greg Yole producing. A spin-off of Charles Dickens' ''A Christmas Carol'', it was announced in [[October 28]], [[2019]], througth no release date was announced.<ref name="Announcement">[https://thedisinsider.com/2019/10/28/beauty-and-the-beast-director-bill-condon-to-direct-musical-re-imagining-of-a-christmas-carol-for-disney/ ‘Beauty and the Beast’ Director Bill Condon To Direct Musical Re-Imagining of ‘A Christmas Carol’ For Disney]<nowiki></ref>
+
+==Plot==
+"''Marley ''will re-imagine the classic Christmas tale through the eyes of Ebenezer Scrooge’s deceased business partner Jacob Marley".<ref name="Announcement" />
+
+==Trivia==
+* The film marks the second time [[Bill Condon]] directed a film for Disney, after [[2017]]'s ''[[Beauty and the Beast (2017 film)|Beauty and the Beast]]''. It also marks his first time writing a film for Disney.
+* The film marks the first time [[Stephen Schwartz]] worked in a theatrical Disney movie without [[Alan Menken]].
+** The film is also the first time Schwartz worked on a Disney film since [[2007]]'s ''[[Enchanted]]''.
+* This is the fourth time Disney has adapted ''A Christmas Carol'', following [[1983]]'s ''[[Mickey's Christmas Carol]]'', [[1992]]'s ''[[The Muppet Christmas Carol]]'', and [[2009]]'s ''[[A Christmas Carol]]''.
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+[[Category:Christmas productions]]
+[[Category:A Christmas Carol]]

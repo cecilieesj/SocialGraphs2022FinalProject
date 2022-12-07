@@ -1,0 +1,46 @@
+{{Infobox film
+| name           = Dream On Silly Dreamer
+| image          = File:Dream On Silly Dreamer.jpg
+| caption        = Film poster
+| director       = Dan Lund
+| producer       = Tony West
+| writer         = Dan Lund
+| starring       = [[Andreas Deja]]<br>Barry Cook<br>Carmen Sanderson<br>[[Dorse A. Lanpher]]<br>Jacqueline Sanchez
+| narrator       = Richard Cook
+| music          = Mike Brassell<br>Kuno Schmid
+| editing        = Dan Lund
+| studio         = WestLund Productions
+| distributor    = WestLund Productions
+| release       = [[January 31]], [[2005]] <small>(Animex)</small><br>[[February 14]], [[2006]] <small>(DVD)</small>
+| time        = 40 minutes
+| country        = United States
+| language       = English
+| gross          = 
+}}'''''Dream On Silly Dreamer''''' is a [[2005]] American documentary film directed by Dan Lund and produced by Tony West. Lund and West were both special effects animators at [[Walt Disney Animation Studios|Walt Disney Feature Animation]], and the film chronicles the rise and fall of traditional animation at [[The Walt Disney Company]] from 1980 to 2005.
+
+==About the film==
+The film uses interviews from Disney animation personnel including lead animator [[Andreas Deja]], animator/director Barry Cook, and longtime ink-and-paint artist Carmen Sanderson, among others. Most of these interviews were done following the layoff of most of Disney's traditional animation artists in March 2002. The Disney corporate executives had decided to produce only computer-animated films following the underperformance of traditionally animated films such as ''[[The Emperor's New Groove]]'' and ''[[Atlantis: The Lost Empire]]'' in the face of the successful output of [[Pixar Animation Studios]].
+
+''Dream On Silly Dreamer'' focuses on the effects of both the Disney studio's successes and failures on the Feature Animation employees, particularly their feelings on the competition from former Disney executive [[Jeffrey Katzenberg]]'s establishment of an animation unit at DreamWorks Pictures and their feelings on the layoffs. The film uses animated bookends and interstituals, done in a format reminiscent of Disney's [[Winnie the Pooh]] short films, of a young "dreamer" who achieves his dream to be a Disney animator with the unexpected real-life results.
+
+==Release and reception==
+Produced and released independently by Lund and West's WestLund Productions, ''Dream On, Silly Dreamer'' debuted at the Animex International Festival of Animation in the United Kingdom in January 2005, and played at other film festivals throughout the year.
+WestLund released the film on DVD the following year, along with extended versions of several of the film's scenes and footage of its premieres at several film festivals. A review by Steve Daily of ''Entertainment Weekly'' gave the film a B+ grade, likening it to "a real-life version of ''The Office.''
+
+The film was produced and released in the midst of a public corporate battle between The Walt Disney Company's CEO [[Michael Eisner]] and [[Roy E. Disney]], formerly a Disney board member and the chairman of Feature Animation. Roy Disney, who was calling for Eisner's resignation in the face of a number of issues with his management, including laying off the traditional animation unit, praised ''Dream on Silly Dreamer'', saying in a statement that "I have to say how very human a face it puts on an institutional tragedy."
+
+Following Eisner's resignation in 2005, Roy E. Disney returned to the Disney board, and the studio reinstated a traditional feature animation unit following the merger of Walt Disney Animation Studios with Pixar Animation Studios.
+
+==See also==
+*''[[Waking Sleeping Beauty]]'', a 2010 documentary by Disney producer [[Don Hahn]] and former executive Peter Schneider on the history of Disney animation between 1980 and 1994.
+
+==External links==
+*[http://www.dreamonsillydreamer.com/ Official website]
+
+{{Wikipedia}}
+[[Category:Articles with Wikipedia content]]
+[[Category:2005 films]]
+[[Category:Documentaries]]
+[[Category:Disney films]]
+[[Category:Non-Disney]]
+[[Category:History]]

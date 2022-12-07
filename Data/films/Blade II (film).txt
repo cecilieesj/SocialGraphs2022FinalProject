@@ -1,0 +1,140 @@
+{{Marvel Database:Film Template
+| Image                   = Blade II (film).jpg
+| Aliases                 = 
+
+| Directors               = [[Guillermo del Toro]]
+| Producers               = Peter Frankfurt; Wesley Snipes; Patrick Palmer
+| ComicWriters            = [[Marv Wolfman]]; [[Gene Colan]]
+| StoryWriters            = 
+| ScreenplayWriters       = David S. Goyer
+| Musicians               = Marco Beltrami
+| Cinematographers        = Gabriel Beristain
+| Editors                 = Peter Amundson
+| Distributors            = New Line Cinema, Warner Bros.
+| ProductionCompanies     = Marvel Enterprises; Amen Ra Films; Imaginary Forces
+| Running Time            = 117 minutes
+| Rating                  = '''MPAA:''' Rated R for strong pervasive violence, language, some drug use and sexual content
+| Budget                  = $55 million
+| Release Date            = March 22, 2002
+
+| AM ID                   = blade-ii-v259833
+| IMDB ID                 = 0187738
+| Marvel Movies           = Blade II
+
+| Previous Film           = Blade (film)
+| Next Film               = Blade: Trinity (film)
+
+| Tagline                 = One Man Still Has The Edge.
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{a|[[Eric Brooks (Earth-26320)|Blade (Eric Brooks)]]}}
+'''Supporting Characters:'''
+* {{a|[[Abraham Whistler (Earth-26320)|Abraham Whistler]]}} {{g|Revealed to be alive}}
+* {{Only|[[Bloodpack (Earth-26320)|The Bloodpack]]}} {{Disbands}}
+** {{Only Dies|[[Nyssa Damaskinos (Earth-26320)|Nyssa Damaskinos]]}}
+** {{Only Dies|[[Asad (Earth-26320)|Asad]]}}
+** {{Only Dies|[[Snowman (Earth-26320)|Snowman]]}}
+** {{Only Dies|[[Verlaine (Earth-26320)|Verlaine]]}}
+** {{Only Dies|[[Priest (Earth-26320)|Priest]]}}
+** {{Only Dies|[[Lighthammer (Earth-26320)|Lighthammer]]}}
+'''Antagonists:'''
+* [[Reapers (Race)|Reapers]] {{Only}}
+** {{Only Dies|[[Jared Nomak (Earth-26320)|Jared Nomak]]}}
+* {{Only|[[House of Damaskinos (Earth-26320)|House of Damaskinos]]}}
+** {{Only Dies|[[Eli Damaskinos (Earth-26320)|Eli Damaskinos]]}}
+** {{Only|[[Bloodpack (Earth-26320)|The Bloodpack]]}} {{Disbands}}
+*** {{Only Dies|[[Dieter Reinhardt (Earth-26320)|Dieter Reinhardt]]}}
+*** {{Only Dies|[[Chupa (Earth-26320)|Chupa]]}}
+* {{a|[[Familiars (Earth-26320)|Familiars]]}}
+** {{Only Dies|[[Carter Kounen (Earth-26320)|Carter Kounen]]}}
+** {{Only Dies|[[Joshua Fromeyer (Earth-26320)|Scud (Joshua Fromeyer)]]}}
+'''Other Characters:'''
+* {{Only Dies|[[Rush (Earth-26320)|Rush]]}}
+* {{Only Dies|[[Jigsaw (Earth-26320)|Jigsaw]]}}
+* {{Only Dies|[[Golem  (Earth-26320)|Golem]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Vampires]]}}
+* {{a|[[Human-Vampire Hybrids]]}}
+* {{a|[[Reapers (Race)|Reapers]]}}
+'''Locations:'''
+* {{a|[[Earth-26320]]}}
+** {{a|[[Earth]]}}
+*** {{Only|[[Czech Republic]]}}
+**** {{Only|[[Prague]]}}
+***** {{Only|[[House of Pain]]}}
+***** Damaskinos Facility {{Only}}
+***** Blade's Hideout {{Only}}
+*** {{Mentioned|[[Romania]]}}
+*** {{Mentioned|[[Moscow]]}}
+'''Items:'''
+* {{a|[[Blade's Sword]]}}
+'''Vehicles:'''
+* [[wikipedia:Dodge Charger|1968 Dodge Charger]]
+* Scud's van {{Only}}
+
+| Plot                    = Two years have passed since the ending of the first film, and Blade has been keeping himself busy in the hunt for Whistler. He has been sweeping across Russia and eastern Europe searching for his old friend and mentor, enlisting the aid of a young man named Scud to design him a new line of gadgetry and weaponry. In the first scene of the film, Blade fights his way through a large gang of vampires, leaving one of their numbers alive yet telling him he will be back for him. Finding Whistler locked in a tank of blood by a cruel gang of vampires who were keeping the old man alive for purposes of torture. Blade rescues him and brings him to Prague.
+
+Meanwhile, a crisis has arisen in the vampire community. What seems to be a more developed strain of vampirism (dubbed the "''Reaper Strain''") is sweeping through their ranks, giving its carriers fearsome new characteristics. The original carrier of the strain is identified as [[Jared Nomak (Earth-26320)|Jared Nomak]], a one-time vampire who has become something deadlier. Far stronger than common vampires, the [[Reapers (Earth-26320)|reapers]] have laterally-opening mandible jaws, leech-like suckers, and hearts encased in a thick layer of bone, making them highly resistant to harm barring sunlight. In order to combat the virus, the vampire overlord [[Eli Damaskinos (Earth-26320)|Eli Damaskinos]] sends two members of his commando elite,  Asad and Nyssa (who is Damaskinos' daughter), to find and strike an uneasy treaty with Blade. Whilst Blade may hate vampires, the reapers are far more dangerous and the survival of the mortal enemies depends on their cooperation.
+
+[[File:Bloodpack (Earth-26320) from Blade II 0002.jpg|left|thumb|''Lighthammer and Verlaine of the Bloodpack'']]
+To this end, Blade teams up with the [[Bloodpack (Earth-26320)|The Bloodpack]], a group of vampire warriors and assassins who were originally assembled to kill Blade. In order to obtain some measure of control over the group, Blade singles out Reinhardt (played by Ron Perlman), one of the group's more dominant members, and embeds a remotely-activated explosive device in the back of his head. Setting their mutual hatred aside, Blade leads the Bloodpack in the fight against the reapers and the investigation into their origins. During this time, Blade forms something of an intimate relationship with Nyssa, the daughter of Damaskinos and member of the Bloodpack.
+
+After a climactic battle against numerous reapers in their hive in the sewers, Blade is apprehended by Damaskinos' forces, along with Whistler and Scud. As it turns out, the Reaper Strain is not a virus at all, but rather a genetic experiment gone wrong. In his efforts to create a day-walking vampire race, Damaskinos had numerous experiments performed on Nomak, who is, in fact, his estranged son. He remarks that Nomak was the first carrier of the strain but ultimately flawed, seeing as he was vulnerable to daylight, as were all the other carriers whom he'd infected. Damaskinos then reveals another horrible truth—he has been creating many more reapers, all of them incubated in the form of a fetus. All they require now is Blade's biological make-up, and in order to extract this, Damaskinos plans to have Blade killed and dissected.
+
+During his captivity, Blade attempts to activate the pre-placed explosive in Reinhardt's skull, at which point Scud reveals the bomb (which he himself had crafted) was never designed to detonate. Scud himself is, in fact, one of Damaskinos' human servants (i.e. a ''familiar'') and planned to side with the vampires rather than fighting against them. However, Blade reveals that he has always known of Scud's duplicity. Activating a second switch on his remote, Blade kills the unfortunate Scud, who unluckily happened to be holding the bomb at the time.
+
+With the surprise death of Scud in their midst, Damaskinos' security force moves in and pacifies Blade. Blade and Whistler are then hauled away, Blade to be drained of his blood and Whistler to be further tormented by Reinhardt. Whistler soon escapes his imprisonment, however, and starts crawling through underfloor service ducts searching for Blade. He finds his ally just as Kounen is interrupted by the sound of alarm klaxons heralding the intrusion of Nomak. Whistler shoots him dead and proceeds to free Blade. Struggling to support the critically injured Blade, Whistler doesn't get far before running into Reinhardt. Blade manages to drop into a reservoir of blood and uses it to restore himself back to health. He then fights his way through Reinhardt and others of Damaskinos' henchmen, before heading towards the lead vampire himself.
+
+[[File:Eric Brooks (Earth-26320) vs. Jared Nomak (Earth-26320) from Blade II 0001.jpg|right|thumb|''Blade vs. Nomak'']]
+Meanwhile, a vengeful Nomak rampages through Damaskinos' stronghold, seeking revenge on the father who mutilated him and turned him into the first reaper. Just before he can escape, Damaskinos is betrayed by Nyssa (who became disillusioned with her father's extreme methods) and killed by Nomak. In order to "complete the circle", Nomak also bites Nyssa and then makes to leave, whereupon he is confronted by Blade. After a very physical fight, Blade finds the weak spot in Nomak's physical defenses and jams his sword beneath Nomak's arm, bypassing the bone shield of his heart. Nomak finds some comfort in his imminent death and thrusts the broken sword deeper in, penetrating his heart and ending his own life. With Nomak dead, Blade then carries a weak, dying Nyssa outside for the sunrise, where she disintegrates in his arms.
+
+In the film's somewhat comical final scene, the vampire Rush left to live in the opening scene is in London, preparing to make use of a peep show booth. However, as soon as the curtains open, he is shocked to find Blade on the other side of the glass, who casually remarks "You didn't think I'd forget about you, did you?" and rams his sword into Rush's skull.
+
+| Cast                    = * [[w:c:Marvel-movies:Wesley Snipes|Wesley Snipes]] as [[Eric Brooks (Earth-26320)|Blade]]
+* [[w:c:Marvel-movies:Kris Kristofferson|Kris Kristofferson]] as [[Abraham Whistler (Earth-26320)|Abraham Whistler]]
+* [[w:c:Marvel-movies:Ron Perlman|Ron Perlman]] as [[Dieter Reinhardt (Earth-26320)|Reinhardt]]
+* [[w:c:Marvel-movies:Leonor Varela|Leonor Varela]] as [[Nyssa Damaskinos (Earth-26320)|Nyssa Damaskinos]]
+* [[w:c:Marvel-movies:Norman Reedus|Norman Reedus]] as [[Joshua Fromeyer (Earth-26320)|Scud]]
+* [[w:c:Marvel-movies:Thomas Kretschmann|Thomas Kretschmann]] as [[Eli Damaskinos (Earth-26320)|Eli Damaskinos]]
+* [[w:c:Marvel-movies:Karel Roden|Karel Roden]] as [[Carter Kounen (Earth-26320)|Carter Kounen]]
+* [[w:c:Marvel-movies:Luke Goss|Luke Goss]] as [[Jared Nomak (Earth-26320)|Jared Nomak]]
+* [[w:c:Marvel-movies:Matthew Schulze|Matthew Schulze]] as [[Chupa (Earth-26320)|Chupa]]
+* [[w:c:Marvel-movies:Danny John-Jules|Danny John-Jules]] as [[Asad (Earth-26320)|Asad]]
+* [[w:c:Marvel-movies:Donnie Yen|Donnie Yen]] as [[Snowman (Earth-26320)|Snowman]]
+* [[w:c:Marvel-movies:Marit Velle Kile|Marit Velle Kile]] as [[Verlaine (Earth-26320)|Verlaine]]
+* [[w:c:Marvel-movies:Tony Curran|Tony Curran]] as [[Priest (Earth-26320)|Priest]]
+* [[w:c:Marvel-movies:Daz Crawford|Daz Crawford]] as [[Lighthammer (Earth-26320)|Lighthammer]]
+* [[w:c:Marvel-movies:Santiago Segura|Santiago Segura]] as [[Rush (Earth-26320)|Rush]]
+* [[w:c:Marvel-movies:Xuyen Tu Valdivia|Xuyen Tu Valdivia]] as [[Jigsaw (Earth-26320)|Jigsaw]]
+* [[w:c:Marvel-movies:Marek Vasut|Marek Vasut]] as Golem
+
+| Notes                   = * '''''Blade II''''' is a 2002 vampire action movie starring [[w:c:Marvel-movies:Wesley Snipes|Wesley Snipes]] and [[w:c:Marvel-movies:Kris Kristofferson|Kris Kristofferson]]. It was directed by [[w:c:Marvel-movies:Guillermo del Toro|Guillermo del Toro]].
+
+{{YouTube|'''Blade II Trailer'''|[[File:Blade 2 Official Trailer 1 - (2002) HD|400px]]|406
+}}
+| Trivia                  = * Blade's quote "Keep your friends close, keep your enemies closer" is from Sun Tzu's ''The Art of War''.
+* Originally, Blade & Nyssa were to have a sex scene, both Wesley Snipes & David Goyer state this on the DVD's commentary.
+* ''Blade: Trinity's'' opening chase sequence was originally planned for ''Blade II'', but was scrapped because of budget concerns.
+* Controversy arose when Drake in ''Blade: Trinity'' was featured to have a bifurcated jaw, just like the reapers, thus leading to the belief that Drake was "part vampire, part reaper". Though it may be the case that the reapers simply had something in common with Drake, and were the result of a particular dormant vampire gene becoming active.
+* In the film, Scud's t-shirt bears the logo of the [[w:c:hellboy:Bureau for Paranormal Research and Defense|B.P.R.D.]], the fictional organization from the Hellboy comic book series and film. Guillermo del Toro directed the film adaptation of Hellboy, with Ron Perlman (who plays Reinhardt in Blade II) as the title character. Also, Mike Mignola (the artist, writer and creator of the Hellboy comics) also worked on some of the conceptual art of Blade II. Karel Roden, the Czech actor who played Rasputin in Hellboy, is one of the villain's henchmen in this film, and Luke Goss (Nomak) portrayed the primary antagonist of Hellboy's sequel.
+* Spawned a video game, that was released on XBOX and Playstation 2.
+* Originally, the villain of the film was rumored to have been Morbius the Living Vampire, one of the characters frequently featured in the [[Spider-Man]] comics, both as a friend (sometimes) and as a foe, but Marvel flat out told Goyer that he couldn't use the character. <ref>From interview with David Goyer, [http://www.revolutionsf.com/article.php?id=1082David "Goyer: Stripped to the Bone"]</ref>
+
+'''Taglines:'''
+* ''Know The Mark.''
+* ''One man is still the cutting edge.''
+* ''Last time he fought against his sworn enemies....This time he will fight with them.''
+* ''Faster. Sharper. Deadlier.''
+* ''When Evil Strikes, One Man Still Has The Edge.''
+| Links                   = 
+*[[Marvel Films#Theatrically Released Films|Marvel Films]]
+*[http://www.blade2.com/ Official Website]
+*{{imdb title|id=0187738|title=Blade II}}
+*{{shh|id=blade|title=Blade Movies}}
+*[http://www.variety.com/index.asp?layout=about_contact_layout/ Variety Lawsuit Article]
+*{{Marvel Movies|Blade II}}
+}}
+[[es:Blade II (película)]]
+[[Category:New Line Cinema]]

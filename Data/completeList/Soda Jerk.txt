@@ -1,0 +1,33 @@
+{{Infobox character
+|name = Soda Jerk
+|image = Soda Jerker and Mitch.png
+|shows = ''[[Penn Zero: Part-Time Hero]]''
+|voice = [[Garry Marshall]]
+|personality = Funny, kind
+|alignment = Good
+|pets = Mitch 
+|friends = [[Sashi Kobayashi|Sashi]]
+|occupation = Bartender
+|home = Chuckle City
+|quote = "Thanks, Mitch!"
+}}
+
+'''Soda Jerk''' is a clown who works at the parlor from ''[[Penn Zero: Part-Time Hero]]''. He does his best to encourage Sashi not to give up on herself.
+
+==Gallery==
+<gallery position="center">
+Clown Soda Jerk.jpg
+</gallery>
+
+{{CharacterStub}}
+{{Penn Zero: Part-Time Hero}}
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Males]]
+[[Category:Penn Zero: Part-Time Hero characters]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Clowns]]
+[[Category:Adults]]
+[[Category:Elderly characters]]
+[[Category:Disney XD characters]]

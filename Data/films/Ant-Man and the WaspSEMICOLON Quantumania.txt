@@ -1,0 +1,84 @@
+{{Marvel Database:Film Template
+| Image                   = Ant-Man and the Wasp Quantumania poster 001.jpg
+| Aliases                 = Ant-Man and the Wasp 2, Ant-Man 3, Dust Bunny (working title)
+| Universe                = Earth-199999
+
+| Directors               = Peyton Reed
+| Producers               = Kevin Feige; Stephen Broussard
+| ScreenplayWriters       = Jeff Loveness
+| Musicians               = Christophe Beck
+| Cinematographers        = Bill Pope
+| Editors                 = 
+| ProductionCompanies     = Marvel Studios
+| Distributors            = Walt Disney Studios Motion Pictures
+| Running Time            = 
+| Rating                  = <!--Do not place until official rating has been given by the MPAA-->
+| Budget                  = $185 million
+| Release Date            = February 17, 2023
+
+| AM ID                   = 
+| Marvel Movies           = {{PAGENAME}}
+| IMDB ID                 = 
+| MCU                     = {{PAGENAME}}
+
+| Previous Film           = Ant-Man and the Wasp (film)
+| Previous Film2          = {{sld|Avengers: Endgame}}
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* [[Scott Lang (Earth-199999)|Ant-Man (Scott Lang)]]
+* [[Hope Van Dyne (Earth-199999)|The Wasp (Hope Van Dyne)]]
+'''Supporting Characters:'''
+* [[Henry Pym (Earth-199999)|Doctor Hank Pym]]
+* [[Janet Van Dyne (Earth-199999)|Janet Van Dyne]]
+* [[Cassandra Lang (Earth-199999)|Cassie Lang]]
+'''Antagonists:'''
+* Kang the Conqueror
+'''Other Characters:'''
+* <br/>
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Paul Rudd|Paul Rudd]] as [[Scott Lang (Earth-199999)|Ant-Man / Scott Lang]]<ref name="Reveal Tweet">{{cite web|url=https://twitter.com/MarvelStudios/status/1337200211106570243|title=Peyton Reed is back to direct the third Ant-Man film, Ant-Man and the Wasp: Quantumania. Paul Rudd, Evangeline Lilly, Michael Douglas, and Michelle Pfeiffer all return. Kathryn Newton joins the cast as Cassie Lang and Jonathan Majors as Kang the Conqueror.|author=Marvel Studios|date=December 10, 2020|accessdate=May 5, 2021}}</ref>
+
+* [[wikipedia:Evangeline Lilly|Evangeline Lilly]] as [[Hope Van Dyne (Earth-199999)|The Wasp / Hope Van Dyne]]<ref name="Reveal Tweet"/>
+
+* [[wikipedia:Michael Douglas|Michael Douglas]] as [[Henry Pym (Earth-199999)|Dr. Hank Pym]]<ref name="Reveal Tweet"/>
+
+* [[wikipedia:Michelle Pfeiffer|Michelle Pfeiffer]] as [[Janet Van Dyne (Earth-199999)|Janet Van Dyne]]<ref name="Reveal Tweet"/>
+
+* [[wikipedia:Kathryn Newton|Kathryn Newton]] as [[Cassandra Lang (Earth-199999)|Cassie Lang]]<ref name="Reveal Tweet"/>
+
+* [[wikipedia:Jonathan Majors|Jonathan Majors]] as '''[[Kang the Conqueror]]'''<ref name="Reveal Tweet"/>
+
+Additonally, {{WP|Bill Murray}} has been cast in an undisclosed role.{{r|{{cite web|url= https://variety.com/2021/film/news/bill-murray-ant-man-3-peyton-reed-marvel-1235098318/|title= Bill Murray Says He’s Appearing in ‘Ant-Man and the Wasp: Quantumania’|work= Variety|last= Vary|first= Adam B.|date= October 26, 2021|accessdate= October 27, 2021}}}}
+
+| Notes                   = * [[wikipedia:T.I.|Tip "T.I." Harris]] is confirmed to not return as [[Dave (Earth-199999)|Dave]] from the previous two films. Although this news broke after T.I. and his wife were accused of sexual abuse, insiders close to the movie state he was never slated to return.{{r|{{cite web|url=https://variety.com/2021/film/news/t-i-ant-man-3-1234918869/|title=T.I. Will Not Appear in 'Ant-Man 3'|last=Shafer|first=Ellise|work=Variety|date=March 1, 2021|accessdate=June 2, 2021}}}}
+* Originally slated to be the released on February 17, 2023, the release was later taken by {{ml|The Marvels}}, pushing this film back to July 28, 2023.{{r|{{cite web|url= https://variety.com/2021/film/news/disney-delays-doctor-strange-thor-black-panther-1235091673/|title= Disney Delays ‘Doctor Strange 2,’ ‘Thor 4,’ ‘Black Panther’ Sequel and ‘Indiana Jones 5’|work= Variety|last= Rubin|first= Rebecca|date= October 18, 2021|accessdate= October 18, 2021}}}} However, this film and ''The Marvels'' would swap each others' release dates on April 29, 2022, moving this film up to February 17, 2023.{{r|{{cite web|url= https://deadline.com/2022/04/ant-man-and-the-wasp-quantumania-the-marvels-swap-release-dates-1235013181/|title= ‘Ant-Man and the Wasp: Quantumania’ & ‘The Marvels’ Swap Release Dates|work= Deadline|last= Pedersen|first= Erik|date= April 29, 2022|accessdate= April 29, 2022}}}}
+
+==Gallery==
+===Images===
+<gallery>
+Ant-Man and the Wasp Quantumania Logo.jpg
+</gallery>
+===Trailers===
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios Celebrates The Movies
+Marvel Studios’ Ant-Man and the Wasp- Quantumania - Official Trailer
+</gallery>
+
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}
+[[ru:Человек-муравей и Оса: Квантомания]]
+[[tr:Ant-Man ve Wasp: Quantumania]]
+[[Category:Marvel Studios]]

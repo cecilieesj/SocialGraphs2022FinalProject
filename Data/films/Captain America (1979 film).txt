@@ -1,0 +1,68 @@
+{{Marvel Database:Film Template
+| Image                   = Captain America 1979 poster.jpg
+| Aliases                 = 
+
+| Directors               = Rod Holcomb
+| Producers               = Martin M. Goldstein
+| ComicWriters            = [[Joe Simon]]; [[Jack Kirby]]
+| StoryWriters            = Don Ingalls; Chester Krumholz
+| ScreenplayWriters       = Don Ingalls
+| Musicians               = Pete Carpenter & Mike Post
+| Cinematographers        = Ronald W. Browne
+| Editors                 = Michael S. Murphy
+| Distributors            = NBCUniversal Television Distribution (CBS)
+| Running Time            = 97 minutes
+| Rating                  = Not Rated
+| Budget                  = 
+| Release Date            = January 19, 1979
+
+| AM ID                   = captain-america-v8075
+| IMDB ID                 = 0078937
+| Marvel Movies           = Captain America (1979)
+
+| Next Film               = Captain America II: Death Too Soon
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Steven Rogers (Earth-600043)|Captain America (Steven Rogers)]]}}
+'''Supporting Characters:'''
+* {{1st|[[Simon Mills (Earth-600043)|Dr. Simon Mills]]}}
+* {{1st|[[Wendy Day (Earth-600043)|Dr. Wendy Day]]}}
+'''Other Characters:'''
+* {{1st|[[Tina Hayden (Earth-600043)|Tina Hayden]]}}
+* {{1st|[[Rudy Sandrini (Earth-600043)|Rudy Sandrini]]}}
+* {{1st|[[Charles Barber (Earth-600043)|Charles Barber]]}}
+* {{1st|[[Lou Brackett (Earth-600043)|Lou Brackett]]}}
+* {{1st|[[Federal Bureau of Investigation (Earth-600043)|FBI]]}}
+* {{Mentioned|[[Joseph Rogers (Earth-600043)|Captain America (Steve Rogers' father)]]}}
+'''Locations:'''
+* {{1st|[[Earth-600043]]}}
+** {{1st|[[Earth]]}}
+*** {{1st|[[United States of America]]}}
+'''Items:'''
+* {{Only|[[Super-Soldier Serum|F.L.A.G. (Full Latent Ability Gain)]]}}
+* {{1st|[[Captain America's Shield]]}}
+* {{1st|[[Captain America's Uniform]]}}
+'''Vehicles:'''
+* {{1st|[[Captain America's Motorcycle]]}}
+* {{1st|[[Captain America's Van|Steve Rogers' Van]]}}
+
+| Plot                    = 
+
+| Cast                    = * Reb Brown as [[Steven Rogers (Earth-600043)|Captain America (Steven Rogers)]]
+* Heather Menzies as [[Wendy Day (Earth-600043)|Dr. Wendy Day]]
+* Len Birman as [[Simon Mills (Earth-600043)|Dr. Simon Mills]]
+* Robin Mattson as [[Tina Hayden (Earth-600043)|Tina Hayden]]
+* Joseph Ruskin as [[Rudy Sandrini (Earth-600043)|Rudy Sandrini]]
+* Lance LeGault as Harley
+* Frank Marth as [[Charles Barber (Earth-600043)|Charles Barber]]
+* Steve Forrest as [[Lou Brackett (Earth-600043)|Lou Brackett]]
+* Chip Johnson as Jerry
+* James Ingersoll as Lester Wiant
+* Dan Barton - Jeff Hayden
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Television Films|Marvel Films]]
+}}
+[[Category:Universal Pictures]]

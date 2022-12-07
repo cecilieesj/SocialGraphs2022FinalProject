@@ -1,0 +1,21 @@
+{{Infobox character
+|image = Tardy Tutter.jpg
+|name = Tardy Tutter
+|shows = ''[[Bear in the Big Blue House]]''
+|fullname = Tardy Tutter
+|alias = Tardy
+|alignment = Good 
+|family = Tutter}}
+'''Tardy Tutter''' is [[Tutter]]'s perpetually late relative. He appeared in the ''[[Bear in the Big Blue House]]'' episode ''[[The Tutter Family Reunion]]'', along with other relatives.
+
+It is unknown what his relationship to Tutter is.
+
+{{CharacterStub}}
+{{MuppetsWiki}}
+{{Bear in the Big Blue House}}
+[[Category:Males]]
+[[Category:Live-action characters]]
+[[Category:Mice]]
+[[Category:Characters]]
+[[Category:Bear in the Big Blue House characters]]
+[[Category:Playhouse Disney characters]]

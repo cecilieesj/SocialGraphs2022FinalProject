@@ -1,0 +1,31 @@
+{{Infobox film
+|image =
+|director = [[Walt Disney]]
+|producer = Walt Disney
+|writer = Walt Disney
+|studio = [[Laugh-O-Gram Studio]]
+|distributor = Leslie B. Mace
+|release = [[October 5]], [[1922]]
+|language = Silent film<br>English intertitles
+|preceded = Jack and the Beanstalk
+|followed = [[Puss in Boots]]}}'''''Goldie Locks and the Three Bears''''' was a [[1922]] [[Laugh-O-Gram Studio|Laugh-O-Gram]] film directed by [[Walt Disney]]. The film was based on the fairy tale by Robert Southey.
+
+==Trivia==
+*Also released with a soundtrack by Sound Film Distributing Corp. ([[New York City]]) and Wardour Films ([[England]]) under the title '''''The Peroxide Kid'''''.
+
+==Gallery==
+<gallery widths="150" spacing="small" position="center">
+2011-bromberg-26.jpg
+2011-bromberg-25.jpg
+1922-goldie-3.jpg
+1922-goldie-2.jpg
+LaughOGram 720x500.jpg
+Peroxide-images.png
+CCF14102010 00001.jpg
+</gallery>
+
+{{Stub}}
+[[Category:Animated shorts]]
+[[Category:Stub]]
+[[Category:Laugh-O-Grams shorts]]
+[[Category:Public domain cartoons]]

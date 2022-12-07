@@ -1,0 +1,28 @@
+{{Infobox film
+| name           = Mickey's Safety Club: Playground Fun
+| image          = File:Mickey's_Safety_Club_Playground_Fun_shot.jpg
+| caption        = 
+| director       = 
+| producer       = 
+| music          = 
+| cinematography =  
+| studio         = [[The Walt Disney Company]]
+| distributor    = Disney Educational Productions
+| release        = September [[1989]]
+| time           = 19:33
+| language       = English}}
+'''''Mickey's Safety Club: Playground Fun''''' is part of ''[[Mickey's Safety Club]]'', a series of educational films, released in [[1989]] and [[1990]]. [[Mickey Mouse]], [[Huey, Dewey, and Louie]]. and [[Daisy Duck]] teach about the importance of safety while having fun at the playground.
+
+==Voices==
+*[[Wayne Allwine]] - Mickey Mouse
+*[[Russi Taylor]] - Huey, Dewey, and Louie
+*[[Patricia Parris]] - Daisy Duck
+
+{{Stub}}
+[[Category:Live-action shorts]]
+[[Category:1989 shorts]]
+[[Category:Mickey Mouse]]
+[[Category:Educational films]]
+[[Category:Works about safety]]
+[[Category:Mickey's Safety Club]]
+[[Category:Disney Educational Productions]]

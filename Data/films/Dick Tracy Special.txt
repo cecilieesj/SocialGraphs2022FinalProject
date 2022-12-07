@@ -1,0 +1,54 @@
+{{Infobox film
+|image = Dick Tracy Special.jpg
+|name = Dick Tracy Special
+|director = [[Warren Beatty]]<br />Chris Merrill
+|producer = Warren Beatty<br />John Bernstein
+|writer = Chris Merrill<br />Warren Beatty
+|starring = [[Warren Beatty]]<br />[[Leonard Maltin]]<br />[[Mindy Sterling]]<br />[[Wendi McLendon-Covey]]
+|music = Robert Partridge
+|cinematography = {{WikipediaLink|Emmanuel Lubezki}}<br />Stephanie Martin
+|editor = Thomas Mitchell
+|studio = 
+|distributor = [[Turner Classic Movies]]
+|release = 2010
+|time = 30 min.
+|language = English
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 1398021
+|tv_com_id = 
+}}
+
+'''''Dick Tracy Special''''' is a [[2010]] television special starring [[Warren Beatty]] and [[Leonard Maltin]]. In the special, Maltin (as himself) interviews Tracy (Beatty) about his long career, and the comic strips and films "starring" him, including the [[Dick Tracy|1990 film]] that Beatty starred in and directed for [[Walt Disney Pictures|Disney]]/[[Touchstone Pictures|Touchstone]]. Maltin also narrates clips showing the history of the character and clips 
+
+[[Mindy Sterling]] and [[Wendi McLendon-Covey]] play studio personnel waiting for Tracy to arrive at his interview. 
+
+The special, which broadcast once on [[TCM]], was produced by Beatty in order to retain the film and television rights to the character, which would expire if he did not use them.<ref>{{Cite web |url=https://www.avclub.com/article/our-option-atlas-shrugged-expires-two-days-6-plus--212280 |title=Our Option on ''Atlas Shrugged'' Expires in Two Days: 6-Plus Copyright Extensions Disguised as Movies |last=Vishnevetsky |first=Ignatiy |author-link=Ignatiy Vishnevetsky |date=December 1, 2014 |publisher=The A.V. Club}}</ref> In an interview about the special, Maltin said that Beatty had pitched the special to Disney Home Video, wanting to produce something similar in style to ''{{WikipediaLink|The Charlie Rose Show}}'', and someone there suggested Maltin for the job.<ref name="ohmydisney">{{cite web|title=Remembering That Weird TCM Dick Tracy Special|url=http://blogs.disney.com/insider/2015/06/29/remembering-that-weird-tcm-dick-tracy-special/|website=Disney Insider|publisher=[[The Walt Disney Company]]|access-date=July 8, 2015|archive-url=https://web.archive.org/web/20150703150940/http://blogs.disney.com/insider/2015/06/29/remembering-that-weird-tcm-dick-tracy-special/|archive-date=July 3, 2015|date=July 2015}}</ref>
+
+The special was set and partially filmed at the [[Walt Disney Studios (Burbank)|Walt Disney Studios]] in Burbank. The interview was shot on a stage at [[Walt Disney Imagineering]] in Glendale. The interview was shot by acclaimed cinematographer {{WikipediaLink|Emmanuel Lubezki}}, to the surprise of Maltin: "I said, 'Oh my god, Chivo is shooting this little conversation!' He’s a lovely man and I’ve seen him many times since and we always laugh about it."<ref name="ohmydisney"/>
+
+==Gallery==
+<gallery position="center" spacing="small" widths="200" captionalign="center">
+Dick Tracy Special 1.jpg|[[Dick Tracy (character)|Dick Tracy]] (Warren Beatty, center) with two studio employees ([[Mindy Sterling]], left, and [[Wendi McLendon-Covey]], right)
+Dick Tracy Special 2.jpg|Dick Tracy
+Dick Tracy Special 3.jpg|[[Leonard Maltin]] (as himself) interviewing Dick Tracy
+</gallery>
+==Videos==
+<gallery position="center" spacing="small" widths="400" captionalign="center">
+Dick Tracy Special|
+</gallery>
+
+==References==
+<references/>
+
+{{Dick Tracy}}
+[[Category:Television specials]]
+[[Category:Dick Tracy]]
+[[Category:2010 shorts]]
+[[Category:Live-action shorts]]
+[[Category:Non-Disney]]
+[[Category:Turner Classic Movies]]

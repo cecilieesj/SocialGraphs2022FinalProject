@@ -1,0 +1,56 @@
+{{Infobox film
+|image = Adventure Thru the Walt Disney Archives poster.jpg 
+|name = 
+|director =  John Gleim
+|producer = 
+|writer =  John Gleim
+|starring = Don Hahn<br />[[Kathryn Beaumont]]<br />[[Pete Docter]]<br />[[Kevin Feige]]<br />[[Mark Hamill]]<br />[[Bob Iger]]
+|music = 
+|cinematography = 
+|editor = 
+|studio = 
+|distributor = 
+|release = 2020
+|time = 59 min.
+|language = English
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 15222206
+|tv_com_id = 
+}}
+
+'''''Adventure Through the Walt Disney Archives''''' is a [[2020]] documentary hosted by producer [[Don Hahn]] about the history and holdings of the [[Walt Disney Archives]]. Originally available exclusively to [[D23]] Gold members, it was added to [[Disney+]] on November 19, 2021.
+
+== Description ==
+<blockquote>
+''Adventure Thru the Walt Disney Archives'' explores beloved parts of Disney—including its theme parks and Studio lot—through an engaging, historical lens, as legendary producer and host Don Hahn (''[[Beauty and the Beast (1991 film)|Beauty and the Beast]]'', ''[[The Lion King]]'', ''[[Maleficent]]'') speaks with Walt Disney Archives director [[Becky Cline]] and other members of the Archives team. Each stop on the adventure offers a look at some of the iconic treasures that have played a role in shaping [[The Walt Disney Company]]. The film, directed by [[John Gleim]], features new interviews with Disney Executive Chairman [[Bob Iger]], [[Marvel Studios]]’ [[Kevin Feige]], [[Pixar]]’s [[Pete Docter]], film historian [[Leonard Maltin]], and many more. 
+</blockquote>
+
+== Gallery ==
+<gallery position="center" spacing="small" widths="200" captionalign="center">
+Adventure Thru the Walt Disney Archives.png
+File:adventure_thru_the_walt_disney_archives_ver2_xlg.jpg
+File:adventure_thru_the_walt_disney_archives_ver3_xlg.jpg
+File:adventure_thru_the_walt_disney_archives_ver4_xlg.jpg
+File:adventure_thru_the_walt_disney_archives_ver5_xlg.jpg
+File:adventure_thru_the_walt_disney_archives_ver6_xlg.jpg
+File:adventure_thru_the_walt_disney_archives_ver7_xlg.jpg
+</gallery>
+
+
+== Videos ==
+<gallery position="center" spacing="small" widths="250" captionalign="center">
+Adventure Thru the Walt Disney Archives - Official Trailer-2|
+Adventure Thru the Walt Disney Archives - Streaming on Disney+ November 19-2
+</gallery>
+
+== External Links ==
+* [https://www.disneyplus.com/movies/adventure-thru-the-walt-disney-archives/DNRYbny6NhU4 ''Adventure Thru the Walt Disney Archives'']] on [[Disney+]]
+* [https://disneyparks.disney.go.com/blog/2020/06/a-golden-celebration-of-disney-history/ A Golden Celebration of Disney History] ([[Disney Parks Blog]])
+
+[[Category:2020 films]]
+[[Category:Documentaries]]

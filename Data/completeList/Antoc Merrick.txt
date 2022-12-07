@@ -1,0 +1,40 @@
+{{Infobox_character
+|image = Merrick-SW Authentics.png
+|name = Antoc Merrick
+|films = [[Rogue One]]
+|actor = Ben Daniels
+|fullname = Antoc Merrick
+|alias = Blue Leader
+|occupation = Leader of Blue Squadron
+|alignment = Good
+|affiliations = [[Rebel Alliance]]
+|appearance = 
+|quote = ''This is Blue Leader, standing by!''
+|home = Virujansi
+|fate = Shot by Tie strikers
+}}
+'''Antoc Merrick''' (better known as '''Blue Leader''') is a character from ''[[Rogue One]]''. He is the leader of the Blue Squadron of the [[Rebel Alliance]].
+
+==Role in the [[Rogue One|film]]==
+Antoc Merric is known as the Blue Leader. He leads the Blue Squadron of the [[Rebel Alliance]]. When a rebel officer announced that [[Jyn Erso]] and the rest of the members of Rogue One attacked on [[Scarif]] to steal the Death Star plans, Merrick and his members attacked on the planet itself.
+
+During the battle, the planet itself has a shield gate and Merrick and some of his members entered the gate while the rest didn't enter when some of the Imperial officers closed the shield gate.
+
+He and his squadron then destroyed several of the [[AT-ACT]]s harassing rebel forces. During the ensuing air combat with [[TIE Striker|TIE strikers]], Merrick was shot down resulting in his death.
+
+==Gallery==
+<gallery position="center" spacing="small">
+Blue Leader.PNG
+</gallery>
+
+==External links==
+*[[w:c:starwars:Antoc Merrick|Antoc Merrick on Wookieepedia]]
+{{Star Wars}}
+{{DEFAULTSORT:Merrick, Antoc}}
+[[Category:Males]]
+[[Category:Heroes]]
+[[Category:Star Wars Anthology characters]]
+[[Category:Deceased characters]]
+[[Category:Pilots]]
+[[Category:Live-action characters]]
+[[Category:Rebel Alliance characters]]

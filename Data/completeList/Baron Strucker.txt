@@ -1,0 +1,92 @@
+{{Infobox character
+|name= Wolfgang von Strucker
+|image= Strucker-AOU-Cropped.jpg
+|films=''[[Captain America: The Winter Soldier]]<br>[[Avengers: Age of Ultron]]''
+|shows=''[[The Avengers: Earth's Mightiest Heroes]]<br>[[Agents of S.H.I.E.L.D.]]<br>[[Avengers Assemble]]''
+|actor=[[Thomas Kretschmann]]
+|voice= [[Jim Ward]] <small>(''The Avengers: Earth's Mightiest Heroes'')</small><br>Joey Defore <small>(''Agents of S.H.I.E.L.D.'')</small><br>[[Robin Atkin Downes]] <small>(''Avengers Assemble'')</small>
+|inspiration=The [[Marvel Comics]] character of the same name
+|awards=
+|fullname=Wolfang Von Strucker
+|alias=Baron Strucker
+|occupation=Supreme Baron HYDRA leader
+|affiliations = [[S.H.I.E.L.D.]] (formerly)<br>[[HYDRA]]
+|home=
+|family= Werner von Strucker (son)
+|pets=
+|likes=Power, war
+|dislikes=
+|powers=
+|status=Deceased}}
+{{Quote|It's not a world of spies anymore, not even a world of heroes. This is the age of miracles, doctor. There is nothing more horrifying than a miracle!|Wolfgang von Strucker to [[Doctor List]]}}
+'''Baron Wolfgang Von Strucker''' is a supervillain from [[Marvel Comics]]. In most incarnations he is the commander and best known leader of the terrorist organization [[HYDRA]] and [[Nick Fury]]'s arch-enemy.
+
+Wolfgang Von Strucker was created by [[Stan Lee]] and [[Jack Kirby]].
+
+==Appearances==
+
+===[[Marvel Cinematic Universe]]===
+
+====''[[Captain America: The Winter Soldier]]''====
+[[File:Thisistheageofmiracles.png|thumb|left|250px|Strucker and List look at the twins.]]
+Wolfgang von Strucker only appeared in the first post-credits scene of the film. He is revealed to be one of the high-ranking officers of [[HYDRA]] after it infiltrated S.H.I.E.L.D. When he learned that various spies had been uncovered thanks to Fury's actions at S.H.I.E.L.D., he dismissed the problem, as he managed to uncover Loki's Scepter, which he planned to use to further HYDRA's agenda.
+
+He also revealed his intentions of burying all the deceased HYDRA agents "so deep that their ghosts can't reunite with their bodies," and that he intended to have [[Scarlet Witch]] and [[Quicksilver]], whom he had retrieved earlier, for an important role due to their having their "age of miracles."
+
+====''[[Agents of S.H.I.E.L.D.]]''====
+After escaping from military custody, Ward went to a bar to meet Sunil Bakshi. Ward knew that Strucker was overseas, so he requested a meeting with the new head of HYDRA. Bakshi replied that he will ask to Whitehall because his boss was very busy. After the death of [[Daniel Whitehall]], Strucker sent List to United States to meet with the other HYDRA's leaders.
+
+====''[[Avengers: Age of Ultron]]''====
+Strucker was stationed at Sokovia experimenting with Loki's scepter when [[Avengers|the Avengers]] arrived and attacked his fortress. As the Avengers overpowered their soldiers, List asked him to send the Maximoff twins to fight against the Avengers, he forbade sending them as they were not ready for a fight. However, minutes later the twins left the base to fight.
+
+Strucker told his men not to surrender before telling List that they should and fled with the data to continue their work. When the Avengers broke into the base, Strucker was confronted by [[Captain America]], who recognized him as the great criminal of [[HYDRA]]. Rogers was attacked by Wanda Maximoff when he was ready to capture Strucker. However, Rogers quickly recovered and knocked out Strucker by hitting him in the face with his shield. After being captured, he was handed over to NATO.
+
+Shortly after, [[Ultron]] broke into his cell and killed him, painting the word "PEACE" on the prison wall with Strucker's own blood.
+
+===Marvel Animated Universe===
+
+====''[[The Avengers: Earth's Mightiest Heroes]]''====
+During World War II, Strucker served as a lieutenant to the [[Red Skull]]. After the war, he became the leader of HYDRA.
+
+At some point, Wolfgang von Strucker was captured and jailed in the Vault. [[Grim Reaper]] tried to free him, but they were foiled by Nick Fury and [[Maria Hill]], and captured.
+
+Later, the Vault experienced a massive power outage releasing all of the inmates. Strucker and Grim Reaper escaped and returned to HYDRA.
+
+The two were at a HYDRA meeting when [[Baron Zemo]] appeared. Zemo was the founder and initially the leader of HYDRA, and thought that he return as such. They refused and Zemo tried to take by force, until he was informed that Captain America was alive and so set out to defeat the World War II hero himself.
+
+HYDRA tried to make a deal with [[A.I.M.]] to make a powerful cube. However, A.I.M. claimed they could not do anything and gave back the money HYDRA sent them. Knowing [[MODOK]] was lying, Strucker got HYDRA into conflict with A.I.M., and the [[Black Widow]], a double agent in Strucker's forces, told it to [[Avengers|the Avengers]] to stop both factions.
+
+During the conflict, Captain America and Strucker touched the cube at the same time, but the clash of wills made the cube not work, so Strucker thought it didn't work at all. He was subsequently arrested with [[MODOK]] and the surviving HYDRA and A.I.M. soldiers.
+
+==Printed media==
+===''Avengers: Age of Ultron Prelude - This Scepter'd Isle''===
+In the comic, taking place before ''Avengers: Age of Ultron'', Strucker intends to study the [[Chitauri Scepter]] that [[S.H.I.E.L.D.]] acquired after the Chitauri invasion. When he was informed that one of the scientists, Mark Smith, who studied the scepter had the potential to be recruited into HYDRA, he personally recruits Smith and orders him to kill his colleague to retrieve the Scepter for him. Although scientists were able to activate numerous Chitauri weapons; Strucker is not satisfied. He then orders List to recruit people to study the effects that the scepter would have on people. Many volunteers died during the experiments, except two: the twin brothers Wanda and Pietro Maximoff, who won extraordinary powers as a result of the experiments.
+
+==Gallery==
+{{Gallerylink}}
+
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Baron Strucker|Marvel Cinematic Universe Wiki}}
+
+{{Marvel Cinematic Universe}}
+{{Marvel Animated Universe}}
+[[Category:Marvel Comics characters]]
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Villains]]
+[[Category:The Avengers: Earth's Mightiest Heroes characters]]
+[[Category:German characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:HYDRA agents]]
+[[Category:Live-action characters]]
+[[Category:TV Animation characters]]
+[[Category:Live-action villains]]
+[[Category:Adults]]
+[[Category:Captain America characters]]
+[[Category:The Avengers characters]]
+[[Category:Deceased characters]]
+[[Category:Avengers Assemble characters]]
+[[Category:Acquired characters]]
+[[Category:Disney XD characters]]
+[[Category:Animated characters]]
+[[Category:Supervillains]]

@@ -1,0 +1,75 @@
+{{Infobox character
+|image = Sun Lok 2.jpg
+|films = ''[[The Sorcerer's Apprentice (film)|The Sorcerer's Apprentice]]''
+|personality = Ruthless, cold, quiet, murderous
+|appearance = Slender, muscular, armored sarong-like skirt, sandals, gold dragon belt, bronze claws, black ponytail, grey eyes, gold cloak 
+|occupation = Horvath's minion
+|alignment = Bad
+|home = [[China]]
+|friends = [[Maxim Horvath]]
+|enemies = [[Dave Stutler]], [[Balthazar Blake]]
+|likes = Dragons, evil, darkness
+|dislikes = Being foiled, interference
+|powers = Dark magic, Animation, Telekinesis, Transmutation, Sympathetic Magic
+|weapons = Dragon belt
+|fate = Gets crushed by his dragon on fire
+|actor = Gregory Woo}}
+{{Quote|An old associate of mine speaks impeccable Cantonese. He lived about 200 years ago. You know him. Sun Lok? Course you do. You locked him inside the Grimhold.|Horvath}}
+'''Sun Lok''' is an antagonist featured in the film ''[[The Sorcerer's Apprentice (film)|The Sorcerer's Apprentice]]''. He is a Morganian wizard of Chinese (Cantonese) descent.
+
+==Background==
+===Personality===
+Sun Lok's personality is mostly not explored due to his minor screen time, though there are given hints that he was quite murderous and ruthless like all Morganians. He is also cold and quiet, even having no lines at all in spite of Horvath's claim that he is actually capable to speak albeit in Cantonese, implying that the other reason of lacking any lines in the film was him being incapable to speak English.
+
+He seems to prefer dragon motifs for his sorcery, and also hates any interference. This was due to some of his sorcery requires a lot of concentration, and would be broke if any interference occurs, as seen when his dragon belt damaged by Dave's discovered magic, which his concentration over his conjured dragon falls apart.
+
+As stated by Gregory Woo, he also hates to be confined within a little container, either due to being claustrophobic or disliking to be imprisoned. In either way, his imprisonment within the [[Grimhold]] indeed made him hold grudge against [[Balthazar Blake|Balthazar]], explaining why he attacked him first upon their final confrontation.
+
+===Powers and Abilities===
+Sun Lok is a powerful wizard whose true might is unknown, but as a Morganian with (presumed) training from [[Maxim Horvath|Horvath]], his skills are assumed to be along the lines of abilities demonstrated by both Morganians and Merlinians. Like all Morganians, he needs a focus object to use his powers; in this case, he wears a plated belt emblazoned with an ornamental dragon, which he manipulates with the use of his plated claws in order to create and manipulate actual dragons.
+
+In addition, Sun Lok seems to have a preference for fire-based magics. Following spells that he mastered are:
+*'''Animation:''' Sun Lok's mastery over Animation Spell allowed him to bring a dragon-like objects to life as actual, fire-breathing dragon at will. During skirmish in Chinatown, Sun Lok turned a dragon dance costume operated by several Asian men into actual dragon to chase Dave, with costume operators literally fused with it as their legs morphed into the beast's.
+*'''Sympathetic Magic:''' Through Sympathetic Magic, he can control creatures that he brought to life. He uses his animated dragon crest on his Dragon Belt as medium to control his dragon.
+*'''Transmutation:''' Sun Lok demonstrated the ability to dissipate and reform his body from a swarm of butterflies, which also implies how he manifests when released from The Grimhold.
+*'''Telekinesis:''' Sun Lok can telekinetically manipulate large numbers of solid objects
+Sun Lok wears a pair of golden metallic claws on his hands. He uses these claws to help in some manner with the use of his powers; it is assumed that he can also use these claws as weapons.
+
+==Role in the [[The Sorcerer's Apprentice (film)|film]]==
+Sun Lok was captured in the Grimhold by Balthazar Blake during the 18th century, after a failed attempt to capture the Grimhold and free [[Morgana le Fay]]. Devoted to his Morganian elders, Sun Lok willingly followed Maxim Horvath's orders once released from the Grimhold, before soon being slain by Blake and [[Dave Stutler]], who used his own powers against him. Although at least two hundred years old, because of his time spend inside the Grimhold, Sun Lok appears to be only in his mid-twenties.
+
+==Other Appearances==
+===The Sorcerer's Apprentice (video game)===
+{{Quote|So... You fight like a true sorcerer.|Sun Lok}}
+
+As with the movie, Sun Lok is the first Morganian to be released by Maxim Horvath as well as the first boss in the action adventure third person shooter puzzle videogame for the Nintendo DS videogame adaptation of ''The Sorcerer's Apprentice''.
+
+During the attack on New York City's Chinatown District, the Cantonese sorcerer ambushed Dave and prepared to combat the Prime Merlinean as he tracked down Horvath who unleashed a horde of monsters all around New York. As this happens, Balthazar, through his telephatical projection due to banished into other dimension, explained that he imprisoned Sun Lok in 1532 A.D. (this contradicted Horvath’s claim in the film that Sun Lok was around two centuries prior to the film's events, indicating it to be 1800s). After a difficult fight, Dave emerged victorious and successfully beaten Sun Lok into pulp.
+
+Suddenly, Horvath entered the scene, both disappointed with Sun Lok’s loss and intrigued by Dave’s magical powers. Just then, Balthazar’s projection appears and instructed Dave to seize the Grimhold from Horvath's clutches. Before the apprentice could do anything however, Horvath unexpectedly killed Sun Lok with the Parasite Spell as punishment for his failure and took the Asian conjuror’s catalyst with him.
+
+==Trivia==
+*It is interesting to note that the three lesser mystical talents shown in the film - Sun Lok, [[Drake Stone]] and Dave Stutler - all seem to have an innate specialization in their powers, as Stone seems to favor illusory skills, and Stutler slants towards energy manipulation and control.
+*Had Sun Lok survived his duel against Balthazar Blake and Dave Stutler, he most likely would have had his magical energy drained by Maxim Horvath via the parasite spell in order to unseal more of the Grimhold, as evidenced by his actions to Drake Stone and later to [[Abigail Williams]].
+**This is confirmed with Sun Lok's own fate in the video game adaptation.
+*According to Horvath, Sun Lok speaks impeccable Cantonese. However, he is never shown speaking.
+**Ironically, in the videogame, Sun Lok is indeed able to speak, though only had one line: "So... You fight like a true sorcerer."
+
+==Gallery==
+<gallery spacing="small" position="center" captionalign="center">
+Sun Lok.jpg
+Sun Lok TSA.png
+Sun-Lok.jpg
+</gallery>
+
+{{Fantasia}}
+[[Category:The Sorcerer's Apprentice characters]]
+[[Category:Magic Users]]
+[[Category:Chinese characters]]
+[[Category:Villains]]
+[[Category:Adults]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Live-action characters]]
+[[Category:Silent characters]]
+[[Category:Wizards]]

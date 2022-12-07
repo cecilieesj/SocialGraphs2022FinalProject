@@ -1,0 +1,13 @@
+{{Infobox character
+|image = Clerk Peaches.jpg
+|name = Clerk Peaches
+|games = ''[[Toontown Online]]''
+|occupation = Worker<br>Clerk
+|alignment = Neutral}}
+'''Clerk Peaches''' is a worker at Daisy's Gardens [http://toontown.wikia.com/wiki/Gag_Shop Gag Shop] who appears in the game Toontown Online.
+She is not paid attention too much, (most NPC Toons don't), but she works there along with [http://toontown.wikia.com/wiki/Clerk_Herb Clerk Herb].
+[[Category:Toontown characters]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Mice]]
+{{Toontown Online}}

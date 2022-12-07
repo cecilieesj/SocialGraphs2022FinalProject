@@ -1,0 +1,42 @@
+{{Upcoming|media=film}}
+{{Infobox film
+|image = 
+|name = The Aristocats
+|director = 
+|producer = Will Gluck
+|writer = Will Gluck<br>Keith Bunin
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]<br>Olive Bridge Entertainment
+|distributor = [[Walt Disney Studios Motion Pictures]] 
+|release = 
+|time = 
+|language =English 
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = }}
+'''''The Aristocats''''' is an upcoming American live-action/CGI-animated romantic musical comedy adaptation of [[Walt Disney]]'s [[1970]] animated feature film [[The Aristocats|of the same name]]. A release date has yet to be set.<ref name="Deadline">[https://deadline.com/2022/01/live-action-aristocats-pic-disney-1234916566/ Live-Action ‘Aristocats’ Pic In Development At Disney]</ref>
+
+==Production==
+On January 20, 2022, ''Deadline'' reported that a live-action adaptation of ''[[The Aristocats]]'' is in development, yet to-be-determined if it's a theatrical release or a [[Disney+]] release.<ref name="Deadline" />
+
+==Differences from the 1970 film==
+
+==References==
+{{Reflist}}
+
+{{FilmStub}}
+{{The Aristocats}}
+{{DEFAULTSORT:Aristocats (live-action film), The}}
+[[Category:The Aristocats]]
+[[Category:Remakes]]
+[[Category:Live-action films]]
+[[Category:Films about animals]]
+[[Category:Disney films]]
+[[Category:Hybrid films]]

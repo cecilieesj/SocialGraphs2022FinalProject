@@ -1,0 +1,22 @@
+{{Infobox film
+| name           = Goofy's Field Trips: Planes
+| image          = File:Goofy's field trips planes shot.jpg
+| caption        = 
+| director       = 
+| producer       = 
+| starring       = [[Bill Farmer]]
+| music          = 
+| cinematography =  
+| studio         = The Walt Disney Company
+| distributor    = Disney Educational Productions
+| release       = [[August 18]], [[1989]]
+| time        = 15 minutes
+| language       = English}}
+'''''Goofy's Field Trips: Planes''''' is part of ''Goofy's Field Trips'', a series of educational films, released in [[1989]]. [[Goofy]] visits an airport to see how it and the airplanes that arrive and depart from there operate.
+
+{{Stub}}
+[[Category:Live-action shorts]]
+[[Category:1989 shorts]]
+[[Category:Goofy]]
+[[Category:Educational films]]
+[[Category:Disney Educational Productions]]

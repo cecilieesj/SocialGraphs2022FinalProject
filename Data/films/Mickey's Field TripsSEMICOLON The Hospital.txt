@@ -1,0 +1,28 @@
+{{Infobox film
+| name           = Mickey's Field Trips: The Hospital
+| image          = Mickey's_Field_Trips_The_Hospital_shot.jpg
+| caption        = 
+| director       = 
+| producer       = 
+| music          = 
+| cinematography =  
+| studio         = [[The Walt Disney Company]]
+| distributor    = Walt Disney Educational Media Company
+| release       = September [[1987]]
+| time        = 10:05 minutes
+| language       = English}}'''''Mickey's Field Trips: The Hospital''''' is part of ''Mickey's Field Trips'', a series of educational films, released in September [[1987]]. [[Mickey Mouse]] visits a hospital to learn how doctors and nurses take care of their patients.
+
+==Voices==
+*[[Wayne Allwine]] - Mickey Mouse
+
+==Gallery==
+<gallery position="center">
+Mickey in hospital 1.jpg
+Mickey in hospital 2.jpg
+</gallery>
+
+{{Stub}}
+[[Category:Live-action shorts]]
+[[Category:1987 shorts]]
+[[Category:Educational films]]
+[[Category:Mickey Mouse]]

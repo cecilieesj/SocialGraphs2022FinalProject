@@ -1,0 +1,34 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox_film
+|image =
+|name = Muppet Man
+|director = 
+|producer = {{WikipediaLink|Lisa Henson}}
+|writer = Michael Mitnick
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]<br>[[The Jim Henson Company]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|language = English
+|starring = }}
+'''''Muppet Man''''' is an upcoming biopic. The film chronicles the life of famed creator of ''[[The Muppets (franchise)|The Muppets]]'', [[Jim Henson]].
+
+==Synopsis==
+''Muppet Man'' will focus on Henson's journey to convince broadcasters that ''The Muppets'' was a great idea and how he worked to get the characters on air where they became a comedy staple.
+
+==Production==
+The script is being written by Michael Mitnick, based on a previous draft by Aaron and Jordan Kandell.<ref name="deadline2021-04-21">{{cite web|url=https://deadline.com/2021/04/jim-henson-movie-muppet-man-sesame-street-muppets-michael-mitnick-1234740866/|title=Jim Henson Biopic: Michael Mitnick Writing ‘Muppet Man’ For Disney & The Jim Henson Company|website=Deadline|date=April 21, 2021}}</ref>
+
+==Notes==
+The Mitnick project is unrelated to a script of the same name by Christopher Weekes which was picked up by the Henson Company after it made first place on the 2009 Black List.<ref name="deadline2021-04-21" />
+
+==References==
+{{Reflist}}
+{{Stub}}
+{{The Muppets}}
+[[Category:Biographical films]]
+[[Category:The Muppets]]
+[[Category:Live-action films]]

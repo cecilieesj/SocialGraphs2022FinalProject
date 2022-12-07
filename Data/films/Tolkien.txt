@@ -1,0 +1,66 @@
+{{Infobox film
+|name           = Tolkien
+|image          = Tolkien film promotional poster.jpg
+|border         = no
+|caption        = Theatrical release poster
+|director       = Dome Karukoski
+|producer       = Peter Chernin<br>David Ready<br>Kris Thykier<br>Jenno Topping
+|writer         = David Gleeson<br>Stephen Beresford
+|story          = 
+|starring       = Nicholas Hoult<br>Lily Collins<br>[[Colm Meaney]]<br>[[Derek Jacobi]]
+|music          = [[Thomas Newman]]
+|cinematography = Lasse Frank Johannessen
+|editing        = Harri Ylönen
+|studio         = [[Searchlight Pictures|Fox Searchlight Pictures]]<br>Chernin Entertainment
+|distributor    = Fox Searchlight Pictures
+|release       = [[May 3]], [[2019]] ([[United Kingdom]])<br>[[May 10]], [[2019]] ([[United States]])
+|runtime        = 112 minutes
+|country        = United States
+|language       = English
+|gross          =$9 million 
+|editor = Harri Ylonen
+|budget = $20 million
+|imdb_id = 3361792}}
+'''''Tolkien''''' is a [[2019]] American biographical fantasy film. It is the first [[Searchlight Pictures|Fox Searchlight]] film after Disney's acquisition of Fox on [[March 20]], [[2019]]. It is about the early life of English professor J. R. R. Tolkien, author of ''The Hobbit'' and ''The Lord of the Rings'', as well as notable academic works.
+
+==Plot==
+Tolkien explores the formative years of the orphaned author as he finds friendship, love, and artistic inspiration among a group of fellow outcasts at school. This takes him into the outbreak of World War I, which threatens to tear the "fellowship" apart. All of these experiences would inspire Tolkien to write his famous Middle-Earth novels.
+
+==Cast==
+*Nicholas Hoult as J. R. R. Tolkien
+**Harry Gilby as Young Tolkien
+*Lily Collins as Edith Bratt
+**Mimi Keene as Young Edith Bratt
+*[[Colm Meaney]] as Father Francis Morgan
+*[[Derek Jacobi]] as Professor Wright
+*Anthony Boyle as Geoffrey Bache Smith
+*Patrick Gibson as Robert Q. Gilson
+**Albie Marber as Young Robert Q. Gilson
+*Tom Glynn-Carney as Christopher Wiseman
+**Ty Tennant as Young Christopher Wiseman
+*Craig Roberts as Sam
+*Pam Ferris as Mrs. Faulkner
+*James MacCallum as Hilary Tolkien
+**Guillermo Bedward as Young Hilary Tolkien
+*[[Laura Donnelly]] as Mabel Tolkien
+*Genevieve O'Reilly as Mrs. Smith
+*Owen Teale as Headmaster Gilson
+*Samuel Martin as Red Eyed Captain
+
+==Gallery==
+===Promotional===
+<gallery position="center" spacing="medium">
+tolkien_poster_1.jpg
+Tolkien_poster_4.jpg
+</gallery>
+
+==External links==
+*[http://www.foxsearchlight.com/tolkien Official website]
+*[https://rottentomatoes.com/m/tolkien Rotten Tomatoes]
+*{{WP|Tolkien (film)|Tolkien}}
+{{DISPLAYTITLE:''Tolkien''}}
+[[Category:2019 films]]
+[[Category:Live-action films]]
+[[Category:Biographical films]]
+[[Category:20th Century Fox films]]
+[[Category:PG-13 rated films]]

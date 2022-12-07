@@ -1,0 +1,50 @@
+{{Infobox film        
+| name           = Jagga Jasoos 
+| image          = JaggaJasoosPoster.jpg
+| caption        = 
+| director       = Anurag Basu
+| producer       = Siddharth Roy Kapur<br>Anurag Basu<br>Ranbir Kapoor 
+| writer         = Anurag Basu
+| starring       = Ranbir Kapoor <br>Katrina Kaif<br>Saswata Chatterjee<br>Saurabh Shukla<br>Sayani Gupta
+| music          = Pritam
+| cinematography = Ravi Varman
+| editing        = Ajay Sharma
+| studio         = Picture Shuru Entertainment<br>Ishana Movies
+| distributor    = [[UTV Motion Pictures]]
+| release       = [[July 14]], [[2017]]
+| time        = 162 minutes <ref>{{cite web|url=http://www.bollywoodhungama.com/news/bollywood/jagga-jasoos-clocks-1-hours-29-minutes-sends-producers-tizzy-anurag-basu-wont-budge/|title=''Jagga Jasoos clocks 1 hours 29 minutes''|work=Bollywood Hungama|accessdate=11 July 2017}}</ref>
+| country        = [[India]]
+| language       = Hindi
+| budget         = 70 -75  crore <ref>[http://krkboxoffice.com/predictions/jagga-jasoos/box-office-collection-day-1-ranbir-kapoor-katrina-kaif-film-4750878/ Jagga Jasoos box office collection day 1: Ranbir Kapoor-Katrina Kaif film collects Rs 8.57 crore]. The Indian Express. Retrieved on 2017-07-15.</ref>
+| gross          = 33.17 crore <ref>[http://www.bollywoodhungama.com/news/box-office-special-features/box-office-worldwide-collections-day-wise-break-jagga-jasoos/ Box Office: Worldwide collections and day wise break up of Jagga Jasoos]. Bollywood Hungama (2016-07-15). Retrieved on 2017-07-15.</ref>
+| film_name      = {{Infobox name module|hi|जग्गा जासूस}}
+|imdb_id = 4129428}}
+'''''Jagga Jasoos''''' (English: ''Detective Jagga'') is a 2017 Indian film written and directed by Anurag Basu, and produced by Basu and Ranbir Kapoor. The film features Ranbir Kapoor and Katrina Kaif in lead roles, and tells the story of a teenage detective in search of his missing father. The film was released on 14 July 2017.<ref>{{Cite news|url=http://www.catchnews.com/bollywood-news/jagga-jasoos-finally-has-a-release-date-ranbir-kapoor-katrina-kaif-film-to-release-in-july-56651.html|title=Jagga Jasoos finally has a release date; Ranbir Kapoor – Katrina Kaif film to release in July|publisher=CatchNews.com|access-date=2017-04-04|language=en}}</ref>
+
+==Plot==
+Jagga (Ranbir Kapoor), a curious and shy young boy in a quaint little town lives a happy life with his accident-prone father, Bagchi (Saswata Chatterjee). After admitting Jagga into a boarding school, his father suddenly disappears. Feeling abandoned, Jagga's only contact with his father is a VHS tape that he receives in the mail every year on his birthday. Armed with sharp detective skills, Jagga sets out to solve the mystery of his missing parent. Along the way, he finds a partner in Shruti (Katrina Kaif) an accident-prone journalist with her own international criminal case to solve. Using a few tricks he learnt from Bagchi, with Shruti embark on a mission to uncover details of his father's mysterious life and finds himself embroiled in a worldwide smuggling racket.
+
+==Cast==
+*Ranbir Kapoor as Jagga <ref name="IE 2">{{cite news|last=staff|title=Playing detective in Cape Town|url=http://indianexpress.com/article/entertainment/screen/playing-detective-in-cape-town/|accessdate=7 July 2014|work=The Indian Express|date=13 June 2014}}</ref><ref name="TOI 2">{{cite news|last=Bhanage|first=Mihir|title=Multiple films with character name as title this year|url=http://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news-interviews/Haider-Jagga-Jasoos-Singham-2-Bobby-Jasoos-Bhavesh-Joshi-Samrat-Co-Lakshmi/articleshow/33490430.cms|accessdate=6 July 2014|agency=TNN|work=The Times of India|date=9 April 2014}}</ref>
+* Katrina Kaif as Shruti
+* Saswata Chatterjee as Bagchi, Jagga's guardian whom he calls TutiFuti.
+* Kiran Srinivas
+* Chitrak Bandyopadhyay as Fat sidekick
+* Sayani Gupta as Little Girl<ref>{{cite web |url=http://indianexpress.com/article/entertainment/bollywood/ranbir-kapoor-is-outstanding-sayani-gupta/| title=Ranbir Kapoor is outstanding: Sayani Gupta | work=indianexpress.com/}}</ref>
+* Saurabh Shukla as Ex IB Officer Sinha
+* Rajatava Dutta
+* Denzil Smith
+* Mir Sarwar
+* Bijou Thaangjam
+* Nawazuddin Siddiqui as Two-Headed Bashir Alexander, (Guest Appearance)
+==Release==
+The film was released on July 14, 2017 worldwide. A sneak peek of the film was released on December 19, 2016 Jagga Jasoos'' received mostly positive reviews from film critics.<ref>{{Cite news|last=Sharma|first=Dipti|url=http://indianexpress.com/article/entertainment/bollywood/box-office-collection/jagga-jasoos-box-office-collection-day-3-ranbir-kapoor-4753536/
+|title= Jagga Jasoos box office collection day 3: Ranbir Kapoor film suffers from high budget |date= 2017-07-14 |work= The Indian Express |access-date=16 July 2017 |language= en}}</ref>''
+==References==
+{{Reflist|30em}}
+{{DISPLAYTITLE:''Jagga Jasoos''}}
+[[Category:Films]]
+[[Category:2017 films]]
+[[Category:Live-action films]]
+[[Category:Indian films]]
+[[Category:Buena Vista International films]]

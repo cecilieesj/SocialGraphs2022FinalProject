@@ -1,0 +1,223 @@
+{{Marvel Database:Film Template
+| Image                   = Thor The Dark World poster 002.jpg
+| Aliases                 = Thor 2<br>Thursday Mourning (working title)
+
+| Directors               = Alan Taylor
+| Producers               = Kevin Feige
+| ComicWriters            = [[Stan Lee]]; [[Larry Lieber]]; [[Jack Kirby]]
+| StoryWriters            = Don Payne; Robert Rodat
+| ScreenplayWriters       = Christopher Yost; Christopher Markus; Stephen McFeely
+| Musicians               = Brian Tyler
+| Cinematographers        = Kramer Morgenthau
+| Editors                 = Dan Lebental; Wyatt Smith
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = 112 minutes
+| Rating                  = '''MPAA:''' PG-13 for sequences of intense sci-fi action and violence, and some suggestive content
+| Budget                  = $170 million
+| Release Date            = October 30, 2013
+| US Release Date         = November 8, 2013
+| AM ID                   = thor-the-dark-world-v546686
+| IMDB ID                 = 1981115
+| Marvel Movies           = Thor: The Dark World
+| MCU                     = Thor: The Dark World
+
+| Previous Film           = Thor (film)
+| Previous Film2          = {{sld|Marvel's The Avengers}}
+| Next Film               = Avengers: Age of Ultron
+| Next Film2              = {{sld|Thor: Ragnarok}}
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Thor Odinson (Earth-199999)|Thor]]|Marvel's Thor: The Dark World Prelude Vol 1 2|Avengers: Age of Ultron}}
+'''Supporting Characters:'''
+* {{apn|[[Loki Laufeyson (Earth-199999)|Loki]]|Marvel's Thor: The Dark World Prelude Vol 1 2|Thor: Ragnarok}} {{g|Impersonates [[Steven Rogers (Earth-199999)|Captain America]], [[Einherjar (Earth-199999)|Einherjar]] Captain, and [[Odin Borson (Earth-199999)|Odin]]}}
+* {{apn|[[Odin Borson (Earth-199999)|Odin]]|Marvel's Thor: The Dark World Prelude Vol 1 2|Thor: Ragnarok}}
+* {{apn|[[Frigga (Earth-199999)|Frigga]]|Marvel's Thor: The Dark World Prelude Vol 1 2|-}} {{Death}}
+* {{apn|[[Sif (Earth-199999)|Lady Sif]]|Marvel's Thor: The Dark World Prelude Vol 1 2|Marvel's Guardians of the Galaxy Prequel Infinite Comic Vol 1 1}}
+* {{a|[[Warriors Three (Earth-199999)|Warriors Three]]}}
+** {{apn|[[Volstagg (Earth-199999)|Volstagg the Valiant]]|Marvel's Thor: The Dark World Prelude Vol 1 2|Marvel's Guardians of the Galaxy Prequel Infinite Comic Vol 1 1}}
+** {{apn|[[Fandral (Earth-199999)|Fandral the Dashing]]|Marvel's Thor: The Dark World Prelude Vol 1 2|-}}
+** {{apn|[[Hogun (Earth-199999)|Hogun the Grim]]|Marvel's Thor: The Dark World Prelude Vol 1 2|Thor: Ragnarok}}
+* {{apn|[[Jane Foster (Earth-199999)|Dr. Jane Foster]]|Marvel's Thor: The Dark World Prelude Vol 1 2|-}}
+* {{apn|[[Darcy Lewis (Earth-199999)|Darcy Lewis]]|Marvel's Thor: The Dark World Prelude Vol 1 2|WandaVision Season 1 1}}
+* {{1st|[[Ian Boothby (Earth-199999)|Ian Boothby]]}}
+* {{apn|[[Erik Selvig (Earth-199999)|Dr. Erik Selvig]]|Marvel's Thor: The Dark World Prelude Vol 1 2|Avengers: Age of Ultron}}
+* {{apn|[[Heimdall (Earth-199999)|Heimdall]]|Marvel's Thor: The Dark World Prelude Vol 1 2|Thor: Ragnarok}}
+'''Antagonists:'''
+* {{Only Dies|[[Malekith (Earth-199999)|Malekith]]}} {{Flashback}}
+* {{Only Dies|[[Algrim (Earth-199999)|Kurse (Algrim)]]}} {{Flashback}}
+* {{1st|[[Marauders (Earth-199999)|Marauders]]}}
+** A {{Death|[[Berserkers (Marauders) (Earth-199999)|Berserker]]}}
+'''Other Characters:'''
+* {{1st|[[Bor Burison (Earth-199999)|Bor]]}}
+* {{1st|[[Einherjar (Earth-199999)|Einherjar]]}}
+* {{apn|[[Hugin (Earth-199999)|Hugin]]|Thor (film)|-}}
+* {{apn|[[Munin (Earth-199999)|Munin]]|Thor (film)|-}}
+* {{Cameo|[[Hildegund (Earth-199999)|Hildegund]]}}
+* {{1st|[[Richard Madison (Earth-199999)|Richard Madison]]}}
+* [[Character Index/Earth-199999#John|John]] {{1st}}
+* [[Character Index/Earth-199999#Navid|Navid]] {{1st}}
+* [[Character Index/Earth-199999#Maddie|Maddie]] {{1st}}
+* {{1st|[[Metropolitan Police Service (Earth-199999)|Metropolitan Police Service]]}}
+* {{Mentioned|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]]}}
+* {{1st|[[Eir (Earth-199999)|Eir]]}}
+* {{1st|[[Tyr (Earth-199999)|Tyr]]}}
+* {{a|[[Stan Lee (Earth-199999)|Stan Lee]]}}
+* {{Mentioned|[[Avengers (Earth-199999)|Avengers]]}}
+* {{Cameo|[[Tivan Group (Earth-199999)|Tivan Group]]}}
+** {{apn|[[Carina (Earth-199999)|Carina]]|-|Marvel's Guardians of the Galaxy Prequel Infinite Comic Vol 1 1}} {{1st}} {{Cameo}} {{Unnamed}}
+** {{apn|[[Taneleer Tivan (Earth-199999)|Collector (Taneleer Tivan)]]|-|Marvel's Guardians of the Galaxy Prequel Infinite Comic Vol 1 1}} {{1st}} {{Cameo}}
+'''Races and Species:'''
+* {{a|[[Asgardians]]}}
+* {{a|[[Dark Elves]]}}
+* {{a|[[Vanir (Gods)|Vanir]]}}
+* Marauder Races
+** {{a|[[Kronans]]}}
+** {{1st Unnamed|[[Hurctarians]]}}
+** {{Unnamed|[[R'malk'i]]}}
+** {{Unnamed|[[Yrds]]}}
+** {{Unnamed|[[Sakaarans]]}}
+** {{1st Unnamed|[[Easik (Race)|Easik]]}}
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Frost Giants|Jotuns]]}}
+** {{a|[[Frost Beasts]]}}
+'''Locations:'''
+* {{a|[[Earth-199999|199999 Universe]]}}
+** [[Glossary:Ten Realms|Nine Realms]]
+*** {{a|[[Svartalfheim]]}}
+*** {{a|[[Vanaheim (Ten Realms)|Vanaheim]]}}
+*** {{a|[[Asgard (Realm)|Asgard]]}}
+**** {{a|[[Asgard (City)|City of Asgard]]}}
+***** {{a|[[Odin's Vault]]}}
+**** {{a|[[Bifrost]]}}
+**** {{a|[[Himinbjörg]]}}
+*** {{a|[[Jotunheim]]}}
+*** {{a|[[Earth|Midgard (Earth)]]}}
+**** {{a|[[United Kingdom]]}}
+***** {{a|[[England]]}}
+****** {{a|[[London (England)|London]]}}
+******* {{a|[[30 St Mary Axe|The Gherkin]]}}
+******* {{a|[[St. Paul's Cathedral]]}}
+******* Old Vinyl Factory, Blyth Road, Hayes, West London
+******* {{a|[[Greenwich]]}}
+******** {{a|[[University of Greenwich]]}}
+****** {{a|[[Wiltshire]]}}
+******* {{a|[[Amesbury]]}}
+******** {{a|[[Stonehenge (Location)|Stonehenge]]}}
+**** {{Mentioned|[[United States of America]]}}
+***** {{Mentioned|[[New York (State)|New York]]}}
+***** {{Mentioned|[[New Mexico (State)|New Mexico]]}}
+*** {{1st|[[Muspelheim]]}}
+*** {{Mentioned|[[Alfheim]]}}
+*** {{Mentioned|[[Nidavellir]]}}
+*** {{Mentioned|[[Niffleheim]]}}
+**** {{Mentioned|[[Hel]]}}
+** {{Named|[[Earth-616|616 Universe]]}}
+** {{Named|[[Fault|The Fault]]}}
+** {{Named|[[Crossroads (Dimension)|The Crossroads]]}}
+** {{Named|[[Nexus of All Realities]]}}
+** {{1st|[[Knowhere]]}}
+*** {{1st|[[Collector's Museum]]}}
+'''Items:'''
+* {{1st|[[Infinity Stones]]}}
+** {{1st|[[Reality Stone|Aether]]}}
+** {{Mentioned|[[Space Stone]]}}
+* {{a|[[Fimbuldraugr]]}}
+* {{a|[[Hridgandr]]}}
+* {{a|[[Mjolnir]]}}
+* {{a|[[Gungnir (Spear)|Gungnir]]}}
+* {{a|[[Hofund]]}}
+* {{Illusion|[[Captain America's Shield]]}}
+* {{Illusion|[[Captain America's Uniform]]}}
+* {{Mentioned|[[Space Stone|Tesseract]]}}
+'''Vehicles:'''
+* {{1st|[[Skidbladnir|Asgardian skiff]]}}
+* [[Dark Elves|Dark Elf]] warship
+* [[Dark Elves|Dark Elf]] stealth fighter
+* Foden truck - cement mixer with Norman Emerson & Sons branding
+* [[Wikipedia:London Underground|The London Underground (The Tube)]]
+* [[Metropolitan Police Service (Earth-199999)|Metropolitan Police Service]] cars (response car, or "panda" car)
+* [[Metropolitan Police Service (Earth-199999)|Metropolitan Police Service]] [[wikipedia:Armed response vehicle|armed response vehicle]]
+
+| Plot                    = [[Odin Borson (Earth-199999)|Odin]] tells the story of how his father, [[Bor Burison (Earth-199999)|Bor]], fought against the [[Dark Elves]]. Every five-thousand years a cosmic event, called the Convergence, causes the Nine Realms to become aligned, and [[Malekith (Earth-199999)|Malekith]], the leader of the Dark Elves, planned to use this event and release the Aether, a relic from before the universe, to plunge the Nine Realms back into darkness. But the Asgardians intervened and took the Aether from the Dark Elves by force, watching as that race was apparently decimated in the destruction of their warships. Bor then had the Aether hidden away where none could find it, and over the following five millennia, its story faded from known history.
+
+In the present day of 2013 Odin gives Loki a life-sentence in prison for his crimes. The power from the Tesseract was used to rebuild the Bifrost. Thor and the Warriors Three battle in Vanaheim. After the battle is won, Thor tells Hogun to stay there with his people as the rest of them go back to Asgard. A party is held for Thor, for restoring the peace in the nine realms but he leaves quickly. He wants to ask Heimdall how Jane Foster is doing. The next day Odin tells Thor that he should not hold on to Jane too much since she will die long before Thor.
+
+Back on Earth, England, Jane Foster is a date with a man called Richard. But then Darcy interrupts, saying that Jane's device is beeping a lot. It hasn't done that since the events in New Mexico. They get in the car where Darcy's intern, Ian Boothby is waiting for them. They drive to where the signal is the highest and end up at some storage house. There some kids show them what's going on. The Convergence which takes place every 5000 years is soon to happen again and some time before that there will be flaws in the laws of physics, like random objects not being affected by gravity and portals into the other realms. They find a portal place and start to throw things in there. Sometimes they come back and sometimes they don't. Ian throws his car keys in there but they don't come back. While Darcy, Ian, and the kids continue to play around with the portal Jane goes to a dark entrance and is sucked in. This appears to have been a portal as well. It takes Jane to the vault where the Aether is and she accidentally releases it. The Aether then gets absorbed by Jane against her will and five hours later she wakes up at the storage house. She walks outside where Darcy and Ian had been waiting. The police had been called there by Darcy and when a policeman tries to touch Jane the Aether sends him away. Jane notices a circle of rain around her and then Thor gets beamed down to earth. Jane slaps him in the face to check if he was real then one more time for taking two years to visit her even though he was on earth during the events of The Avengers. He then grabs her and they get beamed up to Asgard.
+
+Once there, Heimdall greets them, but she is quickly taken to the healing chambers so that they could find out what's wrong with her. They find the Aether in her body but they don't know what it is. Odin comes and orders for her to be taken back to earth but when a guard touches her wrist he is also sent away, like the police, and Odin starts to understand what he's dealing with. He tells Jane that there are relics from before the universe usually resembling stones but the Aether is more like a liquid. He tells Jane about the Dark Elves. She asks if the Dark Elves is truly dead and Odin insists that they are.
+
+Malekith has felt the call of the Aether. He awakens in his ship and he makes his second in command, Algrim, become a cursed one, a sort of super Dark Elf. Algrim then gets captured and transforms into a cursed one, inside the prison cell. He frees all the prisoners but Loki and they start a riot. At the same time, Malekith sends away some ships into Asgard and invades the main building. A battle takes place. Frigga creates an illusion of Jane but when Algrim learns that Jane isn't there he grabs Frigga in a headlock and stabs her in the back, killing her. Thor saw his mother fall down bleeding on the ground so he burned half of Malekith's face with a lightning ball and threw the hammer into Algrim and Malekith, accidentally sending them back to their ship.
+
+A funeral is later held for the dead Asgardians and Frigga. Thor knows Malekith will return for Jane, but blinded by hate and grief Odin won't let Thor move her. So Thor comes up with a plan to move her even if he would then commit treason and in the worst case get them killed. He asks if Heimdall could keep quiet. And since Loki managed to get three Frost Giants into Asgard Thor hopes that his brother can take them to Svartalfheim. Thor, Jane, and Loki then jump on to the Dark Elf ship. While Sif and Volstagg delay the guards, Thor flies out beside the Bifrost Bridge, pushes out Loki and jumps out with a sick Jane in his arms. They all land on a smaller Asgardian ship that Fandrall has been driving. They get hunted by an Asgardian patrol but Fandrall swings over to their ship and knocks out the soldiers. Loki then drives through the secret passage that takes them to Svartalfheim.
+
+While there, Jane regains her strength and they land in the wastelands of Svartalfheim. Thor starts to talk about wanting to trust Loki. Then Loki says he can't and use his dagger to cut Thor's hand off. Malekith has been there waiting for them and Loki tells him that all he want in return for Jane, is a good spot where he can see Asgard burn. Algrim remembers seeing Loki in a prison cell so he tells Malekith Loki is an enemy of Asgard. Malekith then start to draw the Aether out of Jane but when still absorbing it Thor shouts ''Loki!'' and it appears that Loki only created an illusion of cutting off Thor's arm off and Thor calls for Mjolnir. He then shoots a lightning bolt on the Aether causing it to explode. Loki jumps on top of Jane to prevent the Aether explosion from hitting her. Although, Malekith has already absorbed enough power and he leaves telling Algrim to take care of the rest. Algrim throws an implosion bomb in the air and Loki almost gets sucked in but Thor saves him. Algrim starts to beat up Thor but Loki then stabs him in the back with a sword. Algrim, being a cursed one, isn't injured and he grabs Loki and pushes him towards his chest. The blade sticking out of Algrim's chest then pierces Loki's solar plexus. Loki managed to press one of Algrim's implosion bombs and Algrim dies. Seemingly, Loki dies in Thor's arms. Thor and Jane then enter a cave that seems to have all the objects that didn't come back when Ian, Darcy, and the kids played at the storage house. Jane grabs Ian's car keys and as she and Thor continue into the cave, they get transported back to the storage house in England.
+ 
+An Asgardian guard rose up from the same place where Loki had died with a green light around him. The guard went to Odin telling him that Loki's body has been found in Svartalfsheim.
+
+Darcy and Ian see on the news that Erik Selvig has been running around naked at Stonehenge. He has now been put in a retirement home. They go there to get him out, and he tells them he got crazy after having Loki in his head. He has studied the Convergence and developed a new machine, looking like spears, which can teleport things from one area to another. They meet up with Thor and Jane and Erik tells them that the people who lived in England 5000 years ago had built certain objects to create a secret map to where the cosmic event would happen next. And that place was Greenwich.
+
+When they got there, the worlds were almost in line and Malekith had landed. Thor and Malekith started to fight and the fight took them through many different worlds, one of them being Jotunheim, where a monster attack them and is brought to Midgard/Earth. The Dark Elf warriors started to invade Greenwich but Selvig's devices could teleport some of them away. Darcy and Ian were accidentally teleported away a few blocks, together with three Dark Elf Warriors. The warriors were going to attack Darcy but Ian saw a car not affected by gravity, so he took it up and smashed it on to the Dark Elves, saving Darcy's life. They kissed as Jane then teleported them back. Malekith, now back on earth, had started to release the Aether. Thor cached up with Jane and Erik. They said neither of them could get close to Malekith. But Thor, being the son of the All-father, could. He took Erik's devices and threw them on to Malekith's arms teleporting them to Svartalfheim. Then he threw the last one in Malekith's chest teleporting him to Svartalfheim. But now Malekith's ship started to fall down onto their heads. Luckily Erik's devices teleported the ship away and it crashed down on top of Malekith, killing him.
+
+Back in Asgard, Thor talks to Odin about not wanting to take over the throne. When Thor walks away Odin starts to laugh, and with a flicker of green light, Odin transforms into Loki.
+
+Sif and Volstagg hand the captured Aether to [[Taneleer Tivan (Earth-199999)|The Collector]] who asks why they don't keep it alongside the [[Cosmic Cube|Tesseract]]. They replied by saying it would be too dangerous to keep two [[Infinity Stones]] so close.
+
+Thor gets transported back down to Earth with Jane embracing and kissing him. After that, a monster from Jotunheim walks freely through the town.
+
+| Cast                    = * [[Wikipedia:Chris Hemsworth|Chris Hemsworth]] as [[Thor Odinson (Earth-199999)|Thor]]
+* [[Wikipedia:Natalie Portman|Natalie Portman]] as [[Jane Foster (Earth-199999)|Jane Foster]]
+* [[Wikipedia:Tom Hiddleston|Tom Hiddleston]] as [[Loki Laufeyson (Earth-199999)|Loki]]
+* [[Wikipedia:Stellan Skarsgård|Stellan Skarsgård]] as [[Erik Selvig (Earth-199999)|Erik Selvig]]
+* [[Wikipedia:Idris Elba|Idris Elba]] as [[Heimdall (Earth-199999)|Heimdall]]
+* [[Wikipedia:Christopher Eccleston|Christopher Eccleston]] as [[Malekith (Earth-199999)|Malekith the Accursed]]
+* [[wikipedia:Adewale Akinnuoye-Agbaje|Adewale Akinnuoye-Agbaje]] as [[Algrim (Earth-199999)|Kurse / Algrim the Strong]]
+* [[Wikipedia:Kat Dennings|Kat Dennings]] as [[Darcy Lewis (Earth-199999)|Darcy Lewis]]
+* [[Wikipedia:Ray Stevens|Ray Stevens]] as [[Volstagg (Earth-199999)|Volstagg]]
+* [[Wikipedia:Zachary Levi|Zachary Levi]] as [[Fandral (Earth-199999)|Fandral]]
+* [[wikipedia:Tadanobu Asano|Tadanobu Asano]] as [[Hogun (Earth-199999)|Hogun]]
+* [[Wikipedia:Jaimie Alexander|Jaimie Alexander]] as [[Sif (Earth-199999)|Sif]]
+* [[wikipedia:Chris O'Dowd|Chris O'Dowd]] as Richard Madison
+* [[wikipedia:Alice Krige|Alice Krige]] as [[Eir (Earth-199999)|Eir]]
+* [[Wikipedia:Rene Russo|Rene Russo]] as [[Frigga (Earth-199999)|Frigga]]
+* [[Wikipedia:Anthony Hopkins|Anthony Hopkins]] as [[Odin Borson (Earth-199999)|Odin]]
+
+[[wikipedia:Clive Russell|Clive Russell]] appears as [[Tyr (Earth-199999)|Tyr]]. [[wikipedia:Jonathan Howard (actor)|Jonathan Howard]] portrays [[Ian Boothby (Earth-199999)|Ian Boothby]]. [[wikipedia:Richard Brake|Richard Brake]] appears as an Einherjar Captain. [[wikipedia:Stan Lee|Stan Lee]] makes a cameo appearance as a hospital ward resident. [[Wikipedia:Chris Evans (actor)|Chris Evans]] makes an uncredited cameo as an illusion of [[Steven Rogers (Earth-199999)|Captain America]]. [[wikipedia:Tony Curran|Tony Curran]] makes an uncredited appearance as [[Bor Burison (Earth-199999)|Bor]]. In the mid-credits scene, [[Wikipedia:Benicio Del Toro|Benicio Del Toro]] and [[wikipedia:Ophelia Lovibond|Ophelia Lovibond]] make uncredited appearances as [[Taneleer Tivan (Earth-199999)|the Collector]] and [[Carina (Earth-199999)|his servant]], respectively.
+
+| Notes                   = * [[Wikipedia:Patty Jenkins|Patty Jenkins]] was originally set to direct the film, but after a few months, she exited the project due to "creative differences". [[Alan Taylor]] was hired to direct by the end of 2011.
+* [[Wikipedia:Zachary Levi|Zachary Levi]] replaces [[Wikipedia:Joshua Dallas|Joshua Dallas]] as Fandral from the first movie.
+* [[James Gunn]] (director of ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]'') handled the mid-credits scene.
+* The film is dedicated to writer [[Don Payne]], who passed away before the film's release.
+| Trivia                  = 
+==Gallery==
+===Alternate Posters===
+<gallery>
+Thor The Dark World poster 001.jpg
+Thor The Dark World poster 003.jpg
+Thor The Dark World poster 004.jpg
+Thor The Dark World poster 005.jpg
+Thor The Dark World poster 006.jpg
+Thor The Dark World poster 007.jpg
+Thor The Dark World poster 008.jpg
+Thor The Dark World poster 009.jpg
+Thor The Dark World poster 010.jpg
+Thor The Dark World poster 011.jpg
+Thor The Dark World poster 012.jpg
+Thor The Dark World poster 013.jpg
+Thor The Dark World poster 014.jpg
+Thor The Dark World poster 015.jpg
+</gallery>
+===Videos===
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Thor The Dark World Official Trailer HD
+Thor The Dark World TRAILER 2 (2013) - Chris Hemsworth, Tom Hiddleston Movie HD
+</Gallery>
+* Star Chris Hemsworth revealed that the ''Thor'' sequel would be more influenced by Norse mythology, stating "I think the science fiction element to ''Thor''… the danger is it falls a little bit into the world of it's 'tough to throw a light to.' I think of big waterfalls and mountains and a Viking influence, where the Norse mythology kind of grew from. Having that in Asgard is going to make it all the more special and that's what Alan [Taylor] wants to bring to it."
+* The teaser poster for the film was originally a set photo that was later photoshopped.<ref>{{cite web|url=http://www.bleedingcool.com/2013/04/19/first-poster-for-thor-the-dark-world-is-a-photoshopped-set-picture/|title=First Poster For Thor: The Dark World Is A Photoshopped Set Picture|date=19 April 2013|accessdate=21 April 2013||work=Bleeding Cool}}</ref>
+* [[Erik Selvig (Earth-199999)|Erik Selvig]]'s board in the asylum features Easter eggs of the [[Earth-616]] and the [[Crossroads (Dimension)|Crossroads]], as as they are both written on it.
+| Links                   = *[[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[es:Thor: The Dark World]]
+[[it:Thor: The Dark World]]
+[[Category:Marvel Studios]]

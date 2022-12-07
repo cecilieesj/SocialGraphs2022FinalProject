@@ -1,0 +1,29 @@
+{{Infobox film
+| name           = A Trip Through the Walt Disney Studios
+| image          = File:DisneyTreasures02-disneystudio.jpg
+| caption        = The cover of ''Walt Disney Treasures: Wave Two'', which featured the film.
+| narrator       = [[Walt Disney]]
+| release       = [[1937]] <small>([[RKO Radio Pictures]])</small><br>[[December 3]], [[2002]] <small>([[Walt Disney Treasures: Wave Two]])</small>
+}}
+'''''A Trip Through the Walt Disney Studios''''' was a documentary made in response to requests from members of [[RKO Radio Pictures]] for a [[wiktionary:behind the scenes|behind the scenes]] look at Walt Disney Studios. The film was never intended for public showing; it was only shown to executives at RKO. However, footage from this documentary was recycled into a shorter featurette, ''How Walt Disney Cartoons Are Made'', which was released to public audiences. It was shot in the first week of July [[1937]].
+
+==Synopsis==
+The film opens with the Walt Disney Studios sign with [[Mickey Mouse]] on it. The camera then pans over to the studio building and parking lot. Before the tour, Walt Disney is at his desk with a snappy outfit with a tie and a boutonniere, with a baby photo of him on the left, and models of the dwarfs on the right and right next to him is lifelong secretary, Dolores Vought.
+
+When you see the legendary animator [[Fred Moore]] draw [[Mickey Mouse]], he is using a grease pencil instead of a normal lead pencil, because drawings with thin pencil lines wouldn't photograph well.
+
+Some of the other Disney Studio stalwarts seen in the film include, but are not limited to, [[Norman Ferguson|Norm Ferguson]], Webb Smith, [[Jack Kinney]], [[Hamilton Luske]], [[Jimmy MacDonald|James MacDonald]], [[Les Clark]], [[Frank Churchill]], [[Leigh Harline]] and [[Oliver Wallace]].
+
+==Availability==
+The film can be found on the DVD set ''[[Walt Disney Treasures]]: Behind the Scenes at the Walt Disney Studio''. [http://www.thedigitalbits.com/reviews2/wdtbehinddisneystudio.html] It was also present (along with ''How Walt Disney Cartoons are Made'') on the 2001 [[DVD]] release of [[Snow White and the Seven Dwarfs]], the film being portrayed in the documentary.
+
+==Gallery==
+<gallery>
+1937-trip-1.jpg
+1937-trip-2.jpg
+1937-trip-3.jpg
+</gallery>
+
+{{DEFAULTSORT:Trip Through the Walt Disney Studios, A}}{{Wikipedia}}
+[[Category:1937 films]]
+[[Category:Documentaries]]

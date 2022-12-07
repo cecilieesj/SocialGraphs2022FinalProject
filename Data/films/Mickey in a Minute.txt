@@ -1,0 +1,36 @@
+{{Infobox film
+|image = 
+|imagewidth = 
+|name = Mickey in a Minute
+|director = 
+|producer = 
+|writer = 
+|starring = [[Bret Iwan]]
+|music = 
+|studio = [[Walt Disney Animation Studios]]
+|distributor = 
+|release = [[March 19]], [[2022]]<br>[[November 18]], 2022 <small>(Disney+)</small>
+|language = English
+|preceded =''[[Get a Horse!]]'' 
+|followed = }}
+
+{{NeedImage}}
+
+'''''Mickey in a Minute''''' is a [[2022]] animated short produced by [[Walt Disney Animation Studios]].
+
+==Synopsis==
+While touring the halls of the Disney Animation building, Mickey Mouse gets sucked into one of his old cartoon posters and takes a "whirlwind" trip through his past performances.
+
+==Characters==
+*[[Mickey Mouse]] (voiced by [[Bret Iwan]])
+
+==Trivia==
+*This short was created as a segment of the Disney documentary feature, ''[[Mickey: The Story of a Mouse]]'', which also contains looks at the making of the short.
+*The designs/costumes Mickey takes on during the short are from, in reverse chronological order: ''[[Mickey's Christmas Carol]]'', ''[[Mickey Mouse Club|The Mickey Mouse Club]]'' (specifically, his "Talent Round-Up" outfit), ''[[Fantasia]]'', ''[[Brave Little Tailor]]'' (with an appearance by the Giant), ''[[The Band Concert]]'', ''[[Mickey's Gala Premier]]'', and ''[[Steamboat Willie]]''.
+
+==Gallery==
+
+{{Mickey-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:2022 shorts]]

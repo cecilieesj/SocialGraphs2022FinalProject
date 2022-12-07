@@ -1,0 +1,47 @@
+{{Marvel Database:Film Template
+| Image                   = Deadpool 3 Logo.jpg
+| Aliases                 = Deadpool 3<!--Placeholder title-->
+
+| Directors               = Shawn Levy
+| Producers               = Kevin Feige; Ryan Reynolds
+| ScreenplayWriters       = Wendy Molyneux; Lizzie Molyneux-Loeglin; Rhett Reese; Paul Wernick
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = 
+| Running Time            = 
+| Rating                  = 
+| Budget                  = 
+| Release Date            = November 8, 2024
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* <br/>
+'''Supporting Characters:'''
+* <br/>
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* <br/>
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* [[Earth-199999]]
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * {{WP|Ryan Reynolds}} as '''[[Deadpool|Deadpool / Wade Wilson]]'''<!--No assumption made of which version-->
+
+* {{WP|Hugh Jackman}} as '''[[James Howlett|Wolverine / Logan]]'''<ref>{{cite web|url= https://variety.com/2022/film/news/hugh-jackman-wolverine-1235385694/|title= Hugh Jackman Is Back as Wolverine in ‘Deadpool 3’ With Ryan Reynolds|work= Variety|last= Moreau|first= Jordan|date= September 27, 2022|accessdate= September 27, 2022}}</ref><!--No assumption made of which version-->
+
+| Notes                   = * Originally slated to be released on September 6, 2024, this film was later pushed back to November 8, 2024.<ref>{{cite web|url= https://deadline.com/2022/10/blade-fantastic-four-avengers-secret-wars-release-dates-shift-1235141388/|title= Marvel Shifts Release Dates For ‘Blade’, ‘Fantastic Four’, ‘Avengers: Secret Wars’, Next ‘Deadpool’ Among Disney Moves|work= Deadline|last= Grobar|first= Matt|date= October 11, 2022|accessdate= October 12, 2022}}</ref>
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}

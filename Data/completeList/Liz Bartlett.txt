@@ -1,0 +1,21 @@
+{{Infobox_character
+|films = ''[[The Cat from Outer Space]]''
+|actress = [[Sandy Duncan]]
+|image = DoctorLizBartlett.jpg
+|fullname = Doctor Elizabeth Bartlett
+|name = Doctor Elizabeth "Liz" Bartlett
+|alias = Liz<br>Doctor Bartlett
+|pets = Lucybelle (cat)
+|occupation = Physicist of Energy Research Lab
+|alignment = Good}}'''Doctor Elizabeth "Liz" Bartlett''' is a physicist who specializes in thermal physics in ''[[The Cat from Outer Space]]''. Liz was brought in [[Zunar-J-5/9 Doric-4-7|Jake]]'s secret when Dr. Wilson and Dr. Link were trying to raise money to buy gold.
+
+{{CharacterStub}}
+{{The Cat from Outer Space}}
+{{DEFAULTSORT:Bartlett, Liz}}
+[[Category:Disney characters]]
+[[Category:Live-action characters]]
+[[Category:The Cat from Outer Space characters]]
+[[Category:Females]]
+[[Category:Adults]]
+[[Category:Scientists]]
+[[Category:Lovers]]

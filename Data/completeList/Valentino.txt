@@ -1,0 +1,43 @@
+{{Upcoming|media=character}}
+{{Infobox character
+|image = Valentino.jpg
+|films = ''[[Wish]]'' (upcoming)
+|animator = 
+|designer = 
+|voice = [[Alan Tudyk]]<ref name="Comicbook"/>
+|model = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = 
+|occupation = Asha's pet goat
+|affiliations = 
+|home = Rosas
+|likes = Talking
+|dislikes = 
+|powers= Speech
+|status = 
+|owner = [[Asha]]}}
+'''Valentino''' is a character in the [[Walt Disney Animation Studios|Disney]]'s upcoming [[2023]] animated feature film, ''[[Wish]]''. He is [[Asha|Princess Asha]]'s pet goat who wishes for the ability to communicate.<ref name="Comicbook">{{Cite web|url=https://comicbook.com/movies/news/disneys-wish-animated-musical-wishing-star-announced-2023-ariana-debose/|title=Disney's Wish, Animated Musical About Wishing Star, Announced For 2023 With Ariana DeBose|website=Comicbook|accessdate=September 10, 2022}}</ref>
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+Asha.jpg|First look at Asha and Valentino
+Valentino-the-Goat.jpg|First look at Valentino
+Wish First Look.jpg
+File:D23 EXPO - Asha and Valentino display 1.jpg
+File:D23 EXPO - Asha and Valentino display 2.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+{{CharacterStub}}
+{{Wish}}
+[[Category:Wish characters]]
+[[Category:Males]]
+[[Category:Animated characters]]
+[[Category:Disney characters]]
+[[Category:Protagonists]]
+[[Category:Pets]]
+[[Category:Characters in the Disney animated features canon]]
+[[Category:Goats]]

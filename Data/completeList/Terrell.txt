@@ -1,0 +1,17 @@
+{{NeedImage}}
+{{Infobox_character
+|image = 
+|name = Terrell
+|films = ''[[Hollywood Stargirl]]''
+|actor = Tyrel Jackson Williams
+|inspiration = Hollywood film director
+|home = Los Angeles, California
+|likes = [[Stargirl Caraway|Stargirl]], his [[Evan (Stargirl)|brother]], making movies, working at [[Forte (Stargirl)|Forte]], music
+|status = Active
+|parents = Daphne (mother)<br>George (father)
+|siblings = [[Evan (Stargirl)|Evan]] (his brother)}}{{Quote|Well, for me, it's about the movie. I believe in myself. I know I'll make it. For [[Evan (Stargirl)|Evan]], it's about you.|Terrell to [[Stargirl Caraway|Stargirl]]}}
+
+'''Terrell''' is a protagonist of Disney's [[2022]] film, ''[[Hollywood Stargirl]]''. He is the film maker in Los Angeles, alongside his new friend, [[Stargirl Caraway]] and his [[Evan (Stargirl)|brother]] as a director. He also worked as a server at the night club, [[Forte (Stargirl)|Forte]].
+{{CharacterStub}}
+[[Category:Siblings]]
+[[Category:Disney characters]]

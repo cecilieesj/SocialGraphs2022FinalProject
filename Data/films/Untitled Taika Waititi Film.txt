@@ -1,0 +1,44 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Untitled Taika Waititi Film
+|director = [[Taika Waititi]]
+|producer = [[Kathleen Kennedy]]
+|writer = Taika Waititi<br>Krysty Wilson-Cairns
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Lucasfilm]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = Late [[2023]]
+|time = 
+|language = 
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = }}
+'''''Untitled Taika Waititi Film''''' is an upcoming untitled ''[[Star Wars]]'' film by [[Lucasfilm]]. It will be released in late [[2023]].
+
+==Premise==
+A brand-new ''Star Wars'' feature with acclaimed filmmaker and Academy Award-winner [[Taika Waititi]] is in development. “Taika’s approach to ''Star Wars'' will be fresh, unexpected, and unique,” said Kennedy. “His enormous talent and sense of humor will ensure that audiences are in for an unforgettable ride.”<ref>[https://www.starwars.com/news/future-lucasfilm-projects-revealed Future Lucasfilm Projects Revealed]</ref>
+
+==Production==
+===Development===
+On January, The Hollywood Reporter revealed that Taika Waititi was approached for a ''Star Wars'' movie. It was announced on May 4, 2020.<ref>[https://www.hollywoodreporter.com/heat-vision/taika-waititi-courted-star-wars-movie-1269996 Taika Waititi Courted for ‘Star Wars’ Movie (Exclusive)]</ref>
+
+On May 27, 2022, in an interview with ''Total Film'', [[Kathleen Kennedy]] confirmed that the film would be released in late [[2023]].<ref>[https://www.gamesradar.com/star-wars-movies-kathleen-kennedy-celebration-interview/ Kathleen Kennedy on the future of Star Wars movies: "We need to create a whole new saga"]</ref>
+
+
+==References==
+{{Reflist}}
+
+{{FilmStub}}
+{{Star Wars}}
+[[Category:Star Wars Films]]
+[[Category:Lucasfilm films]]
+[[Category:2023 films]]

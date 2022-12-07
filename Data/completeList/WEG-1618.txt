@@ -1,0 +1,57 @@
+{{Infobox character
+|image = WEG-1618.png
+|name = 
+|films = 
+|shorts = 
+|shows = 
+|games = 
+|rides = 
+|actor = 
+|actress = 
+|animator = 
+|voice = 
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = 
+|personality = 
+|appearance = 
+|occupation = 
+|alignment = 
+|affiliations = 
+|goal = 
+|home = 
+|family = 
+|pets = 
+|friends = 
+|minions = 
+|enemies = 
+|likes = 
+|dislikes = 
+|powers = 
+|possessions = 
+|weapons = 
+|fate = 
+|quote = }}
+'''WEG-1618''' was a droid that worked for the [[Star Tours (company)|Star Tours travel agency]]. He had a skill for wiring, and could be found repairing doors. In his spare time, he tinkered with an [[R5-D2|R5]] unit, getting strange results.
+
+==Gallery==
+<gallery position="center">
+WDW - Star Wars Weekends 2004 - Droid Box Set (WEG-1618).jpeg
+weg-1618.png|WEG-1618 figure
+</gallery>
+
+==External links==
+*[[w:c:starwars:WEG-1618|WEG-1618 on Wookieepedia]]
+{{Stub}}
+{{Star Wars}}
+[[Category:Characters]]
+[[Category:Droids]]
+[[Category:Star Tours characters]]
+[[Category:Characters in Disney parks]]
+[[Category:Character stubs]]
+[[Category:Silent characters]]
+[[Category:Theme park characters]]
+[[Category:Mechanics]]

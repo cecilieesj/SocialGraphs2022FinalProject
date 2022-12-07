@@ -1,0 +1,37 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox_film
+|name = The First Omen
+|image =
+|director = Arkasha Stevenson
+|producer = David S. Goyer<br>Keith Levine<br>Gracie Wheelan
+|writer = Arkasha Stevenson<br>Tim Smith
+|starring = Nell Tiger
+|studio = [[20th Century Studios]]<br>Phantom Four
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|language = English
+|music = 
+|cinematography = 
+|editor =
+|country = [[United States]]
+|release =
+|imdb_id = 5672290}}
+'''''The First Omen''''' is an upcoming American horror film, directed by Arkasha Stevenson. It is a prequel to the [[1976]] film, ''{{WPS|The Omen}}''.
+
+==Cast==
+*Nell Tiger as TBA
+
+==Production==
+On May 10, 2022, ''Deadline'' reported that [[20th Century Studios]] was developing a prequel film to the original from 1976, with Arkasha Stevenson making her feature directorial debut.<ref>[https://deadline.com/2022/05/the-omen-prequel-the-first-omen-sets-arkasha-stevenson-as-director-for-20th-century-studios-movie-1235020725/ ‘The Omen’ Prequel ‘The First Omen’ Sets Arkasha Stevenson As Director For 20th Century Studios Movie]</ref>
+
+On August 31, 2022, ''Deadline'' reported that Nell Tiger was cast in the film in an undisclosed role.<ref>[https://deadline.com/2022/08/servant-star-nell-tiger-free-omen-prequel-first-omen-20th-century-1235103698/ ‘Servant’ Star Nell Tiger Free To Star In ‘Omen’ Prequel ‘First Omen’ For 20th Century]</ref>
+
+==References==
+{{Reflist}}
+
+{{DISPLAYTITLE:''The First Omen''}}
+[[Category:Films]]
+[[Category:20th Century Studios films]]
+[[Category:Live-action films]]
+[[Category:20th Century Studios]]
+[[Category:Prequel films]]

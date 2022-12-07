@@ -1,0 +1,40 @@
+{{Infobox character
+|image = Prescott_Mechface.png
+|name = Prescott's Mech
+|games = ''[[Epic Mickey 2: The Power of Two]]''
+|appearance = Giant castle body with a face in Prescott's likeness
+|affiliations = [[Gremlin Prescott]]
+|home = [[Floatyard]]
+|weapons = Cannons, mechanical claws, giant fan
+|fate = Reprogrammed or dismantled (depending on the player's choice)
+}}'''Prescott's Mech''' is the second boss encountered by [[Oswald the Lucky Rabbit|Oswald]] and [[Mickey Mouse|Mickey]] in the video game ''[[Epic Mickey 2: The Power of Two]]''. Encountered in the [[Floatyard]], the Mech was created by [[Gremlin Prescott]] as a means of payback for having his "brilliance" wasted at the Gag Factory in [[OsTown]]. Prescott had possibly been working on this mechanical monster prior to the events of the game.
+
+==''Epic Mickey 2''==
+When Mickey, Oswald and [[Gremlin Gus]] bypass Prescott's defenses and catch up to him, the gremlin lets on about his plan for revenge. A gigantic cannon (which looks like Mickey as he appears in ''[[Steamboat Willie]]'') emerges from the center of the arena. The cannon launches fiery cannonballs and [[Thinner]] grenades, and has an electrical force field at its base. During the time it takes the cannon to reload, Mickey must fill its tanks with Thinner or [[Paint]]. Once the tanks are filled, Oswald can reprogram the console with his [[Remote]]. Upon defeating the cannon, it becomes clear that Mickey and Oswald have been inside Prescott's Mech all along, and the gremlin declares that the true battle has begun.
+
+If Mickey used Thinner on the cannon, he must thin out the armored mask and deflect the oncoming cannonballs into the open mouth. However, the Mech will use a giant fan to pull the mouse and rabbit toward the spiked wheel in front.
+
+If Mickey used Paint on the cannon, the Mech will throw pieces of junk. When the junk shatters the plates on the ground, Mickey must paint in the gears while Oswald activates the consoles. This will cause the spiked walls to close on the Mech.
+
+Once the Mech has been defeated, Prescott is ejected and is carried off to jail.
+
+==Trivia==
+*The decisions made by the player affect the game's ending cutscene. In one ending, the Mech destroys part of a building during the parade on [[Mean Street]]. In the other, the Mech waves as it passes by.
+
+==Gallery==
+<gallery position="center" spacing="small">
+Prescott Mech concept art.jpg|Concept art
+Prescott Mech wrecked.png|Prescott's Mech in the Thinner Ending.
+Prescott Mech building wreck.png|The Mech damages a building.
+Prescott Mech wave.png|Prescott's Mech in the Paint Ending.
+</gallery>
+
+{{Epic Mickey}}
+[[Category:Epic Mickey characters]]
+[[Category:Characters in video games]]
+[[Category:Machines]]
+[[Category:Video game bosses]]
+[[Category:Disney characters]]
+[[Category:Robots]]
+[[Category:Epic Mickey Bosses]]
+[[Category:Epic Mickey objects]]

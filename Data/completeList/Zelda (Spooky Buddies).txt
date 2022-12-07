@@ -1,0 +1,33 @@
+{{Infobox character
+|image = Char 65231.jpg
+|name = Zelda
+|films = ''[[Spooky Buddies]]''
+|voice = [[Debra Jo Rupp]]
+|alias = Dudette
+|occupation = Sorceress<br>Fortune teller
+|home = Shop of Curiosities<br>Fernfield, [[Washington]]
+|likes = Sorcery, fortune-telling, helping others
+|dislikes = [[Warwick]] and the [[Halloween Hound]]
+|powers = Sorcery<br>Fortune-telling
+|paraphernalia = Crystal ball<br>Teeth
+|status = Active}}
+{{Quote|I am Zelda. I am all-knowing and all-seeing.|Zelda}}
+'''Zelda''' is a character who appears in ''[[Spooky Buddies]]''. She is a {{WikipediaLink|Chinese crested dog}} sorceress and fortune teller.
+
+==Trivia==
+*She is named after [[w:c:zelda:Princess Zelda|the titular character]] from ''{{WikipediaLink|The Legend of Zelda}}'' video game franchise and {{WikipediaLink|The Legend of Zelda (TV series)|TV series}}.
+
+{{CharacterStub}}
+{{Air Bud}}{{DISPLAYTITLE:Zelda}}
+[[Category:Disney characters]]
+[[Category:Air Bud characters]]
+[[Category:Females]]
+[[Category:Dogs]]
+[[Category:Adults]]
+[[Category:Magic Users]]
+[[Category:Characters]]
+[[Category:Heroines]]
+[[Category:Live-action characters]]
+[[Category:Anthropomorphic characters]]
+[[Category:Characters Under Spells]]
+[[Category:Sorceresses]]

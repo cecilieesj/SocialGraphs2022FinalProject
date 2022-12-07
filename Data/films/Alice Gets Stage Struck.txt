@@ -1,0 +1,30 @@
+{{Infobox film
+|image = 1925-struck-1.jpg
+|name = Alice Gets Stage Struck
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[June 23]], [[1925]]
+|preceded = ''[[Alice Loses Out]]''
+|followed = ''[[Alice Wins the Derby]]''
+}}
+'''''Alice Gets Stage Struck''''' is an animated short film that is part of the ''[[Alice Comedies]]'' that were released by Winkler Pictures in [[1925]]. It was in black and white and silent.
+
+==Summary==
+While Alice and her gang are performing "Uncle Tom's Cabin" she is knocked unconscious and dreams she is being chased by Pete across ice floes.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1925-struck-2.jpg
+1925-struck-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=27 Alice Gets Stage Struck] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1925 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Pete Shorts]]

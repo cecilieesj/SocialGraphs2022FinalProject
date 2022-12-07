@@ -1,0 +1,34 @@
+{{Infobox film
+|image = 1969-social-01.jpg
+|name = The Social Side of Health
+|director = [[Les Clark]]
+|producer = Ken Peterson
+|writer = [[Ted Berman]]
+|music = [[George Bruns]]
+|editor = Ted Baker
+|studio = [[Walt Disney Productions]]
+|distributor = Upjohn Pharmacy Company
+|release = [[1969]]
+|time = 10 minutes
+|language = English
+|preceded = ''[[Steps Toward Maturity and Health]]''
+|followed = ''[[Physical Fitness and Good Health]]''
+|imdb_id = 1339367
+|imagewidth = 250px
+}}'''''The Social Side of Health''''' is a [[1969]] Disney educational animated short from the [[Upjohn's Triangle of Health]] series.
+
+==Synopsis==
+How to live with others while also focusing on one's individuality.
+
+==Gallery==
+<gallery position="center" spacing="small">
+1969-social-05.jpg
+1969-social-06.jpg
+1969-social-07.jpg
+1969-social-08.jpg
+</gallery>
+
+{{DEFAULTSORT:Social Side of Health, The}}
+[[Category:Animated shorts]]
+[[Category:1969 shorts]]
+[[Category:Educational films]]

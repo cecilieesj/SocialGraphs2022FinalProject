@@ -1,0 +1,76 @@
+{{Infobox character
+|name= Franklin Hall
+|image=Franklin_Hall.png
+|shows=''[[Agents of S.H.I.E.L.D.]]''<br>''[[The Avengers: Earth's Mightiest Heroes]]''<br>''[[Marvel Disk Wars: The Avengers]]''
+|actor=Ian Hart
+|voice= [[Fred Tatasciore]]
+|inspiration=The Marvel Comics villain Graviton
+|fullname=Franklin Hall
+|alias=Graviton
+|alignment = Bad
+|friends=
+|enemies=[[Phil Coulson]], [[Leo Fitz]], [[Jemma Simmons]], [[Quake]]
+}}'''Graviton''' is a minor antagonist in ''[[The Avengers: Earth's Mightiest Heroes]]''. However, he appeared as a major antagonist in his civilian identity of Dr. Franklin Hall in ''[[Agents of S.H.I.E.L.D.]] ''
+
+==History==
+===''[[Agents of S.H.I.E.L.D.]]''===
+===="[[The Asset]]"====
+Dr. Franklin Hall was a physicist, even teaching [[Leo Fitz]] and [[Jemma Simmons]] who went on to join [[Phil Coulson|Coulson]]'s team. He devoted his life to experimenting with gravitonium. When Quinn captures him while being transported and gives him the chance to work with a full size gravitonium generator. He tries to use the generator to destroy the island and taking Quinn down with it. Coulson however stops him, causing Hall to fall in. S.H.I.E.L.D. operatives lock the generator into a vault but it is seen that he is stuck inside it
+
+===''[[The Avengers: Earth's Mightiest Heroes]]''===
+Years ago, Dr. Franklin Hall was tasked by [[Nick Fury]] to re-create the Super Soldier serum. Something went wrong with the experiments and caused an accident that gave Hall power over gravity, and Fury had him jailed in The Raft. During a massive breakout Hall, now rechristened Graviton, got free and went after Fury, but was stopped by then independent heroes [[Thor Odinson]], [[Henry Pym|Ant-Man]], [[Janet van Dyne|Wasp]], [[Iron Man]], and [[Hulk]] who, after defeating him, decided they worked well as a team and founded [[Avengers|The Avengers]].
+
+==Powers & Abilities==
+*'''Gravikinesis''': Graviton possesses the ability to mentally manipulate gravitons (that carry the attractive, gravitational force between atomic nuclei), enabling him to control gravity. He can surround any object or person including himself with gravitons and anti-gravitons (particles similar to gravitons but with opposite charge and spin), thus increasing or decreasing the Earth's pull of gravity upon it.
+**'''Flight''': By decreasing the pull of gravity beneath him, he can fly at any speed or height at which he can still breathe. However by using his force field generation he can also breathe in space.
+**'''Movement Impairment & Graviton Attraction''': By increasing the pull of gravity beneath his opponents, he can pin them to the ground, having made them too heavy to move, or cause sufficient gravitational stress to impair the normal functioning of the human cardiovascular system. He can also cause an inanimate object (such as a 1-foot diameter rock) to radiate enough gravitons to give it its own gravitational field, able to attract nearby matter and energy.
+**'''Graviton Blast & Force Field Generation''': By rapidly projecting gravitons in a cohesive beam, he can generate a force blast with a maximum concussive force equivalent to the primary shock wave of an explosion of 20,000 pounds of TNT. If concentrated enough Graviton can exert is power to level a whole city.He can also create a gravitational force field around him capable of protecting him from any concussive force up to and including a small nuclear weapon.
+
+==Gallery==
+===Agents of S.H.I.E.L.D.===
+<gallery position="center">
+Franklin_Hall.png
+</gallery>
+
+===The Avengers: Earth's Mightiest Heroes===
+<gallery position="center">
+HulkVsGraviton.png
+GravitonNick Fury.png
+GravitonGlowEyes.png
+GravitonDefeated.png
+Graviton2.png
+Graviton-Breakout.png
+Franklin’s eyes glows.jpg|Franklin Hall became Graviton after realizing he was capable of controlling gravity.
+Graviton (I’m the strongest in the world!).jpg|Graviton claims to be the strongest in the world
+Graviton is defeated..jpg|Graviton's defeat
+</gallery>
+
+===Marvel Disk Wars: The Avengers===
+<gallery position="center">
+Graviton MDWTA Chart.png
+Graviton MDW.png
+</gallery>
+
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Franklin Hall|Marvel Cinematic Universe Wiki}}
+
+{{Marvel Cinematic Universe}}
+{{Marvel Animated Universe}}
+{{DEFAULTSORT:Hall, Franklin}}
+[[Category:Marvel Comics characters]]
+[[Category:Males]]
+[[Category:Scientists]]
+[[Category:Agents of S.H.I.E.L.D. characters]]
+[[Category:Live-action characters]]
+[[Category:Schoolteachers]]
+[[Category:Villains]]
+[[Category:Characters]]
+[[Category:Adults]]
+[[Category:The Avengers: Earth's Mightiest Heroes characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Marvel Disk Wars: The Avengers characters]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Acquired characters]]
+[[Category:Disney XD characters]]
+[[Category:Supervillains]]

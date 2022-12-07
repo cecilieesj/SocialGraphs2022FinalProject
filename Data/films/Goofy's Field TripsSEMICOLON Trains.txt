@@ -1,0 +1,25 @@
+{{Infobox film
+| name           = Goofy's Field Trips: Trains
+| image          = File:51eWCpQcpfL.jpg
+| caption        = VHS cover
+| director       = 
+| producer       = 
+| music          = 
+| cinematography =  
+| studio         = The Walt Disney Company
+| distributor    = Disney Educational Productions
+| release       = [[August 10]], [[1989]]
+| time        = 14 minutes
+| language       = English}}'''''Goofy's Field Trips: Trains''''' is part of ''Goofy's Field Trips'', a series of educational films, released in [[1989]]. [[Goofy]] visits a train station to see how it and the trains there operate.
+
+==Gallery==
+<gallery>
+Goofy's field trip trains image.jpg
+</gallery>
+
+{{Stub}}
+[[Category:Live-action shorts]]
+[[Category:1989 shorts]]
+[[Category:Goofy]]
+[[Category:Educational films]]
+[[Category:Disney Educational Productions]]

@@ -1,0 +1,184 @@
+{{Marvel Database:Film Template
+| Image                   = Shang-Chi and the Legend of the Ten Rings poster 002.jpg
+| Aliases                 = Shang-Chi<br>Steamboat (working title)
+
+| Directors               = Destin Daniel Cretton
+| Producers               = Kevin Feige; Jonathan Schwartz
+| ComicWriters            = [[Steve Englehart]]; [[Jim Starlin]]
+| ScreenplayWriters       = Dave Callaham; Destin Daniel Cretton; Andrew Lanham
+| StoryWriters            = Dave Callaham; Destin Daniel Cretton
+| Musicians               = Joel P. West
+| Cinematographers        = Bill Pope
+| Editors                 = Nat Sanders; Elísabet Ronaldsdóttir; Harry Yoon
+| ProductionCompanies     = Marvel Studios
+| Distributors            = Walt Disney Studios Motion Pictures
+| Running Time            = 132 minutes
+| Rating                  = '''MPAA:''' Rated PG-13 for sequences of violence and action, and language
+| Budget                  = $150 million
+| Release Date            = September 1, 2021
+| US Release Date         = September 3, 2021
+
+| AM ID                   = shang-chi-and-the-legend-of-the-ten-rings-v722574
+| Marvel Movies           = Shang-Chi and the Legend of the Ten Rings
+| IMDB ID                 = 9376612
+| MCU                     = Shang-Chi and the Legend of the Ten Rings
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Xu Shang-Chi (Earth-199999)|Xu Shang-Chi / "Shaun"]]}}
+'''Supporting Characters:'''
+* {{1st|[[Katy Chen (Earth-199999)|Katy Chen]]}}
+* {{1st|[[Xu Xialing (Earth-199999)|Xu Xialing]]}} {{Joins||[[Ten Rings (Earth-199999)|Ten Rings]]}}
+* {{Only Dies|[[Ying Li (Earth-199999)|Ying Li]]}} {{FlashOnly}}
+* {{1st|[[Ying Nan (Earth-199999)|Ying Nan]]}}
+* {{apn|[[Trevor Slattery (Earth-199999)|Trevor Slattery]]|Marvel One-Shot: All Hail the King|-}}
+* {{Only Dies|[[Guang Bo (Earth-199999)|Guang Bo]]}}
+* {{1st|[[Great Protector (Earth-199999)|Great Protector]]}}
+'''Antagonists:'''
+* {{a|[[Ten Rings (Earth-199999)|Ten Rings]]}}
+** {{apn|[[Xu Wenwu (Earth-199999)|Xu Wenwu / "The Mandarin"]]|Marvel's Iron Man 3 Prelude Vol 1 2|-}} {{1stFull}} {{1st Real Name}} {{Death}}
+** {{1st|[[Razor Fist (Earth-199999)|Razor Fist]]}}
+** {{Only Dies|[[Li Ching-Lin (Earth-199999)|Death-Dealer]]}} {{Flashback}}
+* {{Only Dies|[[Dweller-in-Darkness (Earth-199999)|Dweller-in-Darkness]]}} {{Impersonates|[[Ying Li (Earth-199999)|Ying Li]]}}
+* {{FlashOnly|[[Iron Gang (Earth-199999)|Iron Gang]]}}
+'''Other Characters:'''
+* [[Character Index/Earth-199999#Soo|Soo]] {{1st}}
+* [[Character Index/Earth-199999#John|John]] {{1st}}
+* {{1st|[[Mrs. Chen (Earth-199999)|Mrs. Chen]]}}
+* {{1st|[[Ruihua Chen (Earth-199999)|Ruihua Chen]]}}
+* {{1st|[[Waipo Chen (Earth-199999)|Waipo Chen]]}}
+* {{apn|[[Klev (Earth-199999)|Klev]]|Spider-Man: Homecoming|Spider-Man: No Way Home}}
+* {{1st|[[Jon Jon (Earth-199999)|Jon Jon]]}} {{Joins||[[Ten Rings (Earth-199999)|Ten Rings]]}}
+* {{1st|[[Tak (Earth-199999)|Tak]]}} {{Cameo}}
+* {{apn|[[Black Widow (Helen) (Earth-199999)|Black Widow (Helen)]]|Black Widow (film)|-}} {{Cameo}} {{1st Real Name}}
+* {{apn|[[Wong (Earth-199999)|Wong]]|Avengers: Endgame|Spider-Man: No Way Home}}
+* {{apn|[[Emil Blonsky (Earth-199999)|Abomination (Emil Blonsky)]]|The Incredible Hulk (2008 film)|She-Hulk: Attorney at Law Season 1 2}}
+* {{Mentioned|[[Aldrich Killian (Earth-199999)|Aldrich Killian]]}}
+* {{Mentioned|[[Anthony Stark (Earth-199999)|Iron Man (Tony Stark)]]}}
+* {{1st|[[Morris (Earth-199999)|Morris]]}}
+* {{apn|[[Bruce Banner (Earth-199999)|Bruce Banner]]|Avengers: Endgame|She-Hulk: Attorney at Law Season 1 1}} {{Cameo}} {{OnScreen}}
+* {{apn|[[Carol Danvers (Earth-199999)|Captain Marvel (Carol Danvers)]]|Avengers: Endgame|Ms. Marvel (TV series) Season 1 6}} {{Cameo}} {{OnScreen}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{1st|[[Dijiang]]}}
+* {{1st|[[Shishi]]}}
+* {{1st|[[Jiuweihu]]}}
+* {{1st|[[Fenghuang]]}}
+* {{1st|[[Qilin]]}}
+* {{1st|[[Kumiho|Huli Jing]]}}
+* {{1st|[[Soul-Eaters]]}}
+* {{1st|[[Lung Dragons]]}}
+* {{Mentioned|[[Chitauri]]}}
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[California (State)|California]]}}
+***** {{a|[[San Francisco]]}}
+****** {{Cameo|[[Golden Gate Bridge]]}}
+****** {{Cameo|[[Alcatraz Island]]}}
+****** {{Cameo|[[Transamerica Pyramid]]}}
+***** {{Mentioned|[[Seagate Prison]]}}
+**** {{1st|[[Cube|DODC Maximum Security Prison]]}} {{Cameo}}
+*** {{a|[[China]]}}
+**** {{a|[[Macau]]}}
+***** {{1st|[[Golden Dagger Club]]}}
+*** {{1st|[[Mandarin's Castle|Ten Rings Base]]}}
+*** {{a|[[Nepal]]}}
+**** {{a|[[Kathmandu]]}}
+***** {{a|[[Kamar-Taj]]}}
+** {{1st|[[Ta-Lo]]}}
+** {{Invoked|[[Hell]]}}
+'''Items:'''
+* {{1st|[[Ten Rings (Weapons)|Ten Rings]]}}
+* {{a|[[Sling Ring]]}}
+* {{1st|[[Dragon Scales]]}}
+* {{1st|[[Eyes of the Dragon]]}}
+* {{a|[[Captain Marvel's Suit]]}}
+* {{1st|[[Gamma-Charger|Gamma Inhibitor]]}} {{Unnamed}}
+* {{Mentioned|[[Vibranium]]}}
+'''Vehicles:'''
+* Razor Fist's Car
+'''Events:'''
+* The Blip {{Mentioned}}
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Simu Liu|Simu Liu]] as [[Xu Shang-Chi (Earth-199999)|Shang-Chi]]<ref name="SDCC 2019">{{cite web|url=https://www.marvel.com/articles/movies/sdcc-2019-all-of-the-marvel-studios-news-coming-out-of-hall-h-at-san-diego-comic-con|title=SDCC 2019: All of the Marvel Studios News Coming Out of Hall H at San Diego Comic-Con|author=Marvel|work=Marvel.com|date=20 July 2019|accessdate=21 July 2019}}</ref>
+* [[wikipedia:Tony Leung Chiu-Wai|Tony Leung]] as [[Xu Wenwu (Earth-199999)|The Mandarin / Wenwu]]<ref name="SDCC 2019"/><ref name="Investor">{{cite web|url= https://www.marvel.com/articles/movies/shang-chi-legend-ten-rings-cast|title= ‘Shang-Chi and The Legend of The Ten Rings’ Reveals Additional Cast|work= Marvel.com|last= Paige|first= Rachel|date= December 10, 2020|accessdate= December 11, 2020}}</ref>
+* [[wikipedia:Awkwafina|Awkwafina]] as [[Katy Chen (Earth-199999)|Katy Chen]]<ref name="Investor"/><ref name="Shang-Chi">{{Cite web|date=August 31, 2021|title={{'}}''Shang-Chi''{{'}} star Awkwafina talks about inclusivity in Hollywood and acting in Hindi films (IANS Interview)|url=https://www.sify.com/movies/shang-chi-star-awkwafina-talks-about-inclusivity-in-hollywood-and-acting-in-hindi-films-ians-interview-news-bollywood-vi5kltfghijab.html|access-date=August 31, 2021|last=Chakravarty|first=Durga|website=[[Sify]]|language=en}}</ref><ref name="DigitalSpy">{{Cite web|date=September 2, 2021|title=''Shang-Chi'' stars reveal their favourite action scenes|url=https://www.digitalspy.com/movies/a37462212/shang-chi-simu-liu-action-scenes|access-date=September 2, 2021|first1=Joe|last1=Anderton|first2=Gabriella|last2=Geisinger|website=[[Digital Spy]]|language=en}}</ref>
+* [[wikipedia:Meng'er Zhang|Meng'er Zhang]] as [[Xu Xialing (Earth-199999)|Xialing]]<ref name="Investor"/>
+* [[wikipedia:Michelle Yeoh|Michelle Yeoh]] as [[Ying Nan (Earth-199999)|Ying Nan]]<ref>{{cite web |url=https://variety.com/2020/film/asia/australia-launches-insurance-replacement-fund-to-restart-film-tv-production-1234739747/|title=Australia Launches Insurance-Replacement Fund to Restart Film, TV Production|last=Frater|first=Patrick|work=Variety|date=19 August 2020|accessdate=24 September 2020}}</ref><ref name="Investor"/>
+* [[wikipedia:Ronny Chieng|Ronny Chieng]] as [[Jon Jon (Earth-199999)|Jon Jon]]<ref>{{cite web |url=https://discussingfilm.net/2020/04/07/ronny-chieng-joins-shang-chi-and-the-legend-of-the-ten-rings-exclusive/|title=Ronny Chieng Joins ‘Shang-Chi and the Legend Of The Ten Rings’ 
+(EXCLUSIVE)|last=Fisher|first=Jacob|work=DiscussingFilm|date=07 April 2020|accessdate=18 May 2020}}</ref><ref name="Investor"/>
+*[[wikipedia:Dallas Liu|Dallas Liu]] as [[Character Index/Earth-199999#Ruihua|Ruihua]]<ref>https://www.youtube.com/watch?v=4gmUCorMXIo&t=3253s&ab_channel=MarvelEntertainment</ref>
+* [[wikipedia:Fala Chen|Fala Chen]] as [[Ying Li (Earth-199999)|Ying Li]]<ref name="Investor"/>
+* [[wikipedia:Andy Le|Andy Le]] as [[Li Ching-Lin (Earth-199999)|Death Dealer]]<ref>[https://www.instagram.com/p/CSNF6EJpDgv/ Andy Le on Instagram - August 5, 2021]</ref>
+* [[wikipedia:Florian Munteanu|Florian Munteanu]] as [[Razor Fist (Earth-199999)|Razor Fist]]<ref name="Investor"/>
+* [[wikipedia:Jodi Long|Jodi Long]] as [[Character Index/Earth-199999#Chen|Mrs. Chen]]
+* [[wikipedia:Zach Cherry|Zach Cherry]] as [[Character Index/Earth-199999#Klev|Klev]]
+* [[wikipedia:Rosalind Chao|Rosalind Chao]] as [[Character Index/Earth-199999#Soo|Soo]]
+
+Additionally, [[wikipedia:Tim Roth|Tim Roth]], [[wikipedia:Ben Kingsley|Ben Kingsley]], and [[wikipedia:Benedict Wong|Benedict Wong]] reprise their roles as [[Emil Blonsky (Earth-199999)|Abomination / Emil Blonsky]],<ref>[https://www.fandango.com/movie-news/shang-chi-director-destin-daniel-cretton-reveals-new-details-about-marvels-next-big-historic-action-movie-754385 ‘SHANG CHI’ DIRECTOR DESTIN DANIEL CRETTON REVEALS NEW DETAILS ABOUT MARVEL’S NEXT BIG HISTORIC ACTION MOVIE]</ref> [[Trevor Slattery (Earth-199999)|Trevor Slattery]],<ref>[[Brett Metter]] is listed as his stunt double on IMDb</ref><ref>[https://mobile.twitter.com/BrandonDavisBD/status/1427451598289084450 Brandon Davis on Twitter]</ref> and [[Wong (Earth-199999)|Wong]].<ref>{{cite web |url=https://collider.com/shang-chi-trailer-tony-leung-mandarin/|title=New ‘Shang-Chi and the Legend of the Ten Rings’ Trailer Gives a Closer Look at Tony Leung As the Real Mandarin|last=Bonaime|first=Ross|work=Collider|date=24 June 2021|accessdate=29 June 2021}}</ref>
+
+{{WP|Mark Ruffalo}} and {{WP|Brie Larson}} made uncredited mid-credits appearances as [[Bruce Banner (Earth-199999)|Bruce Banner]] and [[Carol Danvers (Earth-199999)|Captain Marvel]], respectively.
+| Notes                   = * [[Xu Wenwu (Earth-199999)|The Mandarin]]'s existence in the MCU was first referenced in the {{sl|Marvel One-Shot: All Hail the King}}, following the appearance of a [[Trevor Slattery (Earth-199999)|fabricated version]] in the film {{sl|Iron Man 3 (film)}}.
+**There is a little discrepancy upon the Name "The Mandarin" During the One-shot the Interviewer tells Trevor that the 10 rings organization has a story very tight to the man known as The Mandarin, character which he (Trevor) appropriated. However during this film, even though Xu Wenwu does states that he has been known through the years by many names, he also says that "The Mandarin" is a funny name the [[Advanced Idea Mechanics (Earth-199999)|Americans]] created to put a face to the 10 rings organization, so it is unclear if he truly had been known as The Mandarin in the past.
+** The name Wenwu comes from a [[Wikipedia:Wen and wu|concept of Chinese administration and philosophy]], wen means civilian and wu means military or martial, [[Wikipedia:Mandarin (bureaucrat)|Mandarin]], is a term created by the Portuguese to describe a bureaucratic position in China, Korea and Vietnam.
+* The film has had multiple release date changes due to the [[wikipedia:COVID-19 pandemic|COVID-19 pandemic]]:
+** Originally announced to release on February 12, 2021, the film was pushed back on April 3, 2020, along with Marvel's entire Phase Four line-up, to the new release date of May 7, 2021.{{r|{{cite web|url= https://variety.com/2020/film/box-office/disney-mulan-black-widow-release-dates-coronavirus-1203550173/|title= ‘Black Widow,’ ‘Eternals,’ ‘Indiana Jones 5’ and More Disney Films Get New Release Dates|work= Variety|last= Rubin|first= Rebecca|date= April 3, 2020|accessdate= April 3, 2020}}}}
+** In September 2020, the film was pushed back again to July 9, 2021.<ref>{{cite web|url=https://variety.com/2020/film/news/black-widow-west-side-story-eternals-release-date-delay-1234773491/|title=‘Black Widow,’ ‘West Side Story,’ ‘Eternals’ Postpone Release Dates|accessdate=24 September 2020|last=Lang|first=Brent|coauthors=Rubin, Rebecca|date=23 September 2020|work=Variety}}</ref> 
+** In March 2021, the film was pushed back a final time to September 3, 2021.<ref>{{cite web|url=https://www.marvel.com/articles/movies/black-widow-release-date-disney-plus|title=‘Black Widow’ Jumps Into New July Release Date in Theaters and on Disney+ with Premier Access|last=Paige|first=Rachel|work=Marvel|date=23 March 2021|accessdate=21 April 2021}}</ref>
+* Filming for this film started in February 2020,{{r|{{cite web|url= https://deadline.com/2020/03/shang-chi-director-destin-daniel-cretton-tests-negative-for-coronavirus-says-social-distancing-is-an-act-of-love-for-every-person-1202885191/|title= ‘Shang-Chi’ Director Destin Daniel Cretton Tests Negative For Coronavirus, Says “Social Distancing Is An Act Of Love…For Every Person”|work= Deadline|last= D'Alessandro|first= Anthony|date= March 16, 2020|accessdate= October 24, 2020}}}} and wrapped on October 24, 2020.{{r|{{cite web|url= https://www.instagram.com/p/CGt_BaoJ76Z/|title= WE. ARE. WRAPPED!|work= Instagram|last= Cretton|first= Destin Daniel|date= October 24, 2020|accessdate= October 24, 2020}}}}
+| Trivia                  = * Jiang Nan actress [[wikipedia:Michelle Yeoh|Michelle Yeoh]] had previously portrayed the [[Earth-199999|MCU]] character [[Aleta Ogord (Earth-199999)|Aleta Ogord]] in the film ''[[Guardians of the Galaxy Vol. 2 (film)|Guardians of the Galaxy Vol. 2]]''.
+** Marvel Studios President [[Kevin Feige]] asked ''Guardians of the Galaxy'' writer and director [[James Gunn]] beforehand if he would care about Yeoh's recast, to which Gunn stated he wouldn't.<ref>{{cite web|url=https://twitter.com/JamesGunn/status/1357495607724806147|title=I was really happy for Michelle! Kevin Feige asked me if I would care & of course I didn’t, I really just wanted what was best for Michelle.|accessdate=05 February 2021|last=Gunn|first=James|date=05 February 2021|work=Twitter}}</ref>
+
+==Gallery==
+===Alternate Posters===
+<gallery>
+Shang-Chi and the Legend of the Ten Rings Logo.jpg
+Shang-Chi and the Legend of the Ten Rings poster 002 textless.jpg
+Shang-Chi and the Legend of the Ten Rings poster 001.jpg
+Shang-Chi and the Legend of the Ten Rings poster 003.jpg
+Shang-Chi and the Legend of the Ten Rings poster 003 Textless.jpg
+Shang-Chi and the Legend of the Ten Rings poster 004.jpg
+Shang-Chi and the Legend of the Ten Rings poster 004 textless.jpg
+Shang-Chi and the Legend of the Ten Rings poster 005.jpg
+Shang-Chi and the Legend of the Ten Rings poster 005 Textless.jpg
+Shang-Chi and the Legend of the Ten Rings poster 006.jpg
+Shang-Chi and the Legend of the Ten Rings poster 006 textless.jpg
+Shang-Chi and the Legend of the Ten Rings poster 007.jpg
+Shang-Chi and the Legend of the Ten Rings poster 007 textless.jpg
+Shang-Chi and the Legend of the Ten Rings poster 008.jpg
+Shang-Chi and the Legend of the Ten Rings poster 008 Textless.jpg
+Shang-Chi and the Legend of the Ten Rings poster 015.jpg
+Shang-Chi and the Legend of the Ten Rings poster 016.jpg
+Shang-Chi and the Legend of the Ten Rings poster 017.jpg
+Shang-Chi and the Legend of the Ten Rings poster 018.jpg
+Shang-Chi and the Legend of the Ten Rings poster 019.jpg
+Shang-Chi and the Legend of the Ten Rings poster 009.jpg
+Shang-Chi and the Legend of the Ten Rings poster 009 textless.jpg
+Shang-Chi and the Legend of the Ten Rings poster 011.jpg
+Shang-Chi and the Legend of the Ten Rings poster 012.jpg|Real D 3D Poster
+Shang-Chi and the Legend of the Ten Rings poster 012 textless.jpg
+Shang-Chi and the Legend of the Ten Rings poster 010.jpg|IMAX Poster
+Shang-Chi and the Legend of the Ten Rings poster 013.jpg
+Shang-Chi and the Legend of the Ten Rings poster 014.jpg
+Shang-Chi 8.jpg
+</gallery>
+===Videos===
+====Trailers====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios’ Shang-Chi and the Legend of the Ten Rings - Official Teaser
+Marvel Studios Celebrates The Movies
+Marvel Studios’ Shang-Chi and the Legend of the Ten Rings - Official Trailer
+</gallery>
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[tr:Shang-Chi ve On Halka Efsanesi]]
+[[es:Shang-Chi y la Leyenda de los Diez Anillos]]
+[[it:Shang-Chi and the Legend of the Ten Rings]]
+[[ru:Шанг-Чи и легенда десяти колец]]

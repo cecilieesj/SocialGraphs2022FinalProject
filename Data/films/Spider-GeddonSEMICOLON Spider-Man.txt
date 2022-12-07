@@ -1,0 +1,95 @@
+{{Marvel Database:Film Template
+| Image                   = Spider-Geddon Spider-Man 1
+| Aliases                 = 
+
+| Directors               = Tim Eldred
+| Producers               = Dan Buckley; Cort Lane; Eric Radomski; Joe Quesada; John Cerilli; Alan Fine; Dan Silver; Stan Lee; Stephen Wacker; Nick Lowe; Howard Schwartz; Kenneth T. Ito; Jacob Thomas; Mark Basso; Shaun Avnet
+| ScreenplayWriters       = 
+| StoryWriters            = Kevin Shinick
+| Musicians               = Michael Tavera
+| Cinematographers        = 
+| Editors                 = Adam Redding; Laura Damon; Braden Boe; Seth Swaaley
+| Distributors            = Marvel Entertainment
+| Running Time            = 3 minutes, 51 seconds
+| Rating                  = 
+| Budget                  = 
+| Release Date            = October 31, 2018
+| IMDB ID                 = 
+| Marvel Movies           = 
+
+| Previous Film           = Spider-Geddon: Spider-Gwen: Ghost-Spider
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Joins|[[Peter Parker (Earth-17628)|Spider-Man (Peter Parker)]]|[[Superior Spider-Army (Earth-928)|Superior Spider-Army]]}}
+'''Supporting Characters:'''
+* {{a|[[Superior Spider-Army (Earth-928)|Superior Spider-Army]]}}
+** {{a|[[Hobart Brown (Earth-138)|Spider-Man (Hobie Brown)]]}}
+'''Antagonists:'''
+* {{a|[[Quentin Beck (Earth-17628)|Mysterio (Quentin Beck)]]}} {{Impersonates|[[Thor Odinson (Earth-17628)|Thor]]}}
+'''Other Characters:'''
+* {{Minor|Abraham Lincoln (Earth-17628)|Abraham Lincoln|First appearance; statue}}
+* {{Minor|Benjamin Franklin (Earth-17628)|Benjamin Franklin|First appearance; statue}}
+* {{Minor|Martin Van Buren (Earth-17628)|Martin Van Buren|First appearance; statue}}
+* {{Minor|James Madison (Earth-17628)|James Madison|First appearance; statue}}
+* {{Minor|George Washington (Earth-17628)|George Washington|First appearance; painting}}
+* {{Mentioned|[[John Jameson (Earth-17628)|Man-Wolf (John Jameson)]]}}
+* {{Illusion|[[Bruce Banner (Earth-17628)|Hulk (Bruce Banner)]]}}
+* {{Minor|Goblin (Earth-17628)|The Goblin|First appearance; illusion}}
+* {{Illusion|[[Avengers (Earth-17628)|Avengers]]}}
+** {{Illusion|[[Carol Danvers (Earth-17628)|Captain Marvel (Carol Danvers)]]}}
+** {{Illusion|[[Natalia Romanova (Earth-17628)|Black Widow (Natalia Romanova)]]}}
+** {{Illusion|[[Kamala Khan (Earth-17628)|Ms. Marvel (Kamala Khan)]]}}
+** {{Illusion|[[Steven Rogers (Earth-17628)|Captain America (Steve Rogers)]]}}
+** {{Illusion|[[Anthony Stark (Earth-17628)|Iron Man (Tony Stark)]]}}
+* {{Illusion|[[Thor Odinson (Earth-17628)|Thor (Odinson)]]}}
+* {{Named|[[New York Mets (Earth-17628)|New York Mets]]}}
+* {{Minor|Jay Leno (Earth-17628)|Jay Leno|First appearance; illusion}}
+* [[wikipedia:David Blane|David Blane]] {{Mentioned}} {{Topical Reference}}
+* {{Mentioned|[[New York City Police Department (Earth-17628)|NYPD]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{Mentioned|[[Man-Wolves]]}}
+* {{Illusion|[[Human-Kree Hybrids]]}}
+* {{Illusion|[[Human-Inhuman Hybrids]]}}
+* {{Illusion|[[Asgardians]]}}
+'''Locations:'''
+* {{Mentioned|[[Multiverse]]}}
+** {{a|[[Earth-17628]]}}
+*** {{a|[[Earth]]}}
+**** {{a|[[North America]]}}
+***** {{a|[[United States of America]]}}
+****** {{a|[[New York (State)|New York]]}}
+******* {{a|[[New York City]]}}
+******** {{a|[[Manhattan]]}}
+********* [[Manhattan#Midtown Manhattan|Midtown]]
+********** {{a|[[Times Square]]}}
+*********** {{1st|[[Madame Tussauds New York|Monsieur Lambea's Wax Museum]]}}
+********** {{Mentioned|[[Empire State Building]]}}
+********* {{Mentioned|[[Central Park]]}}
+******** {{Mentioned|[[Statue of Liberty|Statue of Liberty, Upper New York Bay]]}}
+'''Items:'''
+* {{a|[[Spider-Man's Suit|Spider-Men's Suits]]}} and {{a|[[Web-Shooters]]}}
+* {{Illusion|[[Goblin Armor]]}}
+* {{Illusion|[[Pumpkin Bomb]]}}
+* {{Illusion|[[Captain Marvel's Suit]]}}
+* {{Illusion|[[Black Widow's Gauntlets]]}}
+* {{Illusion|[[Biokinetic Polymer Suit|Ms. Marvel's Suit]]}}
+* {{Minor|[[Captain America's Uniform]]}} and {{Illusion|[[Captain America's Shield|Shield]]}}
+* {{Illusion|[[Mjolnir]]}}
+* {{Illusion|[[Iron Man Armor MK XLIX (Earth-17628)|Iron Man Armor MK XLIX]]}}
+* {{a|[[Mysterio Suit]]}}
+'''Vehicles:'''
+* {{Illusion|[[Goblin Glider]]}}
+
+| Plot                    = While investigating a wax museum, Spider-Man finds himself being attacked by wax figures of the Avengers and famous people from the past and present. It's revealed that this is the work of Mysterio and, after defeating him, Spider-Man is recruited by Spider-Punk to help other Spider-Men save the Multiverse.
+
+| Cast                    = * Griffin Burns as [[Peter Parker (Earth-17628)|Spider-Man]]
+* Jake Eberle as [[Hobart Brown (Earth-138)|Spider-Punk]]
+
+| Notes                   = * Art by [[Dario Brizuela]] and colors by [[Rachelle Rosenberg]].[[Category:Dario Brizuela/Penciler]][[Category:Dario Brizuela/Inker]][[Category:Rachelle Rosenberg/Colorist]]
+| Trivia                  = * The wax statues of Thor and Green Goblin use the characters' designs from ''[[Ultimate Spider-Man (animated series)|Ultimate Spider-Man]]'' ([[Earth-12041]]) due to to the characters not having appeared in the continuity of ''[[Marvel's Spider-Man (animated series)|Marvel's Spider-Man]]'' ([[Earth-17628]]) at the time of this short's release.
+| Links                   = * [[Marvel Films#Comics|Marvel Films]]
+}}
+[[Category:Short Films]]
+[[Category:Spider-Geddon]]

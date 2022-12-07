@@ -1,0 +1,58 @@
+{{Infobox character
+|image = IG-88.png
+|films = ''Star Wars: The Empire Strikes Back''
+|alias = Phlutdroid
+|shows = ''[[Star Wars: Forces of Destiny]]''<br>''[[LEGO Star Wars: The Freemaker Adventures]]''
+|occupation = Assassin Droid<br>Bounty Hunter
+|friends = [[Darth Vader]], [[Boba Fett]], Bossk, Dengar, Zuckuss, 4-LOM, [[Hondo Ohnaka]] (formerly)
+|enemies = [[Han Solo]], [[Qi'ra]], [[Hondo Ohnaka]], [[Leia Organa]], [[Sabine Wren]]
+|possessions = [[Blaster (Star Wars)|Blaster rifles]]
+|games = ''[[Star Wars: Force Arena]]''
+|voice = [[Matthew Wood]] (''Star Wars: Forces of Destiny'')|alignment = Bad}}
+
+'''IG-88''' is an assassin droid bounty hunter in the ''[[Star Wars]]'' Universe. He is hired by [[Darth Vader]] to capture [[Han Solo]] and also is the chief rival of [[Boba Fett]].
+
+== Appearances ==
+
+=== ''The Empire Strikes Back'' ===
+IG-88 is summoned aboard the ''Executor''-class Star Dreadnought ''Executor'' by [[Darth Vader]] in his search for the ''[[Millennium Falcon]]''.
+
+=== ''[[Star Wars: Forces of Destiny]]'' ===
+IG-88 teamed up with [[Hondo Ohnaka]] to collect the bounty on Crimson Dawn lieutenant [[Qi'ra]]'s head. Tracking Qi'ra down, IG-88 and Hondo managed to apprehend Qi'ra. Turning the bounty hunter and the pirate against each other, Qi'ra convinced IG-88 to collect the bounty on Hondo instead of the bounty on her. Attacking Hondo, IG-88 was quickly stunned and put in binders. After Qi'ra had similarly tricked and apprehended Hondo, IG-88 was led away by Qi'ra so that she could collect the bounty on his head.
+
+Later, IG-88 pursued Princess [[Leia Organa]] on [[Garel]], seeking a data-tape in her possession of Imperial base locations. Organa was assisted by [[Sabine Wren]], who identified the droid, and the pair fled as the assassin opened fire in the corridors of Garel City Spaceport. However, Wren planted a paint bomb, surprising IG-88, and covering him in purple paint. Leia convinced several [[stormtroopers]] to fire at the bounty hunter, and the droid was hit by a blast before retreating.
+
+== Trivia ==
+* [[Ralph McQuarrie]]'s production sketches show a sleeker design than the droid that appears in ''The Empire Strikes Back'' and were later used as the model for the IG-RM Thug droids in ''[[Star Wars Rebels]]''.
+* The term "IG-88" is not the original name for the character, as the ''Empire Strikes Back'' script calls the character a "chrome war droid", and during production, it was called "Phlutdroid".
+* The production puppet consisted of recycled props from ''A New Hope'', including the Mos Eisley cantina drink dispenser as IG-88's head.
+* Another assassin droid named IG-11 appeared in ''[[The Mandalorian]]''.
+
+== Gallery ==
+<gallery widths="150" position="center" spacing="small">
+Disney-Store-Trading-Pin-Star-Wars-IG-88.jpg
+IG-88_Pin.jpg
+IG-88 POP.jpg
+IG-88 Hot Wheels.jpg|IG-88 Hot Wheels car
+IG-88_Black_Series.jpg
+IG_88_Sideshow.png
+LEGO-IG-88.png|[[LEGO]] IG-88 figure
+IG-88_Forces of Destiny.JPG|IG-88 in ''[[Star Wars: Forces of Destiny]]''
+</gallery>
+
+== External links ==
+* [[w:c:starwars:IG-88|IG-88]] on [[w:c:starwars|Wookieepedia]]
+
+{{Star Wars}}
+[[fi:IG-88]]
+[[Category:Star Wars characters]]
+[[Category:Droids]]
+[[Category:Bounty hunters]]
+[[Category:Live-action characters]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Villains]]
+[[Category:Star Wars villains]]
+[[Category:Star Wars: Forces of Destiny characters]]
+[[Category:Acquired characters]]
+[[Category:Comic characters]]

@@ -1,0 +1,15 @@
+{{Infobox character
+|image = Fisherman Droopy.jpg
+|name = Fisherman Droopy
+|games = ''[[Toontown Online]]''
+|appearance = Orange Cat
+|occupation = Fisherman
+|alignment = Good/Neutral}}
+'''Fisherman Droopy''' is a [http://toontown.wikia.com/wiki/Cat Cat] [http://toontown.wikia.com/wiki/NPC NPC] in the discontinued online video game, ''[[Toontown Online]]''.
+
+Like all Fisherman NPCs, you can talk to him to sell fish in your fishing bucket. For every 10 new fish species you sell, he will award you with a trophy and a [http://toontown.wikia.com/wiki/Laff Laff boost].
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Cats]]
+{{Toontown Online}}

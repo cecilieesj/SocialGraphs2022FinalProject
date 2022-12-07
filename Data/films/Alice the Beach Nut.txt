@@ -1,0 +1,23 @@
+{{Infobox film
+|image = affiche-alice-beach-nut-01.jpg
+|name = Alice the Beach Nut
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[August 8]], [[1927]]
+|preceded = ''[[Alice the Whaler]]''
+|followed = ''[[Alice in the Big League]]''
+}}
+'''''Alice the Beach Nut''''' is a [[1927]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+Alice plays on the beach while Julius engineers a dramatic rescue as a lifeguard.
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=66 Alice the Beach Nut] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1927 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Lost cartoons]]

@@ -1,0 +1,28 @@
+{{Infobox_character
+|image = [[File:Detective Gupta.png|thumb]]
+|name =
+|shows = [[Mira, Royal Detective]]
+|games =
+|voice = Iqbal Theba
+|personality =
+|occupation = Royal Detective (formerly)
+|alignment = Good
+|home = [[Jalpur]]
+|family =
+|friends =
+|quote = 
+|status=Active}}
+
+'''Detective Gupta''' is a character from the [[Disney Junior]] series ''[[Mira, Royal Detective]]''. He is the former royal detective of [[Jalpur]] before [[Mira]].
+
+{{Mira, Royal Detective}}
+[[Category:Mira, Royal Detective characters]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Disney Junior characters]]
+[[Category:Males]]
+[[Category:Detectives]]
+[[Category:Elderly characters]]
+[[Category:Adults]]

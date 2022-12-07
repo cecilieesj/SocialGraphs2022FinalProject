@@ -1,0 +1,32 @@
+{{Infobox character
+|image = Due.jpg
+|name = Due
+|films = 
+|shows = 
+|games = 
+|voice = 
+|alias = Two
+|personality = 
+|appearance = 
+|home = [[Duckburg]]
+|friends = 
+|enemies = [[Uno]]
+|likes = 
+|dislikes = 
+|powers = 
+|weapons = 
+|fate = About to be deleted, what remains of his mind is absorbed by Uno
+|quote = }}'''Due''' (Italian for "two") is a villain in the ''[[PKNA]]'' comic series. Due is an AI created by [[Everett Ducklair]] as a backup for [[Uno]] in case of a malfunction. His long time of inactivity made him grow bitter and jealous of Uno, so he activated himself and has tried to destroy Uno several times.
+{{CharacterStub}}
+{{PKNA}}
+[[Category:Donald Duck universe characters]]
+[[Category:Villains]]
+[[Category:Machines]]
+[[Category:Disney characters]]
+[[Category:Adults]]
+[[Category:Ducks]]
+
+[[Category:Characters]]
+[[Category:Characters introduced in comics]]
+[[Category:Programs]]
+[[Category:Mickey Mouse universe characters]]

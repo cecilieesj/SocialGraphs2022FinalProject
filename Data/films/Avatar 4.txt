@@ -1,0 +1,75 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox_film
+|image = 
+|director = [[James Cameron]]
+|producer = James Cameron<br>Jon Landau
+|writer = James Cameron<br>Shane Salerno
+|starring = Sam Worthington<br>[[Zoe Saldana]]<br>Stephen Lang<br>[[Sigourney Weaver]]<br>Matt Gerald<br>Dileep Rao<br>David Thewlis
+|music = Simon Franglen
+|cinematography = Mauro Fiore
+|editor = James Cameron<br>Stephen E. Rivkin<br>John Refoua
+|studio = [[20th Century Studios]]<br>Lightstorm Entertainment 
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[December 18]], [[2026]]
+|language = English
+|budget = 
+|preceded = ''[[Avatar 3]]''
+|followed = ''[[Avatar 5]]''
+|website = https://www.avatar.com/
+|imdb_id = 3095356}}
+'''''Avatar 4''''' is an upcoming epic action science fiction fantasy film directed by [[James Cameron]] and produced by [[20th Century Studios]]. It is a direct sequel to ''[[Avatar 3]]'' and it is set to be released on [[December 18]], [[2026]].
+
+==Cast==
+===Na'vi===
+*Sam Worthington as Jake Sully
+*[[Zoe Saldana]] as Neytiri
+*[[Kate Winslet]] as Ronal
+*Cliff Curtis as Tonowari
+*Jamie Flatters as Neteyam
+*Britain Dalton as Lo'ak
+*Duane Evans Jr. as Rotxo
+*Trinity Bliss as Tuktirey
+*Bailey Bass as Tsireya
+*Filip Geljo as Aonung
+
+===Humans===
+*Dileep Rao as Dr. Max Patel
+*Matt Gerald as Corporal Lyle Wainfleet
+*Jack Champion as Miles "Spider" Socorro
+*Stephen Lang as Colonel Miles Quaritch
+*[[Michelle Yeoh]] as Dr. Karina Mogue
+*Edie Falco as General Ardmore
+*[[David Thewlis]] as TBA
+*CCH Pounder as TBA
+*[[Sigourney Weaver]] as TBA
+*Oona Chaplin as TBA
+*Joe David Moore as TBA
+
+== Production ==
+During initial interviews on the film in 2012, Cameron commented that it may be a prequel rather than a sequel. However; all interviews since then have referred to it as a sequel; the prequel is likely a separate project. Sam Worthington and Zoe Saldana have signed for a further three films. In October 2013, Sam Worthington confirmed that the three sequels would be shot back to back starting in fall 2014.
+
+=== Writing and delays ===
+Shane Salerno was announced as the film's screenwriter in August 2013. Scriptwriting continued up through at least May 2015. According to an interview with James Horner, who was then tapped for the soundtrack, Cameron had inadvertently written ''four'' sequels' worth of material by that point, which needed whittling down to three. However, a fourth sequel was announced in 2017, with the release dates for the movies continuing to be delayed.
+
+On July 31, 2017, it was announced that the New Zealand-based visual effects studio [[Weta Digital]] had commenced work on the ''Avatar'' sequels.<ref>[https://variety.com/2017/artisans/news/avatar-sequels-progress-to-next-level-as-weta-digital-begins-visual-effects-work-on-the-films-james-cameron-1202510639/ 'Avatar' Sequels Progress to Next Level as Weta Digital Begins Visual Effects Work]</ref>
+
+On September 10, 2022, it was reported that filming had officially begun for the fourth film.<ref>[https://collider.com/avatar-4-production-start-james-cameron-comments/ ‘Avatar 4’ Has Begun Production, Says James Cameron]</ref>
+
+==References==
+{{Reflist}}
+
+==External Links==
+*{{WP}}
+*{{IMDb|title/tt3095356}}
+*[[w:c:james-camerons-avatar:Avatar 4|Avatar 4]] on [[w:c:james-camerons-avatar|Avatar Wiki]]
+{{Avatar}}
+{{DISPLAYTITLE:''Avatar 4''}}
+[[Category:Avatar]]
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Sequel films]]
+[[Category:20th Century Fox films]]
+[[Category:2026 films]]
+[[Category:3-D films]]
+[[Category:4DX films]]

@@ -1,0 +1,52 @@
+{{Marvel Database:Film Template
+| Image                   = Fantastic Four (2025 film) logo 001.jpg
+| Aliases                 = 
+
+| Directors               = Matt Shakman
+| Producers               = Kevin Feige
+| ScreenplayWriters       = Jeff Kaplan; Ian Springer
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = 
+| Rating                  = 
+| Budget                  = 
+| Release Date            = February 14, 2025
+
+| IMDB ID                 = 10676052
+| Marvel Movies           = Fantastic Four (film)
+| MCU                     = Fantastic Four (film)
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* <br/>
+'''Supporting Characters:'''
+* <br/>
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* <br/>
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = 
+
+| Notes                   = 
+| Trivia                  = * [[Jon Watts]] was originally announced to be the director of this film, before he later chose to exit.<ref>{{cite web|url= https://deadline.com/2022/04/spider-man-jon-watts-exits-marvel-fantastic-four-film-1235013110/|title= ‘Spider-Man’ Director Jon Watts Exits Marvel’s ‘Fantastic Four’|work= Deadline|last= Fleming, Jr.|first= Mike|date= April 29, 2022|accessdate= August 27, 2022}}</ref> [[Matt Shakman]] would later sign on as the director.<ref>{{cite web|url= https://deadline.com/2022/08/star-trek-fantastic-four-matt-shakman-1235101358/|title= Matt Shakman Departing ‘Star Trek’ After Landing ‘Fantastic Four’ Directing Gig|work= Deadline|last= D'Alessandro|first= Anthony|coauthors= Kroll, Justin|date= August 26, 2022|accessdate= August 27, 2022}}</ref>
+* Originally slated to be released on November 8, 2024, this film was later pushed back to February 14, 2025.<ref>{{cite web|url= https://deadline.com/2022/10/blade-fantastic-four-avengers-secret-wars-release-dates-shift-1235141388/|title= Marvel Shifts Release Dates For ‘Blade’, ‘Fantastic Four’, ‘Avengers: Secret Wars’, Next ‘Deadpool’ Among Disney Moves|work= Deadline|last= Grobar|first= Matt|date= October 11, 2022|accessdate= October 12, 2022}}</ref>
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}
+[[ru:Фантастическая четвёрка (фильм, 2024)]]

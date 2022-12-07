@@ -1,0 +1,65 @@
+{{Marvel Database:Film Template
+| Image                   = Thor Odinson (Earth-16828) and Darryl Jacobson (Earth-16828) from Team Thor Part 2.png
+| Aliases                 = 
+
+| Directors               = Taika Waititi
+| Producers               = Kevin Feige; Brad Winderbaum
+| Writers                 = Taika Waititi
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = Joel Negron
+| Distributors            = Walt Disney Studios Home Entertainment
+| Running Time            = 4 minutes, 38 seconds
+| Rating                  = 
+| Budget                  = 
+| Release Date            = February 28, 2017
+| IMDB ID                 = 6599818
+| Marvel Movies           = Team Thor: Part 2
+| MCU                     = Team Thor: Part 2
+
+| Previous Film           = Team Thor
+| Next Film               = Team Darryl
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{a|[[Thor Odinson (Earth-16828)|Thor]]}}
+'''Supporting Characters:'''
+* {{a|[[Darryl Jacobson (Earth-16828)|Darryl Jacobson]]}}
+'''Other Characters:'''
+* Shane {{1st}}
+* {{Drawing|[[Avengers (Earth-16828)|Avengers]]}}
+** {{Drawing|[[Anthony Stark (Earth-16828)|Iron Man (Tony Stark)]]}}
+** {{Drawing|[[Steven Rogers (Earth-16828)|Captain America (Steve Rogers)]]}}
+** {{Drawing|[[Vision (Earth-16828)|Vision]]}}
+** {{Drawing|[[Wanda Maximoff (Earth-16828)|Scarlet Witch (Wanda Maximoff)]]}}
+** {{Drawing|[[Clinton Barton (Earth-16828)|Hawkeye (Clint Barton)]]}}
+** {{Drawing|[[Natalia Romanoff (Earth-16828)|Black Widow (Natasha Romanoff)]]}}
+** {{Drawing|[[Bruce Banner (Earth-16828)|Hulk (Bruce Banner)]]}}
+'''Races and Species:'''
+* {{a|[[Asgardians]]}}
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{Drawing|[[Synthezoids]]}}
+'''Locations:'''
+* {{a|[[Earth-16828]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[Australia]]}}
+** {{Mentioned|[[Asgard (Realm)|Asgard]]}}
+* {{Mentioned|[[Valhalla (Afterlife)|Valhalla]]}}
+'''Items:'''
+* {{a|[[Mjolnir]]}}
+* {{a|[[Thor's Battle Armor]]}}
+* [[Iron Man Armor (Earth-199999)|Iron Man Armor]] {{Drawing}}
+* {{Drawing|[[Captain America's Uniform]]}}
+* {{Drawing|[[Captain America's Shield]]}}
+* {{Drawing|[[Hawkeye's Bow]]}}
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Chris Hemsworth|Chris Hemsworth]] as [[Thor Odinson (Earth-16828)|Thor]]
+* Daley Pearson as [[Darryl Jacobson (Earth-16828)|Darryl Jacobson]]
+
+| Notes                   = * Released as a bonus feature on the digital and Blu-ray release for the film ''[[Doctor Strange (film)|Doctor Strange]]''.
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Marvel Studios|Marvel Films]]
+}}
+[[Category:Short Films]]

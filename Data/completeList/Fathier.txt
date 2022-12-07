@@ -1,0 +1,58 @@
+{{Species Infobox
+|image = SW TLJ - Fathier.jpeg
+|films = ''[[Star Wars: The Last Jedi]]''
+|games = ''[[Star Wars: Commander]]<br>LEGO Star Wars: The Skywalker Saga''
+|animator = 
+|voice = 
+|model = 
+|designer = 
+|inspiration = [[Tauntaun]]<br>Animals such as horses, dogs, cats, and lions
+|alias = Space horse
+|behaviour = Timid, sensitive, tenacious, graceful
+|appearance = Muscular, elongated legs, long ears, brown fur, black eyes
+|occupation = Grazer<br>Mount
+|alignment = Neutral
+|home = Kergans<br>[[Cantonica]]
+|abilities = Speed
+|weapons = 
+|fate = 
+|quote = }}
+
+'''Fathier''' is a large quadruped creature from the ''[[Star Wars]]'' franchise who made its debut in ''[[Star Wars: The Last Jedi]]''. Fathiers are often used as mounts, making them akin to the terrestrial horse.
+
+==Background==
+Fathiers are tall, warm-blooded, equine-esque creatures found across the galaxy (particularly [[Cantonica]]), although their planet of origin is unknown.<ref name="Dictionary">{{Cite book|author=Hidalgo, Pablo|title=Star Wars: The Last Jedi - The Visual Dicitonary| date = December 15, 2017| pages = 62| isbn = 978-1465455512| publisher = DK Children}}</ref> A fathier stands up to 3 meters at the shoulder.<ref name="Dictionary" /> With their lean build and long legs, the race is built for running, the fastest a fathier can go is 50 mph.<ref name="USA">{{Cite web|website = USA Today|title='Star Wars': What are those 'Last Jedi' creatures? Meet the porgs, fathiers and vulptex|date=December 19, 2017|url=https://www.usatoday.com/story/life/movies/2017/12/19/star-wars-what-those-last-jedi-creatures-meet-porgs-fathiers-and-vulptex/954195001/|author=Mallenbaum, Carly}}</ref> Their large ears are a cooling mechanism and serve as air-sheering rudders to control their runs.
+
+Fathiers are domesticatable, so they are sought after for racing competitions. In [[Canto Bight]], fathiers are exploited for racing by the wealthy residents in the city's racetracks, where they are subject to abuse by the overseers.
+
+==Role in the film==
+A herd of fathiers were presented at the racetracks of [[Canto Bight]]. However, one of the fathiers was being mistreated in the stalls by the overseers; the scene was witnessed by [[Finn]] and [[Rose Tico]]. Rose sympathizes with the creatures' plight, due to her childhood fascination with fathiers. After Finn and Rose were arrested and escape their cell, they enter the stalls holding the fathiers, among which are the child caretakers of the beasts. Finn convinces a stable boy named Temiri Blagg to release the fathiers for the animal's well-being. With the boy agreeing on these terms, the duo let loose the fathiers to escape the police, and the herd runs amok in the city's business district. The fathiers soon settle at a meadow; before departing, Rose takes off the mount of the fathier who helped them as a sign of its newfound freedom.
+
+==Trivia==
+*While the fathiers were generated using CGI, an animatronic fathier was used when interacting with the actors.<ref name="USA" /><ref>{{Cite web|website=LA Times|url=http://www.latimes.com/entertainment/movies/la-et-mn-star-wars-the-last-jedi-porgs-caretakers-fathier-milk-20171228-htmlstory.html|title=Porgs, space horses and sea sirens, oh my: A guide to the creatures of 'Star Wars: The Last Jedi' and how they were made|date=December 28, 2017|author=Yamato, Jen}}</ref>
+*Ben Morris, creative director at [[Industrial Light & Magic]], explains that the fathiers were intentionally given large eyes to highlight innocent nature of the species.<ref name="USA" />
+
+==Gallery==
+<gallery position="center" spacing="small" widths="185" captionalign="center">
+Star Wars TLJ early fathier art.jpg|Concept art of the fathiers.
+Star Wars fathier stable.jpg|[[Rose Tico]] meeting the fathiers of [[Canto Bight]].
+SW Fathier plush.jpeg|Fathier plush.
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{SWW|Fathier}}
+*{{SW|url=/databank/fathier|text=Fathier}}
+
+{{Star Wars}}
+[[Category:Characters]]
+[[Category:Aliens]]
+[[Category:Creatures]]
+[[Category:Horses]]
+[[Category:Star Wars creatures]]
+[[Category:Star Wars Sequel Trilogy characters]]
+[[Category:Live-action characters]]
+[[Category:Comic characters]]
+[[Category:Characters in video games]]

@@ -1,0 +1,18 @@
+{{Upcoming|media=film}}
+{{Infobox_film
+|director=Peter Foott
+|producer=Jonathan Eirich<br>Dan Lin
+|writer=Peter Foott<br>Tyler Burton Smith
+|distributor=[[Disney+]]
+|language=English
+|studio=[[Walt Disney Pictures]]
+}}
+{{NeedImage}}
+'''''Spooked''''' is an upcoming [[Disney+]] original film.
+{{FilmStub}}
+{{Disney+}}
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Disney films]]
+[[Category:Halloween productions]]
+[[Category:Disney+ Originals]]

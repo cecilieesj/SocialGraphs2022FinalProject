@@ -1,0 +1,61 @@
+{{Infobox film
+|name = Lou
+|image = Lou Poster.jpg
+|director = Dave Mullins
+|producer = Dana Murray
+|writer = Dave Mullins
+|music = [[Christophe Beck]]
+|studio = [[Pixar Animation Studios]]<br>[[Walt Disney Pictures]]
+|cinematography = Adam Habib
+|editor = Anthony J. Greenberg
+|runtime = 6 minutes<ref name=A>{{cite news |last1=Truitt |first1=Brian |date=Feb 1, 2017 |title=Sneak peek: Pixar's new 'Lou' short tackles playground bullying |url=http://www.usatoday.com/story/life/movies/2017/02/01/sneak-peek-lou-pixar-short/97310424/ |accessdate=Feb 15, 2016 |work=USA Today}}</ref>
+|release = [[June 16]], [[2017]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|preceded = ''[[Marine Life Interviews]]''
+|followed = ''[[Miss Fritter's Racing Skoool]]''}}
+'''''Lou''''' is a [[2017]] [[Pixar]] 3D computer-animated short film shown in front of ''[[Cars 3]]''.
+
+==Synopsis==
+[[Lou (character)|Lou]] is a red hoodie-covered creature with eyes made of baseballs and buttons grinning mischievously from inside a school's Lost & Found bin. Reminiscent of [[Sid Phillips|Sid]] from ''[[Toy Story]]'', [[J.J.]] is a bully who takes his classmates' stuff and destroys their beloved toys. Lou decides to teach this bully a lesson with some carefully crafted hijinks. Lou then uncovers a secret about J.J. Is this bully not as he seems?
+
+==Plot==
+Set in an elementary school where recess time ends and kindergarteners go back to their classes, a mysterious figure collects lost objects he finds across the school, taking them to a box of lost belongings. Lou, the mysterious figure, turns on a handheld game console as the kindergarteners grab their missing belongings found in the box of lost belongings. Lou then watches the kindergarteners taking good care of their belongings, except for a bully being rude to two other boys. Feeling shocked, Lou notices the bully taking the lost belongings that do not belong to him as well as being rude to the other students. Angry that the bully is not treating other students kindly, Lou decides to teach him a lesson while the bully grabs his backpack.
+
+After grabbing his backpack, J.J., the bully, notices Lou holding a plush dog (the toy's tag also has his name), revealing a flashback that J.J., when he was little, got his plush dog stolen by another bully. When J.J. tries to ask Lou for his plush dog, Lou refuses because the bully has to give the lost belongings back to their respective students. When recess time begins again, J.J. gives back all the belongings back to all the respective students. Later after giving all the belongings back to their respective owners, J.J. notices the box of lost belongings is empty, and is sad to see Lou gone where the baseballs and hoodie returned to their owners, so he grabs the plush dog that once belonged to him, thanks to Lou's help. The short film ends with J.J. playing kindly with the students as the image fades to the "Lost and Found" box whose missing letters spell out "Lou".
+
+==Gallery==
+<gallery position="center" spacing="small" captionalign="center" widths="150">
+Lou Logo.jpg
+Kid Playing In Ground.jpg
+Playing Ground.jpg
+The Yellow Ball.jpg
+Park Empty.jpg
+LOU Pixar.jpg
+jj grab a football by lou.jpg
+Jj gets attack with lou.jpg
+2017-lou-03.jpg
+2017-lou-04.jpg
+2017-lou-05.jpg
+2017-lou-06.jpg
+</gallery>
+
+==Trivia==
+*This is one of a few [[Pixar]] short films to include some stock cartoon sound effects.
+*This short film marks [[Christophe Beck]]'s first music score in a Pixar production.
+*There are many Easter eggs in this short that are a nod to Mullins’ family. 
+*This is the first original [[Pixar]] short film, since 2003's ''[[Boundin']]'', to include dialogue, though briefly with JJ yelling "Hey!" at Lou.
+**Incidentally, the 2019 [[SparkShorts|SparkShort]],'' [[Float (film)|Float&nbsp;]]''does have a similar usage for its dialogue.
+
+==References==
+{{reflist}}
+{{DISPLAYTITLE:''Lou''}}
+[[pt-br:Lou (curta)]]
+[[zh:失物招領]]
+[[Category:Films]]
+[[Category:Pixar shorts]]
+[[Category:Animated shorts]]
+[[Category:2017 films]]
+[[Category:3-D films]]
+[[Category:Pixar]]
+[[Category:Academy Award nominated films]]
+[[Category:Featured shorts]]

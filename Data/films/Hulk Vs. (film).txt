@@ -1,0 +1,122 @@
+{{MessageBox
+| Message = This page should be split into two, [[Hulk vs. Wolverine]] and [[Hulk vs. Thor]]}}
+{{Marvel Database:Film Template
+| Image                   = Hulk Vs. (film) poster 001.jpg
+| Aliases                 = Hulk Smash!, Hulk Vs., Hulk vs. Wolverine, Hulk vs. Thor
+
+| Directors               = Frank Paur; Sam Liu
+| Producers               = Craig Kyle
+| ComicWriters            = 
+| StoryWriters            = Craig Kyle; Christopher Yost
+| ScreenplayWriters       = Craig Kyle; Christopher Yost
+| Musicians               = Guy Michelmore
+| Cinematographers        = 
+| Editors                 = George Rizkallah	
+| Distributors            = Lionsgate Home Entertainment
+| Running Time            = 78 minutes
+| Rating                  = '''MPAA''': Thor segment: PG-13 for animated action violence.<br/>Wolverine segment: PG-13 for intense bloody animated violence.
+| Budget                  = 
+| Release Date            = January 27, 2009
+
+| AM ID                   = hulk-vs-v468545
+| IMDB ID                 = 1325753
+| Marvel Movies           = Hulk Vs.
+
+| Previous Film           = 
+| Next Film               = 
+
+| Tagline                 = Twice the carnage. Double the smash.
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Bruce Banner (Earth-8096)|Hulk]]}}
+* {{1st|[[Thor Odinson (Earth-8096)|Thor]]}}
+* {{a|[[James Howlett (Earth-8096)|Wolverine]]}}
+'''Supporting Characters:'''
+* {{1st|[[Sif (Earth-8096)|Sif]]}}
+* {{Minor|Elizabeth Ross (Earth-8096)|Betty Ross|Only appearance; dream}}
+'''Antagonists:'''
+* {{1st|[[Loki Laufeyson (Earth-8096)|Loki]]}}
+* {{1st|[[Amora (Earth-8096)|Enchantress (Amora)]]}}
+* {{1st|[[Weapon X Project (Earth-8096)|Weapon X]]}}
+** {{1st|[[Truett Hudson (Earth-8096)|Professor Truett Hudson]]}}
+** {{1st|[[Abraham Cornelius (Earth-8096)|Professor Abraham Cornelius]]}}
+** {{1st|[[Carol Hines (Earth-8096)|Carol Hines]]}}
+** {{1st|[[Team X (Earth-8096)| Team X]]}}
+*** {{1st|[[Victor Creed (Earth-8096)|Sabretooth (Victor Creed)]]}}
+*** {{Only|[[Wade Wilson (Earth-8096)|Deadpool (Wade Wilson)]]}}
+*** {{Only|[[Arkady Rossovich (Earth-8096)|Omega Red (Arkady Rossovich)]]}} {{ApDeath}}
+*** {{Only|[[Yuriko Oyama (Earth-8096)|Lady Deathstrike (Yuriko Oyama)]]}} {{ApDeath}}
+'''Other Characters:'''
+* {{1st|[[Department H (Earth-8096)|Department H]]}}
+* {{Cameo|[[Laura Kinney (Earth-8096)|X-23]]}} {{1st}}
+* {{1st|[[Warriors Three (Earth-8096)|Warriors Three]]}}
+** {{1st|[[Fandral (Earth-8096)|Fandral]]}}
+** {{1st|[[Hogun (Earth-8096)|Hogun]]}}
+** {{1st|[[Volstagg (Earth-8096)|Volstagg]]}}
+* {{1st|[[Balder Odinson (Earth-8096)|Balder the Brave]]}}
+* {{1st|[[Odin Borson (Earth-8096)|Odin]]}}
+* {{1st|[[Hela (Earth-8096)|Hela]]}}
+* {{1st|[[Brunnhilde (Earth-8096)|Valkyrie]]}}
+* {{1st|[[Heimdall (Earth-8096)|Heimdall]]}}
+* {{1st|[[Skurge (Earth-8096)|Executioner (Skurge)]]}}
+* {{1st|[[Malekith (Earth-8096)|Malekith]]}}
+* {{1st|[[Surtur (Earth-8096)|Surtur]]}}
+* {{Mentioned|[[Albert Einstein (Earth-8096)|Albert Einstein]]}}
+'''Locations:'''
+* {{a|[[Earth-8096]]}}
+** {{a|[[Earth|Earth / Midgard]]}} {{1st}}
+*** {{a|[[Canada]]}} {{1st}}
+**** {{a|[[Weapon X Facility]]}} {{1st}}
+** {{a|[[Asgard (Realm)|Asgard]]}} {{1st}}
+*** {{a|[[Asgard (City)|City of Asgard]]}} {{1st}}
+*** {{a|[[Castle of Loki]]}} {{1st}}
+*** {{Mentioned|[[Valhalla (Afterlife)|Valhalla]]}} {{1st}}
+** {{a|[[Niffleheim|Niflheim]]}} {{1st}}
+*** {{a|[[Hel]]}} {{1st}}
+'''Items:'''
+* {{1st|[[Mjolnir]]}}
+* {{1st|[[Adamantium]]}}
+* {{1st|[[Wolverine's Suit]]}}
+* {{1st|[[Bloodaxe (Item)|Bloodaxe]]}}
+'''Vehicles:'''
+* {{a|[[Bifrost]]}} {{1st}}
+
+| Plot                    = 
+| Cast                    = 
+* Steve Blum - [[James Howlett (Earth-8096)|Wolverine]]
+* Nolan North - [[Wade Wilson (Earth-8096)|Deadpool]]
+* Graham McTavish - [[Loki Laufeyson (Earth-8096)|Loki]]
+* Bryce Johnson - [[Bruce Banner (Earth-8096)|Bruce Banner]]
+* Grey Delisle - [[Sif (Earth-8096)|Sif]]
+* Tom Kane - [[Abraham Cornelius (Earth-8096)|Professor Abraham Cornelius]]
+* Fred Tatasciore - [[Bruce Banner (Earth-8096)|Hulk]]
+* Mark Acheson - [[Victor Creed (Earth-8096)|Sabretooth]]
+* Matthew Wolf - [[Thor Odinson (Earth-8096)|Thor]]
+* Colin Murdock - [[Arkady Rossovich (Earth-8096)|Omega Red (Arkady Rossovich)]]
+* Janyse Jaud - [[Hela (Earth-8096)|Hela]]/[[Yuriko Oyama (Earth-8096)|Lady Deathstrike (Yuriko Oyama)]]
+* Nicole Oliver - [[Elizabeth Ross (Earth-8096)|Betty Ross]]/[[Brunnhilde (Earth-8096)|Valkyrie (Brunnhilde)]]
+* Kari Wahlgren - [[Amora (Earth-8096)|Enchantress (Amora)]]
+
+
+==Trailers==
+===Hulk vs.===
+[[File:Hulk Vs. Trailer|center]]
+
+===Hulk vs. Wolverine===
+[[File:HULK vs. WOLVERINE|center]]
+
+===Hulk vs. Thor===
+[[File:Hulk vs Thor Trailer|center]]
+
+| Notes                   = * ''Hulk vs. Wolverine'' is based on {{cl|Incredible Hulk Vol 1 181}}, [[James Howlett (Earth-616)|Wolverine]]'s first appearance.
+| Trivia                  = * Despite not possessing any score at Rotten Tomatoes, the movie was generally well received from the fans.<ref>[https://www.rottentomatoes.com/m/hulk_vs Hulk Vs. at Rotten Tomatoes]</ref>
+* Screenplay writer Christopher Yost has stated that the Hulk Vs. Wolverine portion takes place before the events of Avengers: Earth's Mightiest Heroes. {{r|{{cite web|url=https://twitter.com/yost/status/1201368120771792896|title="I’d say before."|work=Twitter|first=Christopher|last=Yost|date=1 December 2019|accessdate=3 December 2019}}}}
+* Yost also stated that the Hulk Vs. Thor portion takes place either during or after the events of Earth's Mightiest Heroes.{{r|{{cite web|url=https://twitter.com/yost/status/1201369657837420544|title="Thor might be able to work if it took place during or after AEMH."|work=Twitter|first=Christopher|last=Yost|date=1 December 2019|accessdate=3 December 2019}}}}
+* Years later, it was revealed that the members of Team X who had been inside the facility when it exploded during the climax had all survived.{{r|{{cite web|url=https://twitter.com/yost/status/1356602006916395008|title="They survived.  They always do."|work=Twitter|first=Christopher|last=Yost|date=2 Februrary 2021|accessdate=2 Februrary 2021}}}}
+
+| Links                   = *[[Marvel Films#Direct-to-Video Films|Marvel Films]]
+}}
+[[es:Hulk Vs. (película)]]
+[[ru:Халк против Росомахи]]
+[[Category:Separate pages]]

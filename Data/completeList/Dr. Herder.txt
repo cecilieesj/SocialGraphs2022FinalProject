@@ -1,0 +1,25 @@
+{{Infobox character
+|name = Dr. Herder
+|image = Drherder.jpg
+|shows = ''[[Dinosaurs]]''
+|actor = David Greenaway (face)<br>Tom Fisher (body)
+|voice = [[Michael McKean]]
+|fullname = Lowell Herder
+|occupation = Physician
+}}'''Dr. Lowell Herder''' is a pediatrician who appears in the fourth season ''[[Dinosaurs]]'' episode "[http://muppet.wikia.com/wiki/Episode_406:_Terrible_Twos Terrible Twos]." His face was operated by [http://muppet.wikia.com/wiki/David_Greenaway David Greenaway], his body was puppeteered by [http://muppet.wikia.com/wiki/Tom_Fisher Tom Fisher] and his voice was provided by [[Michael McKean]].
+
+The Sinclairs seek the doctor's help when [[Baby Sinclair]] turns two years old. [[Earl Sneed Sinclair|Earl]] requests a sedative, but while the physician can dispense dangerous drugs at will, he chooses not to in this instance.
+
+Following the examination, Dr. Herder instead recommends setting concrete boundaries, specifically by walling the child inside a cave for a year.
+
+{{MuppetWiki}}
+{{DEFAULTSORT:Herder, Dr.}}
+[[Category:Males]]
+[[Category:Doctors]]
+[[Category:Dinosaurs]]
+[[Category:Dinosaurs characters]]
+[[Category:Characters]]
+[[Category:Anthropomorphic characters]]
+[[Category:Adults]]
+[[Category:Prehistoric characters]]
+[[Category:Prehistoric animals]]

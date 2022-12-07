@@ -1,0 +1,35 @@
+{{Species Infobox
+|image = Krykna Spiders.png
+|shows = ''[[Star Wars Rebels]]''
+| designer = Kilian Plunkett<br>[[Ralph McQuarrie]] (original concept)
+| inspiration = Knobby White Spider from Star Wars "Legends" continuity
+| alias = Spiders
+| appearance = Six-legs, durable gray skin, beak mouth, pair of fanged pedipalps
+| behaviour = Aggressive, violent
+| occupation = Hunter
+| alignment = Neutral
+| home = [[Atollon]]
+| abilities = Agility, speed, silk thread as a weapon
+| weapons = Fangs, beak, silk}}'''Krykna''' are predatory, non-sentient, spider-like creatures native to [[Atollon]]. They lived in colonies and hunted any animal that looked to be a suitable meal using their beaks, silk threads, and numbers to attack prey. They had a strong aversion to proximity sensors as was discovered by [[Sabine Wren]], which Phoenix Squadron used to their advantage by placing them around their base to keep the Krykna away. They were highly resilient against blaster fire, but could be easily killed with a lightsaber. [[Ezra Bridger]] also tried connecting to them with the [[The Force|Force]], but was unable to do so, as he was too unfamiliar with them and they were too aggressive to communicate with. After being blinded by [[Darth Maul|Maul]], [[Kanan Jarrus]] learned to communicate with the Krykna and see them through the Force after learning to let go of his fear and anger as they had been feeding off of it. Thus, the Krykna did not attack him. Kanan later would teach this ability to Ezra to allow him to commune with the spiders as well.
+
+==Trivia==
+*The Krykna Spiders are based on early concept art by [[Ralph McQuarrie]] for ''The Empire Strikes Back''.
+
+==Gallery==
+<gallery position="center" widths="150" captionalign="center" spacing="small">
+The Mystery of Chopper Base Concept Art 01.jpeg|Concept art
+The Mystery of Chopper Base 22.jpeg|Close up of the Krykna's face
+The Mystery of Chopper Base 27.jpeg|Scene in Star Wars Rebels
+Ralph McQuarrie Dagobah Spider concept.jpg|Inspirational concept art by Ralph McQuarrie
+</gallery>
+
+==External links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/starwars/images/6/64/Favicon.ico|starwars|Krykna|Wookieepedia}}{{Stub}}{{Star Wars}}
+[[Category:Star Wars creatures]]
+[[Category:Neutral characters]]
+[[Category:Aliens]]
+[[Category:Star Wars Rebels characters]]
+[[Category:Creatures]]
+[[Category:Characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]

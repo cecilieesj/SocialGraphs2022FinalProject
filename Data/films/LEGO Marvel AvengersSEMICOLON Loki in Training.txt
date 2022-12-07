@@ -1,0 +1,83 @@
+{{Marvel Database:Film Template 
+|Image                    = LEGO Marvel Avengers Loki in Training poster 001.jpg
+|Aliases                  = 
+
+| Directors               = Randi Rodrigues
+| Producers               = 
+| Writers                 = 
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = Damon Fulford
+| Distributors            = 
+| Running Time            = 22 minutes
+| Rating                  = 
+| Budget                  = 
+| IMDB ID                 = 
+| Release Date            = November 1, 2021 
+
+| Plot                    = Loki attempts to join The Avengers and tries to stop multiple villains from doing evil deeds. 
+| Appearances             = 
+'''Featured Characters:'''
+*{{apn|[[Loki Laufeyson (Earth-13122)|Loki]]|LEGO Marvel Super Heroes 2}}
+*{{a|[[Avengers (Earth-13122)|Avengers]]}}
+**{{apn|[[Anthony Stark (Earth-13122)|Iron Man (Tony Stark)]]|LEGO Marvel Avengers: Climate Conundrum Season 1 4}}
+**{{apn|[[Steven Rogers (Earth-13122)|Captain America (Steve Rogers)]]|LEGO Marvel Avengers: Climate Conundrum Season 1 4}}
+**{{apn|[[Thor Odinson (Earth-13122)|Thor (Thor Odinson)]]|LEGO Marvel Avengers: Climate Conundrum Season 1 4}}
+**{{apn|[[Bruce Banner (Earth-13122)|Hulk (Bruce Banner)]]|LEGO Marvel Avengers: Climate Conundrum Season 1 4}}
+**{{apn|[[Natalia Romanova (Earth-13122)|Black Widow (Natasha Romanoff)]]|LEGO Marvel Avengers: Climate Conundrum Season 1 4}}
+**{{apn|[[Clinton Barton (Earth-13122)|Hawkeye (Clint Barton)]]|LEGO Marvel Avengers: Climate Conundrum Season 1 4}}
+'''Supporting Characters:'''
+* {{a|[[Strategic Hazard Intervention Espionage Logistics Directorate (Earth-13122)|S.H.I.E.L.D.]]}}
+**{{apn|[[Nicholas Fury, Jr. (Earth-13122)|Nick Fury]]|LEGO Marvel Super Heroes 2}}
+**Unnamed S.H.I.E.L.D. Agent {{1st}} 
+'''Antagonists:'''
+*{{apn|[[Thanos (Earth-13122)|Thanos]]|LEGO Marvel Super Heroes 2}}
+*{{apn|[[Nebula (Earth-13122)|Nebula]]|LEGO Marvel Super Heroes 2}}
+*[[Chitauri]]
+**Unnamed Chitauri Soldiers
+**Chitauri Soldier Gavin {{1st}} 
+*{{apn|[[Brock Rumlow (Earth-13122)|Crossbones (Brock Rumlow)]]|LEGO Marvel's Avengers}} 
+*Unnamed Crossbones Henchmen {{1st}} 
+'''Other Characters:'''
+*{{apn|[[Johnathon Blaze (Earth-13122)|Ghost Rider (Johnny Blaze)]]|LEGO Marvel Super Heroes 2}}
+*Little Girl Becky {{1st}} 
+*{{apn|[[Odin Borson (Earth-13122)|Odin (Odin Borson)]]|LEGO Marvel Super Heroes 2}} {{Mentioned}} 
+'''Races and Species:'''
+*{{a|[[Humans (Homo sapiens)|Humans]]}}
+*{{a|[[Asgardians]]}}
+*{{a|[[Chitauri]]}}
+'''Locations:'''
+*{{a|[[Earth-13122]]}}
+**{{a|[[Earth]]}}
+***{{a|[[United States of America]]}}
+****{{a|[[New York City]]}}
+*****{{a|[[Stark Tower|Avengers Tower]]}}
+***{{a|[[S.H.I.E.L.D. Helicarrier]]}}
+'''Items:'''
+*{{a|[[Iron Man Armor (Earth-199999)|Iron Man Armor]]}}
+**{{a|[[Iron Man Armor MK VI (Earth-199999)|Iron Man Armor MK VI]]}}
+**{{a|[[Iron Man Armor MK XXXVII (Earth-199999)|Iron Man MK XXXVII]]}}
+*{{a|[[Captain America's Shield]]}}
+*{{a|[[Mjolnir]]}}
+*{{a|[[Infinity Gauntlet (Item)|Infinity Gauntlet]]}} 
+*{{Mentioned|[[Time Stone]]}} 
+*{{Mentioned|[[Soul Stone]]}} 
+*{{Mentioned|[[Mind Stone]]}}
+*{{Mentioned|[[Reality Stone]]}}
+*{{Mentioned|[[Space Stone]]}} 
+*{{Mentioned|[[Power Stone]]}}
+*{{Mentioned|[[Loki's Scepter]]}} 
+
+|Cast = *[[wikipedia:Giles Panton|Giles Panton]] as [[Anthony Stark (Earth-13122)|Iron Man (Tony Stark)]] and [[Brock Rumlow (Earth-13122)|Crossbones (Brock Rumlow)]]
+*[[wikipedia:Ian Hanlin|Ian Hanlin]] as [[Thor Odinson (Earth-13122)|Thor]]
+*Bill Newton as [[Loki Laufeyson (Earth-13122)|Loki]]
+*Micheal Daingerfield as [[Steven Rogers (Earth-13122)|Captain America (Steve Rogers)]]
+*Nicole Oliver as [[Natalia Romanova (Earth-13122)|Black Widow (Natasha Romanoff)]]
+*Adrian Petriw as [[Clinton Barton (Earth-13122)|Hawkeye (Clint Barton)]]
+*James Blight as [[Bruce Banner (Earth-13122)|Hulk (Bruce Banner)]]
+*Alex Barima as [[Nicholas Fury, Jr. (Earth-13122)|Nick Fury]]
+*Ashleigh Ball as [[Nebula (Earth-13122)|Nebula]] and Little Girl Becky
+*Deven Mack as [[Thanos (Earth-13122)|Thanos]] and Chitauri Soldier Gavin
+
+[[Category:Short Films]]
+}}

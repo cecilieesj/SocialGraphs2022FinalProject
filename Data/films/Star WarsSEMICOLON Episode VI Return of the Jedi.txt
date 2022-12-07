@@ -1,0 +1,2564 @@
+{{Top|real|can|mprot|title=''Star Wars'': Episode VI ''Return of the Jedi''}}
+{{Otheruses|title=Star Wars: Episode VI Return of the Jedi (disambiguation)|more=Star Wars 6}}
+{{Multiple issues|citation|redlink}}
+{{Movie
+|image=[[File:ReturnOfTheJediPoster1983.jpg]]
+|movie name=''Star Wars'': Episode VI<br />''Return of the Jedi''
+|director=[[Richard Marquand]]<ref name="Year by Year">''[[Star Wars Year By Year: A Visual History, Updated and Expanded Edition]]''</ref>
+|producer=*[[Howard G. Kazanjian]]<ref name="Year by Year" />
+*[[George Lucas]] {{C|executive}}<ref name="Year by Year" />
+*[[Rick McCallum]] {{C|[[The Star Wars Trilogy Special Edition|Special Edition]]}}
+|writer=*George Lucas {{C|story}}<ref name="Year by Year" />
+*[[Lawrence Kasdan]] and George Lucas {{C|screenplay}}<ref name="Year by Year" />
+|starring=*[[Mark Hamill]]<ref name="Year by Year" />
+*[[Harrison Ford]]<ref name="Year by Year" />
+*[[Carrie Fisher]]<ref name="Year by Year" />
+*[[Billy Dee Williams]]<ref name="Year by Year" />
+*[[Anthony Daniels]]<ref name="Year by Year" />
+*[[Kenny Baker]]<ref name="Year by Year" />
+*[[Peter Mayhew]]<ref name="Year by Year" />
+*[[Ian McDiarmid]]<ref name="Year by Year" />
+*[[Frank Oz]]<ref name="Year by Year" />
+*[[James Earl Jones]]<ref name="Year by Year" />
+*[[David Prowse]]<ref name="Year by Year" />
+*[[Alec Guinness]]
+*[[Sebastian Shaw]]
+|music=[[John Williams]]
+|release date=*[[May 25]], [[1983]] {{C|original version}}<ref name="Year by Year" />
+*[[March 14]], [[1997]] {{C|Special Edition}}<ref name="A Gift For Boba Fett">{{SWYoutube|KUPQ8aT8bJU|Marvel Comics Previews, Unwrapping a Gift for Boba Fett, and More!|archivedate=20220317213650}}</ref>
+|runtime=*132 min. {{C|theatrical}}
+*134 min. {{C|Special Edition}}
+*135 min. {{C|DVD, Blu-ray and Digital HD}}
+|budget=$32,500,000
+|language=English
+|timeline=[[4 ABY]]<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref>
+|series=[[Original trilogy]], [[Star Wars saga|''Star Wars'' saga]]
+|preceded by=[[Star Wars: Episode V The Empire Strikes Back|Episode V ''The Empire Strikes Back'']]
+|followed by=[[Star Wars: Episode VII The Force Awakens|Episode VII ''The Force Awakens'']]}}
+{{Quote|I am a Jedi, like my father before me.|[[Luke Skywalker]]|audio=I_am_a_Jedi_like_my_father_before_me.ogg|<ref name="Film">{{Film|VI}}</ref>}}
+'''''Star Wars'': Episode VI ''Return of the Jedi''''', marketed as simply '''''Return of the Jedi''''', is a [[1983]] film directed by [[Richard Marquand]] and written by [[Lawrence Kasdan]] and [[George Lucas]] from a story by Lucas. It is the third and final part of the ''[[Star Wars]]'' [[original trilogy]].
+
+[[Luke Skywalker]] and friends travel to [[Tatooine]] to [[Rescue of Han Solo|rescue]] their companion [[Han Solo]] from the vile [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]]. The [[Galactic Empire|Empire]] prepares to crush the [[Alliance to Restore the Republic|Rebellion]] with [[DS-2 Death Star II Mobile Battle Station|a more powerful Death Star]], while the [[Rebel Alliance Navy|Rebel fleet]] mounts [[Battle of Endor|a massive attack]] on the [[space station]]. Luke confronts his father, [[Anakin Skywalker]], in a final climactic [[Lightsaber duel|duel]] before the evil [[Darth Sidious|Emperor Sidious]].
+
+The film debuted on [[May 25]], [[1983]], and was released on [[Wikipedia:VHS|VHS]] and [[Wikipedia:LaserDisc|LaserDisc]] in this form multiple times during the 80s and 90s. The film was [[List of changes in Star Wars re-releases|re-released with changes]] in 1997, and this version was later released on VHS and LaserDisc as well. The special edition arrived on [[Star Wars Trilogy (DVD)|DVD in 2004]], but with further updates and changes to the 1997 versions. The original, unaltered version of the film was released as part of a [[Original unaltered trilogy|DVD set]] in September 2006. The film was re-released in the Blu-ray format in [[September]] of [[2011]].
+
+==Opening crawl==
+{{Opening crawl
+|name=Episode VI<br />RETURN OF THE JEDI
+|text=Luke Skywalker has returned to
+his home planet of Tatooine in
+an attempt to rescue his
+friend Han Solo from the
+clutches of the vile gangster
+Jabba the Hutt.
+
+Little does Luke know that the
+GALACTIC EMPIRE has secretly
+begun construction on a new
+armored space station even
+more powerful than the first
+dreaded Death Star.
+
+When completed, this ultimate
+weapon will spell certain doom
+for the small band of rebels
+struggling to restore freedom
+to the galaxy...}}
+
+==Plot summary==
+===Vader's arrival to the Death Star===
+{{Quote|The Emperor is not as forgiving as I am.|Darth Vader|<ref name="Film" />}}
+[[File:MoffJerjerrodGreetsVader.jpg|thumb|left|250px|Moff Jerjerrod greets Darth Vader aboard the newly built Death Star.]]
+Almost a full [[Standard year|year]] after the events of ''The Empire Strikes Back'',<ref name="Princess and the Scoundrel">''[[The Princess and the Scoundrel]]''</ref> [[Anakin Skywalker|Darth Vader]] lands in the docking bay of the incomplete [[DS-2 Death Star II Mobile Battle Station|second Death Star]], which the Empire designed to be more powerful than the first. He is greeted by [[Moff]] [[Tiaan Jerjerrod]], but demands construction be put back on schedule in order to complete the Death Star on time. Jerjerrod argues that they need more men, but quickly agrees to double their efforts when he learns that [[Darth Sidious|the Emperor]] is coming.
+
+===Arriving at Jabba's Palace===
+{{Quote|If I told you half the things I've heard about this Jabba the Hutt&hellip; you'd probably short-circuit.|C-3PO to R2-D2|<ref name="Film" />}}
+Meanwhile, [[Luke Skywalker]] and company have arrived on [[Tatooine]] in an attempt to [[Rescue of Han Solo|rescue]] their friend [[Han Solo]] from [[Jabba Desilijic Tiure|Jabba]] the Hutt's [[Boba Fett's Palace|desert palace]].
+[[File:Jabba's_dais.jpg|thumb|220x220px|Jabba the Hutt reclines with his slave girl Oola.]]
+First, the droids [[R2-D2]] and [[C-3PO]] arrive with a [[Hologram|holographic]] message from Skywalker asking Jabba to release Solo. In exchange, the two droids are presented as gifts to the crime lord; Luke promises that both are hardworking and that they will serve him well, which Jabba agrees to silently. However, when the message finishes, he states that there will be no bargain and that he won't give up his "favorite decoration". The two droids are then sent to their quarters, where [[EV-9D9]] harshly barks at the two when they explain what they can do. 3PO is ordered to be Jabba's interpreter, while R2 is tasked with working on the ''Khetanna''.
+
+That evening, the [[Max Rebo Band]] (led by [[Sy Snootles]]) entertains the Hutt's guests. Jabba, engaged by the graceful gyrations of his collared slave girl [[Oola]], starts tugging on her chain and commanding her to come to him on his throne. Oola fearfully resists him, and in annoyance, Jabba pushes a button on his throne, and Oola is dropped through a hidden trapdoor at the foot of his throne, into the pit of the [[rancor]] monster, which immediately devours her.
+
+===Saving Han Solo===
+Later, [[Prince]]ss [[Leia Skywalker Organa Solo|Leia Organa]] (in the guise of [[bounty hunter]] [[Boushh]]) arrives with [[Chewbacca]] as her "prisoner" to collect part of the bounty Jabba sought years earlier when he put a price on Solo's head. After much bargaining (including Leia threatening Jabba with a [[thermal detonator]]), Jabba settles on a deal, and has Chewbacca imprisoned.
+
+That night, Leia releases Han Solo from his [[carbonite]] coffin, and after revealing her identity to him, she kisses him. As they prepare to escape, they are caught by Jabba and his thugs. Ignoring Han's pleas, Jabba has the captain thrown in prison with Chewbacca. Although [[Landonis Balthazar Calrissian|Lando Calrissian]] (disguised as one of Jabba's prison guards) tries to sneak off with Leia, Jabba stops them and orders a [[Gamorrean]] guard to bring Leia to him. Leia warns the Hutt that he will regret capturing the Rebels, but Jabba ignores the threat and licks her face. Leia is forced to become Jabba's newest slave girl, being made to wear a [[Huttese slave-girl costume|dancing costume]] and chained to the throne as a trophy.
+
+===Luke Skywalker arrives at the palace===
+[[File:Luke_the_hutt.png|thumb|left|250px|Luke Skywalker meets with Jabba the Hutt, who flaunts his power by exploiting Princess Leia as his slave.]]
+Later, Luke arrives at the palace. Jabba and most of his court are asleep, but are awoken by [[Bib Fortuna]] (who, in trying to impede the Jedi's entrance, is [[Mind trick|Force-tricked]] into welcoming him). Leia remains silent beside the Hutt, despite her rising hope at seeing Luke. Luke demands that Jabba release Han and his other friends, but Jabba refuses the young Jedi's offer. Luke uses [[the Force]] to pull a nearby blaster and attempts to shoot Jabba, but the Hutt activates the trapdoor to protect himself, dropping the Jedi and an unfortunate guard into the rancor pit.
+
+After a battle with the rancor (which devours the fallen guard), Luke ultimately kills the monster by crushing it under the gate of its compound, piercing its neck with the spikes at the bottom of the gate. He is then captured and brought up by Jabba's thugs. Jabba, furious, chokes Leia until she falls back on his stomach, and orders the prisoners to be brought before him. Luke, Han, and Chewbacca are brought before Jabba, exchanging relief at each other's safety as Leia struggles with Jabba to sit upright before him.
+
+Using C-3PO as a translator, Jabba sentences Luke and his friends to be taken to the [[Dune Sea]] for termination (over a course of a thousand years) by the man-eating [[sarlacc]] at the [[Great Pit of Carkoon]]. Leia is spared from execution since she is Jabba's favorite slave. As Jabba orders the prisoners to be taken away, Luke warns him that he's made his last mistake, at which the Hutt laughs in amusement.
+
+===Skirmish at the Great Pit of Carkoon===
+{{Quote|Jabba, This is your last chance. Free us, or die.|Luke Skywalker, to Jabba Desilijic Tiure|<ref name="Film" />}}
+Jabba, accompanied by Leia and several of his thugs, travels to the Pit of Carkoon via his [[Khetanna|sail barge]], while the prisoners are taken on a smaller [[Bantha-II cargo skiff|skiff]]. En route, R2-D2 is tasked with serving drinks to Jabba's guests, and the Max Rebo band plays music in the background. Jabba allows Leia to climb off his throne and watch her friends from a window. After a while, he gives a tug on her chain, playfully commanding her to come to him. Leia glares back at him and returns to watching, and Jabba chuckles. He later pulls her chain again, this time forcing her to run to him on his throne. Jabba then informs Leia that she will soon learn to appreciate him and makes her drink from his goblet.
+
+Outside, Luke and his companions (with Lando, still in disguise) discuss their situation. Han, still half-blinded from the side-effects of [[Carbon-freezing|carbonization]], is sure that they are all going to die, and Luke tries to reassure him of their ultimate safety, but Han is not easily convinced. Elsewhere in the sail barge, C-3PO literally runs into R2-D2 and knocks over the shorter droid's drink tray. C-3PO laments their friends' imminent deaths, but R2-D2 shows a kind of confidence, which C-3PO doesn't see any reason for.
+[[File:LukeGreenSaber-MOROTJ.png|thumb|right|220px|Luke attacks Jabba's guards with his new lightsaber]]
+When the vehicles ultimately reach the pit, Jabba has C-3PO announce the group's deaths, but that he is willing to now listen to their pleas. Han calls Jabba names and tells him that he'll not get any pleasure from their pleading, much to the Hutt's amusement, and Luke offers a final chance for Jabba to free him and his friends or die. Jabba and his guests laugh off this last threat and order the execution to commence. Luke gets ushered off of a plank and into the sarlacc, only to Force-flip up through the air and onto the skiff. Meanwhile, R2-D2 launches Luke's recently built [[Luke Skywalker's green lightsaber|lightsaber]] from a hidden panel in his housing, and Luke catches it and begins to kill his captors. As Jabba furiously orders his thugs to intervene, C-3PO gets knocked over. Leia looks around, ready to use her false submission to the Hutt to her advantage.
+
+[[Boba Fett]] uses his [[jetpack]] to fly off of the barge and land on the skiff as Luke is in the act of freeing Han and Chewbacca. Luke uses his lightsaber to cut Fett's [[EE-3 carbine rifle|blaster]] in half, and Chewbacca pushes the bounty hunter onto the deck. Luke then jumps onto another of the accompanying skiffs to fight off the guards and thugs there.
+
+While fighting a guard, Lando accidentally falls off the side of the skiff, and although he manages to hold onto a wire, one of the sarlacc's tentacles begins to pull him to his death, and Han and Chewbacca have to carefully rescue him. Han accidentally activates Fett's backpack when he turns around and smashes the butt of an axe against it. Fett subsequently flies out of control from the skiff, crashing against the hull of the barge before falling into the sarlacc's open mouth, making it belch.
+[[File:Jabbachoke.jpg|thumb|left|220px|Leia prepares to strangle Jabba with the very chain he'd used to enslave her.]]
+Aboard the sail barge, Leia smashes the controls for the sail barge's interior lights, throwing it into darkness, and proceeds to strangle Jabba with her chain, killing him, Leia jumps off of the throne and has R2-D2 help break her chain, then heads for the stairs to the top surface of the sail barge. Meanwhile, [[Salacious B. Crumb]] attacks the fallen C-3PO, and R2-D2 uses the same device he'd freed Leia with to chase the lizard-monkey away. Reaching the surface, the droids jump off the edge of the sail barge and land in the Tatooinian sand.
+
+Luke and Leia defeat the remaining guards on the Sail Barge, then Luke has Leia point the guns toward the heart of the vehicle. They prepare to swing from a loose cable on the Barge's sails, and Luke discharges the guns, beginning to destroy the barge. They swing to their rescue on the land skiff with Han, Lando, and Chewbacca, then use magnets to pick up the two droids from the sand. They all drive off just as the sail barge explodes.
+
+Later, all of the crew (except for Luke and R2-D2) depart [[Tatooine]] for the rendezvous point near [[Sullust]] (mentioned in ''The Empire Strikes Back'') where the [[Alliance to Restore the Republic|Rebel Alliance]] is assembling, while Luke and R2-D2 (in their X-wing) head for [[Dagobah]] to fulfill a promise to Yoda made some time earlier.
+
+===The Emperor arrives===
+{{Quote|Patience, my friend. In time, he will seek you out. And when he does, you must bring him before me. He has grown strong. Only together can we turn him to the dark side of the Force.''"<br />"''As you wish.''"<br />"''Everything is proceeding as I have foreseen.|Emperor Palpatine and Darth Vader|<ref name="Film" />}}
+On the second Death Star, Emperor Palpatine arrives and praises Darth Vader on his efforts in the construction of the Death Star. He also senses that Vader craves the continuation of his search for his son, Luke. The old [[Sith Lord]] assures his [[Sith apprentice|apprentice]] that Luke will seek Vader out, that only together would the Sith be able to turn Luke to the [[dark side of the Force]], and that everything was proceeding as Palpatine has foreseen.
+
+===Returning to Dagobah===
+{{Quote|But I need your help. I've come back to complete the training.|Luke Skywalker, to Yoda|<ref name="Film" />}}
+[[File:Yoda's_death.png|thumb|right|220px|Yoda dies and becomes one with the Force.]]
+Luke and R2-D2 arrive on Dagobah to find a terminally ill [[Yoda]]. Luke has returned to complete his [[Jedi training]], but Yoda declares no further training is required. All that remains for Luke is to confront Vader. Yoda then reveals that Vader is indeed his father. The 900-year-old [[Jedi Master]] gives one last mention of wisdom to the young Jedi before he dies, disappearing in the way [[Obi-Wan Kenobi|Ben Kenobi]] did in [[Star Wars: Episode IV A New Hope|''A New Hope'']], thereby becoming one with the Force.
+
+As Luke approaches his [[T-65B X-wing starfighter|X-wing]], the [[Force spirit|spirit]] form of Obi-Wan confirms that Vader was once [[Anakin Skywalker]], a former Jedi Knight who turned to the dark side of the Force. Kenobi also reveals that Luke has a twin sister, hidden from Luke at birth as protection from the Emperor. Luke senses that his sister is Leia. Kenobi warns Luke to bury his feelings, for they could in time "serve the Emperor."
+
+===The mission begins===
+[[File:Home_One_Endor.png|thumb|left|250px|The Alliance Fleet amassing near Sullust]]
+At the rendezvous point near [[Sullust]], the Rebel Alliance gathers to reveal plans to attack the Death Star. As part of the plans, Luke, Leia, Solo, Chewbacca, C-3PO, R2-D2, and a strike team must penetrate the [[deflector shield generator]] on the [[Endor|forest moon]] of [[Endor (planet)|Endor]] in order to deactivate the shield if the Rebel fleet is to attack the Death Star. However, Vader knows this because he could sense that his son was with them and allows them to land on the planet. Luke senses his father as well and begins to believe that he would endanger the mission by coming.
+
+The strike team lands on Endor only to be discovered by [[Scout trooper|Imperial scout troopers]]. A [[speeder bike]] chase ensues, only for Leia to be thrown off her speeder and knocked unconscious. Luke and Han discover Leia's helmet, then they, with Chewbacca and the droids, try to find her. Leia is awakened by one of Endor's forest creatures, an [[Ewok]] named [[Wicket Wystri Warrick|Wicket W. Warrick]]. Suddenly, another scout trooper discovers Leia, but Wicket does away with the trooper before rescuing Leia.
+
+Luke, Han, Chewbacca, and the droids, meanwhile, fall into a booby trap set by the Ewoks. R2-D2 cuts open the net setting them free, but the Ewok tribe discovers C-3PO and proclaims him to be their god. The droid's Human and Wookiee friends are taken prisoner, and the Ewoks proclaim Han to be the main course in a banquet in C-3PO's honor. Discovered by Leia, Luke then uses the Force to levitate C-3PO to show off his "great magic." Convinced of the Rebels' good intentions, the Ewoks set them free and later that evening make them "part of the tribe," thereby agreeing to join the fight against the Empire. But Luke decides the time has come to leave Endor and face Darth Vader. Leia follows Luke out of the tribal gathering, whereupon he tells her that Vader is his father and she is his sister. Leia is rendered utterly shocked, but accepts the truth. She is comforted by Han Solo.
+
+===Meeting the Emperor===
+{{Quote|Oh, no, my young Jedi. You will find that it is you who are mistaken... about a great many things.|Emperor Palpatine to Luke Skywalker|<ref name="Film" />}}
+Vader arrives in his shuttle on a docking bay, and Luke, having already surrendered to the Empire, talks with Vader in an attempt to bring the Sith Lord out of the dark side of the Force, but to no avail. The Empire takes Luke into custody for transportation to the Death Star. The next day, the Rebels attempt to locate the shield generator, and the Rebel fleet enters [[hyperspace]] from Sullust to prepare for the final attack. Luke and Vader finally enter the Death Star and confront the Emperor, who looks forward to completing Luke's training and believes that while Vader would never turn from the dark side, neither would Luke. He also reveals that it was he who coordinated the Rebels finding the secret plans and locating the shield generator so that the Alliance can fall into a trap of Palpatine's devising.
+
+===The [[Battle of Endor]] begins===
+[[File:BattleofEndor.png|thumb|right|275px|The battle of Endor starts.]]
+The Rebels enter the heart of the shield generator, only to be taken prisoner by the Imperial forces. The fleet emerges from hyperspace for the battle, but discovers the shield is still up. As they contemplate their options, the Imperial fleet, which they were led to believe was away, appears and an intense battle begins. Han and the strike team are led out of the bunker by the [[stormtrooper]]s, but the [[droid]]s and the [[Ewok]]s have already orchestrated the attack on the Empire, and another intense battle commences with the Rebels and Ewoks on one side, the Empire on another. The Emperor shows Luke the full power of the Death Star as the station, now fully operational, destroys one of the Alliance's ships. Meanwhile, on Endor, the battle continues, with casualties (Rebel, stormtrooper, and Ewok) already mounting. Eventually, Han, Leia, and Chewbacca gain access to the bunker.
+
+===Duel between father and son===
+[[File:Return_of_the_jedi_4.jpg|thumb|left|250px|Vader and Luke battle each other on the 2nd Death Star.|alt=]]
+Back on the Death Star, Luke, with the encouragement of Darth Sidious, lashes out at him with his lightsaber, only to be deflected by Vader, and the final duel between father and son begins. As Luke climbs onto a balcony, Vader throws his lightsaber at his son. It misses Luke and knocks the balcony down, taking Luke with it. Vader stalks for a hidden Luke to let down his guard, while quietly sensing within his son's mind that Luke has a sister. Vader threatens to turn her to the dark side if Luke will not, prompting Luke to respond viciously in intense saber fighting, up to the point where Luke strikes off Vader's right mechanical hand. Sidious betrays Vader by encouraging Luke to take his father's place at his side, but Luke controls his anger and throws his lightsaber aside. He declares himself to be a Jedi Knight like his father Anakin had been before he turned over to the dark side into Darth Vader.
+
+===Anakin's choice===
+Han, Leia, and Chewbacca escape from the bunker just in time for its destruction, thus bringing down the shield. The Alliance is now free to attack the half-completed Death Star. On the Death Star, the enraged Emperor declares that if Luke will not turn to the dark side, he will be destroyed, and uses [[Force lightning]] against the young Jedi. He revels in torturing Luke by slowly increasing the intensity of the lightning. Luke then cries out to his father to help him. As the Emperor prepares to deliver the killing bolts, Vader prepares to make a choice; he looks at Luke and then the Emperor, conflicted whether to save his son or to continue serving his master.
+
+Moved by his son's cries for help and unwilling to see him die, Vader turns back into the light side as Anakin and lifts the Emperor into the air, carries him over and throws him into the Death Star's reactor shaft, killing him. However, in the process, Anakin is struck by the Emperor's force lightning, which enters his organic remains, striking his life support system and his respirator, mortally wounding him. The ''[[Millennium Falcon]]'' and its remaining Rebel fighters enter the bowels of the Death Star, and some fighters engage in a point-blank attack on the [[Executor-class Star Dreadnought|Super Star Destroyer]], causing the [[Executor|Imperial flagship's]] destruction.
+
+===Anakin Skywalker's Death===
+{{Quote|No, you're coming with me. I'll not leave you here. I've got to save you"."<br />"''You already have, Luke. You were right. You were right about me. Tell your sister you were right.|[[Luke Skywalker|Luke]] and [[Anakin Skywalker|Anakin]], in the moments before Anakin's death|<ref name="Film" />}}
+[[File:Anakinredeemed.png|thumb|right|220px|Anakin Skywalker's last moments]]
+On the Death Star, in the middle of the evacuation, Luke carries his father's ravaged body to the foot of an Imperial shuttle's ramp. Anakin stops Luke and asks him to remove his mask so that he can look upon the face of his son, just for once, with his "own eyes".
+
+Luke removes the mask and sees the face of his father for the first time. Anakin's face is revealed to have turned pale white and scaly, and his head retains some vicious scars after 23 years from [[Duel on Mustafar|his duel]] with Obi-Wan Kenobi in Episode III: ''Revenge of the Sith''.
+
+Anakin tells Luke that his son was right—he did have good left in him, and asks him to tell his sister the same. With that, Anakin Skywalker, the redeemed Jedi Knight, smiles at his son and dies peacefully. Luke bows his head in sadness.
+
+===Knocking out the main reactor===
+The ''Millennium Falcon'' and its strike force (in the last Rebel fighter inside) reach the Death Star's main reactor and fire [[concussion missile]]s and [[proton torpedo]]es at it, causing it to collapse. Luke escapes the Death Star with his father's body and flies out through the flames, as do Wedge Antilles and the ''Millennium Falcon'' before the Death Star explodes.
+
+Seeing the destruction from above, Han senses Leia's love for Luke. He offers to step aside when Luke arrives, but she tells Han that Luke is her brother. After a moment of speechless surprise, Han and Leia engage in a passionate kiss.
+
+===The big galaxy victory celebration===
+{{Quote|Wesa free!|An unidentified Gungan|<ref name="Film" />}}
+[[File:Anakinfuneral.png|thumb|left|Anakin Skywalker's cremation]]
+That evening in Endor, Luke sets a [[Funeral of Anakin Skywalker|funeral pyre]] ablaze to cremate the body of his father, still encased in Darth Vader's outfit, as per the [[Jedi funeral|Jedi funeral rite]]. His father's organic body becomes one with the Force. Through the midst of the rising flames and fireworks, Rebel fighters streak across the sky in celebration of one of the greatest Rebel victories in the [[Galactic Civil War]].
+
+[[File:MosEisley-celebration.png|thumb|right|Tatooine celebrates]]
+The planets [[Bespin]], [[Parades on Tatooine|Tatooine]], [[Rally on Naboo|Naboo]], and [[Riot in Monument Plaza|Coruscant]] also celebrate. Luke is reunited with his companions Han, Lando, the droids, Chewbacca, the surviving Rebel fleet, the Ewoks, and his sister Leia. Luke then catches sight of the Force ghosts of Obi-Wan Kenobi, Yoda, and a redeemed Anakin Skywalker. Luke is pleased: not only is he now a Jedi, but his father is once again on the [[light side of the Force]]. Leia takes Luke by the hand, and they rejoin their friends and colleagues as the spirit ghosts of Obi-Wan, Yoda, and Anakin look on with pride.
+
+<br />
+
+==Development==
+[[File:Blue_Harvest.png|thumb|right|300px]]
+{{Quote|When shooting ''Jedi'' in the United States we called the film ''Blue Harvest''. Camera slates, invoices, hotel reservations, call sheets, production reports, and crew hats and T-shirts all read ''Blue Harvest''. So when a visitor would ask, 'what are you shooting' and we said ''Blue Harvest'', they went on their way. Can you imagine what would have happened if we had said, 'We're shooting the next film in the ''Star Wars'' trilogy'?"|[[Howard G. Kazanjian]]|<ref name="SW.com Blue Harvest">{{SWArchive|url=episode-vi/classic/2000/07/classic20000703.html|text=Blue Harvest Letdown|archivedate=20041022202801}}</ref>}}
+For several reasons, the working title of the project was ''[[Blue Harvest]]'' and dubbed "Horror Beyond Imagination" to engender no interest whatsoever in order to disguise what the production crew was really filming from fans and the prying eyes of the press. George Lucas had severed all his remaining ties to the Hollywood system out of a feeling of persecution after the success of ''The Empire Strikes Back'' and had become a truly independent filmmaker. Lucasfilm is a non-union company, and despite George Lucas's stature and clout, that, says [[Howard G. Kazanjian|Howard Kazanjian]] in ''[[Empire of Dreams: The Story of the Star Wars Trilogy]]'', made acquiring shooting locations more difficult and more expensive, even though ''A New Hope'' and ''The Empire Strikes Back'' were mammoth hits.
+
+The title was used in all areas where it seemed necessary. The ''Blue Harvest'' ruse, credited to producer Howard Kazanjian, was very thorough, emblazoning the fictitious film's logo on a wide range of film production items including shirts, caps, coats, buttons, signs, invoices and stationery. The ''Blue Harvest'' facade did give a bit of a wink and nod to its true purpose, however, as the supposed film's logo (intentionally or unintentionally) utilized the distinctive ''[[Star Wars]]'' logo lettering style. In particular the ruse was employed during location filming in Yuma, Arizona. The filming took place in the dunes over the Thanksgiving holiday, where there was a reported crowd of 35,000 dune-buggy enthusiasts. After erecting a chain-link fence, employing a huge security force, and dodging a myriad of press inquiries, in the end approximately sixty fans saw through the ruse and refused to leave until they obtained a few autographs and photos.{{Fact}}
+
+The film's director was the late [[Richard Marquand]], who passed away in [[1987]] of a heart ailment, but reports have suggested that George Lucas was still heavily involved in the shooting of ''Return of the Jedi'' and likely directed some of the second-unit work personally when shooting threatened to go over schedule. Lucas admits in the documentary ''Empire of Dreams'' that he had to often be on the set due to Marquand's relative inexperience with special effects, but comments by [[Star Wars: Episode V The Empire Strikes Back|''The Empire Strikes Back'']] director [[Irvin Kershner]] on that film's DVD audio commentary track suggest that Lucas, who acted more as an advisor on ''The Empire Strikes Back'', had a similar role on the production of ''Return of the Jedi''. Moreover, George Lucas, according to Kershner, called ''The Empire Strikes Back'' Kershner's movie, not his.
+
+Some have noted the differences between Richard Marquand's direction style and Lucas's direction style and say that they're dissimilar. The screenplay was written by [[Lawrence Kasdan]] and Lucas (with uncredited contributions by [[Wikipedia:David Webb Peoples|David Webb Peoples]]), based on Lucas's story. Howard G. Kazanjian served as producer.
+
+[[File:RotjOrig.jpg|thumb|left|150px|Original movie poster]]
+The documentary ''Empire of Dreams'' states that George Lucas initially intended to call the film ''Return of the Jedi'', but then changed it to [[Star Wars: Episode VI Revenge of the Jedi|''Revenge of the Jedi'']] when Lawrence Kasdan told him that "Return" was a weak title. On [[January 27]], a few months before the movie released, Lucas announced that the film would be titled ''Return of the Jedi''.<ref name="This Week! Ep1">{{SWYoutube|Li4auBiXm_0|Star Wars: The Clone Wars, The Child, Star Wars Nite, and More &#124; This Week! In Star Wars|archivedate=20200501233426}}</ref> In interviews, Lucas said that the reason for the change is that a Jedi would not seek revenge. There are many, though, who speculate that George Lucas had planned to call the film ''Return of the Jedi'' all along, and only used "Revenge" as a means to throw off merchandise counterfeiters. It has also been claimed that the reason for the change was because the working title of [[MemoryAlpha:Star Trek II: The Wrath of Khan|''Star Trek II: The Wrath of Khan'']] was ''The Vengeance of Khan'', and that the title was changed because of its similarity to ''Revenge of the Jedi''. In William Shatner's autobiography [[MemoryAlpha:Star Trek Movie Memories|''Star Trek Movie Memories'']], director [[Wikipedia:Nicholas Meyer|Nicholas Meyer]] confirmed that he didn't believe that [[20th Century Studios|20th Century Fox]] would allow [[Wikipedia:Paramount Pictures|Paramount]] to change his film's title from ''The Undiscovered Country'' to ''The Vengeance of Khan'' because of the making of ''Revenge of the Jedi''. Nevertheless, all of this potential controversy was erased when ''Star Trek II'' was retitled ''The Wrath of Khan'' and ''Revenge of the Jedi'' finally became ''Return of the Jedi''. In any event, the working title was partially reused for Episode III ''Revenge of the Sith''.
+
+Filming took place from [[January 11]] to [[May 20]], [[1982]], in [[Wikipedia:Redwood National and State Parks|Redwood National Park]] forests in [[Wikipedia:California|California]], the [[Yuma|Yuma desert]] in [[Wikipedia:Arizona|Arizona]], and at the [[Elstree Studios]], [[Wikipedia:United Kingdom|United Kingdom]]. A shot from the speeder bike scene was the last to be completed.<ref name="Empire Turns 40">{{SWYoutube|6UccH037VQ0|The Empire Strikes Back Turns 40, Queen's Peril Gets a Voice, and More!|archivedate=20200521205510}}</ref> During breaks in filming, First Assistant Director [[David Tomblin]] worked with [[Warwick Davis]] on ''[[Return of the Ewok]]'', a short film intended to be a promotional piece. However, the project was never completed and is presumed lost, with the only known copy being a VHS in Davis' possession (which has since been digitally archived by Lucasfilm).<ref>{{InsiderCite|46|Return of the Ewok (article)|Return of the Ewok}}</ref>
+
+With a massive worldwide marketing campaign, ''Star Wars'' series artist [[Drew Struzan]] created the iconic and distinctive images for the movie posters and other advertising. In the film's release poster, Luke Skywalker is depicted holding a blue [[lightsaber]]&mdash;a lightsaber color that does not appear in the film. His new lightsaber is green&mdash;although it is blue in one trailer, suggesting the decision to make it green was made late in production. In fact, the decision was made to make Luke's blade contrast with the blue sky of Tatooine and make it more visible during the skirmish at Carkoon.<ref>{{Cite_web|url=https://movieweb.com/return-of-jedi-star-wars-luke-skywalker-why-green-lightsaber|title=Why Luke's Lightsaber Is Green in Return of the Jedi|author=Orange, B. Alan|date=2017-05-25|work=[[Wikipedia:MovieWeb|MovieWeb]]|archivedate=20190522002719}}</ref>
+
+A wardrobe problem was present in the film in that all Imperial characters, regardless of rank, are shown wearing identical rank insignia, that of an Imperial Navy Commander. The production staff only recognized this halfway through the film's shooting, and the error remained uncorrected in the final version of the film.
+
+Prior to production of the film, Mark Hamill speculated that Luke would end up turning to the dark side midway through the film, with the main conflict being whether Luke could return to the light side. A similar conflict would emerge in the comic serial ''[[Star Wars: Dark Empire]]''.
+
+==Release==
+[[File:Revenge_of_the_jedi_poster.jpg|thumb|150px|''Revenge of the Jedi'' poster]]
+The film was released on [[May 25]], [[1983]]&mdash;six years to the day after the original film.
+
+===Merchandise===
+The [[Star Wars Episode VI: Return of the Jedi (novel)|novelization]] of ''Return of the Jedi'' was written by [[James Kahn]]. While it contains many scenes that were deleted from the final cut, with the release of ''Revenge of the Sith'', Kahn's assertion that Anakin Skywalker's memories of "lava crawling up his back" have proved to be in error. In the novelization of ''Return of the Jedi'', Obi-Wan Kenobi recounts to Luke Skywalker that he and Anakin Skywalker had battled and that his father "fell into a molten pit." The novelization also erroneously refers to [[Owen Lars/Legends|Owen Lars]] as Obi-Wan Kenobi's [[Owen (Kenobi)|brother]]. Owen Lars is, in fact, Anakin Skywalker's stepbrother. Incidentally, [[Joel Edgerton|Joel]] and [[Nash Edgerton]], Owen's portrayer and [[Ewan McGregor]]'s stunt double, respectively, in the [[prequel trilogy]], ''are'' brothers in real life. At the beginning of the confrontation in [[Palpatine/Legends|Palpatine's]] throne room, the Emperor reads Luke's mind and discovers that Yoda completed Luke's Jedi training, and that Yoda is now dead. However, he gives no sign of recognition on hearing Yoda's name.
+
+The film was adapted into comics form by [[Marvel Comics]]. Unlike the earlier film adaptations, it was not released as part of the [[Star Wars (Marvel Comics 1977)|ongoing Star Wars series]], but as a four-part ([[Return of the Jedi 1|1]] [[Return of the Jedi 2|2]] [[Return of the Jedi 3|3]] [[Return of the Jedi 4|4]]) mini-series of its own. The adaptation was scripted by [[Archie Goodwin]] and illustrated by [[Al Williamson]]. (A [[Star Wars Manga: Return of the Jedi|manga adaptation]], illustrated by [[Shin-Ichi Hiromoto]], was later released in Japan in 1998 and in the United States in 1999.)
+
+While the first two ''Star Wars'' movies were adapted for radio in the early 1980s, it was not until [[1996]] that [[Star Wars (radio)|a radio version of ''Return of the Jedi'']] was produced. The adaptation was written by [[Brian Daley]] and was produced for and broadcast on [[National Public Radio]].
+
+In November 1983, [[CBS]] aired the official making-of documentary, ''[[Classic Creatures: Return of the Jedi]]''. The popularity of the Ewoks also led to two made-for-TV movies in [[1984]] ([[Caravan of Courage: An Ewok Adventure|''The Ewok Adventure'']] and [[1985]] (''[[Ewoks: The Battle for Endor]]'') and an [[Ewoks (TV series)|an animated TV series]] that aired on [[ABC Television Network|ABC]] in 1985 and [[1986]].
+
+===Special Edition and home video===
+As with the other two films of his original trilogy, Lucas issued a [[The Star Wars Trilogy Special Edition|Special Edition]] of ''Return of the Jedi'', released on theaters on [[March 14]], [[1997]].<ref name="A Gift For Boba Fett" /> It makes a number of cosmetic [[List of changes in Star Wars re-releases|changes and additions]], including replacing a piece of music from the closing scene. In [[Star Wars: Episode II Attack of the Clones|''Attack of the Clones'']] and ''Revenge of the Sith'', Anakin Skywalker is played by [[Hayden Christensen]]. However, in the original and Special Edition version of ''Return of the Jedi'', a much older actor named [[Sebastian Shaw]] played both the dying Anakin Skywalker and his Force spirit. In the DVD release, Anakin's ghost has become a young man, played by Christensen, and this is considered the [[canon]] version of the ghost. Lucas explains in the DVD commentary that Anakin has learned to control his life force beyond death, just as Obi-Wan Kenobi and Yoda had before him. (This is briefly explained in ''Revenge of the Sith''.) So rather than appear as the older man who was Darth Vader, Anakin is able to return to the young man he once was before turning to the dark side.
+
+The basic controversy arises from critics of Lucas's ongoing changes to all of the ''Star Wars'' films. On one hand, the redemption of Luke's father as an older man suggests that this is the image that should represent him after death. On the other, the older man was arguably never Anakin Skywalker until his final moments, and the vision of Hayden Christensen brings the story full circle: Darth Vader defeated, Anakin Skywalker at rest. Still, many fans argue that the insertion of Christensen is disrespectful toward Shaw.
+
+On [[September 21]], [[2004]] the three original movies were released on [[Star Wars home video releases|DVD]]. There were a few further changes with this release, such as sound effects and improvements to the visual quality of the film.
+
+During the sequence when the Emperor's defeat at Endor is announced to [[the galaxy]], an additional scene showing the celebrations on [[Theed]], Naboo was shown. A [[Gungan]] can be heard yelling "Wesa free" in this scene. In the scene showing the people of Coruscant celebrating, the Senate Building and the Jedi Temple have been added in the background.
+
+With the release of the third episode that depicts how and why Anakin Skywalker turned to the dark side of the Force, George Lucas once again altered ''Return of the Jedi'' to strengthen the relationship between the original trilogy and the prequel trilogy. Sebastian Shaw played Anakin in the hangar bay and in the final celebration scene in the original film. In the DVD release, Shaw portrayed Anakin in the hangar bay scene, though his eyebrows had been digitally removed so that his appearance more closely resembled Anakin's injured appearance at the end of ''Revenge of the Sith''. However, he was replaced by Hayden Christensen during the final celebration, appearing as he did in ''Revenge of the Sith'' prior to his injuries on [[Mustafar]]. Instead of simply reshooting the Force ghost of Anakin with Hayden, test footage of Hayden's head was digitally grafted to the body of Sebastian Shaw playing the role.
+
+On [[September 12]], [[2006]], [[Lucasfilm Ltd.]] released a two-DVD set consisting of the 2004 Special Edition and the unaltered original theatrical version. This release was limited, lasting through [[December 31]] of that year.<ref>{{SWArchive|url=episode-iv/release/video/news20060503.html|text=This September: Original Unaltered Trilogy on DVD|archivedate=20060517020346}}</ref>
+
+The film was re-released in the [[Wikipedia:Blu-ray|Blu-ray]] format on [[September 16]], [[2011]]. Among its bonus features, this released included previously unreleased [[Scenes cut from Star Wars|deleted scenes]] from the film.<ref>{{SWArchive|url=movies/saga/bluraymay4/index.html|text=Bring the Complete Collection Home: ''Star Wars: The Complete Saga'' on Blu-Ray|archivedate=20110507103835}}</ref> This release included a third round of changes to the film, mostly minor visual alterations.
+
+On [[April 7]], [[2015]], the Walt Disney Studios, 20th Century Fox, and Lucasfilm jointly announced the digital releases of the six released ''Star Wars'' films. As Lucasfilm had retained digital distribution rights to Episodes I through III and V through VI, Walt Disney Studios Home Entertainment released ''Return of the Jedi'' for digital download on [[April 10]], 2015.<ref>{{SW|url=news/the-star-wars-digital-movie-collection-coming-april-10|text=The ''Star Wars'' Digital Movie Collection Coming April 10}}</ref> On the official promo poster for ''Return of the Jedi'', Luke's lightsaber appeared blue; however, it is green in the movie.
+
+Despite the [[The Walt Disney Company|Walt Disney Company's]] [[2012]] purchase of Lucasfilm Ltd. and the release rights to all future ''Star Wars'' films, Fox was to retain original distribution rights to ''Star Wars'': Episode IV ''A New Hope'', which they co-produced and co-financed, in perpetuity in all media worldwide. Fox was also to retain theatrical, nontheatrical, and home-video rights worldwide for the franchise's five subsequent films, which Lucasfilm produced and financed independently, through [[May]] [[2020]], at which time ownership was to transfer to Disney. This complex relationship between Fox and Disney, particularly in regards to Fox's perpetual rights to Episode IV, was to create an obstacle for any future boxed set comprising all nine films.<ref name="Hollywood Reporter">{{Cite_web|url=https://www.hollywoodreporter.com/news/tangled-rights-could-tie-up-384541|title=Tangled Rights Could Tie Up Ultimate 'Star Wars' Box Set (Analysis)|author=Masters, Kim|date=2012-10-30|work=[[Wikipedia:The Hollywood Reporter|''The Hollywood Reporter'']]|archivedate=20200215125918}}</ref> On [[December 14]], [[2017]], The Walt Disney Company announced that it was acquiring most of Fox's parent company, [[Wikipedia:21st Century Fox|21st Century Fox]], including the film studio and all distribution rights to ''A New Hope''.<ref name="Acquire">{{DisneyCompany|url=walt-disney-company-acquire-twenty-first-century-fox-inc-spinoff-certain-businesses-52-4-billion-stock-2|text=The Walt Disney Company To Acquire Twenty-First Century Fox, Inc., After Spinoff Of Certain Businesses, For $52.4 Billion In Stock|archivedate=20200617112439}}</ref> On [[March 20]], [[2019]], the [[Wikipedia:Acquisition of 21st Century Fox by Disney|deal]] was officially completed.<ref>{{Cite_web|url=https://www.hollywoodreporter.com/news/disney-closes-fox-deal-creating-global-content-powerhouse-1174498|title=Disney Closes $71.3 Billion Fox Deal, Creating Global Content Powerhouse|author=Bond, Paul|date=2019-03-19|work=[[Wikipedia:The Hollywood Reporter|''The Hollywood Reporter'']]|archivedate=20200725043325}}</ref> On [[April 12]], 2019, a Blu-ray box set containing the nine main installments of the [[Star Wars saga|''Star Wars'' saga]] remastered in 4K was reportedly announced to be in development for a 2020 release.<ref>{{Cite_web|url=https://www.thedigitalfix.com/film/home-releases-news/star-wars-4k-march-2020|title=Star Wars: The Skywalker Saga is set to arrive on 4K Blu-ray in March 2020|date=2019-04-12|work=[https://www.thedigitalfix.com The Digital Fix]|archivedate=20200727153852}}</ref>
+
+==Reception==
+While critical reception of the film was generally positive, ''Return of the Jedi'' is considered by some critics and many fans as the weakest film of the original trilogy. Some indication of public opinion can be gleaned by its relatively modest 72nd-place ranking in the Internet Movie Database's Top 250 films list. As a comparison, ''A New Hope'' is ranked at #20, and ''The Empire Strikes Back'' is ranked #12, as of April 24, 2016. In 1983, the late Roger Ebert gave the film a four-star rating, and Gary Arnold of the ''Washington Post'' described ''Return of the Jedi'' as "a triumph." Some contemporary fans and critics have found the film to be just as weak as the prequel films or just in comparison to the first two episodes.<ref>{{Cite_web|url=http://www.indiewire.com/2013/05/how-return-of-the-jedi-ruined-star-wars-forever-97620|title=How 'Return Of The Jedi' Ruined 'Star Wars' Forever|author=Taylor, Drew|date=2013-05-24|work=[[Wikipedia:IndieWire|IndieWire]]|archivedate=20171016013602}}</ref>
+
+While the Jabba the Hutt sequence and many of the action set pieces (particularly the speeder bike chase on the Endor moon, the space battle between Rebel and Imperial pilots, and Luke Skywalker's duel against Darth Vader) are well regarded, the ground battle between the Ewoks and the stormtroopers remains a bone of contention. A large number of fans believe George Lucas pushed the "cutesy" factor with the Ewoks, especially with the belief that he did it to make it more marketable to children; and some of the production staff, such as Harrison Ford, felt awkward throughout the filming process about the Ewoks. However, other reasons were cited, such as the Wookiees, which were planned for that instance, being vetoed by Lucas due to the prior films showing that they were quite capable with technology via Chewbacca. In addition, fans seem to be rather divided on the premise that an extremely primitive race of small creatures could, albeit with aid, defeat an armed ground force comprising the Empire's best troops. Some fans call it ludicrous, while others credit the Ewoks' bravery, ingenuity, and determination, and draw comparisons between modern warfare in which familiarity with the terrain and guerrilla tactics can result in the defeat of a numerically and technologically superior force. In the commentary for the 2004 DVD release, Lucas explained that the Ewoks were an allegory for a technologically primitive force overcoming a powerful Empire, and compared it to examples like the Vietnam War, Attila the Hun and the Roman Empire, and the American Revolutionary War. ''[[The Making of Star Wars: The Definitive Story Behind the Original Film]]'' reveals that the idea emerged and evolved from Lucas's interest in the Vietnam War in making ''Apocalypse Now'', in which specifically the primitive Vietcong overcame the United States.<ref name="Vietnam">{{Cite_web|url=https://nypost.com/2014/09/21/how-star-wars-was-secretly-george-lucas-protest-of-vietnam|title=How 'Star Wars' was secretly George Lucas' Vietnam protest|author=Smith, Kyle|date=2014-09-21|work=[[Wikipedia:New York Post|''New York Post'']]|archivedate=20200512050442}}</ref> This has been criticized by some, such as conservative commentator Bill Whittle, in the webseries ''Afterburner'' episode "[[Han shot first|Han Shot First]]," for its perceived offensive connotations and morally ambiguous implications.<ref name="Afterburner">{{Youtube|video=Ns1m_aXJa58|text=Afterburner with Bill Whittle: Han Shot First!|channel=channel/UCWq53_f3zgMcWuE-XFKSpyQ|channelname=Townhall Media|archivedate=20200701013338}}</ref> However, in the contemporary documentary ''[[From Star Wars to Jedi: The Making of a Saga]]'', Lucas states that the Vietnam War was merely the inspiration from which the subplot evolved, rather than a political thesis. However, a note in the 1973 draft for ''A New Hope'' (then simply called ''Star Wars'') did make clear that the events of the film were inspired by "a large technological empire going after a group of freedom fighters" in a clear allusion to the events of Vietnam.<ref name="Vietnam" />
+
+In [[2021]], the U.S. [[Wikipedia:Library of Congress|Library of Congress]] selected ''Return of the Jedi'' for preservation in the [[Wikipedia:National Film Registry|National Film Registry]], considering it, "culturally, historically, or aesthetically significant".<ref name="LoC">{{Cite_web|url=https://www.loc.gov/item/prn-21-078|title='Return of the Jedi' Among 25 Eclectic Films Joining National Film Registry|date=2021-12-14|publisher=[[Wikipedia:Library of Congress|Library of Congress]]|archivedate=20220826034351}}</ref>
+
+==Release gallery==
+<center>
+<gallery>
+File:Rotj1995.jpg|The [[1995]] VHS Edition
+File:Returnofthejedi.jpg|The [[1997]] Special Edition
+File:Ep6DVD.jpg|The [[2004]] DVD Edition
+File:Classicrotjdvd.jpg|The [[2006]] Unaltered Edition
+Star Wars Episode VI Return of the Jedi Blu-ray Steelbook.jpg|The [[2015]] Blu-ray steelbook
+Star Wars Episode VI Return of the Jedi 2019 release cover.jpg|The [[2019]] re-release cover.
+</gallery>
+</center>
+
+==Credits==
+{{Credits
+|cast=
+*'''[[Mark Hamill]]''' as '''[[Luke Skywalker]]'''<ref name="SW.com Episode VI">{{SWArchive|url=movies/episode-vi|text=''Star Wars'': Episode VI ''Return of the Jedi''|archivedate=20110628201713}}</ref>
+*'''[[Harrison Ford]]''' as '''[[Han Solo]]'''<ref name="SW.com Episode VI" />
+*'''[[Carrie Fisher]]''' as '''Princess [[Leia Skywalker Organa Solo|Leia Organa]]'''<ref name="SW.com Episode VI" />
+*'''[[Billy Dee Williams]]''' as '''[[Landonis Balthazar Calrissian|Lando Calrissian]]'''<ref name="SW.com Episode VI" />
+*'''[[Anthony Daniels]]''' as '''[[C-3PO]]'''<ref name="SW.com Episode VI" />
+*'''[[Peter Mayhew]]''' as '''[[Chewbacca]]'''<ref name="SW.com Episode VI" />
+*'''[[Sebastian Shaw]]''' as '''[[Anakin Skywalker]]'''<ref name="SW.com Episode VI" />
+*'''[[Ian McDiarmid]]''' as '''[[Darth Sidious|The Emperor]]'''<ref name="SW.com Episode VI" />
+*'''[[Frank Oz]]''' performing '''[[Yoda]]'''<ref name="SW.com Episode VI" />
+*'''[[James Earl Jones]]''' as the voice of '''[[Anakin Skywalker|Darth Vader]]'''<ref name="SW.com Episode VI" />
+*'''[[David Prowse]]''' as '''Darth Vader'''<ref name="SW.com Episode VI" />
+*'''[[Alec Guinness]]''' as '''[[Obi-Wan Kenobi|Ben (Obi-Wan) Kenobi]]'''<ref name="SW.com Episode VI" />
+*'''[[Kenny Baker]]''' as '''[[R2-D2]]''', '''[[Paploo]]'''<ref name="SW.com Episode VI" />
+*'''[[Michael Pennington]]''' as '''Moff [[Tiaan Jerjerrod|Jerjerrod]]'''<ref name="SW.com Episode VI" />
+*'''[[Kenneth Colley]]''' as '''Admiral [[Firmus Piett]]'''<ref name="SW.com Episode VI" />
+*'''[[Michael Carter]]''' as '''[[Bib Fortuna]]'''<ref name="SW.com Episode VI" />
+*'''[[Denis Lawson]]''' as '''[[Wedge Antilles|Wedge]]'''<ref name="SW.com Episode VI" />
+*'''[[Tim Rose]]''' as '''Admiral [[Gial Ackbar|Ackbar]]'''<ref name="SW.com Episode VI" />
+*'''[[Dermot Crowley]]''' as '''General [[Crix Madine|Madine]]'''<ref name="SW.com Episode VI" />
+*'''[[Caroline Blakiston]]''' as '''[[Mon Mothma]]'''<ref name="SW.com Episode VI" />
+*'''[[Warwick Davis]]''' as '''[[Wicket Wystri Warrick|Wicket]]'''<ref name="SW.com Episode VI" />
+*'''[[Jeremy Bulloch]]''' as '''[[Boba Fett]]'''<ref name="SW.com Episode VI" />
+*'''[[Femi Taylor]]''' as '''[[Oola]]'''<ref name="SW.com Episode VI" />
+*'''[[Annie Arbogast]]''' as '''[[Sy Snootles]]'''<ref name="SW.com Episode VI" />
+*'''[[Claire Davenport]]''' as '''Fat Dancer'''<ref name="SW.com Episode VI" /> {{C|[[Yarna d'al' Gargan]]}}
+*'''[[Jack Purvis]]''' as '''[[Teebo]]'''<ref name="SW.com Episode VI" />
+*'''[[Mike Edmonds]]''' as '''[[Logray]]'''<ref name="SW.com Episode VI" />
+*'''[[Jane Busby]]''' as '''Chief [[Chirpa]]'''<ref name="SW.com Episode VI" />
+*'''[[Malcolm Dixon]]''' and '''[[Mike Cottrell]]''' as '''Ewok Warriors'''<ref name="SW.com Episode VI" />
+*'''[[Nicholas Read|Nicki Read]]''' as '''[[Nicki]]'''<ref name="SW.com Episode VI" />
+*'''[[Adam Bareham]]''' as '''Star Destroyer Controller #1''' '''{{C|[[Jhoff]]}}'''<ref name="SW.com Episode VI" />
+*'''[[Jonathan Oliver]]''' as '''Star Destroyer Controller #2'''<ref name="SW.com Episode VI" />
+*'''[[Pip Miller]]''' as '''Star Destroyer Captain #1'''<ref name="SW.com Episode VI" /> '''{{C|[[Gherant]]}}'''
+*'''[[Tom Mannion]]''' as '''Star Destroyer Captain #2'''<ref name="SW.com Episode VI" />
+*'''[[Toby Philpott]]''', '''[[David Barclay]]''' and '''[[Mike Edmonds]]''' as '''Jabba Puppeteers'''
+*'''[[Michael McCormick]]''', '''[[Simon Williamson]]''', '''[[Swim Lee]]''', '''[[Richard Robinson]]''', '''[[Deep Roy]]''', '''[[Hugh Spight]]''' and '''[[Mike Quinn|Michael Quinn]]'''<ref name="SW.com Episode VI" /> as '''Puppeteers'''
+*'''[[Ray Armstrong]]''', '''[[Eileen Baker]]''', '''[[Michael H. Balham]]''', '''[[Bobbie Bell]]''', '''[[Patty Bell]]''', '''[[Alan Bennett]]''', '''[[Sarah Bennett]]''', '''[[Pamela Betts]]''', '''[[Dan Blackner]]''', '''[[Linda Bowley]]''', '''[[Peter Burroughs]]''', '''[[Debbie Lee Carrington]]''', '''[[Maureen Charlton]]''', '''[[William Coppen]]''', '''[[Sadie Corre|Sadie Corrie]]''', '''[[Tony Cox]]''', '''[[John Cumming]]''', '''[[Jean D'agostino]]''', '''[[Luis De Jesus]]''', '''[[Debbie Dixon]]''', '''[[Margarita Fernández]]''', '''[[Phil Fondacaro]]''', '''[[Sal Fondacaro]]''', '''[[Tony Friel]]''', '''[[Dan Frishman]]''', '''[[John Gavam]]''', '''[[Michael Gilden]]''', '''[[Paul Grant]]''', '''[[Lars Green]]''', [[Lydia Green]], '''[[Pam Grizz]]''', '''[[Andrew Herd]]''', '''[[J.J. Jackson]]''', '''[[Richard Jones]]''', '''[[Glynn Jones]]''', '''[[Trevor Jones]]''', '''[[Karen Lay]]''', '''[[John Lummiss]]''', '''[[Nancy Maclean]]''', '''[[Peter Mandell]]''', '''[[Carole Morris]]''', '''[[Stacy Nichols]]''', '''[[Chris Nunn]]''', '''[[Barbara O'Laughlin]]''', '''[[Brian Orenstein]]''', '''[[Harrell Parker Jr.]]''', '''[[John Pedrick]]''', '''[[April Perkins]]''', '''[[Ronnie Phillips]]''', '''[[Katie Purvis]]''', '''[[Carol Read]]''', '''[[Nicholas Read]]''', '''[[Diana Reynolds]]''', '''[[Daniel Rodgers]]''', '''[[Chris Romano]]''', '''[[Dean Shackenford]]''', '''[[Kiran Shah]]''', '''[[Felix Silla]]''', '''[[Linda Spriggs]]''', '''[[Gerald Staddon]]''', '''[[Josephine Staddon]]''', '''[[Kevin Thompson]]''', '''[[Kendra Wall]]''', '''[[Brian Wheeler]]''' and '''[[Butch Wilhelm]]'''<ref name="SW.com Episode VI" /> as '''Ewoks'''
+|uncreditedcast=
+*'''[[Franki Anderson]]''', '''[[Ailsa Berk]]''', '''[[Sean Crawford]]''', '''[[Andy Cunningham]]''', '''[[Tim Dry]]''', '''[[Graeme Hattrick]]''', '''[[Phil Herbert]]''', '''[[Gerald Home]]''', '''[[Paul Springer]]'''<ref name="SW.com Episode VI" /> as '''Mime Artists'''
+*'''[[Bob Anderson]]''', '''[[Dirk Yohan Beer]]''', '''[[Marc Boyle]]''', '''[[Mike Cassidy]]''', '''[[Tracy Eddon]]''', '''[[Sandra Gross]]''', '''[[Ted Grossman]]''', '''[[Frank Hensen]]''', '''[[Larry Holt]]''', '''[[Billy Horrigan|Bill Horrigan]]''', '''[[Alf Joint]]''', '''[[Julius LeFlore]]''', '''[[Colin Skeaping]]''', '''[[Malcolm Weaver|Malcom Weaver]]''', '''[[Paul Weston]]''', '''[[Bob Yerkes]]''', '''[[Dan Zormeier]]''' as '''Stunt Performers'''<ref name="SW.com Episode VI" />
+*'''[[Erik Bauersfeld]]''' as the voice of '''[[Bib Fortuna]]''' and '''Admiral [[Gial Ackbar|Ackbar]]'''<ref name="SFGate">{{Cite_web|url=https://www.sfgate.com/entertainment/article/Erik-Bauersfeld-a-force-in-Star-Wars-cosmos-2308872.php|title=Erik Bauersfeld a force in 'Star Wars' cosmos|author=Hartlaub, Peter|date=2011-09-20|work=[[Wikipedia:SFGATE|SFGATE]]|archivedate=20200724232328}}</ref>
+*'''[[Richard Bonehill]]''' as '''[[Nien Nunb]]'''<ref name="Quinn">{{InsiderCite|47|In the Star Wars Universe}}</ref>
+*'''[[Hayden Christensen]]''' as '''[[Anakin Skywalker]]''' {{C|ghost in post-2004 versions}}
+*'''[[Joe Copeland]]''' as '''Stand-in'''<ref name="MakingOf">''[[The Making of Return of the Jedi]]''</ref>
+*'''[[Nelson Hall]]''' as '''[[Doda Bodonawieedo]]'''<ref name="Nelson Hall Bio">{{SWArchive|url=bio/nelsonhall.html|text=Nelson Hall|archivedate=20061230140850}}</ref>
+*'''[[Hilton McRae]]''' as '''[[Arvel Crynyd]]'''<ref name="Hilton McRae 1">{{Cite_web|url=http://aveleyman.com/ActorCredit.aspx?ActorID=11773|title=Hilton McRae|work=[https://www.aveleyman.com Aveleyman.com]|archivedate=20130429000650}}</ref><ref name="Hilton McRae 2">{{Cite_web|url=http://let-the-wookie-win.com/index.php?showimage=535|title=My Hilton McRae Star Wars Autograph|work=SW Autograph Collecting|archivedate=20131114003323|nolive=1}}</ref>
+*'''[[Ralph Morse]]''' as '''Stormtrooper'''<ref name="Morse">{{Cite_web|url=http://ralphmorse.com/Star_Wars.html|title=Star Wars - Ralphmorse.com|author=Williams, Robert|work=[http://www.ralphmorse.com Ralphmorse.com]|archivedate=20111203172349}}</ref>
+*'''[[Amanda Noar]]''' as '''[[Jess]]'''<ref>{{SW|url=news/return-of-the-jedi-creature-history-with-pablo-hidalgo|text=''Return of the Jedi'' Creature History with Pablo Hidalgo}}</ref>
+*'''[[Kipsang Rotich]]''' as the voice of '''Nien Nunb'''{{Fact}}
+*'''[[Robert Watts]]''' as '''Lieutenant [[Blanaid]]'''<ref name="Watts">{{InsiderCite|101|Watts the Story}}</ref>
+*'''[[Errol Shaker]]''' as Y-Wing Pilot {{C|Cut}}{{Fact}}
+|crew=
+*Director &mdash; [[Richard Marquand]]<ref name="SW.com Episode VI" />
+*Screenplay &mdash; [[Lawrence Kasdan]] and [[George Lucas]]<ref name="SW.com Episode VI" />
+*Story &mdash; George Lucas<ref name="SW.com Episode VI" />
+*Producer &mdash; [[Howard G. Kazanjian]]<ref name="SW.com Episode VI" />
+*Executive Producer &mdash; [[George Lucas]]<ref name="SW.com Episode VI" />
+*Co-Producers &mdash; [[Robert Watts]] and [[Jim Bloom]]
+*Production Designer &mdash; [[Norman Reynolds]]<ref name="SW.com Episode VI" />
+*Director Of Photography &mdash; [[Alan Hume]]<ref name="SW.com Episode VI" />
+*Editors &mdash; [[Sean Barton]], [[Marcia Lucas]] and [[Duwayne Dunham]]<ref name="SW.com Episode VI" />
+*Visual Effects &mdash; [[Richard Edlund]], [[Dennis Muren]] [[Wikipedia:American Society of Cinematographers|A.S.C.]] and [[Ken Ralston]]<ref name="SW.com Episode VI" />
+*Costume Designers &mdash; [[Aggie Guerard Rodgers]] and [[Nilo Rodis-Jamero]]
+*Mechanical Effects Supervision &mdash; [[Kit West]]<ref name="SW.com Episode VI" />
+*Make-Up And Creature Design &mdash; [[Phil Tippett]] and [[Stuart Freeborn]]<ref name="SW.com Episode VI" />
+*Sound Design &mdash; [[Ben Burtt]]<ref name="SW.com Episode VI" />
+*Music By &mdash; [[John Williams]]<ref name="SW.com Episode VI" />
+*First Assistant Director/ Second Unit Director &mdash; [[David Tomblin]]<ref name="SW.com Episode VI" />
+*Casting &mdash; [[Mary Selway|Mary Selway Buckley]]<ref name="SW.com Episode VI" />
+*Location Director Of Photography &mdash; [[Jim Glennon]]<ref name="SW.com Episode VI" />
+*Additional Photography &mdash; [[Jack Lowin]]<ref name="SW.com Episode VI" />
+*Production Sound &mdash; [[Tony Dawe]] and [[Randy Thom]]<ref name="SW.com Episode VI" />
+*Supervising Music Editor &mdash; [[Ken Wannberg|Kenneth Wannberg]]<ref name="SW.com Episode VI" />
+*Music Recording &mdash; [[Eric Tomlinson]]<ref name="SW.com Episode VI" />
+*Orchestrations &mdash; [[Herbert W. Spencer]]<ref name="SW.com Episode VI" />
+*Chief Articulation Engineer &mdash; [[Stuart Ziff]]<ref name="SW.com Episode VI" />
+*Production Supervisor &mdash; [[Douglas Twiddy]]<ref name="SW.com Episode VI" />
+*Production Executive &mdash; [[Robert Latham Brown]]<ref name="SW.com Episode VI" />
+*Unit Production Manager &mdash; [[Miki Herman]]<ref name="SW.com Episode VI" />
+*Assistant Production Manager &mdash; [[Patricia Carr]]<ref name="SW.com Episode VI" />
+*Associate To Producer &mdash; [[Louis G. Friedman]]<ref name="SW.com Episode VI" />
+*Conceptual Artist &mdash; [[David Russell]] and [[Ralph McQuarrie]]<ref name="SW.com Episode VI" />
+*Art Directors &mdash; [[Fred Hole]] and [[James Schoppe]]<ref name="SW.com Episode VI" />
+*Set Decorators &mdash; [[Michael Ford]] and [[Harry Lange]]<ref name="SW.com Episode VI" />
+*Property Master &mdash; [[Peter Hancock]]<ref name="SW.com Episode VI" />
+*Chief Hairdresser &mdash; [[Patricia McDermott]]<ref name="SW.com Episode VI" />
+*Stunt Co-Ordinator &mdash; [[Glenn Randall]]<ref name="SW.com Episode VI" />
+*Stunt Arranger &mdash; [[Peter Diamond]]<ref name="SW.com Episode VI" />
+*Production Controller &mdash; [[Arthur Carroll]]<ref name="SW.com Episode VI" />
+*Production Accountant &mdash; [[Margaret Mitchell]]<ref name="SW.com Episode VI" />
+*Second Assistant Directors &mdash; [[Roy Button]], [[Michael Steele]], [[Chris Newman]] and [[Russell Lodge]]<ref name="SW.com Episode VI" />
+*Production Assistant &mdash; [[Ian Bryce]]<ref name="SW.com Episode VI" />
+*Production Co-Ordinator &mdash; [[Lata Ryan]]<ref name="SW.com Episode VI" />
+*Co-Ordination Assistants &mdash; [[Sunni Kerwin]] and [[Gail Samuelson]]
+*Script Supervisor &mdash; [[Pamela Mann]]<ref name="SW.com Episode VI" />
+*Location Script Supervisor &mdash; [[Bob Forest]]<ref name="SW.com Episode VI" />
+*Location Casting &mdash; [[Dave Eman]] and [[Bill Lytle]]
+*Assistant To Mr. Kazanjian &mdash; [[Kathleen Hartney]]<ref name="SW.com Episode VI" />
+*Assistant To Mr. Bloom &mdash; [[John Syrjamaki Ross]]<ref name="SW.com Episode VI" />
+*Assistant To Mr. Lucas &mdash; [[Jane Bay]]<ref name="SW.com Episode VI" />
+*Assistant Art Directors &mdash; [[Michael Lamont]], [[John Fenner]] and [[Richard Dawking]]<ref name="SW.com Episode VI" />
+*Set Dresser &mdash; [[Doug Von Koss]]<ref name="SW.com Episode VI" />
+*Construction Manager &mdash; [[Bill Welch]]<ref name="SW.com Episode VI" />
+*Assistant Construction Manager &mdash; [[Alan Booth]]<ref name="SW.com Episode VI" />
+*Construction Supervisor &mdash; [[Roger Irvin]]<ref name="SW.com Episode VI" />
+*General Foreman &mdash; [[Bill Iiams]]<ref name="SW.com Episode VI" />
+*Construction Foremen &mdash; [[Greg Callas]], [[Guy Clause]], [[Doug Elliott]] and [[Stan Wakashige]]
+*Paint Foreman &mdash; [[Gary Clark]]<ref name="SW.com Episode VI" />
+*Sketch Artist &mdash; [[Roy Carnon]]<ref name="SW.com Episode VI" />
+*Scenic Artist &mdash; [[Ted Michell]]<ref name="SW.com Episode VI" />
+*Decor And Lettering Artist &mdash; [[Bob Walker]]<ref name="SW.com Episode VI" />
+*Set Draftsmen &mdash; [[Reg Bream]], [[Mark Billerman]] and [[Chris Campbell]]<ref name="SW.com Episode VI" />
+*Production Buyer &mdash; [[David Lusby]]<ref name="SW.com Episode VI" />
+*Construction Storeman &mdash; [[David Middleton]]<ref name="SW.com Episode VI" />
+*Operating Cameramen &mdash; [[Alec Mills]], [[Tom Laughridge]] and [[Mike Benson]]<ref name="SW.com Episode VI" />
+*Focus Pullers &mdash; [[Michael Frift]] and [[Chris Tanner]]
+*Assistant Cameramen &mdash; [[Leo Napolitano]] and [[Bob La Bonge]]
+*Second Assistant Cameramen &mdash; [[Simon Hume]], [[Steve Tate]], [[Martin Kenzie]] and [[Michael Glennon]]
+*Gaffers &mdash; [[Mike Pantages]] and [[Bob Bremner]]
+*Aerial Photography &mdash; [[Ron Goodman]] and [[Margaret Herron]]
+*Helicopter Pilot &mdash; [[Mark Wolfe]]<ref name="SW.com Episode VI" />
+*Key Grip &mdash; [[Dick Dova Spah]]<ref name="SW.com Episode VI" />
+*Best Boy &mdash; [[Joe Crowley]]<ref name="SW.com Episode VI" />
+*Dolly Grip &mdash; [[Chunky Huse]] and [[Reg Hall]]
+*Matte Photography Consultant &mdash; [[Stanley Sayer]]<ref name="SW.com Episode VI" />
+*Rigging Gaffers &mdash; [[Clark Garland]] and [[Tommy Brown]]
+*Chief Make-Up Artists &mdash; [[Tom Smith]] and [[Graham Freeborn]]
+*Make-Up Artists &mdash; [[Peter Robb King]], [[Dickie Mills]], [[Kay Freeborn]] and [[Nick Dudman]]
+*Hairdressers &mdash; [[Mike Lockey]] and [[Paul Le Blanc]]
+*Assistant Articulation Engineer &mdash; [[Eben Stromquist]]<ref name="SW.com Episode VI" />
+*Armature Designer &mdash; [[Peter Ronzani]]<ref name="SW.com Episode VI" />
+*Plastic Designer &mdash; [[Richard Davis]]<ref name="SW.com Episode VI" />
+*Sculptural Designers &mdash; [[Chuck Wiley]] and [[James Howard]]
+*Key Sculptors &mdash; [[Dave Carson]], [[Tony McVey]], [[Dave Sosalla]], [[Judy Elkins]] and [[Derek Howarth]]
+*Chief Moldmaker &mdash; [[Wesley Seeds]]<ref name="SW.com Episode VI" />
+*Moldmaker &mdash; [[Ron Young]]<ref name="SW.com Episode VI" />
+*Creature Technicians &mdash; [[Randy Dutra]], [[Kirk Thatcher]], [[Dan Howard]], [[James Isaac]], [[Brian Turner]], [[Jeanne Lauren]], [[Richard Spah, Jr.]] and [[Ethan Wiley]]<ref name="SW.com Episode VI" />
+*Creature Consultants &mdash; [[Jon Berg]] and [[Chris Walas]]
+*Production/ Creature Co-Ordinator &mdash; [[Patty Blau]]<ref name="SW.com Episode VI" />
+*Latex Foam Lab Supervisor &mdash; [[Tom McLaughlin]]<ref name="SW.com Episode VI" />
+*Animatronics Engineer &mdash; [[John Coppinger]]<ref name="SW.com Episode VI" />
+*Wardrobe Supervisor &mdash; [[Ron Beck]]<ref name="SW.com Episode VI" />
+*Costume Supervisor &mdash; [[Mary Elizabeth Still]]<ref name="SW.com Episode VI" />
+*Wardrobe Mistress &mdash; [[Janet Tebrooke]]<ref name="SW.com Episode VI" />
+*Shop Manager &mdash; [[Jenny Green]]<ref name="SW.com Episode VI" />
+*Jeweler &mdash; [[Richard Miller]]<ref name="SW.com Episode VI" />
+*Creature Costumers &mdash; [[Barbara Kassal]], [[Edwina Pellikka]], [[Anne Polland]] and [[Elvira Angelinetta]]
+*Assistant Property Master &mdash; [[Charles Torbett]]<ref name="SW.com Episode VI" />
+*Property Supervisors &mdash; [[Dan Coangelo]] and [[Brian Lofthouse]]
+*Property &mdash; [[Holly Walker]] and [[Ivan Van Perre]]
+*Propmakers &mdash; [[Bill Hargreaves]] and [[Richard Peters]]
+*Master Carpenter &mdash; [[Bert Long]]<ref name="SW.com Episode VI" />
+*Master Plasterer &mdash; [[Kenny Clarke]]<ref name="SW.com Episode VI" />
+*Master Painter &mdash; [[Eric Shirtcliffe]]<ref name="SW.com Episode VI" />
+*Supervising Rigger &mdash; [[Red Lawrence]]<ref name="SW.com Episode VI" />
+*Supervising Stagehand &mdash; [[Eddie Burke]]<ref name="SW.com Episode VI" />
+*Sail Co-Ordinators &mdash; [[Bill Kreysler]] and [[Warwick Tompkins]]
+*Sails Engineering &mdash; [[Derrick Baylis]] and [[Peggy Kashuba]]
+*Assistant Film Editors &mdash; [[Steve Starkey]], [[Conrad Buff]], [[Phil Sanderson]], [[Nick Hosker]], [[Debra McDermott]] and [[Clive Hartley]]<ref name="SW.com Episode VI" />
+*Sound Effects Editors &mdash; [[Richard Burrow]], [[Teresa Eckton]] and [[Ken Fischer]]<ref name="SW.com Episode VI" />
+*Dialogue Editors &mdash; [[Laurel Ladevich]], [[Curt Schulkey]], [[Bonnie Koehler]] and [[Vickie Rose Sampson]]
+*Assistant Sound Editors &mdash; [[Chris Weir]], [[Bill Mann]], [[Gloria Borders]], [[Suzanne Fox]], [[Kathy Ryan]], [[Nancy Jencks]] and [[Mary Helen Leasman]]
+*Re-Recording Mixers &mdash; [[Gary Summers]], [[Roger Savage]], [[Ben Burtt]] and [[Randy Thom]]
+*Re-Recording Engineer &mdash; [[Tomlinson Holman]]<ref name="SW.com Episode VI" />
+*Boom Operators &mdash; [[David Batchelor]] and [[David Parker]]
+*Sound Assistants &mdash; [[Shep Dawe]] and [[Jim Manson]]
+*Audio Engineers &mdash; [[Tom M. Christopher|T.M. Christopher]], [[Catherine Coombs]], [[Kris Handwerk]], [[K.C. Hodenfield]], [[Howie Weed|Howie]], [[Tom Johnson]], [[Brian Kelly]], [[James Kessler]], [[Susan Leahy]], [[Robert Marty]], [[Scott Robinson]], [[Dennie Thorpe]] and [[John Watson]]<ref name="SW.com Episode VI" />
+*English Lyrics &mdash; [[Joseph Williams]]<ref name="SW.com Episode VI" />
+*Huttese Lyrics &mdash; [[Annie Arbogast]]<ref name="SW.com Episode VI" />
+*Ewokese Lyrics &mdash; [[Ben Burtt]]<ref name="SW.com Episode VI" />
+*Special Effects Supervisor &mdash; [[Roy Arbogast]]<ref name="SW.com Episode VI" />
+*Special Effects Foreman &mdash; [[William David Lee]]<ref name="SW.com Episode VI" />
+*Special Effects Floor Controller &mdash; [[Ian Wingrove]]<ref name="SW.com Episode VI" />
+*Senior Effects Technician &mdash; [[Peter Dawson]]<ref name="SW.com Episode VI" />
+*Chief Electronics Technician &mdash; [[Ron Hone]]<ref name="SW.com Episode VI" />
+*Wire Specialist &mdash; [[Bob Harman]]<ref name="SW.com Episode VI" />
+*Location Special Effects &mdash; [[Kevin Pike]] and [[Mike Wood]]
+*Choreographer &mdash; [[Gillian Gregory]]<ref name="SW.com Episode VI" />
+*Location Choreographer &mdash; [[Wendy Rogers]]<ref name="SW.com Episode VI" />
+*Production Accountant &mdash; [[Colin Hurren]]<ref name="SW.com Episode VI" />
+*Assistant Accountants &mdash; [[Sheala Daniell]] and [[Barbara Harley]]
+*Location Accountants &mdash; [[Diane Dankwardt]] and [[Pinki Ragan]]
+*Transportation Co-Ordinator &mdash; [[Gene Schwartz]]<ref name="SW.com Episode VI" />
+*Transportation Captains &mdash; [[John Feinblatt]] and [[H. Lee Noblitt]]
+*Studio Transportation Managers &mdash; [[Vic Minay]] and [[Mark La Bonge]]
+*Location Contact &mdash; [[Lennie Fike]]<ref name="SW.com Episode VI" />
+*Still Photographers &mdash; [[Albert Clarke]] and [[Ralph Nelson, Jr.]]
+*Unit Publicist &mdash; [[Gordon Arnell]]<ref name="SW.com Episode VI" />
+*Assistant Publicist &mdash; [[June Broom]]<ref name="SW.com Episode VI" />
+*Research &mdash; [[Deborah Fine]]<ref name="SW.com Episode VI" />
+*Miniature And Optical Effects Unit &mdash; [[Industrial Light And Magic]]<ref name="SW.com Episode VI" />
+*Art Director-Visual Effects &mdash; [[Joe Johnston]]<ref name="SW.com Episode VI" />
+*Optical Photography Supervisor &mdash; [[Bruce Nicholson]]<ref name="SW.com Episode VI" />
+*General Manager, Ilm &mdash; [[Tom Smith]]<ref name="SW.com Episode VI" />
+*Production Supervisor &mdash; [[Patricia Rose Duignan]]<ref name="SW.com Episode VI" />
+*Matte Painting Supervisor &mdash; [[Michael Pangrazio]]<ref name="SW.com Episode VI" />
+*Modelshop Supervisors &mdash; [[Lorne Peterson]] and [[Steve Gawley]]
+*Animation Supervisor &mdash; [[James Keefer]]<ref name="SW.com Episode VI" />
+*Supervising Visual Effects Editor &mdash; [[Arthur Repola]]<ref name="SW.com Episode VI" />
+*Effects Cameramen &mdash; [[Don Dow]], [[Michael J. McAlister]], [[Bill Neil]], [[Scott Farrar]], [[Selwyn Eddy]], [[Michael Owens]], [[Robert Elswit]], [[Rick Fichter]], [[Stewart Barbee]], [[Mark Gredell]] and [[David Hardburger]]<ref name="SW.com Episode VI" />
+*Assistant Cameramen &mdash; [[Pat Sweeney]], [[Kim Marks]], [[Robert Hill]], [[Ray Gilberti]], [[Randy Johnson]], [[Patrick McArdle]], [[Peter Daulton]], [[Bessie Wiley]], [[Maryan Evans]], [[Toby Heindel]], [[David Fincher]] and [[Peter Romano]]
+*Production Co-Ordinators &mdash; [[Warren Franklin]] and [[Laurie Vermont]]
+*Optical Printer Operators &mdash; [[John Ellis]], [[David Berry]], [[Kenneth Smith]], [[Donald Clark]], [[Mark Vargo]] and [[James Lim]]<ref name="SW.com Episode VI" />
+*Optical Line-Up &mdash; [[Tom Rosseter]], [[Ed L. Jones]], [[Ralph Gordon]] and [[Philip Barberio]]
+*Lab Technicians &mdash; [[Tim Geideman]], [[Ducan Myers]] and [[Michael Moore]]<ref name="SW.com Episode VI" />
+*Production Illustrator &mdash; [[George Jenson]]<ref name="SW.com Episode VI" />
+*Matte Painting Artists &mdash; [[Chris Evans]] and [[Frank Ordaz]]
+*Matte Photography &mdash; [[Neil Krepela]] and [[Craig Barron]]
+*Stop Motion Animator &mdash; [[Tom St. Amand]]<ref name="SW.com Episode VI" />
+*Chief Model Makers &mdash; [[Paul Huston]], [[Charles Bailey]], [[Michael Glenn]], [[Fulmer]] and [[Ease Owyeung]]
+*Model Makers &mdash; [[Bill George|William George]], [[Marc Thorpe]], [[Scott Marshall]], [[Sean Casey]], [[Larry Tan]], [[Barbara Gallucci]], [[Jeff Mann]], [[Ira Keeler]], [[Bill Beck]], [[Mike Cochrane]], [[Barbara Affonso]], [[Bill Buttfield]], [[Marghi McMahon]] and [[Randy Ottenberg]]
+*Head Effects Animators &mdash; [[Garry Waller]] and [[Kimberly Knowlton]]
+*Effects Animators &mdash; [[Terry Windell]], [[Renee Holt]], [[Mike Lessa]], [[Samuel Comstock]], [[Rob La Duca]], [[Annick Therrien]] and [[Suki Stern]] and [[Margot Pipkin]]<ref name="SW.com Episode VI" />
+*Visual Effects Editors &mdash; [[Howard Stein]], [[Peter Amundson]] and [[Bill Kimberlin]]<ref name="SW.com Episode VI" />
+*Assistant Visual Effects Editors &mdash; [[Robert Chrisoulis]], [[Michael Gleason]], [[Jay Ignaszewski]] and [[Joe Class]]<ref name="SW.com Episode VI" />
+*Supervising Stage Technician &mdash; [[Ted Moehnke]]<ref name="SW.com Episode VI" />
+*Stage Technicians &mdash; [[Patrick Fitzsimmons]], [[Bob Finley Iii]], [[Ed Hirsh]], [[John McLeod]], [[Peter Stolz]], [[Dave Childers]], [[Harold Cole]], [[Merlin Ohm]], [[Joe Fulmer]] and [[Lance Brackett]]<ref name="SW.com Episode VI" />
+*Pyrotechnicians &mdash; [[Thaine Morris]] and [[Dave Pier]]<ref name="SW.com Episode VI" />
+*Supervisor-Still Photography &mdash; [[Terry Chostner]]<ref name="SW.com Episode VI" />
+*Still Photographers &mdash; [[Roberto McGrath]] and [[Kerry Nordquist]]<ref name="SW.com Episode VI" />
+*Electronic System Designers &mdash; [[Jerry Jeffress]] and [[Kris Brown]]<ref name="SW.com Episode VI" />
+*Electronic Engineers &mdash; [[Mike Mackenzie]] and [[Marty Brenneis]]<ref name="SW.com Episode VI" />
+*Computer Graphics &mdash; [[William Reeves]] and [[Tom Duff]]<ref name="SW.com Episode VI" />
+*Equipment Engineering Supervisor &mdash; [[Gene Whiteman]]<ref name="SW.com Episode VI" />
+*Machinists &mdash; [[Udo Pampel]] and [[Conrad Bonderson]]<ref name="SW.com Episode VI" />
+*Apprentice Machinists &mdash; [[David Hanks]] and [[Chris Rand]]<ref name="SW.com Episode VI" />
+*Design Engineer &mdash; [[Mike Bolles]]<ref name="SW.com Episode VI" />
+*Equipment Support Staff &mdash; [[Wade Childress]], [[Michael J. Smith]], [[Cristi McCarthy]] and [[Ed Tennler]]<ref name="SW.com Episode VI" />
+*Administrative Staff &mdash; [[Chrissie England]], [[Laura Kaysen]], [[Paula Karsh]], [[Karen Ayers]], [[Sonja Paulsen]] and [[Karen Dube]]<ref name="SW.com Episode VI" />
+*Production Assistants &mdash; [[Susan Fritz-Monahan]] and [[Kathy Shine]]<ref name="SW.com Episode VI" />
+*Steadicam &mdash; [[Garrett Brown]]<ref name="SW.com Episode VI" />
+*Ultra High Speed Photography &mdash; [[Bruce Hill Productions]]<ref name="SW.com Episode VI" />
+*Color Timers &mdash; [[Jim Schurmann]] and [[Bob Hagans]]<ref name="SW.com Episode VI" />
+*Negative Cutter &mdash; [[Sunrise Film, Inc.]]<ref name="SW.com Episode VI" />
+*Additional Optical Effects &mdash; Lookout Mountain Films, Pacific Title, [[Monaco Film Labs]], California Film, Visual Concepts Engineering, Movie Magic and Van Der Veer Photo Effects<ref name="SW.com Episode VI" />
+}}
+
+==Appearances==
+{{App
+|c-characters=
+*[[2-1B]]
+*[[8D8]] {{1st}}
+*[[Gial Ackbar]] {{1st}}
+*[[Cane Adiss]] {{1st}}
+*[[Ak-rev]] {{1st}} {{C|Introduced in [[The Star Wars Trilogy Special Edition|Special Edition]]}}
+*[[Sim Aloo]] {{1st}}
+*[[Amanaman]] {{1st}}
+*[[Padmé Amidala]] {{1stm}}
+*[[Wedge Antilles]]
+*[[Rintel Aren]] {{1st}}
+*[[AV-6R7]] {{1st}}
+*[[Barada]] {{1st}}
+*[[Jad Bean]] {{1st}}
+*[[Beedo]]
+*[[Nizuc Bek]] {{1st}}
+*[[BG-J38]] {{1st}}
+*[[Mosep Binneed]]
+*[[Blanaid]] {{1st}}
+*[[Walex Blissex]] {{1st}}
+*[[Kren Blista-Vanee]] {{1st}}
+*[[Blount]] {{1st}}
+*[[Doda Bodonawieedo]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Dorovio Bold]] {{Del}}
+*[[Bossk'wassak'Cradossk|Bossk]]
+*[[Boushh]] {{1st}} {{C|Impersonated}}
+*[[Bruckman]] {{1st}}
+*[[Buboicullaar]] {{1st}}
+*[[C-3PO]]
+*[[Landonis Balthazar Calrissian]]
+*[[Chewbacca]]
+*[[Chiraneau]] {{1st}}
+*[[Chirpa]] {{1st}}
+*[[Chubbray]] {{1st}}
+*[[Airen Cracken]] {{1st}}
+*[[Salacious B. Crumb|Salacious Crumb]] {{1st}}
+*[[Arvel Crynyd]] {{1st}}
+*[[Barquin D'an]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Kes Dameron]] {{1st}} {{Ret}}
+*[[Dengar]]
+*[[Doallyn]] {{1st}}
+*[[Dyer]] {{1st}}
+*[[Endicott]] {{1st}}
+*[[EV-9D9]] {{1st}}
+*[[Jake Farrell]] {{1st}}
+*[[Keyan Farlander]] {{1st}}
+*[[Boba Fett]]
+*[[Flitchee]] {{1st}}
+*[[Bib Fortuna]] {{1st}}
+*[[Fozec]] {{1st}}
+*[[Grizz Frix]] {{1st}}
+*[[FX-7]]
+*[[Yarna d'al' Gargan]] {{1st}}
+*[[Gartogg]] {{1st}}
+*[[Geezum]] {{1st}}
+*[[Gherant]] {{1st}}
+{{!}}
+*[[Ghoel]] {{1st}}
+*[[Giran]] {{1st}}
+*[[Ghana Gleemort]] {{1st}}
+*[[Janus Greejatus]] {{1st}}
+*[[Hewex]] {{1st}}
+*[[Igar]] {{1st}}
+*[[J'Quille]] {{1st}}
+*[[Jabba's bartender]] {{1st}}
+*[[Jabba's interpreter]] {{1stm}}
+*[[Greeata Jendowanian]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Tiaan Jerjerrod]] {{1st}}
+*[[Jonus]] {{1st}}
+*[[Jubnuk]] {{1st}}
+*[[Obi-Wan Kenobi]] {{Ghost}}
+*[[Kithaba]] {{1st}}
+*[[Klaatu]] {{1st}}
+*[[Sila Kott]] {{1st}}
+*[[Bidlo Kwerve]] {{1st}} {{C|skull only}}
+*[[Lathe]] {{1st}}
+*[[Leektar]] {{1st}}
+*[[Logray]] {{1st}}
+*[[Wam Lufba]] {{1st}}
+*[[Lumat]] {{1st}}
+*[[Crix Madine]] {{1st}}
+*[[Malakili]] {{1st}}
+*[[Bane Malar]] {{Del}}
+*[[Droopy McCool]] {{1st}}
+*[[Lyn Me]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Ephant Mon]] {{1st}}
+*[[Mon Mothma]] {{1st}}
+*[[Gauron Nas Tal]] {{1st}}
+*[[Loje Nella]] {{1st}}
+*[[Newland]] {{1st}}
+*[[Nicki]] {{1st}}
+*[[Nippet]] {{1st}}
+*[[Ten Numb]] {{1st}}
+*[[Nien Nunb]] {{1st}}
+*[[Nysad]] {{1st}}
+*[[Hermi Odle]] {{1st}}
+*[[Oola]] {{1st}}
+*[[Yotts Oren]] {{1st}}
+*[[Leia Skywalker Organa Solo|Leia Organa]]
+*[[Orrimaarko]] {{1st}}
+*[[Judder Page]] {{1st}}
+*[[Darth Sidious|Sheev Palpatine]]
+{{!}}
+*[[Paploo]] {{1st}}
+*[[Pateesa]] {{1st}}
+*[[Peekpa]] {{1st}}
+*[[Firmus Piett]]
+*[[Firmus Piett's nephew]] {{1st}}
+*[[R2-D2]]
+*[[R2-Q5]] {{1st}}
+*[[R5-G19]] {{1st}}
+*[[Rappertunie]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Max Rebo]] {{1st}}
+*[[Ree-Yees]] {{1st}}
+*[[Renz]] {{1st}}
+*[[Rhymer]] {{1st}}
+*[[Romba]] {{1st}}
+*[[Pagetti Rook]] {{1st}}
+*[[Saelt-Marae]] {{1st}}
+*[[Horton Salm]] {{1st}}
+*[[Nik Sant]] {{1st}}
+*[[Rystáll Sant]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Keir Santage]] {{1st}}
+*[[Harc Seff]] {{1st}}
+*[[Anakin Skywalker|Anakin Skywalker/Darth Vader]]
+*[[Luke Skywalker]]
+*[[Pote Snitkin]] {{1st}}
+*[[Sy Snootles]] {{1st}}
+*[[Han Solo]]
+*[[Tanus Spijek]] {{1st}}
+*[[Brock Starsher]] {{1st}}
+*[[Ika Sulko]] {{C|cut content}}
+*[[Teebo]] {{1st}}
+*[[Gureni Telsij]] {{1st}}
+*[[Tessek]] {{1st}}
+*[[Velken Tezeri]] {{1st}}
+*[[Thaneespi]] {{1st}}
+*[[Palso Thern]] {{1st}}
+*[[Shasa Tiel]] {{1st}}
+*[[Jabba Desilijic Tiure]] {{1st}}
+*[[Tokkat]] {{1st}}
+*[[Umpass-stay]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Unidentified EG-6 power droid (Jabba's Palace)/Canon|Unidentified EG-6 power droid]] {{1st}}
+*[[Vedain]] {{1st}}
+*[[Verrack]] {{1st}}
+*[[Vizam]] {{1st}}
+*[[Wicket Wystri Warrick]] {{1st}}
+*[[Norra Wexley]] {{1st}} {{Retcon}} {{C|Starfighter only}}
+*[[Widdle Warrick]] {{1st}}
+*[[Wittin]] {{1st}}
+*[[Wooof]] {{1st}}
+*[[Wunka]] {{1st}}
+*[[Yoda]]
+*[[Ekelarc Yong]] {{1st}}
+*[[Joh Yowza]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Yoxgit]]
+*[[Zephee]] {{1st}}
+|l-characters=
+<div style="-webkit-column-count:3">
+*[[2-1B/Legends|2-1B]]
+*[[8D8/Legends|8D8]] {{1st}}
+*[[Gial Ackbar/Legends|Gial Ackbar]]
+*[[Cane Adiss/Legends|Cane Adiss]] {{1st}}
+*[[Ak-rev/Legends|Ak-rev]] {{1st}} {{C|Special Edition}}
+*[[Sim Aloo/Legends|Sim Aloo]]
+*"[[Amanaman/Legends|Amanaman]]" {{1st}}
+*[[Padmé Amidala/Legends|Padmé Amidala]] {{Imo}}
+*[[Wedge Antilles/Legends|Wedge Antilles]]
+*[[Attark/Legends|Attark]] {{1st}}
+*[[AV-6R7/Legends|AV-6R7]] {{1st}}
+*[[Avarik]] {{1st}}
+*[[Barada/Legends|Barada]]
+*[[Barich]] {{1st}}
+*[[Barneeson]] {{1st}}
+*[[Jad Bean/Legends|Jad Bean]] {{1st}}
+*[[Beedo/Legends|Beedo]] {{1st}}
+*[[Chubbray/Legends|Chubbray]] {{1st}}
+*[[Nizuc Bek/Legends|Nizuc Bek]] {{1st}}
+*[[BG-J38/Legends|BG-J38]] {{1st}}
+*[[Mosep Binneed/Legends|Mosep Binneed]] {{Ret}}
+*[[Walex Blissex/Legends|Walex Blissex]] {{1st}} {{Ret}}
+*[[Kren Blista-Vanee/Legends|Kren Blista-Vanee]] {{1st}}
+*[[Blount/Legends|Blount]] {{1st}}
+*[[Doda Bodonawieedo/Legends|Doda Bodonawieedo]] {{1st}} {{C|Special Edition}}
+*[[Dorovio Bold/Legends|Dorovio Bold]] {{Del}}
+*[[Bossk/Legends|Bossk]]
+*[[Boushh/Legends|Boushh]] {{1stm}}
+*[[Brock Starsher/Legends|Brock Starsher]] {{1st}}
+*[[Olander Brit]] {{1st}}
+*[[Bron Burs]] {{1st}} {{C|cut content}}
+*[[Bruckman/Legends|Bruckman]] {{1st}}
+*[[Buboicullaar/Legends|Buboicullaar]] {{1st}}
+*[[Lando Calrissian/Legends|Lando Calrissian]] / "[[Tamtel Skreej/Legends|Tamtel Skreej]]" {{C|alias}}
+*[[Tycho Celchu/Legends|Tycho Celchu]] {{Ret}}
+*[[Chewbacca/Legends|Chewbacca]]
+*[[Chiraneau/Legends|Chiraneau]] {{1st}}
+*[[Chirpa/Legends|Chirpa]]
+*[[Chirpa's iguana]]
+*[[Nanta]] {{1st}}
+*[[Airen Cracken/Legends|Airen Cracken]] {{1st}} {{Ret}}
+*[[Ardon Crell]] {{1st}}
+*[[Salacious B. Crumb/Legends|Salacious B. Crumb]]
+*[[Arvel Crynyd/Legends|Arvel Crynyd]] {{1st}}
+*[[C-3PO/Legends|C-3PO]]
+*[[CZ-4/Legends|CZ-4]] {{1st}}
+*[[Yarna d'al' Gargan/Legends|Yarna d'al' Gargan]] {{1st}}
+*[[Barquin D'an/Legends|Barquin D'an]] {{1st}} {{C|Special Edition}}
+*[[Delevar]] {{1st}}
+*[[Dengar/Legends|Dengar]]
+*[[Doallyn/Legends|Doallyn]] {{1st}}
+*[[Drazin]]
+*[[Drelosyn]] {{1st}}
+*[[Taym Dren-garen]] {{1st}}
+*[[DS-181-3]] {{1st}}
+*[[DS-181-4]] {{1st}}
+*[[Dyer/Legends|Dyer]] {{1st}}
+*[[Elsek]] {{1st}}
+*[[Endicott/Legends|Endicott]]
+*[[EV-9D9/Legends|EV-9D9]]
+*[[Thul Fain]] {{1st}}
+*[[Keyan Farlander/Legends|Keyan Farlander]]<ref name="Insider125">{{InsiderCite|125|Ask Lobot}}</ref> {{Ret}}
+*[[Jake Farrell/Legends|Jake Farrell]] {{1st}}
+*[[Fenson]] {{1st}}
+*[[Boba Fett/Legends|Boba Fett]]
+*[[Flitchee/Legends|Flitchee]] {{1st}}
+*[[Bib Fortuna/Legends|Bib Fortuna]]
+*[[Grizz Frix/Legends|Grizz Frix]] {{1st}}
+*[[Fozec/Legends|Fozec]] {{1st}}
+*[[Fufuneek]] {{1st}}
+*[[FX-7/Legends|FX-7]]
+*[[Gailid]] {{1st}}
+*[[Gartogg/Legends|Gartogg]] {{1st}}
+*[[Geezum/Legends|Geezum]] {{1st}}
+*[[Gherant/Legends|Gherant]]
+*[[Ghoel/Legends|Ghoel]] {{1st}}
+*[[Giran/Legends|Giran]] {{1st}}
+*[[Ghana Gleemort/Legends|Ghana Gleemort]] {{1st}}
+*[[Godherdt]] {{1st}}
+*[[Graak]] {{1st}} {{Ret}}
+*[[Janus Greejatus/Legends|Janus Greejatus]]
+*[[Greemon]] {{1st}}
+*[[Greeve (Human)|Greeve]] {{1st}}
+*[[Grond (Imperial)|Grond]] {{1st}}
+*[[Haash'n]] {{1st}}
+*[[Hebsly]] {{1st}}
+*[[Herat]] {{1st}}
+*[[Hewex/Legends|Hewex]] {{1st}}
+*[[IG-88A/Legends|IG-88A]] {{C|Indirect appearance}} {{Ret}}
+*[[Igar/Legends|Igar]] {{1st}}
+*[[Jabba Desilijic Tiure/Legends|Jabba Desilijic Tiure]]
+*[[Jabba's rancor]]
+*[[Janse]] {{1st}}
+*[[Jendon]] {{1st}}
+*[[Greeata Jendowanian/Legends|Greeata Jendowanian]] {{1st}}
+*[[Tiaan Jerjerrod/Legends|Tiaan Jerjerrod]]
+*[[Jess]] {{1st}}
+*[[Jhoff]]
+*[[Wrenga Jixton]] {{1st}}
+*[[Joh Yowza/Legends|Joh Yowza]] {{1st}}
+*[[Davod Jon]] {{1st}}
+*[[Jonus/Legends|Jonus]] {{1st}}
+*[[J'Quille/Legends|J'Quille]] {{1st}}
+*[[Jubnuk/Legends|Jubnuk]]
+*[[Junkin]] {{1st}}
+*[[Kalit/Legends|Kalit]] {{1st}}
+*[[Kazak]] {{1st}}
+*[[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]] {{Ghost}}
+*[[Keoulkeech]] {{1st}}
+*[[Khungata]] {{1st}}
+*[[Kin Kian (Human)|Kin Kian]] {{1st}}
+*[[Kithaba/Legends|Kithaba]] {{1st}}
+*[[Klaatu/Legends|Klaatu]] {{1st}}
+*[[Bidlo Kwerve/Legends|Bidlo Kwerve]] {{C|Skull only}} {{Ret}}
+*[[Myn Kyneugh]] {{1st}}
+*[[Sila Kott/Legends|Sila Kott]]
+*[[Lakotup]] {{1st}}
+*[[Lathe/Legends|Lathe]] {{1st}}
+*[[Laudica]] {{1st}}
+*[[Leektar/Legends|Leektar]] {{1st}}
+*[[Logray/Legends|Logray]]
+*[[Wam Lufba/Legends|Wam Lufba]] {{1st}}
+*[[Lumat/Legends|Lumat]] {{1st}}
+*[[Aved Luun]] {{1st}}
+*[[Machook]] {{1st}}
+*[[Crix Madine/Legends|Crix Madine]]
+*[[Malakili/Legends|Malakili]] {{1st}}
+*[[Bane Malar/Legends|Bane Malar]] {{Del}}
+*[[Marquand]] {{1st}}
+*[[Max Rebo/Legends|Max Rebo]]
+*[[Droopy McCool/Legends|Droopy McCool]] {{1st}}
+*[[Lyn Me/Legends|Lyn Me]] {{1st}} {{C|Special Edition}}
+*[[Merrejk]] {{1st}}
+*[[Mianda]] {{1st}}
+*[[Midge]] {{1st}}
+*[[Misik]]
+*[[Ephant Mon/Legends|Ephant Mon]]
+*[[Mon Mothma/Legends|Mon Mothma]]
+*[[Gauron Nas Tal/Legends|Gauron Nas Tal]] {{1st}}
+*[[Loje Nella/Legends|Loje Nella]] {{1st}}
+*[[Karie Neth]] {{1st}}
+*[[Nho'Apakk]] {{1st}}
+*[[Nicki/Legends|Nicki]] {{1st}}
+*[[Nippet/Legends|Nippet]] {{1st}}
+*[[Snipp Nkik]] {{1st}}
+*[[Ten Numb/Legends|Ten Numb]] {{1st}}
+*[[Nien Nunb/Legends|Nien Nunb]]
+*[[Nysad/Legends|Nysad]] {{1st}}
+*[[Oberk]] {{1st}}
+*[[Hermi Odle/Legends|Hermi Odle]]
+*[[Oola/Legends|Oola]]
+*[[Leia Organa Solo|Leia Organa]]
+*[[Yotts Orren]] {{1st}}
+*[[Orrimaarko/Legends|Orrimaarko]] {{1st}}
+*[[Ortugg]] {{1st}}
+*[[Judder Page/Legends|Judder Page]] {{1st}} {{Ret}}
+*[[Pagetti Rook/Legends|Pagetti Rook]] {{1st}}
+*[[Palpatine/Legends|Palpatine]]
+*[[Panno]] {{1st}}
+*[[Paploo/Legends|Paploo]]
+*[[Firmus Piett/Legends|Firmus Piett]]
+*[[R2-D2/Legends|R2-D2]]
+*[[R2-Q5/Legends|R2-Q5]] {{1st}}
+*[[R5-J2/Legends|R5-J2]] {{1st}}
+*[[Rabin (Ewok)|Rabin]] {{1st}}
+*[[Rappertunie/Legends|Rappertunie]] {{1st}} {{C|Special Edition}}
+*[[Red Two (Battle of Endor)/Legends|Red Two]]
+*[[Ree-Yees/Legends|Ree-Yees]]
+*[[Rennek]] {{1st}}
+*[[Renz/Legends|Renz]] {{1st}}
+*[[Palejo Reshad]] {{1st}}
+*[[Revidjasa]] {{1st}}
+*[[Rhymer/Legends|Rhymer]] {{1st}}
+*[[Rogua]] {{1st}}
+*[[Romba/Legends|Romba]]
+*[[Loci Rosen]] {{1st}}
+*[[Rayc Ryjerd]] {{1st}}
+*[[Saelt-Marae/Legends|Saelt-Marae]]
+*[[Stemzee]]
+*[[Horton Salm/Legends|Horton Salm]] {{Ret}} {{ID|Gray Leader}}
+*[[Nik Sant/Legends|Nik Sant]] {{1st}}
+*[[Rystáll Sant/Legends|Rystáll Sant]] {{1st}} {{C|Special Edition}}
+*[[Keir Santage/Legends|Keir Santage]] {{1st}}
+*[[Sarkli]] {{1st}}
+*[[Harc Seff/Legends|Harc Seff]] {{1st}} {{C|Special Edition}}
+*[[Luke Skywalker/Legends|Luke Skywalker]]
+*[[Anakin Skywalker/Legends|Anakin Skywalker/Darth Vader]]
+*[[Pote Snitkin/Legends|Pote Snitkin]] {{1st}}
+*[[Sy Snootles/Legends|Sy Snootles]] {{1st}}
+*[[Han Solo/Legends|Han Solo]]
+*[[Tanus Spijek/Legends|Tanus Spijek]] {{1st}}
+*[[Leslomy Tacema]] {{1st}}
+*[[Taras]] {{1st}}
+*[[Hume Tarl]] {{1st}}
+*[[Vul Tazaene]] {{1st}}
+*[[Teebo/Legends|Teebo]]
+*[[Telsij/Legends|Telsij]] {{1st}}
+*[[Tessek/Legends|Tessek]] {{1st}}
+*[[Velken Tezeri/Legends|Velken Tezeri]] {{1st}}
+*[[Thaneespi/Legends|Thaneespi]] {{1st}}
+*[[Palso Thern/Legends|Palso Thern]] {{1st}}
+*[[Thok (Gamorrean guard)|Thok]] {{1st}}
+*[[Pucumir Thryss]] {{1st}}
+*[[Thug]] {{1st}}
+*[[Shasa Tiel/Legends|Shasa Tiel]] {{1st}}
+*[[Tokkat/Legends|Tokkat]] {{1st}}
+*[[Umpass-stay/Legends|Umpass-stay]] {{1st}} {{C|Special Edition}}
+*[[Vedain/Legends|Vedain]] {{1st}}
+*[[s'Too Vees]] {{1st}}
+*[[Verrack/Legends|Verrack]] {{1st}}
+*[[Vesden]] {{1st}}
+*[[Vizam/Legends|Vizam]] {{1st}}
+*[[Wallen]]
+*[[Wampa (pilot)/Legends|"Wampa"]] {{1st}}
+*[[Warok]]
+*[[Wicket Wystri Warrick/Legends|Wicket Wystri Warrick]]
+*[[Widdle Warrick/Legends|Widdle Warrick]] {{1st}}
+*[[Watts]] {{1st}}
+*[[Weeba Weeba]] {{1st}}
+*[[Wijunkee]] {{1st}}
+*[[Wispeth]] {{1st}}
+*[[Wittin/Legends|Wittin]] {{1st}}
+*[[Wooof/Legends|Wooof]] {{1st}}
+*[[Wunka/Legends|Wunka]] {{1st}}
+*[[Wuta]] {{1st}}
+*[[Murttoc Yine]] {{1st}}
+*[[Yoda/Legends|Yoda]]
+*[[Ekelarc Yong/Legends|Ekelarc Yong]] {{1st}}
+*[[Yorr]]
+*[[Yoxgit/Legends|Yoxgit]] {{1st}}
+*[[Yutani]] {{1st}}
+*[[Zephee/Legends|Zephee]] {{1st}}
+
+'''Unidentified characters'''
+*[[Unidentified deck gunner|Deck gunner]]
+*[[Unidentified EG-6 power droid (Jabba's Palace)|EG-6 power droid]]
+*[[Unidentified Ewok sentry|Ewok sentry]] {{1st}}
+*[[Unidentified stormtrooper (Endor)|Endor Stormtrooper]]
+*[[Unidentified H'nemthe|H'nemthe]] {{1st}}
+*[[Unidentified Ewok (hang glider) 1|Hang-gliding Ewok 1]]
+*[[Unidentified Ewok (hang glider) 2|Hang-gliding Ewok 2]]
+*[[Unidentified Imperial officer (Executor)|Imperial officer]] {{1st}}
+*[[Unidentified mercenary pilot|Mercenary pilot]] {{1st}}
+*[[Unidentified Mon Calamari pilot|Mon Calamari pilot]] {{C|Cut from final film}}
+*[[Unidentified Rebel navigator|Rebel navigator]] {{1st}}
+*[[Unidentified Imperial Advisor (black robe)|Imperial Advisor (black robe)]]
+*[[Unidentified Imperial Advisor (purple robe)|Imperial Advisor (purple robe)]]
+*[[Unidentified Imperial Advisor (tall hat)|Tall-hatted Imperial advisor]]
+*[[Unidentified courier droid|Courier droid]] {{1st}}
+*[[Unidentified Weequay guard|Weequay guard]] {{1st}}
+*[[Unidentified Weequay marksman|Weequay marksman]] {{1st}}
+*[[Unidentified Weequay Skiff Master|Weequay skiff master]] {{1st}}
+</div><br clear="all">
+|c-creatures=
+*[[Amphibian]] {{1st}}
+**[[Frog]] {{1st}}
+***[[Klatooine paddy frog]] {{1st}}
+**[[Gorg]] {{1st}}
+**[[Worrt]] {{1st}}
+*[[Bantha]]
+*[[Bird]] {{1st}}
+**[[Churi]] {{1st}} {{C|Skull only}}
+**[[Chicken]] {{1st}}
+***[[Tip-yip]] {{1st}}
+*[[Gurreck]] {{1st}} {{C|skin only}}
+*[[Jerba]] {{C|Head only}}
+*[[Reptavian]]
+**[[Bogwing]]
+{{!}}
+*[[Reptile]]
+**[[Kowakian monkey-lizard]] {{1st}}
+**[[Lizard]]
+***[[Tauntaun]] {{C|Appears as a trophy head in Jabba's Palace}}
+**[[Rancor]] {{1st}}
+*[[Rock wart]] {{1st}}
+*[[Rodent]]
+**[[Rat]] {{1st}}
+***[[Tatoo-rat]] {{1st}}
+**[[Verkle]] {{1st}} {{Corpse}}
+*[[Sand skitter]] {{1st}}
+*[[Sarlacc]] {{1st}}
+*[[Worm]] {{1stm}}
+|l-creatures=
+*[[Bogwing/Legends|Bogwing]]
+*[[Bordok/Legends|Bordok]] {{C|Cut}}
+*[[Churi/Legends|Churi]] {{C|Skull only}}
+*[[Endorian chicken]] {{1st}}
+*[[Giant tauntaun]] {{C|Appears as a trophy head in Jabba's Palace}}
+*[[Gondar]] {{1st}} {{C|Tusks only}}
+*[[Gorg/Legends|Gorg]] {{1st}}
+*[[Gurreck/Legends|Gurreck]] {{C|Skull only}}
+*[[Iguana/Legends|Iguana]]
+*[[Klatooine paddy frog/Legends|Klatooine paddy frog]] {{1st}}
+{{!}}
+*[[Rancor/Legends|Rancor]]
+*[[Rat/Legends|Rat]] {{1st}}
+*[[Rock wart/Legends|Rock wart]] {{1st}}
+*[[Sand skitter/Legends|Sand skitter]] {{1st}}
+*[[Sarlacc/Legends|Sarlacc]]
+*[[Tauntaun/Legends|Tauntaun]] {{C|Appears as trophy head in Jabba's Palace}}
+*[[Unidentified tusked species|Unidentified Endor Mammal]]
+*[[Worm/Legends|Worm]] {{1st}}
+*[[Worrt/Legends|Worrt]] {{1st}}
+|c-droids=
+*[[Astromech droid]]
+**[[R-series]]
+***[[R2 series astromech droid]]
+***[[R3-series astromech droid]]
+***[[R5 series astromech droid]]
+*[[Brain walker]] {{1st}}
+*[[Interrogator droid]]
+*[[J9 worker drone]] {{1st}}
+*[[Medical droid]]
+**[[2-1B-series medical droid]]
+**[[FX-series medical assistant droid]]
+***[[FX-7 medical assistant droid]]
+*[[Power droid]]
+**[[EG-series power droid]]
+**[[GNK-series power droid]]
+*[[Protocol droid]]
+**[[3PO-series protocol droid]]
+{{!}}
+*[[Repair droid]]
+**[[MSE series]]
+***[[MSE-6 series repair droid]]
+**[[WED Treadwell repair droid]]
+*[[Secretary droid]]
+**[[CZ-series secretary/business communications droid]]
+*[[Security droid]]
+**[[TT-8L/Y7 gatekeeper droid]] {{1st}}
+*[[Smelter droid]] {{1st}}
+**[[8D-series smelter droid]] {{1st}}
+*[[Supervisor droid]] {{1st}}
+**[[EV-series supervisor droid]] {{1st}}
+**[[V-series droid supervisor]] {{1st}}
+|l-droids=
+*[[Assassin droid/Legends|Assassin droid]]
+**[[IG-88 assassin droid/Legends|IG-88 assassin droid]] {{C|Indirect appearance}} {{Ret}}
+*[[Astromech droid/Legends|Astromech droid]]
+**[[R-series/Legends|R-series]]
+***[[R2-series astromech droid]]
+***[[R3-series astromech droid/Legends|R3-series astromech droid]]
+***[[R5-series astromech droid]]
+*[[BT-16 perimeter droid]] {{1st}}
+*[[Courier droid]] {{1st}}
+*[[EV-series supervisor droid/Legends|EV-series supervisor droid]]
+*[[Labor droid/Legends|Labor droid]]
+**[[J9 worker drone/Legends|J9 worker drone]] {{1st}}
+**[[Smelter droid/Legends|Smelter droid]] {{1st}}
+***[[8D smelter droid]] {{1st}}
+*[[Medical droid/Legends|Medical droid]]
+**[[2-1B surgical droid]]
+**[[FX-series medical assistant droid/Legends|FX-series medical assistant droid]]
+***[[FX-7 medical assistant droid/Legends|FX-7 medical assistant droid]]
+{{!}}
+*[[MSE-series]]
+**[[MSE-6-series repair droid]]
+*[[Power droid/Legends|Power droid]]
+**[[GNK power droid]]
+*[[Protocol droid/Legends|Protocol droid]]
+**[[3PO-series protocol droid/Legends|3PO-series protocol droid]]
+*[[Refreshment droid]] {{1st}}
+*[[Secretary droid/Legends|Secretary droid]]
+**[[CZ-series communications/business droid]]
+*[[TT-8L gatekeeper droid]] {{1st}}
+**[[TT-8L/Y7 gatekeeper droid/Legends|TT-8L/Y7 gatekeeper droid]]
+*[[V-series droid supervisor/Legends|V-series droid supervisor]] {{1st}}
+*[[WED Treadwell repair droid/Legends|WED Treadwell repair droid]]
+|c-events=
+*[[Imperial Era]]
+**[[Battle of Taanab]] {{1stm}}
+**[[Bothan Spynet intelligence operation]] {{1stm}} {{Imo}}
+**[[Galactic Civil War]]
+***[[Battle of Endor]] {{1st}}
+***[[Coruscant civil war]] {{1st}} {{C|Introduced in Special Edition}}
+***[[Duel on Cloud City]] {{Mo}}
+***[[Funeral of Anakin Skywalker]] {{1st}}
+***[[Operation Yellow Moon]] {{1stm}} {{Imo}}
+**[[Rescue of Han Solo]] {{1st}}
+**[[Uprisings against the Galactic Empire]] {{1st}} {{C|Introduced in Special Edition}}
+***[[Parades on Tatooine]] {{1st}} {{C|Post-[[2004]] releases}}
+***[[Rally on Naboo]] {{1st}} {{C|Post-[[2004]] releases}}
+***[[Riot in Monument Plaza]] {{1st}} {{C|Introduced in Special Edition}}
+|l-events=
+*[[Battle of Taanab/Legends|Battle of Taanab]] {{1stm}}
+*[[Funeral of Anakin Skywalker/Legends|Funeral of Anakin Skywalker]]
+*[[Great Jedi Purge/Legends|Great Jedi Purge]] {{Imo}}
+**[[Duel on Mustafar/Legends|Duel on Mustafar]] {{Imo}}
+*[[Galactic Civil War/Legends|Galactic Civil War]]
+**[[Raid on the Suprosa|Battle of Bothawui]] {{Imo}}
+**[[Battle of Sullust (4 ABY)|Battle of Sullust]] {{1stm}} {{Imo}}
+**[[Battle of Endor/Legends|Battle of Endor]]
+**[[Battle of Korriban (Galactic Civil War)|Battle of Korriban]] {{1stm}} {{Imo}}
+**[[Battle of Kothlis]] {{Imo}}
+**[[Uprising on Naboo]] {{1st}} {{C|Special Edition}}
+{{!}}
+*[[Galactic Civil War/Legends|Galactic Civil War (continued)]]
+**[[Coruscant Uprising]] {{1st}} {{C|Special Edition}}
+**[[Rebellion on Tatooine]] {{1st}} {{C|Special Edition and DVD}}
+**[[Mission to Prefsbelt IV]] {{1stm}} {{Imo}}
+**[[Rescue of Han Solo/Legends|Rescue of Han Solo]]
+***[[Battle of the Great Pit of Carkoon]]
+***[[Siege of Jabba's Palace|Mission to Jabba's Palace]]
+***[[Droid Revolution]]
+***[[Battle of Endor]]
+|c-locations=
+*[[The galaxy]]
+**[[Core Worlds]] {{C|Introduced in Special Edition}}
+***[[Corusca sector]] {{1st}} {{C|Introduced in Special Edition}}
+****[[Coruscant subsector]] {{1st}} {{C|Introduced in Special Edition}}
+*****[[Coruscant system]] {{1st}} {{C|Introduced in Special Edition}}
+******[[Coruscant]] {{1st}} {{C|Introduced in Special Edition}}
+*******[[Imperial City|Galactic City]] {{1st}} {{C|Introduced in Special Edition}}
+********[[Federal District]] {{C|Post-[[2004]] releases}}
+*********[[Imperial Executive Building]] {{C|Post-[[2004]] releases}}
+*********[[Imperial Palace]] {{C|Post-[[2004]] releases}}
+**********[[Council Towers]] {{C|Post-[[2004]] releases}}
+***********[[High Council Tower]] {{C|Post-[[2004]] releases}}
+***********[[Reassignment Council Tower]] {{C|Post-[[2004]] releases}}
+***********[[Tower of First Knowledge]] {{C|Post-[[2004]] releases}}
+***********[[Tower of Reconciliation]] {{C|Post-[[2004]] releases}}
+**********[[Temple Spire]] {{C|Post-[[2004]] releases}}
+*********[[Imperial Plaza]] {{C|Post-[[2004]] releases}}
+**********[[Avenue of the Core Founders]] {{C|Post-[[2004]] releases}}
+**********[[Galactic Senate Building]] {{C|Post-[[2004]] releases}}
+********[[Manarai range]] {{1st}} {{C|Introduced in Special Edition}}
+*********[[Umate]] {{1st}} {{C|Introduced in Special Edition}}
+********[[Monument Plaza]] {{1st}} {{C|Introduced in Special Edition}}
+**[[Mid Rim Territories]] {{C|Post-[[2004]] releases}}
+***[[Chommell sector]] {{C|Post-[[2004]] releases}}
+****[[Naboo system]] {{C|Post-[[2004]] releases}}
+*****[[Naboo]] {{C|Post-[[2004]] releases}}
+******[[Theed]] {{C|Post-[[2004]] releases}}
+*******[[Theed Royal Palace]] {{C|Post-[[2004]] releases}}
+{{!}}
+**[[Outer Rim Territories]]
+***[[Arkanis sector]]
+****[[Tatoo system]]
+*****[[Tatooine]]
+******[[Bantha Plains]] {{1st}}
+******[[Dune Sea]]
+*******[[B'omarr Flats]] {{1st}}
+********[[Great Pit of Carkoon]] {{1st}}
+*******[[Northern Dune Sea]] {{1st}}
+********[[Boba Fett's Palace|Jabba's Palace]] {{1st}}
+******[[Mos Eisley]] {{C|Introduced in Special Edition}}
+*******[[Spacers Row]] {{C|Introduced in Special Edition}}
+********[[Ubrikkian Trade Tower]] {{C|Introduced in Special Edition}}
+********[[Water distribution plant]] {{1st}} {{C|Introduced in Special Edition}}
+***[[Greater Javin]] {{C|Introduced in Special Edition}}
+****[[Anoat sector]] {{C|Introduced in Special Edition}}
+*****[[Bespin system]] {{C|Introduced in Special Edition}}
+******[[Bespin]] {{C|Introduced in Special Edition}}
+*******[[Cloud City]] {{C|Introduced in Special Edition}}
+***[[Moddell sector]] {{1st}}
+****[[Endor system]] {{1st}}
+*****[[Endor (planet)|Endor]] {{1st}}
+*****[[Endor|Endor moon]] {{1st}}
+******[[Bright Tree Village]] {{1st}}
+******[[Death Star's shield generator]] {{1st}}
+*****[[Holding Sector MV-7]] {{1stm}}
+*****[[Sector 47]] {{1st}}
+***[[Sluis sector]]
+****[[Dagobah system]]
+*****[[Dagobah]]
+******[[Yoda's Hut]]
+***[[Spice Triangle]]
+***[[Sullust sector]] {{1st}}
+****[[Sullust system]] {{1st}}
+*****[[Sullust]] {{1stm}}
+**[[Taanab]] {{1stm}}
+|l-locations=
+*[[Coruscant/Legends|Coruscant]] {{C|Special Edition}}
+**[[Galactic City|Imperial City]] {{C|Special Edition}}
+***[[Senate District]] {{C|Special Edition}}
+****[[Senate District|Legislative Borough]] {{C|Special Edition}}
+*****[[Senate Plaza]] {{C|Special Edition}}
+******[[Avenue of the Core Founders/Legends|Avenue of the Core Founders]] {{C|Special Edition}}
+******[[Senate Building]] {{C|Special Edition}}
+***[[Temple district|Temple Precinct]] {{C|Special Edition}}
+****[[Jedi Temple]] {{C|Special Edition}}
+*****[[High Council Tower/Legends|High Council Tower]] {{C|2004 DVD release}}
+*****[[Reassignment Council Tower/Legends|Reassignment Council Tower]] {{C|2004 DVD release}}
+******[[Reassignment Council Chamber]] {{C|2004 DVD release}}
+*****[[Tower of First Knowledge/Legends|Tower of First Knowledge]] {{C|2004 DVD release}}
+******[[First Knowledge Council Chamber]] {{C|2004 DVD release}}
+*****[[Tower of Reconciliation/Legends|Tower of Reconciliation]] {{C|2004 DVD release}}
+******[[Reconciliation Council Chamber]] {{C|2004 DVD release}}
+*****[[Temple Spire/Legends|Tranquility Spire]] {{C|2004 DVD release}}
+*[[Naboo/Legends|Naboo]] {{C|post-DVD releases}}
+**[[Theed/Legends|Theed]] {{C|post-DVD releases}}
+***[[Theed Royal Palace/Legends|Theed Royal Palace]] {{C|post-DVD releases}}
+***[[Palace Plaza/Legends|Palace Plaza]] {{C|post-DVD releases}}
+***[[Triumphal Arch/Legends|Triumphal Arch]] {{C|post-DVD releases}}
+*[[Taanab/Legends|Taanab]] {{Mo}}
+{{!}}
+*[[Outer Rim Territories/Legends|Outer Rim Territories]]
+**[[Arkanis sector/Legends|Arkanis sector]]
+***[[Tatooine/Legends|Tatooine]]
+****[[Dune Sea/Legends|Dune Sea]]
+*****[[Jabba's Palace]]
+******[[Alkhara's tower]]
+*****[[Northern Dune Sea/Legends|Northern Dune Sea]]
+******[[Great Pit of Carkoon/Legends|Great Pit of Carkoon]]
+****[[Mos Eisley/Legends|Mos Eisley]] {{C|Special Edition}}
+*****[[New Quarter/Legends|New Quarter]] {{C|Special Edition}}
+*****[[Spacers Row/Legends|Spacers Row]] {{1st}} {{C|Special Edition}}
+*****[[Ubrikkian Trade Tower/Legends|Ubrikkian Trade Tower]] {{C|Special Edition}}
+*****[[Water distribution plant/Legends|Water distribution plant]] {{C|Special Edition}}
+**[[Bespin/Legends|Bespin]] {{C|Special Edition}}
+***[[Cloud City/Legends|Cloud City]] {{C|Special Edition}}
+****[[Downtown Plaza]] {{C|Special Edition}}
+**[[Dagobah system/Legends|Dagobah system]]
+***[[Dagobah/Legends|Dagobah]]
+****[[Yoda's hut]]
+**[[Moddell sector/Legends|Moddell sector]]
+***[[Endor system/Legends|Endor system]]
+****[[Endor/Legends|Endor moon]]
+*****[[Happy Grove]] {{1st}}
+******[[Bright Tree Village/Legends|Bright Tree Village]] {{1st}}
+*******[[Royal Hut]]
+*****[[Endor shield generator bunker]]
+*****[[Death Star II/Legends|Death Star II]]
+******[[Death Star II control room|Control Room]] {{1st}}
+******[[Emperor's Throne Room]]
+******[[Superlaser Fire Control]]
+**[[Sullust/Legends|Sullust]] {{Mo}}
+**[[Haven (rendezvous point)|Haven]]
+|c-organizations=
+*[[Advisor]] {{1st}}
+*[[Alliance to Restore the Republic]]
+**[[Alliance High Command]] {{1st}}
+***[[Chancellor (Rebel Alliance)|Chancellor]] {{1st}}
+**[[Rebel Alliance Intelligence Service]]
+***[[Chief of Intelligence]] {{1st}}
+**[[Alliance Military]]
+***[[Alliance Army]]
+****[[Rebel Alliance Special Forces]] {{1st}}
+*****[[Endor strike team]] {{1st}}
+*****[[Special Forces Trackers Unit]] {{1st}}
+*****[[Wilderness fighter]] {{1st}}
+****[[Rebel trooper]]
+***[[Rebel Alliance Navy]]
+****[[Rebel Alliance Starfighter Corps]]
+*****[[Blade Squadron]] {{1st}}
+*****[[Blue Squadron (Rebel Alliance)|Blue Squadron]] {{1st}}
+******[[Blue Five]] {{1st}}
+*****[[Gold Squadron (Rebel Alliance)|Gold Squadron]]
+******[[Gold Leader]]
+*****[[Gray Squadron (Rebel Alliance)|Gray Squadron]] {{1st}}
+******[[Gray Leader]] {{1st}}
+*****[[Green Squadron (Rebel Alliance)|Green Squadron]]
+******[[Green Leader]] {{1st}}
+*****[[Red Squadron (Rebel Alliance)|Red Squadron]]
+******[[Red Five]]
+******[[Red Leader]]
+******[[Red Three]] {{Mo}}
+******[[Red Two]]
+*****[[Rebel pilot]]
+*****[[Supreme fleet commander|Supreme commander of the Alliance fleet]] {{1st}}
+***[[Alliance officer]]
+***[[Renegade Squadron]] {{1st}}
+**[[Bothan Spynet]] {{1stm}} {{Imo}}
+*[[Aloo family]] {{1st}}
+*[[Arms dealer]] {{1st}}
+*[[B'omarr Order]] {{1st}}
+*[[Bodyguard]] {{1st}}
+*[[Bounty hunter]]
+*[[Bright Tree tribe]] {{1st}}
+*[[Controller]]
+*[[Council of Elders (Ewok)|Council of Elders]] {{1st}}
+**[[Chief]]
+**[[Shaman]] {{1st}}
+*[[Councillor]] {{1st}}
+*[[Crime lord]] {{1st}}
+*[[Dameron family]] {{1st}} {{Ret}}
+*[[Fortuna family]] {{1st}}
+{{!}}
+*[[Galactic Empire]]
+**[[Emperor's Royal Guard]] {{1st}}
+**[[Galactic Emperor]]
+**[[Imperial Military]]
+***[[Imperial Army]]
+****[[Imperial combat driver]]
+*****[[AT-ST driver]] {{1st}}
+****[[Stormtrooper Corps]]
+*****[[Scout trooper]] {{1st}}
+*****[[Stormtrooper]]
+***[[Imperial Navy]]
+****[[Death Squadron]]
+****[[Imperial Navy Trooper]]
+*****[[Death Star Trooper]]
+****[[Imperial Starfighter Corps]]
+*****[[181st Imperial Fighter Wing]] {{1st}}
+*****[[Imperial Starfighter Pilot]]
+*****[[Saber Squadron (Imperial)|Saber Squadron]] {{1st}}
+*****[[Scythe Squadron]] {{1st}}
+****[[Imperial weapons technician]]
+**[[Imperial Officer Corps]]
+***[[Imperial officer]]
+****[[Imperial Navy's officer corps]]
+**[[Imperial Ruling Council]] {{1st}}
+***[[Emperor's adviser]] {{1st}}
+**[[Moff]] {{1st}}
+*[[Gangster]]
+*[[Gunner]]
+*[[Gungan Grand Army]] {{C|Post-[[2004]] releases}}
+*[[House of Organa]]
+**[[Prince]]ss
+*[[Hutt Clan]]
+**[[Jabba's criminal empire]]
+***[[Gamorrean Warrior]] {{1st}}
+***[[Majordomo]] {{1st}}
+***[[Skiff Guard]] {{1st}}
+*[[Jedi]]
+**[[Jedi Order]]
+***[[Jedi Knight]] {{1st}}
+***[[Jedi Master]]
+*[[Jerjerrod family]] {{1st}}
+*[[Jester (occupation)|Jester]] {{1st}}
+{{!}}
+*[[Kajidic]] {{1st}}
+**[[Desilijic]] {{1st}}
+*[[Max Rebo Band]] {{1st}}
+*[[Mercenary]]
+*[[Mon Mothma's family]] {{1st}}
+*[[Musician]]
+*[[Officer]]
+**[[Admiral]]
+**[[Captain]]
+**[[Colonel]]
+**[[Commander]]
+**[[General]]
+**[[Lieutenant]]
+**[[Major]]
+*[[Royal Naboo Security Forces]] {{C|Post-[[2004]] releases}}
+**[[Naboo Royal Space Fighter Corps]] {{C|Post-[[2004]] releases}}
+*[[Saboteur]] {{1st}}
+*[[Scout]] {{1st}}
+*[[Sith]]
+**[[Dark Lord of the Sith]]
+**[[Darth]]
+**[[Sith apprentice]]
+**[[Sith Lord]]
+**[[Sith Master]]
+*[[Smuggler]]
+*[[Soldier]]
+*[[Spy]] {{Mo}}
+*[[Technician]]
+*[[Valarian's gang]] {{1st}}
+*[[Weapons master]] {{1st}}
+*[[Wexley family]] {{1st}} {{Ret}} {{C|Starfighter only}}
+|l-organizations=
+*[[Advisor/Legends|Advisor]]
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]
+**[[Alliance High Command/Legends|Alliance High Command]]
+***[[Supreme Allied Commanders]]
+**[[Alliance Military/Legends|Alliance Military]]
+**[[Alliance Army/Legends|Alliance Army]]
+***[[Alliance Special Forces/Legends|Alliance Special Forces]]
+****[[Wilderness Fighters]]
+***[[Rebel trooper/Legends|Rebel trooper]]
+**[[Endor strike team/Legends|Endor strike team]]
+**[[Alliance Fleet]]
+***[[Aggressor Wing]] {{Ret}}
+***[[Blue Squadron (Rebel Alliance)/Legends|Blue Squadron]]
+****[[Blue Five/Legends|Blue Five]] {{Mo}}
+***[[Gold Squadron (Rebel Alliance)/Legends|Gold Squadron]]
+****[[Gold Leader/Legends|Gold Leader]]
+***[[Gray Squadron (Rebel Alliance)/Legends|Gray Squadron]]
+****[[Gray Leader/Legends|Gray Leader]]
+****[[Gray Two]] {{1st}}
+****[[Gray Four]] {{1st}}
+***[[Green Squadron (Rebel Alliance)/Legends|Green Squadron]]
+****[[Green Leader/Legends|Green Leader]]
+****[[Green Three/Legends|Green Three]] {{1st}} {{Ret}}
+***[[Rebel Command Fleet]]
+***[[Rebel pilot/Legends|Rebel pilot]]
+***[[Red Squadron (Rebel Alliance)/Legends|Red Squadron]]
+****[[Red Leader/Legends|Red Leader]]
+****[[Red Two/Legends|Red Two]]
+****[[Red Three/Legends|Red Three]]
+***[[Renegade Leader]] {{1st}} {{Ret}}
+**[[Bothan Spynet/Legends|Bothan Spynet]] {{Mo}}
+**[[Martyrs]]
+*[[B'omarr Order/Legends|B'omarr Order]] {{1st}}
+*[[Band/Legends|Band]]
+*[[Bartender/Legends|Bartender]]
+*[[Bespin Wing Guard/Legends|Bespin Wing Guard]] {{C|Special Edition}}
+*[[Bounty hunter/Legends|Bounty hunter]]
+*[[Captain/Legends|Captain]]
+*[[Chief/Legends|Chief]]
+*[[Chosen One/Legends|Chosen One]]
+*[[Clan Fett]]
+*[[Colonel/Legends|Colonel]]
+*[[Commander/Legends|Commander]]
+*[[Commando/Legends|Commando]]
+*[[Corporal/Legends|Corporal]]
+*[[Coruscant Security Force/Legends|Coruscant Security Force]] {{1st}} {{C|Introduced in Special Edition}}
+{{!}}
+*[[Council of Elders (Ewok)/Legends|Council of Elders]] {{1st}}
+*[[Dornean Navy]] {{1st}} {{Ret}}
+*[[Engineer/Legends|Engineer]]
+*[[Fleet/Legends|Fleet]] / [[Flotilla/Legends|Flotilla]]
+*[[Galactic Empire/Legends|Galactic Empire]]
+**[[Emperor/Legends|Emperor]]
+**[[Galactic Emperor/Legends|Galactic Emperor]]
+***[[Emperor's Royal Guard/Legends|Emperor's Royal Guard]]
+**[[Imperial Advisor]] {{1st}}
+***[[Imperial Ruling Council/Legends|Imperial Ruling Council]] {{1st}}
+**[[Imperial Department of Redesign]] {{Ret}}
+**[[Imperial Military/Legends|Imperial Military]]
+***[[Imperial Army/Legends|Imperial Army]]
+****[[Imperial Army trooper/Legends|Imperial Army trooper]]
+****[[Vehicle Command Crewer]]
+***[[Imperial Navy/Legends|Imperial Navy]]
+****[[181st Imperial Fighter Wing/Legends|181st Imperial Fighter Wing]] {{Ret}}
+*****[[Saber Squadron (Imperial)/Legends|Saber Squadron]] {{Ret}}
+****[[Controller/Legends|Controller]]
+****[[Death Squadron/Legends|Death Squadron]]
+****[[Emperor's Shield]] {{1st}}
+****[[Emperor's Sword]] {{1st}}
+****[[Imperial gunner]]
+****[[Imperial Navy crewman]]
+****[[Imperial Navy trooper]]
+*****[[Death Star trooper]]
+****[[Obsidian Squadron/Legends|Obsidian Squadron]]
+****[[Onyx Squadron/Legends|Onyx Squadron]]
+****[[Scimitar Squadron (Imperial)|Scimitar Squadron]]
+****[[Scythe Squadron/Legends|Scythe Squadron]] {{1st}}
+****[[TIE pilot]]
+***[[Imperial officer/Legends|Imperial officer]]
+***[[Stormtrooper Corps/Legends|Stormtrooper Corps]]
+****[[501st Legion/Legends|501st Legion]] {{Ret}}
+****[[Scout trooper/Legends|Scout trooper]]
+****[[Storm commando]]s {{1st}} {{Ret}}
+****[[Stormtrooper/Legends|Stormtrooper]]
+***[[Tempest Force]]
+**[[Moff/Legends|Moff]]
+**[[Supreme Commander (Empire)/Legends|Supreme Commander]]
+*[[Gangster/Legends|Gangster]]
+*[[General/Legends|General]]
+*[[Greejatus family]] {{1st}}
+*[[Gungan Grand Army/Legends|Gungan Grand Army]] {{C|post-DVD releases}}
+*[[Gunner/Legends|Gunner]]
+{{!}}
+*[[House of Organa/Legends|House of Organa]]
+**[[Prince/Legends|Princess]]
+*[[Hutt Cartel]]
+*[[Interpreter]]
+*[[Jabba Desilijic Tiure's criminal empire]]
+**[[Accountant/Legends|Accountant]]
+**[[Bodyguard/Legends|Bodyguard]]
+**[[Crime lord/Legends|Crime lord]]
+**[[Cyborg Operations]]
+**[[Majordomo/Legends|Majordomo]]
+*[[Jedi/Legends|Jedi]]
+**[[Jedi Order/Legends|Jedi Order]]
+***[[Grand Master/Legends|Grand Master]]
+***[[Jedi Knight/Legends|Jedi Knight]]
+***[[Jedi Master/Legends|Jedi Master]]
+*[[Jedi hunter/Legends|Jedi hunter]]
+*[[Kajidic/Legends|Kajidic]]
+**[[Desilijic/Legends|Desilijic]]
+*[[Law enforcement agency/Legends|Law enforcement agency]]
+**[[Police officer/Legends|Police officer]]
+*[[Lieutenant/Legends|Lieutenant]]
+*[[Major/Legends|Major]]
+*[[Mandalorian/Legends|Mandalorian]]
+*[[Max Rebo Band/Legends|Max Rebo Band]]
+*[[Naboo philosophers]] {{ID|statues}} {{C|post-DVD releases}}
+*[[Naboo Royal Space Fighter Corps/Legends|Naboo Royal Space Fighter Corps]] {{C|post-DVD releases}}
+*[[Prisoner/Legends|Prisoner]]
+*[[Royal Naboo Security Forces/Legends|Royal Naboo Security Forces]] {{C|post-DVD releases}}
+*[[Saboteur/Legends|Saboteur]]
+*[[Sergeant/Legends|Sergeant]]
+*[[Shaman/Legends|Shaman]]
+*[[Sith/Legends|Sith]]
+**[[Darth/Legends|Darth]]
+**[[Order of the Sith Lords]]
+***[[Dark Lord of the Sith/Legends|Dark Lord of the Sith]]
+***[[Sith apprentice/Legends|Sith apprentice]]
+***[[Sith Lord/Legends|Sith Lord]]
+***[[Sith Master/Legends|Sith Master]]
+*[[Skiff guard]]
+*[[Skywalker family/Legends|Skywalker family]]
+*[[Slavery/Legends|Slave]]
+*[[Smuggler/Legends|Smuggler]] {{Mo}}
+*[[Special forces/Legends|Special forces]]
+*[[Spy/Legends|Spy]]
+*[[Warrick family/Legends|Warrick family]]
+*[[Bright Tree Village tribe]]
+|c-species=
+*[[Amani]] {{1st}}
+*[[Aqualish]]
+*[[Askajian]] {{1st}}
+*[[Baragwin]] {{1st}}
+*[[Bith]] {{C|Introduced in Special Edition}}
+*[[Bothan]] {{1stm}}
+*[[Chevin]] {{1st}}
+*[[Dressellian]] {{1st}}
+*[[Dug]] {{C|Post-[[2011]] releases}}
+*[[Duros]]
+*[[Elom]] {{1st}}
+*[[Ewok]] {{1st}}
+**[[Wokling]] {{1st}}
+*[[Frog-dog]] {{1st}}
+*[[Gamorrean]] {{1st}}
+*[[Geranite]] {{1st}}
+*[[Gran]] {{1st}}
+*[[Gungan]] {{C|Post-[[2004]] releases}}
+*[[Human]]
+**[[Alderaanian]]
+**[[Chandrilan]]
+**[[Cloning|Clone]] {{Ret}}
+**[[Corellian]]
+**[[Coruscanti]] {{C|Introduced in Special Edition}}
+**[[Naboo (people)|Naboo]]
+*[[Hutt]] {{1st}}
+*[[Ishi Tib]] {{1st}}
+*[[Jawa]]
+*[[Kitonak]] {{1st}}
+*[[Klatooinian]] {{1st}}
+{{!}}
+*[[Mon Calamari]] {{1st}}
+*[[Near-human]] {{1st}}
+**[[Twi'lek]] {{1st}}
+*[[Nikto]] {{1st}}
+**[[Kadas'sa'Nikto]] {{1st}}
+**[[Kajain'sa'Nikto]] {{1st}}
+*[[Nimbanel]]
+*[[Ortolan]] {{1st}}
+*[[Pa'lowick]] {{1st}}
+*[[Pacithhip]] {{C|Introduced in Special Edition}}
+*[[Quarren]] {{1st}}
+*[[Riorian]] {{1st}}
+*[[Rodian]]
+*[[Saurin]]
+*[[Shawda Ubb]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Sic-Six]] {{C|Cut from final film}}
+*[[Skrilling]] {{1st}}
+*[[Snivvian]]
+*[[Sullustan]] {{1st}}
+*[[Theelin]] {{1st}} {{C|Half-Human hybrid}} {{C|Introduced in Special Edition}}
+*[[Trandoshan]]
+*[[Ubese]] {{1st}} {{C|Impersonated}}
+*[[Weequay]] {{1st}}
+*[[Whiphid]] {{1st}}
+*[[Wol Cabasshite]] {{1st}}
+*[[Wookiee]]
+*[[Yarkora]] {{1st}}
+*[[Yoda's species]]
+*[[Yuvernian]] {{1st}}
+*[[Yuzzum]] {{1st}}
+|l-species=
+*[[Adarian/Legends|Adarian]] {{C|cut}}
+*[[Amani/Legends|Amani]] {{1st}}
+*[[Amphibian/Legends|Amphibian]]
+*[[Aqualish/Legends|Aqualish]]
+*[[Askajian/Legends|Askajian]] {{1st}}
+*[[Baragwin/Legends|Baragwin]]
+*[[Bimm (Near-Human)|Bimm]]
+*[[Bith/Legends|Bith]] {{C|Introduced in Special Edition}}
+*[[Bothan/Legends|Bothan]] {{Mo}}
+*[[Cliffborer worm]] {{1st}}
+*[[Dressellian/Legends|Dressellian]] {{1st}}
+*[[Dug/Legends|Dug]] {{C|Post-Blu-ray releases}}
+*[[Duros/Legends|Duros]]
+*[[Elom/Legends|Elom]] {{1st}}
+*[[Ewok/Legends|Ewok]]
+**[[Wokling/Legends|Wokling]] {{1st}}
+*[[Frog-dog/Legends|Frog-dog]]
+*[[Gamorrean/Legends|Gamorrean]]
+*[[Geranite/Legends|Geranite]] {{1st}}
+*[[Gran/Legends|Gran]]
+*[[Gungan/Legends|Gungan]] {{C|post-DVD releases}}
+*[[H'nemthe (species)/Legends|H'nemthe]]
+*[[Hoover/Legends|Hoover]] {{1st}}
+{{!}}
+*[[Human/Legends|Human]]
+**[[Alderaanian/Legends|Alderaanian]]
+**[[Cloning/Legends|Clone]] {{Ret}}
+**[[Corellian/Legends|Corellian]]
+**[[Cyborg/Legends|Cyborg]]
+**[[Naboo (people)/Legends|Naboo]]
+*[[Hutt/Legends|Hutt]]
+*[[Hybrid/Legends|Hybrid]] {{C|Special Edition}}
+*[[Ishi Tib/Legends|Ishi Tib]]
+*[[Jawa/Legends|Jawa]]
+*[[Kitonak/Legends|Kitonak]] {{1st}}
+*[[Klatooinian/Legends|Klatooinian]]
+*[[Kowakian monkey-lizard/Legends|Kowakian monkey-lizard]]
+*[[Lobel]] {{C|cut}}
+*[[Mon Calamari/Legends|Mon Calamari]]
+*[[Nikto/Legends|Nikto]]
+**[[Kadas'sa'Nikto/Legends|Kadas'sa'Nikto]] {{1st}}
+**[[Kajain'sa'Nikto/Legends|Kajain'sa'Nikto]] {{1st}}
+*[[Nimbanel/Legends|Nimbanel]]
+*[[Pa'lowick/Legends|Pa'lowick]] {{1st}}
+*[[Pachydermoid]]
+**[[Chevin/Legends|Chevin]]
+**[[Ortolan/Legends|Ortolan]] {{1st}}
+**[[Pacithhip/Legends|Pacithhip]] {{C|Special Edition}}
+{{!}}
+*[[Quarren/Legends|Quarren]] {{1st}}
+*[[Rodian/Legends|Rodian]]
+*[[Saurin/Legends|Saurin]]
+*[[Shawda Ubb/Legends|Shawda Ubb]] {{1st}} {{C|Special Edition}}
+*[[Sic-Six/Legends|Sic-Six]] {{C|cut}}
+*[[Skrilling/Legends|Skrilling]] {{1st}}
+*[[Snivvian/Legends|Snivvian]]
+*[[Sullustan/Legends|Sullustan]]
+*[[Theelin/Legends|Theelin]] {{C|Introduced in Special Edition}}
+*[[Tocoyan]] {{C|cut}}
+*[[Trandoshan/Legends|Trandoshan]]
+*[[Twi'lek/Legends|Twi'lek]]
+*[[Ubese/Legends|Ubese]] {{C|Impersonated}}
+*[[Unidentified dianoga-like species]] {{C|cut}}
+*[[Weequay/Legends|Weequay]]
+*[[Whiphid/Legends|Whiphid]] {{1st}}
+*[[Wol Cabasshite/Legends|Wol Cabasshite]] {{1st}}
+*[[Wookiee/Legends|Wookiee]]
+**[[Rwook]]
+*[[Yarkora/Legends|Yarkora]] {{1st}}
+*[[Yoda's species/Legends|Yoda's species]]
+*[[Yuvernian/Legends|Yuvernian]] {{1st}}
+*[[Yuzzum/Legends|Yuzzum]] {{1st}}
+|c-vehicles=
+*[[Glider (vehicle)|Glider]] {{1st}}
+*[[Repulsorcraft]]
+**[[Cloud car]] {{C|Introduced in Special Edition}}
+***[[Storm IV Twin-Pod cloud car]] {{C|Introduced in Special Edition}}
+**[[Hoversled]]
+***[[Jabba the Hutt's dais]]
+**[[Rebel Troop Carrier]]
+**[[Speeder]]
+***[[Airspeeder]] {{C|Introduced in Special Edition}}
+****[[EasyRide passenger airspeeder]] {{1st}} {{C|Introduced in Special Edition}}
+****[[T-16 skyhopper]] {{C|Introduced in Special Edition}}
+***[[Speeder bike]]
+****[[74-Z speeder bike]] {{1st}}
+**[[Sail barge]] {{1st}}
+***[[LO-KD57]] {{1st}}
+****''[[Khetanna]]'' {{1st}}
+*[[Skiff]] {{1st}}
+**[[Bantha-II cargo skiff]] {{1st}}
+*[[Space station]]
+**[[Battle station]]
+***[[Death Star]]
+****[[DS-1 Death Star Mobile Battle Station]] {{Mo}}
+****[[DS-2 Death Star II Mobile Battle Station]] {{1st}}
+*****[[Death Star control room]] {{1st}}
+*****[[Emperor's Tower]] {{1st}}
+******[[Death Star's holding room]] {{Del}}
+******[[Emperor's Throne Room]] {{1st}}
+*****[[Equatorial trench]]
+*****[[Hangar 272]] {{1st}}
+{{!}}
+*[[Starship]]
+**[[Bomber]]
+***[[Light bomber]]
+**[[Capital ship]]
+***[[Dreadnought]]
+****[[Star Dreadnought]]
+*****[[Executor-class Star Dreadnought|''Executor''-class Star Dreadnought]] {{1stID|Super Star Destroyer}}
+******''[[Executor]]''
+***[[Frigate]]
+****[[EF76 Nebulon-B escort frigate]]
+*****''[[Redemption]]''
+***[[Star Cruiser]] {{1st}}
+****[[MC80 Star Cruiser]] {{1st}}
+*****[[MC80 Liberty Type Heavy Star Cruiser|MC80 ''Liberty'' Type Heavy Star Cruiser]] {{1st}}
+******''[[Liberty]]'' {{1st}}
+*****[[MC80A Home One Type Heavy Star Cruiser|MC80A ''Home One'' Type Heavy Star Cruiser]] {{1st}}
+******''[[Home One]]'' {{1st}}
+******''[[Independence]]'' {{1st}}
+******''[[Nautilian]]'' {{1st}}
+***[[Star Destroyer]]
+****[[Imperial-class Star Destroyer|''Imperial''-class Star Destroyer]]
+*****[[Imperial I-class Star Destroyer|''Imperial I''-class Star Destroyer]]
+*****[[Imperial II-class Star Destroyer|''Imperial II''-class Star Destroyer]]
+****[[Tector-class Star Destroyer|''Tector''-class Star Destroyer]] {{1st}}
+**[[Corvette]]
+***[[CR90 corvette]]
+**[[Cruiser]]
+**[[Freighter]]
+***[[Light freighter]]
+****[[YT-1300 light freighter]]
+*****''[[Millennium Falcon]]''
+**[[Gunship]] {{1st}}
+***[[Braha'tok-class gunship|''Braha'tok''-class gunship]] {{1st}}
+**[[Hospital ship]]
+**[[Shuttle]]
+***[[Abecederian line]] {{1st}}
+****[[Lambda-class T-4a shuttle|''Lambda''-class T-4a shuttle]] {{1st}}
+*****[[Emperor Palpatine's shuttle]] {{1st}}
+*****''[[ST 321]]'' {{1st}}
+*****''[[Tydirium]]'' {{1st}}
+**[[Starfighter]]
+***[[A-wing starfighter]] {{1st}}
+****[[RZ-1 A-wing interceptor]] {{1st}}
+***[[B-wing starfighter]] {{1st}}
+****[[A/SF-01 B-wing starfighter]] {{1st}}
+***[[N-1 starfighter]] {{C|Post-[[2004]] releases}}
+***[[Interceptor]]
+***[[TIE line]]
+****[[TIE/IN interceptor]] {{1st}}
+****[[TIE/ln space superiority starfighter]]
+****[[TIE/sa bomber]]
+***[[X-wing starfighter]]
+****[[T-65B X-wing starfighter]]
+*****[[Red Five (T-65B X-wing starfighter)|''Red Five'']]
+***[[BTL Y-wing starfighter|Y-wing starfighter]]
+****[[BTL-A4 Y-wing assault starfighter/bomber]]
+**[[Transport]]
+***[[GR-75 medium transport]]
+*[[Walker]]
+**[[All-terrain vehicle]]
+***[[All Terrain Armored Transport]]
+****[[All Terrain Armored Transport (Galactic Civil War)]]
+***[[All Terrain Scout Transport]]
+|l-vehicles=
+*[[Airspeeder/Legends|Airspeeder]]
+*[[Airbus/Legends|Airbus]] {{1st}} {{C|Special Edition}}
+*[[Air taxi/Legends|Air taxi]] {{1st}} {{C|Special Edition}}
+**[[EasyRide passenger airspeeder/Legends|EasyRide passenger airspeeder]] {{1st}} {{C|Special Edition}}
+*[[Battlestation]]
+*[[Cart]] {{1st}}
+*[[Cloud car/Legends|Cloud car]] {{C|Special Edition}}
+**[[Storm IV Twin-Pod cloud car/Legends|Storm IV Twin-Pod cloud car]] {{C|Special Edition}}
+*[[DS-1 Death Star Mobile Battle Station|Death Star]]
+**[[DS-1 Orbital Battle Station/Legends|Death Star I]] {{Mo}}
+**[[Death Star II/Legends|Death Star II]]
+*[[Hang glider|Ewok hang glider]]
+*[[Rebel personnel carrier/Legends|Rebel personnel carrier]]
+*[[Sail barge/Legends|Sail barge]]
+**[[Luxury-class sail barge|Luxury sail barge]]
+***[[Khetanna/Legends|''Khetanna'']]
+*[[Skiff/Legends|Skiff]]
+**[[Bantha-II cargo skiff/Legends|Bantha-II cargo skiff]]
+*[[Speeder bike/Legends|Speeder bike]]
+**[[74-Z speeder bike/Legends|74-Z speeder bike]]
+*[[Skyhopper/Legends|Skyhopper]]
+**[[T-16 skyhopper/Legends|T-16 skyhopper]] {{C|Introduced in Special Edition}}
+*[[Walker/Legends|Walker]] / [[All Terrain]]
+**[[All Terrain Armored Transport/Legends|All Terrain Armored Transport]]
+***''[[Tempest 1]]''
+**[[All Terrain Scout Transport/Legends|All Terrain Scout Transport]]
+***''[[Tempest Scout 1]]'' {{1st}}
+***''[[Tempest Scout 2]]'' {{1st}}
+***''[[Tempest Scout 3]]'' {{1st}}
+***''[[Tempest Scout 4]]'' {{1st}}
+***''[[Tempest Scout 5]]'' {{1st}}
+***''[[Tempest Scout 6]]'' {{1st}}
+{{!}}
+*[[Starship/Legends|Starship]]
+**[[Battleship/Legends|Battleship]]
+**[[Command ship/Legends|Command ship]]
+**[[Communications ship]]
+**[[CR90 corvette/Legends|CR90 corvette]]
+***''[[Masanya]]'' {{1st}}
+**[[Cruiser/Legends|Cruiser]]
+**[[Executor-class Star Dreadnought/Legends|''Executor''-class Star Dreadnought]]
+***[[Executor/Legends|''Executor'']]
+**[[Flagship/Legends|Flagship]]
+**[[Freighter/Legends|Freighter]]
+***[[Light freighter/Legends|Light freighter]]
+****[[YT-1300 light freighter/Legends|YT-1300 light freighter]]
+*****[[Millennium Falcon/Legends|''Millennium Falcon'']]
+**[[Frigate/Legends|Frigate]]
+***[[EF76 Nebulon-B escort frigate/Legends|EF76 Nebulon-B escort frigate]]
+****[[Redemption/Legends|''Redemption'']]
+**[[Gunship/Legends|Gunship]]
+***[[Braha'tok-class gunship/Legends|''Braha'tok''-class gunship]] {{1st}}
+**[[Hospital ship/Legends|Hospital ship]]
+**[[Pride of Tarlandia/Legends|Main communications ship]]
+**[[Shuttle/Legends|Shuttle]]
+***[[Lambda-class T-4a shuttle/Legends|''Lambda''-class T-4a shuttle]]
+****[[Emperor Palpatine's shuttle/Legends|Emperor Palpatine's shuttle]]
+****[[ST 321/Legends|''ST 321'']]
+****[[Tydirium/Legends|''Tydirium'']]
+**[[Star Cruiser/Legends|Star Cruiser]]
+***[[Mon Calamari Star Cruiser]]
+****[[MC80 Home One type Star Cruiser|MC80 ''Home One'' type Star Cruiser]]
+*****[[Home One/Legends|''Home One'']]
+*****[[Independence/Legends|''Independence'']] {{Ret}}
+*****[[Unidentified MC80 Home One type Star Cruiser|Unidentified MC80 ''Home One'' type Star Cruiser]] {{1st}}
+****[[MC80 Liberty type Star Cruiser|MC80 ''Liberty'' type Star Cruiser]] {{1st}}
+*****[[Liberty/Legends|''Liberty'']] {{1st}}
+****[[MC80a Star Cruiser]] {{1st}} {{Ret}}
+**[[Star Destroyer/Legends|Star Destroyer]]
+***[[Imperial-class Star Destroyer/Legends|''Imperial''-class Star Destroyer]]
+****[[Imperial I-class Star Destroyer/Legends|''Imperial I''-class Star Destroyer]]
+*****[[Emancipator|''Accuser'']]
+*****[[Liberator (Imperial I-class)|''Adjudicator'']] {{1st}} {{Ret}}
+*****[[Devastator/Legends|''Devastator'']]
+*****''[[Thunderflare]]'' {{1st}}
+*****[[Rebel Dream|''Tyrant'']]
+****[[Imperial II-class Star Destroyer/Legends|''Imperial II''-class Star Destroyer]]
+*****[[Avenger/Legends|''Avenger'']]
+*****[[Chimaera/Legends|''Chimaera'']] {{Ret}}
+*****''[[Stalker/Legends|Stalker]]''
+**[[Tector-class Star Destroyer/Legends|''Tector''-class Star Destroyer]] {{1st}}
+**[[Starfighter/Legends|Starfighter]]
+***[[A/SF-01 B-wing starfighter/Legends|B-wing starfighter]] {{1st}}
+***[[Bomber/Legends|Bomber]]
+***[[BTL Y-wing starfighter/Legends|BTL Y-wing starfighter]]
+****[[BTL-A4 Y-wing starfighter]]
+***[[Interceptor/Legends|Interceptor]]
+***[[N-1 starfighter/Legends|N-1 starfighter]] {{C|post-DVD releases}}
+***[[RZ-1 A-wing interceptor/Legends|RZ-1 A-wing interceptor]]
+***[[T-65 X-wing starfighter]]
+***[[T-65B X-wing starfighter/Legends|T-65B X-wing starfighter]]
+***[[TIE Series|TIE series]]
+****[[TIE/IN interceptor/Legends|TIE/IN interceptor]] {{1st}}
+****[[TIE/LN starfighter]]
+*****''[[Black 11]]'' {{1st}}
+*****''[[Scythe 1]]'' {{1st}}
+*****''[[Scythe 3]]'' {{1st}}
+****[[TIE/sa bomber/Legends|TIE/sa bomber]]
+*****[[EX-1-2]] {{1st}}
+*****''[[Scimitar 1]]'' {{1st}}
+*****''[[Scimitar 2]]''
+**[[Transport/Legends|Transport]]
+***[[GR-75 medium transport/Legends|GR-75 medium transport]]
+|c-technology=
+*[[Arc welder]] {{1st}}
+*[[Armor]]
+**[[Mandalorian armor]]
+***[[Macrobinocular viewplate]]
+***[[Mandalorian vambrace]]
+**[[Stormtrooper armor]]
+**[[Tantel armor]] {{1st}}
+**[[Vader's armor]]
+**[[Boushh's armor]] {{1st}}
+*[[Arrow]] {{1st}}
+*[[Blast door]]
+*[[Blaster]]
+**[[Blaster cannon]]
+***[[88i twin light blaster cannon]] {{1st}}
+**[[Blaster pistol]]
+***[[Defender sporting blaster pistol]]
+****[[Satine's Lament]]
+***[[DL-18 blaster pistol]] {{1st}}
+***[[Heavy blaster pistol]]
+****[[DL-44 heavy blaster pistol]]
+*****[[Han's heavy blaster pistol]]
+***[[Hold-out blaster]] {{1st}}
+****[[EC-17 hold-out blaster]] {{1st}}
+**[[Blaster rifle]]
+***[[A280 blaster rifle]]
+***[[A280C blaster rifle]]
+***[[Blaster carbine]]
+****[[EE-3 carbine rifle]]
+***[[E-11 medium blaster rifle]]
+**[[Ion blaster]]
+***[[Jawa ionization blaster]]
+**[[Short-range assassin's blaster]] {{1st}}
+**[[Dur-24 wrist laser]] {{1st}}
+*[[Bow]] {{1st}}
+*[[Bowcaster]]
+**[[Chewbacca's bowcaster]]
+*[[Cannon]]
+**[[Ion cannon]]
+***[[NK-7 ion cannon]]
+**[[Laser cannon]]
+***[[KX9 laser cannon]]
+***[[L-s1 laser cannon]]
+***[[Quad laser cannon]]
+***[[Turbolaser]]
+****[[Octuple turbolaser barbette]]
+****[[XX-9 heavy turbolaser battery]]
+*[[Carbon-freezing]]
+*[[Catapult]] {{1st}}
+*[[Circular saw]] {{1st}}
+**[[Buzz saw]] {{1st}}
+*[[Club]]
+*[[Code cylinder]]
+*[[Comlink]]
+**[[C1 personal comlink]]
+*[[Communications array]]
+{{!}}
+*[[Cybernetics]]
+**[[Cyborg]]
+*[[Deflector shield]]
+**[[Ray shield]]
+*[[Deflector shield generator]]
+**[[SLD-26 planetary shield generator]] {{1st}}
+*[[Droid]]
+*[[Engine]]
+**[[Sublight engine]]
+***[[Galaxy-15 ion engine]]
+***[[J-77 "Event Horizon" sublight engine]] {{1st}}
+***[[M8.0 StarDrive engine]] {{1st}}
+*[[Fibercord]] {{1st}}
+*[[Fireworks]] {{1st}}
+*[[Force pike]] {{1st}}
+*[[Grappling hook]]
+*[[Grenade]]
+**[[Proton grenade]] {{1st}}
+**[[Thermal detonator]] {{1stID|Thermal detonator}}
+***[[Class-A thermal detonator]] {{1st}}
+*[[Grenade launcher]] {{1st}}
+**[[MPL-57]] {{1st}}
+*[[Hang-glider]] {{1st}}
+*[[Holocam]]
+*[[Hologram]]
+*[[Holoprojector]]
+*[[Hypermatter annihilation reactor]] {{1st}}
+*[[Jetpack]]
+**[[Z-6 jetpack]]
+*[[Laser]]
+*[[Life support]]
+*[[Lightsaber]]
+**[[Luke Skywalker's green lightsaber]] {{1st}}
+**[[Sith lightsaber]]
+***[[Dual-phase lightsaber]]
+****[[Darth Vader's lightsaber]]
+*[[Meditation chamber]] {{Del}}
+**[[Darth Vader's meditation chamber]] {{Del}}
+*[[Melee weapon]]
+**[[Ax]] {{1st}}
+***[[Gamorrean battle-ax]] {{1st}}
+***[[Vibro-ax]] {{1st}}
+****[[BD-1 Cutter vibro-ax]] {{1st}}
+**[[Gaderffii stick]]
+**[[Lance]] {{1st}}
+*[[Missile]]
+**[[Concussion missile]] {{1st}}
+***[[ST2 concussion missile]] {{1st}}
+*[[MM9 mini concussion rocket launcher]]
+*[[Officer's disk]]
+{{!}}
+*[[Personal identifier transponder]] {{1st}}
+*[[Photoreceptor]]
+*[[Pipe]] {{1st}}
+**[[Hookah pipe]] {{1st}}
+*[[Proton torpedo]]
+**[[MG7-A proton torpedo]]
+*[[Quarrel]]
+*[[Rangefinder]]
+*[[Reactor]] {{1st}}
+*[[Rectenna]]
+*[[Restraining bolt]]
+*[[Rifle]]
+*[[S-foils]]
+*[[Scomp link]]
+*[[Servomotor]]
+*[[Shock blade]] {{1st}}
+*[[Slingshot]] {{1st}}
+*[[Slugthrower]]
+*[[Spear]] {{1st}}
+*[[Speech scrambler]] {{1st}}
+*[[Stuncuffs]]
+*[[Superlaser]]
+*[[Tractor beam]]
+*[[Tractor beam projector]]
+**[[07 tractor beam projector]]
+*[[Turbolift]]
+*[[Vibroblade]] {{1st}}
+*[[Vibro-lance]] {{1st}}
+*[[Whipcord thrower]] {{1st}}
+**[[Fibercord whip]] {{1st}}
+|l-technology=
+*[[ANq-51 sensor array computer/Legends|ANq-51 sensor array computer]]
+*[[Arc welder/Legends|Arc welder]] {{1st}}
+*[[Armor/Legends|Armor]]
+**[[Darth Vader's armor]]
+**[[Stormtrooper armor/Legends|Stormtrooper armor]]
+**[[Tantel armor/Legends|Tantel armor]]
+**[[Ubese raider armor]]
+*[[Arrow/Legends|Arrow]]
+*[[Astromech translator]]
+*[[Blast door/Legends|Blast door]]
+*[[Blaster/Legends|Blaster]]
+**[[Blaster cannon/Legends|Blaster cannon]]
+**[[Blaster carbine/Legends|Blaster carbine]]
+***[[EE-3 carbine rifle/Legends|EE-3 carbine rifle]]
+**[[Blaster pistol/Legends|Blaster pistol]]
+***[[DL-18 Blaster Pistol]]
+***[[DL-21 blaster pistol/Legends|DL-21 blaster pistol]]
+***[[Heavy blaster pistol/Legends|Heavy blaster pistol]]
+****[[DL-44 heavy blaster pistol/Legends|DL-44 heavy blaster pistol]]
+***[[Hold-out blaster/Legends|Hold-out blaster]] {{1st}}
+****[[Scout trooper blaster pistol]] {{1st}}
+***[[Model 44 blaster pistol]]
+***[[Sporting blaster]]
+****[[X-30 "Lancer" target blast pistol]] {{1st}}
+**[[Blaster rifle/Legends|Blaster rifle]]
+***[[A280 blaster rifle/Legends|A280 blaster rifle]] {{1st}}
+***[[E-11 blaster rifle/Legends|E-11 blaster rifle]]
+****[[E-11b blaster rifle]] {{1st}}
+**[[Dur-24 wrist laser/Legends|Dur-24 wrist laser]] {{1st}}
+**[[Ion blaster/Legends|Ion blaster]]
+***[[Jawa ionization blaster/Legends|Jawa ionization blaster]]
+*[[Blissl]]
+*[[Bow/Legends|Bow]] {{1st}}
+*[[Bowcaster/Legends|Bowcaster]]
+*[[Carbon-freezing/Legends|Carbon freezing]]
+*[[Catapult/Legends|Catapult]] {{1st}}
+*[[Chidinkalu]] {{1st}}
+*[[Cluster bomb/Legends|Cluster bomb]]
+**[[CL-3 antistarfighter cluster bomb]] {{1st}}
+*[[Code cylinder/Legends|Code cylinder]]
+**[[Imperial code cylinder]]
+*[[Comlink/Legends|Comlink]]
+**[[C1 personal comlink/Legends|C1 personal comlink]]
+*[[Computer terminal]]
+*[[Concussion missile/Legends|Concussion missile]]
+**[[ST2 concussion missile/Legends|ST2 concussion missile]] {{1st}}
+*[[Cybernetics/Legends|Cybernetics]]
+**[[Mechno-arm/Legends|Mechno-arm]]
+***[[L-hand 980]]
+*[[Death Star II plans]]
+*[[Deflector shield/Legends|Deflector shield]]
+**[[Deflector shield generator/Legends|Deflector shield generator]]
+*[[Droid/Legends|Droid]]
+*[[Dur-24 wrist laser/Legends|Dur-24 wrist laser]]
+*[[Emergency siren]]
+*[[Entry ramp/Legends|Entry ramp]]
+*[[Fibercord/Legends|Fibercord]]
+*[[Fireworks/Legends|Fireworks]]
+{{!}}
+*[[Force pike/Legends|Force pike]]
+**[[Controller FP]] {{1st}}
+*[[Gaderffii]]
+*[[Gamorrean Battleaxe]]
+*[[Grappling hook/Legends|Grappling hook]]
+*[[Grenade/Legends|Grenade]]
+*[[Growdi Harmonique/Legends|Growdi Harmonique]] {{1st}}
+*[[Gyroscopic stabilizer]] {{1st}}
+*[[Holocamera]]
+*[[Hologram/Legends|Hologram]]
+*[[Holoprojector/Legends|Holoprojector]]
+**[[CS-Mark 12 holoprojector]] {{1st}}
+**[[Holomap]]
+*[[Holotransceiver]]
+*[[Hookah pipe/Legends|Hookah pipe]]
+*[[Hunting knife]] {{1st}}
+*[[Imperial officer's disc]]
+*[[Ion cannon/Legends|Ion cannon]]
+**[[NK-7 ion cannon/Legends|NK-7 ion cannon]]
+*[[Jabba's roasting spit]] {{1st}}
+*[[Jammer]]
+*[[Jetpack/Legends|Jetpack]]
+**[[Z-6 jetpack/Legends|Z-6 jetpack]]
+*[[Landing jet/Legends|Landing jet]]
+*[[Laser cannon/Legends|Laser cannon]]
+**[[Gi/9 antipersonnel laser cannon/Legends|Gi/9 antipersonnel laser cannon]] {{1st}}
+**[[KX9 laser cannon/Legends|KX9 laser cannon]]
+**[[Lateral Quad 227 Laser Battery]]
+**[[Me/7 double laser cannon]]
+*[[Life support/Legends|Life support]]
+*[[Lightsaber/Legends|Lightsaber]]
+**[[Activation stud]]
+**[[Blade emitter/Legends|Blade emitter]]
+**[[Lightsaber crystal]] {{Del}}
+***[[Synthetic lightsaber crystal]]
+**[[Lightsaber hilt/Legends|Lightsaber hilt]]
+**[[Luke Skywalker's lightsaber]]
+**[[Sith lightsaber/Legends|Sith lightsaber]]
+***[[Darth Vader's lightsaber/Legends|Darth Vader's lightsaber]]
+*[[Magnetic field/Legends|Magnetic field]]
+*[[Magnetic grapple]]
+*[[Meditation chamber/Legends|Meditation chamber]] {{Del}}
+**[[Darth Vader's meditation chamber/Legends|Darth Vader's meditation chamber]] {{Del}}
+*[[MM9 rocket system]]
+*[[Nalargon]] {{1st}}
+*[[Net]]
+*[[NiteSite infrared motion sensor]] {{1st}}
+*[[Photoreceptor/Legends|Photoreceptor]]
+*[[Planetary shield/Legends|Planetary shield]]
+*[[Plastoid/Legends|Plastoid]]
+*[[Plastron/Legends|Plastron]]
+*[[Proton beam cannon]]
+*[[Proton bomb/Legends|Proton bomb]]
+*[[Proton grenade/Legends|Proton grenade]]
+**[[7-PrG proton grenade]] {{1st}}
+*[[Proton torpedo/Legends|Proton torpedo]]
+**[[MG7-A proton torpedo/Legends|MG7-A proton torpedo]]
+{{!}}
+*[[Quad laser cannon/Legends|Quad laser cannon]]
+*[[Quadanium steel/Legends|Quadanium steel]]
+*[[Rangefinder/Legends|Rangefinder]]
+*[[Ray shield/Legends|Ray shield]]
+*[[R200 Ion Jet engine]]
+*[[Reactor/Legends|Reactor core]]
+*[[Hoversled/Legends|Repulsorsled]]
+**[[Jabba's dais]]
+*[[Restraining bolt/Legends|Restraining bolt]]
+*[[Rifle/Legends|Rifle]]
+*[[Riot gun]]
+**[[Dengar's modified riot gun]]
+*[[Robotic stilts]] {{C|Special Edition}}
+*[[S-foils/Legends|S-foils]]
+*[[Scomp link/Legends|Scomp link]]
+*[[Sensor/Legends|Sensor]]
+*[[Sensor globe]]
+**[[ISD-72x deflector shield generator dome]]
+*[[Sheath]]
+*[[SLD-26 planetary shield generator/Legends|SLD-26 planetary shield generator]]
+*[[Sling]]
+*[[Slingshot/Legends|Slingshot]] {{1st}}
+*[[Slugthrower/Legends|Slugthrower]]
+**[[Dressellian projectile rifle]] {{1st}}
+*[[Spear/Legends|Spear]]
+**[[Throwing spear]] {{1st}}
+*[[Speech scrambler/Legends|Speech scrambler]]
+*[[Stun cuffs]]
+*[[Sublight drive]]
+*[[Superweapon/Legends|Superweapon]]
+**[[Superlaser/Legends|Superlaser]]
+***[[Composite-beam laser]]
+***[[Concave Dish Composite Beam Superlaser]]
+*[[Suspended animation/Legends|Suspended animation]]
+*[[Tactical system]]
+*[[Thermal detonator/Legends|Thermal detonator]]
+**[[Class-A thermal detonator/Legends|Class-A thermal detonator]] {{1st}}
+*[[Traction-test bed]]
+*[[Tractor beam/Legends|Tractor beam]]
+**[[Q7 tractor beam projector/Legends|Q7 tractor beam projector]]
+*[[Transparisteel/Legends|Transparisteel]]
+*[[Traz]] {{1st}}
+*[[Tryna chime]]
+*[[Turbolaser/Legends|Turbolaser]]
+**[[Octuple barbette turbolaser]]
+**[[XX-9 heavy turbolaser]]
+*[[Turbolift/Legends|Turbolift]]
+*[[Type-12A anti-personnel rocket]]
+*[[Vibroweapon]]
+**[[Vibro-ax/Legends|Vibro-ax]]
+***[[BD-1 Cutter vibro-ax/Legends|BD-1 Cutter vibro-ax]] {{1st}}
+***[[Clan Groogrun vibro-ax]] {{1st}}
+**[[Vibroblade/Legends|Vibroblade]]
+**[[Vibro-lance/Legends|Vibro-lance]] {{1st}}
+*[[Vocabulator/Legends|Vocabulator]]
+*[[Vocal enhancer]]
+*[[WET-02 vapor tank]] {{1st}}
+*[[Wheel]]
+*[[Whipcord launcher/Legends|Whipcord launcher]]
+**[[Fibercord whip/Legends|Fibercord whip]]
+*[[Wrist rocket]]
+|c-miscellanea=
+*[[Alcohol]]
+*[[Alien]]
+*[[Aurebesh]] {{1st}} {{C|Not used for writing Basic}}
+*[[Band]]
+*[[Beastmaster]] {{1st}}
+*[[Bespinite]]
+*[[Bounty]]
+*[[Bridge (starship)|Bridge]]
+*[[Bronzium]] {{1st}}
+*[[Callsign]]
+*[[Cane]]
+**[[Emperor Palpatine's cane]] {{1st}}
+*[[Capital]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Carbonite]]
+*[[Chromium]] {{C|Post-[[2004]] releases}}
+*[[City]]
+**[[Ecumenopolis]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Clothing]]
+**[[Bandolier]]
+**[[Boot]]
+**[[Cloak]]
+***[[Qui-Gon Jinn's cloak]] {{1st}} {{Ret}}
+**[[Dancing-girl costume]] {{1st}}
+**[[Flight suit]]
+***[[Flight helmet]]
+****[[K-22995 light flight helmet]]
+**[[Sheeth]] {{1st}}
+**[[Hat]]
+**[[Holster]]
+**[[Imperial military uniforms]]
+***[[Rank insignia plaque]]
+**[[Jacket]]
+**[[Mon Calamari fleet officer uniform]] {{1st}}
+**[[Poncho]] {{1st}}
+**[[Robe]]
+**[[Shata leather pants]] {{1st}}
+**[[Utility belt]]
+*[[Cockpit]]
+*[[Command tower]]
+*[[Communications tower]]
+*[[Cremation]]
+*[[Data pit]]
+*[[Death]]
+*[[Desert]]
+**[[Sandstorm]] {{Del}}
+*[[Deity]] {{Mo}}
+**[[God]] {{Mo}}
+*[[Droid]]
+*[[Fire]]
+*[[Fireworks]] {{1st}}
+*[[Fleet]]
+**[[Command ship]]
+***[[Flagship]]
+**[[Navy]]
+**[[Warship]]
+*[[Foodstuff]]
+**[[Ration bar]]
+{{!}}
+*[[The Force]]
+**[[Chosen One]] {{1st}}
+**[[Dark side of the Force]]
+**[[Force-sensitive]]
+**[[Force power]]
+***[[Force choke]] {{Del}}
+***[[Force jump]]
+***[[Force lightning]] {{1st}}
+***[[Force spirit]]
+***[[Force vision]]
+***[[Mind probe (Force power)|Mind probe]] {{1st}}
+***[[Mind trick]] {{1stID|Mind trick}}
+***[[Telekinesis]]
+**[[Light side of the Force]]
+**[[Living Force]]
+*[[Forest]]
+*[[Funeral]] {{1st}}
+*[[Gimer stick]]
+*[[Glass]]
+*[[Hanna pendant]] {{1st}}
+*[[Hermit]]
+*[[Hibernation sickness]] {{1st}}
+*[[Holographic amphitheater]] {{1st}}
+*[[Homeworld|Home planet]]
+*[[Hybrid]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Hyperspace]]
+**[[Hyperspace route]] {{1st}}
+*[[Immortality]] {{Ghost}}
+*[[Jedi funeral]] {{1st}}
+*[[Jedi training]] {{Mo}}
+*[[Language]]
+**[[Binary]]
+**[[Borish]] {{1st}}
+**[[Ewokese]] {{1st}}
+**[[Galactic Basic Standard]]
+**[[Gamorrean (language)|Gamorrean]] {{1st}}
+**[[Huttese]]
+***"[[Gi Shatta Gasha]]" {{1st}} {{C|Introduced in Special Edition}}
+**[[Rodian (language)|Rodian]]
+**[[Rybese]] {{1st}}
+**[[Shyriiwook]]
+**[[Sullustese]] {{1st}}
+**[[Ubese (language)|Ubese]] {{1st}}
+**[[Yuzzum (language)|Yuzzum]] {{1st}}
+*[[Leather]]
+*[[Life Zone]] {{C|Introduced in Special Edition}}
+*[[Lightsaber combat]]
+**[[Lightsaber duel]]
+*[[Lightspeed]]
+*[[Limb]] {{1st}}
+*"[[May the Force be with you]]"
+*[[Meditation]]
+*[[Monk]] {{1st}}
+*[[Music]]
+**[[Blissl/Canon|Blissl]]
+**[[Chindinkalu flute]] {{1st}}
+**[[Drum]] {{1st}}
+**[[Drumheller harp]] {{1st}} {{C|Introduced in [[The Star Wars Trilogy Special Edition|''Special Edition'']]}}
+**[[Growdi Harmonique]] {{1st}}
+**"[[Jedi Rocks]]" {{1st}} {{C|Introduced in Special Edition}}
+**"[[Lapti Nek]]" {{1st}} {{C|Pre-[[1997]] releases}}
+**[[Nar Shaddaa wind chimes]] {{1st}}
+**[[Red ball jett organ]] {{1st}}
+**[[Sacred Horn of the Soul Trees]] {{1st}}
+**[[Trumpet]] {{1st}}
+**[[Xylophone]] {{1st}}
+*[[Naal thorn burner]] {{1st}}
+*[[Naval warfare]]
+*''[[Ne Ganna Dateel Jabba]]'' {{1st}}
+{{!}}
+*[[Pillow]]
+*[[Plant]]
+**[[Chindinkalu plant]] {{1st}}
+**[[Grass]]
+***[[Savanna grass]] {{1st}}
+**[[Tree]]
+***[[Gnarltree]]
+*[[Plastoid]]
+*[[Politics]]
+*[[Prisoner]]
+*[[Realspace]]
+*[[Rebel Alliance starbird]]
+*[[Rebel command insignia]]
+*[[Rope]] {{1st}}
+*[[Sanctuary Pipeline]] {{1st}}
+*[[Sensua binding]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Silk]]
+**[[Lashaa silk]] {{1st}}
+*[[Skylane]] {{1st}} {{C|Introduced in Special Edition}}
+*[[Slash]] {{1st}}
+*[[Slavery]] {{1st}}
+*[[Sleep]] {{1st}}
+*[[Spaceport]]
+*[[Species]]
+**[[Brain]] {{1st}}
+**[[Eye]]
+**[[Hair]]
+**[[Lekku]] {{1st}}
+**[[Mouth]]
+**[[Parent]]
+**[[Sentience]]
+**[[Gender|Sexes]]
+**[[Stomach]] {{1stm}}
+**[[Twin]]
+*[[Staging area]] {{1stm}}
+*[[Star system]]
+**[[Binary star]]
+**[[Moon]]
+**[[Orbit]]
+**[[Planet]]
+***[[Gas giant]]
+*[[Super Star Destroyer]] {{1stm}}
+*[[Surface warfare]]
+*[[Suspended animation]]
+*[[Swamp]]
+*[[Tattoo]] {{1st}}
+*[[Throne]] {{1st}}
+*[[Time]]
+**[[Standard year]] {{Mo}}
+*[[Torture]]
+*[[Translator]]
+*[[Transparisteel]]
+*[[Vacuum]]
+*[[Victory decal]]
+*[[Viewport]]
+*[[Wine]] {{1st}}
+**[[Spice wine]] {{1st}}
+*[[Zeyd cloth]]
+|l-miscellanea=
+'''Anatomy'''
+*[[Brain/Legends|Brain]] {{1st}}
+*[[Lekku/Legends|Lekku]]
+*[[Skeleton/Legends|Skeleton]]
+*[[Stomach/Legends|Stomach]] {{Mo}}
+
+'''Apparel & accessories'''
+*[[Abyssin ornament]] {{1st}}
+*[[Backpack/Legends|Backpack]]
+*[[Baldric]]
+*[[Bandolier/Legends|Bandolier]]
+*[[Boot/Legends|Boot]]
+*[[Cane/Legends|Cane]]
+**[[Emperor's cane]] {{1st}}
+*[[Cape/Legends|Cape]]
+*[[Eye patch]]
+*[[Flak vest/Legends|Flak vest]]
+*[[Flight helmet/Legends|Flight helmet]]
+*[[Gimer stick/Legends|Gimer stick]]
+*[[Glove spikes]]
+*[[Gurreck/Legends|Gurreck skull headdress]]
+*[[Hanna pendant/Legends|Hanna pendant]] {{1st}}
+*[[Hat/Legends|Hat]]
+*[[Huttese slave-girl costume]] {{1st}}
+*[[Ishi Tib ornament]]
+*[[Jedi apparel]]
+*[[Jumpsuit/Legends|Jumpsuit]]
+*[[Leather/Legends|Leather]]
+**[[Shata leather pants/Legends|Shata leather pants]] {{1st}}
+*[[Poncho/Legends|Poncho]]
+*[[Rancor ornament]]
+*[[Rebel flight suit]]
+*[[Ruling staff]] {{1st}}
+*[[Ryloth robe]]
+*[[Sensua binding/Legends|Sensua binding]] {{1st}} {{C|Special Edition}}
+*[[Sith apparel]]
+*[[Slaving collar]]
+**[[Security collar]]
+*[[Staff of Logray|Staff of Power]]
+*[[Body glove/Legends|Szana body glove]]
+*[[Thermal glove]]
+*[[Utility belt/Legends|Utility belt]]
+*[[Zeyd-cloth]]
+
+'''Combat'''
+*[[Fan shot]] {{1st}}
+*[[Ground warfare]]
+*[[Lightsaber combat/Legends|Lightsaber combat]]
+**[[Cho mai/Legends|Cho mai]]
+**[[Cho mok/Legends|Cho mok]]
+**[[Cho sun/Legends|Cho sun]]
+**[[Dun Möch/Legends|Dun Möch]]
+**[[Form V/Legends|Form V]]
+**[[Sai]]
+**[[Sokan]]
+**[[Sun djem/Legends|Sun djem]]
+*[[Starfighter combat/Legends|Starfighter combat]]
+*[[Terrain-following flying]]
+
+'''Food/Beverage'''
+*[[Bantha blaster/Legends|Bantha blaster]]
+*[[Bantha fodder]] {{Mo}}
+*[[Flameout/Legends|Flameout]]
+
+'''Language'''
+*[[Atrisian script]] {{1st}} {{Ret}}
+*[[Aurebesh/Legends|Aurebesh]] {{1st}} {{C|Not used for writing Basic}}
+*[[Binary/Legends|Binary]]
+*[[Common Sith]]
+*[[Ewokese/Legends|Ewokese]]
+*[[Galactic Basic Standard/Legends|Galactic Basic Standard]]
+*"[[Gi Shatta Gasha/Legends|Gi Shatta Gasha]]" {{C|Special Edition}}
+*[[Huttese/Legends|Huttese language]]
+*[[Huttese (writing system)|Huttese writing system]] {{1st}}
+*[[Jawaese/Legends|Jawaese]]
+*[[Shyriiwook/Legends|Shyriiwook]]
+*[[Sullustese/Legends|Sullustese]]
+*[[Twi'leki/Legends|Twi'leki]]
+*[[Ubese (language)/Legends|Ubese]]
+*[[Unidentified script (Star Wars '76)|Unidentified script]]
+{{!}}
+*[[Alien/Legends|Alien]]
+*[[Alliance Starbird]]
+*[[Bendu (religion)|Bendu]]
+*[[Bounty/Legends|Bounty]]
+*[[Bridge (starship)/Legends|Bridge]]
+*[[Bronzium/Legends|Bronzium]]
+*[[Call sign]]
+**[[Imperial callsigns]]
+*[[Capital/Legends|Capital]]
+*[[Carbonite/Legends|Carbonite]]
+*[[Cockpit/Legends|Cockpit]]
+*[[Cremation/Legends|Cremation]]
+*[[Curtain]]
+*[[Death/Legends|Death]]
+*[[Deity/Legends|Deity]] {{Mo}}
+**[[God/Legends|God]] {{Mo}}
+**[[Golden One/Legends|Golden One]]
+*[[Desert/Legends|Desert]]
+*[[Exile (punishment)/Legends|Exile]]
+*[[Fern/Legends|Fern]]
+*[[Fire/Legends|Fire]]
+*[[The Force/Legends|The Force]]
+**[[Battle meditation]] {{Ret}}
+**[[Dark side of the Force/Legends|Dark side of the Force]]
+***[[Dark side burst]]
+***[[Drain Knowledge]]
+***[[Force lightning/Legends|Force lightning]]
+**[[Farsight/Legends|Farsight]]
+**[[Force empathy/Legends|Force empathy]]
+**[[Force ghost]]
+**[[Force Jump]]
+**[[Force kick]] {{1st}}
+**[[Force sense/Legends|Force sense]]
+**[[Force stealth]]
+**[[Force power/Legends|Force power]]
+**[[Force vision/Legends|Force vision]]
+**[[Force-sensitive/Legends|Force-sensitive]]
+**[[Mind trick/Legends|Mind trick]]
+**[[Telekinesis/Legends|Telekinesis]]
+***[[Telekinesis#Force Choke|Force choke]]
+**[[Wound in the Force]]
+*[[Funeral/Legends|Funeral]]
+**[[Jedi funeral/Legends|Jedi funeral]]
+*[[Galactic Credit Standard]] {{Mo}}
+*[[Gimer bush]]
+*[[Hangar/Legends|Hangar]]
+*[[Hibernation sickness/Legends|Hibernation sickness]]
+*[[Hyperspace/Legends|Hyperspace]]
+*[[Iron/Legends|Iron]]
+*[[Jalavash worm silk]]
+*[[Lashaa silk/Legends|Lashaa silk]] {{1st}}
+*[[Lightspeed/Legends|Lightspeed]]
+*[[Luck]] {{Mo}}
+*[[Magic]] {{Mo}}
+*''[[Man in Carbonite]]''
+*"[[May the Force be with you/Legends|May the Force be with you]]"
+*[[Meditation/Legends|Meditation]]
+*[[Military rank/Legends|Military rank]]
+**[[Rank insignia plaque/Legends|Rank insignia plaque]]
+**[[Rebel command insignia/Legends|Rebel command insignia]]
+*[[Moon/Legends|Moon]]
+*[[Mooring tower/Legends|Mooring tower]] {{1st}}
+*[[Music/Legends|Music]]
+**[[Jizz/Legends|Jizz]]
+**[[Drum/Legends|Drum]]
+**[[Nar Shaddaa wind chimes/Legends|Nar Shaddaa wind chimes]] {{1st}}
+**[[Slitherhorn]] {{1st}}
+**[[Cymbal|Sounding cymbal]]
+*[[Ne Ganna Dateel Jabba/Legends|''Ne Ganna Dateel Jabba'']] {{1st}}
+*[[Observation deck/Legends|Observation deck]]
+*[[Parent/Legends|Parent]]
+*[[Photon]]
+*[[Planet/Legends|Planet]]
+**[[Ecumenopolis/Legends|Ecumenopolis]] {{C|Special Edition}}
+**[[Gas giant/Legends|Gas giant]]
+*[[Pourstone/Legends|Pourstone]]
+*[[Riot]] {{C|Special Edition}}
+*[[Rope/Legends|Rope]]
+*[[Rule of Two/Legends|Rule of Two]]
+*[[Sentience/Legends|Sentience]]
+*[[Slavery/Legends|Slavery]]
+*[[Sleep/Legends|Sleep]]
+*[[Star/Legends|Star]]
+*[[Tarpaulin]] {{1st}}
+*[[Tattoo/Legends|Tattoo]]
+*[[Torture/Legends|Torture]]
+*[[Transparisteel/Legends|Transparisteel]]
+*[[Tree/Legends|Tree]]
+*[[Twin/Legends|Twin]]
+*[[Tydirium (ore)]] {{Imo}}
+*[[Yoro|Yoro root pigment]]
+}}
+
+==Sources==
+{{Scroll_box|content=
+{{Mediacat|soundcat=Audio files from Star Wars: Episode VI Return of the Jedi|imagecat=Images from Star Wars: Episode VI Return of the Jedi}}
+{{Wikiquote}}
+*''[[The Jedi Master's Quizbook]]'' {{ID|''Revenge of the Jedi''}}
+*{{InsiderCite|1|Looking At Lucasfilm}}
+*{{InsiderCite|1|Anthony Daniels: Remembering That Galaxy Far, Far Away}}
+*{{InsiderCite|1|Star Wars 10th Anniversary Convention!!|''Star Wars'' 10th Anniversary Convention!!}}
+*{{InsiderCite|1|Collections}}
+*{{InsiderCite|2|Star Wars: The Role-Playing Game|''Star Wars: The Role-Playing Game''}}
+*{{InsiderCite|2|Collections}}
+*{{InsiderCite|2|Inside ILM|Inside ILM: Visual Effects Design}}
+*{{InsiderCite|2|Star Tours: "The Ultimate Adventure" is Still the Ultimate Ride at Disneyland|''Star Tours'': 'The Ultimate Adventure' is Still the Ultimate Ride at Disneyland}}
+*{{InsiderCite|2|Richard Marquand 1938-1987}}
+*{{InsiderCite|3|Mark Hamill: 10 Years Later}}
+*{{InsiderCite|4|Warwick Davis: An Unlikely Hero}}
+*{{InsiderCite|4|Inside ILM|Inside ILM: Creating the Magic of ''Willow''}}
+*{{InsiderCite|5|Collections|Collections: Foreign ''Star Wars'' Collectibles}}
+*{{InsiderCite|5|Warwick Davis: An Unlikely Hero|Warwick Davis: An Unlikely Hero, Part Two}}
+*{{InsiderCite|6|George Lucas: The Force Behind Lucasfilm}}
+*{{InsiderCite|6|Inside ILM}}
+*{{InsiderCite|23|Star Wars Publications Timeline|''Star Wars'' Publications Timeline}}
+*''[[The Secrets of Star Wars: Shadows of the Empire]]''
+*{{SWArchive|url=episode-vi/classic/2000/07/classic20000703.html|text=Blue Harvest Letdown|archivedate=20041022202801}}
+*{{SW|url=news/marvel-lucasfilm-and-a-new-era-of-star-wars-comics|text=Marvel, Lucasfilm, and a New Era of ''Star Wars'' Comics}}
+*{{SW|url=news/the-star-wars-digital-movie-collection-coming-april-10|text=The ''Star Wars'' Digital Movie Collection Coming April 10}}
+*{{SWYoutube|16YLjTkK5jE|''Star Wars'': Episode VI ''Return of the Jedi'' - Trailer|archivedate=20200620100005}}
+*{{SWYoutube|elvp0H0oM48|''Star Wars'': Episode VI ''Return of the Jedi'' &ndash; Digital Movie Collection Trailer|archivedate=20200109211316}}
+*{{SW|url=news/much-to-learn-you-still-have-9-things-you-might-not-know-about-rodians|text=Much to Learn You Still Have: 9 Things You Might Not Know About Rodians|archivedate=20211101052301}}
+*{{SW|url=news/much-to-learn-you-still-have-10-things-you-might-not-know-about-mon-calamari|text=Much to Learn You Still Have: 10 Things You Might Not Know About Mon Calamari|archivedate=20211111125734}}
+*{{SW|url=news/much-to-learn-you-still-have-8-things-you-might-not-know-about-wookiees|text=Much to Learn You Still Have: 8 Things You Might Know About Wookiees|archivedate=20210518163123}}
+*{{SW|url=news/much-to-learn-you-still-have-7-things-you-might-not-know-about-sullustans|text=Much to Learn You Still Have: 7 Things You Might Not Know About Sullustans|archivedate=20210422070953}}
+*{{SW|url=news/much-to-learn-you-still-have-9-things-you-might-not-know-about-the-aliens-of-star-wars-a-new-hope|text=Star Wars at 40 &#124; Much To Learn You Still Have: 9 Things You Might Not Know About the Aliens of A New Hope|archivedate=20211029110135}}
+*{{SW|url=news/much-to-learn-weequays|text=Much to Learn You Still Have: 8 Things You Might Not Know About Weequays|archivedate=20211101052253}}
+*{{SW|url=news/much-to-learn-kowakian-monkey-lizards|text=Much to Learn You Still Have: 5 Things You Might Not Know About Kowakian Monkey-Lizards|archivedate=20211103211651}}
+*''[[Star Wars: The Lightsaber Collection]]''
+*{{SW|url=series/the-mandalorian/chapter-1-guide|text="Chapter 1: The Mandalorian" Episode Guide}}
+*{{SW|url=series/the-mandalorian/chapter-6-guide|text="Chapter 6: The Prisoner" Episode Guide}}
+*{{SW|url=news/star-wars-best-of-2020|text=''Star Wars'': Best of 2020}}
+*{{BustCollectionCite|1|Behind the Cameras|How the Death Star Was Created}}
+*{{BustCollectionCite|2|Behind the Cameras|Evolution of the Stormtroopers}}
+*{{SWKidsYoutube|c89zqlUwEeo|The Mandalorian &#124; Star Wars Full Circle|archivedate=20210420071607}}
+*''[[Star Wars: The Skywalker Saga: The Official Collector's Edition]]''
+*{{SW|url=series/the-bad-batch/cut-and-run-episode-guide|text="Cut and Run" Episode Guide}}
+*{{SW|url=series/the-bad-batch/rampage-episode-guide|text="Rampage" Episode Guide}}
+*{{SW|url=news/star-wars-summer-reading-list|text=Looking for a ''Star Wars'' Summer Reading List? Found One, You Have!}}
+*{{SW|url=news/the-book-of-boba-fett-chapter-1-highlights|text=The Best of ''The Book of Boba Fett'': 5 Highlights from "Chapter 1: Stranger in a Strange Land"}}
+*{{SW|url=news/the-book-of-boba-fett-chapter-2-highlights|text=The Best of ''The Book of Boba Fett'': 5 Highlights from "Chapter 2: The Tribes of Tatooine"}}
+*{{SW|url=news/the-book-of-boba-fett-chapter-3-highlights|text=The Best of ''The Book of Boba Fett'': 5 Highlights from "Chapter 3: The Streets of Mos Espa"}}
+*{{SW|url=news/ships-of-the-galaxy-naboo-n-1-starfighter|text=Ships of the Galaxy: Naboo N-1 Starfighter|int=Ships of the Galaxy: Naboo N-1 Starfighter}}
+*{{InsiderCite|209|Launchpad}}
+*{{SW|url=news/swca-2022-andor-teaser-trailer-highlights|text=SWCA 2022: 5 Highlights from the ''Andor'' Teaser Trailer}}
+*{{SW|url=news/swca-2022-light-and-magic-panel|text=SWCA 2022: 6 Things We Learned From the ''Light & Magic'' Panel}}
+*{{SW|url=news/swca-2022-star-wars-hunters-panel|text=SWCA 2022: 7 Things We Learned from the ''Star Wars: Hunters'' Panel}}
+*{{SW|url=news/swca-2022-star-tours-35-panel|text=SWCA 2022: 5 Creative Lessons Behind the Making of ''Star Tours''}}
+*{{SW|url=news/swca-2022-marvel-comics-panel|text=SWCA 2022: 8 Things We Learned from the Marvel ''Star Wars'' Comics Panel}}
+*{{SW|url=news/charles-soule-star-wars-interview|text=As His 100th ''Star Wars'' Comic Hits Shelves, Charles Soule Looks Back}}
+*{{SW|url=news/inside-the-lucasfilm-archive-obi-wan-kenobi-props-3|text=Inside the Lucasfilm Archive: A Brewing Rebellion in the ''Obi-Wan Kenobi'' Limited Series}}
+*{{SW|url=news/lucasfilm-publishing-panel-sdcc-2022|text=SDCC 2022: New ''Star Wars: The High Republic'' Tales and More Reveals from the Lucasfilm Publishing Panel}}
+*{{InsiderCite|212|Launchpad}}
+*{{SW|url=news/star-wars-hidden-empire|text=''Hidden Empire'' Revealed: Charles Soule on Marvel's Next ''Star Wars'' Epic &ndash; Exclusive}}
+*{{SWYoutube|wZnPw3xYhjc|Marvel Star Wars #27, MothMadness, and More!|archivedate=20220901191101}}
+*{{SW|url=series/andor/andor-season-1-episode-2-episode-guide|text=''Andor'' &#124; Season 1, Episode 2 &ndash; Episode Guide}}
+*{{SWYoutube|P-L5iHlenRo|Tales of the Jedi Poster Art, Mon Mothma Arrives in Andor, and More!|archiveurl=https://archive.ph/rel2Y}}
+*{{SW|url=news/genevieve-oreilly-andor-interview|text=''Andor'' Actor Genevieve O'Reilly on the Legacy of Mon Mothma}}
+*{{InsiderCite|214|The Princess, the Scoundrel, and the Author}}
+*{{SW|url=news/cavan-scott-tales-from-the-rancor-pit-interview|text=Author Cavan Scott Springs the Trap with ''Tales from the Rancor Pit''}}
+*{{SW|url=news/the-art-of-star-wars-the-high-republic-interview|text="An Indescribably Great Feeling": Author Kristin Baver On Writing ''The Art of Star Wars: The High Republic''}}
+*{{SW|url=news/marvel-february-2023-star-wars-comics-exclusive-preview|text=Sana Starros Strikes Out on Her Own and More from Marvel's February 2023 ''Star Wars'' Comics &ndash; Exclusive Preview}}
+*{{SW|url=news/marvel-comic-jabbas-palace-exclusive-reveal|text=The Illustrious Jabba the Hutt Bids You Welcome to His New Marvel Comic, ''Jabba's Palace'' &ndash; Exclusive Reveal}}
+*{{SW|url=news/star-wars-holiday-gift-guide|text=''Star Wars'' Holiday Gift Guide 2022}}
+*{{SW|url=news/andor-ben-bailey-smith-interview|text=''Andor'''s Ben Bailey Smith on Playing Supervisor Blevin and the Fun of Being Bad}}}}
+
+==Notes and references==
+{{Scroll_box|content={{Reflist}}}}
+
+==External links==
+*{{SW|url=films/star-wars-episode-vi-return-of-the-jedi|text=''Star Wars: Return of the Jedi''}}
+*{{Lucasfilm|url=productions/episode-vi|text=''Star Wars: Return of the Jedi''|archivedate=20190816192352}}
+*{{WP|Return of the Jedi|''Return of the Jedi''}}
+*{{Imdb|title/tt0086190|Star Wars: Episode VI - Return of the Jedi}}
+
+{{Episode_VI_multimedia}}
+{{Star_Wars}}
+
+{{Interlang
+|bg=Междузвездни войни: Епизод VI – Завръщането на джедаите
+|ca=El Retorn del Jedi
+|cs=Star Wars: Epizoda VI Návrat Jediů
+|de=Episode VI – Die Rückkehr der Jedi-Ritter
+|el=Star Wars: Επεισόδιο 6 - Η Επιστροφή των Τζεντάι
+|es=Star Wars: Episodio VI El Retorno del Jedi
+|fa=جنگ ستارگان قسمت ششم: بازگشت جدای
+|fi=Tähtien sota: Episodi VI – Jedin paluu
+|fr=Star Wars épisode VI : Le Retour du Jedi
+|ga=Eipeasóid VI: Return of the Jedi
+|hu=Csillagok háborúja VI: A Jedi visszatér
+|is=Episode VI: Return of the Jedi
+|it=Star Wars Episodio VI: Il ritorno dello Jedi
+|ja=スター・ウォーズ エピソード6/ジェダイの帰還
+|ka=ვარსკვლავური ომები, ეპიზოდი VI: ჯედაის დაბრუნება
+|ko=스타워즈: 에피소드 6 제다이의 귀환
+|nl=Star Wars Episode VI: Return of the Jedi
+|no=Star Wars Episode VI: Jediridderen vender tilbake
+|pl=Powrót Jedi
+|pt=Star Wars Episódio VI: O Retorno de Jedi
+|ru=Звёздные войны. Эпизод VI: Возвращение джедая
+|tr=Star Wars: Bölüm VI Jedi'ın Dönüşü
+|uk=Зоряні війни. Епізод VI: Повернення джедая
+|zh=星球大战VI：绝地归来
+}}
+
+[[Category:Saga films|6]]
+[[Category:1983 releases]]

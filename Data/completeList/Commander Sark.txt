@@ -1,0 +1,94 @@
+{{Infobox character
+|name = Sark
+|image = Sark.png
+|films = ''[[Tron]]''
+|games = ''[[Tron (video game)|Tron]]''<br>''[[Kingdom Hearts II]]''
+|actor = [[David Warner]]
+|voice = [[Corey Burton]] (''[[Kingdom Hearts II]]'')
+|fullname = SARK-ES-1117821
+|alias = The MCP's number two
+|personality = Cold, calculating, violent, loyal to his master
+|appearance = A slender program with antenna-like structures on his head and red circuits over his body
+|occupation = [[Master Control Program|MCP]]'s second-in-command
+|home = [[ENCOM]] Mainframe Computer System
+|minions = [[Red Guard|Red programs]], his lieutenant
+|likes = Obeying the [[Master Control Program|MCP]], torturing enemies
+|dislikes = Any opposition to his master, failing [[Master Control Program|his boss]]
+|powers = Digital command, torturing, colossal size (when upgraded)
+|fate = De-rezzed along with the [[Master Control Program|MCP]]
+|quote = "If you lose your disk, or fail to follow command, you will be subject to immediate de-resolution."<br>"FINISH THE GAME!"
+|alignment = Bad
+|affiliations = [[Ed Dillinger]], MCP
+|weapons = [[Identity Disc]]}}
+{{Quote|Get them! Send out every game tank in the grid! GET THEM!|Sark ordering a pursuit on [[Kevin Flynn|Flynn]], [[Tron (character)|Tron]], and [[Ram]]}}
+'''Commander Sark''' is the secondary antagonist of the [[1982]] science fiction film, ''[[Tron]]''.
+
+==Role in the film==
+Sark is the [[Master Control Program]]'s guardian and second-in-command, who overviews the arrested programs and forces them to play life-threatening games, at which the loser is immediately derezzed. When [[Kevin Flynn]] arrives, he is subjugated by Sark and arrested along the other programs, meeting Tron in the process. After chasing the heroes, he battles Tron at Central Computer Mesa, the Master Control's fortress.
+
+Tron ends up defeating Sark and destroys his identity disc. However, the MCP reanimates Sark's corpse, and as Sark stands up, his size increases to a colossal scale. As Sark was made from the Master Control's data, he is de-rezzed along with his master when Flynn sacrifices himself.
+
+==Video games==
+===''[[Kingdom Hearts II]]''===
+Sark and the [[Master Control Program]] are the main antagonists of Space Paranoids. Sark has been made a [[Heartless]] commander by the MCP, empowering him even more. Not much of Sark is heard of after his first appearance, when he begins to de-rez Donald and Goofy in front of Sora and imprisons the three in the '''Pit Cell'''. Not long after their imprisonment, Sark is called up by the MCP and suggests that Tron is de-resolution but the MCP wants to keep Tron because the latter has access to the password of the [[Door to Darkness|DTD]] database.
+
+His second appearance is at the boss battle against the MCP. Strangely enough, despite having met before, here Sora cannot remember Sark's name until Tron refreshes him. The normal Sark is fought, along with his Identity Disc. Weakened, he tells Tron that they could have made a great team, but Tron flings his Identity Disc at him and knocks him unconscious, as he is more or less a program, and programs can't be killed, only deleted.
+
+Not long after, the MCP revives him and grants all his functions to him, causing him to enlarge. He is a second-hand enemy as his giant-self while you fight the MCP. Like the movie, Sark is defeated along with the MCP, being de-rezzed.
+=== Video Games ===
+===Fall Guys; Ultimate Knockout===
+Commander Sark appeared as a costume in Fall Guys: Ultimate Knockout, each half (top and bottom) being able to do be purchased for 11,000 Kudos each from the in-game shop periodically, with the first instance occurring on May 24th, 2021
+==Trivia==
+* In early test footage, Sark and all of the villains were gone to be blue, but this changed during production. [https://www.youtube.com/watch?v=qVCxFlbXFnU]
+
+==Gallery==
+<gallery widths="150" spacing="small" position="center" captionalign="center">
+Blue Sark.jpg|Originally, Sark and all of the villains were going to be blue. This was changed during production.
+Sark KHII.png|Sark as he appears in ''Kingdom Hearts II''.
+Sark Close up.jpg
+Tron sark.png
+Mcp.jpg
+Sark from TRON.jpg
+MCP and Sark.jpg|Sark communicating with the MCP.
+Tron-commander-sark.png|Sark driving a [[Light Cycles|Light Cycle]].
+SarkTron.jpg
+Tron-disneyscreencaps.com-92.jpg|Sark driving a Light Cycle.
+Tron-disneyscreencaps.com-169.jpg
+Tron-disneyscreencaps.com-3924.jpg|the MCP slowing down Sark's life cycles.
+Tron-disneyscreencaps.com-4905.jpg|Sark recalling what the MCP told him.
+Tron pacman.jpg|Pac-Man can be seen on the right.
+Tron-disneyscreencaps.com-9950.jpg|Sark faces off against Tron.
+Tron-disneyscreencaps.com-10053.jpg|Sark's disc is destroyed.
+Tron-disneyscreencaps.com-10075.jpg|Sark is reanimated by the MCP.
+Tron-disneyscreencaps.com-10102.jpg|Sark gets up.
+SARK.jpg|Sark's 15ft tall.
+Tron-disneyscreencaps.com-10163.jpg|Tron faces off against 15-foot Sark.
+Tron-disneyscreencaps.com-10283.jpg
+Sark dies.jpg|Sark de-rezzes along with the [[Master Control Program|MCP]].
+Sark in magic kingdom on ice.jpg|Sark as seen in [[Magic Kingdom on Ice]] (played by an actor named Kento)
+FallGuyTronSkins.jpg
+</gallery>
+
+{{TronWiki}}
+{{Tron}}
+{{Kingdom Hearts}}
+{{DEFAULTSORT:Sark}}
+[[Category:Villains]]
+[[Category:Programs]]
+[[Category:Kingdom Hearts characters]]
+[[Category:Henchmen]]
+[[Category:Disney characters]]
+[[Category:Males]]
+[[Category:Captains]]
+[[Category:Tron characters]]
+[[Category:Live-action characters]]
+[[Category:Deceased characters]]
+[[Category:Characters]]
+[[Category:Kingdom Hearts Bosses]]
+[[Category:Video game bosses]]
+[[Category:Characters in video games]]
+[[Category:Live-action villains]]
+[[Category:Giants]]
+[[Category:Commanders]]
+[[Category:Bosses]]
+[[Category:Disney on Ice characters]]

@@ -1,0 +1,326 @@
+{{Featured}}
+{{Infobox character
+|image = Profile - Spider-Man.png
+|films = ''[[Mars Needs Moms]]'' (cameo)<br>''Iron Man 2'' (cameo)<ref name="Spider-Man, Iron Man 2 Cameo">{{Cite web|url=http://ew.com/movies/2017/06/27/spider-man-homecoming-director-peter-parker-iron-man-2-cameo/|title=''Spider-Man: Homecoming'' director confirms Peter Parker's ''Iron Man 2'' cameo|website=EW|date=June 27, 2017}}</ref><br>''[[Captain America: Civil War]]<br>[[Spider-Man: Homecoming]]<br>[[Avengers: Infinity War]]<br>[[Avengers: Endgame]]<br>[[Spider-Man: Far From Home]]<br>[[Spider-Man: No Way Home]]<br>[[Spider-Man 4]]'' (upcoming)
+|shows = {{Scroll|''[[Ultimate Spider-Man]]<br>[[The Avengers: Earth's Mightiest Heroes]]<br>[[Phineas and Ferb: Mission Marvel]]<br>[[Hulk and the Agents of S.M.A.S.H.]]<br>[[Avengers Assemble]]<br>[[Marvel Disk Wars: The Avengers]]<br>[[Spider-Man (TV series)|Spider-Man]]<br>[[Guardians of the Galaxy (TV series)|Guardians of the Galaxy]]<br>[[Marvel Future Avengers]]<br>[[Spidey and his Amazing Friends]]<br>[[What If...?]]''<br>''[[She-Hulk: Attorney at Law]]'' (picture)<br>''[[Spider-Man: Freshman Year]]''<ref name="IGN">{{Cite web|url=https://www.ign.com/articles/spider-man-freshman-year-whos-who-daredevil-doctor-strange-and-more-comic-con-2022|title=Spider-Man: Freshman Year Who's Who - Daredevil, Doctor Strange and More <nowiki>|</nowiki> Comic-Con 2022|website=IGN|date=[[July 23]], [[2022]]}}</ref>}}
+|games = {{Scroll|''LEGO Marvel Superheroes''<br>[[Disney Infinity (series)|''Disney Infinity'' series]]<br>''[[Marvel: Avengers Alliance]]<br>Marvel vs. Capcom'' series<br>''[[Marvel: Contest of Champions]]<br>[[Marvel Tsum Tsum (game)|Marvel Tsum Tsum]]<br>LEGO Marvel's Avengers<br>LEGO Marvel Superheroes 2<br>[[Roblox]]'' (outfit)<br>''[[Wikipedia:Spider-Man (2018 video game)|Marvel's Spider-Man]]<br>Marvel Ultimate Alliance 3: The Black Order<br>[[Wikipedia:Spider-Man: Miles Morales Marvel's|Spider-Man: Miles Morales]]<br>[[Marvel's Avengers]]<br>[[Marvel's Midnight Suns]]<br>Marvel's Spider-Man 2'' (upcoming)}}
+|designer = [[Stan Lee]] and Steve Ditko of [[Marvel Comics]]
+|voice = {{Scroll|[[Josh Keaton]] (Original recording on ''EMH'')<br>[[Drake Bell]] (2012-2017)<br>[[James Arnold Taylor]] (''LEGO Marvel Super Heroes'')<br>[[Benjamin Diskin]] (''Lego Marvel Super Heroes: Avengers Reassembled'')<br>[[Robbie Daymond]] (2017-present)<br>[[Yuri Lowenthal]] (''Marvel's Spider-Man'' game series, ''Marvel Ultimate Alliance 3: The Black Order'')<br>{{WikipediaLink|Cole Howard}} (''Marvel Super Hero Adventures'')<br>[[Tom Holland]] ([[Avengers Campus]]/[[Web Slingers: A Spider-Man Adventure]])<br>Benjamin Valic (''Spidey and his Amazing Friends'')<br>[[Hudson Thames]] (''What If...?'')<br>Sean Chiplock (''Marvel's Avengers'')}}
+|inspiration = Spider-Man from [[Marvel Comics]]
+|actor = Max Favreau (''Iron Man 2'')<br>[[Tom Holland]]
+|awards = 3rd on IGN's Top 100 Comic Book Heroes<br>1st on IGN's Top 25 Best Marvel Superheroes
+|fullname = Peter Benjamin Parker
+|alias = {{Scroll box|Spidey<br>Web-Slinger<br>Web-Head<br>Spiderling<br>Crime-Fighting-Spider<br>Spider-Boy<br>Underoos<br>Kid<br>The Amazing Spider-Man<br>Queens<br>The Man of Spiders<br>Wall Crawling Menace<br>Night Monkey<br>Bug Man<br>Dorks (along with [[Ned Leeds|Ned]])<br>Pete<br>Tough Guy<br>Little Boy<br>[[Iron Man|Tony Stark]]'s Ward<br>Clown<br>Little Freak<br>My Favourite Young Adult<ref>[https://www.instagram.com/p/CKl60QbICPv/Avengers Endgame Deleted Scene, on Instagram]</ref><br>My Spider-Lord<ref>[https://mobile.twitter.com/SpiderManMovie/status/1429981786386403330 SM No Way Home Trailer - Official Spider-Man Twitter]</ref><br>Peter-One}}
+|occupation = Student<br>Superhero
+|affiliations = [[Avengers|The Avengers]]<br>Midtown School of Science and Technology
+|home = [[New York City]]
+|likes = Photography, science, justice, sandwiches, meatloaf, fruit cake, lemonade, gummy bears, being a hero, helping others, truth, his idol Captain America, his mentor and father-figure [[Iron Man]], "Poker Face" from Lady Gaga, pop culture, movies, ''[[Star Wars]]'', building [[LEGO]], hanging out with [[Michelle Jones]], math, geometry
+|dislikes = Crime, the people he cares about getting hurt, ill-treatment, ignorance, evil, danger, not being taken seriously, being framed, being under pressure, lies, betrayal, being treated like a child, losing his loved ones
+|powers = {{Scroll|Spider Physiology<br>Spider-Sense/Peter-Tingle<br>Superhuman Strength<br>Speed<br>Agility<br>Reflexes<br>Equilibrium<br>Senses<br>Wall-Crawling<br>Regenerative Healing Factor<br>Indomitable Will<br>Genius Intellect<br>Science Major<br>Skilled photographer<br>Master Acrobat<br>Skilled Combatant<br>Web-swinging}}
+|paraphernalia = [[Web-Shooters]]<br>[[Karen (Marvel)|Karen]]<br>[[E.D.I.T.H.]]<br>Various Spider-Man Suits
+|status = Active
+|parents = Richard Parker † (father)<br>Mary Parker † (mother)
+|family = [[Ben Parker]] † (paternal uncle)<br>[[Aunt May|May Parker]] † (paternal aunt)
+|partner = [[Michelle Jones]] (love interest/(ex-)girlfriend)<br>[[Liz Allan]] (former crush)}}
+{{Quote|I'm just your friendly neighborhood Spider-Man, Sir.|Peter Parker to "[[Talos|Nick Fury]]"|Spider-Man: Far From Home}}
+'''Spider-Man''' (real name '''Peter Benjamin Parker''') is a superhero from [[Marvel Comics]] and is arguably Marvel's most well-known superhero, Spider-Man has appeared in countless media throughout his lifetime. Peter Parker was a high school student bitten by a genetically-altered radioactive spider that granted him spider-like superpowers. However, due to the death of his uncle [[Ben Parker]] or his aunt [[Aunt May|May Parker]], Peter vowed to use his powers responsibly and for good, becoming a superhero known as Spider-Man.
+
+He is one of the later heroes of the [[Marvel Cinematic Universe]], first appearing in ''[[Captain America: Civil War]]'' and later returning in ''[[Avengers: Infinity War]]'' and ''[[Avengers: Endgame]]''. He is also the titular protagonist of ''[[Spider-Man: Homecoming]]'', ''[[Spider-Man: Far From Home]]'' and ''[[Spider-Man: No Way Home]]''. This iteration is portrayed by [[Tom Holland]] in these appearances. For the character's appearance in ''[[What If...?]]'', he was voiced by [[Hudson Thames]]. 
+
+Two versions of Spider-Man who previously appeared in [[Friendly Neighborhood Spider-Man|the ''Spider-Man'' trilogy]] (2002-2007) and [[The Amazing Spider-Man|''The Amazing Spider-Man'' duology]] (2012-2014) return in ''[[Spider-Man: No Way Home]]''. They are portrayed by [[Tobey Maguire]] and [[Andrew Garfield]], respectively.
+
+He also appears in several animated series, as both a recurring protagonist in ''[[The Avengers: Earth's Mightiest Heroes]]'', ''[[Hulk and the Agents of S.M.A.S.H.]]'', and ''[[Avengers Assemble]]'', and as the eponymous main protagonist of ''[[Ultimate Spider-Man]]'' and ''[[Spider-Man (TV series)|Marvel's Spider-Man]]''.
+
+Spider-Man was created by [[Stan Lee]] and Steve Ditko.
+
+==Background==
+===Physical appearance===
+Peter's physical appearance varies between adaptations, but in most cases, he is a Caucasian teenage boy with a slim, yet muscular physical build, due to the radioactive spider bite.
+
+His superhero suit's primary colors are red and blue, with a silhouette of a spider on the chest and the back. The red has a pattern that resembles that of a spider web, with the center of the web being on the topside of his nose. The red and webs only go to the shoulders on the costume. The eyes on the mask are white one-way lenses with a bold black outline.
+
+===Powers and abilities===
+====Powers====
+*'''Spider Physiology:''' Peter has extraordinary arachnid powers and capabilities which make him really amazing. Peter possesses the proportionate powers of a spider, granted to him from an irradiated Common House Spider (Achaearanea tepidariorum) which bit Peter that was apparently already mutated from prior exposure to certain frequencies of radiation and received a final, lethal dose during Peter's attendance of an exhibition he was present at. The radioactive, complex mutagenic enzymes in the spider's blood that were transferred at the time of the bite triggered numerous, body-wide mutagenic changes within Peter, granting him superhuman strength, speed, toughened flesh, and numerous, arachnid-like powers.
+**'''Superhuman Strength:''' Peter can approximately lift 10 tons. Peter's strength lets him lift and throw automobiles and most standard heavy objects, he must always pull his punches unless he is fighting someone the same power status as him or greater. Otherwise his blows would prove fatal.
+**'''Superhuman Leaping:''' As a result of the radioactive spider's bite, Peter can leap much farther than a normal human, easily capable of leaping from one building over a street to the next, enabling him the ability to leap to several feet in a single jump.
+**'''Superhuman Speed:''' Peter can run and move at speeds that are beyond the physical limits of the finest human athlete, Peter has shown to be able to catch up to an accelerating car while on foot, but prefers to travel by webs. Peter moves too fast for the normal human eyesight to see or follow at anyway.
+**'''Superhuman Stamina:''' Peter's advanced musculature produces less fatigue toxins during physical activity than an ordinary human. At his peak, Peter can physically exert himself for several hours before the build up of fatigue toxins in his blood begins to impair him.
+**'''Superhuman Durability:''' Peter's body is physically tougher and more resistant to injury than the body of a normal human. His body is more resistant to impact forces than anything else. He can withstand great impacts, such as falling from a height of several stories or being struck by a super-humanly strong opponent, that would severely injure or kill a normal human with no discomfort. Also, Peter's muscles and flesh are tougher than a normal human's. On one instance, he survived getting backhanded to the ground by a colossal Ant-Man sustaining only a black eye.
+**'''Superhuman Agility:''' Peter's agility, balance, and bodily coordination are all enhanced to levels that are beyond the natural physical limits of the finest human athlete. He is 15 times more agile than a regular human. Peter is extraordinarily limber and his tendons and connective tissues are twice as elastic as the average human being's, despite their enhanced strength. He has the combined agility and acrobatic prowess of the most accomplished circus aerialists and acrobats. He can also perform any complicated sequence of gymnastic stunts such as flips, rolls, and springs.
+**'''Regenerative Healing Factor:''' Peter's metabolism is greater thus allowing him to heal faster than a normal human. He is also more immune to toxins and alcohol and drugs will lose their effects quicker.
+**'''Superhuman Reflexes:''' Peter's reflexes are enhanced to react at an accelerated rate. In combination with his Spider-Sense, the speed of his reflexes allows him to dodge almost any attack, including direct gunfire, even at point blank.
+**'''Superhuman Senses:''' Peter's senses are heightened to superhuman levels, specifically his sight as he no longer needs his glasses after the spider bite.
+**'''Wall-Crawling:''' Peter has super strong hairs on his palms and feet that allow him to stick to any surface. This ability appears to be consciously used and is so far limited to Peter's body (especially concentrated in his hands and feet) and another object, with an upper limit of several tons per finger.
+**'''Spider-Sense:''' Being his most imprint power, Peter possesses the extraordinary ability to sense when danger is about to come before it does; this helps him counter attack the threat before it happens and helps him get ready for what's coming. This power is incorporated in his fighting style. His body begins to produce more adrenaline after the sense is triggered, an extension of the "fight or flight syndrome". A tingling sensation in Peter's skull warns him of danger, where it is coming from and how to avoid it. The stronger the tingling, the more imminent and threatening the danger is. Depending on the incarnation, it can range from being relatively easy to ignore, to triggering reflexive evasive movement against a deadly threat, to causing a sensory overload that does him more harm than good in a battle.
+
+====Abilities====
+*'''Genius-Level Intellect:''' Academically gifted, Peter displays an uncanny affinity for science, mathematics, mechanics, biology, and physics. Peter is very intelligent, specifically in chemistry and physics. He is smart enough to perfect his father's webbing formula and to construct working mechanical web-shooters.
+*'''Science Major:''' Peter is a brilliant individual, with exceptional skill in practically every field of science, and is an excellent inventor. He is an accomplished chemist and physicist. He possesses enough competency in this field to invent his trademark web shooters.
+*'''Master Acrobat:''' Thanks to his great strength and phenomenal equilibrium, Peter is an excellent athlete, excelling in all gymnastic fields and being able to perform every acrobatic stunt ever performed, including others that can never be performed by even an Olympic acrobat. Due to his superhuman physical abilities, Peter easily surpasses normal acrobats and is able to preform somersaults, flips, spins, cartwheels, etc.
+*'''Hand-To-Hand Combatant:''' Thanks to Peter's amazing superhuman physiology, acrobatic powers, and spider sense, he is an excellent hand-to-hand combatant using an improvised fighting style derived from his spider-like powers. His moves utilize a mixture of his superhuman strength, speed, agility, reflexes, spider-sense and web-shooters.
+*'''Web-Slinging:''' Peter uses his web-shooters to travel by swinging on web-lines. Combined with his spider abilities, he can move at amazing speeds throughout the urban chasms of Manhattan. It is unknown how fast, but he seems to be able cover much of the city in a considerable amount of time. This is, by far, his well-known ability.
+
+===Equipment===
+*'''[[Web-Shooters]]:''' When Peter began his career as Spider-Man, he created web-shooters. They are able to shoot web fluids at high pressure and speed. He was later given more advanced Web-Shooters supplied by Tony Stark.  
+*'''Web Fluid:''' Peter's own invention to come with the web shooters. It is used by him to spin web and sling through the city. Peter can modify the fluid after shooting it for certain situation such as using it as a parachute.
+*'''Spider-Signal:''' A red light emitted from Spider-Man's Utility belt in most media, but in ''[[Captain America: Civil War]]'' it is emitted in his Web-Shooters by Tony Stark.
+
+==Appearances==
+===[[Marvel Cinematic Universe]]===
+====''Iron Man 2''====
+A young Peter appears in the film as a cameo, being this his first appearance since Disney bought Marvel. Although never mentioned by name, Tom Holland has confirmed that the child present at the Stark Expo when the Hammer Drones attacked the convention is Peter.<ref name="Spider-Man, Iron Man 2 Cameo" /> During the attack, Peter, wearing an Iron Man replica mask and gauntlets, is confronted by one of the drones but he stands his ground. Before the drone attacks him, it is blasted down by Iron Man who thanks Peter for his "assist" in the fight.
+
+====''[[Captain America: Civil War]]''====
+[[file:Spider-Man Civil War.png|thumb|250px|Spider-Man in ''Captain America: Civil War''.]]
+Spider-Man appears as a teenager who recently-acquired his powers roughly six months before the events of this film. Like prior incarnations, Peter lost his uncle [[Ben Parker|Ben]] shortly after gaining his powers, which motivated him to use his powers responsibly. Donning a makeshift costume, Peter became a local superhero known as "Spider-Man" to help those in need, though he kept his double-life a secret from his [[Aunt May]].
+
+When Peter appears in the film, he is greeted by [[Iron Man|Tony Stark]] at his apartment under the guise of offering the young genius an internship. Due to a background check and research, Tony reveals that he had figured out Peter's secret identity. With this information, Tony enlists Peter to help him take [[Captain America]] into custody; Peter complies on the condition that Tony not tell Aunt May about his secret identity. Afterwards, Tony provides Peter with a superhero suit of his own.
+
+In Leipzig, [[Germany]], Spider-Man assembles with Iron Man, [[Black Widow]], [[War Machine]], [[Vision]], and [[Black Panther]] to catch up with Captain America, but discover that the Captain has also assembled a team: the [[Bucky Barnes|Winter Soldier]], [[Sam Wilson|Falcon]], [[Hawkeye]], [[Scott Lang|Ant-Man]], and [[Scarlet Witch]]. However, Peter is more excited at the chance to be in the company of the Avengers than anything else, let alone have a chance to be one himself.
+
+The two factions of heroes realize that neither side will give in, and are forced to fight one another. Spider-Man is able to hold his own against Falcon and the Winter Soldier, all while babbling excitedly about their abilities and gear, in particular the Winter Soldier's metal arm and Falcon's wings. Later in the fight he goes up against Captain America himself. The inexperienced Peter proves no match for Captain America, but he is impressed by the young hero. He comments that Spider-Man has a good heart, and smiles when he learns that they are both from New York - in Spider-Man's case, Queens, and for the Captain, Brooklyn.
+
+Peter later helps to turn the tide of the fight in favor of Iron Man's side after Ant-Man turns himself into Giant-Man and gives them a run for their money. In a maneuver inspired by "that really old movie ''The Empire Strikes Back''", Spider-Man spins his webs around Giant-Man's legs while Iron Man and War Machine fly over and knock him down. While Peter's plan succeeds, he is injured by Giant-Man in the process. Iron Man sends him home soon after he threatens to call Aunt May if he doesn't listen to him.
+
+Upon returning home, May asks her nephew how he got his bruises. Peter opts for a half-truth, telling her he was in a fight against "Steve from Brooklyn and his huge friend." Once May exits, Peter plays around with his upgraded web shooters, discovering an interesting feature: a Spider-Signal.
+
+====''[[Spider-Man: Homecoming]]''====
+[[File:Spider-Man Homecoming 14.jpg|thumb|250px|Spider-Man in ''Homecoming''.]]
+[[Marvel Studios]] recently announced that they have settled their rights dispute with Columbia Pictures and have partnered with Columbia to produce a Spider-Man movie reboot set in the [[Marvel Cinematic Universe]] that was released on [[July 7]], [[2017]].<ref>http://marvel.com/news/movies/24062/sony_pictures_entertainment_brings_marvel_studios_into_the_amazing_world_of_spider-man</ref> Tom Holland reprises his role as Spider-Man.
+
+Before sending Peter back home, Tony tells Peter that the Spider-Man suit is his to keep, following the events of ''Civil War'', but cautions the teenager not to go looking for trouble. He advises Peter to keep himself safe, and tells him that should the Avengers need him again, Tony will call him. With that, Peter returns to his life with his aunt in Queens as a student at Midtown School of Science and Technology.
+
+Two months later, Peter spends every afternoon patrolling his neighborhood as Spider-Man, but seldom finds any crimes to stop. This interferes with his student and personal life, and using the cover of having an internship at [[Stark Industries]], quits many of his extra-curricular activities, such as band and academic decathlon. One night, Spider-Man spots a group of ATM robbers armed with high-tech weapons. Spider-Man defeats the criminals, but when he tries to tell Tony about his discovery, he learns that the Avengers are preoccupied with moving into their new headquarters. Peter returns home, where his secret identity is discovered by his closest friend, [[Ned Leeds]].
+
+The following night, Ned and Peter are invited to a party hosted by Peter's crush, a senior named [[Liz Allan|Liz Toomes]]. However, Peter leaves early after spotting a strange explosion nearby. The explosion was caused by [[Montana (Marvel)|Montana]], a member of an underground arms dealership that scavenges and sells high-tech gear and weapons to criminals. Peter listens in on Brice trying to sell an arm from an [[Ultron Sentries|Ultron Sentry]] to Aaron Davis, but Spider-Man is discovered and the criminals escape. Spider-Man gives chase, but the men get away and Spider-Man encounters the gang's leader, [[Vulture (Marvel)|Vulture]], who nearly drowns him. Luckily, Peter is rescued by Iron Man, who warns the younger hero to stay out of this.
+
+Hoping to prove himself, Peter doesn't listen to his mentor. He pockets a power source from one of the weapons and plants a tracker on another member of Vulture's crew, [[Shocker]]. Discovering that the crew is going to Maryland, Peter rejoins the academic decathlon team for the finals in Washington, DC. With help from Ned, Peter disables the tracker in his suit and the "Training Wheels Protocol", opening up all of the suit's capabilities. Peter is overwhelmed by all of the features and again is bested by the villains. He spends the night locked in the [[Damage Control]] vault, causing him to miss the decathlon and learn that the power orb he gave to Ned is explosive. By the time he can warn Ned, it's too late - the device has detonated, leaving Ned, Liz, and several other students trapped in a damaged elevator. With help from his suit's AI, Karen, Spider-Man saves the day.
+
+Upon returning to New York, he tracks down and interrogates Aaron Davis. Davis tells the hero that he doesn't trust Vulture either and wants to protect his family, in particular his young [[Miles Morales|nephew]]. He reveals that the Vulture intends to sell several crates of technology on the Staten Island Ferry. Spider-Man finds Vulture in his civilian identity of Adrian Toomes about to sell the scavenged weapons to the criminal [[Scorpion|Mac Gargan]]. Spider-Man captures Gargan, but Toomes escapes and the weapons malfunction, destroying the boat. Spider-Man struggles to use his webs to keep the ferry together, but to no avail. At the last minute, the ferry and everyone on it is rescued by Iron Man.
+
+Angry, Tony confronts Peter for disobeying him and endangering hundreds of lives, and orders Peter to return the Spider-Man suit. Peter abandons his heroic persona and returns to his life as Peter Parker. Slowly, Peter's life returns to normal and he even works up the courage to ask Liz to the school's Homecoming Dance. However, the night of the dance, Peter learns that Adrian Toomes is Liz's father, who in turn deduces that Peter and the Wall-Crawler are one in the same. Toomes is grateful to Peter for saving Liz in DC, but threatens to kill Peter if he ditches the dance to interfere with his plans. Peter realizes that Toomes plans to intercept a Damage Control plane en route to the Avengers' new headquarters. Peter abandons Liz and puts on his homemade Spider-Man suit to stop Vulture.
+
+With help from Ned, Spider-Man tracks down the Vulture. Toomes tries to get Peter to see the issue from his point of view - he's just a man whose life was ruined by the wealthy elites trying to make ends meet for his wife and daughter. Peter remains adamant, and Vulture buries him alive in a collapsed building. Spider-Man gathers the strength to break free and confront the Vulture on the plane. The fight damages the engines, causing the plane to crash onto Coney Island. Peter realizes that the power core of Vulture's suit is also explosive and saves the man with his webbing, leaving a note for the cops.
+
+After Vulture's arrest, a heartbroken Liz and her mother move away. Peter's friend [[Michelle Jones]] replaces her as captain of the academic decathlon team, and Peter is summoned to the new Avengers Compound by Tony Stark. Tony offers Peter a place on the Avengers, but Peter humbly turns him down, intending to remain at street level for the time being. When Peter arrives back in his room, he finds that Tony has returned the Spider-Man suit. Excited, Peter suits up as Spider-Man, just in time for Aunt May to walk in, shocked.
+
+====''[[Avengers: Infinity War]]''====
+Spider-Man returns in ''Avengers: Infinity War''. While on a school bus en route to [[Wikipedia:Museum of Modern Art|MoMA]], Parker notices an alien warship hovering over New York, and heads toward the conflict to assist Stark in battling [[Cull Obsidian]], a henchman of [[Thanos]]' [[Black Order]]. Meanwhile, [[Doctor Strange|Stephen Strange]] is defeated and captured by Black Order member [[Ebony Maw]], and Stark tasks Parker with rescuing Strange. In his attempts to rescue Strange, Parker is pulled onto the fuselage of the warship as it ascends into space. Before Peter can suffocate from the lack of oxygen, Stark summons the [[Iron Spider Armor]], which locates and attaches itself to Parker. Parker boards the ship and assists Stark in locating Strange. The two locate Strange as he is tortured by Maw in an attempt to acquire the Infinity Stone in Strange's possession, the [[Eye of Agamotto]] - the Time Stone. At Parker's suggestion, he and Stark utilize a plan inspired by the film ''[[Wikipedia:Aliens (film)|Aliens]]'' in order to rescue Strange, by distracting Maw and blasting a hole into the side of the ship. Maw is sucked out into the vacuum of space and subsequently killed. Stark and Strange debate how to defeat [[Thanos]], and Stark officially recruits Parker into the Avengers.
+
+The three then pilot the ship to Thanos' homeworld of [[Titan]], where they crash-land and are attacked by several of the [[Guardians of the Galaxy (team)|Guardians of the Galaxy]]. A standoff ensues, with Parker held at gunpoint by [[Star-Lord|Peter Quill]] and [[Drax the Destroyer]] held by Stark. The conflict is soon resolved as Stark realizes Quill is from Earth, and all parties are in pursuit of Thanos. As the Avengers and Guardians deduce how defeat Thanos, Strange meditates and concludes that, out of over a million possible realities, there is only one possible future in which they defeat Thanos. Soon after, Thanos himself arrives, and the heroes engage him in battle. They manage to subdue Thanos and nearly succeed in removing Thanos' [[Infinity Gauntlet]]. However, whilst in his dazed state, Thanos reveals that, in exchange for the Soul Stone, he had reluctantly sacrificed his daughter [[Gamora]], Quill's lover and fellow Guardian. Enraged, Quill attempts to shoot and kill Thanos, which only serves to knock the Mad Titan back into consciousness. Thanos then overpowers the heroes, and manages to steal the Eye of Agamotto from Strange. As Thanos deduces that the Eye as a fake, Stark attacks him, but is quickly defeated, with Thanos destroying much of his Iron Man armor, stealing his sword and gravely injuring him with it. As Thanos prepares to kill Stark, Strange offers up the real Eye of Agamotto to spare Stark's life. Thanos accepts, adding the Time Stone to the Gauntlet. Quill again attempts to attack Thanos, but Thanos opens a portal and escapes to [[Wakanda]] on Earth.
+
+[[File:The Death of Spider-Man.png|thumb|250px|Spider-Man is obliterated by [[Thanos]].]]
+Thanos then takes on the ground forces in Wakanda, comprised of [[Captain America|Steve Rogers]], [[Black Panther|T'Challa]], [[Black Widow|Natasha Romanoff]], [[War Machine|James Rhodes]], [[Bucky Barnes]], [[Sam Wilson]], [[Scarlet Witch|Wanda Maximoff]], [[Okoye]], [[M'Baku]], the [[Dora Milaje]], the Jabari Tribe, [[Vision]], [[Thor Odinson|Thor]], [[Groot]], and [[Rocket Raccoon|Rocket]]. As Thanos overpowers them, Maximoff kills her lover, Vision, in an attempt to destroy the Mind Stone embedded in his forehead. She succeeds, but Thanos uses the Time Stone to reverse time, resurrecting Vision. Thanos then rips the Mind Stone from Vision's forehead, killing him again. Thanos adds the Mind Stone to the Gauntlet, completing his collection. Thor immediately attacks him, impaling him with the Stormbreaker, but not lethally. Thanos snaps his fingers with the completed Infinity Gauntlet, allowing him to wipe half of life in the universe from existence, killing Barnes, Groot, Maximoff, T'Challa, Wilson, and half of the Wakandan army. On Titan, Drax, Mantis, Quill, and Strange also disintegrate into dust as [[Nebula]], Parker, and Stark watch in horror. Soon, Parker himself begins to slowly disintegrate, resisting the effects of Thanos' actions. Parker can only weep and apologize to Stark before he fades into dust, leaving Stark and Nebula stranded on Titan, with Stark to quietly mourn his young friend's death.
+
+====''[[Avengers: Endgame]]''====
+[[File:Peter Parker (Endgame).png|thumb|Peter Parker returns to school.]]
+After [[Hulk|Bruce Banner]] uses a recreated Infinity Gauntlet to reverse the Decimation, Spider-Man, and those who were wiped away by Thanos, were resurrected. Spider-Man joins the other superheroes into battling Thanos' army. Parker reunites with his mentor [[Iron Man|Tony Stark]] as his mentor hugs him, much to his surprise and Spiderman returns the hug. He also tries his best to keep the Infinity Gauntlet away from Thanos. Spider-Man witnessed Tony using the Infinity Gauntlet to eliminate Thanos and his forces once and for all. Peter shares a tearful goodbye, as his mentor succumbs to his wounds of using all six Infinity Stones at once. Sometime later, Peter returns to Midtown High, where he is reunited with Ned Leeds. Peter and his Aunt May later attend the funeral of Tony Stark, along with all of Stark's friends, in order to pay their respect for the fallen Avenger.
+
+====''[[Spider-Man: Far From Home]]''====
+[[File:Spider-Man_(Far_From_Home).png|thumb|Spider-Man in "Far From Home"]]
+Peter goes on summer vacation with his classmates to Europe, hoping to spend some time off of being Spider-Man. However, he is soon forced to team up with [[Talos|Nick Fury]] and [[Mysterio]] to fight mysterious forces known as the Elementals. It's revealed that when he disintegrated and came back (or as it's referred in the universe as "blipped"), he didn't age. Peter has also fallen in love with his classmate [[Michelle Jones]] and plans to tell her how he feels on the trip. However, things don't go so as easily as Peter hoped as he has to battle against Mysterio in London to stop his illusions.
+
+After many missed opportunities, Peter finally gets to tell MJ he loves her by giving her the necklace he brought her in Venice. Peter and MJ share their very first kiss and they start a relationship when they are on their way back to New York. Just as things are going well for Peter - he saved the world and got the girl of his dreams - Spider-Man's identity is revealed to the world through edited footage, created by Mysterio claiming that Peter was responsible for the attacks across the world, much to Peter's horror.
+
+====''[[What If...?]]''====
+Spider-Man/Peter Parker appears in episode 5, "[[What If... Zombies!?]]", voiced by [[Hudson Thames]]. Peter saves Bruce Banner after he is almost attacked by a zombie version of Iron Man. Peter helps Bruce, [[Bucky Barnes]], [[Sharon Carter]], [[Hope van Dyne]] and T'Challa save the world from a zombie plague outbreak. Peter is very sad when he finds out [[Happy Hogan]] has been turned into a zombie, and that Hope was infected. When Hope asks how he manages to remain so optimistic, Peter says that he is sad that he lost him after losing Aunt May, Tony Stark and his [[Ben Parker|Uncle Ben]], but he has to be hopeful and keep smiling because they would want him to keep moving on. After [[Vision]] sacrificed himself and allowed them to have the [[Infinity Stones|Mind Stone]], which can cure the infected, Spider-Man escapes Camp Leigh with [[Black Panther|T'Challa]] and [[Scott Lang]].
+
+====''[[Spider-Man: No Way Home]]''====
+{{Quote|Ever since I got bit by that spider, I've only had one week where my life has felt normal.|Peter Parker to [[Michelle Jones|MJ]]|Spider-Man: No Way Home}}
+
+Because of Mysterio's bombshell revelation, intense controversy begins to surround Peter, [[MJ]], and [[Ned Leeds]], which gets them rejected from every college they apply to. Peter himself avoids legal trouble thanks to his lawyer [[Daredevil|Matt Murdock]]. To get his friends back into MIT consideration, he visits Doctor Strange to make Spider-Man's identity a secret again. But since the spell is absolute on who it affects, Peter amends it multiple times to make the ones closest to him exempt from its effects. However, this makes the spell unstable, forcing Strange to contain it. With help from Strange and [[Flash Thompson]], Peter reaches an MIT administrator and tries to appeal his and his friends' applications. When [[Doctor Octopus]] of another universe attacks him, Peter saves the MIT administrator from peril, winning her support.
+
+After Strange captures Doc Ock and [[Lizard]], he directs Peter and his friends to find other multiversal visitors who were also brought into this universe through the failed spell. They find [[Electro]] and [[Sandman]] and take them to the Sanctum Sanctorum, along with [[Green Goblin|Norman Osborn]], who he befriends. Peter learns that Doc Ock, Osborn, and Electro had died fighting the Spider-Men of their universes, leading him to betray Strange to stop him from reversing the corrupted spell and send every one of them home. After a confrontation, Peter traps Strange within the Mirror Dimension. He takes the visitors to [[Happy Hogan]]'s apartment to cure them of their negative qualities and avert their supposed fates, but is only able to cure Doc Ock before Osborn unwillingly transforms into the [[Green Goblin]], leading the others to flee. After the Goblin fatally wounds [[Aunt May]], she lectures her nephew that "with great power, there must also come great responsibility" before dying.
+
+A guilt-ridden Peter goes silent, prompting MJ and Ned to try finding him with the latter opening portals with Strange's magic. They instead summon two alternate Spider-Men, who were also pulled here by the failed spell: "[[Friendly Neighborhood Spider-Man|Peter-Two]]" (who fought the Goblin, Doc Ock, Sandman, [[Venom]], and [[Harry Osborn|New Goblin]] in the 2000s ''Spider-Man'' trilogy) and "[[The Amazing Spider-Man|Peter-Three]]" (who fought Lizard, Electro, and [[Rhino (Marvel)|Rhino]] in ''The Amazing Spider-Man'' films) before finding their younger Spider-Man in mourning. The group revitalize Peter's spirits with the alternate Spider-Men sharing their own experiences of loss to make him realize that he's not alone: Peter-Two had lost his [[Ben Parker|Uncle Ben]] to a murder and killed the man he thought did it at the time, while Peter-Three is haunted with his failure to save his girlfriend [[Spider-Gwen|Gwen Stacy]] from falling to her death. Afterwards, the group head into a classroom laboratory to engineer cures for their collective adversaries, before luring them to the Statue of Liberty.
+
+Peter takes command of the trio due to his experience as an Avenger compared to the two, who operate alone. Sandman, Lizard, and Electro are subsequently cured by Peter-Two, Peter, and Doc Ock respectively. Peter-Two reunites with Doc Ock for the first time in years, while Peter-Three reconciles with Electro and helps lift his spirits. When the Goblin returns, he frees the corrupted spell, which tears this realm apart and opens it up for other otherworldly individuals to invade this universe. He also causes MJ to fall from the Statue of Liberty, and Peter-Three saves her after her Peter is unable to, making up for his past failure. Peter confronts the Goblin alone and nearly beats him to death in his vengeful rage, but Peter-Two forces him to stand down, which gets him stabbed in the back. As the Goblin taunts Peter about May's death, Peter-Three provides him with an anti-serum engineered by Peter-Two, allowing him to eliminate the Goblin and restore Osborn back to normal.
+
+Fortunately, Peter-Two's wound wasn't fatal. Peter embraces his alternate selves before leaving to see Strange, who was accidentally freed from the Mirror Dimension by Ned. Strange is unable to hold the realm together due to the Goblin's damage, prompting Peter to suggest casting a new spell to make any memory of "Peter Parker" completely forgotten to the world. He relents, and Peter meets up with MJ and Ned for a final time, exchanging one last handshake with his best friend and a final kiss with his girlfriend. Promising to return, he departs as Strange unleashes the new spell, which repairs the realm, sends everyone home, and makes everyone entirely oblivious to Peter's existence. Weeks later, Peter tries to reconnect with his friends, but decides not to follow through after being reminded of the injuries MJ sustained during the skirmish on the Statue of Liberty. When he visits May's grave to pay his respects, he runs into Happy and shares an exchange with him, becoming inspired to continue her mantra of service and responsibility.
+
+Peter moves into a run-down apartment with his belongings, which include a GED study guide. Abandoning his dependence on Stark technology, he crafts a brand new suit from scratch and resumes his vigilantism.
+
+====''[[Spider-Man: Freshman Year]]''====
+Peter appears in this show. Set before the events of ''[[Captain America: Civil War]]'', it shows Peter's first months as Spider-Man.
+
+===Marvel Animated Universe===
+====''[[Ultimate Spider-Man]]''====
+[[File:Ultimate Spider-Man team.png|thumb|left|250px|Spider-Man with his Team.]]
+Peter Parker had a normal life, meeting Mary Jane, Harry, and Flash at some point of time. His parents died when he was young. This was dramatically changed after being bitten by a radio-active spider, which gave him his spider-like powers. At first, Peter used his powers for personal gain as a wrestler to win prize money. His Uncle Ben noticed Peter changing and tried to talk to him, telling him, "With great power comes great responsibility". Ben would later become the victim of a crook Peter let escape, it was here that Peter finally realised that he had the power to stop that criminal and he did not; he lost his uncle because he did not do what was right. With that guilt and Ben's words driving him, Peter turned to becoming the Superhero Spider-Man using his powers to fight for justice and foil crime.
+
+After one year as a vigilante Spider-Man stops the Trapster from robbing a money car. [[Nick Fury|Fury]] appears behind him offering him a membership to S.H.I.E.L.D. but rejects the offer and leaves. He met the Frightful Four (sans Trapster) and fought them. He escaped by going into the ventilation shaft. Harry got injured in the fight and Peter feels responsible for it. He then decided to join S.H.I.E.L.D. and got taken in by Fury. Paired with a group of teenage superheroes consisting of [[Luke Cage|Power Man]], [[Iron Fist]], [[White Tiger]], and [[Nova]], Spider-Man fights off an array of criminals and other threats with the S.H.I.E.L.D. organization.
+
+Throughout the course of the series, Spider-Man has faced a myriad of foes, including [[Doctor Octopus]], [[Taskmaster]], [[Green Goblin]], and even [[Venom]] (a being engineered from his own DNA), as well as several heroes like the Avengers. During this time, Spider-Man's fights alongside his team allows them to grow closer together and mature into stronger heroes, eventually expanding his team with other young superheroes.
+
+====''[[Avengers Assemble]]''====
+Spider-Man appears in the ''[[Avengers Assemble]]'' series, making various appearances and a few cameos in the show.
+
+====''[[The Avengers: Earth's Mightiest Heroes]]''====
+[[File:AEMH The Amazing Spider-Man.png|thumb|250px|Spider-Man in ''EMH''.]]
+Peter Parker first appears working at the Daily Bugle when he was assigned by J. Jonah Jameson to take pictures as Betty Brant interviewed [[Captain America]], who was facing public distrust at the time due to being replaced by a Skull beforehand. They were attacked by the Serpent Society, whom were trying to free transported prisoner Madame Hydra. As Captain America was getting beaten by the villains, Peter changed into his Spider-Man outfit and swung in to help him. This caused the two to plummet into a tunnel underneath New York. They kept Madame Hydra in captivity as they were attacked once again by the Serpent Society. Despite being outnumbered, the two managed to beat them and were found by Iron Man and the other Avengers present at the time.
+
+After the battle, Spider-Man was upset to find that Jameson had, once again, made him out to be a menace, with the Daily Bugle front page reading: "Captain America Saves NY from Spider-Man and the Serpent Society". After he bade Captain America farewell, Spider-Man mentioned that he was going to web J. Jonah's mouth shut for that.
+
+Sometime later, after a battle with Kang the Conqueror lead to the timeline being unraveled and the Avengers disappearing, Iron Man ordered [[JARVIS]] to activate the New Avengers protocol - a program that would select a new team of Avengers formed from the allies of the originals, meant to take up the team's role if they were ever killed. While Spider-Man swung throughout the city fighting through enemies from various eras, he met up with [[Wolverine]] who saved him from a pack of raptors as they were on their way to Stark Tower they have [[Iron Fist]], [[Luke Cage]], [[Thing]], and [[War Machine]] to help.
+
+Stark's pre-recorded message told both of them that they needed to take up the job as New Avengers. While these New Avengers were, at first, helpless to stop Kang, Spider-Man was able to form a plan that allowed him to stop Kang's plan and return the original Avengers to the timeline, saving the world in the process. As a reward for his hard work and dedicated service, the team decided to make Spider-Man an honorary reserve member of the Avengers.
+
+Spider-Man is summoned with the rest of Earth's heroes to the battle against [[Galactus]] and his heralds. He along with [[War Machine]], [[Quake]], [[Captain America]], and [[Iron Fist]] are sent to deal with Terrax and destroy his tower. When Galactus was about to devour the planet, he thought it was all over. He was amazed when the Avengers created a Negative Zone portal and sent Galactus through it. After the crisis had ended, Spider-Man was seen left the area along with the other heroes.
+
+====''[[Phineas and Ferb: Mission Marvel]]''====
+[[File:Spider-Man.png|thumb|250px|Spider-Man as he appears in ''Phineas and Ferb''.]]
+Spider-Man made an appearance in the hour-long special in [[2013]]. He first appears web-swinging his way to a battle in New York City between his friends Iron Man, [[Hulk]], and [[Thor Odinson|Thor]] and the group of villains consisting of [[Red Skull]], [[MODOK]], [[Whiplash]], and his nemesis [[Venom]]. He began aiding his allies, but their powers are drained from [[Heinz Doofenshmirtz]]'s Inator. Spider-Man is the first to discover this after he finds out he can no longer crawl on walls. After the team contacts S.H.I.E.L.D., they discover that the beam that drained their powers originated from a satellite made in Danville, specifically from two boys [[Phineas Flynn|Phineas]] and [[Ferb Fletcher|Ferb]].
+
+With the rest of the team, Spider-Man travels to Danville to seek the boys' help in restoring their powers, as well as meeting an avid fan of them, [[Candace Flynn|Candace]]. The boys take them to their base of operations, S.H.E.D., and help create temporary powers for the team to use, however Candace accidentally messes up with the machine, causing it to give the team each power to the wrong owner. As a result, Spider-Man earns Hulk's strength. The heroes then see a breaking news story about the attack at the Googolplex Mall and decide they need to be there. Phineas and Ferb help out in the Beak suit and transport all the heroes there.
+
+However, when they get to the mall, the heroes' inexperience of using each other's powers causes them to easily fall at the hands of the villains. As Red Skull proclaims the heroes' defeat, Perry enters in a superhero suit and rescues the heroes. Afterwards, Phineas has everyone regroup in S.H.E.D. and come up with a Plan B. In S.H.E.D., where Buford, Baljeet, and Candace are rebuilding the power-duplicating machine, where the heroes' powers had since faded since they do not match the host's structure for the respective powers. Fortunately, the machine's first aspect, recreating Hulk's powers, is almost finished; however, Candace prematurely plugs it in, and Baljeet is zapped, turning into Hulkjeet and smashes the machine, charging out of S.H.E.D.
+
+The team then witnesses on TV that Red Skull now has a Power-Drain-inator he has threatened on the people unless they come and stop him. Despite being powerless, the heroes agree to fight anyway, with Thor explaining that "Being a hero isn't the armor you wear, but the metal in your spirit and the steel in your resolve." Spider-Man promptly ruins the moment with quips.
+
+Spider-Man along with Hulk, Thor, and Iron Man then travel downtown via bus to confront the villains while the villains await the heroes' arrival. When they do show up, they are almost immediately trapped.
+
+Suddenly, Hulkjeet shows up along with The Beak and Perry, while Doofenshmirtz begins firing waffles from his Waffle-inator from the D.E.I. balcony. Spider-Man takes advantage of the distraction to snatch the mundanium finite core from the -inator, and the villains begin chasing the heroes in order to retrieve the core. The heroes quickly gain momentum while keeping the core away.
+
+He then passes the reactor core off to his allies attempting to keep the core away from the villains, causing the core's orbs to break off. However, the orbs are ultimately recovered by the villains who rebuild the core and activate the Power-Drain-inator. But at that moment, the boys' space station lands on the machine, destroying it. Candace and Isabella depart from the station to return the stolen powers, which were revealed to be in the data collection tank, [[Feelin' Super|giving the heroes their powers back]]. As the villains emerge from under the station, the heroes fight against them and emerge victorious.
+
+Once the battle is over, S.H.I.E.L.D. arrives and arrests the villains. As the heroes depart, Spider-Man says that the juice box will be his treat for Phineas next time. The Helicarrier departs as the heroes wave goodbye.
+
+====''[[Spidey and his Amazing Friends|Spidey and his Amazing Friends]]'' ====
+[[Spider-Man|Peter Parker]] (Benjamin Valic) must discover what it takes to become a truly amazing hero: being a spider friend who works well with others. Together with his friends [[Spider-Man (Miles Morales)|Miles Morales]] (Jakari Fraser) and Gwen (AKA [[Spider-Gwen|Ghost-Spider]]) ([[Lily Sanfelippo]]), they will team up with heroes such as [[Hulk]], [[Black Panther]], and [[Ms. Marvel]] (Sandra Saad), to defeat evil foes and learn that teamwork is the best way to save the day.
+
+==Video games==
+===''[[Disney Infinity (series)|Disney Infinity]]''===
+Spider-Man appears in the ''[[Disney Infinity: 2.0 Edition]]'' ''Spider-Man'' Play Set by protecting [[New York City]] from [[Green Goblin]] and [[Venom]]'s symbiote forces. He is also playable in the Marvel Battlegrounds Play Set for ''[[Disney Infinity: 3.0 Edition|3.0]]''. A version of him in his black suit is also playable, being available as both a figure and Costume Change Power Disc.
+
+===''Marvel vs. Capcom'' series===
+Spider-Man appears as a playable character in the [[Capcom]] fighting game ''Marvel Super Heroes'', and one of the most-well known veteran fighters in ''Marvel vs. Capcom'' series: ''Marvel Super Heroes vs. Street Fighter'', ''Marvel vs. Capcom: Clash of Super Heroes'', ''Marvel vs. Capcom 2: New Age of Heroes'', ''Marvel vs. Capcom 3: Fate of Two Worlds'', and ''[[Marvel vs. Capcom: Infinite]]''.
+
+==[[Walt Disney Parks and Resorts|Disney Parks]]==
+[[File:Spider-Man-With-New-Suit-at-Disney-California-Adventure-15.jpg|thumb|250px|Spider-Man posing for a photo at [[Disney California Adventure]].]]
+Spider-Man currently makes meet-and-greet appearances at the [[Walt Disney Studios Park]] in [[Disneyland Park (Paris)|Disneyland Paris]], which began at some point in [[2014]]. The news about Spider-Man doing meet-n-greets was confirmed by Andrew Garfield, during ''The Amazing Spider-Man 2'' premiere in [[France]].
+
+The meetable version of Spider-Man is the ''Amazing Spider-Man'' version, while the front & back spider symbols are based on the classic version.
+
+He also began doing meet-and-greets at [[Super Hero HQ]] in the Tomorrowland Expo Center starting on [[November 16]], [[2015]] in the [[Tomorrowland (Disneyland)|Tomorrowland]] section of [[Disneyland]] in California. He is currently doing meet-and-greets at [[Disney California Adventure]] in [[Hollywood Land]] along with [[Captain America]].
+
+In addition, Spider-Man does meet-and-greets with Captain America at [[Shanghai Disneyland]] in the Marvel Universe attraction located in the [[Gardens of Imagination]] section of the park.
+
+Spider-Man's walkaround character had a redesign for the Paris stunt show, as showcased in superhero land concept art and will be used in all future meet and greets as well as in the 2 new Spider-Man rides which will be implemented at [[Disney's California Adventure]] and [[Walt Disney Studios Park]] in [[Disneyland Paris]].
+
+This new version, along with [[Captain Marvel]] and [[Black Panther]], could be seen at [[Hong Kong Disneyland]] outside where [[Ant-Man and The Wasp: Nano Battle!]] is currently located, opposite to the [[Iron Man Tech Showcase]].
+
+==Relationships==
+{{Relationshipslink}}
+
+==Gallery==
+{{Gallerylink}}
+
+==Trivia==
+*Early concept art for ''[[Journey Into Imagination]]''<nowiki/>'s Literature scene featured Spider-Man as a representative for comic books. This piece of artwork would later be used on the hardcover collection of ''[[Disney Kingdoms: Figment]]'' under the dust jacket.
+*In ''[[Captain America: Civil War]]'', Peter says "when you can do the things that I can, but you don't... and then the bad things happen, they happen because of you", it seems to be another way to phrase "with great power there must also come great responsibility", which is the motto that Peter learns from [[Uncle Ben]] in the Sam Raimi's ''Spider-Man'' films. The phrase means that people with amazing abilities like Peter have a duty to use those abilities to help others rather than use them for personal gain. Later, those are the final words of Aunt May to Peter in ''Spider-Man No Way Home''.
+*''[[Ultimate Spider-Man]]'' ''[[Spider-Man (TV series)|Marvel's Spider-Man]]'' and ''[[Spidey and his Amazing Friends]]'' are the 9th 10th and 11th animated incarnations of Peter Parker as Spider-Man respectively. Previous versions include ''Spider-Man'' (1967), ''Spider-Woman'', ''Spider-Man'' (1981), ''Spider-Man and His Amazing Friends'', ''Spider-Man: The Animated Series'', ''Spider-Man Unlimited'', ''Spider-Man: The New Animated Series'', and ''The Spectacular Spider-Man''.
+*The Spider-Man from ''Earth's Mightiest Heroes'', was originally voiced by [[Josh Keaton]], who was his voice actor on ''The Spectacular Spider-Man''. To promote ''Ultimate Spider-Man'', [[Drake Bell]] overdubbed Josh Keaton's role after Josh had already recorded all his lines.
+*In the comics and many previous incarnations, Peter Parker works as a freelance photographer at the Daily Bugle. He has also worked as a professor and the owner of his own company.
+*''Ultimate Spider-Man'' is among the only incarnations of Peter Parker in which he has blue eyes as opposed to hazel or brown.
+*At the time of Marvel's acquisition by Disney, Spider-Man's film rights had been owned and continue to be owned by [[Columbia Pictures]], a subsidiary of [[Sony Pictures Entertainment]]. Columbia has had the film rights since 1999.<ref>[https://www.webcitation.org/5u0xRRQoB?url=http://www.eonline.com/uberblog/b37970_Cameron_Spun_Out_of_Spider-Man_Movie.html "Cameron Spun Out of Spider-Man Movie" - E! (4/5/1999)]</ref> Columbia has done two series of Spider-Man films; the first trilogy was directed by [[Sam Raimi]] and starred [[Tobey Maguire]], and the next duology was directed by Marc Webb and starred [[Andrew Garfield]]. In addition, Columbia also produced an animated film titled ''Spider-Man: Into the Spider-Verse''. After the under-performance of ''The Amazing Spider-Man 2'' at the box office, Marvel announced a collaboration with Sony to bring Spider-Man into the [[Marvel Cinematic Universe]] with a new actor, which ended up being [[Tom Holland]]. Disney's [[Marvel Studios]] handles the production of the Marvel Cinematic Universe Spider-Man films, whereas Sony handles marketing and distribution and receives the full box office gross of all solo Spider-Man films; however, Sony allows Disney to use Spider-Man in crossover films that involve the [[Avengers]], in which cases Disney receives the full box office gross, and conversely, Disney allows Sony to use characters from the Avengers as guest characters in the Spider-Man films, such as [[Iron Man]] in ''[[Spider-Man: Homecoming]]''. Disney controls all merchandising rights to Spider-Man.
+**At some point, however, Sony decided to terminate their agreement with Disney, meaning that Marvel Studios can no longer use the character in the MCU. As of September 27, 2019, Sony and Disney made a new deal that would feature Spider-Man returning to the MCU in a third film and a team-up film until they have to renegotiate again. Disney remains able to use Spider-Man within animation and merchandising, as Sony sold the merchandising rights for the character in 2011, before the agreement to share the character's film rights, which occurred in 2015.
+**It was later announced on July 13th, 2020 that Tom Holland would have more time as Spider-Man within the [[Marvel Cinematic Universe]]. Future movies will feature Peter Parker being in college and life as an adult.
+*Spider-Man was referenced to in the Marvel Cinematic Universe for the first time in ''[[Ant-Man (film)|Ant-Man]]'', in which a "webslinger" was mentioned.
+*At the end of ''Spider-Man: Homecoming'', he accidentally revealed his secret identity to his Aunt May. This moment, which also ocurrred in the Ultimate Comics Universe (no relation to the animated series ''Ultimate Spider-Man''), was something that [[Kevin Feige]] wanted to bring on-screen, along with the moment Peter is trapped in rubble (which comes from the comics storyline "If this be my Destiny"). This is rendered moot when [[J. Jonah Jameson]] reveals Peter's identity to the entire world.
+*When creating the character, [[Stan Lee]] found himself repulsed at the idea of a web coming out of a human hand. Spider-Man was hence given mechanical web-shooters, which also proved useful for stories that involved running out of webbing in critical situations. Additionally, Peter Parker's intellectual capacities are demonstrated by the fact that said mechanical web-shooters are self-created.
+**However, some incarnations of Spider-Man are capable of shooting organic webs, such as in the Sam Raimi continuity.
+*Peter's relationship with Mary Jane Watson doesn't exist in the MCU. Instead Peter falls in love with [[Michelle Jones]], a fellow high school student and their relationship officially starts in the second film.
+**Peter falling in love with Michelle Jones references Peter's relationship with Mary Jane Watson (who Michelle is inspired by) from the comics, although the two MJs are two very different characters. 
+*Someone is seen dressed in a brown Spider-Man costume in the ''[[Ducktales]]'' episode [[Bubbeo & Juliet]].
+*Spider-Man appeared on the cover of Disney Adventures Volume 5, Issue 13.
+*Peter's birthday is August 10th, 2001, this is a reference to the first appearance of Spider-Man, ''[[w:c:marvel:Amazing Fantasy Vol 1 15|Amazing Fantasy #15]]'', which was published on August 10th, 1962.
+**Peter's birthday is exactly two months after Michelle Jones' birthday, which is June 10, 2001. Peter and Michelle are the only ones among their friends to have their birthdays known and revealed.
+**In real life, Tom Holland and [[Zendaya]], MJ, have their birthdays exactly 3 months apart, with Holland being older.
+*Up until the point of ''Captain America: Civil War'', Peter had never been on a plane.
+*Peter and MJ's actors, Tom Holland and Zendaya, ended up falling in love off-screen in 2021 and started dating during filming ''[[Spider-Man: No Way Home]]''.
+*In the MCU, Peter mentions his [[Ben Parker|Uncle Ben]] for the first time in the episode "[[What If... Zombies!?]]" from the series ''[[What If...?]]''.
+*When they meet up in ''Spider-Man: No Way Home'', the other other two Peters are referred to as Peter-Two ([[Tobey Maguire]]) and Peter-Three ([[Andrew Garfield]]). Marvel.com takes this further by referring to Maguire's version as "[[Friendly Neighborhood Spider-Man]]" and Garfield's version as "[[The Amazing Spider-Man]]".<ref>[https://comicbook.com/movies/news/spider-man-no-way-home-spoilers-marvel-names-tobey-maguire-andrew-garfield-spider-men-nicknames/ Spider-Man: No Way Home Names Tobey Maguire and Andrew Garfield's Spider-Men]</ref>
+*Peter is mentioned during a season 6 episode of the TV show ''Brooklynn Nine-Nine'', by characters Jake and Gina. Gina says "Peter Parker wasn't mad at the spider that bit him" and Jake responds with "Yeah, but he wasn't friends with the spider for 20 years".
+*Before Tom Holland was cast as Spider-Man, Matt Lintz, who portrays [[Bruno Carrelli]], was among the top three actors in the running to play Spider-Man.<ref>{{Cite web|url=https://www.insider.com/matt-lintz-auditioned-spider-man-ms-marvel-2022-6|title='The Walking Dead' star Matt Lintz was in the running to play Spider-Man years ago before he was cast on 'Ms. Marvel'|website=Insider|date=[[June 3]], [[2022]]}}</ref>
+
+==References==
+{{Reflist}}
+
+==See also==
+*[[Friendly Neighborhood Spider-Man]]
+*[[The Amazing Spider-Man]]
+
+==External links==
+*{{WP|Peter Parker (Marvel Cinematic Universe)}}
+*{{Marvel.com|universe/Spider-Man}}
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Spider-Man|Marvel Cinematic Universe Wiki}}
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/6/6d/Marvel_Database_Favicon.png|marvel|Peter Parker (Earth-199999)|Marvel Comics Database}}
+*{{Interwiki|https://vignette3.wikia.nocookie.net/thedailybugle/images/6/64/Favicon.ico|thedailybugle|Spider-Man|Ultimate Spider-Man Wiki}}
+*{{Interwiki|https://vignette3.wikia.nocookie.net/marvelanimated/images/6/64/Favicon.ico|marvelanimated|Spider-Man (Marvel Universe)|Marvel Animated Wiki}}
+*[[w:c:Heroes fabin:Spider-Man (Marvel |Spider Man]] on [[w:c:Heros:Spider-Man|Heroes Wiki]]
+*[https://hero.fandom.com/wiki/Spider-Man_(Marvel_Cinematic_Universe) Spider Man (Marvel Cinematic Universe) | Heroes Wiki]
+
+{{Wikipedia}}
+{{USMWiki}}
+{{Marvel Cinematic Universe}}
+{{Marvel Animated Universe}}
+{{Phineas and Ferb}}
+{{Disney Infinity}}
+{{DisneyTsumTsum}}
+
+[[es:Spider-Man]]
+[[fi:Hämähäkkimies]]
+[[fr:Spider-Man]]
+[[nl:Spider-Man]]
+[[pl:Spider-Man]]
+[[pt-br:Homem-Aranha]]
+[[ru:Человек-паук]]
+[[Category:Marvel Comics characters]]
+[[Category:Superheroes]]
+[[Category:Teenagers]]
+[[Category:Phineas and Ferb characters]]
+[[Category:Heroes]]
+[[Category:Ultimate Spider-Man characters]]
+[[Category:Spider-Man characters]]
+[[Category:Marvel's Spider-Man characters]]
+[[Category:Spider-Man: Freshman Year characters]]
+[[Category:Athletes]]
+[[Category:Scientists]]
+[[Category:Students]]
+[[Category:Lovers]]
+[[Category:Males]]
+[[Category:Protagonists]]
+[[Category:Animated characters]]
+[[Category:Nephews]]
+[[Category:Hulk and the Agents of S.M.A.S.H. characters]]
+[[Category:The Avengers: Earth's Mightiest Heroes characters]]
+[[Category:TV Animation characters]]
+[[Category:Avengers Assemble characters]]
+[[Category:American characters]]
+[[Category:Marvel Disk Wars: The Avengers characters]]
+[[Category:Disney Infinity characters]]
+[[Category:Tsum Tsum characters]]
+[[Category:Characters in Disney parks]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Live-action characters]]
+[[Category:Captain America characters]]
+[[Category:Characters in video games]]
+[[Category:The Avengers characters]]
+[[Category:Characters who narrate the story]]
+[[Category:Guardians of the Galaxy characters]]
+[[Category:Those brought back to life]]
+[[Category:Spidey and his Amazing Friends characters]]
+[[Category:Disney Junior characters]]
+[[Category:Acquired characters]]
+[[Category:Adults]]
+[[Category:Iron Man characters]]
+[[Category:Engineers]]
+[[Category:Inventors]]
+[[Category:Avengers Campus characters]]
+[[Category:Disney XD characters]]
+[[Category:Orphans]]
+[[Category:Characters who break the Fourth Wall]]
+[[Category:Alternate Timeline Versions]]
+[[Category:What If...? characters]]
+[[Category:Mutants]]

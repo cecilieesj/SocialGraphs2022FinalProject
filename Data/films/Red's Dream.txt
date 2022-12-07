@@ -1,0 +1,57 @@
+{{Infobox Film
+|image = Title-redsdream.jpg
+|director = [[John Lasseter]]
+|producer = Karen Dufilho-Rosen<br>John Lasseter
+|writer = John Lasseter
+|music = David Slusser
+|studio = [[Pixar Animation Studios]]
+|distributor = [[Buena Vista Pictures]]
+|release = [[July 10]], [[1987]]
+|time = 4 minutes
+|imdb_id = 0093832
+|website = https://www.pixar.com/reds-dream
+}}'''''Red's Dream''''' is a [[1987]] computer-animated short film produced by [[Pixar|Pixar Animation Studios]].
+
+==Plot==
+The film is about a red unicycle named [[Red (Red's Dream)|Red]], who dreams of becoming the star in a circus act. In its dream, a clown called [[Lumpy the Clown|Lumpy]] is seen riding Red and juggling. He almost drops one of the balls, but Red bounces it with one of his pedals and gives it back to Lumpy. Lumpy accidentally dismounts Red and continues juggling (and "pedaling") until he suddenly notices that he isn't riding Red, and falls to the ground, at which time Red begins to juggle the balls, and when it finishes, the crowd cheers. It starts to bow, and then soon wakes up, realizing it was just a dream. Sad at this realization, Red slowly goes back to the clearance section of the bike store, and it falls back to sleep.
+
+==Production==
+According to [[John Lasseter]], Ed Catmull wanted the Pixar staff to make a film using the Pixar Image Computer and the rendering software Chapreyes. Lasseter began to develop the story of a circus clown who is upstaged by his own unicycle while at the same time, animators William Reeves and Eben Ostby starting working on their own separate ideas. Ostby had wanted to animate a bicycle, and Reeves began working on a city during a rainy night. Ultimately, the three combined their ideas, which resulted in the creation of ''Red's Dream''.
+
+==Trivia==
+*On the wall near the Clearance Section, a clock can be seen with a picture of André from the short ''[[The Adventures of André & Wally B.]].''
+*Towards the end, after Red has its dream, a [[Luxo, Jr. (character)|Luxo lamp]] is visible to the left of the Andre clock.
+*The floor on the circus ring during the dream is a texture of a [[Pixar Ball|ball]] from ''[[Luxo, Jr.]]''
+*This is the only [[Pixar]] short that was never released with a Pixar film, thus making it only available on compilation home video releases (see above).
+*Red and Lumpy appear in a cameo in ''[[Toy Story 2]]'' on the television screen in Andy's room.
+*Red is seen in ''[[WALL-E (film)|WALL-E]]'' as part of [[WALL-E (character)|WALL-E]]'s collection, right after he is launched into the side of its home.
+*When viewers first see inside the shop, opposite to the bikes is a poster from Bill Reeves and Alain Fournier's [[1986]] animation test, ''{{WikipediaLink|Flags and Waves}}''.
+*The name Red's Dream appears on a book in ''[[Toy Story]]''.
+*This is the only Pixar film that used the [[Pixar Image Computer]] for rendering. The computer was powerful enough to support the entire Reyes rendering system, so they had to trim down the software to only a few basic functions (called ChapReyes). Due to the limitations, only the dream sequence of the film is rendered on the Pixar Image Computer, and there is no motion blur.
+*The short won Europe's top award for computer animation "The Prix Ars Electronica" in [[1988]].<ref>Amidi, Amid (2009). ''[https://www.amazon.com/Art-Pixar-Short-Films/dp/0811866068 The Art of Pixar Short Films]''. San Francisco, CA: Chronicle Books LLC.</ref>
+
+==Gallery==
+<gallery position="center" captionalign="center" widths="185">
+Red-leaning-on-wall.jpg| Red the unicycle
+Woodytintoybookbetter.jpg|Red's Dream on a book in the background of ''[[Toy Story]]''.
+Redtoystory2.jpg|Red on the television screen in ''[[Toy Story 2]]''.
+Lumpytoystory2.jpg|Lumpy on the television screen in ''Toy Story 2''.
+Editsjpg.jpg|A cameo of [[Luxo, Sr.]]
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Interwiki|https://vignette.wikia.nocookie.net/pixar/images/6/64/Favicon.ico|pixar|Red's Dream|Pixar Wiki}}
+
+[[es:Red's Dream]]
+[[fr:Red's Dream]]
+[[pt-br:Sonho do Red]]
+[[zh:Red的梦]]
+[[it:Il sogno di Red]]
+[[Category:Animated shorts]]
+[[Category:Pixar shorts]]
+[[Category:1987 shorts]]
+[[Category:Pixar]]
+[[Category:Featured shorts]]

@@ -1,0 +1,70 @@
+{{Infobox character
+|image = GICU-2 - DuckTales.png
+|name = GICU-2
+|films = 
+|shorts = 
+|shows = ''[[DuckTales]]''
+|games = 
+|rides = 
+|actor = 
+|actress = 
+|animator = 
+|voice = [[Hal Smith]]
+|model = 
+|designer = 
+|inspiration = [https://en.wikipedia.org/wiki/RoboCop_(franchise)#ED-209 ED-209]
+|awards = 
+|fullname = 
+|alias = 
+|personality = Cold
+|appearance = A van (when docile), robot/crane (when functional)
+|occupation = Security robot
+|alignment = Neutral (when controlled)<br> Bad (when rogue)
+|affiliations = [[Gyro Gearloose]] (inventor)
+|goal = Protect Scrooge's [[The Money Bin|Money Bin]] at all costs
+|home = [[Duckburg]]
+|family = 
+|pets = 
+|friends = 
+|minions = 
+|enemies = [[Fenton Crackshell|Gizmoduck]], [[Scrooge McDuck]]
+|likes = Obeying commands
+|dislikes = Intruders
+|powers = 
+|possessions = 
+|weapons = Laser guns, rockets, grenade launcher, wrecking ball, cream pies
+|fate = Gets destroyed by Gizmoduck
+|quote = "Intruder."}}
+{{Quote|I see you. Hurt. Maim. Destroy.|GICU-2}}
+
+'''"GICU-2" '''is a security robot character in the TV series ''[[DuckTales]]''. It was created by [[Gyro Gearloose]] and its sole appearance is in ''[[Super DuckTales]]'', specifically the episodes "Frozen Assets" and "Full Metal Duck". 
+
+==Role in the Series==
+After having a terrible time keeping his fortune out of the hands of the [[Beagle Boys]], [[Scrooge McDuck]] seeks aid from his inventor friend [[Gyro Gearloose]]. Though busy with his own personal projects, Gyro agrees and builds a security robot capable of disguising itself as a van.
+
+At the grand debut, Gyro initializes GICU-2 and mentions that the machine is now fully automatic, adding that there is no further need for the remote control. However, GICU-2 immediately sees the discarded device as an intruder and destroys it. To make matters worse, it views everyone in sight as a threat, including Scrooge himself.
+
+Gyro looks to make amends by creating a robotic suit, which manages to fall under the control of [[Fenton Crackshell]]. Fenton, as Gizmoduck, reluctantly accepts Scrooge's request to get rid of the rogue robot. Having minimal success, Gizmoduck decides to push all of his buttons as a final resort, causing his suit to balloon out. This makes the perfect target for GICU-2, now having transformed into a crane, to use its wrecking ball on. However, after being launched into the sky, Gizmoduck comes crashing down onto the overzealous menace, destroying it for good.
+
+==Gallery==
+<gallery spacing="small" position="center" captionalign="center">
+GICU-2 - DuckTales B.png|GICU-2 on standby
+GICU-2 - DuckTales C.png
+GICU-2 - DuckTales D.png|GICU-2's pov
+GICU-2 - DuckTales E.png|Gizmoduck's turn
+GICU-2 - DuckTales F.png|Audio assault.
+GICU-2 - DuckTales G.png|A brief glimpse at the cream pie (just for humiliation's sake)
+GICU-2 - DuckTales I.png|Defeated
+</gallery>
+
+{{DuckTales}}
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Donald Duck universe characters]]
+[[Category:DuckTales characters]]
+[[Category:Robots]]
+[[Category:The Disney Afternoon characters]]
+[[Category:Those destroyed]]
+[[Category:TV Animation characters]]
+[[Category:Villains]]
+[[Category:Animated characters]]

@@ -1,0 +1,47 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image =
+|name = The Jungle Book 2
+|director = [[Jon Favreau]]
+|producer = 
+|writer = Justin Marks
+|starring =Neel Sethi 
+|music =John Debney 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Studios]]
+|distributor = 
+|release =
+|time = 
+|language = English
+|budget = 
+|gross = 
+|preceded = ''[[The Jungle Book (2016 film)|The Jungle Book]]''
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = }}
+'''''The Jungle Book 2''''' is a sequel to the [[2016]] film ''[[The Jungle Book (2016 film)|The Jungle Book]]''. Following the film's early financial and critical success, the studio has begun working on a sequel. Favreau is reported to return as director and Neel Sethi is reported to reprise his role of Mowgli, while screenwriter Justin Marks is also in negotiations to return.<ref>{{cite web | url=http://www.hollywoodreporter.com/heat-vision/jungle-book-2-works-jon-882624 | title='Jungle Book 2' in the Works With Jon Favreau, Justin Marks (Exclusive) | work=The Hollywood Reporter | date=April 11, 2016 | accessdate=April 12, 2016 | first=Borys | last=Kit}}</ref> It was announced on April 25, 2016 that Favreau and Marks will return to direct and write.<ref>{{cite news|last=McClintock|first=Pamela|title=Disney Stakes Out Release Dates for 'Jungle Book 2,' 'Maleficent 2' and More|url=http://www.hollywoodreporter.com/news/disney-stakes-release-dates-jungle-887415|publisher=''The Hollywood Reporter''|date=April 25, 2016|accessdate=April 25, 2016}}</ref><ref>{{cite news|title=Disney Claims Dates for Several New Movies; Confirms ‘Jungle Book 2,’ ‘Mary Poppins’ Sequel|last=Lang|first=Brent|url=http://variety.com/2016/film/news/disney-claims-dates-for-several-new-movies-confirms-jungle-book-2-mary-poppins-sequel-1201760227/|publisher=''Variety''|date=April 25, 2016|accessdate=April 25, 2016}}</ref><ref>{{cite web|url=http://collider.com/lion-king-jungle-book-2-jon-favreau-interview/|title=Jon Favreau Offers Updates on ‘The Lion King’ and ‘The Jungle Book 2’|publisher=Collider|last=Foutch|first=Haleigh|date=December 1, 2016}}</ref> The film will feature elements from [[Bill Peet]]'s scrapped material and from Rudyard Kipling's original novel.<ref>https://www.slashfilm.com/the-jungle-book-2-details/</ref>
+
+==Cast==
+*Neel Sethi as [[Mowgli]]
+*[[Bill Murray]] as [[Baloo]]
+*[[Ben Kingsley]] as [[Bagheera]]
+*[[Lupita Nyong'o]] as [[Raksha]]
+*[[Christopher Walken]] as [[King Louie]]
+
+==References==
+{{Reflist}}
+{{The Jungle Book}}
+{{DEFAULTSORT:Jungle Book 2, The}}
+[[Category:Films]]
+[[Category:The Jungle Book]]
+[[Category:Live-action films]]
+[[Category:Sequel films]]
+[[Category:Disney films]]
+[[Category:Films based on books]]
+[[Category:Films about animals]]
+[[Category:Remakes]]
+[[Category:Upcoming]]

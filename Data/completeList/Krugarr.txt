@@ -1,0 +1,38 @@
+{{Infobox character
+|image = Krugarr.jpg
+|films = ''[[Guardians of the Galaxy Vol. 2]]''
+|fullname = Krugarr
+|affiliations = [[Ravagers]]
+|powers = Magic
+|status = Active}}
+'''Krugarr''' is a [[Marvel Comics]] character who appears in ''[[Guardians of the Galaxy Vol. 2]]''.
+
+==Appearances==
+===''[[Guardians of the Galaxy Vol. 2]]''===
+Krugarr is a lem, a race of beings that have red skin and a worm-like body. He is a [[Masters of the Mystic Arts|Master of the Mystic Arts]] who left [[Kamar Taj]] to become one of the members of [[Stakar Ogord]]'s [[Ravagers|Ravager]] Clan, and he participated to many adventures and fight across the galaxy. Since [[Yondu Udonta]] was exiled on the Clan, the team itself was disbanded and Krugarr never saw his team-mates again for many years.
+
+Some years later, after the battle on Ego's Planet, Yondu died and sacrificed for [[Star-Lord]]. Stakar finally forgived Yondu and later the Clan reunited and assembled again as a team to steal some stuff.
+
+==Trivia==
+*In the [[w:c:marvel:Earth-691|alternative 31st Century of Earth-691]], Krugarr is a Lem sorcerer and the disciple and successor of [[Doctor Strange]] as the Sorcerer Supreme.
+
+==Gallery==
+<gallery position="center">
+Krugarr Art.PNG
+</gallery>
+{{CharacterStub}}
+{{Marvel Cinematic Universe}}
+[[Category:Live-action characters]]
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Guardians of the Galaxy characters]]
+[[Category:Anti-heroes]]
+[[Category:Bounty hunters]]
+[[Category:Aliens]]
+[[Category:Magic Users]]
+[[Category:Superheroes]]
+[[Category:Silent characters]]
+[[Category:Mercenaries]]
+[[Category:Males]]
+[[Category:Sorcerers]]
+[[Category:Acquired characters]]

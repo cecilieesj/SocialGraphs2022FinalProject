@@ -1,0 +1,66 @@
+{{Infobox character
+|image = Agent Rodriguez - Profile.png
+|name = Agent Rodriguez
+|films = 
+|shorts = 
+|shows = ''[[WandaVision]]''
+|games = 
+|rides = 
+|animator = 
+|designer = 
+|voice = 
+|actor = 
+|actress = Selena Anduze
+|model = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = 
+|occupation = [[S.W.O.R.D.]] agent
+|affiliations = S.W.O.R.D.
+|home = 
+|likes = 
+|dislikes = 
+|powers = 
+|paraphernalia =
+|status = Active
+|family =
+|pets = }}
+
+{{Dialogue2|Hayward|Still under control?|Rodriguez|[[Vision#White Vision|He]]'s still ours.|attr=[[Director Hayward]] and Agent Rodriguez|src=The Series Finale}}
+
+'''Agent Rodriguez''' is a character in the [[Marvel Cinematic Universe]], featured in the [[Marvel Studios|Marvel]] [[Disney+]] series, ''[[WandaVision]]''. She is agent of [[S.W.O.R.D.]], and closely associated with [[Director Hayward]]. She is based outside of [[ Westview]], to investigate the disappearance of the towns residents, as well as her colleague, [[Monica Rambeau]], and how [[Scarlet Witch|Wanda Maximoff]] factors into their investigation. She makes her debut in the [[We Interrupt This Program|forth episode]], and is portrayed by Selena Anduze.
+
+==Appearances==
+===[[Marvel Cinematic Universe]]===
+====''[[WandaVision]]''====
+Agent Rodriguez is part of the ensemble of [[S.W.O.R.D.]] agents, brought in and based outside of [[Westview]], to investigate Captain [[Monica Rambeau]]'s disappearance. The team discover that Westview is impenetrable, and work on a means of breaking through. When [[Director Hayward]] arrives, she reports on all the data they have managed to processes through, but reveals they're unable to find any significant breakthrough in the case. At that moment, Rodriguez is drawn to an old television set, at [[Darcy Lewis]]'s desk, who reports on her new findings, which showcase [[Scarlet Witch|Wanda Maximoff]] and [[Vision]], in Westview, and the subjects of a 1950s black and white, American-styled sitcom. Hayward demands an immediate analysis, and sends everyone back to their working station. The team later learn that all of Westview's residents have been given new identities, to fit in with the the new reality, and [[Jimmy Woo]] later briefs everyone on identifying the towns individuals. S.W.O.R.D. flies an imaging drone into the town and followings its entrance in the perimeter, the drone changes form. The team manage to take an image, and find it to be the only thing in color, surrounded by black and white scenery. Rodriguez hands this over to Woo, and when he asks why she had it colored, Rodriguez reveals she didn't.
+
+Rodriguez later attends a meeting, in which Hayward briefs the team on what they've discovered on Westview, and Wanda Maximoff.
+
+Following Hayward and Wanda's showdown, Rodriguez watches Hayward get into an argument with Monica, Darcy and Woo, and has them removed from the base. When Hayward tracks Vision by the borders of Westview, he has Rodriguez and his other men travel, so they can reach him. The group watch as Vision struggles to pass through the barrier, and when he does, he begins dying, as his body starts disintegrating. Following this, the Hex begins to expand, and Rodriguez manages to get into a car, with Hayward, and two other colleague. The group drive off, and begin accelerating in a effort to escape the Hex's grasp. Hayward tries to contact his team, and turns to Rodriguez, but she indicates that communication with everyone else has been lost.
+
+Rodriguez joins a temporary retreat, set eight miles outside of Westview. She watches the Hex, when Director Hayward joins her, and she comments that it was lucky for them, that the Hex stopped expanding. Hayward sarcastically replies how lucky he feels, and asks about the broadcast. Rodriguez reveals it's dead air and the signal's gone. He tells her to make sure the team has everything they need, for their launch today, and Rodriguez returns to the base.
+
+She looks upon the newly constructed body of Vision, and Hayward tells her that they took it apart and put it back together a million times, trying various types of way to reactivate, when all they needed, was energy from the Hex. She looks upon the missile, thrown at Hayward by Wanda, containing residue of her powers, and being used to bring back the android. Agent Rodriguez asks if he's ready, and when he signals he is, she looks upon Vision, as his body is transformed white, and he is brought back online.
+
+Rodriguez appears alongside Hayward, while he is tracking the two Visions, who are both inside Westview, beyond the Hex. She informs him the White Vision's system is overloaded, and they can't get anything through. When Hayward questions whether he's still under their control, she confirms it. When the barrier is lowered, she travels alongside a group of S.W.O.R.D. agents into the Hex. They successfully infiltrate Westview, before the Hex is brought up, and a group of personnel  surround Wanda and her family. Rodriguez is in the car, with Director Hayward, but he exits, and she witnesses him attempt to shoot [[Billy Maximoff|Billy]] and [[Tommy Maximoff]].
+
+==Gallery==
+<gallery position="center">
+WandaVision - 1x04 - We Interrupt This Program - Darcy and Woo.jpg
+</gallery>
+
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Rodriguez (S.W.O.R.D.)|Marvel Cinematic Universe Wiki}}
+
+{{Marvel Cinematic Universe}}
+{{DEFAULTSORT:Rodriguez}}
+[[Category:WandaVision characters]]
+[[Category:Females]]
+[[Category:Adults]]
+[[Category:S.W.O.R.D. agents]]
+[[Category:Live-action characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:American characters]]
+[[Category:Henchmen]]

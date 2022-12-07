@@ -1,0 +1,57 @@
+{{Infobox film
+|image = Thebarnyardconcertcolorized.jpg
+|name = The Barnyard Concert
+|director = [[Walt Disney]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = [[Walt Disney]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[April 5]], [[1930]]
+|time = 
+|preceded = ''[[Fiddling Around]]''
+|followed = ''[[The Cactus Kid]]''
+}}
+'''''The Barnyard Concert''''' is a black and white [[Mickey Mouse|''Mickey Mouse'']] animated short. It was released on [[April 5]], [[1930]].
+
+==Synopsis==
+Mickey leads an orchestra of barnyard animals. The barnyard band performs the "'''Dichter und Bauer'''" (Poet and Peasant) overture by '''Franz von Suppe'''.
+
+==Characters==
+*[[Mickey Mouse]]
+*[[Horace Horsecollar]]
+*[[Clarabelle Cow]]
+
+==Trivia==
+*The film's copyright was renewed on [[December 16]], [[1957]].<ref>[https://archive.org/details/catalogofcopyrig3111213li/page/110/mode/1up Catalog of Copyright Entries (1957 renewals)]</ref>
+*This short marks the first time Mickey would play the role of a conductor. Mickey would go on to conduct in a number of films, most notably ''[[The Band Concert]]'' and ''[[Symphony Hour]]''.
+
+==Releases==
+===Television===
+* ''[[The Ink and Paint Club]]'', episode #1.44: "Musical Mickey"
+
+===Home video===
+* ''[[Walt Disney Treasures]]: Mickey Mouse in Black and White, Volume 2'' (DVD)
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150">
+11705.jpg
+11706.jpg
+11707.jpg
+11710.jpg
+11711.jpg
+11712.jpg
+Mickey looking at pigs.jpg
+Barnyard concert 1.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Template:Mickey-Series}}
+
+{{DEFAULTSORT:Barnyard Concert, The}}
+[[Category:Animated shorts|Barnyard Concert, The]]
+[[Category:Mickey Mouse shorts|Barnyard Concert, The]]
+[[Category:1930 shorts]]

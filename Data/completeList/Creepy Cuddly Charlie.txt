@@ -1,0 +1,31 @@
+{{Template:Infobox character
+|imageBG = 
+|name = Charlie
+|shows = ''[[Doc McStuffins]]''
+|voice = [[Tom Kenny]]
+|appearance =
+|image = Charlie (Doc McStuffins).png
+|imagesize = 300
+|alignment = Good|actor=}}
+'''Creepy Cuddly Charlie''' is a monster who appears in the ''[[Doc McStuffins]]'' episode "[[Hide and Eek!]]". While playing hide-and-seek, the toys were scared of Charlie at first because they thought he was a real monster. But when [[Lambie]] got stuck in a tree, Charlie helped her, even though he couldn't speak clearly.
+
+==Appearance==
+Charlie is a yellow-orange monster with three eyes, red horns on his head, a set of wings, an aquamarine tummy, a pair of green tentacles and dark green toenails.
+
+==Appearances==
+*"[[Hide and Eek!]]"
+*"[[Toy in the Sun]]"
+*"[[Doc's Dream Team]]"
+*"[[Lambie Gets the Linties]]"
+
+==Gallery==
+<gallery spacing="small" position="center">
+charlie as he appears in doc's summertime clinic.jpg|Creepy Cuddly Charlie as he appears in the game Doc's Summertime Clinic
+</gallery>
+
+{{Doc McStuffins}}
+[[Category:Doc McStuffins characters]]
+[[Category:Males]]
+[[Category:Toys]]
+[[Category:Disney Junior characters]]
+[[Category:Characters]]

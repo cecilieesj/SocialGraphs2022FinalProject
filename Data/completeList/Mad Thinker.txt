@@ -1,0 +1,56 @@
+{{Infobox character
+|name =Mad Thinker
+|image =Mad_Thinker_EMH.jpg
+|films =
+|shows =''[[The Avengers: Earth's Mightiest Heroes]]''
+|nationality =
+|games =
+|rides =
+|actor =
+|actress =
+|voice =[[Danny Mann]]
+|animator =
+|model =
+|designer =
+|inspiration =The Marvel Comics character of the same name.
+|awards =
+|fullname =
+|alias =
+|personality =
+|appearance =
+|birthday =
+|occupation =
+|alignment = Bad
+|affiliations =
+|goal =
+|home =
+|family =
+|pets =
+|friends =[[Whirlwind]]
+|minions =
+|enemies =[[Henry Pym]], [[Fantastic Four (team)]]
+|likes =
+|dislikes =
+|powers =
+|weapons =
+|fate =
+|quote =}}
+The '''Mad Thinker''' is a [[Marvel Comics]] supervillain with an amazing ability to calculate the outcome of events.
+
+The Mad Thinker was created by [[Stan Lee]] and [[Jack Kirby]].
+
+==Appearances==
+===''[[The Avengers: Earth's Mightiest Heroes]]''===
+He was an inmate of the Big House along with [[Whirlwind]], who he tells he has a plan to escape. [[Henry Pym]] visited him regarding his conversation with Whirlwind. When the prison's security fails he escapes.
+
+{{CharacterStub}}
+{{Marvel Animated Universe}}
+[[Category:Marvel Comics characters]]
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:The Avengers: Earth's Mightiest Heroes characters]]
+[[Category:Villains]]
+[[Category:Acquired characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Adults]]

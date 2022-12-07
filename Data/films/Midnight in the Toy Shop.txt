@@ -1,0 +1,45 @@
+{{Infobox film
+|name = Midnight in a Toy Shop
+|image = Ss-mignightinatoyshop-redux.jpg
+|imagewidth = 250px
+|director = [[Wilfred Jackson]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = [[Marcellite Garner]]<br>[[Walt Disney]]
+|music = Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[July 3]], [[1930]]
+|preceded = ''[[Arctic Antics]]''
+|followed = ''[[Night]]''
+}}
+'''''Midnight in a Toy Shop''''' is a ''[[Silly Symphony]]'' that debuted on [[July 3]], [[1930]].
+
+==Summary==
+A spider seeks shelter inside an old toy store, where he soon discovers that the merchandise comes to life after dark.
+
+==Censorship==
+Television airings remove the entire dance routine with the black doll. 
+
+==Copyright info==
+The film's copyright was renewed on [[December 16]], [[1957]].<ref>[https://archive.org/details/catalogofcopyrig3111213li/page/115/mode/1up Catalog of Copyright Entries (1957 renewals)]</ref>
+
+==Gallery==
+<gallery position="center" captionalign="center">
+12505.jpg
+12506.jpg
+12507.jpg
+12510.jpg
+12511.jpg
+12512.jpg
+Midnight toy shop.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Silly Symphony}}
+[[Category:Silly Symphonies]]
+[[Category:Animated shorts]]
+[[Category:1930 shorts]]

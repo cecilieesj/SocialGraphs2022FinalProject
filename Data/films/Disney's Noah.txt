@@ -1,0 +1,50 @@
+{{Infobox film
+| name           = Disney's Noah
+| image          = File:Noah 1998.jpg
+| image_size     =
+| caption        =
+| director       = Ken Kwapis
+| producer       = Steven North
+| writer         = Juliet Giglio<br>Keith Giglio<br>Charles F. Bohl
+| narrator       =
+| starring       = [[Tony Danza]]<br>[[Wallace Shawn]]<br>Jane Sibbett
+| music          =
+| cinematography = Ron Orieux<br>Brian Whittred
+| editing        =
+| distributor    = [[Buena Vista Television]]
+| release       = [[October 11]], [[1998]]
+| time        = 120 minutes
+| country        = [[United States]]
+| language       = English
+| budget         =
+| gross          =
+| preceded_by    =
+| followed_by    =
+|imdb_id = 0158828}}
+'''''Disney's Noah''''' is a [[1998]] television film directed by Ken Kwapis. The movie premiered on [[October 11]], 1998 and stars [[Tony Danza]] as a modern-day carpenter tasked with building an ark. It also stars [[Wallace Shawn]] and Jane Sibbett.
+
+==Plot==
+In order to save his family and home town, carpenter Norman Waters ([[Tony Danza]]) is tasked by an angel named Zach ([[Wallace Shawn]]) to rebuild Noah's Ark in 40 days to prepare for a great massive flood.
+
+==Cast==
+* [[Tony Danza]] - Norman Waters
+* [[Wallace Shawn]] - Zach
+* Jane Sibbett - Angela
+* Chris Marquette - Daniel Waters
+* Jesse Moss - Levon Waters
+* Michal Suchánek - Benny Waters
+
+==Gallery==
+<gallery>
+1998-arche-1.jpg
+1998-arche-2.jpg
+1998-arche-4.jpg
+</gallery>
+
+{{Wikipedia|Noah (1998 film)}}
+{{DISPLAYTITLE:''Disney's Noah''}}
+[[Category:Articles with Wikipedia content]]
+[[Category:1998 films]]
+[[Category:Live-action films]]
+[[Category:Films]]
+[[Category:Disney films]]

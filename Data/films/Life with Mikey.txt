@@ -1,0 +1,70 @@
+{{Infobox film
+|name = Life with Mikey
+|image = Life with mikey xlg.jpg
+| caption = Theatrical release poster
+| director = James Lapine
+| producer = Scott Rudin<br>Marc Lawrence
+| writer = Marc Lawrence
+| starring = [[Michael J. Fox]]<br>[[Nathan Lane]]<br>Cyndi Lauper<br>[[Christina Vidal]]
+| music = [[Alan Menken]]
+| cinematography = Rob Hahn
+| editing = [[Robert Leighton]]
+| studio  = [[Touchstone Pictures]]
+| distributor = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures]]
+| released = [[June 4]], [[1993]]
+| runtime = 91 minutes
+| country = United States
+| language = English
+| budget = $2 million
+| gross = $12,440,858
+|release = [[June 4]], [[1993]]
+|time = 106 minutes
+|imdb_id = 0107413}}
+'''''Life with Mikey''''' (also known as '''''Give Me a Break''''') is a [[1993]] comedy film starring [[Michael J. Fox]], [[Christina Vidal]], [[Nathan Lane]], Cyndi Lauper, and David Krumholtz.
+
+==Plot==
+Mikey Chapman ([[Michael J. Fox]]), a former child star and now a talent agent for child stars, discovers Angie Vega ([[Christina Vidal]], in her first movie), a girl who pick-pockets for money and lives with her teenage sister and her boyfriend. Together, they try to hit it big and earn her a role on a series of television commercials.
+
+==Cast==
+*[[Michael J. Fox]] as Michael "Mikey" Chapman
+*[[Christina Vidal]] as Angie Vega
+*Cyndi Lauper as Geena Briganti
+*[[Nathan Lane]] as Ed Chapman
+*David Krumholtz as Barry Corman
+*David Huddleston as Mr. Corcoran
+*Tim Progosh as Lawyer Norman Feller
+*[[Victor Garber]] as Brian Spiro
+*Mary Alice as Mrs. Gordon
+*Kathryn Grody as Mrs. Corman
+*Paula Garcés as Janice
+*Blake McGrath as Acrobat
+*Phoebe Lapine as Andrews Sister #1
+*Anna Rose Menken as Andrews Sister #2
+*Ali Caplan as Andrews Sister #3
+*Rubén Blades as Angie's dad
+*Aida Turturro as Officer Moran
+*[[Christine Baranski]] as Carol
+
+==In popular culture==
+An episode of ''Spin City'', "Life with Mikey", is titled with a nod to this film. It is the last episode in which Fox appears, having left the regular cast at the end of the 4th season due to his worsening Parkinson's disease.
+
+==Reception==
+The movie received generally negative reviews.<ref>{{cite news|url=http://articles.latimes.com/1993-06-04/entertainment/ca-43063_1_michael-j-fox-michael-chapman |title=MOVIE REVIEWS : A Fox Steals the Show in Too-Cute 'Life' - Los Angeles Times |publisher=Articles.latimes.com |date=1993-06-04 |accessdate=2012-07-24 |first=Peter |last=Rainer}}</ref><ref>{{cite news|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19930604/REVIEWS/306040302 |title=Life With Mikey :: rogerebert.com :: Reviews |publisher=Rogerebert.suntimes.com |date= 1993-06-04|accessdate=2012-07-24}}</ref><ref>{{cite news|url=http://movies.nytimes.com/movie/review?res=9F0CE0DF123AF937A35755C0A965958260&partner=Rotten%20Tomatoes|title=Life with Mikey|publisher=Movies.nytimes.com|accessdate=2012-07-23|first=Janet|last=Maslin|date=1993-06-04}}</ref><ref>{{cite news|url=http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/lifewithmikeypgkempley_a0a388.htm |title=‘Life With Mikey’ (PG) |publisher=Washingtonpost.com |date=1993-06-04 |accessdate=2012-07-24}}</ref> Review aggregator Rotten Tomatoes reports that 22% of the 9 critics gave the film a positive review, with 2 fresh and 7 rotten review, with a rating average of 3.9 out of 10 and 39% of the audience liked it based on more than 8500 ratings.<ref>http://www.rottentomatoes.com/m/life_with_mikey/</ref>
+
+===Box office===
+The movie debuted at No. 7.<ref>{{cite news|author=DAVID J. FOX |url=http://articles.latimes.com/1993-06-08/entertainment/ca-853_1_weekend-box-office |title=Weekend Box Office : 'Cliffhanger,' 'America' Hold On | work= Los Angeles Times |date=1993-06-08 |accessdate=2012-07-24}}</ref><ref>{{cite news|author=DAVID J. FOX |url=http://articles.latimes.com/1993-06-15/entertainment/ca-3201_1_weekend-box-office |title=Weekend Box Office : Universal's Monster Smash | work= Los Angeles Times  |date=1993-06-15 |accessdate=2012-07-24}}</ref><ref>{{cite news|url=http://articles.latimes.com/1993-06-21/entertainment/ca-5450_1_opening-weekend |title='Hero': When $15 Million Isn't Quite Enough : Movie box office: By Hollywood standards, the Arnold Schwarzenegger vehicle opens poorly. But Columbia is 'very, very, very happy with it.' - Los Angeles Times |publisher=Articles.latimes.com |date=1993-06-21 |accessdate=2012-07-24 |first=David J. |last=Fox}}</ref><ref>{{cite news|author=DAVID J. FOX |url=http://articles.latimes.com/1993-06-22/entertainment/ca-5812_1_indecent-proposal |title=Weekend Box Office : 'Proposal' Joins the $100-Million Club | work= Los Angeles Times  |date=1993-06-22 |accessdate=2012-07-24}}</ref>
+
+==Trivia==
+*The song [[Zip-A-Dee-Doo-Dah]] was performed by several child actors, in several musical styles.
+
+==References==
+{{Reflist}}
+
+{{wikipedia}}
+{{DISPLAYTITLE:''Life with Mikey''}}
+[[pl:Mikey i ja]]
+[[Category:1993 films]]
+[[Category:Touchstone Pictures]]
+[[Category:PG-rated films]]
+[[Category:Live-action films]]
+[[Category:Touchstone Pictures films]]

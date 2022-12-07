@@ -1,0 +1,27 @@
+{{Infobox film
+| name           = Mickey's Safety Club: What to Do at Home
+| image          = Mickey's safety club at home.jpg
+| caption        = 
+| director       = Leslie Hill
+| producer       = Nancy Casolaro<br>Gay Hennessy
+| music          = David S. Kates
+| cinematography =  
+| studio         = The Walt Disney Company
+| distributor    = Disney Educational Productions
+| release        = September [[1989]]
+| time           = 12:37
+| language       = English}}
+'''''Mickey's Safety Club: What to Do at Home''''' is part of ''[[Mickey's Safety Club]]'', a series of educational films, released in [[1989]] and [[1990]]. [[Mickey Mouse]] provides home safety information and tips to children who are home alone.
+
+==Voices==
+*[[Wayne Allwine]] - Mickey Mouse
+
+{{Stub}}
+[[Category:Films]]
+[[Category:Live-action shorts]]
+[[Category:1989 shorts]]
+[[Category:Mickey Mouse]]
+[[Category:Educational films]]
+[[Category:Mickey's Safety Club]]
+[[Category:Works about safety]]
+[[Category:Disney Educational Productions]]

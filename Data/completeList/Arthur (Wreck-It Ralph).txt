@@ -1,0 +1,47 @@
+{{Infobox character
+|image = Arthur Virus.PNG
+|name = Arthur
+|films = ''[[Ralph Breaks the Internet]]''
+|voice = [[John DiMaggio]]
+|inspiration = Computer viruses
+|occupation = Insecurity virus
+|affiliations = [[Double Dan]] (creator)<br>[[Ralph clones]]/Ralphzilla (creations)
+|home = [[Internet]]
+|powers = Capable of detecting, copying, and spreading the insecurities of others
+|status = Unknown}}
+{{Quote|Scanning for insecurities.|Arthur}}
+
+'''Arthur''' is a character in [[Walt Disney Animation Studios|Disney]]'s [[2018]] animated feature film, ''[[Ralph Breaks the Internet]]''. It is an insecurity virus created by [[Double Dan]] to disseminate any infection around the Internet.
+
+==Background==
+===Physical appearance===
+Arthur resembles a black leech-like creature with a glowing red eye and a dark cloud around its body. Arthur also has a glitching bright magenta aura.
+
+===Powers and abilities===
+Arthur is able to scan any unstable code within any digital being, then copy and transmit it throughout the area. This ability is not limited to the physical composition of the target, as Arthur can even scan the target's emotional insecurities, as it scanned [[Wreck-It Ralph (character)|Ralph's]] grief over losing [[Vanellope von Schweetz|Vanellope]]; however, the products of its viral proliferation depends on the intensity of the error in question, given that scanning Vanellope's deteriorating glitch (constituting 30% of herself) destabilized the structure of ''[[Slaughter Race]]'' while scanning an emotional Ralph (calculated to be a 100% instability) generated hundreds of Ralph clones that embodied his negative traits.
+
+==Role in the film==
+After Ralph earned enough money to buy the steering wheel for ''[[Sugar Rush]]'', he waited for Vanellope, but she didn't show up. He tried to call her, but it accidentally turned on itself on mute. He overheard Vanellope tell [[Shank]] she wanted to stay in Slaughter Race. Ralph didn't want to lose her friendship so he asked [[Spamley]] if there was a way to slow down the game. Spamley tells there's only one way so he takes Ralph over to the Dark Web to meet Double Dan.
+
+When Ralph tells [[Double Dan]] he wants to slow down Slaughter Race, he presents his latest virus named Arthur. He warned Ralph that it can scan any defect in any game, then copy it and spread it around parts of its surrounding area. Double Dan also warns Ralph not to let Arthur escape from the game or it would cause chaos across the Internet.
+
+Ralph then releases Arthur inside ''Slaughter Race'' during Vanellope's race with Shank. Arthur is drawn to Vanellope's glitch and proceeds to transmit her insecurity throughout the game. As a result of the unstable glitch, the game deteriorates and crumbles around the racers, though Shank and Ralph carrying the unconscious Vanellope flee as the game reboots. When Vanellope comes to, she discovers Ralph was the one who released the virus. Enraged, Vanellope takes Ralph's [[Vanellope's Medal|medal]] and throws it down to the Dark Net, and storms off declaring they are no longer friends. While a heartbroken Ralph heads down to retrieve his medal, Arthur, emerging from ''Slaughter Race''<nowiki/>'s wreckage unscathed, detects Ralph's emotional meltdown prompting it to copy the bad guy's insecurities and launches the faulty code across the Internet in the form of mindless [[Ralph clones]]. Afterwards, it's currently unknown what happened to Arthur as it was never seen again for the rest of the film.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+Arthur Stock Art.png
+RBTI - Dan handling Arthur.jpg|[[Double Dan]] holding Arthur.
+ArthurEnteringSlaughterRace.png|Arthur entering Slaughter Race through its sewers.
+ArthurOriginalForm.png|Arthur about to attack Slaughter Race after scanning Vanellope's insecurities.
+DistributingInsecurity.png|Arthur creating clones of Ralph after escaping Slaughter Race and scanning Ralph's insecurities.
+</gallery>{{Wreck-It Ralph}}
+{{DISPLAYTITLE:Arthur}}
+[[Category:Wreck-It Ralph characters]]
+[[Category:Disney characters]]
+[[Category:Neutral characters]]
+[[Category:Animated characters]]
+[[Category:Characters in the Disney animated features canon]]
+[[Category:Programs]]
+[[Category:Creatures]]
+[[Category:Monsters]]
+[[Category:Villains]]

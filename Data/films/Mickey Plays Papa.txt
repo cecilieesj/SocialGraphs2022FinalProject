@@ -1,0 +1,55 @@
+{{Infobox film
+|image = mickeyplayspapaburlap.jpg
+|director = [[Burt Gillett]]
+|producer = [[Walt Disney]]
+|starring = Walt Disney<br>[[Marcellite Garner]]<br>[[Pinto Colvig]]
+|music = [[Frank Churchill]]<br>Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[United Artists]]
+|release = [[September 29]], [[1934]]
+|language = English
+|preceded = ''[[Orphan's Benefit (1934)|Orphan's Benefit]]''
+|followed = ''[[The Dognapper]]''
+|imdb_id = 0025497}}
+'''''Mickey Plays Papa''''' is a [[1934]] ''Mickey Mouse'' cartoon.
+
+==Plot==
+A baby lands on the doorstep of Mickey's house, and he and Pluto have to take care of it.
+
+==Characters==
+*[[Elmer]] (voiced by [[Marcellite Garner]])
+*[[Mickey Mouse]] (voiced by [[Walt Disney]])
+*[[Pluto]] (voiced by [[Pinto Colvig]])
+
+==Releases==
+===Television===
+*''[[Mickey's Mouse Tracks]]'', episode #33
+*''[[Donald's Quack Attack]]'', episode #52
+*''[[The Ink and Paint Club]]'', episode #1.28: "Early Mickey"
+
+===Home video===
+*''[[Walt Disney Treasures]]: Mickey Mouse in Black and White, Volume 2'' (DVD)
+
+==Trivia==
+*This cartoon appears in the [[1985]] film, ''[[The Journey of Natty Gann]]''. It is shown playing at a movie theater where Natty and her friends are snooping around.
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150" captionalign="center">
+Mickey Plays Papa.jpg|Mickey and the baby
+21205.jpg
+21206.jpg
+21207.jpg
+21210.jpg
+21211.jpg
+21212.jpg
+BabyElmer.jpg
+ElmerModel.jpg
+MickeyPlaysPapaDrawing.jpg
+</gallery>
+
+{{Mickey-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Pluto shorts]]
+[[Category:1934 shorts]]
+[[Category:Featured shorts]]

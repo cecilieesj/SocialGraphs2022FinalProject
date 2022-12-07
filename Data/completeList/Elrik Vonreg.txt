@@ -1,0 +1,47 @@
+{{Infobox character
+|image = ElrikVonreg.jpg
+|shows = ''[[Star Wars Resistance]]''
+|voice = Lex Lang
+|alias = Major Vonreg
+|occupation = [[First Order TIE Pilots|First Order TIE Fighter Pilot]]
+|affiliations = [[First Order]]
+|family = Havina Vonreg
+|status = Deceased}}'''Elrik Vonreg''' is a [[First Order TIE Pilots|First Order TIE Fighter Pilot]], who appears as the secondary antagonist of the animated series, ''[[Star Wars Resistance]]''.
+
+==Background==
+An elite [[First Order]] operative clad in distinct crimson armor and with a [[TIE Fighter]] to match, Major Baron Elrik Vonreg reports directly to [[Captain Phasma]]. Part of a secret operation, he makes a personal visit to the [[Colossus (location)|Colossus]] with a shipment of fuel, all in an attempt to coerce [[Imanuel Doza|Captain Doza]] into approving First Order protection on the platform.
+
+The First Order, wanting the Colossus as a staging area for the upcoming war, hired Kragan Gor's band of pirates to repeatedly attack the floating city so that Captain Doza would relinquish the station to the First Order, under the guise of "extra security". After multiple unsuccessful attempts, it was arranged for the pirates to kidnap Doza's daughter Torra and turn her over to the First Order until Doza relinquished the station.
+
+However, when Vonreg met the pirates to take Torra into custody and pay the pirates for their services, he instead pulled out a blaster and killed multiple pirates, then took Torra. After returning her to her father, Doza became convinced that the First Order was benevolent and agreed to let them station a small garrison on the platform.
+
+Following the discovery that the Colossus was actually a ship, [[Kazuda Xiono|Kaz]] and [[Neeku Vozo|Neeku]] came up with a plan to get rid of the First Order by moving the Colossus off Castillon. During their escape, Vonreg and his squadron attempted to shoot down the compromised platform, leading to a dogfight with Kaz and Yeager. After destroying all of the other TIE fighters, Kaz got into a one-on-one dogfight with Vonreg that ended with Kaz shooting and destroying Vonreg’s fighter, killing him.
+
+==Trivia==
+*His unique armor was designed so that he could stand out from other First Order pilots, as an indication of his superior rank and skills.  
+*Vonreg was the first major character to die in Resistance, and one of only two named characters in the entire show to die onscreen (the other being Lieutenant Galek, who, like him, is a high-ranking TIE pilot). All other deaths in the series were offscreen due to it being aimed at a younger audience than [[Star Wars: The Clone Wars|its]] [[Star Wars Rebels|predecessors]].
+*Vonreg’s helmet design is based on the First Order TIE fighter pilot helmets, with a nod to both clone trooper pilot helmets and Imperial Royal Guards. 
+*The character was developed with the famous World War I German ace Red Baron in mind, from which he inherited the red color and the title of baron. 
+
+==Gallery==
+<gallery widths="150" position="center" spacing="small">
+Phasma & Vonreg.jpg
+The High Tower 2.jpg
+Star Wars Resistance (35).jpg
+Star Wars Resistance (103).png
+The Doza Dilemma 1.jpg
+Star Wars Resistance Promo 2.jpg
+SWR Major Vonreg figure.jpg
+</gallery>
+
+{{CharacterStub}}
+{{Star Wars}}
+[[Category:Star Wars Resistance characters]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Pilots]]
+[[Category:First Order characters]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Deceased characters]]
+[[Category:Villains]]

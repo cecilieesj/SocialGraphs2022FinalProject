@@ -1,0 +1,29 @@
+{{Infobox character
+|image = Rexray.jpg
+|name = X-Ray
+|films = ''[[Holes]]''
+|actor = Brenden Jefferson
+|fullname = Rex
+|alias = X-Ray, X
+|occupation = Leader of D-Tent
+|status = Active
+}}'''Rex "X-Ray"''' is a camper at Camp Green Lake in the film, ''[[Holes]]''. He serves as the leader of D-tent.
+==Personality==
+X-Ray had a mixed personality. While he could be funny and kind, he could also be rather selfish and greedy. Examples of which include taking [[Stanley Yelnats IV|Stanley's]] bread from his dinner plate, and taking all the credit, plus the day off, when Stanley found a bullet (lipstick tube) with [[Katherine Barlow|Kate Barlow's]] initials inscribed on it.
+
+==Gallery==
+<gallery position="center" captionalign="center">
+X-ray_and_Stanley.jpg
+</gallery>
+{{CharacterStub}}
+
+{{Holes}}
+[[Category:African American characters]]
+[[Category:Holes characters]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Teenagers]]
+[[Category:American characters]]
+[[Category:Neutral characters]]
+[[Category:Live-action characters]]

@@ -1,0 +1,36 @@
+{{Infobox film
+|image = Alicerattledbyrats.jpg
+|name = Alice Rattled by Rats
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[November 15]], [[1925]]
+|time = 7:24
+|preceded = ''[[Alice Plays Cupid]]''
+|followed = ''[[Alice in the Jungle]]''
+}}
+'''''Alice Rattled by Rats''''' is an animated short film that is part of the ''[[Alice Comedies]]'' that were released by Winkler Pictures in [[1925]]. It was in black and white and silent.
+
+==Summary==
+Julius is put in charge of keeping the house free from rats. But when he falls into a still and gets drunk, the rats soon begin to take over.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+Alice rattled by rats 1large.jpg
+Alice rattled by rats 2large.jpg
+Alice rattled by rats 3large.jpg
+Alice rattled by rats 4large.jpg
+Alice rattled by rats 5large.jpg
+Alice rattled by rats 6large.jpg
+1925-rats-2.jpg
+1925-rats-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=34 Alice Rattled by Rats] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1925 shorts]]
+[[Category:Alice Comedies]]

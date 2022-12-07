@@ -1,0 +1,30 @@
+{{Infobox film
+|name = You and Your Eyes
+|director = 
+|producer = 
+|writer = 
+|distributor = [[Walt Disney Productions]]<br>Disney Educational Productions (updated version)
+|language = English
+|image = Eyes.jpg
+|imagewidth = 250px
+|time = 8 minutes
+|release = [[November 7]], [[1956]] (original)<br>[[1957]] (16mm)<br>[[1990]] (updated version)}}
+'''''You and Your Eyes''''' is a "You and Your..." short that originally aired on ''[[The Mickey Mouse Club]]''. It was updated in the early 1990s.
+
+==Synopsis==
+[[Jiminy Cricket]] explains the structure of the human eye, how we see, and rules for the care of the eyes.
+
+==Voices==
+*[[Cliff Edwards]] - Jiminy Cricket
+*[[Eddie Carroll]] - Jiminy Cricket (1990 version)
+
+==Gallery==
+<gallery>
+1955-you-04.jpg
+Jc on y&yey.jpg
+</gallery>
+[[Category:1956 shorts]]
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse Club]]
+[[Category:Educational films]]
+[[Category:Jiminy Cricket]]

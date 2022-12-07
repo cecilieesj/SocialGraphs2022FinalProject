@@ -1,0 +1,53 @@
+{{Infobox film
+|image = WDW film title.png
+|name = 
+|director = 
+|producer = 
+|writer = 
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = 
+|distributor = Walt Disney Home Video
+|release = June 1, [[1981]]
+|time = 25 min.
+|language = English
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 0082289
+|tv_com_id = 
+}}
+
+'''''A Dream Called Walt Disney World''''' is a [[1981]] Disney short promotional film travelogue of [[Walt Disney World]].
+
+==Trivia==
+*The footage of [[Pirates of the Caribbean]] is actually from the [[1968]] ''[[Walt Disney's Wonderful World of Color]]'' episode "[[From the Pirates of the Caribbean to the World of Tomorrow]]", and is footage of the [[Disneyland]] version.
+
+==Gallery==
+<gallery>
+A_dream_called_walt_disney_world.jpg|VHS cover
+</gallery>
+
+
+==See also==
+* "[[The Magic of Walt Disney World (song)|The Magic of Walt Disney World]]," theme song of the film
+* ''[[The Magic of Walt Disney World]]'', 1972 featurette
+
+==External links==
+* [http://www.imdb.com/title/tt0082289 ''A Dream Called Walt Disney World''] at the Internet Movie Database
+* {{AtoZ|dream-called-walt-disney-world-a-film}}
+
+{{DEFAULTSORT:Dream Called Walt Disney World, A}}
+[[Category:1981 films]]
+[[Category:Disney films]]
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Walt Disney World Resort]]
+[[Category:Documentaries]]
+[[Category:Direct-to-video films]]
+[[Category:Disney theme park films]]

@@ -1,0 +1,39 @@
+{{Infobox character
+|image = mrscrathitdisney.jpg
+|name = Emily Cratchit
+|films = ''[[A Christmas Carol]]''
+|actor = [[Minnie Mouse]] ([[Janet Waldo]]) (''[[An Adaptation of Dickens' Christmas Carol, Performed by The Walt Disney Players]]'')<br>Minnie Mouse (''[[Mickey's Christmas Carol]]'')<br>[[Miss Piggy]] ([[Frank Oz]]) (''[[The Muppet Christmas Carol]]'')
+|voice = Lesley Manville
+|model = Lesley Manville
+|occupation = Housewife
+|family = 
+|likes = Christmas, cooking, her family, [[Tiny Tim|her youngest son]], [[Bob Cratchit|her husband]], [[Ebenezer Scrooge]] (currently), kindness
+|dislikes = Ebenezer Scrooge (formerly), [[Jacob Marley]], her youngest son's illness
+|status = Active|partner=[[Bob Cratchit]] (husband)|children=Martha Cratchit (daughter)<br>Belinda Cratchit (daughter)<br>Peter Cratchit (son)<br>Matthew Cratchit (son)<br>Lucy Cratchit (daughter)<br>[[Tiny Tim|Tim Cratchit]] (son)|fullname=Emily Cratchit|home=[[London]], [[England]]}}'''Emily Cratchit''' is a minor character from the novel ''[[A Christmas Carol]]'' by Charles Dickens. She is [[Bob Cratchit]]'s wife and the mother of [[Peter Cratchit|Peter]] and [[Tiny Tim]] Cratchit. She does not think highly of [[Ebenezer Scrooge]] and is frankly vocal about her opinion.
+
+==Gallery==
+<gallery position="center" captionalign="center">
+MinnieAsMrsCratchit.jpg|Minnie as Emily Cratchit in ''Mickey's Christmas Carol''
+PiggyMCC.JPG|Miss Piggy as Emily Cratchit in ''The Muppet Christmas Carol''
+</gallery>
+
+==See also==
+*[[Minnie Mouse]] - Portrayed the silent role in ''[[Mickey's Christmas Carol]]''.
+*[[Miss Piggy]] - Portrayed the role in ''[[The Muppet Christmas Carol]]''.
+
+{{CharacterStub}}
+{{A Christmas Carol}}
+
+{{DEFAULTSORT:Cratchit, Mrs.}}
+[[Category:A Christmas Carol characters]]
+[[Category:Disney characters]]
+[[Category:Characters]]
+[[Category:Females]]
+[[Category:Animated characters]]
+[[Category:Parents]]
+[[Category:Spouses]]
+[[Category:Lovers]]
+[[Category:English characters]]
+[[Category:Dickensian characters]]
+[[Category:Heroines]]
+[[Category:Adults]]

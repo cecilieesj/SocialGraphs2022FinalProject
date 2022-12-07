@@ -1,0 +1,23 @@
+{{NeedImage}}
+{{Infobox film
+|name = Alice at the Carnival
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[February 10]], [[1927]]
+|preceded = ''[[Alice Foils the Pirates]]''
+|followed = ''[[Alice at the Rodeo]]''
+}}
+'''''Alice at the Carnival''''' is a [[1927]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+Alice and Julius visit a carnival where they ride the rides and take in the sideshow.
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=53 Alice at the Carnival] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1927 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Lost cartoons]]

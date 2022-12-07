@@ -1,0 +1,21 @@
+{{Infobox film
+|name        = Seven Cities of Antarctica
+|director = Winston Hibler
+|producer = [[Walt Disney]]
+|writer      = 
+|distributor = [[Buena Vista Distribution|Buena Vista Film Distribution]]
+|studio = [[Walt Disney Productions]]
+|language    = English
+|awards = 
+|release = [[December 25]], [[1958]]
+|time = 30 minutes
+|image = Seven Cities of Antarctica Lobby Card Penguins.jpg}}
+'''''Seven Cities of Antarctica''''' is a documentary film that originally released to theaters by [[Buena Vista Distribution]] on [[December 25]], [[1958]]. It won a 1959 BAFTA Award for Best Documentary. The film focuses on Operation "Deep Freeze" - the exploration of Antarctica and the establishment of seven bases by the United States Navy.
+
+{{Stub}}
+[[Category:1958 shorts]]
+[[Category:Live-action shorts]]
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Documentaries]]
+[[Category:People & Places]]

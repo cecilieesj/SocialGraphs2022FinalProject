@@ -1,0 +1,61 @@
+{{Infobox character
+|image = Kuiil Profile.jpg
+|name = Kuiil
+|shows = ''[[The Mandalorian]]''
+|games = ''[[Disney Magic Kingdoms]]<br>Star Wars: Galaxy of Heroes''<br>LEGO Star Wars: The Skywalker Saga (DLC)
+|voice = Nick Nolte
+|alias = 
+|occupation = 
+|affiliations = 
+|home = 
+|family = 
+|pets = 
+|friends = [[Din Djarin]], [[Grogu]], [[Cara Dune]], [[Greef Karga]]
+|enemies = [[Moff Gideon]]
+|quote="I have spoken."
+|status = Deceased|likes=Grogu safe|dislikes=Grogu in danger, Jawas}}
+
+'''Kuiil''' is a supporting character of the [[Disney+]] original series ''[[The Mandalorian]]''. He is an Ugnaught male vapor farmer who led [[Din Djarin]] to [[Grogu]].
+ 
+==Background==
+===Biography===
+Kuiil worked for the Galactic Empire as an indentured servant, utilized for his craftsmanship and mechanics skills. After earning his freedom by serving for many years, Kuiil ventured off to the distant and remote desert planet of Arvala-7 to work in solitude as a moisture farmer.<ref>{{Cite web|title=[[The Mandalorian]], [[Chapter 7: The Reckoning]]|url=https://www.disneyplus.com/video/defe8509-3e33-45e6-90e1-0a8f0f7917e1}}</ref>
+
+==Appearances==
+===''[[The Mandalorian]]''===
+Kuiil stumbled upon the [[Mandalorian]] [[Din Djarin]] being attacked by two blurrgs and decided to rescue him and take him back to his moisture farm. There, a discussion of Djarin's job took place, with Kuiil confiding to Djarin that many bounty hunters had come searching for [[Grogu]] as he had, disturbing the peace on the solitary planet. As Djarin struggled, Kuiil motivated the bounty hunter by telling him of his ancestors that had rode the great mythosaur. Afterwards, the two ventured out to the encampment. Kuiil left Djarin and wished him luck, heading back to the farm.<ref>{{Cite web|title=[[The Mandalorian]], [[Chapter 1: The Mandalorian]]|url=https://www.disneyplus.com/video/30ea8a44-797d-4da8-b776-2e3636a2bf5a}}</ref>
+
+Some time later, Djarin returned to Kuiil's farm after successfully retrieving his bounty and explained that his ship, the ''Razor Crest'', had been damaged and looted by local [[Jawas]]. Kuiil was surprised to see Din Djarin alive and that Grogu was what all the bounty hunter trouble had been about. Kuiil agreed to assist Djarin in recovering the stolen parts of his ship and suggested that Djarin try trading with the Jawas instead of fighting them.<ref>{{Cite web|title=[[The Mandalorian]], [[Chapter 2: The Child]]|url=https://www.disneyplus.com/video/0e2b152d-6736-4635-8b0d-4c15f7bb5253}}</ref>
+{{Stubsection}}
+
+==Gallery==
+<gallery spacing="small" captionalign="center" position="center" widths="150">
+Kuiil driving with DIn Djarin.jpg
+Chapter One - The Mandalorian 03.jpg
+TheMandalorianChapter2.jpg
+The Mandalorian 63.jpg
+Kuiil POP.jpg
+DMK Kuiil.PNG|Kuiil in ''[[Disney Magic Kingdoms]]''
+DMK Mando Splash Screen.jpg
+The Mandalorian Little Golden Book.jpg
+Kuiil is repairing IG-11..png|Kuiil repairs IG-11.
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{SWW|Kuiil}}
+*{{SW|url=/databank/kuiil|text=Kuiil}}
+
+{{Star Wars}}
+[[Category:Characters]]
+[[Category:Live-action characters]]
+[[Category:The Mandalorian characters]]
+[[Category:Orphans]]
+[[Category:Adults]]
+[[Category:Deceased characters]]
+[[Category:Heroes]]
+[[Category:Males]]
+[[Category:Disney Magic Kingdoms characters]]
+[[Category:Characters in video games]]

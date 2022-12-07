@@ -1,0 +1,31 @@
+{{Infobox character
+|image = VIC.png
+|games = ''[[Disney Universe]]''
+|voice = [[Neil Ross]]
+|alias = Cubeboy (by HEX)
+|appearance = Floating light blue cube
+|occupation = Guide of Disney Universe
+|personality= friendly, caring, helpful
+|alignment = Good
+|home = The Disney Universe
+|friends = Gamers, the Cast Bots
+|enemies = [[HEX]], [[Bots]]
+|status = 
+|quote = "We control everything."<br>"[[HEX|You]]... wouldn't..."}}'''VIC''' ('''V'''irtual '''I'''nformation '''C'''ube) is the main guide of ''[[Disney Universe]]'' that asks guests to help him save the universe from [[HEX]].
+
+==Role in the video game==
+===Introduction / Finale Cutscenes===
+In the intro, VIC introduces himself before realising the Bots are malfunctioning. He then gets taken over by HEX who calls VIC "Cubeboy". VIC is able to control when he becomes HEX though, as they end up talking to each other at the end of the game when VIC is congratulating the players about HEX's defeat.
+
+===In the levels===
+At the start of every level, VIC appears to give you some tips which gets taken the mick out of by HEX. He also appears as a power-up in all versions of the game which allows players to do several things like have a gun, use a laser gun, shoot bees and freeze people. Each power-up the player receives throughout the game when touching a VIC cube is random, so he/she cannot tell what power-up he/she will receive.
+[[Category:Characters]]
+[[Category:Characters in video games]]
+[[Category:Disney Universe]]
+[[Category:Males]]
+[[Category:Objects]]
+[[Category:Heroes]]
+[[Category:Disney characters]]
+[[Category:Characters introduced in video games]]
+[[Category:Article stubs]]
+[[Category:Disney Interactive Studios characters]]

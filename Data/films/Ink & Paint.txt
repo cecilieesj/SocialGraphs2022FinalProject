@@ -1,0 +1,35 @@
+{{Upcoming|media=show}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Ink & Paint
+|director = 
+|producer = 
+|writer = 
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = 
+|release = 
+|time = 
+|language = English
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id =}}
+'''Ink & Paint''' is an upcoming documentary mini-series set for release on [[Disney+]].<ref>[https://deadline.com/2018/10/abc-studios-alternative-division-best-bite-ever-ink-paintabc-series-disney-streaming-service-fernando-hernandez-1202474547/ ABC Studios Ramps Up Alternative Division, Sets Cooking Pilot At ABC & Series ‘Ink & Paint’ At Disney OTT Service]</ref> Based on the non-fiction book of the same title by Mindy Johnson, ''Ink & Paint'' tells the story of women's role in Disney animation history "from ''[[Snow White and the Seven Dwarfs]]'' to ''[[Coco]]''" in eight episodes.
+
+However, as of September 2022, there is no update on the series' progress.
+
+==References==
+{{Reflist}}
+{{Disney+}}
+[[Category:Documentaries]]
+[[Category:Disney+ Originals]]
+[[Category:Upcoming television series]]

@@ -1,0 +1,35 @@
+{{NeedImage}}{{Infobox film
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]<br>George Winkler
+|editor = [[Ub Iwerks]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Universal Studios|Universal Pictures]]
+|release = [[December 26]], [[1927]]<ref>[https://archive.org/details/motionp36moti/page/n761 "Comedies and Short Subjects" - Motion Picture News (1927)]</ref>
+|time = 6 minutes (unconfirmed)
+|language = English
+|preceded = ''[[Empty Socks]]''
+|followed = ''[[Harem Scarem]]''
+}}'''''Rickety Gin''''' is a short starring [[Oswald the Lucky Rabbit]] released on [[December 26]], [[1927]]. This is one of several Oswald shorts that are "lost".
+
+==Synopsis==
+Oswald plays a cop who woos a nurse who wanders into the park. Pete then gets Oswald drunk and woos the nurse wearing Oswald's stolen uniform.
+
+==Credits==
+*Director: [[Walt Disney]]
+*Animators: [[Ub Iwerks]] and [[Friz Freleng]]
+*Camera: Mike Marcus
+
+==Characters==
+*[[Oswald the Lucky Rabbit]]
+*[[Pete]]
+
+==Trivia==
+*This short had two working titles: ''Whose Hootch'' and ''Officer 999'', the latter of which was a pun on ''Officer 666'', a popular Broadway comedy.<ref>{{Cite book|last=Bossert|first=David|year=2017|title=Oswald the Lucky Rabbit: The Search for the Lost Cartoons|edition=1st|publisher=Disney Editions|isbn=978-148478037-4|ref=harv}}</ref>
+
+==References==
+<references/>
+[[Category:Animated shorts]]
+[[Category:Oswald the Lucky Rabbit shorts]]
+[[Category:Lost cartoons]]
+[[Category:1927 shorts]]
+[[Category:Pete Shorts]]

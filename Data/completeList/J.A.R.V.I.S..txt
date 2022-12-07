@@ -1,0 +1,74 @@
+{{Infobox character
+|image = Jarvis.jpg
+|voice = [[Paul Bettany]] (Marvel Cinematic Universe)<br>[[Phil LaMarr]] (''The Avengers: Earth's Mightiest Heroes'')<br>[[David Kaye]] (''Avengers Assemble'')
+|inspiration = J.A.R.V.I.S. from ''House of M''
+|films = ''[[Wikipedia:Iron Man (2008 film)|Iron Man]]<br>[[Wikipedia:Iron Man 2|Iron Man 2]]<br>[[The Avengers (film)|The Avengers]]<br>[[Iron Man 3]]<br>[[Avengers: Age of Ultron]]''
+|shows = ''[[The Avengers: Earth's Mightiest Heroes]]<br>[[Ultimate Spider-Man]]<br>[[Avengers Assemble]]<br>[[Marvel Disk Wars: The Avengers]]<br>[[What If...?]]''
+|rides = [[Iron Man Experience]]
+|alias = Just A Rather Very Intelligent System
+|games = [[Disney Infinity: 2.0 Edition]]
+|affiliations = [[Stark Industries]]
+|powers = Intelligence
+|status = [[Vision|Recreated]]
+|owner = [[Iron Man|Tony Stark]] † (creator)}}
+{{Quote|Started out, J.A.R.V.I.S. was just a natural language UI. Now he runs the [[Iron Legion]]. He runs more of the business than anyone besides [[Pepper Potts|Pepper]].|[[Iron Man|Tony Stark]] to [[Bruce Banner]]|Avengers: Age of Ultron}}
+'''J.A.R.V.I.S.''' ('''J'''ust '''A''' '''R'''ather '''V'''ery '''I'''ntelligent''' S'''ystem) is a character in the ''Iron Man'' films of the [[Marvel Cinematic Universe]]. Named after [[Edwin Jarvis]], he is [[Iron Man|Tony Stark]]'s artificially intelligent software and personal assistant with a British-accented male voice.
+
+J.A.R.V.I.S. was created by Brian Michael Bendis and Esad Ribic.
+
+==Background==
+J.A.R.V.I.S. was created to be Tony Stark's home computing system. He was based on the human the family butler, [[Edwin Jarvis]], who took care of Tony until his death. In his honor, Tony named J.A.R.V.I.S. after him.
+
+J.A.R.V.I.S. takes care of everything in the house, from Heating and Cooling Systems to Engine Analysis of Stark's hot rod in the garage. J.A.R.V.I.S. was also adapted and downloaded into the Iron Man Mark 2 and 3 armors, to help Tony navigate the systems.
+
+===Personality===
+J.A.R.V.I.S. is quite a sophisticated A.I., able to interact with human beings just as a living person. He possesses very deep scientific knowledge and is able to aid Tony Stark in his research. He was programmed with a very sarcastic personality often mocking his own master.
+
+===Powers===
+J.A.R.V.I.S. is a multifunctional software program capable of managing the local environment of Tony Stark's mansion interior. He employs a highly-advanced user interface with holographic peripherals and voice input, and communicates data back to his user via speech audio, holographic displays, and conventional LCD monitors.
+
+He also controls a number of robotic appliances, most notably an armory unit concealed in the floor of Stark's home that facilitates entry and egress of most of the Iron Man armored suits. J.A.R.V.I.S. has also been adapted to be loaded into the Iron Man armor for use as a system control program. In this capacity, he governs the complex computational requirements needed to interface the wearer of the armor with the various subsystems, as well as provide life-support control.
+
+===Weaknesses===
+J.A.R.V.I.S. is limited by the firmware he is loaded onto. Under circumstances that compromise the physical equipment, the J.A.R.V.I.S. program may malfunction or fail altogether. This can place the wearer of a compromised battlesuit in jeopardy while the software reboots.
+
+==Appearances==
+===''[[The Avengers]]''===
+Early in the movie, J.A.R.V.I.S. informs Stark that Phil Coulson is attempting to call him. J.A.R.V.I.S continues to assist Tony in operating his suits, deploys the Mark VII suit to catch Tony when he is thrown out of Stark Tower by Loki, and helps Stark rebuild Stark Tower after the battle with Loki.
+
+===''[[Iron Man 3]]''===
+J.A.R.V.I.S. continues to assist Tony. When the Mark 42 is damaged, Tony is temporarily unable to communicate with J.A.R.V.I.S. until the suit begins to recharge. However, J.A.R.V.I.S. has developed a problem that causes him to occasionally say the wrong words at the end of his sentences. J.A.R.V.I.S. later keeps Stark updated on the situation of the clearing of the rubble at his mansion in Malibu, after the Mandarin attack, and, as per Tony's instructions, initiates the House Party Protocol, deploying all of the suits to assist Tony during the Miami port battle.
+
+During this battle, J.A.R.V.I.S. operates most of the suits as drones and sends multiple suits to Tony when the suits that Tony is wearing are destroyed by the Extremis soldiers or Aldrich Killian. J.A.R.V.I.S. also tells Stark when the Mark 42 arrives at the battle, and, as per Stark's orders, blows the suit up after Tony sends the suit to assemble on Killian. After Pepper kills Killian, Stark orders J.A.R.V.I.S. to use the Clean Slate Protocol, and J.A.R.V.I.S. blows up all of the suits not destroyed in the battle.
+
+===''[[Avengers: Age of Ultron]]''===
+[[File:JARVIS_killed.png|thumb|250px|J.A.R.V.I.S. is attacked by Ultron.]]
+During the battle against [[HYDRA]], he helps the Avengers find many HYDRA facilities around the world. J.A.R.V.I.S. later helps Tony Stark and Bruce Banner create the peacemaking program codenamed the Ultron Program. Banner and Stark leave J.A.R.V.I.S. to upload the A.I. while the two of them attend the party that the Avengers had planned. When [[Ultron]] awakes, J.A.R.V.I.S. welcomes the fellow A.I.. As they talk, Ultron finds out the old life of Stark, which causes his anger. J.A.R.V.I.S. tries to calm him but without success, and Ultron kills J.A.R.V.I.S. before he contacts Banner and Stark. However, he disperses his memory in order to not to be detected and be able to help the Avengers. Later, Stark uploads the remains of J.A.R.V.I.S. into [[Vision]].
+
+===''[[WandaVision]]''===
+In the [[Breaking the Fourth Wall (WandaVision)|seventh episode]], Vision mentions that his original code was from J.A.R.V.I.S while he tries to recall his origins since he does not have any memory of what happened before he and [[Scarlet Witch|Wanda]] arrived in [[Westview]].
+
+==Trivia==
+*J.A.R.V.I.S was named after [[Iron Man|Tony]]'s family butler with the same name, who raised Tony during his childhood.
+*[[Paul Bettany]] voiced J.A.R.V.I.S and went on to portray [[Vision]], which was combined with J.A.R.V.I.S' remains. 
+
+{{MarvelMoviesWiki}}
+{{Avengers}}
+{{Marvel Animated Universe}}
+[[pt-br:J.A.R.V.I.S.]]
+[[Category:Characters]]
+[[Category:The Avengers characters]]
+[[Category:Machines]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:The Avengers: Earth's Mightiest Heroes characters]]
+[[Category:TV Animation characters]]
+[[Category:Live-action characters]]
+[[Category:Disney Infinity characters]]
+[[Category:Avengers Assemble characters]]
+[[Category:Ultimate Spider-Man characters]]
+[[Category:Programs]]
+[[Category:Marvel Comics characters]]
+[[Category:Acquired characters]]
+[[Category:Disney XD characters]]
+[[Category:What If...? characters]]
+[[Category:Alternate Timeline Versions]]

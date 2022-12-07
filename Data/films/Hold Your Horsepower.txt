@@ -1,0 +1,17 @@
+{{Infobox film
+|image = Horsepower.jpg
+|imagewidth = 250px
+|name = Hold Your Horsepower
+|director = 
+|producer = [[Walt Disney]]
+|writer = 
+|studio = [[Walt Disney Productions]]
+|distributor = The Texas Company
+|release = [[August 8]], [[1945]]
+|language = English
+}}
+'''''Hold Your Horsepower''''' is a [[1945]] Disney animated short film. It was sponsored by The Texas Company.
+
+{{EpisodeStub}}
+[[Category:1945 shorts]]
+[[Category:Animated shorts]]

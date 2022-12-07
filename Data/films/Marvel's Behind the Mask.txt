@@ -1,0 +1,62 @@
+{{Infobox film
+|image = Marvel Behind the Mask.jpg
+|name = Marvel's Behind the Mask
+|director = Michael Jacobs
+|producer = Chris Gary<br />Ryan Simon
+|writer = 
+|starring = 
+|music = Mondo Boys
+|cinematography = {{WikipediaLink|Josh Weinstein}}
+|editor = Clayton Worfolk
+|studio = [[Marvel Entertainment|Marvel New Media]]<br />Tarmac Creative
+|distributor = [[Disney+]]
+|release = [[February 12]], [[2021]]
+|time = 64 minutes 
+|language = English
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|website = https://www.marvel.com/tv-shows/marvel-s-behind-the-mask/1
+|imdb_id = 13885628}}
+'''''Marvel's Behind the Mask''''' is a documentary [[Marvel Entertainment|Marvel]] film. It is produced by Marvel New Media and distributed by [[Disney Platform Distribution]].
+
+==Premise==
+Marvel's Behind the Mask will feature guests from across Marvel's 80-year legacy, including the writers and artists behind the rise of characters like [[Black Panther]], [[Spider-Man (Miles Morales)|Miles Morales]], [[Ms. Marvel]], [[Luke Cage]], the [[X-Men (team)|X-Men]], [[Captain Marvel]], and many other characters from [[Marvel Comics]], highlighting Marvel's impact on pop culture and media.<ref>{{Cite web|url=https://www.marvel.com/articles/tv-shows/marvel-behind-the-mask-now-streaming-disney-plus|title=Tune in Today: 'Marvel's Behind the Mask' Is Now Streaming Exclusively on Disney+|accessdate=February 12, 2021}}</ref>
+
+==Characters Featured==
+*[[Captain America|Captain America/Steve Rogers]] 
+*[[Iron Man|Iron Man/Tony Shark]]
+*[[Spider-Man (Miles Morales)|Miles Morales]]
+*[[Black Panther|Black Panther/T'Challa]]
+*[[Spider-Man|Spider-Man/Peter Parker]]
+*[[Ms. Marvel|Ms. Marvel/Kamala Khan]]
+*[[Luke Cage]]
+*[[X-Men (team)|X-Men]]
+*[[Captain Marvel|Captain Marvel/Carol Danvers]]
+*[[Hulk|Hulk/Robert Bruce Banner]]
+
+==Videos==
+<gallery spacing="small" widths="150" captionalign="center" position="center">
+Marvel's Behind the Mask - Official Trailer - Disney+
+Marvel's Behind the Mask - First Look Clip - Disney+
+Marvel's Behind The Mask Coming Soon To Disney+ - Disney Plus News
+An Exclusive Look at Marvel’s Behind the Mask! - Marvel Minute
+</gallery>
+
+==Gallery==
+<gallery position="center" spacing="small" widths="180">
+Behindthemask 2021.jpg
+Behind The Mask Marvel.jpeg
+</gallery>
+
+==External links==
+*{{IMDb|title/tt13885628}}
+*{{WP}}
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+[[pt-br:Marvel Por Trás da Máscara]]
+[[Category:Documentaries]]
+[[Category:Disney+ Originals]]

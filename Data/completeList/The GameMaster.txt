@@ -1,0 +1,39 @@
+{{Expand}}
+{{Infobox character
+|image = The Gamemaster.png
+|shows = ''[[Miles from Tomorrowland]]''
+|voice = [[Whoopi Goldberg]]
+|personality = Talkative, joyful, creative, intelligent
+|appearance =Blue-skinned alien with purple and orange dreadlocks, visors, and gray metallic suit 
+|occupation = Game designer
+|alignment = Good
+|goal = 
+|home = Lomaro
+|pets = Grace (Robot Kangaroo)
+|friends = [[Miles Callisto]], [[M.E.R.C.]], [[Loretta Callisto]], [[Phoebe Callisto]], [[Leo Callisto]], [[Mirandos]], [[Blodger Blopp]], [[Haruna Kitumba]]
+|enemies = 
+|likes = Creating games
+|dislikes = 
+|quote = }}
+'''The GameMaster''' is a character who appears in the [[Disney Junior]] animated series, ''[[Miles from Tomorrowland]]''. She is an alien who designs holo-games. She is known to be a creative tech genius.
+==Trivia==
+*The GameMaster has a pet robot Kangaroo known as Grace, named after computer scientist [[Wikipedia:Grace Hopper|Grace Hopper]].
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150" captionalign="center">
+The_GameMaster.png
+Galaxias Quest 1.jpg
+The Gamemaster concept.png|Concept design
+</gallery>
+
+{{CharacterStub}}
+{{Miles from Tomorrowland}}
+{{DEFAULTSORT:GameMaster, The}}
+[[Category:Miles from Tomorrowland characters]]
+[[Category:Females]]
+[[Category:Aliens]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Disney Junior characters]]

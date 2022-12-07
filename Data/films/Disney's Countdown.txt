@@ -1,0 +1,17 @@
+{{Infobox film
+|name        = Disney's Countdown
+|director    = 
+|producer    = 
+|writer      = 
+|distributor = The Walt Disney Company
+|language    = English
+|image = Image:DisneyCountdown.jpg
+|time = 12 minutes
+|release = [[1988]]}}
+'''''Disney's Countdown''''' is a [[1988]] Disney educational animated short film.
+
+==Synopsis==
+This film uses Disney animation and rhyme to stimulate interest in numbers. [[Mickey Mouse]], [[Minnie Mouse]], [[The Three Little Pigs (characters)|the Three Little Pigs]], the Seven Dwarfs and others demonstrate what numbers and their sets mean.
+[[Category:1988 shorts]]
+[[Category:Animated shorts]]
+[[Category:Disney films]]

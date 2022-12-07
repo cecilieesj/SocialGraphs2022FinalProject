@@ -1,0 +1,28 @@
+{{Infobox film
+|image =
+|name = Alice the Fire Fighter
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[October 18]], [[1926]]
+|preceded = ''[[Alice in the Wooly West]]''
+|followed = ''[[Alice Cuts the Ice]]''
+}}
+'''''Alice the Fire Fighter''''' is a [[1926]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+Many comic misadventures ensue as Alice and Julius attempt to put out a fire at a local hotel.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1926-fire-2.jpg
+1926-fire-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=44 Alice the Fire Fighter] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1926 shorts]]
+[[Category:Alice Comedies]]

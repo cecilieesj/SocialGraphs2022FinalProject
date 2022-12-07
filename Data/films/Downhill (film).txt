@@ -1,0 +1,58 @@
+{{WarningAlert}}
+{{Infobox film
+|name = Downhill
+|image = Downhill poster.jpeg
+|border = no
+|caption = Theatrical release poster
+|director = [[Nat Faxon]]<br>[[Jim Rash]]
+|producer = Stefanie Azpiazu<br>Anthony Bregman<br>[[Julia Louis-Dreyfus]]
+|writer = Jesse Armstrong<br>Nat Faxon<br>Jim Rash
+|based on = ''Force Majeure'' by Ruben Östlund
+|starring = [[Julia Louis-Dreyfus]]<br>[[Will Ferrell]]
+|music = Volker Bertelmann
+|cinematography = Danny Cohen
+|editing = Pamela Martin
+|studio = [[TSG Entertainment]]
+|distributor = [[Searchlight Pictures]]
+|release = [[January 26]], [[2020]] (Sundance Film Festival)<br>[[February 14]], [[2020]] ([[United States]])
+|time = 86 minutes
+|country = United States
+|language = English
+|editor = Pamela Martin
+|gross = $8 million
+|imdb_id = 4558376}}
+'''''Downhill''''' is a [[2020]] American black comedy film directed by Nat Faxon and Jim Rash. The film is inspired by the movie Force Majeure by Ruben Östlund.
+
+The film had its world premiere at the Sundance Film Festival on [[January 26]], [[2020]] and was released on [[February 14]], [[2020]] by [[Searchlight Pictures]]. This is the first film released under the name Searchlight Pictures (formerly Fox Searchlight Picture) after [[Walt Disney Studios]] changed the company's name on January 17, 2020.<ref>https://variety.com/2020/film/news/disney-dropping-fox-20th-century-studios-1203470349/</ref>
+
+==Synopsis==
+After being scarred by an avalanche during a family ski vacation in the Alps, a married couple is thrown into disarray as they are forced to reevaluate their lives and how they feel about each other.
+
+==Cast==
+* [[Julia Louis-Dreyfus]] as Billie
+* [[Will Ferrell]] as Pete
+* Miranda Otto as Charlotte
+* Zoë Chao as Rosie
+* Zach Woods as Zach
+* Kristofer Hivju
+* Julian Grey as Finn Stanton
+* Ammon Jacob Ford as Emerson
+* Giulio Berruti: Guglielmo
+
+==Videos==
+<gallery position="center" captionalign="center">
+DOWNHILL Official Trailer HD FOX Searchlight
+DOWNHILL Warning Or No Warning Searchlight Pictures
+DOWNHILL American Blue Searchlight Pictures
+Downhill On Digital Now!
+</gallery>
+
+==References==
+{{Reflist}}
+{{DISPLAYTITLE:''Downhill''}}
+[[Category:Articles containing mature content]]
+[[Category:Films]]
+[[Category:2020 films]]
+[[Category:20th Century Fox films]]
+[[Category:Live-action films]]
+[[Category:R-rated films]]

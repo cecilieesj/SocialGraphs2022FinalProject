@@ -1,0 +1,57 @@
+{{Species_Infobox
+|image = Vexis-Databank.jpg
+|name = Vexis
+|films = ''[[Star Wars: The Rise of Skywalker]]''
+|games = ''LEGO Star Wars: The Skywalker Saga''
+|animator = Nick Kellington (puppeteer)
+|inspiration = Snakes
+|alias = Vexis Snake (unofficial)<br>Serpent
+|behaviour = Defensive and aggressive when wounded, later calm and gentle after being healed by Rey
+|appearance = Very large, armored reptile, small multiple eyes, sharp teeth, powerful coils
+|occupation = Underground predator
+|home = Pasaana
+|abilities = Oily skin creates hardened tunnels under the sand
+|weapons = Teeth, coils
+|status = Active}}
+'''Vexis''', sometimes referred to as '''vexis snake''', is a large serpent native to the planet Pasaana. It appears in ''[[Star Wars: The Rise of Skywalker]]''.
+
+==Background==
+===Personality===
+When the vexis was encountered by [[Rey]] and her group, it was very defensive and ready to defend itself upon encountering them. However, the creature had been wounded and was merely trying to defend itself. As Rey used the Force to connect to the creature, it began to calm down and allowed Rey to heal its wounds. Realizing they meant no harm, the vexis was willing to leave, allowing them to exit the tunnels. It is unknown if this is true for all vexis, or if others would be less benevolent.
+
+===Physical appearance===
+The vexis is a large serpent with armored scales and strong coils. It has six small, but noticeable eyes on its head for seeing in the dark, and large, sharp teeth mounted on unhinge-able jaws for killing prey and defending itself. Living underground, the vexis creates labyrinths of tunnels, thanks to the oils it secretes from between its scales and its strong coils. As these oils dry, they harden the sand, creating vast passageways that serve as the animal's ever-expanding lair.
+
+==Appearances==
+===''[[Star Wars: The Rise of Skywalker]]''===
+The vexis appears after Rey, [[Chewbacca]], [[Finn]], [[Poe Dameron]], [[C-3PO]], and [[BB-8]] 
+fall into underground tunnels when they sink into quicksand while trying to find the ship of the Sith assassin Ochi on Pasaana. Upon discovering Ochi's skeleton, the group alarms the vexis that was sleeping near the remains and the Sith dagger they had been seeking. Though Poe prepares to shoot the serpent, Rey realizes something is wrong and approaches the creature. Seeing that it was wounded, Rey uses the Force to given some of her own life energy [[The Force#Force healing|to heal]] the animal, calming it down. Fully healed and thankful for having its pain alleviated, the vexis slithers away peacefully, allowing them to leave the tunnels through the exit it was blocking.
+
+== Trivia ==
+*The vexis was an animatronic that was controlled by puppeteers led by Nick Kellington to allow for more realistic interaction with the actors. Its blinking eyes and saliva were added for extra realism by visual effects artists.
+*The vexis is first identified by name in the Visual Dictionary for ''Star Wars: The Rise of Skywalker'' by [[Pablo Hidalgo]].
+*The vexis is implied to be a male, as Rey called it "him" in the film.
+*The scene with the vexis, an aggressive wounded "monster" that becomes benevolent after being [[The Force#Force healing|healed]] by [[Rey]], heavily foreshadows the events following [[Kylo Ren]] and Rey's duel on the ruins of the [[Death Star II]], in which Kylo renounces the dark side after he is saved by Rey in the same way.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="185" captionalign="center">
+Vexis-Databank.jpg
+Rey heals a snake concept art.jpg|Concept art of [[Rey]] healing the vexis.
+Rey heals a snake.png|[[Rey]] meets the vexis in the film.
+</gallery>
+
+==External links==
+*{{SWW|Vexis}}
+*{{SW|url=/databank/vexis|text=Vexis}}
+
+{{Star Wars}}
+[[Category:Creatures]]
+[[Category:Star Wars creatures]]
+[[Category:Aliens]]
+[[Category:Snakes]]
+[[Category:Males]]
+[[Category:Star Wars Sequel Trilogy characters]]
+[[Category:Characters]]
+[[Category:Live-action characters]]
+[[Category:Comic characters]]
+[[Category:Characters in video games]]

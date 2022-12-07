@@ -1,0 +1,51 @@
+{{Infobox Song
+|name = Toccata and Fugue in D Minor
+|image = Fantasia-disneyscreencaps.com-1143.jpg
+|original = The Philadelphia Orchestra (conducted by Leopold Stokowski)
+|composer = Johann Sebastian Bach (arranged for orchestra by Leopold Stokowski)
+|films = ''[[Fantasia]]''<br>''[[Muppet Treasure Island]]''<br>''[[Doctor Strange in the Multiverse of Madness]]''
+|albums = [[Fantasia (soundtrack)]]
+|preceded_by =
+|followed_by = "[[Nutcracker Suite]]"
+|video = Toccata And Fugue In D Minor, BWV 565-2
+}}{{Quote|Now the number that opens our Fantasia program, the '''Toccata and Fugue''' is music of this third kind. What we call, absolute music, even the title has no meaning beyond a description of the form of the music. What you will see on the screen is a picture of the various abstract images that might pass through your mind, if you sat in a concert hall listening to this music. At first you're more or less conscious of the orchestra. So, our picture opens with a series of impressions of the conductor and the players. Then, the music begins to suggest other things to your imagination. They might be... oh, just masses of color. Or there may be cloud forms, or great landscapes, or vague shadows, or geometrical objects floating in space.|[[Deems Taylor]]|Fantasia}}
+Johann Sebastian Bach's '''''Toccata and Fugue in D Minor''''' is the first segment of the film, ''[[Fantasia]]''.
+
+==Synopsis==
+''Fantasia'' begins immediately (there are no opening credits or logos of any sort) with the curtains being opened to reveal an orchestra stand. Musicians are seen ascending the stand, taking their places, and tuning their instruments. Master of ceremonies [[Deems Taylor]] arrives and delivers an introduction to the film. Stokowski appears and begins conducting the first strains of his own orchestration of the ''Toccata and Fugue in D Minor'', by Johann Sebastian Bach (originally written for solo organ).
+
+The first third of the ''Toccata and Fugue'' is in live-action, and features an orchestra playing the piece, illuminated by abstract light patterns set in time to the music and backed by stylized (and superimposed) shadows. The first few parts of the piece are played in each of the three sound channels (first the right, then the left, then the middle, then all of them) as a demonstration of [[Fantasound]]. The number segues into an [[Wikipedia:abstract art|abstract]] animation piece—a first for the Disney studio—set in time to the music. ''Toccata and Fugue'' was inspired primarily by the work of German abstract animator Oskar Fischinger, who worked for a brief time on this segment. The animation segues back into the live-action footage of Stokowski as the piece concludes, setting the precedent for the rest of the musical numbers.
+
+Although the Philadelphia Orchestra recorded the music for the film (excepting ''The Sorcerer's Apprentice''), they do not appear onscreen; the orchestra used onscreen in the film is made up of local Los Angeles musicians and [[Walt Disney Pictures|Disney]] studio employees like [[Jimmy MacDonald|James Macdonald]] and [[Paul Smith|Paul J. Smith]], who mime to the prerecorded tracks by Stokowski and the Philadelphia Orchestra. Originally, the Philadelphia Orchestra was slated to be filmed in the introduction and interstitial segments, but union and budgetary considerations prevented this from coming to pass.
+
+==Credits==
+*Musical score: [[Wikipedia:Johann Sebastian Bach|Johann Sebastian Bach]] – ''[[Wikipedia: Toccata and Fugue in D minor, BWV 565|Toccata and Fugue in D Minor]]'' BWV 565 (Stokowski's own [[Wikipedia: orchestration|orchestration]])
+*Directed by Samuel Armstrong
+*Story development: [[Lee Blair]], Elmer Plummer, and Phil Dike
+*Art direction: Robert Cormack
+*Background painting: Joe Stahley, [[John Hench]], and Nino Carbe
+*Visual development: {{WikipediaLink|Oskar Fischinger}}
+*Animation: [[Cy Young]], Art Palmer, Daniel MacManus, George Rowley, Edwin Aardal, Joshua Meador, and Cornett Wood
+
+==Gallery==
+<gallery position="center" captionalign="center">
+Toccata wdl-500.jpg
+</gallery>
+
+==Videos==
+<gallery position="center" captionalign="center">
+Toccata and Fugue in D Minor, BWV 565 (Irwin Kostal Re-Record 1982)
+</gallery>
+
+{{Fantasia}}
+[[Category:Fantasia]]
+[[Category:Fantasia segments]]
+[[Category:Non-Disney songs]]
+[[Category:Fantasia]]
+[[Category:Muppet Songs]]
+[[Category:Instrumental songs]]
+[[Category:Films]]
+[[Category:Featured shorts]]
+[[Category:Animated shorts]]
+[[Category:Featured songs]]
+[[Category:Music]]

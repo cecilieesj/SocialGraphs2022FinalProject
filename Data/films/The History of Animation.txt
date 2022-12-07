@@ -1,0 +1,29 @@
+{{Infobox film
+| name           = The History of Animation
+| image          = File:History_Animation.jpg
+| caption        = 
+| director       = 
+| producer       = 
+| music          = 
+| cinematography =  
+| studio         = Walt Disney Productions
+| distributor    = [[Buena Vista Distribution]]
+| release       = [[1975]]
+| time        = 21:22
+| language       = English}}
+'''''The History of Animation''''' is a [[1975]] Disney educational animated short.
+
+==Synopsis==
+The familiar, comfortingly benign authority of Walt Disney himself is the standout feature of this engaging documentary program, re-edited by the studio (years after Disney's death) from a 1950s Disneyland TV episode.
+
+Uncle Walt, of illustrious memory, traces for us the development of pre-photographic human attempts to depict motion through still images. From cave paintings dating back to 30,000 B.C., forward through such experiments as the zoetrope, lantern slides, and other methods of image projection, Disney explains and demonstrates surviving examples of historical precursors of filmed animation. Eventually, he narrates filmed reenactments of late-19th century advances in the presentation of miraculous moving images to public audiences; he then identifies major pioneers of silent-era animated films, providing samples of their work (J. Stuart Blackton's Humourous Phases of Funny Faces, Winsor McKay's Gertie the Dinosaur, J.R. Bray's Col. Heeza Liar series, Earl Hurd's Bobby Bumps, Pat Sullivan and Otto Messmer's Felix the Cat, and Raoul Barre's Grouch Chasers).
+
+The History of Animation begins with a montage of short clips from Disney's Fantasia, Pinocchio, The Sword and the Stone, Song of the South, the short The Old Mill and Bambi. It climaxes with moments from the first Mickey Mouse release (and initial sound cartoon) Steamboat Willie and other studio landmarks: The Skeleton Dance, Snow White- then back to Pinocchio. Familiar Disney narrator Winston Hibler concludes:
+
+"Obviously, the history of animation did not stop with Pinocchio. It's not confined to the Disney studio, or even within the boundaries of any one country. Just as Walt learned and borrowed from his predecessors, he in turn directly influenced many of today's creative animators. The Disney studio has been an international training ground for many who are now exhibiting their own distinctive styles and techniques with new cartoon characters, limited animation- the inexpensive, shortcut version of the art: simple, yet new and distinct- and even animation by computer.
+
+"Today, around the world, filmmakers are turning to animation as a valuable tool of communication. Whether the message is funny, sad, or just informational, there is a universal appeal to animation. It attracts and holds the attention of young and old, sophisticated and primitive alike; and it often remains as fresh as the day it was made. It's an expensive and time-consuming art. But as that early caveman discovered so long ago, animation seems to satisfy, as few other things do, man's universal desire to communicate with his fellow man."{{DEFAULTSORT:History of Animation, The}}
+[[Category:1975 films]]
+[[Category:Animated shorts]]
+[[Category:Disney films]]
+[[Category:History]]

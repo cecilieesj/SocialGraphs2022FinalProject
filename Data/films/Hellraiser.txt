@@ -1,0 +1,58 @@
+{{WarningAlert}}
+{{Infobox film
+|image = Hellraiser Poster.jpg
+|director = David Bruckner
+|producer = David S. Goyer<br>Keith Levine<br>Clive Barker<br>Marc Toberoff
+|writer = Ben Collins<br>Luke Piotrowski
+|starring = Odessa A'zion<br>Jamie Clayton
+|music = Ben Lovett
+|cinematography = Eli Born
+|editor = 
+|studio = [[20th Century Studios]]<br>Spyglass Media Group<br>Phantom Four Films
+|distributor = [[Hulu]]
+|release = [[October 7]], [[2022]]
+|time = 
+|language = English
+|budget = 
+|gross = 
+|imdb_id = 0887261}}
+'''''Hellraiser''''' is an American supernatural horror film directed by David Bruckner, with a screenplay by Ben Collins and Luke Piotrowski, from a screen story they co-wrote with David S. Goyer. Intended to serve as a new adaptation of the 1986 novella ''The Hellbound Heart'' by Clive Barker, which served as the basis for Barker's 1987 film, ''Hellraiser'', it is a reboot of the titular franchise and the eleventh installment overall and is a co-production between [[20th Century Studios]], Spyglass Media Group, and Phantom Four Films.
+
+==Synopsis==
+A young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites, a group of sadistic supernatural beings from another dimension.
+{{Citation needed}}
+
+==Cast==
+*Odessa A'zion as Riley McKendry
+*Jamie Clayton as the Hell Priest
+*Adam Faison as Colin
+*Drew Starkey as Trevor
+*Brandon Flynn as Matt McKendry
+*Aoife Hinds as Nora
+*Jason Liles as the Chatterer
+*Yinka Olorunnife as the Weeper
+*Selina Lo as the Gasp
+*Zachary Hing as the Asphyx
+*Kit Clarke as Joey Coscuna
+*Goran Visnjic as Roland Voight
+*Hiam Abbass as Serena Menaker
+*Gorica Regodic as the Mother
+*Vukasin Jovanovic as the Masque
+
+==Videos==
+<gallery>
+Hellraiser - Official Trailer - Hulu
+</gallery>
+
+==External Links==
+*{{WP|Hellraiser (2022 film)|Hellraiser}}
+{{FilmStub}}
+{{DISPLAYTITLE:''Hellraiser''}}
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:2022 films]]
+[[Category:20th Century Studios films]]
+[[Category:Hulu]]
+[[Category:Films based on books]]
+[[Category:R-rated films]]
+[[Category:Hellraiser]]

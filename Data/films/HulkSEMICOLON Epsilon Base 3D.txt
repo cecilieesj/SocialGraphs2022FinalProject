@@ -1,0 +1,54 @@
+<br>
+{{Marvel Database:Film Template
+| Image                   = Hulk Epsilon Base 3D poster 001.jpg
+| Aliases                 = 
+| Universe                = 
+
+| Directors               = Cecil D. Magpuri
+| Producers               = 
+| Writers                 = 
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Falcon's Digital Media
+| Running Time            = 3 mins
+| Rating                  = 
+| Budget                  = 
+| Release Date            = August 31, 2016
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* [[Hulk|Hulk (Dr. Bruce Banner)]] {{1st}}
+'''Supporting Characters:'''
+* [[Iron Man|Iron Man (Tony Stark)]] {{1st}}
+* [[J.A.R.V.I.S.]] {{1st}} {{Voice}}
+'''Antagonists:'''
+* [[Leader|Leader (Samuel Sterns)]] {{1st}}
+'''Other Characters:'''
+* [[Red Hulk|Gen. Thaddeus 'Thunderbolt' Ross]] {{1st}} {{Voice}}
+'''Races and Species:'''
+* {{1st|[[Humans (Homo sapiens)|Humans]]}}
+'''Locations:'''
+* Unnamed reality {{1st}}
+** {{1st|[[Earth]]}}
+*** {{1st|[[United States of America]]}}
+**** {{1st|[[Nevada (State)|Nevada]]}}
+***** {{1st|[[Epsilon Base]]}}
+'''Items:'''
+* {{1st|[[Iron Man Armor]]}}
+* {{1st|[[Gamma Core]]}}
+'''Vehicles:'''
+* Leader's Drones {{1st}}
+
+| Plot                    = 
+
+| Cast                    = 
+
+| Notes                   = '''''Hulk: Epsilon Base 3D''''' is a motion-based 3D dark ride in [[Wikipedia:IMG Worlds of Adventure#Marvel|Marvel]] in [[Wikipedia:IMG Worlds of Adventure|IMG Worlds of Adventure]]. Riders watch as [[Iron Man]] and the [[Hulk]] work to defeat the [[Leader]] and his many drones.
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Attractions]]

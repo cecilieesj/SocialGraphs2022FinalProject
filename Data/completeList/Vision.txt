@@ -1,0 +1,203 @@
+<div style="float:right"><tabber>
+|-|Original=
+{{Infobox character
+|image = Vision AOU Textless Poster.jpg
+|films = ''[[Avengers: Age of Ultron]]<br>[[Captain America: Civil War]]<br>[[Avengers: Infinity War]]<br>[[Spider-Man: Far From Home]]'' (cameo)
+|shows = ''[[The Avengers: Earth's Mightiest Heroes]]<br>[[Avengers Assemble]]<br>[[Marvel Studios: Legends]]<br>[[WandaVision]]<br>[[Loki (TV series)|Loki]]'' (archive audio)<br>''[[What If...?]]''
+|games = ''[[Marvel: Avengers Alliance]]<br>[[Disney Infinity: 3.0 Edition|Disney Infinity 3.0]]<br>[[Marvel Tsum Tsum (game)|Marvel Tsum Tsum]]<br>[[Marvel: Contest of Champions]]''<br>''[[Disney Tsum Tsum (game)|Disney Tsum Tsum]]''
+|actor = [[Paul Bettany]]
+|voice = Peter Jessop (''[[The Avengers: Earth's Mightiest Heroes]]'')<br>[[David Kaye]] (''[[Avengers Assemble]]'')<br>[[J.P. Karliak]] (''Lego Marvel Super Heroes: Avengers Reassembled'')<br>Paul Bettany (''What If...?'')
+|inspiration = Vision from [[Marvel Comics]]
+|alias = Vis<br>Everything
+|affiliations = [[Avengers]] 
+|occupation = Avenger
+|home = [[New Avengers Facility|Avengers Compound]]
+|likes = Company, human culture, order, protecting the innocent, being with Wanda
+|dislikes = Chaos, harm to others, trading lives, being used as a weapon
+|powers = Density Control<br>Energy Blasts<br>Intangibility<br>Flight<br>Superhuman Strength<br>Superhuman Durability<br>Computer Interface
+|paraphernalia = [[Infinity Stones|Mind Stone]]
+|status = Recreated
+|family = [[Ultron]] (creator)<br>[[J.A.R.V.I.S.]] (original code)<br>[[Iron Man|Tony Stark]] † (co-creator)<br>[[Hulk|Bruce Banner]] (co-creator)<br>[[Thor Odinson|Thor]] (co-creator)<br>Soul Vision (recreation from the [[Scepter|Mind Stone]])<br>White Vision (recreation from his body remains)
+|partner = [[Scarlet Witch|Wanda Maximoff]] (girlfriend)
+|children = 
+|pets = }}
+
+|-|Soul Vision=
+{{Infobox character
+|image = Profile - Soul Vision.jpeg
+|films = 
+|shows = ''[[WandaVision]]''
+|games = 
+|actor = [[Paul Bettany]]
+|voice = 
+|inspiration = Vision from [[Marvel Comics]]
+|alias = Vis<br>Illusion<br>Popsicle<br>Bro Ham-In-Law<br>Creeper<br>Soul Vision<ref name ="ET interview"/>
+|affiliations = 
+|occupation = Worker at Computational Services, Inc.
+|home = [[Westview]]
+|likes = Company, human culture, protecting the innocent, being with Wanda and their children
+|dislikes = Harm to others, being used as a weapon, not knowing who he is
+|powers = Density Control<br>Energy Blasts<br>Intangibility<br>Flight<br>Superhuman Strength<br>Superhuman Durability<br>Superhuman Speed<br>Computer Interface
+|paraphernalia = Wanda's piece of the [[Infinity Stones|Mind Stone]]
+|status = Erased
+|family = Vision (original counterpart)<br>[[Quicksilver|Pietro Maximoff]] † (brother-in-law)<br>[[Olek Maximoff]] † (father-in-law)<br>[[Iryna Maximoff]] † (mother-in-law)
+|partner = [[Scarlet Witch|Wanda Maximoff]] (creator, wife)
+|children = [[Tommy Maximoff]] (son)<br>[[Billy Maximoff]] (son)
+|pets = [[Sparky (Marvel)|Sparky]] † (dog)}}
+
+|-|White Vision=
+{{Infobox character
+|image = Profile - White Vision.jpg
+|films = 
+|shows = ''[[WandaVision]]<br>[[Vision Quest]]'' (upcoming)
+|games = 
+|actor = [[Paul Bettany]]
+|voice = 
+|inspiration = Vision from [[Marvel Comics]]
+|alias = Sentient Weapon<br>White Vision<ref name ="ET interview"/><br>The Vision
+|affiliations = [[S.W.O.R.D.]] (formerly)
+|occupation = [[S.W.O.R.D.]]'s Sentient Weapon (formerly) 
+|home =
+|likes = Knowing who he is
+|dislikes = Being used as a weapon
+|powers = Density Control<br>Energy Blasts<br>Intangibility<br>Flight<br>Superhuman Strength<br>Superhuman Durability<br>Computer Interface
+|paraphernalia = Memory storage with the original Vision's data
+|status = Active
+|family = Vision (original counterpart)
+|owner = [[S.W.O.R.D.|S.W.O.R.D. agents]] (formerly; creators)
+|children = 
+|pets = }}
+</tabber></div><br>
+{{Quote|I've been [[J.A.R.V.I.S.|a voice with no body]]. A body, but not human. And now... a memory made real. Who knows what I might be next?|Vision to [[Scarlet Witch|Wanda]]|The Series Finale}}
+
+'''Vision''' is a [[Marvel Comics]] character who is an android created by [[Ultron]]. He is a member of the [[Avengers]] team.
+
+In the [[Marvel Cinematic Universe]], he debuts in the films in [[2015]]'s ''[[Avengers: Age of Ultron]]'' after [[Iron Man|Tony Stark]] uploaded [[J.A.R.V.I.S.]]' remains into the synthetic body that Ultron was creating with the use of the [[Scepter|Mind Stone]]. In addition to the films, he and [[Scarlet Witch|Wanda Maximoff]] are the titular protagonists of the [[Disney+]] series ''[[WandaVision]]''.
+
+Vision was created by Roy Thomas, John Buscema and George Klein.
+
+==Background==
+===Powers and abilities===
+Vision is an android possessing a number of superhuman powers ultimately derived from his tissue, Vibranium and the [[Infinity Stones|Mind Stone]].
+*'''Energy blasts:''' Enables Vision to fire blasts of various kinds of energy from the Mind Stone in his forehead.
+*'''Superhuman Durability:''' The Vibranium material makes Vision extremely durable. He can also manipulate his density and weight to increase his already-high durability.
+*'''Density Control:''' Due to the Mind Stone, Vision can manipulate or alter his body's density, weight, and mass to become intangible or highly durable. By shunting a non-critical portion of his body's molecules away from him, he can become a weightless, transparent, intangible wraith, unable to be touched by solid matter. By accruing extradimensional mass and fortifying his body with it, he can make his body extremely hard and durable to the point that missiles will not harm him.
+**'''Superhuman Strength:''' Vision's base strength is considerably high due to his Vibranium-enriched tissues. Vision can greatly increase his physical strength by increasing his density base strength to 50 tons, increasing his density will increase his strength, to a maximum of 90 tons. Movement gets restrictive the more he maximizes his density.
+**'''Intangibility:''' Vision's control over his density, weight, and mass allows him to become completely intangible and phase through solid objects.
+**'''Physical Disruption:''' Vision can use his density control offensively by attaining intangibility, and then becoming tangible when passing through another object. This technique destroys the object from within.
+**'''Flight:''' When his body is at minimum mass, Vision can fly through the air weightlessly. He can move at great speeds when this happens and has control over his speed force, being able to instantly stop moving while in the air by freezing his motion.
+*'''Computer Interface:''' Vision can communicate with, interact with, and hack into other computer systems.
+*'''Genius-Level Intellect:''' Vision also is capable of rapid analysis of huge amounts of data.
+
+==Appearances==
+===''Marvel Animated Universe''===
+====''[[The Avengers: Earth's Mightiest Heroes]]''====
+Vision was created by Ultron in order to build an indestructible body for it. This was to be Ultron's "vision for the future." He was tasked with stealing adamantium from Weapon X and [[Captain America]]'s [[Captain America's Shield|shield]] as well as [[vibranium]] from Wakanda. Vision successfully infiltrated Weapon X but failed to acquire the shield and vibranium. While in Wakanda, he was damaged by [[Black Panther]], Captain America, [[Thor Odinson|Thor]], and [[Hawkeye]]. Vision retreated after being defeated. Despite his failure, Ultron settled with just having adamantium.
+
+Vision then built synthetic versions of each of the Avengers so they would replace the real ones. However, Vision's artificial intelligence began growing outside Ultron's original programming. He began to question his creator's actions. Captain America infiltrated their base and Vision was ordered to kill him. Inspired by Captain America's humanity, Vision betrayed his creator just before Ultron could kill Cap and freed the captured Avengers. He exploited Ultron's one weakness by disconnecting the head from its body allowing the Avengers to defeat him. While fleeing the base, Cap saved Vision. Upon their return to the Avengers Mansion, Vision explained that he came to the conclusion that Ultron's actions were incorrect. Ultron had programmed him to be perfect, but he believed he should be more like humans.
+
+When Vision needed repairs, he was shut down for a month and awakened to discover that the team had become dictators, ruling the world. He soon found out that [[Kilgrave|Purple Man]] used his powers on [[Iron Man]] who used his satellites to amplify his powers. Vision was able to snap the team out of their spell and free everyone.
+
+He joined the team along with the New Avengers in defeating [[Galactus]] and his heralds.
+
+====''[[Avengers Assemble]]''====
+Vision appears in the show's third season episode "A Friend in Need."
+
+===[[Marvel Cinematic Universe]]===
+====''[[Avengers: Age of Ultron]]''====
+As Ultron sought to create a more powerful body, he and the Maximoff twins went to Seoul to attack the U-Gin Research Genetics. Ultron asked Dr. Helen Cho if she could create a new body to him, Cho refused to such a request; Ultron then used Loki's scepter to manipulate her. Cho created his new body, Ultron was preparing to transfer his mind to the android, Scarlet Witch took advantage of this to read Ultron's thoughts and found out his plan of global destruction. Wanda then freed Cho from mind control, which caused Ultron attacked her and her brother. Shortly after, the Avengers took control of the body after the battle against Ultron and his sentries.
+
+When Bruce Banner and Tony Stark worked in the body, Stark revealed to Banner that [[J.A.R.V.I.S.]] was still alive and that he sought to transfer J.A.R.V.I.S' mind into the android. Stark's desire caused a discussion between the Avengers, suddenly Thor appeared, and using Mjolnir created a lightning that gave life to the android. The android looked confused at the time of his birth. After attacking Thor, the being apologized for his behavior and took a similar appearance to the god of thunder. Thor explained to his comrades that the being was wearing an [[Infinity Stones|Infinity Stone]], specifically the Mind Stone.
+
+A confused Captain America asked why the being sounded like JARVIS, Stark explained him that he had upload JARVIS into the android. Vision told the Avengers that he was not Ultron nor JARVIS, he is only himself. He also explained that he is on the side of life, while Ultron was not. He told the Avengers that Ultron was in a state of pain; and that Ultron wants to take revenge on them, especially Tony as he was the Avenger most hated. After finishing, Vision was able to lift [[Mjolnir]] for the surprise from everyone in the room.
+
+He, the Avengers, and the Maximoff twins went to Sokovia to stop Ultron and prevent his plan was a success. Vision confronted Ultron and asked to stop all this, Ultron responded by trying to strangle Vision. Vision took the opportunity to hack into Ultron's programming and disable his ability to enter the net. Shortly after, Vision hits Ultron with Mjolnir before returning it Thor. Later, Ultron attacked Vision in midair; he defended himself by blasted it. Thor and Iron Man joined him and attacked Ultron, leaving the rogue robot badly wounded.
+
+When Iron Man and Thor destroyed the city, Vision flew and helped [[Scarlet Witch]] to move away from danger. A Ultron sentry that had survived was intercepted by Vision, who asked him if he was afraid of dying. Ultron instead replied that Vision was only Stark's slave and it was very naive, Vision simply smiled at this and countered by saying that he was "born yesterday". Ultron tried to attack only to be blasted and destroyed forever by Vision.
+
+After Ultron's defeat, Vision was recruited along with Scarlet Witch, [[War Machine]], and [[Sam Wilson|Falcon]] as new members of the Avengers.
+
+====''[[Captain America: Civil War]]''====
+Vision is a member of the the New Avengers, but stays behind at [[New Avengers Facility|their new facility]] during their mission to stop [[Crossbones]] in Lagos. After Wanda's attempt to stop Rumlow from a suicide bombing which resulting the deaths of Wakandan goodwill workers there, the Avengers' personal accountability was brought into question. He walks through the wall while Steve and Wanda were blaming each other for the incident. He informs them that the Secretary of State is with Stark. He sits with the other Avengers as Ross explained that there were disagreements among the world's governments about whether the Avengers should all be considered heroes or vigilantes as the unlimited power with which they have operated could no longer be tolerated since it was almost impossible to control. He presents them the Sokovia Accords which would give them control over the Avengers actions, aiming to ensure less civilian casualties and property damage in the future. He explains that since Stark announced himself as Iron Man, the number of enhanced individuals has grown and world ending events occurred because of it and the Accords would be a safety measure to prevent a future catastrophe. He joins Stark's avengers as they are sent to capture Rogers and his team. He accidentally blasts Rhodes out of the sky.
+
+====''[[Avengers: Infinity War]]''====
+{{Quote|[[Scarlet Witch|You]] could never hurt me... I just feel you.|Vision asks Wanda to destroy him}}
+Vision is targeted by [[Thanos]] for the Mind Stone. Scarlet Witch attempts to intervene, but Thanos ultimately kills Vision for the sixth stone, allowing him to snap his fingers and eliminate half of existence.
+
+====''[[Spider-Man: Far From Home]]''====
+He is seen at the beginning during a tribute to all those who died in the Infinity War.
+
+====''[[WandaVision]]''====
+{{Quote|But what is grief, if not love persevering?|Vision to Wanda|Previously On}}
+[[Scarlet Witch|Wanda]], still grieving over Vision, uses the piece of the [[Infinity Stones|Mind Stone]] that lives inside her to recreate him and also creates a world where the two live as a married couple with two twin boys in a suburban sitcom like world. This world was created by trapping all the inhabitants of a town called [[Westview]] (located in [[New Jersey]]) inside a magic energy field that surrounds the area, keeping the illusion of the sitcom and forcing the people inside to live the fantasy with Wanda, and if anyone mentions [[Quicksilver|her brother]], [[Ultron]] or anything in the Marvel Cinematic Universe's reality, she ejects them.
+
+In [[The Series Finale|the series finale]], the Vision recreated by Wanda inside Westview battles a white version of himself that has his original body, that was rebuilt by [[S.W.O.R.D]], and helps him recover all the memories of the events of the MCU. With his memories restored, White Vision flies away from the town, while the Vision created by Wanda stays inside the fantasy reality and disappears when Wanda decides to remove the energy field of the town in the end of the episode.
+
+====''[[What If...?]]''====
+The alternate Vision appears in "[[What If... Zombies!?]]" with the Quantum Virus outbreak has a taken a toll on him when his love, [[Scarlet Witch|Wanda]], was infected, as he became desperate, trying to find a cure to save her.
+
+====''[[Doctor Strange in the Multiverse of Madness]]''====
+Vision does not appear in this film, but he is mentioned by Wanda when she talks about the theories about the Multiverse. An alternate Vision from Earth-838 is alive and divorced from that universe's Wanda.<ref name=earth838>[https://collider.com/elizabeth-olsen-marvel-contract-doctor-strange-2-multiverse-of-madness-wanda/ Elizabeth Olsen on ‘Doctor Strange 2,’ Her Marvel Contract, and How She Never Met Some of the Cast While Filming]</ref>
+
+==Gallery==
+{{Gallerylink}}
+
+==Trivia==
+*In the films, Vision is built with Jarvis' brain waves. In the comics, he has the brain patterns of [[Wonder Man]].
+*Vision's actor [[Paul Bettany]] is married to [[Jennifer Connelly]] who voiced [[Karen (Marvel)|Karen]] in ''[[Spider-Man: Homecoming]]''.
+*His Mexican wrestler costume he wears for Halloween in the [[All-New Halloween Spooktacular!|sixth episode]] of ''[[Wandavision]]'', is the spitting image of his comic book costume.
+*In the [[Previously On|seventh episode]] of ''WandaVision'', the director of S.W.O.R.D., [[Director Hayward|Tyler Hayward]], refers to Vision as Wanda's "soulmate" when he tells her that she has the power to bring him back to life. As "soulmates" is a pair of individuals with a strong bond that complement each other, also often defined as a soul split in two, this foreshadows Wanda using a piece of herself as her heart and/or soul to bring Vision back, something that happens in the end of this same episode. During the scene, a yellow colored energy comes out of her to give form to him inside the new reality and in [[The Series Finale|the final episode]], it is confirmed that Vision was created from a piece of the [[Infinity Stones|Mind Stone]] that lives inside Wanda.
+**The creator of the series, Jac Schaeffer, further reinforces this idea by calling the Vision recreated by Wanda "Soul Vision".<ref name ="ET interview">{{Cite web|url=https://www.etonline.com/wandavision-series-finale-interview-jac-schaeffer-161951|title='WandaVision' Creator on Agatha's Master Plan, That Ralph Bohner Reveal and White Vision (Exclusive)|website=Entertainment Tonight|date=[[March 10]], [[2021]]}}</ref><ref name ="The Direct interview">{{Cite web|url=https://thedirect.com/article/wandavision-white-vision-paul-bettany-mcu-future|title=WandaVision Producer Addresses White Vision's Future In MCU|website=The Direct|date=[[March 10]], [[2021]]}}</ref>
+*By calling the Vision inside the Hex "Soul Vision", the creator of ''WandaVision'' might also be referring to the fact that this Vision has a similar personality to the original one, as if Wanda was able to recover Vision's "soul" by recreating him with her memories and feelings while using the Mind Stone, while the Vision that [[S.W.O.R.D.]] reconstructed with his original body and data is much more robotic and less human.
+*The creator of the ''WandaVision'' series also stated in an interview that White Vision's whereabouts after flying away were not shown because they wanted to focus in the titular Vision, and that despite White Vision having Vision's original body and data, he is a different character, not being the one who Wanda has been in the sitcom with or the one she said goodbye in Wakanda.<ref>{{Cite web|url=https://www.cinemablend.com/television/2564104/why-wandavision-didnt-reveal-what-happened-to-white-vision-according-to-the-head-writer|title=Why WandaVision Didn't Reveal What Happened To White Vision, According To The Head Writer|website=CinemaBlend|date=[[March 9]], [[2021]]}}</ref><ref name ="ET interview"/><ref name ="The Direct interview"/>
+*''[[Doctor Strange in the Multiverse of Madness]]'' reveals that an alternate version of Vision in Earth-838 is still alive as Thanos' gauntlet from the Infinity War in that universe doesn't have Vision's mind stone. [[Elizabeth Olsen]] later revealed that the Vision in Earth-838 divorced Wanda instead of dying in the Infinity War.<ref name=earth838/>
+
+==References==
+{{Reflist}}
+
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Vision|Marvel Cinematic Universe Wiki}}
+
+{{MAUWiki|Vision (Yost Universe)}}
+{{Marvel Cinematic Universe}}
+{{Marvel Animated Universe}}
+{{Disney Infinity}}
+{{DisneyTsumTsum}}
+
+[[es:Visión]]
+[[nl:Vision]]
+[[pt-br:Visão]]
+[[ru:Вижен]]
+[[Category:Marvel Comics characters]]
+[[Category:Superheroes]]
+[[Category:Robots]]
+[[Category:Characters]]
+[[Category:The Avengers: Earth's Mightiest Heroes characters]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Heroes]]
+[[Category:Protagonists]]
+[[Category:Live-action characters]]
+[[Category:The Avengers characters]]
+[[Category:Characters who fly]]
+[[Category:Captain America characters]]
+[[Category:Avengers Assemble characters]]
+[[Category:Disney Infinity characters]]
+[[Category:Tsum Tsum characters]]
+[[Category:Characters in video games]]
+[[Category:Lovers]]
+[[Category:Parents]]
+[[Category:Spouses]]
+[[Category:WandaVision characters]]
+[[Category:Acquired characters]]
+[[Category:Disney XD characters]]
+[[Category:Those destroyed]]
+[[Category:Those brought back to life]]
+[[Category:Singing characters]]
+[[Category:Characters who break the Fourth Wall]]
+[[Category:Alternate Forms]]
+[[Category:Alternate Timeline Versions]]
+[[Category:What If...? characters]]
+[[Category:Created by Magic]]
+[[Category:Programs]]

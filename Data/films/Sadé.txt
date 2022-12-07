@@ -1,0 +1,40 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|director = 
+|producer = Rick Famuyiwa
+|writer = Ola Shokunbi<br>Lindsey Reed Palmer
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = 
+|release = 
+|time = 
+|language = 
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = }}
+'''''Sadé''''' is an upcoming live-action fairy tale film produced by [[Walt Disney Pictures]]. It tells the story of an African princess, based on an original idea by Ola Shokunbi and Lindsey Reed Palmer. Rick Famuyiwa is attached to produce the film, while Scott Falconer will serve as executive producer.<ref name="Deadline">{{Cite web|website=Deadline|url=https://deadline.com/2018/07/disney-sade-fairytale-african-princess-rick-famuyiwa-producing-1202434114/|title=Disney Picks Up ‘Sadé’ Pitch, Fairytale About An African Princess; Rick Famuyiwa Producing|date=July 27, 2018}}</ref><ref>{{Cite web|website=Collider|url=http://collider.com/disney-african-princess-movie-sade/|title=Disney to Develop ‘Sadé’ a Live-Action African Princess Fairytale Film|date=July 27, 2018}}</ref>
+
+
+
+==Synopsis==
+''Sadé'' centers on a young African girl named Sadé who, when her kingdom is threatened by a mysterious evil force, accepts her newly discovered magical warrior powers to protect herself and her people. With the help of the kingdom’s prince, Sadé embarks on an adventure that will allow her to embrace what makes her special and save the kingdom.<ref name="Deadline" />
+
+==Trivia==
+*This will be the first Disney feature that is led by an African princess. Although [[Tiana]] from ''[[The Princess and the Frog]]'' is also of African descent, she is African-American and thus does not count.
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Disney films]]

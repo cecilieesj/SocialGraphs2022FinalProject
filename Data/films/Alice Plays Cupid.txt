@@ -1,0 +1,27 @@
+{{Infobox film
+|image =
+|name = Alice Plays Cupid
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[October 15]], [[1925]]
+|preceded = ''[[Alice the Jail Bird]]''
+|followed = ''[[Alice Rattled by Rats]]''
+}}'''''Alice Plays Cupid''''' is an animated short film that is part of the ''[[Alice Comedies]]'' that were released by Winkler Pictures in [[1925]]. It was in black and white and silent.
+
+==Summary==
+While serving as a lifeguard, [[Julius the Cat|Julius]] falls in love and then saves the life of a cute female cat. Alice helps out by driving the car they eventually elope in.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1925-cupids-02.jpg
+1925-cupids-03.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=33 Alice Plays Cupid] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+[[Category:Animated shorts]]
+[[Category:1925 shorts]]
+[[Category:Alice Comedies]]

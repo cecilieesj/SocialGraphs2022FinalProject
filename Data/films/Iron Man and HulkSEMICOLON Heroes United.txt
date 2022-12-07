@@ -1,0 +1,80 @@
+{{Marvel Database:Film Template
+| Image                   = Iron Man and Hulk Heroes United.jpg
+| Aliases                 = Iron Man & Hulk: Heroes United
+
+| Directors               = Eric Radomski; Leo Riley
+| Producers               = Tammy Holguin
+| ScreenplayWriters       = Brandon Auman; Henry Gilroy
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Marvel Animation
+| Running Time            = 71 mins
+| Rating                  = 
+| Budget                  = 
+| Release Date            = December 3, 2013
+
+| AM ID                   = iron-man-hulk-heroes-united-v576522
+| IMDB ID                 = 3221698
+| Marvel Movies           = Iron Man & Hulk: Heroes United
+
+| Next Film               = Iron Man and Captain America: Heroes United
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Anthony Stark (Earth-TRN607)|Iron Man (Tony Stark)]]}}
+* {{1st|[[Bruce Banner (Earth-TRN607)|Hulk (Bruce Banner)]]}}
+'''Supporting Characters:'''
+* {{1st|[[Just A Rather Very Intelligent System (Earth-TRN607)|J.A.R.V.I.S.]]}}
+'''Antagonsists:'''
+* {{Only Dies|[[Zzzax (Earth-TRN607)|Zzzax]]}}
+* {{1st|[[Hydra (Earth-TRN607)|Hydra]]}}
+** {{1st|[[Johann Shmidt (Earth-TRN607)|Red Skull (Johann Shmidt)]]}} {{Cameo}}
+** Dr. Cruller {{1st}}
+** Dr. Fump {{1st}}
+* {{Only|[[Emil Blonsky (Earth-TRN607)|Abomination (Emil Blonsky)]]}}
+'''Other Characters:'''
+* {{1st|[[Steven Rogers (Earth-TRN607)|Captain America (Steve Rogers)]]}} {{OnScreen}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{Only|[[Wendigo (Race)|Wendigos]]}}
+'''Locations:'''
+* {{1st|[[Earth-TRN607]]}}
+** {{1st|[[Earth]]}}
+*** {{1st|[[United States of America]]}}
+**** [[Stark Industries]] {{1st}}
+**** Cemetery {{Only}}
+**** Hydra Base {{1st}}
+'''Items:'''
+* {{Only|[[Iron Man Armor MK II (Earth-199999)|Iron Man Mark II Armor]]}} {{Destroyed}}
+* {{Only|[[Iron Man Armor MK VI (Earth-199999)|Iron Man Mark VI Armor]]}}
+* {{1st|[[Iron Man Armor MK VII (Earth-199999)|Iron Man Mark VII Armor]]}}
+* {{Only|[[Hulkbuster Armor]]}}
+* {{Only|[[Mandroid Armor|Mandroids]]}}
+* {{1st|[[Arc Reactor]]}}
+* {{1st|[[Captain America's Shield]]}} {{OnScreen}}
+* {{Mentioned|[[Super-Soldier Serum]]}}
+'''Vehicles:'''
+* {{Only|[[S.H.I.E.L.D. Helicarrier|Stark Industries Helicarrier]]}}
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Adrian Pasdar|Adrian Pasdar]] as Iron Man/Tony Stark
+* [[wikipedia:Fred Tatasciore|Fred Tatasciore]] as Hulk
+* [[wikipedia:Dee Bradley Baker|Dee Bradley Baker]] as Zzzax and Doctor Cruller
+* [[wikipedia:Robin Atkin Downes|Robin Atkin Downes]] as Abomination and Doctor Fump
+* [[wikipedia:David Kaye|David Kaye]] as J.A.R.V.I.S.
+* [[wikipedia:Liam O'Brien|Liam O'Brien]] as Red Skull
+
+==Videos==
+<gallery widths="300" spacing="small" hideaddbutton="true">
+Marvel's Iron Man & Hulk Heroes United Trailer 1
+</gallery>
+<br clear="all">
+
+| Notes                   = * It has been stated by the producer of the movie, Todd Casey, that this movie is intended to take place between ''[[Marvel's The Avengers]]'' and its sequel.<ref>{{cite web|url=http://marvel.com/news/story/20216/iron_man_hulk_unite_for_the_holidays_in_new_animated_film|title=Iron Man & Hulk Unite for the Holidays in New Animated Film|work=Marvel.com|date=February 28, 2013|accessdate=March 05, 2012|last=|first=}}</ref>
+* The movie was initially slated for an April 23, 2013, release. It is currently unknown why the film was pushed back until early December of the same year.
+| Trivia                  = * A clip for a sequel of this movie, called ''Iron Man and Captain America: Heroes United'' has been revealed in Amazon.com.<ref>{{cite web|url=http://www.amazon.com/gp/mpd/permalink/m27O0JMRP2O6UT/ref=ent_fb_link|title=Amazon.com : Iron Man and Hulk Heroes United|date=December 4, 2013|accessdate=December 4, 2013}}</ref>
+| Links                   = * [[Marvel Films#Direct-to-Video Films|Marvel Films]]
+}}
+[[ru:Железный человек и Халк: Союз героев]]

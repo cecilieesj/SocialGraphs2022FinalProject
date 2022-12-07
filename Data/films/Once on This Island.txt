@@ -1,0 +1,26 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox_film
+|image = 
+|name = Once on This Island
+|director = Wanuri Kahiu
+|producer = [[Marc Platt]]
+|writer = Jocelyn Bioh
+|music = Stephen Flaherty
+|studio = [[Walt Disney Pictures]]<br>Marc Platt Productions
+|distributor = [[Disney+]]
+|language = English
+}}
+'''''Once on This Island''''' is an upcoming [[Disney+]] original film, based on the Broadway musical of the same name.
+
+==Plot==
+A peasant girl falls in love with aristocrat. Against this backdrop, social class differences play out while the island gods wager a bet of what is stronger, love or death.
+
+{{Disney+}}
+{{DISPLAYTITLE:''Once on This Island''}}
+[[Category:Films]]
+[[Category:Film adaptations of stage musicals]]
+[[Category:Live-action films]]
+[[Category:Disney films]]
+[[Category:Disney+ Originals]]
+[[Category:Upcoming]]

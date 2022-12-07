@@ -1,0 +1,24 @@
+{{Infobox film
+|name        = The Camel
+|director    = 
+|producer    = 
+|writer      = 
+|distributor = Walt Disney Productions
+|language    = English
+|image = Image:1956-nature-camel-01.jpg
+|time = 10 minutes
+|imagewidth = 250px|release = [[1956]]}}
+'''''The Camel''''' is ''The Nature of Things'' short that originally aired on ''[[The Mickey Mouse Club]]''.
+
+==Synopsis==
+Combines live action and animation to tell the story of desert camels in North Africa.
+
+==Gallery==
+<gallery>
+1956-nature-camel-02.jpg
+1956-nature-camel-03.jpg
+</gallery>
+{{DEFAULTSORT:Camel, The}}
+[[Category:1956 shorts]]
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse Club]]

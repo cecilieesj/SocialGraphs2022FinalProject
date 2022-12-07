@@ -1,0 +1,68 @@
+{{Infobox character
+|image = Peteronic.png
+|name = Petetronic
+|games = ''[[Epic Mickey]]<br>[[Epic Mickey 2: The Power of Two]]''
+|voice = [[Jim Cummings]]
+|model = 
+|designer = 
+|inspiration = [[Tron (character)|Tron]], [[Commander Sark]]
+|awards = 
+|fullname = 
+|alias = 
+|personality = 
+|appearance = Similar in appearance to [[Pete]], program suit with glowing circuit lines, tanks on his back
+|occupation = 
+|alignment = 
+|affiliations = 
+|goal = 
+|home = [[Tomorrow City]]
+|family = 
+|pets = 
+|friends = 
+|minions = 
+|enemies = [[Mickey Mouse]]
+|likes = 
+|dislikes = 
+|powers = [[Thinner]] spray, shield generation
+|possessions = 
+|weapons = [[Identity Disc]], Cesta
+|fate = Redeemed or derezzed (player's choice)
+|quote = }}
+'''Petetronic''' is one of the many incarnations of [[Pete]] in the [[Cartoon Wasteland]] and is the second boss encountered in the game. He is based off of the programs from ''[[TRON]]'' and bears a strong resemblance to [[Commander Sark]]. Originally, he was to be the protector of [[Tomorrow City]], but went insane after the Thinner Disaster and the attacks of [[The Blot|the Blot]].
+
+==''[[Epic Mickey]]''==
+When [[Mickey Mouse|Mickey]] enters the arena atop Space Voyage to retrieve the Identity Disc, the walkway behind him suddenly derezzes. Petetronic suddenly materializes in the center and challenges the mouse to a duel similar to [[w:c:tron:Ring Game|Ring Game]]. Petetronic boasts that he's the master of the arena and that he always wins.
+
+Petetronic attacks by flinging his disc at his foe and also throws streams of [[Thinner]] that dissolve the ring of platforms surrounding the outer part of the arena (though Mickey can use [[Paint]] to restore them). Mickey has to use a spin attack to send Petetronic's disc back to stun him and expose the tanks on his back. Once exposed, Mickey can use Paint or Thinner to fill them.
+
+Whenever Mickey fills up the tanks, Petetronic starts shooting more blasts of Thinner. He even summons a protective barrier around him (similar to the [[Master Control Program]]) when the disc is knocked back at him. Mickey can knock the disc at parts of the barrier to create gaps to expose Petetronic.
+
+If Mickey uses Thinner to fill the tanks, Petetronic is rendered more vulnerable from his disc attack, takes additional damage, and his circuitry turns green. Once the tank is full of Thinner, it is the "End of Line" for Petetronic on the next hit, allowing Mickey to claim the disc. Derezzing Petetronic upgrades Mickey's Thinner capacity and earns the "Defeated Petetronic" pin. The ending cutscene shows a wireframe image of Petetronic appearing on a monitor, frightening the [[Gremlins]] nearby.
+
+If Mickey uses Paint to fill the tanks, parts of Petetronic's armor will derez and his circuitry turns blue. Once all parts of Petetronic's armor have been derezzed, he will become an ally (now resembling [[Tron (character)|Tron]]) and gladly hand the disc to Mickey without a fuss. Reprogramming Petetronic upgrades Mickey's Paint capacity and earns the "Redeemed Petetronic" pin. The ending cutscene shows Petetronic riding the Moonliner rocket along with other Gremlins.
+
+==''[[Epic Mickey 2: The Power of Two]]''==
+Petetronic makes an appearance in [[Blot Alley]], watching over the entrance to Club 13.
+
+==Gallery==
+<gallery>
+Derez Petetronic.png
+Petetronic derezzed.png
+Tron Petetronic.png
+Petetronic redeemed.png
+</gallery>
+
+{{Epic Mickey}}
+[[Category:Epic Mickey characters]]
+[[Category:Epic Mickey Bosses]]
+[[Category:Characters in video games]]
+[[Category:Programs]]
+[[Category:Cats]]
+[[Category:Anthropomorphic characters]]
+
+[[Category:Deceased characters]]
+[[Category:Video game bosses]]
+[[Category:Villains]]
+[[Category:Alternate Forms]]
+[[Category:Disney characters]]
+[[Category:Mickey Mouse universe characters]]

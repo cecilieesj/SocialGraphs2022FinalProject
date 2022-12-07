@@ -1,0 +1,289 @@
+{{Featured}}
+{{Infobox film
+|image = Monsters, Inc. poster.jpeg
+|director = [[Pete Docter]]<br>[[Lee Unkrich]] {{Small|(Co-Director)}}<br>David Silverman {{Small|(Co-Director)}}
+|producer = [[Darla K. Anderson]]<br>[[John Lasseter]] {{Small|(Executive)}}<br>[[Andrew Stanton]] {{Small|(Executive)}}<br>[[Kori Rae]] {{Small|(Associate)}}
+|writer = Pete Docter {{Small|(Story)}}<br>[[Andrew Stanton]] {{Small|(Screenplay)}}<br>[[Ralph Eggleston]] {{Small|(Story)}}<br>[[Daniel Gerson]] {{Small|(Screenplay)}}<br>[[Jeff Pidgeon]] {{Small|(Story)}}<br>Jill Culton {{Small|(Story)}}
+|starring = [[John Goodman]]<br>[[Billy Crystal]]<br>[[Mary Gibbs]]<br>[[Steve Buscemi]]<br>[[Jennifer Tilly]]<br>[[James Coburn]]
+|music = [[Randy Newman]]
+|editor = Robert Grahamjones<br>Jim Stewart
+|studio = [[Walt Disney Pictures]]<br>[[Pixar|Pixar Animation Studios]]
+|distributor = [[Buena Vista Pictures Distribution]]
+|release = [[November 2]], [[2001]]
+|time = 93 minutes
+|language = English
+|budget = $115 million
+|gross = $577 million
+|preceded = ''[[Toy Story 2]]''
+|followed = ''[[Finding Nemo]]<br>[[Monsters University]]''
+|imdb_id = 0198781}}
+{{Quote|It's nothing personal. It's just their job.|Tagline}}
+'''''Monsters, Inc.''''' is a [[2001]] computer-animated film and the fourth feature-length buddy comedy film produced by [[Pixar|Pixar Animation Studios]]. It was directed by [[Pete Docter]], co-directed by [[Lee Unkrich]] and David Silverman, and was written by Jack W. Bunting, Jill Culton, Pete Docter, [[Ralph Eggleston]], [[Dan Gerson]], [[Jeff Pidgeon]], Rhett Reese, [[Jonathan Roberts]], and [[Andrew Stanton]].
+
+The film was released to theaters by [[Walt Disney Pictures]] in the United States on [[November 2]], 2001. It was a commercial and critical success, grossing $562,816,256 worldwide. Rotten Tomatoes also reported positive reviews with a fresh 96% approval rating. The film was re-released in theaters in 3-D on [[December 19]], [[2012]]. A prequel titled ''[[Monsters University]]'' was released on [[June 21]], [[2013]] and is also [[Pixar]]'s first prequel film made to one of their original films.
+
+A television spin-off series titled ''[[Monsters at Work]]'' was announced during a Disney press release on [[November 9]], [[2017]]. It was released on [[Disney+]] in July [[2021]].
+
+==Plot==
+The movie opens with a young kid laying in bed, frightened while looking at his closet door. Next thing he knows, a monster is standing beside him. The boy sits up and the scared monster screams, trips, and falls. Suddenly, alarms go off, lights come on, and we discover that it is a scaring practice going on in the training room of Monsters, Inc, the power company of Monstropolis. The head of the power company is [[Henry J. Waternoose|Mr. Waternoose]] (James Coburn), who is training new monsters to scare kids. It seems that Monstropolis gets all its power from screams, and he has a whole squad of monsters whose job it is to scare kids at night and collect their screams.
+
+It is a very complicated system they have for collecting the screams. They have a warehouse full of closet doors, and they call up a particular door for whichever room they want. The door is sent by a hanging conveyor belt and placed in front of the monster on the "scare floor". When the door is opened, the monster is in another room in another part of the world. If for any reason there is a problem with that particular room, the door is shredded.
+
+One other thing... Monsters are actually more scared of the human kids than the kids are of them. If any part of the human world enters the monster world, the CDA (Child Detection Agency) comes in and decontaminates the place and the monster bringing it in.
+
+The top scarer is [[James P. Sullivan|James P. "Sulley" Sullivan]] (John Goodman). He is the best in the business. With the help of his assistant [[Mike Wazowski]] (Billy Crystal), they are about to break the record for most screams collected. In 2nd place on the list is [[Randall Boggs]] (Steve Buscemi). He will stop at nothing to be in first place. One night, Mike is in a hurry to get out since he has a date with his girlfriend [[Celia Mae]] (Jennifer Tilly) to celebrate her birthday at a [[Harryhausen's|fancy restaurant]] that he just reserved. He forgets to finish his paperwork though, so Sulley says he will go back in to get it. Sulley goes back to the scare floor, now deserted, except for one door that's still on the floor. Sulley is curious, so he peeks inside the door into [[Boo's Room|a child's room]], where no one's inside. Suddenly, he hears a thumping sound caused by his tail, and as he turns around he notices a cute little human girl playing with it, not scared of Sulley at all and in fact, thinks he is cute. Sulley is terrified of her and tries to put her back into her room before anyone finds out. Quickly, he runs out the door, back to the scare floor, and into the bathroom to get as far away from the girl as he can. When he looks into the mirror, however, he discovers that the girl is on his back.
+
+Sulley takes the girl back to her door again, but when he goes back to the scare floor, Randall and his assistant are looking in the door, upset that the girl isn't there. They send the door back to the door warehouse. Sulley places the girl in a suitcase and heads out to the restaurant to find Mike. He interrupts Mike and Celia's dinner and shows Mike what he has in the suitcase, but both realize that the girl inside got out, sending the whole restaurant in panic with the monsters being evacuated. The CDA arrive, and the patrons are panicking and running, terribly fearful of the girl.
+
+Sulley scoops her up, and he, the girl (whom he names [[Boo]]) and Mike run to their apartment just before the restaurant in encased in a decontamination dome. They try to hide her as the helicopters are searching outside, but whenever she cries, the lights come on brighter. Though when she laughs, the lights come on super bright. In fact, she laughs so hard once that she blows the fuse to the building. The next day they put a monster costume on Boo and bring her to the factory. Their goal is to find her door and bring her back without anyone noticing. Unfortunately, Randall and Fungus are also there searching for Boo. It made the news about Boo and the restaurant, and they are sure it is their fault.
+
+Eventually, Randall convinces Mike that the door will be there waiting for them if they bring the girl back to the scream floor. Mike tells Sulley this, and right before they enter, Sulley figures out that Randall would never want to help them, so it must be a trap of some kind. Mike thinks he is crazy and runs in and starts jumping on Boo's bed to prove nothing is wrong. Suddenly, a box comes down and traps Mike inside. Sulley hides as Randall, and his assistant take the box to another room in the warehouse.
+
+In the basement, Randall reveals to Mike that he has built a machine called the "Scream Extractor" to extract children's screams from their lungs (which would make the company's current tactics redundant). Randall straps Mike to the chair for experimentation and starts it up to try not to let him talk, but Sulley unplugs the machine. He then takes Mike and, along with Boo, runs to find Mr. Waternoose. Waternoose is proud of the two of them for discovering Randall's evil plan. The most important thing is, however, getting the girl back home. They head to the scare floor, and Waternoose calls up Boo's closet door.
+
+Sulley and Mike say that it is the wrong door. Mr. Waternoose says he knows... it is not the door for her, but for ''them'', and with that, he pushes the two through a door that leads them to the snowy peaks of the Himalayas. Waternoose has actually been helping Randall in the plan this whole time. They have been banished from Monstropolis. Sulley and Mike meet the Abominable Snowman who tells them that there is a village at the bottom of the mountain, which gives Sulley the idea that if they go to the village, all they have to do is to find any kid's closet and return to Monstropolis.
+
+Back to the scare floor and out of a door comes Sulley. In Randall's lair, he and Mr. Waternoose argue over Randall's negligence that forced Waternoose to banish Sulley, feeling regretful about it. Sulley rushes to the secret room, and there, trapped in a chair, is Boo, about to have her screams sucked out. Sulley arrives and destroys the machine, takes Boo, and they rush to the scream floor (along with Mike who also returned from the Himalayas) to get her door with Randall right on their heels. They race from door to door, trying to find a shortcut to Boo's door in the warehouse. Each door they go through takes them to different places throughout the Earth.
+[[File:Mike Wazowski in front of the CDA.jpg|thumb|"I don't know about the rest of you guys. But I spotted several big mistakes."|220px]]
+They finally trap Randall in a door that leads to a trailer in the Bayou. The kid in the trailer calls out to his mother that another alligator has come inside, and the boy hands a shovel to his mother, who then clubs the "gator". Once they returned to the scare floor, the CDA chases Mike while Waternoose chases Sulley and Boo through a door that appears to be Boo's. Waternoose confronts Sulley and declares that he will do anything to save the company, even if it means kidnapping children. Suddenly, an alarm sounds, and all the lights come on. They are not in Boo's room after all. They are actually in the training room from the beginning of the film, and Waternoose has just confessed in front of everyone.
+
+They are all shocked, and the CDA arrest Waternoose after hearing his confession. The actual head of the company was Monsters Inc's dispatcher [[Roz]], who has been undercover for over two and a half years trying to expose Randall and Waternoose's plan. She congratulates Sulley and gets the key to bringing Boo's door down.
+
+Sulley, who has grown quite fond of Boo, tucks her in her own bed, plays with a few of her toys with her, and then goes back to his own world, shutting the door behind him to never see Boo again and turning that door back into Boo's ordinary closet. The door is shredded. The next day, the workers are now leaving the factory for the last time. It is permanently closing because kids just cannot be scared anymore. As Mike comments on how the past few days went, Sulley hears him say the word "laughs" and suddenly has an idea of how to save the company.
+
+A couple of days later, Mike entering a kid's closet door. He sits down in front of the kid and starts doing a stand-up routine as a comedian, but to no avail. Mike has had enough and quickly does his final act. He swallows his microphone, waits a few seconds, and then burps loudly, making the kid laugh. As Mike leaves, he checks the power generated, and it is an enormous amount. It turns out that a child's laugh has ten times the power of a child's scream. The factory is saved, and everyone got their jobs back. However, Sulley is still sad as he still misses Boo. As mementos, he kept one of Boo's drawings and a single piece of her door under some pages on his clipboard. Mike then tells him that he has a surprise.
+
+In the testing room, it is revealed the Mike had re-pieced Boo's door successfully together. All it needs is one more piece. Sulley grabs the final piece from his clipboard, places it into the door, and the light above illuminates. He slowly opens the door and looks to see if Boo is around. Boo then says, "Kitty," and Sulley smiles in delight for seeing Boo once more.
+
+==Cast==
+*[[John Goodman]] as [[James P. Sullivan]], a large, furry cyan monster with purple spots and the protagonist of the film. At the start of the film, is Monsters, Inc.'s top scarer. After Waternoose's plan is revealed, Sulley becomes the CEO of the company, overseeing the collection of laughter from children.
+*[[Billy Crystal]] as [[Mike Wazowski]], a medium-sized, green monster and Sulley's sidekick, who is mostly an eyeball with hands, feet, and horns. Mike is Sulley's best friend and runs his station on the scare floor. After Sulley takes over, Mike becomes one of the monsters that helps extract laughs from children, using his stand-up comedy.
+*[[Mary Gibbs]] as "[[Boo]]", a two-year-old human girl that is inadvertently brought back to the monster world by Sulley. She appears unafraid of the strange monsters (except for Randall, who it turns out was the monster that would occupy her closet the most out of all the Monsters, Inc. monsters), and tries to explore the world on her own. In a book based on the film, it is revealed that Boo's real name is Mary Gibbs (the same name of her voice actress).
+*[[Steve Buscemi]] as [[Randall Boggs]], an anthropomorphic chameleon-like monster and Sulley's arch-nemesis. Randall has the ability to change the color of his skin to camouflage himself and to turn invisible. He is constantly attempting to earn the most Scares during shifts. He is one of the two main antagonists of the film (alongside [[Henry J. Waternoose III]]).
+*[[James Coburn]] as [[Henry J. Waternoose III]], a monster crab and, at the start of the film, CEO of Monsters, Inc. This was Coburn's last role in an animated work before he passed away. He is one of the two main antagonists of the film (alongside [[Randall Boggs]]).
+*[[Jennifer Tilly]] as [[Celia Mae]], a [[Medusa]]-like monster with snakes instead of hair, Mike's girlfriend, and receptionist for the company. She playfully refers to Mike as "Googly Bear".
+*[[Bob Peterson]] as [[Roz]], a slug-like monster that works as a clerk for the Scare floor, but secretly is the top agent of the Child Detection Agency (CDA) who were seeking evidence for Waternoose's plan.
+*[[John Ratzenberger]] as [[Yeti (Monsters, Inc.)|Yeti]], he was banished to the Himalayas.
+*[[Frank Oz]] as [[Fungus]], a three-eyed monster that works as Randall's assistant on the Scare floor, and while aware of the plan, is hesitant to help with its execution.
+*[[Bonnie Hunt]] as [[Flint|Ms. Flint]], a snake-like monster that trains new monsters in scaring tactics.
+*[[Jeff Pidgeon]] as [[Thaddeus Bile|Mr. Bile]] (his friends call him "Phlegm"), a monster, newly hired to Monsters, Inc., who tries, and fails, to impress Sulley and Mr. Waternoose with his scaring antics, but is able to use his clumsiness to extract laughs from children at the end of the film.
+*[[Daniel Gerson]] as [[Needleman and Smitty]], two monsters that work as janitors on the Scare floor.
+*Samuel Lord Black as [[George Sanderson]], a monster that runs afoul of the CDA's "code 23-19", contact with a human's clothing, several times during the film, forcing the CDA to shave and scrub him to remove any trace of human contact.
+*Steve Susskind as [[Jerry]], the floor manager.
+
+===Additional Voices===
+*[[Jack Angel]] - Bob "Dentures" Peterson, Monster with an Eye
+*[[Bob Bergen]] - Nick "Lanky" Schmidt
+*[[Rodger Bumpass]] - Yellow News Anchor, [[CDA]]
+*[[Gino Conforti]] - Tiny Monster #2
+*Jennifer Darling
+*[[Patti Deutsch]] - Photo Wife
+*[[Pete Docter]] - [[CDA]]
+*Bobby Edner - Simulation Kid
+*Ashley Edner
+*[[Paul Eiding]] - Frank, Interviewee #2
+*Katie Evans
+*[[Bill Farmer]] - Yellow Three-eyed Photographer, [[CDA]]
+*Keegan Farrell
+*[[Pat Fraley]] - Blobby, Ricky Plesuski
+*[[Teresa Ganzel]] - Betty
+*Taylor Gifaldi
+*[[Marc John Jefferies]]
+*Joe Lala - Augustus "Spike" Jones, Photo Husband 
+*Noah Luke
+*[[Sherry Lynn]] - Tiny Monster #1
+*[[Danny Mann]] - Chuck, Red Alert Voice, Interviewee #1
+*[[Mona Marshall]]
+*[[Mickie McGowan]] - Marge
+*[[Laraine Newman]] - Mrs. Nesbitt<ref>[https://youtu.be/pn6wMEvBZww?t=21 Laraine Newman Animation Voice Reel]</ref>
+*[[Kay Panabaker]] - Garbage Monster
+*[[Bret Parker]] - [[Trailer Son and Mom|Trailer Mom]]<ref>[https://www.behindthevoiceactors.com/Bret-Parker/ Bret Parker Filmography. Behind The Voice Actors]</ref>
+*[[Phil Proctor]] - [[Charlie Proctor|Charlie]]<ref>[https://www.behindthevoiceactors.com/Phil-Proctor/ Philip Proctor Filmography. Behind The Voice Actors]</ref>
+*Josh Qualtieri - [[Trailer Son and Mom|Trailer Son]]<ref>[https://www.behindthevoiceactors.com/Josh-Qualtieri/ Josh Qualtieri Filmography. Behind The Voice Actors]</ref>
+*Guido Quaroni - Tony<ref>[https://www.behindthevoiceactors.com/Guido-Quaroni/ Guido Quaroni Filmography. Behind The Voice Actors]</ref>
+*[[Jan Rabson]] - Chef<ref>[https://www.behindthevoiceactors.com/Jan-Rabson/ Jan Rabson Filmography. Behind The Voice Actors]</ref>
+*Lisa Raggio - Simulator Voice
+*[[Joe Ranft]] - Pete "Claws" Ward<ref>[https://www.behindthevoiceactors.com/Joe-Ranft/ Joe Ranft Filmography. Behind The Voice Actors]</ref>
+*Sophia Ranft - Baby Smitty
+*Katherine Ringgold - Theodore "Ted" Pauley
+*Bob Scott - Recruit
+*[[Wallace Shawn]] - [[Rex]] (outtakes) (uncredited)
+*David Silverman - [[CDA]]
+*Jim Thornton - Commercial Narrator
+*[[Lee Unkrich]] - Sneezing Monster, Josh Rivera, [[CDA]]
+*[[Teddy Newton]] - [[CDA]] (uncredited)
+
+==Development==
+{{main|Monsters (Original Treatment)}}
+The idea for the film started with a lunch in [[1994]]. At this lunch was [[John Lasseter]], Pete Docter, Andrew Stanton, and [[Joe Ranft]]. One of the ideas that came out of the brainstorming session was a film about monsters. Docter's original idea revolved around a 30-year-old man dealing with monsters, which he drew in a book as a child, coming back to bother him as an adult. Each monster represented a fear he had and conquering those fears caused the monsters to eventually disappear.
+
+Docter started working on the script in [[1996]] and with Harley Jessup, Jill Culton, and [[Jeff Pidgeon]] completed a draft treatment in February [[1997]]. The initial story did not have the character of Mike Wazowski. He was not added until a story review meeting between Pixar and Disney in April [[1998]]. The film went into production in [[2000]].
+
+The release of ''Monsters, Inc.'' was almost delayed by a lawsuit brought by Lori Madrid against Pixar, [[The Walt Disney Company|Disney]] and Chronicle Books. The suit alleged the defendants had stolen her story ''There's a Boy in My Closet'', which she had mailed out in October [[1999]] to a number of publishers, including Chronicle Books. The plaintiffs had requested a temporary injunction against the release of the film. Judge Clarence Brimmer, Jr. had a hearing on the injunction on November 1, [[2001]], the day before the film was to be released. He judged against the injunction, and the entire suit was thrown out on [[June 26]], [[2002]].
+
+Another lawsuit by Stanley Mouse alleged that the characters of Mike and Sulley were based on drawings he had tried to sell Hollywood in 1998.
+
+==Box office==
+''Monsters, Inc.'' ranked #1 at the box office on its opening weekend, grossing $62,577,067 in North America alone. The film had a small drop-off of 27.2% over its second weekend, earning another $45,551,028. In its third weekend, the film experienced a larger decline of 50.1%, placing itself in the second position just after ''Harry Potter and the Philosopher's/Sorcerers's Stone''. In its fourth weekend, however, there was an increase of 5.9%. Making $24,055,001 that weekend, it is the seventh biggest (in US$) fourth weekend ever for a film.
+
+The film made a total of $289,916,256 in the United States and Canada and $287,509,478 in other territories for a worldwide gross of $577,425,734. The film is Pixar's eighth highest-grossing film worldwide and fifth in North America. For a time, the film went on to depose ''[[Toy Story 2]]'' as the second highest-grossing animated film of all time, behind only ''[[The Lion King]]''.
+
+In the UK, Ireland, and Malta, it earned £37,264,502 ($53,335,579) in total, marking the 6th highest-grossing animated feature of all time in the country and the 32nd largest movie of all time. In Japan, although earning $4,471,902 during its opening and ranking second behind ''The Lord of the Rings: The Fellowship of the Ring'' for the weekend, on subsequent weekends it moved to first place due to minimal decreases or even increases and dominated for six weeks at the box office.
+
+It finally reached $74,437,612, standing as the third highest-grossing film of 2002, and it remains the third largest US animated feature of all time in the country behind ''[[Toy Story 3]]'' and ''[[Finding Nemo]]''.
+
+==Critical reception==
+Rotten Tomatoes gives the film a score of 96% based on 195 reviews, with an average score of 8.03/10. The critical consensus was: "Clever, funny, and delightful to look at, ''Monsters, Inc.'' delivers another resounding example of how Pixar elevated the bar for modern all-ages animation." Another review aggregator, Metacritic, which assigns a normalized rating out of 100 top reviews from mainstream critics, calculated a score of 78 based on 34 reviews, indicating "generally favorable reviews."
+
+Charles Taylor from ''Salon.com'' stated: "It's agreeable and often funny, and adults who take their kids to see it might be surprised to find themselves having a pretty good time." Elvis Mitchell from ''The New York Times'' gave a positive review, praising the film's use of "creative energy": "There hasn't been a film in years to use creative energy as efficiently as ''Monsters, Inc.''" Although Mike Clark from ''USA Today'' thought the comedy was sometimes "more frenetic than inspired and viewer emotions are rarely touched to any notable degree," he thought the film to be as "visually inventive as its Pixar predecessors."
+
+''ReelViews'' film critic James Berardinelli, who gave the film 3½ stars out of 4 wrote, saying that ''Monsters, Inc.'' was "one of those rare family films that parents can enjoy (rather than endure) along with their kids."
+
+Roger Ebert, film critic from ''Chicago Sun-Times'', who gave the film 3 out of 4 stars, called the film "cheerful, high-energy fun, and like the other Pixar movies, has a running supply of gags and references aimed at grownups." Lisa Schwarzbaum, a film critic for ''Entertainment Weekly'', giving the film a B, praised the film's animation, stating "Everything from Pixar Animation Studios, the snazzy, cutting-edge computer animation outfit, looks really, really terrific, and unspools with a liberated, heppest-moms-and-dads-on-the-block iconoclasm."
+
+==Music==
+{{Main|Monsters, Inc. (soundtrack)}}
+[[File:If-i-didn-t-have-you.jpg|thumb|250px]]
+The score was nominated for the Academy Award for Best Original Score and the song "[[If I Didn't Have You]]" won the Academy Award for Best Original Song.
+
+==Awards and nominations==
+''Monsters, Inc.'' won the Academy Award for Best Song ([[Randy Newman]], after 15 previous nominations, for ''If I Didn't Have You''). It was also nominated for Best Animated Feature (lost to ''Shrek''), and Best Music, Original Score (lost to ''The Lord of the Rings: The Fellowship of the Ring'').
+
+==Allusions==
+*Randall turns the same color as Andy's original bedroom wallpaper from ''[[Toy Story]]'' at one point.
+*Harryhausen's was named after the famous stop-motion animator Ray Harryhausen and the octopus chef was inspired from octopus from ''It Came from Beneath the Sea'', which was a film Harryhausen worked on.
+*Also at the aforementioned restaurant, one of the many mural paintings behind the chef is similar to [[Marlin]] from ''[[Finding Nemo]]'', which at the time of the film's release was greenlit and storyboarded. Other appearances include a model of [[Nemo]] near the trailer's door and as a squeaky rubber toy when Sully is returning Boo to her home and Boo is showing him her toys.
+*Randall arrives in a similar trailer to that of ''[[A Bug's Life]]'', with the [[Pizza Planet truck]] from ''[[Toy Story]]'' seen sitting next to it.
+*Besides Nemo, other toys Boo has in her room include a [[Pixar Ball]] and a [[Jessie]] doll.
+*Mike goes into a child's bedroom to make him laugh. Inside the bedroom, there are two vintage [[Disneyland Resort|Disneyland]] attraction posters: [[Rocket Jets]] and [[Sailing Ship Columbia]].
+
+==Alternative versions==
+On December 7, 2001 – one month after the movie's theatrical release – a version with alternative end credits was brought into theaters. There, the credits are accompanied by a "blooper reel", followed by the musical "Put That Thing Back Where it Came From or So Help Me", performed by the cast. This version can be found as a separate feature on the collector's Edition DVD and in the credits of the VHS and 4:3 fullscreen DVD versions as well as the end credits of the R2-R5 widescreen version for Eastern Europe. As is common for Pixar movies, international versions differ in the contents. Many English inscriptions are either removed or replaced by more generic symbols, especially in Monstropolis and at the Scarefloor. For instance, the "Stalk/Don't Stalk" traffic light is replaced by a green two-headed monster (for "Stalk") and a forbidding red hand (for "Don't Stalk"). Additionally, an animation of Sulley telling Boo to go to sleep was changed for non-English versions, as in the US version, he holds up two fingers to illustrate "to" in "You - go - to - sleep". For the title sequence, language versions that do not use the Latin Alphabet replace the letters W-A-L-T D-I-S-N-E-Y P-I-C-T-U-R-E-S with eyeballs peeking out the doors. Several European DVDs contain only the "international" version, whereas the US DVDs and US/UK VHS and Blu-ray contain the "US" version. Some examples for alternative angles can be seen in the bonus material of the 2-disc DVD and Blu-ray of the film.
+
+The film was re-released in theaters in 3-D on December 19, 2012, and it featured the outtakes in 3-D during the credits just like the the reissued showing.<ref>[http://www.boxofficemojo.com/movies/?id=monstersinc3d.htm Box Office Mojo: Monsters, Inc. (in 3D)]</ref>
+
+Following the 9/11 attacks, Pixar had already finished the movie and began to search the film for anything that would be inappropriate. The scene they ended up changing was the Harryhausen's scene. Following Mike and Sulley getting Boo and fleeing, the scene was supposed to end with Harryhausen's getting blown up in a fireball explosion by the CDA. This was changed in the final film to a large plasma bubble encompassing the building.
+
+==Prequel==
+{{Main|Monsters University}}
+[[File:Monsters-university-poster.jpg|thumb|250px|The ''Monsters University'' poster.]]
+A prequel, ''[[Monsters University]]'' was released on June 21, 2013. Set in Mike and Sulley's college years, it is about how the two became friends and got their job.
+
+==Release==
+===International premieres===
+*[[February 8]], [[2002]] ([[United Kingdom]])
+*December 26th, 2001 ([[Australia]])
+*August 13, 2002 (Kuwait)
+*November 14, 2001 ([[Brazil]])
+*March 2, 2002 ([[Japan]])
+
+===Home media===
+{{Main|Monsters, Inc. (video)}}
+
+==Other media==
+A short was made by Pixar in 2002 named ''[[Mike's New Car]]'', in which the two main characters have assorted misadventures with a car Mike has just bought. This film was not screened in theaters, but is included with all home video releases of ''Monsters, Inc.''
+
+===Manga===
+A manga version of ''Monsters, Inc.'' was made by Hiromi Yamafuji and distributed in Kodansha's ''Comic Bon Bon'' magazine in Japan; the manga was published in English by Tokyopop until it became out of print.
+
+===Video games===
+A series of video games and a multi-platform video game were created, based on the film, such as a film adaptation, Monsters Inc., developed by A2M on PS2, PC, Game Boy Color, and GBA consoles in 2001.
+
+A game was released early 2013 called ''Monsters, Inc. Run'' for iOS and Android devices.
+
+===On Ice===
+Feld Entertainment toured a ''Monsters, Inc.'' edition of their ''Disney on Ice'' skating tour from 2003 to 2007.
+
+===Theme park attractions===
+''Monsters, Inc.'' has inspired three attractions at [[Walt Disney Parks and Resorts|Disney theme parks]] around the world.
+*In 2006, [[Monsters, Inc. Mike & Sulley to the Rescue!]] opened at [[Disney's California Adventure]] at the [[Disneyland Resort]] in [[Anaheim, California]]. The dark ride was developed to boost the theme park's lagging attendance and was quite successful in doing so, at least for a period of time.
+*In 2007, [[Monsters, Inc. Laugh Floor]] opened at the [[Magic Kingdom]] at the [[Walt Disney World]] in [[Lake Buena Vista, Florida]], replacing [[The Timekeeper]]. The show is improvisational in nature and features the opportunity for guests to interact with the monster comedians, and even submit jokes of their own via text message. The attraction has been praised for it being original but has been criticized for being in Tomorrowland.
+*In 2009, [[Monsters, Inc. Ride & Go Seek]] opened at [[Tokyo Disneyland]] at the [[Tokyo Disney Resort]] in Chiba, Japan.
+*In the scene at the end of the movie where [[Mike Wazowski|Mike]] is making the boy laugh a poster saying "Tomorrowland" can be seen behind him. This can possibly be why they chose to put the [[Monster's Inc. Laugh Floor]] in [[Tomorrowland (Magic Kingdom)|Tomorrowland]] in the [[Magic Kingdom]].
+
+==Trivia==
+*''Monsters Inc.'' was the first film by Pixar to not be directed by [[John Lasseter]]. Instead, it was the directorial debut of Lasseter's good friend and co-worker, [[Pete Docter]].
+*This is the first Pixar film to be directed by Pete Docter, followed by ''[[Up]]'', ''[[Inside Out]]'', and ''[[Soul]]''.
+*This is also the first Pixar film to be made in the Emeryville office after moving from Point Richmond in 2000.
+*The film's release date, November 2, 2001, was coincidentally the same day that [[Disney's River Country]] was shut down for good due to issues with lake amoeba and other problems.
+*To date, this is the last Pixar film to have a blooper reel. This time, it includes the company play Sulley and Mike worked on, both came from a running joke of Mike stalling any co-workers by claiming that he and Sulley were rehearsing a play and also inspired by their journey they had through the movie along.
+*The simulation control panel has the numbers 510-752-3000 on it, which is also the phone number for Pixar's Animation Studio.
+*Mike says that Sulley has been wanting his good looks since 4th grade, but they first met in college. Pixar knew about the quote. According to the behind scenes of ''[[Monsters University]]'' they tried to work that quote into the movie by having them first meet in Elementary School, however they could not in order to have the film's story be more constant. So they said it was an "old monster saying."
+*Near the end when Mike swallows the microphone in a boy's bedroom, the sound of his stomach rumbling is the same rumbling sound [[Al McWhiggin]]'s stomach made in ''[[Toy Story 2]]''.
+*''Monsters Inc.'' is the only Pixar film directed by [[Pete Docter]] to be rated G by the MPAA.
+**It also marks the first (and currently only) Pixar film directed by Docter to be scored by [[Randy Newman]], ''[[Up]]'' and ''[[Inside Out]]'' being scored by [[Michael Giacchino]], as well as ''[[Soul]]'' being scored by [[wikipedia:Trent Reznor|Trent Reznor]] and [[wikipedia:Atticus Ross|Atticus Ross]].
+*This was the last Pixar film to be broadcasted on [[Starz]] due to the expired contract.
+*This was the first Pixar feature film where both the opening ''Walt Disney Pictures'' and ''Pixar Animation Studios'' logos were shortened other than a typical short film, as well as the first to have the film's score play over it.
+*The protagonist in the 2017 Edgar Wright film ''Baby Driver'' (portrayed by [[Ansel Elgort]]) constantly quotes ''Monsters, Inc.'' to the point where his boss (portrayed by [[Kevin Spacey]]) tells him not to feed him any more lines from ''Monsters, Inc.'' as it annoys him. Ironically, Kevin Spacey provided the voice of [[Hopper]] in Pixar's ''[[A Bug's Life]]''.
+*[[Steve Buscemi]] and [[Jennifer Tilly]] later co-starred in the [[2004]] Disney film ''[[Home on the Range]]''.
+*This is the first Pixar feature to have the "Created and Produced at Pixar Animation Studios, Emeryville, California" credit at the end.
+*During the scene where Mike and Sully walk to work, that day's ''Monstropolis Horn'' is shown in a vending machine. With the Blu-ray release of the movie, the articles on the front page are just legible enough to recognize that the same text was used for both the "Scream Shortage Looms" and "Modern Kids Harder to Scare".
+
+===Cameos===
+*The toy plane from ''Toy Story'' appeared on the top left on the shelf in the little boy's bedroom at the beginning.
+*A sticker of a beaver from ''[[Toy Story 2]]'' appears on a child's door after Randall comes out of it. The beaver is a critter from ''[[Woody's Roundup]]''.
+*The Roly Poly Clown from ''[[Toy Story]]'' appears in the Laugh Floor near the end of the movie.
+*[[Rex]] appears in the outtakes.
+
+===Goofs===
+*In the Scare Simulator, the "J" is backwards.
+*The sock on George's back during his first appearance is not present until his partner sees it.
+*In the scene where Mr. Waternoose ejects the door to the child's bedroom in the simulation room, the English Audio Description narrator states that Boo's door is being ejected into the vault, but the door isn't hers.
+*[[James P. Sullivan|Sulley]] stuffs all of [[Boo]]'s things in one of the lockers, including her blanket from her bed, then they end up on [[George]] when he opens it, but during the movie when [[Boo's Room]] is seen, all of her stuff is suddenly back.
+*When [[Jerry]] starts counting down from seven, the audio of him saying "one" is missing.
+
+==Gallery==
+{{Gallerylink}}
+
+==Videos==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+Teaser Trailer - Monsters, Inc. - Disney•Pixar-2
+Trailer 1 - Monsters, Inc. - Disney•Pixar-2
+Trailer 2 - Monsters, Inc. - Disney•Pixar-2
+Story is King - Monsters, Inc. - Disney•Pixar-2
+Fur - Monsters, Inc. - Disney•Pixar-2
+Cast of Characters - Monsters, Inc. - Disney•Pixar-2
+Animation Process - Monsters, Inc. - Disney•Pixar-2
+Story Pitch- Back to Work - Monsters, Inc. - Disney•Pixar-2
+Filmmakers Roundtable - Monster's Inc. - Disney•Pixar-2
+The City of Monstropolis - Monsters, Inc. - Disney•Pixar-2
+Monsters Inc Early Tests-3
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*[http://www.pixar.com/featurefilms/inc/ ''Monsters, Inc.'' at Pixar.com]
+*{{Interwiki|https://vignette.wikia.nocookie.net/pixar/images/6/64/Favicon.ico|pixar|Monsters, Inc.|Pixar Wiki}}
+*{{Interwiki|https://vignette.wikia.nocookie.net/monstersincmovies/images/6/64/Favicon.ico|monstersincmovies|Monsters, Inc. (film)|Monsters, Inc. Wiki}}
+
+{{Monsters, Inc.}}
+{{Disney theatrical animated features}}
+{{DISPLAYTITLE:''Monsters, Inc.''}}
+[[ar:شركة المرعبين المحدودة]]
+[[da:Monsters, Inc.]]
+[[de:Die Monster AG]]
+[[es:Monsters, Inc.]]
+[[fr:Monstres et Cie]]
+[[it:Monsters & Co.]]
+[[ja:モンスターズ・インク]]
+[[nl:Monsters en co.]]
+[[pl:Potwory i spółka]]
+[[pt:Monstros e Companhia]]
+[[pt-br:Monstros S.A.]]
+[[ru:Корпорация монстров]]
+[[uk:Корпорація монстрів]]
+[[zh:怪獸電力公司]]
+[[Category:Pixar films]]
+[[Category:Monsters, Inc.]]
+[[Category:2001 films]]
+[[Category:Animated films]]
+[[Category:Academy Award winning films]]
+[[Category:3-D films]]
+[[Category:G-rated films]]
+[[Category:Disney Tsum Tsum]]
+[[Category:Academy Award nominated films]]
+[[Category:Annie Award Winner]]
+[[Category:Annie Award Nominated]]

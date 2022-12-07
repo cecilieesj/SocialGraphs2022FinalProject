@@ -1,0 +1,24 @@
+{{Infobox film
+|image = Alicethegolfbugposter.jpeg
+|name = Alice the Golf Bug
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[January 10]], [[1927]]
+|preceded = ''[[Alice the Lumberjack]]''
+|followed = ''[[Alice Foils the Pirates]]''
+}}
+'''''Alice the Golf Bug''''' is a [[1927]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+[[Alice]], [[Julius the Cat|Julius]], and [[Pete]] compete in a manic golf tournament.
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=51 Alice the Golf Bug] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1927 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Lost cartoons]]
+[[Category:Pete Shorts]]

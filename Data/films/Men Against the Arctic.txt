@@ -1,0 +1,41 @@
+{{Infobox film
+|image = Tumblr_milsgnMuPQ1qhcrb0o2_r1_500.jpg
+|name = Men Against the Arctic
+|director = [[Winston Hibler]]
+|producer = [[Walt Disney]]<br>[[Ben Sharpsteen]]
+|writer = Winston Hibler
+|starring = Winston Hibler
+|cinematography = William Fortin<br>Elmo G. Jones
+|editing = Grant K. Smith
+|studio = [[Walt Disney Productions]]
+|distributor = [[Walt Disney Studios Motion Pictures|Buena Vista Film Distribution]]
+|release = [[December 21]], [[1955]]
+|time = 30 minutes
+|country = United States
+|language = English
+|imdb_id = 0048369}}
+'''Men Against the Arctic''' is a [[1955]] short documentary film directed by Winston Hibler. It won an Academy Award in [[1956]] for Documentary Short Subject. It was also entered into the 6th Berlin International Film Festival.
+
+This short film was released in a double bill with both [[The Littlest Outlaw]] and [[The Great Locomotive Chase]].
+
+==Cast==
+*[[Winston Hibler]] - Narrator (voice)
+
+==Gallery==
+<gallery>
+Men_against_the_arctic.jpg
+Tumblr_nqv7uk34XY1sa3t1go1_1280.jpg
+</gallery>
+
+==External links==
+*[http://ftvdb.bfi.org.uk/sift/title/280202 BFI description of the documentary]
+
+{{Wikipedia}}
+{{DISPLAYTITLE:''Men Against the Arctic''}}
+[[Category:Articles with Wikipedia content]]
+[[Category:1955 films]]
+[[Category:Documentaries]]
+[[Category:Disney films]]
+[[Category:Academy Award winning films]]
+[[Category:Live-action films]]
+[[Category:People & Places]]

@@ -1,0 +1,42 @@
+{{Infobox character
+|image = Shep Ahoy.jpg
+|name = Shep Ahoy
+|games = ''[[Toontown Online]]''
+|occupation = Owner
+|alignment = Neutral}}
+'''Shep Ahoy''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC and owner of [http://toontown.wikia.com/index.php?title=All_for_Nautical&action=edit&redlink=1 All for Nautical] on [http://toontown.wikia.com/wiki/Seaweed_Street Seaweed Street], [http://toontown.wikia.com/wiki/Donald%27s_Dock Donald's Dock]. Shep Ahoy will give Toons a series of [http://toontown.wikia.com/wiki/Toontask Toontasks] for the [http://toontown.wikia.com/wiki/Bossbot_Cog_Suits Bossbot Cog Suit Parts]. When all 16 sets of Tasks have been completed, Toons may earn the last Cog Suit Part from [http://toontown.wikia.com/wiki/Flippy Flippy].
+
+==Toontasks==
+Shep Ahoy's Toontask features a series of Toontasks for each Bossbot Cog Suit Parts.
+
+'''Note''': You must keep visiting a Toon HQ for a new Task. You can also visit another Toon Building and start the new Task. Shep Ahoy will not give you these Tasks.
+===Set 1 - Defeat Each Bossbot Cogs===
+*[http://toontown.wikia.com/wiki/Flunky Flunky]
+*#Visit Shep Ahoy in All for Nautical on Seaweed Street
+*#Defeat a Flunky (Anywhere)
+*#Return to Shep Ahoy
+*[http://toontown.wikia.com/wiki/Pencil_Pusher Pencil Pusher]
+*#Visit Shep Ahoy
+*#Defeat a Pencil Pusher (Anywhere)
+*#Return to Shep Ahoy
+*[http://toontown.wikia.com/wiki/Yesman Yesman]
+*#Visit Shep Ahoy
+*#Defeat a Yesman
+*#Return to Shep Ahoy
+
+===Set 2 - V2.0 Cogs===
+'''Note''': You must defeat a V2.0 Cog in each Tasks. These Tasks will come in a series of 8 "Defeat a V2.0" Toontasks. V2.0 Cogs can be found in [http://toontown.wikia.com/wiki/Bossbot_Headquarters Bossbot Headquarters]' Cog Golf Courses.
+*[http://toontown.wikia.com/wiki/V2.0_Cogs V2.0 Cogs] (x8)
+*#Visit Shep Ahoy in All for Nautical on Seaweed Street
+*#Defeat a V2.0 Cog (Bossbot HQ's Cog Golf Courses)
+*#Return to Shep Ahoy
+===Set 3 - Last Cog Suit Part===
+*Flippy
+#Visit Flippy in [http://toontown.wikia.com/wiki/Mickey_Toon_Hall Mickey Toon Hall] in [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central] Playground
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Males]]
+[[Category:Horses]]
+[[Category:Characters]]
+{{Toontown Online}}

@@ -1,0 +1,60 @@
+{{Infobox film
+|image = mickeycutsupposter.jpeg
+|imagewidth = 250px
+|name = Mickey Cuts Up
+|director = [[Burt Gillett]]
+|producer = [[Walt Disney]]
+|writer = [[Otto Englander]]<br>Webb Smith
+|starring = Walt Disney<br>[[Marcellite Garner]]<br>[[Pinto Colvig]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[November 30]], [[1931]]
+|time = 7:10
+|preceded = ''[[The Beach Party]]''
+|followed = ''[[Mickey's Orphans]]''}}
+'''''Mickey Cuts Up''''' is a ''[[Mickey Mouse]]'' short that debuted on [[November 30]], [[1931]].
+
+==Synopsis==
+[[Mickey Mouse|Mickey]] and [[Minnie Mouse|Minnie]] are next-door neighbours tending their yards. When Minnie is captured by a bird's song, Mickey hides in his bird-house and pretends to be a bird himself, until a cat attacks and blows his cover. Then he does a dance while wearing the house; their song attracts more birds, and again the cat. [[Pluto]] chases, but he's still pulling the lawnmower, and it causes much destruction.
+
+==Characters==
+*[[Mickey Mouse]]
+*[[Minnie Mouse]]
+*[[Pluto]]
+
+==Releases==
+===Television===
+*''[[Mickey's Mouse Tracks]]'', episode #30
+*''[[The Ink and Paint Club]]'', episode #1.28: "Early Mickey"
+
+===Home video===
+'''VHS'''
+* ''Mickey's Family Album''
+
+==='''Laserdisc'''===
+*''Mickey Mouse: The Black and White Years - Volume One''
+*''Mickey's Family Album''
+
+==='''DVD'''===
+*''[[Walt Disney Treasures]]: Mickey Mouse in Black and White''
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150">
+15305.jpg
+15306.jpg
+15307.jpg
+15310.jpg
+15311.jpg
+15312.jpg
+MinnieDrawing.jpg
+Mickey Cuts Up.jpg
+</gallery>
+
+{{Mickey-Series}}
+{{Minnie-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Minnie Mouse shorts]]
+[[Category:Pluto shorts]]
+[[Category:1931 shorts]]

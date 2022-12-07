@@ -1,0 +1,30 @@
+{{Character
+|image = Becky_Little.jpg
+|shows = [[Pepper Ann]]
+|voice = [[Glenne Headly]]
+|occupation = Student at Harvard
+|family = 
+|dislikes = Swans|parents=Mr. Little (father)<br>Mrs. Little (mother)|siblings=[[Nicky Little]] (younger sister)}}
+
+'''Becky Little''' is a character in ''[[Pepper Ann]]'' who is the beautiful big sister of main character [[Nicky Little]]. In "[[The Amazing Becky Little]]", Nicky becomes jealous when her sister Becky comes home for their parents' anniversary.
+
+==Gallery==
+<span style="line-height:21px;"><gallery captionalign="left" spacing="small" widths="175">
+The Amazing Becky Little.jpg
+The Amazing Becky Little (1).jpg
+</gallery>
+
+==External Links==
+*[[w:c:pepperann:Becky Little|Becky Little]] on [[w:c:pepperann:Main Page|Pepper Ann Wiki]]
+
+{{Pepper Ann}}
+[[pt-br:Becky Little]]
+[[Category:Pepper Ann characters]]
+[[Category:Disney characters]]
+[[Category:Characters]]
+[[Category:Females]]
+[[Category:Scottish characters]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Teenagers]]
+[[Category:Siblings]]

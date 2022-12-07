@@ -1,0 +1,37 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Swiss Family Robinson 
+|director = Jonathan Mostow <ref name=Variety>{{Cite web|url=https://variety.com/2005/film/markets-festivals/helmer-joins-family-1117924441/|title=Helmer joins ‘Family’|accessdate=June 14 2005}}</ref>
+|producer = [[David Hoberman]] <ref name=Variety /><br>Todd Lieberman <ref name=Variety />
+|writer = 
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]<br>[[Mandeville Films]]<ref>{{Cite web|url=https://variety.com/2004/film/markets-festivals/mandeville-road-widens-1117914884/|title=Mandeville road widens|accessdate=December 12 2004}}</ref>
+|distributor = 
+|release = 
+|time = 
+|language = English
+|budget = 
+|gross = 
+|website = 
+|imdb_id = }}
+'''Swiss Family Robinson''' is an upcoming live-action remake of the [[Swiss Family Robinson|1960 adventure film of the same name]]. It's made for [[Disney+]] and in development at [[Walt Disney Pictures]] and [[Mandeville Films]].
+
+==Production==
+===Development===
+On July 2005, it was reported that studio veteran Lindsay Lohan was being considered for a role.
+Production on the remake never began, and the film was believed to be shelved until early 2009, when it was still in the works, and had been renamed ''The Robinsons''.
+{{Stubsection}}
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+[[Category:Live-action films]]
+[[Category:Remakes]]
+[[Category:Disney films]]
+[[Category:Films based on books]]
+[[Category:Disney+ Originals]]

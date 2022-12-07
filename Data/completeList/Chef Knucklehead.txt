@@ -1,0 +1,18 @@
+{{Infobox character
+|image = Chef Knucklehead.png
+|name = Chef Knucklehead
+|games = ''[[Toontown Online]]''
+|appearance = Yellow rabbit with white shirt
+|occupation = Chef<br>Shopkeeper
+|alignment = Good/Neutral
+}}
+'''Chef Knucklehead''' is an NPC and the shopkeeper Toon of [http://toontown.wikia.com/wiki/Spaghetti_and_Goofballs Spaghetti and Goofballs] on [http://toontown.wikia.com/wiki/Loopy_Lane Loopy Lane] in [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central].
+
+==Toontasks==
+Only Just for Fun! or Training for Gags come from this shopkeeper.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Chefs]]
+[[Category:Males]]
+{{Toontown Online}}

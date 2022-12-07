@@ -1,0 +1,14 @@
+{{Infobox character
+|image = Clerk Poppy.jpg
+|games = ''[[Toontown Online]]''
+|occupation = Clerk
+|alignment = Neutral}}
+'''Clerk Poppy''' is a Clerk in the [http://toontown.wikia.com/wiki/Pet_Shop Pet Shop]. He works behind the counter. He sells doodles and buys fish like the other Pet Shop Clerks.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Rabbits]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Characters in video games]]
+{{Toontown Online}}

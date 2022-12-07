@@ -1,0 +1,46 @@
+{{Infobox film
+|image = Ss-egyptianmelodies-redux.jpg
+|imagewidth = 250px
+|name = Egyptian Melodies
+|director = [[Wilfred Jackson]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = [[Marcellite Garner]]
+|music = [[Frank Churchill]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[August 21]], [[1931]]
+|time = 6:20
+|preceded = ''[[The Cat's Out]]''
+|followed = ''[[The Clock Store]]''
+}}
+'''''Egyptian Melodies''''' is a black-and-white ''[[Silly Symphony]]'' that was released on [[August 21]], [[1931]].
+
+==Summary==
+When a curious spider makes his way into the tomb of an ancient Egyptian, he discovers the strange wall paintings (and Mummies) have come to life for him.
+
+==Trivia==
+*The background animation of the trip through the pyramid was re-used in the [[Mickey Mouse|''Mickey Mouse'']] cartoon ''[[The Mad Doctor]]''.
+*The Spider of this cartoon is graphically very close to that of another ''Silly Symphonies'' cartoon, ''[[The Spider and the Fly]]''.
+
+==Home video releases==
+'''DVD'''
+*''[[Walt Disney Treasures]]: Silly Symphonies''
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+Egyptian Melodies.jpg
+Egyptian Paintings.png
+EGYPTIAN MELODIES (1).png
+EGYPTIAN MELODIES (2).png
+EGYPTIAN MELODIES (3).png
+EGYPTIAN MELODIES (4).png
+</gallery>
+
+{{Silly Symphony}}
+[[Category:Animated shorts]]
+[[Category:Silly Symphonies]]
+[[Category:Egyptian Mythology]]
+[[Category:1931 shorts]]
+[[Category:Featured shorts]]

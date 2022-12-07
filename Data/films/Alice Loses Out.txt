@@ -1,0 +1,35 @@
+{{Infobox film
+|image =
+|name = Alice Loses Out
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[June 15]], [[1925]]
+|preceded = ''[[Alice's Egg Plant]]''
+|followed = ''[[Alice Gets Stage Struck]]''
+}}
+'''''Alice Loses Out''''' is an animated short film that is part of the ''[[Alice Comedies]]'' that were released by Winkler Pictures in [[1925]]. It was in black and white and silent.
+
+==Summary==
+Alice manages a hotel where Julius does all the work, including janitor, barber, and manicurist.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+Alice loses out 1large.jpg
+Alice loses out 2large.jpg
+Alice loses out 3large.jpg
+Alice loses out 4large.jpg
+Alice loses out 5large.jpg
+Alice loses out 6large.jpg
+1925-loses-2.jpg
+1925-loses-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=26 Alice Loses Out] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1925 shorts]]
+[[Category:Alice Comedies]]

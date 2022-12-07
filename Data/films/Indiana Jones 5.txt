@@ -1,0 +1,52 @@
+{{Upcoming|media=film}}
+{{Infobox Film
+|image = Indiana Jones 5 (Investor's Day logo).jpg
+|director = James Mangold
+|producer = [[Kathleen Kennedy]]<br>Frank Marshall<br>[[Steven Spielberg]]<br>Simon Emanuel 
+|starring = [[Harrison Ford]]<br>Phoebe Waller-Bridge<br>[[Mads Mikkelsen]]<br>[[Thomas Kretschmann]]<br>Boyd Holbrook<br>Shaunette Renée Wilson<br>[[Toby Jones]]<br>[[Antonio Banderas]]
+|writer = James Mangold<br>Jez Butterworth<br>John-Henry Butterworth
+|music = [[John Williams]]
+|cinematography = Phedon Papamichael
+|editor = 
+|studio = [[Lucasfilm]]<br>[[Amblin Entertainment]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[June 30]], [[2023]]
+|language = English
+|preceded = ''Indiana Jones and the Kingdom of the Crystal Skull''}}
+An upcoming '''''Indiana Jones''''' film is being directed by James Mangold, set for release on [[June 30]], [[2023]]. It will be the final theatrical installment in the ''[[Indiana Jones (franchise)|Indiana Jones]]'' franchise (as well the first film with Disney's involvement), and will star [[Harrison Ford]] returning as [[Indiana Jones|the title character]].
+
+==Cast==
+*[[Harrison Ford]] as [[Indiana Jones]]
+*Phoebe Waller-Bridge as Helena<ref>{{Cite web|url=https://filmmusicreporter.com/2022/09/02/john-williams-premieres-helenas-theme-from-indiana-jones-5-at-hollywood-bowl-concert/|title=John Williams Premieres ‘Helena’s Theme’ from ''Indiana Jones 5'' at Hollywood Bowl Concert|website=filmmusicreporter|date=October 12, 2022}}</ref>
+*[[Mads Mikkelsen]] as Voller<ref name="Empire">[https://www.empireonline.com/movies/news/indiana-jones-5-nazis-1969-exclusive Indiana Jones 5 Will Pit Indy Against Nazis Again, In 1969 – Exclusive]</ref>
+*[[John Rhys-Davies]] as [[Sallah]]
+*[[Thomas Kretschmann]]
+*Boyd Holbrook as Klaber<ref name="Empire" />
+*Shaunette Renée Wilson
+*[[Toby Jones]] <ref name="Filming Photos">{{Cite web|url=https://twitter.com/thricechampion/status/1403455405355900930|title=Filming Photos|date=June 11, 2021}}</ref>
+*[[Antonio Banderas]]
+*Olivier Richters
+
+==Production==
+The film was officially announced in [[2016]] after years of rumors and speculation with a release date of [[July 19]], [[2019]], but the date was pushed back twice following delays surrounding the script and story. Originally intended to be directed by [[Steven Spielberg]], it was announced in February [[2020]] that he would be stepping down and replaced by James Mangold.<ref>https://variety.com/2020/film/news/steven-spielberg-indiana-jones-5-james-mangold-harrison-ford-1203515698/</ref> On April 8, 2021, Lucasfilm announced that Phoebe Waller-Bridge would star alongside Ford, and that [[John Williams]] would return to score the film,<ref>{{cite web |url= https://www.lucasfilm.com/news/phoebe-waller-bridge-joins-indiana-jones-cast/ |title= Phoebe Waller-Bridge Joins ''Indiana Jones'' Cast |publisher= Lucasfilm |date= April 8, 2021}}</ref> but that this film would be his final project before retiring.<ref>{{cite web |url= https://www.nme.com/news/music/john-williams-to-retire-from-scoring-films-after-indiana-jones-5-3255180 |title= John Williams to retire from scoring films after ‘Indiana Jones 5’ |publisher= NME |date= June 24, 2022}}</ref>
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+Indiana Jones 5 first look.jpg
+File:EMPIRE magazine - Indiana Jones 5 (1).jpg
+File:EMPIRE magazine - Indiana Jones 5 (2).jpg
+File:Indiana Jones 5 still.jpg
+File:Indiana Jones 5 still 2.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{Indiana Jones}}
+
+[[nl:Indiana Jones 5]]
+[[Category:Indiana Jones]]
+[[Category:Lucasfilm films]]
+[[Category:Live-action films]]
+[[Category:2023 films]]
+[[Category:Sequel films]]

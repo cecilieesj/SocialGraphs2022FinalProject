@@ -1,0 +1,212 @@
+{{Marvel Database:Film Template
+| Image                   = Ironmanposter.jpg
+| Aliases                 = 
+
+| Directors               = Jon Favreau
+| Producers               = Avi Arad; Kevin Feige
+| ComicWriters            = [[Stan Lee]]; [[Larry Lieber]]; [[Don Heck]]; [[Jack Kirby]]
+| StoryWriters            = 
+| ScreenplayWriters       = Mark Fergus; Hawk Ostby; Art Marcum; Matt Holloway
+| Musicians               = Ramin Djawadi
+| Cinematographers        = Matthew Libatique
+| Editors                 = [[Dan Lebental]]
+| Distributors            = Paramount Pictures
+| ProductionCompanies     = Marvel Studios; Fairview Entertainment
+| Running Time            = 126 minutes
+| Rating                  = '''MPAA''': PG-13 for some intense sequences of sci-fi action and violence, and brief suggestive content
+| Budget                  = $140 million
+| Release Date            = April 30, 2008
+| US Release Date         = May 2, 2008
+
+| AM ID                   = iron-man-v353425
+| IMDB ID                 = 0371746
+| Marvel Movies           = {{PAGENAME}}
+| MCU                     = {{PAGENAME}}
+
+| Previous Film           = 
+| Next Film               = Iron Man 2 (film)
+
+| Tagline                 = Heroes aren't born. They're built.
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Anthony Stark (Earth-199999)|Iron Man (Tony Stark)]]|-|The Incredible Hulk (2008 film)}} {{1st}} {{Flashback}}
+'''Supporting Characters:'''
+* {{apn|[[James Rhodes (Earth-199999)|Lt. Col. James "Rhodey" Rhodes]]|-|Iron Man 2: Public Identity Vol 1 1}} {{1st}} {{Flashback}}
+* {{1st|[[Stark Industries (Earth-199999)|Stark Industries]]}}
+** {{apn|[[Harold Hogan (Earth-199999)|Happy Hogan]]|-|Iron Man 2: Public Identity Vol 1 1}} {{1st}} {{Flashback}}
+** {{apn|[[Virginia Potts (Earth-199999)|Pepper Potts]]|-|Iron Man 2: Public Identity Vol 1 1}} {{1st}}
+* {{1st|[[Just A Rather Very Intelligent System (Earth-199999)|J.A.R.V.I.S.]]}}
+* {{apn|[[Ho Yinsen (Earth-199999)|Ho Yinsen]]|Iron Man 3 (film)|-}} {{1stHist}} {{Death}}
+'''Antagonists:'''
+* {{1st|[[Ten Rings (Earth-199999)|Ten Rings]]}} {{Flashback}}
+** {{1st|[[Raza Hamidmi Al-Wazar (Earth-199999)|Raza]]}} {{Flashback}} {{ApDeath}}
+** {{Flashback|[[Abu Bakaar (Earth-199999)|Abu Bakaar]]}} {{Only Dies}}
+** [[Character Index/Earth-199999#Ahmed|Ahmed]] {{Only Dies}}
+** {{Only Dies|[[Omar (Ten Rings) (Earth-199999)|Omar]]}}
+* {{1st|[[Obadiah Stane (Earth-199999)|Obadiah Stane]]}} {{Flashback}} {{Death}} 
+'''Other Characters:'''
+* {{1st|[[United States Air Force (Earth-199999)|United States Air Force]]}} {{Flashback}}
+** [[Character Index/Earth-199999#Jimmy|Jimmy]] {{Only Dies}}
+** [[Character Index/Earth-199999#Pratt|Pratt]] {{Only Dies}}
+** [[Character Index/Earth-199999#Ramirez|Ramirez]] {{Only Dies}}
+** {{1st|[[William Gabriel (Earth-199999)|Maj. Gen. William Gabriel]]}} {{FlashOnly}}
+** {{1st|[[Major Allen (Earth-199999)|Maj. Allen]]}}
+** {{1st|[[Lieutenant Lacy (Earth-199999)|Lt. Lacy]]}}
+* {{1st|[[Stark Industries (Earth-199999)|Stark Industries]]}} {{Flashback}}
+** {{Minor|[[Howard Stark (Earth-199999)|Howard Stark]]}} {{1stHist}} {{Photo}}
+** {{apn|[[William Ginter Riva (Earth-199999)|William Ginter Riva]]|-|Spider-Man: Far From Home}} {{1st}}
+* {{Invoked|[[Yahweh (Earth-199999)|God (Yahweh)]]}}
+* {{Named|[[Maria Stark (Earth-199999)|Maria Stark]]}}
+* Hirohito {{Named}}
+* {{Named|[[Franklin Delano Roosevelt (Earth-199999)|President Roosevelt]]}}
+* {{1st|[[Christine Everhart (Earth-199999)|Christine Everhart]]}} {{Flashback}}
+* {{Mentioned|[[Leonardo da Vinci (Earth-199999)|Leonardo da Vinci]]}}
+* {{Mentioned|[[National Socialist German Workers Party (Earth-199999)|Nazis]]}}
+** {{Named|[[Adolf Hitler (Earth-199999)|Adolf Hitler]]}}
+* {{Mentioned|[[Manhattan Project (Earth-199999)|Manhattan Project]]}}
+* {{Invoked|[[Jesus of Nazareth (Earth-199999)|Jesus Christ]]}}
+* {{Mentioned|[[Temujin (Earth-199999)|Genghis Khan]]}}
+* {{Mentioned|[[Alexander of Macedon (Earth-199999)|Alexander the Great]]}}
+* {{Mentioned|[[Roman Empire]]}}
+* {{FlashOnly|[[Afghan National Army (Earth-199999)|Afghan National Army]]}}
+* {{1st|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]]}}
+** {{apn|[[Phillip Coulson (Earth-199999)|Agent Phil Coulson]]|Captain Marvel (film)|Iron Man 2: Agents of S.H.I.E.L.D. Vol 1 1}} {{1stHist}}
+** {{apn|[[Nicholas Fury (Earth-199999)|Director Nick Fury]]|Captain Marvel (film)|Iron Man 2: Agents of S.H.I.E.L.D. Vol 1 1}} {{1stHist}} {{Cameo}}
+* {{Mentioned|[[Federal Bureau of Investigation (Earth-199999)|F.B.I.]]}}
+* {{Mentioned|[[Central Intelligence Agency (Earth-199999)|C.I.A.]]}}
+* {{1st|[[James J. Cramer (Earth-199999)|Jim Cramer]]}}
+* {{WP|Zorianna Kit}} {{1st}}
+* {{1st|[[Amira Ahmed (Earth-199999)|Amira Ahmed]]}}
+* {{1st|[[Stan Lee (Earth-199999)|Stan Lee]]}} {{Impersonates|Hugh Hefner}}
+* [[Wikipedia:Hugh Hefner|Hugh Hefner]] {{Mentioned}}
+* {{Mentioned|[[United States Navy (Earth-199999)|United States Navy]]}}
+* {{Mentioned|[[United States Marine Corps (Earth-199999)|United States Marine Corps]]}}
+* {{1st|[[Roxxon Corporation (Earth-199999)|Roxxon Corporation]]}} {{Named}} {{Cameo}}
+'''Races and species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Goats]]}}
+* {{Photo|[[Horses]]}}
+'''Locations:'''
+* {{1st|[[Earth-199999]]}}
+** {{a|[[Earth]]}} 
+*** {{a|[[Afghanistan]]}}
+**** {{a|[[Bagram]]}}
+**** {{a|[[Gulmira]]}}
+*** {{a|[[United States of America]]}}
+**** {{Mentioned|[[Massachusetts Institute of Technology]]}}
+**** {{Mentioned|[[Brown University]]}}
+**** {{Mentioned|[[University of California, Berkeley|Berkeley]]}}
+**** {{a|[[Nevada (State)|Nevada]]}}
+***** {{a|[[Las Vegas]]}}
+****** {{a|[[Caesars Palace]]}}
+**** {{a|[[California (State)|California]]}}
+***** {{a|[[Los Angeles County]]}}
+****** {{a|[[Los Angeles]]}}
+******* {{a|[[Stark Enterprises Building (Los Angeles)|Stark Industries]]}}
+******* [[Roxxon Corporation (Earth-199999)|Roxxon]] Building
+****** {{a|[[Malibu (California)|Malibu]]}}
+******* {{a|[[Retreat (Tony Stark's Malibu Mansion)|Tony Stark's Malibu Mansion]]}}
+****** {{Minor|[[Santa Monica Pier]]}}
+****** {{a|[[Edwards Air Force Base]]}}
+**** {{Mentioned|[[New York (State)|New York]]}}
+*** {{Mentioned|[[Switzerland]]}}
+**** {{Mentioned|[[Bern (Switzerland)|Bern]]}}
+*** {{Named|[[Pearl Harbor]]}}
+*** {{Mentioned|[[Ukraine]]}}
+** {{a|[[Sun (Star)|Sun]]}}
+** {{a|[[Luna (Moon)|Moon]]}}
+** {{Invoked|[[Hell]]}}
+'''Items:'''
+* [[Iron Man Armor (Earth-199999)|Iron Man Armor]] {{1st}}
+** {{1st|[[Iron Man Armor MK I (Earth-199999)|MK I]]}}
+** {{1st|[[Iron Man Armor MK II (Earth-199999)|MK II]]}}
+** {{1st|[[Iron Man Armor MK III (Earth-199999)|MK III]]}}
+* {{1st|[[Arc Reactor]]}}
+* {{1st|[[Palladium (Element)|Palladium]]}}
+* {{Minor|Captain America's Shield|Captain America's Shield|Replica}}
+* {{Only|[[Iron Monger Armor (Earth-199999)|Iron Monger Armor]]}} {{Destruction}}
+* {{1st|[[Dum-E]]}}
+* {{1st|[[Jericho Missile]]}}
+'''Vehicles:'''
+* [[wikipedia:Boeing Business Jet|Boeing 737 Business Jet]]
+* [[wikipedia:Lockheed Martin F-22 Raptor|Lockheed Martin F-22 Raptor (Whiplash 1 & 2)]]
+* [[wikipedia:Ford Model B (1932)|1932 Ford Flathead Roadster]]
+* [[wikipedia:AC Cobra|1967 Shelby Cobra]]
+* [[wikipedia:Saleen S7|Saleen S7]]
+* [[wikipedia:Audi R8 (road car)|2008 Audi R8]]
+* [[wikipedia:Tesla Roadster|Tesla Roadster]]
+'''Events:'''
+* {{Named|[[World War II]]}}
+
+| Plot                    = 
+During a trip to [[Afghanistan]] to demonstrate [[Stark Industries (Earth-199999)|his company's]] new weapon system, [[Anthony Stark (Earth-199999)|Tony Stark]] was attacked and kidnapped by a terrorist group called the [[Ten Rings (Earth-199999)|Ten Rings]].
+
+Thirty-six hours earlier, at an award ceremony, US Air Force officer [[James Rhodes (Earth-199999)|James Rhodes]] had prepared to give an award to Tony, but Stark was absent playing craps at Caesar's Palace in [[Las Vegas]], [[Nevada (State)|NV]]. Stark's business partner, Obadiah Stane, accepted the award on his behalf. Rhodes later found Stark and expressed his disappointment at the absence. Preparing to leave, Stark was approached by a reporter, Christine Everhart. Stark and Everhart end up having sex that night together. Afterwards, Tony called upon his assistant, [[Virginia Potts (Earth-199999)|Pepper Potts]], to prompt Everhart to leave. Before leaving Everhart wakes up looking for Tony when she can't find him Christine looks around Tony's house trying to get something interesting for her story. Shortly after trying to access an area that she isn't allowed into she is greeted by Pepper who escorts her out 
+
+[[File:Anthony Stark (Earth-199999) from Iron Man (film) 006.jpg|left|thumb|250px|Stark forges the MK I armor]]
+
+Several hours later, Tony demonstrated the "Jericho", his revolutionary multi-warhead cluster bomb missile, to the US Air Force. Shortly thereafter, the kidnapping occurred and the terrorists revealed that they wanted Stark to build them a version of the Jericho weapon. Stark was forced to comply, although over the next three months he built a crude but very strong and protective [[Iron Man Armor (Earth-199999)|power armor]] instead.
+
+Stark gained the aid of fellow captive [[Ho Yinsen (Earth-199999)|Dr. Yinsen]] during his time working on the secret project. Together they married a miniature arc reactor of Stark's design to an electromagnetic pacemaker protecting Stark's heart from the embedded shrapnel in his chest. Once he was free from the immediate threat of his heart injury Stark proceeded to construct a weapon system for himself under the guise of the missile system that his captors thought he was making. When the armored suit was completed, Stark then made his bid for escape.
+
+Dr. Yinsen was shot and killed during the escape, although Stark himself managed to get away, later to be picked up by the U.S. Air Force in the desert. Upon returning to the United States, Stark declared that Stark Industries would no longer manufacture weapons, a move which his business partner and second-in-command CEO [[Obadiah Stane (Earth-199999)|Obadiah Stane]] informed him was blocked by the board members shortly after.
+
+During his self-imposed sabbatical from public life, Stark tinkered with the design of his power suit, refining it for flight capability, and built a more powerful and reliable arc reactor, both to power his pacemaker and power the suit. Meanwhile, Raza, the leader of the Ten Rings terrorist group, dispatched his men to recover the Mark I armor from the desert where Stark had abandoned it. After finding the armor, Raza ordered his men to rebuild it once again.
+
+During Stark's first public appearance since his kidnapping Everhart showed him pictures of Stark Industries weapons in the hands of terrorist groups (particularly the Ten Rings), including the system he refused to build for them. He also discovered that Stane had been "dealing under the table" to both sides in the conflict, as well as being the one to shut Stark out of the board while he recovered. Faced with the realization of what his company had done, Stark donned the power suit and flew to Yinsen's village of Gulmira in Afghanistan; rescuing the villagers from the terrorists by employing his armor's weapon systems. Iron Man also grabbed one of the terrorists' leaders and left him at the mercy of the villagers. Raza watched Iron Man flee to the weapon stockpiles.
+
+After a brief battle with an enemy tank, Iron Man destroyed their weapon stockpiles, but accidentally drew the attention of two patrolling jet pilots of the United States Air Force. After a supersonic dogfight between Stark and two F-22s, one jet was damaged in Stark's attempt to hide, forcing the the pilot to eject. The pilot's ejection seat malfunctioned but Stark managed to save the pilot's life. After this ordeal, Stark revealed  his Iron Man identity to Rhodes and Rhodes covered it up by stating that the incident was "a training exercise".
+
+After viewing the news of the Gulmira F-22 incident, Stane went on a business trip to the Ten Rings' encampment in Afghanistan, where it became apparent that Stane had paid and ordered the Ten Rings to kill Stark. Raza reported that Stark had perfected his armor design into the Mark III armor leading the conspirators to broker a deal: The Mark I armor designs for Stane and in exchange "the gift of iron soldiers" to Raza and his terrorist followers. Stane ultimately betrayed Raza by incapacitating him with an amplified sound paralyzer and ordered his guards to kill all of Raza's men. Stane then secretly contracted Sector 16 at Stark Industries to use the armor designs.
+
+Determined to make amends for his mistakes, Stark sent his assistant [[Virginia Potts (Earth-199999)|Virginia Potts]] to find the shipping records of Stark Industries in order to track down the illicit weapons shipments and destroy them. While hacking into the system she discovered that it was Stane who had hired the Ten Rings to kill Stark, but they had reneged on the deal when they realized who the target was. She also discovered that Stane had recovered the power suit prototype, and had [[Iron Monger|reverse engineered his own version]].
+
+Stane took Stark's arc reactor to power his suit after learning that his scientists in Sector 16 were unable to copy Tony's ingenious miniaturization of the company's larger design. Neutralizing Stark with the sonic paralyzer, Stane revealed his involvement in the kidnapping while Stark was immobile and unable to stop the theft. After briefly expounding upon his agenda of world domination and the ideals of power in the corporate business, (particularly stating that ark, Tony's father, helped the atomic bomb become a reality), Stane left Stark for dead.
+
+Rhodes went to Tony's house after being told of Obadiah's machinations by Pepper. There he found Stark putting on the Mark III armor after Stark had retrieved his first arc reactor with the assistance of a robotic arm. He asked Stark if there was anything he could do to help, and Tony simply responded by asking him to keep the skies clear. After Stark left, Rhodes gazed on the Mark II armor and said, "Next time, baby!" (a nod to [[War Machine Armor MK I (Earth-199999)|War Machine]]).
+
+Meanwhile, Pepper and several [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]] agents attempted to arrest Obadiah at Stark Industries headquarters, but Stane had put on his Iron Monger armor and ambushed them. Just before Iron Monger could kill Pepper, Stark (as Iron Man) intervened and fought him out onto the streets. Their epic battle soon took them to the skies where Iron Man seemingly defeated Iron Monger when Stane's armor iced up at high altitude.
+
+Both combatants then fell, each managing to re-engage critical systems to slow their descent and land atop the Stark Industries building. Iron Monger proceeded to beat Iron Man but in a last ditch effort, Stark ordered Pepper to overload the large arc reactor powering the building. The resulting blast killed Obadiah and incapacitated Tony.
+
+The film ended with a press conference about the battle. Although advised by S.H.I.E.L.D. agent Coulson to claim Iron Man is his personal body guard and corporate mascot to hide his identity, Tony instead announced that ''he'' was Iron Man. After the closing credits, Stark was greeted by [[Nicholas Fury (Earth-199999)|General Nick Fury]], director of S.H.I.E.L.D., who informed him of the [[Avengers (Earth-199999)|Avenger Initiative]].
+
+| Cast                    = 
+
+*[[wikipedia:Robert Downey Jr.|Robert Downey Jr.]] as [[Anthony Stark (Earth-199999)|Iron Man / Tony Stark]]
+
+*[[wikipedia:Terrence Howard|Terrence Howard]] as [[James Rhodes (Earth-199999)|Lt. Col. James "Rhodey" Rhodes]]
+
+*[[wikipedia:Jeff Bridges|Jeff Bridges]] as [[Obadiah Stane (Earth-199999)|Obadiah Stane]]
+
+*[[wikipedia:Gwyneth Paltrow|Gwyneth Paltrow]] as [[Virginia Potts (Earth-199999)|Pepper Potts]]
+
+*[[wikipedia:Leslie Bibb|Leslie Bibb]] as [[Christine Everhart (Earth-199999)|Christine Everhart]]
+
+*[[wikipedia:Shaun Toub|Shaun Toub]] as [[Ho Yinsen (Earth-199999)|Yinsen]]
+
+*[[wikipedia:Faran Tahir|Faran Tahir]] as [[Raza Hamidmi Al-Wazar (Earth-199999)|Raza]]
+
+*[[wikipedia:Clark Gregg|Clark Gregg]] as [[Phillip Coulson (Earth-199999)|Agent Phil Coulson]]
+
+*[[wikipedia:Bill Smitrovich|Bill Smitrovich]] as [[William Gabriel (Earth-199999)|Major General William Gabriel]]
+
+* [[wikipedia:Sayed Badreya|Sayed Badreya]] as [[Abu Bakaar (Earth-199999)|Abu Bakaar]]
+
+[[wikipedia:Paul Bettany|Paul Bettany]] voices Stark's A.I. butler, [[Just A Rather Very Intelligent System (Earth-199999)|J.A.R.V.I.S.]]. Director [[wikipedia:Jon Favreau|Jon Favreau]] appears in a minor role as [[Harold Hogan (Earth-199999)|Happy Hogan]]. [[wikipedia:Peter Billingsley|Peter Billingsley]] portrays [[William Ginter Riva (Earth-199999)|William Ginter Riva]]. [[wikipedia:Tim Guinee|Tim Guinee]] portrays [[Major Allen (Earth-199999)|Major Allen]]. Musician [[wikipedia:Tom Morello|Tom Morello]] makes a cameo as a guard. [[wikipedia:Ahmed Ahmed|Ahmed Ahmed]] and [[wikipedia:Fahim Fazli|Fahim Fazli]] portray [[Character Index/Earth-199999#Ahmed|Ahmed]] and [[Omar (Ten Rings) (Earth-199999)|Omar]], respectively. [[wikipedia:Nazanin Boniadi|Nazanin Boniadi]] portrays [[Amira Ahmed (Earth-199999)|Amira Ahmed]]. [[wikipedia:Jim Cramer|Jim Cramer]] and Zorianna Kit appear as themselves. [[wikipedia:Micah Hauptman|Micah Hauptman]] portrays [[Lieutenant Lacy (Earth-199999)|Lieutenant Lacy]]. [[wikipedia:Gerard Sanders|Gerard Sanders]] appears as [[Howard Stark (Earth-199999)|Howard Stark]] in a photo. [[wikipedia:Stan Lee|Stan Lee]] makes a cameo as a guy Stark confuses with [[wikipedia:Hugh Hefner|Hugh Hefner]]. [[wikipedia:Samuel L. Jackson|Samuel L. Jackson]] makes an uncredited appearance as [[Nicholas Fury (Earth-199999)|Nick Fury]] in the post-credits scene.
+
+| Notes                   = * In its opening weekend, Iron Man grossed $98,618,668 in 4,105 theaters in the United States and Canada, ranking Vol 1 1 at the box office.
+* Iron Man grossed $585,174,222 worldwide; $318,412,101 in the U.S. and Canada and $266,762,121 in other territories.
+
+| Trivia                  = * In the comics, [[Anthony Stark (Earth-616)|Iron Man]] usually operates out of [[New York (State)|New York]] on the East Coast, but director [[Jon Favreau]] wanted to relocate him to the West Coast for the film to differentiate it from other superhero films like ''[[Spider-Man (2002 film)|Spider-Man]]'' and ''[[Fantastic Four (2005 film)|Fantastic Four]]''.<ref>{{cite web|url=http://www.aintitcool.com/node/31525|title=Quint visits the IRON MAN production offices! Art! Favreau speaks about sequels (?!?), casting and more!!!|author=Quint|work=Ain't It Cool News|date=9 February 2007|accessdate=3 March 2018}}</ref>
+* Director and co-star Jon Favreau had previously appeared as the Marvel character [[Franklin Nelson (Earth-701306)|Franklin "Foggy" Nelson]] in the 2003 film ''[[Daredevil (film)|Daredevil]]''.
+* When shown on FX, the water torture scene was removed and replaced with a scene that was originally deleted.{{citation}}
+* An earlier version of the scene in which Tony replaces his arc reactor at his lab didn't feature Pepper. Instead, Tony operated a machine on his own to replace the reactor.{{r|{{cite web|url=https://www.instagram.com/p/BjDNxThAcLq/|title=Ryan Meinerding on Instagram: "Another look back at the first Iron Man. This was an idea that @jonfavreau had for when Tony is working on his RT. Instead this moment in…"|work=Instagram|first=Ryan|last=Meinerding|date=21 May 2018|accessdate=22 May 2018}}}}
+* The basic concept of showing Tony's face from inside his armor helmet with the suit's HUD displayed in front of him was inspired by the film ''[[wikipedia:2001: Space Odyssey|2001: Space Odyssey]]'', namely the shots in which the lights on a computer are reflected in the helmet of the astronaut David Bowman.<ref name="HUD">{{cite web|url=https://news.avclub.com/nerd-out-like-tony-stark-with-this-breakdown-of-how-the-1825732473|title=Nerd out like Tony Stark with this breakdown of how the Iron Man HUD was created|work=AV News|first=Sam|last=Barsanti|date=2 May 2018|accessdate=13 August 2018}}</ref>
+* An early cut of the film included a sequence that explained how the Iron Man helmet worked and the purpose of the HUD. The sequence was scrapped after test audiences managed to grasp the concept of the HUD immediately and were actually more confused by the attempts to explain it.<ref name="HUD"/>
+* Tony Stark's reveal that he was Iron Man at the end of the movie was originally ad-libbed by Robert Downey Jr.{{r|{{cite web|url=https://deadline.com/2018/07/iron-man-10th-anniversary-marvel-robert-downey-jr-kevin-feige-jon-favreau-comic-con-1202428754/|title=‘Iron Man’ At 10: How One Film Set A Dominant Path For Marvel, Kevin Feige, Robert Downey Jr. & Jon Favreau|work=Deadline|first=Geoff|last=Boucher|date=19 July 2018|accessdate=24 July 2018}}}}
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[ru:Железный человек (фильм)]]
+[[Category:Marvel Studios]]
+[[Category:War in Afghanistan]]

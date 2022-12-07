@@ -1,0 +1,19 @@
+{{Infobox character
+|image = Clerk Lenny.jpg
+|name = Clerk Lenny
+|games = ''[[Toontown Online]]''
+|appearance = Blue duck, large eyes and beak, violet shirt
+|occupation = Worker<br>Clerk
+|alignment = Good/Neutral}}
+'''Clerk Lenny''' is a worker for the [[w:c:toontown:The Brrrgh gag shop|Gag Shop]] in [[w:c:toontown:The Brrrgh|The Brrrgh]].
+
+He works alongside [[Clerk Penny]].
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Males]]
+[[Category:Ducks]]
+[[Category:Characters in video games]]
+[[Category:Animated characters]]
+[[Category:Characters introduced in video games]]
+{{Toontown Online}}

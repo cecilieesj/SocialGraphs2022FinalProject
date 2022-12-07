@@ -1,0 +1,24 @@
+{{Infobox film
+| name           = Lights! Cameras! Fractions!
+| image          = LightsCamerasFractions.jpg
+| caption        = 
+| director       = 
+| producer       = 
+| music          = 
+| cinematography =  
+| studio         = [[Walt Disney Productions]]
+| distributor    = [[Buena Vista Distribution]]
+| release       = [[1984]]
+| time        = 17 minutes
+| language       = English}}
+'''''Lights! Cameras! Fractions!''''' is a [[1984]] [[The Walt Disney Company|Disney]] educational live-action/animated short.
+
+==Synopsis==
+A group of junior high students (in live action) make stop-motion "cartoon" animated films. Kids watch their latest 16mm production in the classroom shot one frame at a time. You'll see Gumby-style claymation characters, plus a boy and girl flying all over the place. Later, they pretend to ride motorcycles down the street, all using 24 frames per second stop-motion cinema techniques. Afterwards, the students set up their next movie epic, using a 16mm camera on a tripod, lights, props, etc.
+[[Category:1984 films]]
+[[Category:Live-action shorts]]
+[[Category:Animated shorts]]
+[[Category:Disney films]]
+[[Category:Educational films]]
+[[Category:Hybrid films]]
+[[Category:Disney Educational Productions]]

@@ -1,0 +1,37 @@
+{{Infobox_character
+|image = Hammerhold.png
+|name = Hammerhold
+|films = ''[[Buzz Lightyear of Star Command: The Adventure Begins]]''
+|shows = ''[[Buzz Lightyear of Star Command]]''
+|voice = [[Corey Burton]]
+|fullname = Senator Hammerhold
+|family = [[Petra Hammerhold]] (daughter)
+|occupation = Galactic Alliance Senator
+|friends = Buzz Lightyear, Mira Nova, Booster, XR, Petra Hammerhold
+|status= Active}}
+'''Senator Hammerhold''' is a senator in the Galactic Alliance.
+
+==Physical Appearance==
+Senator Hammerhold has green skin, blue eyes, blond hair, and a pair of antennae growing from his head.
+
+==Personality==
+He is protective of [[Petra Hammerhold|his daughter]].
+
+==Appearances==
+*[[Buzz Lightyear of Star Command: The Adventure Begins|The Adventure Begins]] <sup>(no lines)</sup>
+*[[Inside Job]] <sup>(no lines)</sup>
+*[[A Zoo Out There]] <sup>(no lines)</sup>
+*[[The Plasma Monster]]
+*[[War and Peace and War]] <sup>(montage, no lines)</sup>
+*[[Rookie of the Year]] <sup>(no lines)</sup>{{CharacterStub}}
+
+{{Buzz Lightyear of Star Command}}
+[[Category:Characters]]
+[[Category:Pixar characters]]
+[[Category:TV Animation characters]]
+[[Category:Males]]
+[[Category:Buzz Lightyear of Star Command characters]]
+[[Category:Neutral characters]]
+[[Category:Animated characters]]
+[[Category:Adults]]
+[[Category:Aliens]]

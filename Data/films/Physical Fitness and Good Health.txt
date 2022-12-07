@@ -1,0 +1,29 @@
+{{Infobox film
+|image = Good_health.jpg
+|imagewidth = 250px
+|name = Physical Fitness and Good Health
+|director = [[Les Clark]]
+|producer = 
+|writer = 
+|studio = [[Walt Disney Productions]]
+|distributor = Upjohn Pharmacy Company
+|release = [[1969]]
+|language = English
+|time = 10 minutes
+}}
+'''''Physical Fitness and Good Health''''' is a [[1969]] Disney educational animated short from the [[Upjohn's Triangle of Health]] series.
+
+==Synopsis==
+Exercise, rest and proper diet are essential for physical fitness. Diagrams show the structure and function of muscles and the importance of exercise to tone muscles, nerves and organs. With rest, muscles are cleansed of wastes and refueled. Food, our only energy source, provides fuel for the body mechanism. If the physical side of the Health Triangle is weak, the other two sides can be adversely affected.
+
+==Gallery==
+<gallery>
+1969-physical-05.jpg
+1969-physical-06.jpg
+1969-physical-07.jpg
+1969-physical-08.jpg
+</gallery>
+
+[[Category:Animated shorts]]
+[[Category:1969 shorts]]
+[[Category:Educational films]]

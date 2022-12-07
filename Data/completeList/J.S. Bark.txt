@@ -1,0 +1,15 @@
+{{Infobox character
+|image = JS Bark.jpg
+|name = J.S. Bark
+|games = ''[[Toontown Online]]''
+|alignment = Neutral}}
+'''J.S. Bark''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC Dog. He is a 2-star [http://toontown.wikia.com/wiki/Drop_Gags Drop] [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon].
+
+{{CharacterStub}}
+{{Toontown Online}}
+{{DEFAULTSORT:Bark, J.S.}}
+[[Category:Toontown characters]]
+[[Category:Dogs]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Characters in video games]]

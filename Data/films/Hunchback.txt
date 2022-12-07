@@ -1,0 +1,35 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|director = 
+|producer = [[Josh Gad]]<br>[[David Hoberman]]<br>Todd Lieberman<br>[[Don Hahn]]
+|writer = David Henry Hwang
+|starring = 
+|music = [[Alan Menken]]<br>[[Stephen Schwartz]]
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]<br>Mandeville Films<br>Angry Child Productions
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = 
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = }}
+'''''Hunchback'''''<ref>[https://www.hollywoodreporter.com/movies/movie-news/live-action-hunchback-movie-works-at-disney-1176584/ Disney Developing Live-Action ''Hunchback'' Movie With Josh Gad, David Henry Hwang]</ref> is an upcoming American, live-action fantasy film adaptation of [[1996]] film, ''[[The Hunchback of Notre Dame]]''. The project was announced in January [[2019]], although a release date is still to be announced.<ref>[https://deadline.com/2019/01/hunchback-movie-disney-live-action-david-henry-hwang-josh-gad-alan-menken-stephen-schwartz-1202536031/ Disney Rings ‘Hunchback’ Bell: David Henry Hwang To Script Live Action Musical, Alan Menken/Stephen Schwartz Writing Music]</ref>
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{The Hunchback of Notre Dame}}
+{{DISPLAYTITLE:''Hunchback''}}
+[[Category:The Hunchback of Notre Dame]]
+[[Category:Remakes]]
+[[Category:Live-action films]]
+[[Category:Disney films]]

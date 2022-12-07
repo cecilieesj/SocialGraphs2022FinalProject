@@ -1,0 +1,56 @@
+{{Infobox film
+|image = Theduckhuntcolorizedtitle.jpg
+|imagewidth = 250px
+|name = The Duck Hunt
+|director = [[Burt Gillett]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = Walt Disney<br>[[Pinto Colvig]]
+|music = Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[January 28]], [[1932]]
+|preceded = ''[[Mickey's Orphans]]''
+|followed = ''[[The Grocery Boy]]''}}
+'''''The Duck Hunt''''' is a ''[[Mickey Mouse]]'' cartoon that was released on [[January 28]], [[1932]].
+
+==Synopsis==
+Mickey and Pluto go duck hunting, stopping to jam to "Columbia, Gem of the Ocean." The ducks get their own back, carrying the hunters through the air and dropping them on a clothesline.
+
+==Characters==
+*[[Mickey Mouse]] (voiced by [[Walt Disney]])
+*[[Pluto]] (voiced by [[Pinto Colvig]])
+
+==Releases==
+===Television===
+*''[[The Mickey Mouse Club]]'', November 29, 1955
+*''[[Mickey's Mouse Tracks]]'', episode #46
+*''[[Donald's Quack Attack]]'', episode #27
+
+===Home video===
+'''Laserdisc'''
+*''Mickey Mouse: The Black and White Years - Volume One''
+
+'''DVD'''
+*''[[Walt Disney Treasures: Wave Two|Walt Disney Treasures]]: Mickey Mouse in Black and White''
+
+==Trivia==
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150">
+15705.jpg
+15706.jpg
+15707.jpg
+15710.jpg
+15711.jpg
+15712.jpg
+The Duck Hunt.jpg
+</gallery>
+
+{{Mickey-Series}}
+{{DEFAULTSORT:Duck Hunt}}
+[[Category:Animated shorts|Duck Hunt, The]]
+[[Category:Mickey Mouse shorts|Duck Hunt, The]]
+[[Category:Pluto shorts]]
+[[Category:1932 shorts]]

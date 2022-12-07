@@ -1,0 +1,273 @@
+{{Marvel Database:Film Template
+| Image                   = Iron Man 3 (film) poster 006.jpg
+| Aliases                 = Caged Heat (working title), Iron Man Three
+
+| Directors               = Shane Black
+| Producers               = Kevin Feige
+| ComicWriters            = [[Stan Lee]]; [[Larry Lieber]]; [[Don Heck]]; [[Jack Kirby]]
+| StoryWriters            = 
+| ScreenplayWriters       = Drew Pearce; Shane Black
+| Musicians               = Brian Tyler
+| Cinematographers        = John Toll
+| Editors                 = Jeffrey Ford; Peter S. Elliot
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = 131 minutes
+| Rating                  = '''MPAA:''' PG-13 for sequences of intense sci-fi action and violence throughout, and brief suggestive content
+| Budget                  = $200 million
+| Release Date            = April 24, 2013
+| US Release Date         = May 3, 2013
+
+| AM ID                   = iron-man-3-v527818
+| IMDB ID                 = 1300854
+| Marvel Movies           = Iron Man 3
+| MCU                     = Iron Man 3
+
+| Previous Film           = Iron Man 2 (film)
+| Previous Film2          = {{sld|Marvel's The Avengers}}
+| Next Film               = Avengers: Age of Ultron
+
+| Appearances              = 
+'''Featured Characters:'''
+* {{apn|[[Anthony Stark (Earth-199999)|Iron Man (Tony Stark)]]|Marvel's Iron Man 3 Prelude Vol 1 2|Avengers: Age of Ultron}} {{Flashback}}
+'''Supporting Characters:'''
+* {{a|[[Stark Industries (Earth-199999)|Stark Industries]]}}
+** {{apn|[[Harold Hogan (Earth-199999)|Happy Hogan]]|Iron Man 2 (film)|Spider-Man: Homecoming}} {{Flashback}}
+** {{apn|[[Virginia Potts (Earth-199999)|Pepper Potts]]|Marvel's Iron Man 3 Prelude Vol 1 2|Spider-Man: Homecoming}}
+* {{1st|[[Iron Legion (Earth-199999)|Iron Legion]]}}
+** {{a|[[Just A Rather Very Intelligent System (Earth-199999)|J.A.R.V.I.S.]]}}
+* {{apn|[[James Rhodes (Earth-199999)|Iron Patriot (Col. James "Rhodey" Rhodes)]]|Marvel's Iron Man 3 Prelude Vol 1 2|Avengers: Age of Ultron}} {{1stas|Iron Patriot}}
+* {{apn|[[Harley Keener (Earth-199999)|Harley Keener]]|-|Avengers: Endgame}} {{1st}}
+'''Antagonists:'''
+* {{1st|[[Advanced Idea Mechanics (Earth-199999)|A.I.M.]]}} {{Flashback}}
+** {{Only Dies|[[Maya Hansen (Earth-199999)|Dr. Maya Hansen]]}} {{Flashback}}
+** {{Only Dies|[[Aldrich Killian (Earth-199999)|Aldrich Killian]]}} {{Flashback}}
+** [[Extremis virus|Extremis Soldiers]] {{1st}}
+*** {{Only Dies|[[Eric Savin (Earth-199999)|Eric Savin]]}} {{impersonates|[[James Rhodes (Earth-199999)|Iron Patriot]]}}
+*** {{Only Dies|[[Ellen Brandt (Earth-199999)|Ellen Brandt]]}}
+*** Numerous unnamed soldiers {{Only Dies}}
+* {{apn|[[Trevor Slattery (Earth-199999)|Mandarin (Trevor Slattery)]]|-|Marvel One-Shot: All Hail the King}} {{1st}}
+* {{1st|[[Vice President Rodriguez (Earth-199999)|Vice President Rodriguez]]}}
+'''Other Characters'''
+* {{apn|[[Ho Yinsen (Earth-199999)|Dr. Ho Yinsen]]|-|Iron Man (film)}} {{1stChron}}
+* {{1st|[[Doctor Wu (Earth-199999)|Doctor Wu]]}}
+* {{Mentioned|[[Albert Einstein (Earth-199999)|Albert Einstein]]}}
+* {{bts|[[Bambina Arbogast (Earth-199999)|Bambi Arbogast]]}}
+* {{Invoked|[[Yahweh (Earth-199999)|God (Yahweh)]]}}
+* {{Mentioned|[[Avengers (Earth-199999)|Avengers]]}}
+* Aldrich Killian's Father {{Mentioned}}
+* {{a|[[Federal Bureau of Investigation (Earth-199999)|F.B.I.]]}}
+* {{a|[[Advanced Idea Mechanics (Earth-199999)|A.I.M.]]}}
+** [[Extremis virus|Extremis Soldiers]] {{1st}}
+*** {{Only Dies|[[Jack Taggart (Earth-199999)|Jack Taggart]]}}
+*** {{OnScreen|[[Chad Davis (Earth-199999)|Chad Davis]]}}
+*** Unnamed Extremis test subjects {{OnScreen}}
+* {{apn|[[Matthew Ellis (Earth-199999)|President Ellis]]|-|Marvel's Agents of S.H.I.E.L.D. Season 3 1}} {{1st}}
+* [[wikipedia:Joan Rivers|Joan Rivers]] {{OnScreenOnly}}
+* [[wikipedia:Bill Maher|Bill Maher]] {{OnScreenOnly}}
+* {{Mentioned|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]]}}
+* {{Mentioned|[[Central Intelligence Agency (Earth-199999)|CIA]]}}
+* {{a|[[Roxxon Oil Company (Earth-199999)|Roxxon Oil Corporation]]}}
+** {{a|[[Thomas Richards (Earth-199999)|Thomas Richards]]}} {{g|Only appearance; apparently dies}}
+* [[Character Index/Earth-199999#Davis|Mrs. Davis]] {{1st}}
+* {{Mentioned|[[United States Department of Homeland Security (Earth-199999)|Homeland Security]]}}
+* {{a|[[Stan Lee (Earth-199999)|Stan Lee]]}}
+* [[Character Index/Earth-199999#Gary|Gary]] {{1st}}
+* {{WP|Wernher von Braun}} {{Mentioned}}
+* {{Mentioned|[[National Socialist German Workers Party (Earth-199999)|Nazis]]}}
+* {{Mentioned|[[Osama bin Laden (Earth-199999)|Osama bin Laden]]}}
+* [[Wikipedia:Muammar Gaddafi|Muammar Gaddafi]] {{Mentioned}}
+* {{Mentioned|[[Thor Odinson (Earth-199999)|Thor]]}}
+* {{Toy|[[Santa Claus (Earth-199999)|Santa Claus]]}}
+* [[Satan|Devil]] {{Invoked}}
+* {{Drawing|[[George Washington (Earth-199999)|George Washington]]}}
+* {{apn|[[Bruce Banner (Earth-199999)|Dr. Bruce Banner]]|Marvel's The Avengers|Avengers: Age of Ultron}} {{Cameo}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{Mentioned|[[Demons]]}}
+* {{Mentioned|[[Chitauri]]}}
+* {{Minor|[[Rabbits]]}}
+* {{Mentioned|[[Asgardians]]}}
+* {{a|[[Deer]]}}
+* {{Statue|[[Dragons (Race)|Dragons]]}}
+* {{Mentioned|[[Fish]]}}
+* {{Mentioned|[[Birds]]}}
+* {{Mentioned|[[Mice]]}}
+* {{Mentioned|[[Dogs]]}}
+* {{Mentioned|[[Monkeys]]}}
+* {{Mentioned|[[Elephants]]}}
+* {{Mentioned|[[Cats]]}}
+* {{Mentioned|[[Turtles]]}}
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[California (State)|California]]}}
+***** {{a|[[Malibu (California)|Malibu]]}}
+****** {{destruction|[[Retreat (Tony Stark's Malibu Mansion)|Tony Stark's Malibu Mansion]]}}
+******* {{destruction|[[Hall of Armor]]}}
+****** {{a|[[Neptune's Net Bar]]}}
+***** {{Mentioned|[[New York (State)|New York]]}}
+****** {{Drawing|[[Stark Tower]]}}
+***** {{a|[[Los Angeles]]}}
+****** {{a|[[Stark Enterprises Building (Los Angeles)|Stark Industries]]}}
+****** {{1st|[[Beverly Grove]]}}
+******* {{1st|[[Cedars-Sinai Medical Center]]}}
+****** {{a|[[Hollywood]]}}
+******* {{a|[[Hollywood Boulevard]]}}
+******** {{a|[[Grauman's Chinese Theatre|TCL Chinese Theatre]]}}
+**** {{a|[[Florida (State)|Florida]]}}
+***** {{a|[[Miami]]}}
+**** {{Mentioned|[[Colorado (State)|Colorado]]}}
+***** {{Mentioned|[[Big Sandy Creek (Colorado)|Sandy Creek]]}}
+**** {{a|[[Tennessee (State)|Tennessee]]}}
+***** {{a|[[Rose Hill]]}}
+**** {{a|[[Washington, D.C.]]}}
+***** {{a|[[White House]]}}
+*** {{FlashOnly|[[Switzerland]]}}
+**** {{FlashOnly|[[Bern (Switzerland)|Bern]]}}
+*** {{Mentioned|[[Afghanistan]]}}
+*** {{Mentioned|[[Kuwait]]}}
+**** {{Mentioned|[[Ali Al Salem Air Base]]}}
+*** {{a|[[Pakistan]]}}
+*** {{Mentioned|[[Europe]]}}
+**** {{Mentioned|[[London (England)|London]]}}
+*** {{Mentioned|[[Iran]]}}
+** {{Mentioned|[[Heaven (Paradise)|Heaven]]}}
+** {{Mentioned|[[Hell]]}}
+'''Items:'''
+* [[Iron Man Armor (Earth-199999)|Iron Man Armor]]
+** {{a|[[Iron Man Armor MK I (Earth-199999)|MK I]]}} {{Destruction}}
+** {{a|[[Iron Man Armor MK II (Earth-199999)|MK II]]}} {{Destruction}}
+** {{a|[[Iron Man Armor MK III (Earth-199999)|MK III]]}} {{Destruction}}
+** {{a|[[Iron Man Armor MK IV (Earth-199999)|MK IV]]}} {{Destruction}}
+** {{a|[[Iron Man Armor MK V (Earth-199999)|MK V]]}} {{Destruction}}
+** {{a|[[Iron Man Armor MK VI (Earth-199999)|MK VI]]}} {{Destruction}}
+** {{a|[[Iron Man Armor MK VII (Earth-199999)|MK VII]]}} {{Flashback}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK VIII (Earth-199999)|Mark VIII]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK IX (Earth-199999)|Mark IX]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK X (Earth-199999)|Mark X]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XI (Earth-199999)|Mark XI]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XII (Earth-199999)|Mark XII]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XIII (Earth-199999)|Mark XIII]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XIV (Earth-199999)|Mark XIV]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XV (Earth-199999)|Mark XV]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XVI (Earth-199999)|Mark XVI]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XVII (Earth-199999)|Mark XVII]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XVIII (Earth-199999)|Mark XVIII]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XIX (Earth-199999)|Mark XIX]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XX (Earth-199999)|Mark XX]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXI (Earth-199999)|Mark XXI]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXII (Earth-199999)|Mark XXII]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXIII (Earth-199999)|Mark XXIII]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXIV (Earth-199999)|Mark XXIV]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXV (Earth-199999)|Mark XXV]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXVI (Earth-199999)|Mark XXVI]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXVII (Earth-199999)|Mark XXVII]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXVIII (Earth-199999)|Mark XXVIII]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXIX (Earth-199999)|Mark XXIX]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXX (Earth-199999)|Mark XXX]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXXI (Earth-199999)|Mark XXXI]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXXII (Earth-199999)|Mark XXXII]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXXIII (Earth-199999)|Mark XXXIII]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXXIV (Earth-199999)|Mark XXXIV]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXXV (Earth-199999)|Mark XXXV]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXXVI (Earth-199999)|Mark XXXVI]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXXVII (Earth-199999)|Mark XXXVII]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXXVIII (Earth-199999)|Mark XXXVIII]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XXXIX (Earth-199999)|Mark XXXIX]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XL (Earth-199999)|Mark XL]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XLI (Earth-199999)|Mark XLI]]}} {{Destruction}}
+** {{1st|[[Iron Man Armor MK XLII (Earth-199999)|Mark XLII]]}} {{Destruction}}
+* {{1stas|[[War Machine Armor MK II (Earth-199999)|Iron Patriot Armor]]|Iron Patriot Armor}}
+* {{1st|[[Extremis virus]]}}
+* {{a|[[Arc Reactor]]}} {{g|Disposed of}}
+* {{a|[[Dum-E]]}}
+* {{a|[[Tony Stark's New Element]]}}
+* Limited Edition [[Wikipedia:Dora the Explorer|Dora the Explorer]] Watch
+* {{Mentioned|[[Mjolnir]]}}
+'''Vehicles:'''
+* [[wikipedia:Air Force One|Air Force One]] {{Destruction}}
+* [[wikipedia:Audi e-tron|Audi R8 e-tron]]
+* {{a|[[Norco|The Roxxon ''Norco'']]}} {{Destruction}}
+
+| Plot                  = Tony Stark recalls a New Years Eve party in 1999 with scientist Maya Hansen, inventor of Extremis- an experimental regenerative treatment intended to allow recovery from crippling injuries. Disabled scientist Aldrich Killian offers them a place in his company, Advanced Idea Mechanics, but is turned down.
+Years later, Stark's experiences during the Chitauri invasion on New York are giving him panic attacks. Restless, he has built several Iron Man suits, creating friction with his girlfriend, Pepper Potts. A string of bombings by terrorist "the Mandarin" has left intelligence agencies bewildered by a lack of forensic evidence. 
+
+When Stark Industries security chief Happy Hogan is badly injured in one such attack, Stark overcomes his stupor and issues a televised threat to the Mandarin, who responds by destroying Stark's home with helicopter gunships. Potts and Hansen, who had come to warn them, survive the attack. Stark then finds himself in rural Tennessee after his artificial intelligence J.A.R.V.I.S. followed a flight plan from Stark's investigation into the Mandarin. Stark's experimental armor lacks sufficient power to return to California, and the world believes him dead.
+
+Teaming with Harley, a precocious ten-year-old boy, Stark investigates the remains of a local explosion bearing the hallmarks of a Mandarin attack. He discovers the "bombings" were triggered by soldiers subjected to Extremis, which at this stage of development can cause certain subjects to explosively reject it. After veterans started exploding, their deaths were used to cover up Extremis' flaws by manufacturing a terrorist plot. Stark witnesses Extremis firsthand when Mandarin agents Ellen Brandt and Eric Savin attack him.
+With Harley's help, Stark traces the Mandarin to Miami and infiltrates his headquarters using improvised weapons. Inside he discovers the Mandarin is actually a British actor, Trevor Slattery, who says that he is oblivious to the actions carried out in his name.
+
+The Mandarin is a creation of Killian, who appropriated Hansen's Extremis research as a cure for his own disability and expanded the program to include injured war veterans. After capturing Stark, Killian reveals he is the true Mandarin; he has kidnapped Potts and subjected her to Extremis, intending to infuse her with superhuman abilities and turn her against Stark as leverage to gain Stark's aid in fixing Extremis' flaws. Killian kills Maya when she has a change of heart about the plan.
+
+Killian has also manipulated American intelligence agencies regarding the Mandarin's location, luring James Rhodes—the former War Machine, now re-branded as the Iron Patriot—into a trap to steal the armor. Stark escapes and reunites with Rhodes, discovering that Killian intends to attack President Ellis aboard Air Force One. Remotely controlling his Iron Man armor, Stark saves some surviving passengers and crew but cannot stop Killian from abducting Ellis. They trace Killian to an impounded oil drilling platform where Killian intends to kill Ellis on live television. The vice president will become a puppet leader, following Killian's orders in exchange for Extremis to cure his daughter's disability.
+
+On the platform, Stark goes to save Potts, and Rhodes saves the president. Stark summons each of his Iron Man suits, controlled remotely by J.A.R.V.I.S., to provide air support. Rhodes secures the president and leads him to safety, while Stark discovers Potts has survived the Extremis procedure. However, before he can save her, a rig collapses around them and she falls to her apparent death. Stark confronts Killian and traps him in an Iron Man suit that self-destructs, but fails to kill him. Potts, whose Extremis powers allowed her to survive her fall, intervenes and kills Killian.
+
+After the battle, Stark orders J.A.R.V.I.S. to destroy each Iron Man suit under Operation Clean Slate protocol as a sign of his intention to devote more time to Potts. The vice president and Slattery are arrested for their crimes. With Stark's help, Potts' Extremis effects are stabilized, and Stark undergoes surgery to remove the shrapnel embedded near his heart. He pitches his obsolete chest arc reactor into the sea, musing he will always be Iron Man.
+
+In the present, Stark wakes up Dr. Bruce Banner, who fell asleep listening at the beginning of Stark's story.
+
+A final title card reads ''Tony Stark will return.''
+
+| Cast                    = 
+*[[wikipedia:Robert_Downey_Jr.|Robert Downey Jr.]] as  [[Anthony Stark (Earth-199999)|Iron Man / Tony Stark]]
+*[[wikipedia:Gwyneth_Paltrow|Gwyneth Paltrow]] as  [[Virginia Potts (Earth-199999)|Pepper Potts]]
+*[[wikipedia:Don_Cheadle|Don Cheadle]] as  [[James Rhodes (Earth-199999)|Iron Patriot / Colonel James Rhodes]]
+*[[wikipedia:Guy_Pearce|Guy Pearce]] as  [[Aldrich Killian (Earth-199999)|Aldrich Killian]]
+*[[wikipedia:Rebecca_Hall|Rebecca Hall]] as  [[Maya Hansen (Earth-199999)|Dr. Maya Hansen]]
+*[[wikipedia:Stephanie Szostak|Stephanie Szostak]] as  [[Ellen Brandt (Earth-199999)|Ellen Brandt]]
+*[[wikipedia:James_Badge_Dale|James Badge Dale]] as  [[Eric Savin (Earth-199999)|Eric Savin]]
+*[[wikipedia:William Sadler (actor)|William Sadler]] as  [[Matthew Ellis (Earth-199999)|President Ellis]]
+*[[wikipedia:Miguel Ferrer|Miguel Ferrer]] as [[Vice President Rodriguez (Earth-199999)|Vice President Rodriguez]]
+*[[wikipedia:Jon_Favreau|Jon Favreau]] as  [[Harold Hogan (Earth-199999)|Happy Hogan]]
+*[[wikipedia:Ben_Kingsley|Ben Kingsley]] as  [[Trevor Slattery (Earth-199999)|The Mandarin / Trevor Slattery]]
+*[[Wikipedia:Dale Dickey|Dale Dickey]] as Mrs. Davis
+*[[wikipedia:Ty Simpkins|Ty Simpkins]] as  [[Harley Keener (Earth-199999)|Harley Keener]]
+
+[[wikipedia:Paul_Bettany|Paul Bettany]] and [[wikipedia:Shaun Toub|Shaun Toub]] reprise their roles as [[Just A Rather Very Intelligent System (Earth-199999)|J.A.R.V.I.S.]] and [[Ho Yinsen (Earth-199999)|Ho Yinsen]]. [[wikipedia:Wang Xueqi|Wang Xueqi]] and [[wikipedia:Fan Bingbing|Fan Bingbing]] portray [[Doctor Wu (Earth-199999)|Doctor Wu]] and his assistant in scenes shot specifically for the Chinese version of the film. Wang makes two brief appearances as Dr. Wu at the beginning and end of the film.  [[wikipedia:Ashley Hamilton|Ashley Hamilton]] portrays  [[Jack Taggart (Earth-199999)|Taggart]]. [[wikipedia:Spencer Garrett|Spencer Garrett]] appears as a Rose Hill sheriff. [[wikipedia:Tom Virtue|Tom Virtue]] portrays [[Thomas Richards (Earth-199999)|Thomas Richards]]. [[Stan Lee]] and Adam Pally make cameos as a beauty pageant judge and as [[Gary (Cameraman) (Earth-199999)|Gary]]. [[wikipedia:Rebecca Mader|Rebecca Mader]] appears as a Ten Rings agent. [[wikipedia:Mark Ruffalo|Mark Ruffalo]] makes an uncredited cameo in the post-credits scene as [[Bruce Banner (Earth-199999)|Bruce Banner]].
+
+| Notes                   = 
+* Although [[wikipedia:Jon Favreau|Jon Favreau]] did not return to direct ''Iron Man 3'', he still appears as [[Harold Hogan (Earth-199999)|Happy Hogan]] and retains his role as executive producer.
+* [[wikipedia:Wang Xueqi|Wang Xueqi]] was initially reported to be playing a character named [[Radioactive Man|Chen Lu]], better known in the comics as the supervillain Radioactive Man.
+* The film was under the working title, ''Caged Heat''. This name has also been used as a distribution alias for the ''Iron Man 3'' digital content packages. The working title of Iron Man 3 was later referenced in the ''[[Marvel One-Shot: All Hail the King]]'', when it was used as the name given to a TV series in which [[Trevor Slattery (Earth-199999)|Trevor Slattery]] played the main role of its rejected pilot.
+* This film became the 17th film to pass $1 billion at the worldwide box office.<ref>[https://twitter.com/boxofficemojo/status/335432187233046528 Twitter - Box Office Mojo]</ref> With a worldwide total box office gross of about $1.2 billion, this film became the second-highest-grossing film of 2013, and at its peak the 6th-highest-grossing film of all time.{{r|{{cite web|url= http://www.boxofficemojo.com/yearly/chart/?view2=worldwide&yr=2013&p=.htm|title= 2013 Yearly Box Office Results|work= Box Office Mojo|accessdate= April 3, 2018}}}}{{r|{{cite web|url= http://www.boxofficemojo.com/alltime/world/|title= All Time Worldwide Box Office Grosses|accessdate= April 3, 2018|work= Box Office Mojo|archiveurl= https://archive.is/26vdh|archivedate= March 28, 2015}}}}
+| Trivia                  = * Director Shane Black previously directed Robert Downey Jr. for the 2005 noir comedy ''[[wikipedia:Kiss Kiss Bang Bang|Kiss Kiss Bang Bang]]''.
+* Early into the development, [[wikipedia:Nikolaj Coster-Waldau|Nikolaj Coster-Waldau]] was considered for the role of [[Aldrich Killian (Earth-199999)|Aldich Killian]].{{r|{{cite web|url=https://www.artstation.com/artwork/GXgGB4|title=Iron Man 3 (2011) - Extremis Endoarmor Concepts|work=first=Phil|last=Saunders|date=24 April 2019|accessdate=24 April 2019}}}}
+* [[wikipedia:Emilia Clarke|Emilia Clarke]] of ''[[wikipedia:Game of Thrones|Game of Thrones]]'' fame was originally cast in the movie. Her role was dropped seemingly due to script changes.{{r|{{cite web|url=https://comicbook.com/marvel/2019/05/25/game-of-thrones-star-emilia-clarke-originally-cast-iron-man-3/|title=Game of Thrones Star Emilia Clarke Was Originally Cast in Iron Man 3|work=ComicBook.com|first=JK|last=Schmidt|date=24 May 2019|accessdate=24 May 2019}}}}
+* According to himself, Stan Lee was originally going to have a more prominent appearance.<ref>[http://www.youtube.com/watch?v=Hf7FLHyUAic Iron Man 3 Cameo - Stan's Rants - YouTube]</ref> In a deleted scene from the ''Marvel Cinematic Universe: Phase Two Collection'', it can be seen that Stan Lee's cameo would've had him holding a sign rating a beauty pageant contestant before he even had to, with one of the fellow juries telling him to put it down. Lee would also have been one of the victims of the tear gas Tony Stark would've used to clear the place to use the communications satellite.
+* [[Maya Hansen (Earth-199999)|Maya Hansen]] was originally supposed to be the main villain of the film. After the script was finished, Black and co-writer {{WP|Drew Pierce}} received a memo from corporates barring the decision out of concerns for the marketability of a female villain. Hansen's role in the film was reduced and Aldrich Killian was used as the main villain instead. Shane's idea to have a female villain pulling the strings behind a male villain took inspiration from the TV series ''[[wikipedia:Remington Steele|Remington Steele]]''.{{r|{{cite web|url=http://uproxx.com/movies/shane-black-the-nice-guys-iron-man-3/|title=Shane Black On 'The Nice Guys,' Mel Gibson, And Why A Female 'Iron Man 3' Villain's Gender Changed|last=Ryan|first=Mike|work=Uproxx|date=16 May 2016|accessdate=16 May 2016}}}}
+* A [[Hulkbuster Armor]] was originally going to appear as part of the [[Iron Legion (Earth-199999)|Iron Legion]], but it was eliminated to save the suit for a more featured role.{{r|{{cite web|url=https://www.instagram.com/p/CEhJQmXjK9e/|title=Phil Saunders on Instagram: "This #hulkbuster was originally done for..."|work=Instagram|first=Phil|last=Saunders|date=30 August 2020|accessdate=3 September 2020}}}}
+* Pearce and Black originally wanted to have Happy Hogan watching [[wikipedia:Ultimate Fighting Championship|UFC]] in the hospital as a nod to the Jon Favreau's role in the sitcom ''[[wikipedia:Friends|Friends]]''. The idea of using ''[[wikipedia:Downton Abbey|Downton Abbey]]'' came from Favreau himself.{{r|{{cite web|url=http://www.comicbookresources.com/?page=article&id=47981|title=Shane Black, Drew Pearce Look Back at Billion-Dollar "Iron Man 3"|work=Comic Book Resources|first=Albert|last=Ching|date=19 September 2013|accessdate=24 April 2019}}}} According to him, the scene of the series shown at Happy Hogan's hospital room was carefully chosen.<ref>{{cite web|url=https://twitter.com/jon_favreau/status/328581485173043201|title=Jon Favreau on Twitter: "Pay attention to what #DowntonAbbey scene Happy is watching in #Ironman3. It was carefully selected"|work=Twitter|first=Jon|last=Favreau|date=28 April 2013|accessdate=4 March 2017}}</ref> Said scene features characters Tom Barrow and Sybil Crawley, a chauffeur and the woman of high society he longs for, which could symbolize that Happy secretly harbors feelings for Pepper. In the comics, Happy and Pepper had a romance and were even married.
+
+==Gallery==
+===Alternate Posters===
+<gallery>
+Iron Man 3 (film) teaser poster.jpg
+Iron Man 3 (film) poster 001.jpg
+Iron Man 3 (film) IMAX poster 001.jpg|IMAX poster
+Iron Man 3 (film) poster 007.jpg
+Anthony Stark (Earth-199999) from Iron Man 3 (film) poster 006.jpg
+Iron Man 3 (film) poster 005.jpg
+Iron Man 3 (film) poster 005 Textless.jpg
+Iron Man 3 (film) poster 002.jpg
+James Rhodes (Earth-199999) from Iron Man 3 (film) Poster 0001.jpg
+Iron Man 3 (film) poster 003.jpg
+Iron Man 3 (film) poster 003 Textless.jpg
+Iron Man 3 (film) poster 004.jpg
+Trevor Slattery (Earth-199999) Promotional 0001.jpg
+Iron Man 3 (film) IMAX Poster.jpg|IMAX 12:01 Poster
+Iron Man 3 (film) poster 008.jpg
+</gallery>
+
+===Videos===
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Iron Man 3 Trailer - Official Marvel HD
+Iron Man 3 -- Official Trailer UK Marvel HD
+</gallery>
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[Category:Marvel Studios]]
+[[Category:Christmas]]
+[[Category:Battle of New York]]

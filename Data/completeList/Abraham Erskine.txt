@@ -1,0 +1,68 @@
+{{Infobox character
+|image = Abraham Erskine Profile.png
+|name = Abraham Erskine
+|films = ''Captain America: The First Avenger''
+|shows = ''[[The Avengers: Earth's Mightiest Heroes]]<br>[[What If...?]]''
+|voice = [[Stanley Tucci]]
+|actor = [[Stanley Tucci]]
+|fullname = Abraham Erskine
+|alias = Josef Reinstein<br>Doctor Erskine
+|occupation = Scientist
+|affiliations = Strategic Scientific Reserve
+|home = Augsburg (formerly)<br>New York City
+|likes = Steve never giving up hope, his family
+|dislikes = HYDRA, war, evil 
+|status = Deceased 
+|partner = Greta Erskine † (wife)
+|children = Klaus Erskine † (son)<br>Marlene Erskine † (daughter)}}
+
+'''Doctor Abraham Erskine''', also known as''' Dr. Josef Reinstein''', is a [[Marvel Comics]] character that appears in ''Captain America: The First Avenger'' and the ''[[What If...?]]'' series.
+
+Dr. Erskine was created by [[Jack Kirby]] and Joe Simon.
+
+==Background==
+===Biography===
+He is a brilliant scientist who created the [[Super Soldier Serum]], a chemical formula that grant superhuman strength and invulnerability. However, when the formula was still under development, Dr. Erskine tried to flee from Nazi Germany with his family, but Adolf Hitler sent the Nazi [[HYDRA]] agent Johann Schmidt to stop him and force him to finish the serum. To accomplish his own goals, Johann Schmidt forced Dr. Erskine to give him an early version of the serum and injected himself with it. This caused horrifying side effects, turning Johann Schmidt into the deformed superpowered menace [[Red Skull]]. Furious with this result, Johann Schmidt throwed Dr. Erskine into a dungeon to die, but he was saved by [[Peggy Carter]] and escaped to the United States, where he was able to finish the formula of the Super Soldier Serum.
+
+===Personality===
+Dr. Erskine is kindhearted and gentle, acting as a father figure to Steve. He wanted Steve to be injected with the Super Soldier Serum so that good could be brought into the world by giving superhuman strength to someone noble who would use it to protect innocents from the forces of evil.
+
+==Appearances==
+===[[Marvel Cinematic Universe]]===
+====''Captain America: The First Avenger''====
+Dr. Erskine injected the Super Soldier Serum into a brave and kindhearted soldier named Steve Rogers, using Vita Radiation to maximize the potential of the serum. Thus, Steve became the super soldier [[Captain America]]. However, an HYDRA agent acting on Red Skull's behalf shot Dr. Erskine on the spot, killing him.
+
+==== ''What If...?'' ====
+In an alternate timeline set during the events of ''Captain America: The First Avenger'', before he began the presentation, he asked Peggy, who brought Steve down earlier, that she was more comfortable in the booth. She declined, and chose to stay. Dr. Erskine was about to inject the Super Soldier Serum to Steve Rogers, using the Vita Radiation. But a HYDRA agent, triggered the explosive, interrupting his work and was killed in the explosion.
+
+==Gallery==
+<gallery position="center" spacing="small">
+Abraham Erskine.png
+</gallery>
+
+{{CharacterStub}}
+
+{{Marvel Cinematic Universe}}
+{{Marvel Animated Universe}}
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:The Avengers: Earth's Mightiest Heroes characters]]
+[[Category:What If...? characters]]
+[[Category:Heroes]]
+[[Category:Scientists]]
+[[Category:Inventors]]
+[[Category:Widows/Widowers]]
+[[Category:Mentors]]
+[[Category:Elderly characters]]
+[[Category:Deceased characters]]
+[[Category:Captain America characters]]
+[[Category:Adults]]
+[[Category:Acquired characters]]
+[[Category:Live-action characters]]
+[[Category:German characters]]
+[[Category:Parents]]
+[[Category:Disney XD characters]]
+[[Category:Alternate Timeline Versions]]
+{{DEFAULTSORT:Erskine, Abraham}}

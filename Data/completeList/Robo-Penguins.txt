@@ -1,0 +1,32 @@
+{{Group Infobox
+|image = Robo-Penguins.png
+|shows = ''[[Miles from Tomorrowland]]''
+|inspiration = Penguins
+|alias = 
+|members = [[Bowtie]]
+|affiliation = Tomorrowland Transit Authority
+|goal = Collect weather data
+|headquarters = [[Tempestoro]]}}The '''Robo-Penguins''' are a group of robotic penguins who appear in the [[Disney Junior]] animated series, ''[[Miles from Tomorrowland]]''. They are designed and programmed to collect weather data for the Tomorrowland Transit Authority.
+
+==Description==
+The Robo-Penguins are so named is because they look like penguins. Under their wings are their battery life indicators. Because they are not built for speed the Robo-Penquins are known to be very slow, but they are fast when they slide down hills or when they are being chased. While all Robo-Penguins look the same, one in particular is nicknamed "[[Bowtie]]" because he wears a blue bow tie on his chest and is a friend to [[Mirandos]].
+
+The Robo-Penguins are stationed on the Polar Icecap at the top of planet [[Tempestoro]], which is where their charging station is based. During big storms, the Robo-Penguins are programmed to go into their charging station. Recharging their power supply is essential for the Robo-Penguins, because if they run out of power they will lose all of their data.
+
+Robo-Penguins also have a heat mode of their own, which turns their black coloration to bright orange; while in heat mode, the Robo-Penguins are able to melt away thick layers of ice via touch. 
+
+==Gallery==
+<gallery position="center" captionalign="center" widths="180">
+Bowtie the Robo-Penguin cocnept.png|Concept Art
+Bowtie.png|Bowtie
+</gallery>
+
+{{Miles from Tomorrowland}}
+[[Category:Penguins]]
+[[Category:Robots]]
+[[Category:Miles from Tomorrowland characters]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Character groups]]

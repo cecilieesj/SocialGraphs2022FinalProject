@@ -1,0 +1,32 @@
+{{Infobox_character
+|name = Yukker Tutter
+|shows = ''[[Bear in the Big Blue House]]''
+|actor = [[Eric Jacobson]]
+|designer = 
+|alias = 
+|personality = 
+|appearance = Small blue mouse, pink nose, wears a bucket on his head
+|occupation = A relative of [[Tutter]]
+|alliance = Good
+|alignment = Good
+|goal = 
+|home = Woodland Valley
+|family = [[Tutter]] (relative), various other relatives
+|friends = 
+|minions = 
+|enemies = 
+|likes =Playing jokes 
+|dislikes = 
+|quote = 
+|image = TuckerTutter.jpg
+|imagesize = 100 px}}'''Yukker Tutter''' is [[Tutter]]'s relative. He appeared in the ''[[Bear in the Big Blue House]]'' episode "[[The Tutter Family Reunion]]". He wears a bucket on his head and is a practical joker.
+
+{{CharacterStub}}
+{{MuppetsWiki}}
+{{Bear in the Big Blue House}}
+[[Category:Males]]
+[[Category:Live-action characters]]
+[[Category:Mice]]
+[[Category:Bear in the Big Blue House characters]]
+[[Category:Characters]]
+[[Category:Playhouse Disney characters]]

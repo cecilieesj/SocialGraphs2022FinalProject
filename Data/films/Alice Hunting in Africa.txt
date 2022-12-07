@@ -1,0 +1,29 @@
+{{Infobox film
+|image = Alice-hunting-in-africa-a-walt-disney-comic_u-l-eyunp0.jpeg
+|name = Alice Hunting in Africa
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[November 15]], [[1924]]
+|preceded = ''[[Alice Gets in Dutch]]''
+|followed = ''[[Alice and the Three Bears]]''
+}}
+'''''Alice Hunting In Africa''''' is an animated short film that is part of the [[Alice Comedies]] that were released by Winkler Pictures in [[1924]]. It was in black and white and silent.
+
+==Summary==
+Alice and Julius hunt wild game in Africa with differing results.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1924-africa-2.jpg
+1924-africa-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=18 Alice Hunting in Africa] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1924 shorts]]
+[[Category:Alice Comedies]]

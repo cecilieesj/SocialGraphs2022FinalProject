@@ -1,0 +1,51 @@
+{{Marvel Database:Film Template
+| Image                   = 
+| Aliases                 = Spider-Man: Across the Spider-Verse (Part Two)
+
+| Directors               = 
+| Producers               = 
+| Writers                 = 
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| ProductionCompanies     = Columbia Pictures, Sony Pictures Animation, Marvel Entertainment
+| Distributors            = Sony Pictures Releasing
+| Running Time            = 
+| Rating                  = 
+| Budget                  = 
+| Release Date            = March 29, 2024
+
+| Marvel Movies           = {{PAGENAME}}
+| Spider-Man Films        = {{PAGENAME}}
+
+| Previous Film           = Spider-Man: Across the Spider-Verse
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* <br/>
+'''Supporting Characters:'''
+* <br/>
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* <br/>
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = 
+
+| Notes                   = * This film was originally assumed to be titled ''Spider-Man: Across the Spider-Verse (Part Two)'', based on what the previous film entry was called. However, after the previous film dropped the "Part One" from its title and simply became {{sl|Spider-Man: Across the Spider-Verse}},<ref>{{cite web|url= https://deadline.com/2022/04/spider-man-across-the-spider-verse-summer-2023-theatrical-release-sony-release-date-changes-1235007010/|title= ‘Spider-Man: Across The Spider-Verse’ Heads To Summer 2023; Sony Dates ‘Equalizer 3’ Among Other Release Changes|work= Deadline|last= D'Alessandro|first= Anthony|date= April 20, 2022|accessdate= May 14, 2022}}</ref> this film was later re-titled to ''Spider-Man: Beyond the Spider-Verse''.<ref>{{cite web|url= https://deadline.com/2022/04/spider-man-across-the-spider-verse-fresh-footage-shown-at-cinemacon-part-2s-title-revealed-1235009498/|title= ‘Spider-Man: Across The Spider-Verse’ Fresh Footage Shown At CinemaCon, Part 2’s Title Revealed|work= Deadline|last= D'Alessandro|first= Anthony|coauthors= Goldsmith, Jill; Tartaglione, Nancy|date= April 25, 2022|accessdate= May 14, 2022}}</ref>
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}
+[[tr:Spider-Man: Beyond the Spider-Verse]]
+[[Category:Sony Pictures Entertainment]]

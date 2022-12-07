@@ -1,0 +1,323 @@
+{{Marvel Database:Film Template
+| Title                   = [[Days of Future Past|X-Men: Days of Future Past]]
+| Image                   = X-Men Days of Future Past (film) poster 003.jpg
+| Aliases                 = "Hello Kitty" (working title)
+
+| Directors               = Bryan Singer
+| Producers               = Lauren Shuler Donner; Bryan Singer; Simon Kinberg; Hutch Parker
+| ComicWriters            = 
+| StoryWriters            = Jane Goldman; Simon Kinberg; Matthew Vaughn
+| ScreenplayWriters       = Simon Kinberg
+| Musicians               = John Ottman
+| Cinematographers        = Newton Thomas Sigel
+| Editors                 = John Ottman
+| Distributors            = 20th Century Fox
+| ProductionCompanies     = 20th Century Fox; Marvel Entertainment; TSG Entertainment; Bad Hat Harry Productions; The Donners' Company
+| Running Time            = 131 minutes
+| Rating                  = '''MPAA:''' PG-13 for sequences of intense sci-fi violence and action, some suggestive material, nudity and language
+| Budget                  = $205 million
+| Release Date            = May 20, 2014
+| US Release Date         = May 23, 2014
+| Previous Film           = X-Men: The Last Stand
+| Previous Film2          = {{sld|X-Men: First Class (film)}}{{sld|The Wolverine (film)}}
+| Next Film               = X-Men: Apocalypse         
+| Tagline                 = Charles, we need you to hope again.
+
+| AM ID                   = x-men-days-of-future-past-v562354
+| IMDB ID                 = 1877832
+| Marvel Movies           = X-Men: Days of Future Past
+| X-Men Movies            = X-Men: Days of Future Past
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Last|[[X-Men (Earth-10005)|X-Men (Original Timeline)]]}}
+** {{apn|[[Charles Xavier (Earth-10005)|Professor X (Charles Xavier / "P. Xavier")]]|The Wolverine (film)|-}} {{Last}}
+** {{apn|[[Ororo Munroe (Earth-10005)|Storm (Ororo Munroe)]]|X-Men: The Last Stand|-}} {{Death}} 
+** {{apn|[[James Howlett (Earth-10005)|Wolverine (Logan)]]|The Wolverine (film)|-}} {{Flashback}} {{g|Joins [[X-Men (Earth-TRN414)|X-Men (New Timeline)]]}}
+** {{apn|[[Erik Lehnsherr (Earth-10005)|Magneto (Erik Lehnsherr)]]|The Wolverine (film)|-}} {{Last}}
+* {{1st|[[X-Men (Earth-TRN414)|X-Men (New Timeline)]]}}
+** {{apn|[[Henry McCoy (Earth-TRN414)|Beast (Hank McCoy)]]|-|X-Men: Apocalypse}} {{1st}}
+** {{apn|[[Charles Xavier (Earth-TRN414)|Professor Charles Xavier]]|-|Dark Phoenix (film)}} {{1st}} {{Flashback}}
+'''Supporting Characters:'''
+* {{Only|[[Free Mutants (Earth-10005)|Free Mutants]]}}
+** {{Only Dies|[[Lucas Bishop (Earth-10005)|Bishop]]}}
+** {{Only Dies|[[James Proudstar (Earth-10005)|Warpath]]}}
+** {{Only Dies|[[Roberto Da Costa (Earth-10005)|Sunspot (Roberto Da Costa)]]}}
+** {{apn|[[Robert Drake (Earth-10005)|Iceman (Bobby Drake)]]|X-Men: The Last Stand|-}} {{Death}}
+** {{apn|[[Katherine Pryde (Earth-10005)|Kitty Pryde]]|X-Men: The Last Stand|-}} {{Last}}
+** {{apn|[[Peter Rasputin (Earth-10005)|Colossus (Peter Rasputin)]]|X-Men: The Last Stand|-}} {{Death}}
+** {{Only Dies|[[Clarice Ferguson (Earth-10005)|Blink]]}}
+* {{apn|[[Raven Darkhölme (Earth-TRN414)|Mystique (Raven Darkhölme)]]|-|X-Men: Apocalypse}} {{1st}} {{Impersonates|[[Colonel Sanders (Earth-TRN414)|Colonel Sanders]], [[Bolivar Trask (Earth-TRN414)|Bolivar Trask]], [[General Nhuan (Earth-TRN414)|General Nhuan]], [[Charles Xavier (Earth-10005)|Charles Xavier]], [[William Stryker, Jr. (Earth-TRN414)|Major Stryker]]}} {{Flashback}}
+* {{apn|[[Peter Maximoff (Earth-TRN414)|Quicksilver (Peter Maximoff)]]|-|X-Men: Apocalypse}} {{1st}}
+* {{apn|[[Marie D'Ancanto (Earth-10005)|Rogue (Marie D'Ancanto)]]|X-Men: The Last Stand|-}} {{Last}}
+'''Antagonists:'''
+* {{Only|[[Trask Industries (Earth-TRN414)|Trask Industries]]}}
+** {{Only|[[Bolivar Trask (Earth-TRN414)|Bolivar Trask]]}}
+* {{apn|[[William Stryker, Jr. (Earth-TRN414)|Major Bill Stryker Jr.]]|-|X-Men: Apocalypse}} {{1st}}
+* {{apn|[[Erik Lehnsherr (Earth-TRN414)|Magneto (Erik Lehnsherr)]]|-|X-Men: Apocalypse}} {{1st}}
+'''Other Characters:'''
+* {{Only|[[Eric Gitter (Earth-10005)|Ink (Gitter)]]}} {{Cameo}}
+* {{Flashback|[[Trask Industries (Earth-10005)|Trask Industries]]}}
+** {{Only Dies|[[Bolivar Trask (Trask Industries) (Earth-10005)|Bolivar Trask]]}} {{FlashOnly}}
+* {{FlashOnly|[[Raven Darkhölme (Earth-10005)|Mystique (Raven Darkhölme)]]}} {{Impersonates|[[William Stryker, Sr. (Earth-10005)|William Stryker, Sr.]]}}
+* {{FlashOnly|[[William Stryker, Jr. (Earth-10005)|Colonel William Stryker, Jr.]]}}
+* {{apn|[[James Howlett (Earth-TRN414)|Logan]]|-|X-Men: Apocalypse}} {{1st}} {{PossessedBy||[[James Howlett (Earth-10005)|Wolverine]]}} {{g|Death in flashforward}}
+* [[Character Index/Alternate Earths#Gwen (Earth-TRN414)|Gwen]] {{Only}}
+* [[Character Index/Alternate Earths#Ramone (Earth-TRN414)|Ramone]] {{Only Dies}}
+* {{Only|[[United States Senate (Earth-TRN414)|U.S. Senate]]}}
+** Senator Brickman
+** Congressman Parker
+** Congressman Davis
+** Congressman McCarter
+* {{Mentioned|[[Central Intelligence Agency (Earth-TRN414)|C.I.A.]]}}
+* {{Only|[[United States Army (Earth-TRN414)|U.S. Army]]}}
+** {{Only|[[Eric Gitter (Earth-TRN414)|Ink (Pvt. Gitter)]]}}
+** {{Only|[[Mortimer Toynbee (Earth-TRN414)|Toad (Pvt. Mortimer Toynbee)]]}}
+** {{apn|[[Alexander Summers (Earth-TRN414)|Havok (Pvt. Alex Summers)]]|-|X-Men: Apocalypse}} {{1st}}
+** {{Only|[[Daniels (Earth-TRN414)|Pvt. Daniels]]}}
+** {{Minor|[[Colonel Sanders (Earth-TRN414)|Col. Sanders]]}} {{g|Impersonated by Mystique}}
+* {{Mentioned|[[John F. Kennedy (Earth-10005)|President John F. Kennedy]]}} {{Deceased}}
+* {{Mentioned|[[Peter Maximoff (Earth-10005)|Peter Maximoff]]}}
+* {{Mentioned|[[Brotherhood of Mutants (Earth-TRN414)|Brotherhood of Mutants]]}} {{Only}}
+** {{Photo|[[Azazel (Earth-TRN414)|Azazel]]}} {{Corpse}}
+** {{Photo|[[Angel Salvadore (Earth-TRN414)|Angel Salvadore]]}} {{Corpse}}
+** {{Mentioned|[[Emma Frost (Earth-TRN414)|Emma Frost]]}} {{Deceased}}
+* {{Mentioned|[[Sean Cassidy (Earth-TRN414)|Banshee (Sean Cassidy)]]}} {{Deceased}}
+* {{apn|[[Ms. Maximoff (Earth-TRN414)|Ms. Maximoff]]|-|X-Men: Apocalypse}} {{1st}}
+* {{Only|[[General Nhuan (Earth-TRN414)|General Nhuan]]}}
+* General Petrov
+* {{Only|[[Richard Nixon (Earth-TRN414)|President Richard Nixon]]}}
+* {{Mentioned|[[Jason Stryker (Earth-TRN414)|Jason Stryker]]}}
+* {{FlashOnly|[[Jean Grey (Earth-10005)|Jean Grey]]}}
+* {{Mentioned|[[Scott Summers (Earth-10005)|Cyclops (Scott Summers)]]}}
+* {{Only|[[Maximoff (Girl) (Earth-TRN414)|Quicksilver's little sister]]}} {{Cameo}}
+* {{Mentioned|[[Henry McCoy (Earth-10005)|Beast (Hank McCoy)]]}} {{Deceased}}
+* {{a|[[X-Men (Earth-TRN414)|X-Men (New Timeline)]]}} {{g|Future}}
+** {{Only|[[Robert Drake (Earth-TRN414)|Iceman (Bobby Drake)]]}} {{Cameo}} {{g|Future}}
+** {{Only|[[Marie D'Ancanto (Earth-TRN414)|Rogue (Marie D'Ancanto)]]}} {{Cameo}} {{g|Future}}
+** {{Only|[[Katherine Pryde (Earth-TRN414)|Kitty Pryde]]}} {{Cameo}} {{g|Future}}
+* {{1st|[[En Sabah Nur (Earth-10005)|En Sabah Nur]]}} {{Cameo}}
+* {{1st|[[Horsemen of Apocalypse (Earth-10005)|Horsemen of Apocalypse]]}} {{Cameo}}
+'''Epilogue'''
+* {{apn|[[Peter Rasputin (Earth-TRN414)|Colossus (Peter Rasputin)]]|Deadpool (film)|-}} {{Cameo}} {{g|Future}}
+* {{apn|[[Henry McCoy (Earth-TRN414)|Beast (Hank McCoy)]]|Dark Phoenix (film)|-}} {{Cameo}} {{g|Future}}
+* {{apn|[[Ororo Munroe (Earth-TRN414)|Storm (Ororo Munroe)]]|Dark Phoenix (film)|-}} {{Cameo}} {{g|Future}}
+* {{apn|[[Jean Grey (Earth-TRN414)|Jean Grey]]|Dark Phoenix (film)|-}} {{Cameo}} {{g|Future}}
+* {{apn|[[Scott Summers (Earth-TRN414)|Cyclops (Scott Summers)]]|Dark Phoenix (film)|-}} {{Cameo}} {{g|Future}}
+* {{apn|[[Charles Xavier (Earth-TRN414)|Professor Charles Xavier]]|Dark Phoenix (film)|-}} {{g|Future}}
+'''Races and Species:'''
+* {{Flashback|[[Humans (Homo sapiens)|Humans]]}}
+* {{Flashback|[[Mutants (Homo superior)|Mutants]]}}
+'''Locations:'''
+* {{Last|[[Earth-10005|Original Timeline]]}} {{Flashback}}
+** {{Last|[[Earth]]}} {{Flashback}}
+*** {{Last|[[United States of America|United States]]}} {{Flashback}}
+**** {{Last|[[New York (State)|New York]]}}
+***** {{Last|[[New York City]]}}
+****** {{Only|[[Manhattan]]}}
+******* [[Manhattan#Midtown Manhattan|Midtown]] {{Only}}
+******** {{Only|[[Fifth Avenue]]}}
+********* {{g|[[Empire State Building]]|Only appearance; destruction}}
+***** {{Last|[[Westchester County]]}}{{r|Rogue Cut}}
+****** {{Last|[[Salem Center]]}}{{r|Rogue Cut}}
+******* {{Last|[[Xavier's School for Gifted Youngsters]]}}{{r|Rogue Cut}}
+**** {{Last|[[California (State)|California]]}} {{FlashOnly}}
+***** {{Last|[[San Francisco]]}} {{FlashOnly}}
+****** {{Last|[[Alcatraz Island|Alcatraz]]}} {{FlashOnly}}
+*** {{Last|[[Russia]]}}
+**** {{Last|[[Moscow]]}}
+*** {{Only|[[China]]}}
+*** {{Last|[[France]]}} {{FlashOnly}}
+**** {{Only|[[Paris (France)|Paris]]}} {{FlashOnly}}
+*** {{Last|[[Canada]]}} {{FlashOnly}}
+**** {{Last|[[British Columbia]]}} {{FlashOnly}}
+***** {{Last|[[Alkali Lake]]}} {{FlashOnly}}
+*** {{Only|[[Egypt]]}}
+**** {{Only|[[Cairo (Egypt)|Cairo]]}}
+***** {{Only|[[Apocalypse's Pyramid]]}}
+* {{1st|[[Earth-TRN414|New Timeline]]}}
+** {{1st|[[Earth]]}}
+*** {{1st|[[United States of America]]}}
+**** {{1st|[[New York (State)|New York]]}}
+***** {{1st|[[New York City]]}}
+****** {{1st|[[Manhattan]]}}
+******* [[Manhattan#Midtown Manhattan|Midtown]] {{1st}}
+******** {{1st|[[Times Square]]}}
+***** {{1st|[[Westchester County]]}}
+****** {{1st|[[Salem Center]]}}
+******* {{1st|[[Xavier's School for Gifted Youngsters|Xavier's Mansion]]}}
+**** {{1st|[[Washington, D.C.]]}}
+***** {{1st|[[National Mall]]}}
+****** {{1st|[[Capitol Building]]}}
+***** {{1st|[[White House]]}}
+***** {{1st|[[Robert F. Kennedy Memorial Stadium]]}}
+**** {{1st|[[Virginia (State)|Virginia]]}}
+***** {{1st|[[Arlington County|Arlington]]}}
+****** {{1st|[[Pentagon]]}}
+**** {{1st|[[Texas (State)|Texas]]}}
+***** {{1st|[[Dallas]]}}
+*** {{Mentioned|[[Cuba]]}}
+*** {{1st|[[South Vietnam]]}}
+**** {{1st|[[Ho Chi Minh City|Saigon]]}}
+*** {{1st|[[France]]}}
+**** {{1st|[[Paris (France)|Paris]]}}
+'''Items:'''
+* {{a|[[Sentinels]]}}
+** {{1st|[[Sentinel Mk X (Earth-10005)|Sentinel Mk. X]]}}
+** {{1st|[[Sentinel MK I]]}}
+* {{a|[[X-Uniforms]]}}
+* {{Destruction|[[Cerebro (Mutant Detector)|Cerebro]]}}{{r|Rogue Cut}}
+* {{a|[[Magneto's Helmet]]}}
+* {{a|[[Hoverchair]]}}
+* {{a|[[Inhibitor Collar]]}}
+'''Vehicles:'''
+* {{a|[[X-Men Blackbird|X-Jet]]}}
+
+| Plot                    = {{Quote|[[Earth-10005|So many battles]] waged over the years - and yet, none of them like [[Days of Future Past|this]]. Are [[Mutants (Homo superior)|we]] destined to destroy each other, or can we change who we are, and unite? [[Multiverse|Is the future truly set]]?|[[Charles Xavier (Earth-10005)|Professor X]]}}
+
+In the year of 2023, in a dystopian environment where chaos, fire, and hell run rampant, giant robotic machines called Sentinels roam around the burning rubble, hunting down mutants and anyone else who takes their side. Most mutants were taken down one after another, among them some of the X-Men, struggling to survive the slugfest around them. Amidst the chaos, Kitty Pryde, having unlocked a new ability, sends fellow X-Man Bishop's consciousness back in time to avert a conflict between the Chinese and Russians and warn the other mutants thriving months earlier, which they did successfully.
+
+A few minutes later, the X-Jet arrives, carrying Wolverine, Storm, Professor X and Magneto. Professor Xavier explains everything about how the attack came to be: in 1973, when Bolivar Trask, creator of the Sentinel Program, claimed that he could unite both humanity and humankind against a common threat, hiding in the shadows, Mystique, who discovered his callous experimentation of the X-Men and the Brotherhood of Mutants, assassinates him out of revenge, and triggers the U. S. Army to deploy the program, not before abducting Mystique and using her DNA to enable more advanced models of Sentinels to adapt to any mutant capabilities, resulting in a chain of events that led to the dystopic 2023.
+
+Xavier at first requested that Pryde send his consciousness back to 73, but is informed that she can only send those a month earlier without damaging their brains. Luckily for the group, Logan agrees to volunteer since his mutant healing factor prevents enough damage to his system during the procedure. After minutes of extreme pain and discomfort, Kitty manages to send Logan's consciousness back to the designated year to avert the assassination.
+
+In 1973, the year when Bolivar Trask begins his announcement with the Sentinel Program, Logan wakes up, finds himself naked, lying on a bed next to a woman, in a bedroom, when three men enter and after a bad conversation, were killed after attempting to gun down at Logan.
+
+Grabbing a car for the X-Mansion, realizing it had been shut down. He stumbles into a younger Hank McCoy and after refusing to let him in, Logan forces himself in, searching for the whereabouts of this time's Charles Xavier. Provoked, Hank transforms into his Beast state and attacks Logan. Later, Xavier arrives on the scene and stops them. Charles tells him that the teachers and staff were sent into the Vietnam War.
+
+Charles, having turned to alcoholic habits as he shunned his mutant abilities by using a serum to suppress his powers, agrees to help Logan bust Magneto, incarcerated for the death of President John F. Kennedy, out of his cell in the Pentagon made out of plastic.
+
+In Vietnam, four mutant soldiers, including Havok and Toad, are put in a quarantine just before they were going to be sent home. A group of soldiers, led by a young Major William Stryker, comes to take them to Trask Industries so that they can be tested on. A General interrupts, however, revealing himself to be Mystique, they escape and Mystique breaks into Trask Industries and finds autopsy files on mutants, some of them are revealed to be Angel and Azazel. This is the reason she made a vendetta against Trask.
+
+With the help of another mutant, named Peter Maximoff, with the ability to run at super speeds, they manage to infiltrate the Pentagon and free Erik. Allowing Peter to board a private jet en route to Paris, Logan explains everything to Lensherr. Erik claims to Charles that President Kennedy's death was caused by an accident when he was trying to save him, alleging him a mutant as well. A fight later breaks out between Charles and Erik. Charles accuses Erik of having taken what meant the most to him and abandoning him. Erik, on the other hand, retorts by saying that Charles failed to protect his mutant brothers and sisters like Emma, Banshee, Azazel, and Angel; since they are now dead. Erik's fury almost makes the plane crash but he eventually calms his mind and they get safely to Paris. After a while, they call a truce and play a game of chess.
+
+As Mystique had knocked out and taken the form of a Vietnamese General. The next morning when Bolivar Trask, accompanied by Stryker, were going to show off the X-Gene detector to the  Vietnamese officials it gave off strong reactions on one of the Generals and exposed the General as Mystique. She transformed to her normal self and taken out all but Trask. She was close to ending his life when Logan and the X-Men intercede. This gives Stryker the opportunity to tease Mystique. Magneto, however, re-directs the taser gun pins on to Stryker. Getting a sight of Stryker, Logan suffers from flashbacks during his days in the Weapon-X Program. These effects wear off after a few minutes, though. In 2023, Logan began spasming as a result, wounding Kitty and had his hands binded for precaution. Back in 1973, Magneto understands that Mystique could be a danger to all mutants and he tries to kill her with the gun. Mystique tries escaping but is hit in the leg due to Erik's powers. They fight on the street outside and after a while, Beast joins the fight. But when the police arrive, they are forced to scatter.
+
+Trask now manages to convince President Richard Nixon to initiate the Sentinel Mark I program and they decide to show the eight Sentinels already done to the public. He explains that the Sentinels include no metal, so they cannot be controlled by Magneto.
+
+As Magneto runs into Mystique, who refuses to help him, he finds his familiar-known helmet with Angel's wing and Havok's chest plate.
+
+When Charles makes his way to New York, his legs starts giving out and his powers start to return. He is about to take more of the serum when Logan tells him that he will need his powers to find Mystique. Unable to use Cerebro, Logan allows Charles to use his powers on him, which begins a conversation with his older self. The older version of him tells the younger one that he missed one of the most human powers of all: Hope. He shows himself some of the brightest and most beautiful memories of his life to inspire himself. Returning to normal, they were able to use Cerebro. He finds Mystique in an airport and uses the people around her to talk to her but she refuses to listen. He does, however, learn that she is going to Washington D.C. Monitoring, Hank finds out that D.C. is where the Sentinel program will be held out. With no time to waste, the X-Men take the jet to D.C. and on the way there Logan had Charles promise that no matter how it goes, he will still bring together the X-Men in the future.
+
+The Sentinels had been put on a train to D.C. the night before and Magneto had jumped onto one of the train cars. He then used the steel tracks of the railroad and inserted it into the Sentinels so that he would be able to control them.
+
+In 2023, Kitty is struggling to stay alive. She is losing a lot of blood. Amongst this, the Sentinel Mark X:s are swarming in. Blink, Bishop, Storm, and Magneto manage to hold them at bay for some time with additional assistance from Colossus, Sunspot and Warpath. But one by one the X-Men and Free Mutants are killed. A mortally wounded Magneto parts with his old friend Charles in peace. Iceman is now the only thing in between Logan, Kitty, and the Professor, and he is quickly subdued.
+
+In Washington, 1973, Charles, Logan and Hank arrive in front of the White House at the great revealing of the Sentinels. Magneto sabotages the unveiling by throwing the Robert F. Kennedy Stadium straight to the White House as he takes control of the Sentinel prototypes. Meanwhile, Mystique tries to shoot Trask, disguised as a Secret Service agent, but fails to do so as Charles mentally stops her. Nixon, Trask, and the other government officials take refuge in a bunker underneath the White House. Right above them, Magneto drops the stadium to the ground, making it impossible for the police to get to the White House. A piece of metal debris hits Charles, trapping him. Wolverine later attacks Magneto, charging him head-on, but Erik uses nearby steel bars and hurls him at the Potomac River. Breaking into a bunker, he turns the cameras to the bunker and announces to the nation that he will avenge all the mutants these men had killed. A disguised Mystique shows up, reveals herself, and and shoots Magneto in the side of the neck with a plastic bullet, not to kill but to stun. Just as she is bound to kill Trask, Xavier telepathically persuades her to spare him. She kicks off Erik's helmet so Xavier can take control of him. He uses Magneto's powers to take away the metal debris and then sends him away after saying goodbye to both Mystique and him. Meanwhile, Logan is drowning in the river and his vision is darkening.
+
+In 2023, now that Mystique made the choice not to kill Trask, the entire timeline never existed and the war with the Sentinels never took place.
+
+Logan wakes up in 2023 in Xavier's School for Gifted Youngsters. He walks around in it and notices some big changes. Everyone he knew is alive and well, spotting Jean Grey, whom he killed years ago, and tries to approach her, only to be stopped by Scott Summers. Meeting with the older Charles Xavier, whom he also was aware of what happened. Smiling, Charles tells Logan that after he nearly drowned he was found by Mystique, disguised as Stryker, ending his narration with the statement that "''If you throw enough pebbles in the river you can change the future''".
+
+A young mutant in ancient Egypt telekinetically builds the pyramids, as onlookers chant, "En Sabah Nur". Four Horsemen are shown briefly in the background.
+
+| Cast                    = 
+* [[wikipedia:Hugh Jackman|Hugh Jackman]] as [[James Howlett (Earth-10005)|Wolverine / Logan]]<ref name="Bryan Singer Tweet 3">{{cite web|url=https://twitter.com/BryanSinger/status/281256660025081857|title=I would officially like to welcome @RealHughJackman to the cast of #Xmen Days of Future Past. Very excited!  More to come...|last=Singer|first=Bryan|date=19 December 2012|access date=20 December 2012}}</ref>
+
+* [[wikipedia:James McAvoy|James McAvoy]]<ref name="Bryan Singer Tweet 1">{{cite web|url=https://twitter.com/BryanSinger/statuses/273507047646064642|title=I'd like to officially welcome back James McAvoy, Jennifer Lawrence, Michael Fassbender, & Nicholas Hoult to #XMEN for #DaysOfFuturePast|last=Singer|first=Bryan|date=27 November 2012|accessdate=27 November 2012}}</ref> as [[Charles Xavier (Earth-TRN414)|Professor X / Charles Xavier (past)]]
+
+* [[wikipedia:Michael Fassbender|Michael Fassbender]]<ref name="Bryan Singer Tweet 1"/> as [[Erik Lehnsherr (Earth-TRN414)|Magneto / Erik Lehnsherr (past)]]
+
+* [[wikipedia:Jennifer Lawrence|Jennifer Lawrence]] as [[Raven Darkhölme (Earth-TRN414)|Mystique / Raven Darkhölme]]<ref name="Bryan Singer Tweet 1"/>
+
+* [[wikipedia:Halle Berry|Halle Berry]] as [[Ororo Munroe (Earth-10005)|Storm / Ororo Munroe]]<ref>{{cite web|url=http://www.comicbookmovie.com/fansites/BatFreak/news/?a=75101|title=Halle Berry Confirms Her Return As Storm In X-MEN: DAYS OF FUTURE PAST|work=ComicBookMovie.com|last=|first=|date=3 March 2013|accessdate=3 March 2013}}</ref>
+
+* [[wikipedia:Nicholas Hoult|Nicholas Hoult]]<ref name="Bryan Singer Tweet 1"/> and [[wikipedia:Kelsey Grammer|Kelsey Grammer]]<ref>{{cite web|url=http://www.showbizspy.com/article/268113/kelsey-grammer-shoots-beast-cameo-for-x-men-days-of-future-past.html|title=Kelsey Grammer shoots Beast cameo for X-Men: Days of Future Past|publisher=Showbiz Spy|date=18 March 2014|accessdate=18 March 2014}}</ref> as [[Henry McCoy (Earth-TRN414)|Beast / Hank McCoy]]
+
+* [[wikipedia:Anna Paquin|Anna Paquin]] as [[Marie D'Ancanto (Earth-TRN414)|Rogue]]<ref name="Bryan Singer Tweet 4">{{cite web|url=https://twitter.com/BryanSinger/status/295265552375631872|title=Very excited to welcome #annapaquin, @ellenpage & @shawnrashmore to #XMen #DaysofFuturePast - thank you @BrettRatner for letting them live!|last=Singer|first=Bryan|date=26 January 2013|accessdate=26 January 2013}}</ref>
+
+* [[wikipedia:Elliot Page|Elliot Page]] as [[Katherine Pryde (Earth-10005)|Kitty Pryde]]<ref name="Bryan Singer Tweet 4"/>
+
+* [[wikipedia:Peter Dinklage|Peter Dinklage]] as [[Bolivar Trask (Earth-TRN414)|Bolivar Trask]]<ref>{{cite web|url=https://twitter.com/BryanSinger/status/301886258572046338|title=Officially like to welcome #PeterDinklage from #GameOfThrones to #XMEN #DaysofFuturePast Very very excited!|last=Singer|first=Bryan|date=13 February 2013|accessdate=13 February 2013}}</ref><ref>{{cite web|url=http://www.variety.com/article/VR1118066221/|title='X-Men' casts Dinklage as villain|last=Kroll|first=Justin|work=Variety|date=14 February 2013|accessdate=15 February 2013}}</ref><ref name="Villains">{{cite web|url=http://www.vulture.com/2013/07/x-men-days-of-future-pasts-secret-characters.html|title=We Know Who the Secret Characters Are in X-Men: Days of Future Past|date=15 July 2013|accessdate=16 July 2013|last=Buchanan|first=Kyle|work=Vulture}}</ref>
+
+* [[wikipedia:Shawn Ashmore|Shawn Ashmore]] as [[Robert Drake (Earth-10005)|Iceman / Bobby Drake]]<ref name="Bryan Singer Tweet 4"/>
+
+* [[wikipedia:Omar Sy|Omar Sy]] as [[Lucas Bishop (Earth-10005)|Bishop / Lucas Bishop]]<ref>{{cite web|url=https://twitter.com/BryanSinger/status/307985293401784321|title=Thrilled to welcome the brilliant #OmarSy from the amazing film #TheIntouchables to the cast of #Xmen #DaysofFuturePast!|last=Singer|first=Brian|date=2 March 2013|accessdate-2 March 2013}}</ref><ref>{{cite web|url=http://www.superherohype.com/news/articles/178215-comic-con-new-character-portraits-from-x-men-days-of-future-past|title=Comic-Con: New Character Portraits From X-Men: Days of Future Past|date=18 July 2013|accessdate=18 July 2013|work=SuperHeroHype!|last=Perry|first=Spencer}}</ref>
+
+* [[wikipedia:Evan Peters|Evan Peters]] as [[Peter Maximoff (Earth-TRN414)|Quicksilver / Peter Maximoff]]<ref>{{cite web|url=https://twitter.com/BryanSinger/status/337643722953080832|title=Before he was an #Avenger, he was just a REALLY fast kid. Thrilled to say #EvanPeters is joining #XMen #DaysOfFuturePast as #Quicksilver.|last=Singer|first=Bryan|date=23 May 2013|accessdate=23 May 2013}}</ref><ref>{{cite web|url=http://www.25moments.com/#!/moments/1977|title=25 Moments (1977)|date=12 April 2014|accessdate=12 April 2014}}</ref>
+
+* [[wikipedia:Josh Helman|Josh Helman]] as [[William Stryker, Jr. (Earth-TRN414)|Col. William Stryker]]<ref name="Villains"/><ref>{{cite web|url=http://www.thewrap.com/movies/column-post/x-men-days-future-past-casts-rising-aussie-actor-josh-helman-exclusive-99696|title='X-Men: Days of Future Past' Casts Rising Aussie Actor Josh Helman (Exclusive)|last=Sneider|first=Jeff|date=25 June 2013|accessdate=25 June 2013|work=The Wrap}}</ref>
+
+* [[wikipedia:Daniel Cudmore|Daniel Cudmore]] as [[Peter Rasputin (Earth-10005)|Colossus / Peter Rasputin]]<ref name="Cast Picture">{{cite web|url=https://twitter.com/BryanSinger/status/312651578731536385/photo/1|title=3 #Oscars, 6 #GoldenGlobes, 1 #BAFTA, 2 #Emmys, 2 #Tonys, 5 #Oliviers, 1 #Ceaser - Now let's blow s**t up! #XMEN|last=Singer|first=Bryan|date=15 March 2013|accessdate=15 March 2013}}</ref>
+
+* [[wikipedia:Fan Bingbing|Fan Bingbing]] as [[Clarice Ferguson (Earth-10005)|Blink / Clarice Ferguson]]<ref>{{cite web|url=http://www.hollywoodreporter.com/heat-vision/chinese-actress-tapped-x-men-429066|title=Chinese Actress Tapped for 'Days of Future Past'|last=Kit|first=Borys|work=The Hollywood Reporter|date=15 March 2013|accessdate=15 March 2013}}</ref><ref>{{cite web|url=http://www.25moments.com/#!/moments/2012|title=25 Moments (2012)|date=12 April 2014|accessdate=12 April 2014}}</ref>
+
+* [[wikipedia:Adan Canto|Adan Canto]] as [[Roberto Da Costa (Earth-10005)|Sunspot / Roberto Da Costa]]<ref>{{cite web|url=https://twitter.com/adancanto/statuses/325778697435086851|title=@BryanSinger: @canadiensMTL @sirpatstew @ianmckellen @adancanto @ShawnRAshmore pic.twitter.com/g9tfY1vse5 Thrilled tobeX-Men! #daysoffuturepast|last=Canto|first=Adan|date=20 April 2013|accessdate=22 April 2013}}</ref><ref name="Leak">{{cite web|url=http://splashpage.mtv.com/2013/08/08/x-men-days-of-future-past-footage-leaked/|title='X-Men: Days Of Future Past' Footage Leaks, Shows Bishop, Warpath, Sunspot And More|last=White|first=Brett|work=MTV Splashpage|date=8 August 2013|accessdate=25 September 2013}}</ref>
+
+* [[wikipedia:Booboo Stewart|Booboo Stewart]] as [[James Proudstar (Earth-10005)|Warpath / James Proudstar]]<ref name="Cast Picture"/><ref name="Leak"/><ref>{{cite web|url=https://vine.co/v/bPXUHdHMwnm|title=Every mutant needs a place to sit #XMen #DaysOfFuturePast|date=24 April 2013|last=Singer|first=Bryan|accessdate=24 April 2013}}</ref>
+
+* [[wikipedia:Ian McKellen|Ian McKellen]] as [[Erik Lehnsherr (Earth-10005)|Magneto / Erik Lehnsherr (future)]]<ref name="Bryan Singer Tweet 2">{{cite web|url=https://twitter.com/BryanSinger/statuses/273507302970105856|title=Thrilled to announce @ianmckellen118 & @SirPatStew are joining the cast of #XMEN #DaysOfFuturePast #magneto #professorX More to come...|last=Singer|first=Bryan|date=27 November 2012|accessdate=27 November 2012}}</ref>
+
+* [[wikipedia:Patrick Stewart|Patrick Stewart]] as [[Charles Xavier (Earth-10005)|Professor X / Prof. Charles Xavier (future)]]<ref name="Bryan Singer Tweet 2"/>
+
+Additionally, [[wikipedia:Famke Janssen|Famke Janssen]], [[wikipedia:James Marsden|James Marsden]], [[wikipedia:Lucas Till|Lucas Till]], and [[wikipedia:Kelsey Grammer|Kelsey Grammer]] reprise their roles from previous ''X-Men'' films as [[Jean Grey (Earth-TRN414)|Jean Grey]], [[Scott Summers (Earth-TRN414)|Scott Summers]], [[Alexander Summers (Earth-TRN414)|Pvt. Alex Summers]],<ref>{{cite web|url=http://www.bleedingcool.com/2013/06/05/is-havok-back-lucas-till-has-been-on-set-for-x-men-days-of-future-pasy/|title=Is Havok Back? Lucas Till Has Been On Set For X-Men: Days Of Future Past|date=5 June 2013|accessdate=6 June 2013|last=Connelly|first=Brendon|work= @#!*%  Cool}}</ref><ref>{{cite web|url=https://twitter.com/BryanSinger/statuses/356851235086819328|title="Mankind must put an end to war before war puts an end to mankind." -JFK @lucastill #xmen #DaysOfFuturePast pic.twitter.com/OP46IyK4bZ|last=Singer|first=Bryan|date=15 July 2013|accessdate=15 July 2013}}</ref> and [[Henry McCoy (Earth-TRN414)|Hank McCoy]], respectively. Evan Jonigkeit, Andreas Apergis, and Gregg Lowe appear as [[Mortimer Toynbee (Earth-TRN414)|Toad]],<ref>{{cite web|url=http://www.mtv.com/news/articles/1720001/x-men-days-of-future-past-evan-jonigkeit.jhtml|title=Which Classic 'X-Men' Character Is Making A 'Days Of Future Past' Comeback?|last=Sullivan|first=Kevin P.|work=MTV|date=7 January 2014|accessdate=7 January 2014}}</ref> [[Colonel Sanders (Earth-TRN414)|Col. Sanders]], and [[Eric Gitter (Earth-TRN414)|Ink]], respectively. [[wikipedia:Mark Camacho|Mark Camacho]] portrays [[Richard Nixon (Earth-TRN414)|President Richard Nixon]]. Jan Gerste and Massimo Cannistraro make appearances as [[Character Index/Alternate Earths#Gwen (Earth-TRN414)|Gwen]] and [[Character Index/Alternate Earths#Ramone (Earth-TRN414)|Ramone]]. [[wikipedia:Michael Lerner (actor)|Michael Lerner]] and Francois Paquette portray Senator Brickman and McCarter, respectively, while [[Chris Claremont]] and [[Len Wein]] make cameo appearances as Congressman Parker and Davis, respectively. Zerha Leverman portrays [[Ms. Maximoff (Earth-TRN414)|Ms. Maximoff]]. Thai-Hoa Le and [[wikipedia:Gregory Hlady|Gregory Hlady]] portray [[General Nhuan (Earth-TRN414)|General Nhuan]] and General Petrov, respectively. Brendan Pedder makes an uncredited cameo as [[En Sabah Nur (Earth-10005)|En Sabah Nur]] in a post-credits scene.<ref>{{cite web|url=http://www.mtv.com/news/1832603/x-men-days-of-future-past-apocalypse-actor/?utm=share_twitter|title=‘X-Men: Days Of Future Past’: Meet The Kid Who Played Apocalypse|last=Zalben|first=Alex|work=MTV|date=28 May 2014|accessdate=28 May 2014}}</ref>
+
+| Notes                   = * The title of the film was confirmed by director Bryan Singer.<ref>{{cite web|url=http://screenrant.com/x-men-days-of-future-past-movie|title=Bryan Singer Confirms 'X-Men: Days of Future Past'|last=Keyes|first=Rob|work=Screen Rant}}</ref>[[File:X-Men Days of Future Past (film) banner.jpg|thumb|Film title]]
+* The film was initially slated for a July 18, 2014, release before being moved up two months to May 23.<ref>{{cite web|url=http://www.comicbookmovie.com/fansites/MarvelFreshman/news/?a=81947|title=FOX Moves Up X-MEN: DAYS OF FUTURE PAST Release|date=20 June 2013|accessdate=20 June 2013|work=ComicBookMovie.com}}</ref>
+* Production for the film wrapped on August 17, 2013.<ref>{{cite web|url=https://twitter.com/BryanSinger/status/368892994121781248|title=Just wrapped! Eternal thx 2 our amazing Montreal crew! C u at the party @RealHughJackman #SimonKinberg #HutchParker pic.twitter.com/Lfy2fagJNC|last=Singer|first=Bryan|date=17 August 2013|accessdate=18 August 2013}}</ref>
+| Trivia                  = * Hugh Jackman hinted at a much larger cast for the completed film, stating, "Every other actor who's ever put on a superhero uniform will be in it."<ref>{{cite web|url=http://www.superherohype.com/news/articles/174527-hugh-jackman-talks-x-men-days-of-future-past|title=Hugh Jackman Talks X-Men: Days of Future Past|last=Lesnick|first=Silas|date=18 January 2013|accessdate=19 January 2013|work=SuperHeroHype!|quote=Every other actor who’s ever put on a superhero uniform will be in it,}}</ref> Despite Jackman's statement, [[wikipedia:January Jones|January Jones]] ([[Emma Frost (Earth-10005)|Emma Frost]]),<ref>{{cite web|url=http://www.superherohype.com/news/articles/174611-january-jones-says-she-doesnt-think-shell-be-in-x-men-days-of-future-past|title=January Jones Says She Doesn't Think She'll be in X-Men: Days of Future Past|last=Perry|first=Spender|work=SuperHeroHype!|date=24 January 2013|accessdate=26 January 2013}}</ref> [[wikipedia:Rose Byrne|Rose Byrne]] ([[Moira MacTaggert (Earth-10005)|Moira MacTaggert]]),<ref>{{cite web|url=http://www.superherohype.com/news/articles/174659-rose-byrne-also-hasnt-heard-anything-about-x-men-days-of-future-past|title=Rose Byrne Also Hasn't Heard Anything About X-Men: Days of Future Past|last=Perry|first=Spencer|work=SuperHeroHype!|date=26 January 2013|accessdate=26 January 2013}}</ref> [[wikipedia:Alan Cumming|Alan Cumming]] ([[Kurt Wagner (Earth-10005)|Nightcrawler]]),<ref>{{cite web|url=http://www.superherohype.com/news/articles/175469-alan-cumming-is-not-in-x-men-days-of-future-past|title=Alan Cumming is Not in X-Men: Days of Future Past|last=Lesnick|first=Silas|date=12 March 2013|accessdate=12 March 2013}}</ref> [[wikipedia:Jason Flemyng|Jason Flemyng]] ([[Azazel (Earth-10005)|Azazel]]),<ref>{{cite web|url=http://www.ign.com/articles/2013/03/15/azazel-wont-be-back-for-days-of-future-past?abthid=5143a0eec8d343497a000032|title=Azazel Won't Be Back for Days of Future Past|last=Nicholson|first=Max|date=15 March 2013|accessdate=15 March 2013}}</ref> and [[wikipedia:Caleb Landry Jones|Caleb Landry Jones]] ([[Sean Cassidy (Earth-10005)|Banshee]])<ref>{{cite web|url=https://twitter.com/_RyanTurek/status/317695391581741057|title=Caleb Landry Jones will NOT be back as Banshee in the next X-Men movie. Just spoke with the man and he confirmed for me.|last=Turek|first=Ryan|date=29 March 2013|accessdate=29 March 2013}}</ref> were confirmed not to be appearing in the film. 
+* For April Fool's Day, 2013, Bryan Singer "confirmed" that pop singer [[wikipedia:Lady Gaga|Lady Gaga]] would appear in the film as the character [[Dazzler]].<ref>{{cite web|url=https://twitter.com/BryanSinger/status/318836138452328448|title=I can finally announce @ladygaga is joining #XMen #DaysofFuturePast as Dazzler. One of my all-time favorite characters. Can't wait!|date=1 April 2013|accessdate=3 April 2013|last=Singer|first=Bryan}}</ref>
+* The film's portrayal of Quicksilver came under criticism from fans in early 2014 when a cover featuring the character for an upcoming issue of Empire magazine was unveiled. Fans objected to the character's costume and overall look.<ref>{{cite web|url=http://movies.yahoo.com/blogs/movie-news/quicksilver-makeover-inspires--x-men--nerd-rage-204009259.html|title=Why Nerds Are Outraged Over 'X-Men' Movie's Quicksilver Makeover|last=Enk|first=Bryan|work=Yahoo! Movies|date=27 January 2014|accessdate=12 February 2014}}</ref>
+* Rogue was initially supposed to appear in only one scene in the film, which Bryan Singer announced was cut in December 2013. Although this meant Rogue was cut out of the film entirely, the character has since been inserted back into the film albeit in a very minor fashion.<ref>{{cite web|url=http://insidemovies.ew.com/2013/12/20/x-men-days-future-past-rogue-anna-paquin/|title='X-Men': Major change in this summer's 'Days of Future Past' -- EXCLUSIVE|last=Stack|first=Tim|work=Entertainment Weekly|date=20 December 2013|accessdate=20 December 2013}}</ref><ref>{{cite web|url=http://www.empireonline.com/news/story.asp?NID=39967|title=Bryan Singer On Rogue Cut From X-Men: Days of Future Past|publisher=Empire|first=Ali|last=Plumb|date=30 January 2014|accessdate=22 March 2014}}</ref>
+* Director Bryan Singer has stated there was a scene in which an older sister of Quicksilver was mentioned as a reference to the Scarlet Witch, but it was ultimately cut.<ref>{{cite web|url=http://www.comicbookmovie.com/fansites/JoshWildingNewsAndReviews/news/?a=98935|title=Bryan Singer Reveals Scarlet Witch's Role in X-Men: DOFP; Says She's Been Cut From The Movie|publisher=ComicBookMovie.com|first=Josh|last=Wilding|date=27 April 2014|accessdate=27 April 2014}}</ref>
+* Bryan Singer talked about "changing history" in an interview with Empire Magazine. The director stated "I don't want people to panic about us erasing the movies. I believe in multiverses," explaining the possibility of certain events as they would be part of the history of alternate universes.<ref>"THE PAST HAS A HABIT" Page 94~100 Empire Magazine May 2014</ref>
+* Wolverine was seen fighting in Vietnam in Wolverine Origins, yet, he was seen in a bar in 1962, and he was working as a bodyguard in 1973. This means that the scenes of Vietnam in Wolverine Origins took place between 1963 and 1972.
+* Along with Magneto's Helmet, other objects were held in the vault such as [[Alexander Summers (Earth-10005)|Havoc's]] chest plate, one of Angel's wings, and the coin from ''[[X-Men: First Class (film)|X-Men: First Class]]''
+* When Logan arrives in the past, he awakens in the buff next to a woman, several gangsters barge into Logan's room and inquire where Logan's clothing is, Logan replies "Would you believe me if I told you I was sent here from the future?" This is an obvious reference to the Terminator franchise where the time machine can only send people back in time without their clothing.
+* Earlier versions of the film's script have a young Juggernaut helping Xavier, Beast, and Wolverine break Magneto out of the Pentagon. Juggernaut would have been thrown out of their plane at 20,000 feet, crashing into the Pentagon to land in Magneto's cell. Juggernaut was written out of the script and replaced with Quicksilver when the film's producers learned another [[Pietro Maximoff (Earth-199999)|version]] of the character would appear in the Marvel Studios' film ''[[Avengers: Age of Ultron]]''. Actor [[wikipedia:Josh Helman|Josh Helman]], who was hired to portray the young Juggernaut, was recast as Major Stryker.<ref>{{cite web|url=http://www.empireonline.com/news/story.asp?NID=41130|title=X-Men: Days Of Future Past Spoiler Special Podcast With Screenwriter Simon Kinberg|last=Plumb|first=Ali|work=Empire Online|date=27 May 2014|accessdate=29 June 2015}}</ref><ref>{{cite web|url=http://www.empireonline.com/news/story.asp?NID=43420|title=Matthew Vaughn On His Version Of X-Men's Quicksilver Scene|last=de Semlyen|first=Phil|work=Empire Online|date=16 February 2015|accessdate=29 June 2015}}</ref><ref>{{cite web|url=http://www.ign.com/articles/2014/03/13/turns-out-juggernaut-was-originally-in-x-men-days-of-future-past|title=Turns Out Juggernaut Was Originally in X-Men: Days of Future Past|last=Collura|first=Scott|work=IGN|date=13 March 2014|accessdate=29 June 2015}}</ref>
+* This is the first ''X-Men'' film nominated for an Academy award (Best Visual Effects).
+* This is first live-action Marvel film to take place in more than one reality.
+==Gallery==
+===Alternate Posters===
+<gallery>
+X-Men Days of Future Past (film) poster 001.jpg
+X-Men Days of Future Past (film) poster 002.jpg
+X-Men Days of Future Past (film) poster 004.jpg
+X-Men Days of Future Past (film) poster 005.jpg
+X-Men Days of Future Past (film) poster 006.jpg
+X-Men Days of Future Past (film) poster 007.jpg
+X-Men Days of Future Past (film) poster 008.jpg
+X-Men Days of Future Past (film) poster 010.jpg
+X-Men Days of Future Past (film) poster 011.jpg
+X-Men Days of Future Past (film) poster 009.jpg
+Storm - Beast - X-Men Days of Future (Earth-10005).jpg
+Professor X - past-present - X-Men Days of Future (Earth-10005).jpg
+Lucas Bishop (Earth-10005) from X-Men Days of Future Past promotional 0001.jpg
+James Howlett (Earth-10005) from X-Men Days of Future Past Poster.jpg
+William Stryker, Jr. (Earth-TRN414) from X-Men Days of Future Past 001.jpg
+Sentinel Mk I (Earth-TRN414) from X-Men Days of Future Past Promotional 0001.jpg
+Sentinel Mk X (Earth-10005) from X-Men Days of Future Past Promotional 0001.jpg
+Alexander Summers (Earth-TRN414) from X-Men Days of Future Past 001.jpg
+Bolivar Trask (Earth-TRN414) from X-Men Days of Future Past 001.jpg
+Charles Xavier (Earth-TRN414) from X-Men Days of Future Past (film) Promo 001.jpg
+Clarice Ferguson (Earth-TRN414) from X-Men Days of Future Past Promotional 001.jpg
+Erik Lehnsherr (Earth-10005) from X-Men Days of Future Past 001.jpg
+Erik Lehnsherr (Earth-TRN414) from X-Men Days of Future Past (film) Promo 001.jpg
+Henry McCoy (Earth-TRN414) from X-Men Days of Future Past 001.jpg
+James Howlett (Earth-10005) from X-Men Days of Future Past 001.jpg
+James Proudstar (Earth-10005) from X-Men Days of Future Past promotional 0001.jpg
+Katherine Pryde (Earth-10005) from X-Men Days of Future Past 001.jpg
+Marie D'Ancanto (Earth-10005) from X-Men Days of Future Past (film) 0001.jpg
+Ororo Munroe (Earth-10005) from X-Men Days of Future Past 001.jpg
+Peter Maximoff (Earth-TRN414) from X-Men Days of Future Past 001.jpg
+Peter Rasputin (Earth-10005) from X-Men Days of Future Past 001.jpg
+Robert Drake (Earth-10005) from X-Men Days of Future Past 001.jpg
+Roberto Da Costa (Earth-10005) from X-Men Days of Future Past (film) 0001.jpg
+Mortimer Toynbee (Earth-TRN414) from X-Men Days of Future Past 001.jpg
+Erik Lehnsherr (Earth-10005) from X-Men Days of Future Past (film) Promo 0001.png
+Charles Xavier (Earth-10005) from X-Men Days of Future Past (film) Promo 0001.png
+X-Men Days of Future Past (film) banner 001.jpg
+</gallery>
+===Videos===
+<gallery widths="300" spacing="small" hideaddbutton="true">
+Trask Industries Your Future
+X-MEN DAYS OF FUTURE PAST - Official Trailer (2014)
+X-Men Days of Future Past Official Trailer 2 HD 20th Century FOX
+</gallery> 
+| Links                   = *[[Marvel Films#Theatrically Released Films|Marvel Films]]
+*[http://www.trask-industries.com Trask Industries website]
+}}
+[[Category:20th Century Fox]]
+[[Category:Vietnam War]]
+[[Category:Cold War (Event)]]
+[[ru:Люди Икс: Дни минувшего будущего]]

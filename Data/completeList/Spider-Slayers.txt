@@ -1,0 +1,78 @@
+{{dablink|the group|the episode|"[[Spider Slayers]]"}}
+{{Group Infobox
+|name = Spider-Slayers
+|shows = ''[[Ultimate Spider-Man]]''<br>''[[Spider-Man (TV series)|Spider-Man]]''
+|image = USM Spider-Slayers.jpg
+|inspiration = [[Wikipedia:Spider-Slayer|Spider-Slayers]] from Marvel Comics
+|affiliation = [[HYDRA]] (formerly)<br>[[Arnim Zola]] (formerly)<br>[[Doctor Octopus]] (formerly) <br>[[Web-Warriors]] (formerly)
+|leaders = [[Scarlet Spider]] (formerly) <br> [[Kaine]]
+|members = Bone Spider<br>Goliath Spider<br>Ghost Spider
+|headquarters = HYDRA-Island (formerly) <br> [[Triskelion]]
+|goal = To destroy Spider-Man (formerly)<br>To serve under Scarlet Spider (formerly)<br>To serve under Kaine
+|fate = They merged with Kaine and exploded into goo after absorbing Agent Venom and Scarlet Spider.}}
+The '''Spider-Slayers''' are highly-enhanced synthezoids created by [[Doctor Octopus]]. Each member was synthesized from the DNA of [[Spider-Man]], whom the Spider-Slayers were also designed to eliminate.
+
+==Background==
+The Spider-Slayers were a part of [[HYDRA]] scientist [[Arnim Zola]]'s "Weapon S" program as clones engineered from Spider-Man, giving them all of his abilities plus their own, resulting in the Delta Nine series of synthezoids. While Doctor Octopus created them, Zola was the one who could control them. Doctor Octopus also created [[Scarlet Spider]] so that he could lead and unite the Spider-Slayers as their commander.
+===Members===
+====Bone Spider====
+'''Bone Spider''' (voiced by Imari Williams) is the de facto leader of the trio. He is hostile, impulsive, and savage, although the other clones seem to obey him without question and his authority is recognized by the clones. Bone Spider can generate retractable bone spikes from his body and bone claws from his hands.
+====Goliath Spider====
+'''Goliath Spider''' (voiced by Imari Williams) is the brawn of the trio. Goliath Spider is physically large and strong, and has the ability to generate a metallic exoskeleton over his skin for durability.
+====Ghost Spider====
+'''Ghost Spider''' (voiced by [[Roger Craig Smith]]) is an ominous member of the trio. Though seemingly the least aggressive of the clones, Ghost Spider is just as eager to fight and has a morbid sense of humor. Ghost Spider can lower his density enough to become intangible and disappear, and can emit electrical energy to anyone who touches him.
+
+==Appearances==
+===[[Marvel Animation]]===
+====''[[Ultimate Spider-Man]]''====
+In the three-episode arc "The Spider-Slayers", the Spider-Slayers are awakened onboard the sunken HYDRA-Island after Spider-Man, Scarlet Spider, and Doctor Octopus activate the ship's security systems. Doctor Octopus attempts to make them obey him, but discovers that Zola has tampered with the clones as they refuse to listen to their creator. A fight ensues between the two parties, during which Scarlet is overcome with aggression due to being in close proximity with the clones. When Doctor Octopus reveals the truth of Scarlet's origins, the clones converge on Scarlet and pressure him to fight back. After Doctor Octopus exposes himself to nanotechnology to gain a stronger form, the Spider-Slayers are momentarily incarcerated by Spider-Man's group.
+
+However, Zola soon reactivates after Doctor Octopus leaves him and frees the Spider-Slayers to attack Spider-Man and Scarlet Spider. Scarlet Spider gets the Spider-Slayers to obey him instead after he bests Bone Spider in a match but seemingly turns on Spider-Man. At that moment, the [[Web-Warriors]] arrive to assist Spider-Man and battle the clones. As they battle, Scarlet reveals that he purposely gave into his aggression to overcome control and get the clones on his side. Once this is revealed, Scarlet and the Spider-Slayers then join forces with the Web-Warriors in successfully shut down Zola from HYDRA-Island. After the battle however, the clones begin to destabilize and are forced to be placed in stasis chambers to recover. As HYDRA-Island collapses without Zola controlling it, the Web-Warriors take the stasis chambers back to the [[Triskelion]].
+
+====''[[Spider-Man (TV series)|Spider-Man]]''====
+This show depicts a more true-to-the-comic Spider-Slayer, being a giant robotic spider created by the mad scientist Spencer Smythe. An upgraded version of the Spider-Slayer is piloted by his son, Alistair Smythe.
+
+====''[[Marvel Rising: Secret Warriors]]''====
+In this movie, '''Ghost Spider''' is [[Spider-Gwen|Gwen Stacy]]'s superheroine codename.
+
+==Gallery==
+<gallery widths="150" spacing="small" position="center">
+USM Bone Spider.jpg|Bone Spider
+USM Goliath Spider.jpg|Goliath Spider
+USM Ghost Spider.jpg|Ghost Spider
+USM Slayers degenerating.jpg
+USM Spider-Slayers and Web Warriors.jpg
+USM SHIELD vs Spider-Slayers.jpg
+USM Spider-Slayers at SHIELD.jpg
+USM Spider-Slayers vs Kaine.jpg
+Spider-Slayer.png
+F2ED8ED3-B348-43C9-9878-357D35DA831B.webp
+F5802D01-A5E4-40D5-8B6C-1D282BAF39C9.webp
+7CD87452-DB94-47B5-8205-D33044167407.webp
+AAB93163-89B0-438D-9C36-BA10AA16B3E5.webp
+63F53113-EB0F-4F64-A9A7-4234557E2BBD.webp
+2FD6F042-9D06-469D-B0EB-B0D7A17FA61B.webp
+9726FF51-F352-4124-8F52-7E69D8831C5C.webp
+2BFFBD49-0548-4697-A145-550FCAD0C271.png
+18EBE9C9-8C4F-4A4A-A4B9-A92C7F1CE17E.webp
+479F027D-A58C-4546-918C-BD2E7D301415.jpeg
+4D5440FF-28E5-49E6-A452-322268C43824.jpeg
+</gallery>
+
+{{Marvel Animated Universe}}
+
+[[Category:Superheroes]]
+[[Category:Villains]]
+[[Category:Marvel Comics characters]]
+[[Category:Ultimate Spider-Man characters]]
+[[Category:Marvel's Spider-Man characters]]
+[[Category:Hybrids]]
+[[Category:Characters]]
+[[Category:Alternate Forms]]
+[[Category:Heroes]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Deceased characters]]
+[[Category:Robots]]
+[[Category:Spiders]]
+[[Category:Acquired characters]]

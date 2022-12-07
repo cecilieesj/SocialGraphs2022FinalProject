@@ -1,0 +1,18 @@
+{{Infobox character
+|image = Buzz Erifingerz.jpg
+|name = Buzz Erfingerz
+|games = ''[[Toontown Online]]''
+|alignment = Neutral
+|quote = "Hi Bonkers! Glad to Help!"}}
+'''Bud Erfingerz''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC coral [http://toontown.wikia.com/wiki/Horse Horse]. He is a Field Office SOS Toon that can be called upon. He is a 1-star [http://toontown.wikia.com/wiki/Drop_Gags Drop] [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon].
+
+==Trivia==
+*His name is a pun on "Butter Fingers".
+
+{{CharacterStub}}
+
+{{DEFAULTSORT:Erfingerz, Bud}}
+[[Category:Toontown characters]]
+[[Category:Horses]]
+[[Category:Characters]]
+{{Toontown Online}}

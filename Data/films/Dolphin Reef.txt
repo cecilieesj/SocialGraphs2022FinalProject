@@ -1,0 +1,66 @@
+{{Infobox film
+|image = Dolphin Reef - Poster.jpg
+|director = Alastair Fothergill<br>Keith Scholey
+|producer = Keith Scholey<br>Jane Hamlin
+|starring = [[Natalie Portman]] (narration)
+|music = Steven Price
+|cinematography = Paul Atkins
+|editor = Martin Elsbury
+|studio = [[Disneynature]]
+|distributor = [[Disney+]]
+|release = [[April 3]], [[2020]]
+|time = 78 minutes
+|language = English
+|imdb_id = 10055028
+|preceded=''[[Penguins (film)|Penguins]]''
+|followed=''[[Elephant]]''}}
+'''''Dolphin Reef''''' is a [[Disneynature]] documentary film, centered around dolphin wildlife in the ocean.
+
+The film was originally released in France on [[March 28]], [[2018]] as '''''Blue'''''. It was scheduled to be released in the United States on April 20, 2018, but was confirmed to be taken off the theatrical calendar the week of release.<ref name="tlist">{{Cite news|last1=Hoffman|first1=Jordan|title=All 13 Disneynature Movies, Ranked|url=https://www.thrillist.com/entertainment/nation/best-disneynature-movies|accessdate=May 9, 2019|work=Thrillist|date=April 17, 2019}}</ref><ref>{{cite web|title=Film Center on Twitter|url=https://twitter.com/flick_center/status/986711006280847360|website=Twitter}}</ref> It was then announced that the film would be released at the launch of [[Disney+]] instead, making it the first Disneynature film to be released exclusively on the streaming platform in the United States. It was announced on [[March 18]], [[2020]] that the film would be released on [[April 3]] of that year, accompanied by ''Diving with Dolphins'', a feature length documentary on the film's production..
+
+==Summary==
+Created with Disneynature's signature storytelling style, the film introduces Echo, a young Pacific bottlenose dolphin who can't quite decide if it's time to grow up and take on new responsibilities. Dolphin society is tricky, and the coral reef that Echo and his family call home depends on all of its inhabitants to keep it healthy. But Echo has a tough time resisting the many adventures the ocean has to offer.
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+Dolphins logo.jpg|Early title of the film
+File:Dolphins film.png
+Dolphin's French Poster.jpg
+Dolphin Reef Logo.png
+2018-blue-02.jpg
+2018-blue-04.jpg
+2018-blue-05.jpg
+2018-blue-06.jpg
+2018-blue-07.jpg
+2018-blue-08.jpg
+2018-blue-09.jpg
+2018-blue-10.jpg
+2018-blue-11.jpg
+2018-blue-12.jpg
+Disneynature Soundscapes Dolphins.jpg|''[[Disneynature Soundscapes]]: [[Disneynature Soundscapes#Dolphins|Dolphins]]''
+</gallery>
+
+==Videos==
+<gallery position="center" captionalign="center">
+Disneynature's Dolphins - Official Trailer
+Disneynature's Elephant and Dolphin Reef Streaming April 3 Disney
+</gallery>
+
+==Trivia==
+*"Echo", the dolphin who is the main focus of the film, is named after "echolocation", the ability that dolphins use to see things around them.
+*The film was originally going to have [[Owen Wilson]] as the narrator of the documentary, but this was scrapped since the film was pulled from theatrical release in April 2018. However, with the film being decided to be released exclusively on Disney+, [[Natalie Portman]] replaces Wilson as the narrator for the Disney+ release.
+*This is one of the last Disney+ original films to use the 1967 MPAA logo in the end credits, alongside [[Elephant Graveyard|''Elephant'']].
+
+==References==
+{{Reflist}}
+{{Disney+}}
+{{DISPLAYTITLE:''Dolphin Reef''}}
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:Disneynature films]]
+[[Category:Films about animals]]
+[[Category:G-rated films]]
+[[Category:Documentaries]]
+[[Category:2020 films]]
+[[Category:Disney+ Originals]]

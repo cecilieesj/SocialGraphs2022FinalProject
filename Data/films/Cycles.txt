@@ -1,0 +1,47 @@
+{{Infobox film
+|image = Cycles_-_Poster.jpg
+|director = Jeff Gipson
+|release = [[August 12]], [[2018]] (Vancouver)<br>[[January 24]], [[2020]] (Disney+)
+|studio = [[Walt Disney Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|music = Jaquie Gipson|preceded = ''[[Just a Thought]]''|followed = ''[[Lightning in a Bottle]]''|producer = Nicholas Russell<br>Lauren Nicole Brown}}
+'''Cycles''' is an animated short film produced by [[Walt Disney Animation Studios]] and is the first short set in {{WikipediaLink|virtual reality}}. It was released at {{WikipediaLink|SIGGRAPH}} 2018 conference, Vancouver, on [[August 12]], [[2018]]. It was made available for the public on [[Disney+]] on [[January 24]], [[2020]] as part of the [[Short Circuit]] collection, but without VR.
+
+The short follows the lives of a family consisting of Bert, Rae, and their daughter Rachel. The viewer serves as an observer of the family's lifecycle before, during, and after living in their home.
+
+== Synopsis ==
+A story-centered around the true meaning of creating a home and the life that it holds inside its walls.
+
+== Plot ==
+Told in reverse order and entirely inside a 1960's era abode, an elderly Rae is about to move out at the behest of her daughter Rachel who plans to relocate.
+
+Through rewinding scenery, the audience bares witness to many events that have occurred in the house including Rae's husband Bert suffering a heart attack, an older Bert and Rae in happier times, Bert and Rae catching Rachel arriving home late, the family setting up their first Christmas tree that ends up blowing the power out, Bert and Rae trying to console an infant Rachel who throws up on the former, Bert dancing with a pregnant Rae and finally Bert and Rae excitedly entering their home for the first time and jumping into the swimming pool.
+
+Back in the present, Rae examines her belongings as Rachel comes in to check on her and asks if she is going to miss the house. A final montage of Rae and Bert throughout their lives play followed by a final look at the empty house covered in graffiti with Rae finally responding "No, I'm gonna miss my home."
+
+== Cast ==
+* Bonnie Pop as Old Rae
+* Leah Lethan as Young Rae
+* [[Roy Conli]] as Old Bert
+* [[Chris Williams]] as Young Bert
+* Lauren Nicole Brown as Rachel
+* Tucker Gilmore as Additional Voices
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+Cycles concept art family.jpg
+Cycles home interior.jpg
+Cycles screenshot.jpg
+Cycles 1.jpg
+2018-cycles-03.jpg
+2018-cycles-04.jpg
+2018-cycles-05.jpg
+2018-cycles-06.jpg
+</gallery>
+
+{{Disney+}}
+[[pt-br:Ciclos]]
+[[Category:Animated shorts]]
+[[Category:Short Circuit]]
+[[Category:Disney+ Originals]]
+[[Category:Featured shorts]]

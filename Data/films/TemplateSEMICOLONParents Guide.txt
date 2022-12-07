@@ -1,0 +1,13 @@
+Severity: <span style="color:cyan;">None</span>, <span style="color:green;">Mild</span>, <span style="color:yellow;">Moderate</span>, <span style="color:red;">Severe</span>
+== Sex and Nudity ==
+<br>
+== Violence and Gore ==
+<br>
+== Profanity ==
+<br>
+== Alcohol, Drugs, and Smoking ==
+<br>
+== Frightening and Intense Scenes ==
+<br>
+
+[[Category:Films]]

@@ -1,0 +1,63 @@
+{{Infobox film
+|image = Ciao Alberto poster.jpeg
+|name = Ciao Alberto
+|director = McKenna Harris
+|producer = Matt DeMartini
+|writer = McKenna Harris
+|starring = [[Jack Dylan Grazer]]<br>Marco Barricelli
+|music = Dan Romer
+|cinematography = Leo Santos<br>Amy Rae Jones
+|editor = Jennifer Jew
+|studio = [[Pixar]]<br>[[Walt Disney Pictures]]
+|distributor = [[Disney+]]
+|release = [[November 12]], [[2021]]
+|time = 7 minutes
+|language = English
+|preceded = ''[[Luca]]''
+|followed = 
+|imdb_id = 15476620
+|tv_com_id =
+}}
+'''''Ciao Alberto''''' is a [[Pixar|Pixar Animation Studios]] short released on [[Disney+]] on [[November 12]], [[2021]]. The short is a sequel to the movie ''[[Luca]]'' and focuses on the character [[Alberto Scorfano]].
+
+==Synopsis==
+With his best friend Luca away at school, Alberto is enjoying his new life in Portorosso working alongside Massimo - the imposing, tattooed, one-armed fisherman of a few words - who's quite possibly the coolest human in the entire world as far as Alberto is concerned. He wants more than anything to impress his mentor, but it's easier said than done.
+
+==Plot==
+After receiving a new letter from Luca about how life at school is, Alberto writes back about how he has become a good "employee" to Massimo and has been helping him with fish deliveries. Despite his enthusiasm, Massimo barely talks to him personally except to warn him against being in their fishing boat without his supervision. It quickly becomes apparent that Alberto is seeking approval from Massimo, but is concerned about being "fired" for some of his mistakes. Alberto tries to deliver caught fish efficiently, but keeps tossing them to the wrong people. He tries to cook lunch for Massimo, but makes a mess of the whole kitchen. While Massimo tries to converse with a customer, Alberto tries to lift a whole barrel of fish, only to be pressured by the weight. Massimo rushes to save him, but ends up falling into the water with the barrel; losing their day's worth of catch.
+
+Alberto sneaks out at night to catch more fish, but is followed by Machiavelli to the boat. After getting frightened by him, he drops his lantern and realizes that he accidentally set the boat on fire. They escape just as Massimo comes out to see the damage; He does not utter a word and only angrily stares at Alberto. Upset by his inability to impress Massimo, Alberto packs up his things to leave, but Massimo rushes out to stop him; admitting that it was a mistake. As Alberto tells him to leave him alone, he accidentally calls him "dad", which shocks both of them. Massimo reveals that he once made his father so angry that he punched through a brick wall, but that they made up by patching it up together. The next day, Massimo and Alberto, now communicating a lot better, work on fixing the boat as they finally share stories with each other.
+
+==Cast==
+*[[Jack Dylan Grazer]] as [[Alberto Scorfano]]
+*Marco Barricelli as [[Massimo Marcovaldo]]
+*[[Jacob Tremblay]] as [[Luca Paguro]]
+*Gino La Monica as Additional Voices
+*Arturo Sorino as Additional Voices
+
+==Trivia==
+*Luca's voice is heard, but he is not seen while Giulia is briefly mentioned by Alberto.
+*This short is meant to expand on a minor plot thread from the film where Alberto and Massimo form a bond.
+*When Alberto sneaks out to Massimo’s boat in the night, he is humming while he turns on the lantern. The song he is humming is "Largo al factotum", a well-known Italian aria from ''The Barber of Seville''. This was also the song Massimo was singing when we were first introduced to him in ''Luca''. 
+
+==Video==
+<gallery>
+Ciao Alberto - Official Trailer - Disney+
+</gallery>
+
+==Gallery==
+<gallery position="center" spacing="small" widths="185">
+Ciao Alberto image.png
+</gallery>
+
+{{Luca}}
+{{Disney+}}
+[[pt-br:Oi, Alberto]]
+[[Category:Pixar shorts]]
+[[Category:Animated shorts]]
+[[Category:2021 films]]
+[[Category:Disney+ Originals]]
+[[Category:Soul]]
+[[Category:Sequel films]]
+[[Category:2021 shorts]]
+[[Category:Luca]]

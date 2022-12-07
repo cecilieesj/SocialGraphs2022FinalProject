@@ -1,0 +1,2041 @@
+{{Top|real|can|title=''Star Wars'': Episode V ''The Empire Strikes Back''}}
+{{Otheruses|Star Wars: Episode V The Empire Strikes Back|more=Star Wars 5}}
+{{Redlink}}
+{{Movie
+|image=[[File:Empire_strikes_back_old.jpg]]
+|movie name=''Star Wars'': Episode V<br />''The Empire Strikes Back''
+|director=[[Irvin Kershner]]<ref name="Year by Year">''[[Star Wars Year By Year: A Visual History, Updated and Expanded Edition]]''</ref>
+|producer=*[[Gary Kurtz]]<ref name="Year by Year" />
+*[[Rick McCallum]] {{C|[[The Star Wars Trilogy Special Edition|Special Edition]]}}
+|writer=*[[George Lucas]] {{C|story}}<ref name="Year by Year" />
+*[[Leigh Brackett]] and [[Lawrence Kasdan]] {{C|screenplay}}<ref name="Year by Year" />
+|starring=*[[Mark Hamill]]<ref name="Year by Year" />
+*[[Harrison Ford]]<ref name="Year by Year" />
+*[[Carrie Fisher]]<ref name="Year by Year" />
+*[[Billy Dee Williams]]<ref name="Year by Year" />
+*[[Anthony Daniels]]<ref name="Year by Year" />
+*[[David Prowse]]<ref name="Year by Year" />
+*[[Peter Mayhew]]<ref name="Year by Year" />
+*[[Kenny Baker]]<ref name="Year by Year" />
+*[[Frank Oz]]<ref name="Year by Year" />
+*[[James Earl Jones]]<ref name="Year by Year" />
+|music=[[John Williams]]<ref name="Year by Year" />
+|release date=*[[May 21]], [[1980]] {{C|Original Version}}<ref name="Empire Turns 40">{{SWYoutube|6UccH037VQ0|The Empire Strikes Back Turns 40, Queen's Peril Gets a Voice, and More!|archivedate=20200521205510}}</ref>
+*[[February 21]], [[1997]] {{C|Special Edition}}<ref name="This Week! Ep4">{{SWYoutube|6_nqmjRUuMo|Star Wars: The Rise of Skywalker Comes Home, the Child Lands at New York Toy Fair, and More! &#124; This Week! In Star Wars|archivedate=20200501235130}}</ref>
+|runtime=*124 min. {{C|Original}}
+*126 min. {{C|Special Edition}}
+*127 min. {{C|DVD, Blu-ray and Digital HD}}
+|budget=$18,000,000
+|language=English
+|timeline=[[3 ABY]]<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref>
+|series=[[Original trilogy]], [[Star Wars saga|''Star Wars'' saga]]
+|preceded by=[[Star Wars: Episode IV A New Hope|Episode IV ''A New Hope'']]
+|followed by=[[Star Wars: Episode VI Return of the Jedi|Episode VI ''Return of the Jedi'']]}}
+{{Quote|If you only knew the power of the dark side. Obi-Wan never told you what happened to your father.''"<br />"''He told me enough. He told me ''you'' killed him.''"<br />"''No. ''I'' am your father.|[[Anakin Skywalker|Darth Vader]] and [[Luke Skywalker]]|Star Wars: Episode V The Empire Strikes Back}}
+'''''Star Wars'': Episode V ''The Empire Strikes Back''''', marketed as simply '''''The Empire Strikes Back''''', is a [[1980]] film directed by [[Irvin Kershner]] and written by [[Leigh Brackett]] and [[Lawrence Kasdan]] from a story by [[George Lucas]]. It is the second part of the ''[[Star Wars]]'' [[original trilogy]].
+
+The film concerns the continuing struggles of the [[Alliance to Restore the Republic|Rebel Alliance]] against the [[Galactic Empire]]. During the film, [[Han Solo]], [[Chewbacca]], and [[Prince]]ss [[Leia Skywalker Organa Solo|Leia Organa]] are being pursued across space by [[Anakin Skywalker|Darth Vader]] and his elite forces. Meanwhile, [[Luke Skywalker]] begins his major [[Jedi]] training with [[Yoda]], after an instruction from [[Obi-Wan Kenobi]]'s [[Force spirit|spirit]]. In an emotional and near-fatal [[Duel on Cloud City|confrontation]] with Vader, Luke is presented with a horrific revelation and must face his destiny.
+
+Though controversial upon release, the film has proved to be the most popular film in the series among fans and critics and is now widely regarded as one of the best sequel films of all time, as well as one of the greatest films of all time. It was [[List of changes in Star Wars re-releases|re-released with changes]] in [[1997]] and on DVD in [[2004]]. The film was re-released on Blu-ray format in [[September]] of [[2011]]. A [[Star Wars (radio)|radio adaptation]] was broadcast on National Public Radio in the U.S.A. in 1983. The film was selected in 2010 to be preserved by the [[Wikipedia:Library of Congress|Library of Congress]] as part of its [[Wikipedia:National Film Registry|National Film Registry]].
+
+==Opening crawl==
+{{Opening crawl
+|name=Episode V<br />THE EMPIRE STRIKES BACK
+|text=It is a dark time for the
+Rebellion. Although the Death
+Star has been destroyed,
+Imperial troops have driven the
+Rebel forces from their hidden
+base and pursued them across
+the galaxy.
+
+Evading the dreaded Imperial
+Starfleet, a group of freedom
+fighters led by Luke Skywalker
+has established a new secret
+base on the remote ice world
+of Hoth.
+
+The evil lord Darth Vader,
+obsessed with finding young
+Skywalker, has dispatched
+thousands of remote probes into
+the far reaches of space....}}
+
+==Synopsis==
+===The search for Skywalker===
+{{Quote|We have thousands of probe droids searching the galaxy. I want proof, not leads!|[[Admiral]] [[Kendal Ozzel]]|Star Wars: Episode V The Empire Strikes Back}}
+It is now three years after the events of [[Star Wars: Episode IV A New Hope|''A New Hope'']]. The [[Alliance to Restore the Republic|Rebel Alliance]] has been forced to [[Evacuation of Yavin 4|flee]] its [[Great Temple|base]] on [[Yavin 4]] and establish a new one on the ice planet of [[Hoth]].
+
+An [[Imperial-class Star Destroyer|Imperial Star Destroyer]], dispatched by the [[Sith Lord]] [[Anakin Skywalker|Darth Vader]], continuing his quest for [[Luke Skywalker]], launches thousands of [[Viper probe droid|probe droids]] across the galaxy, [[XJ9-CS14|one]] of which lands on Hoth and begins its survey of the planet. Luke Skywalker, on patrol astride his [[tauntaun]], discovers the probe, which he mistakes for a meteorite. After reporting to comrade [[Han Solo]] that he'll investigate the site, Luke is knocked unconscious by a deadly [[wampa]].
+
+[[File:Tauntaun.jpg|thumb|right|225px|Riding a tauntaun, Han Solo searches for Luke Skywalker.]]
+When Luke fails to report in at [[Echo Base]], Han Solo goes out on his tauntaun to search for him in an encroaching storm. Upon waking up, Luke finds himself hanging upside down in a cave; his eyes opening to the sight of a wampa eating his tauntaun. Using the power of [[the Force]], Luke is able to pull his [[lightsaber]] out of the snow and towards himself. After he ignites it, he cuts himself free and cuts off the attacking wampa's arm just in time, running out of the cave and escaping into the cold night of Hoth.
+
+Luke tries to make his way to Echo Base on foot, but he finds himself lost in the blizzard and collapses in the snow. Suddenly, he sees the [[Force spirit]] of [[Obi-Wan Kenobi]] appear before him. Kenobi's spirit ghost instructs Luke to go to [[Dagobah]] to undergo training under [[Yoda]], a [[Grand Master|Jedi Grand Master]]. After the spirit ghost disappears, Han arrives to find an almost unconscious Luke, who is mumbling indistinctly about Obi-Wan, Yoda, and Dagobah. At this point, the tauntaun that Han was riding on collapses in the extreme cold. To keep Luke from freezing to death during the blizzard, Han uses Luke's lightsaber to cut open the dead tauntaun and places Luke in it. Han then sets about erecting a shelter that he and Luke will stay in during the night. They are forced to stay out during the night as the aircraft ([[T-47 airspeeder|snowspeeders]]) that the Rebels use for atmospheric flight had not yet been adapted for the extremely low temperatures of the Hoth night and are therefore unable to mount a rescue operation to retrieve Han and Luke.
+
+The next morning, Rebel Pilots flying the snowspeeders set out from Echo Base to search for the missing men. [[Zev Senesca]], one of the pilots in [[Rogue Squadron|Rogue Group]], makes contact with Han over comlink and the pair are rescued. When they are taken back to base, Luke is put in a [[bacta tank]] for healing under the care of medical droid, [[2-1B]].
+
+[[Prince]]ss [[Leia Skywalker Organa Solo|Leia Organa]] tries to urge Han to stay with the rebels, and when Han assumes it is because she has feelings for him, Leia loses her temper and calls him a "stuck-up, half-witted, scruffy-looking nerf herder."
+
+Meanwhile, the probe droid has spotted signs that indicate Hoth is occupied and sends a signal to the Imperial fleet, shortly before being shot at by Han Solo and [[Chewbacca]] and triggering its self-destruct mechanism. Aboard the ''[[Executor]]'', Admiral [[Kendal Ozzel]] dismisses the information as evidence of smugglers, nothing more. However, [[Darth]] Vader knows better and orders the fleet to Hoth. Han warns [[General]] [[Carlist Rieekan|Rieekan]] that the Empire is probably aware of their location, and Rieekan orders the evacuation of Echo Base to begin.
+
+===The Battle of Hoth===
+[[File:Atathoth.jpg|thumb|left|[[All Terrain Armored Transport|AT-ATs]] on [[Hoth]].]]
+Darth Vader and the Imperial forces set course for the Hoth system to set up the attack. The rebels load whatever equipment they can onto transports and plan a rear-guard action to secure their escape. Luke, now fully recovered from the Wampa attack and subsequent exposure, says farewell to Chewbacca and Solo, who have decided to leave the Alliance to resolve their debt to [[Jabba Desilijic Tiure|Jabba the Hutt]]. As the Imperial forces enter the Hoth system, General Rieekan orders full power to the energy shield that is protecting the base from orbital bombardment.
+
+Aboard the ''[[Executor]]'', [[General]] [[Maximilian Veers]] notifies Vader that Admiral Ozzel has emerged from lightspeed too close to Hoth. Ozzel intended to catch the Rebels unaware before they could set up their defenses. However, Vader realizes that the Rebels have been alerted to the fleet's arrival. Via video communication, Vader [[Force choke]]s Ozzel to death for his incompetence, then appoints [[Captain]] [[Firmus Piett]] the new Admiral on the spot. As Vader previously ordered, the Imperial ground forces, commanded by General Veers, land outside the Rebels' shield and march overland to destroy the power generator.
+
+Princess Leia gives the Rebel fighters instructions on the evacuation to leave Hoth two to three ships at a time past the energy shield to a rendezvous point, which is beyond the outer rim. Rieekan lowers the shields to fire the Ion cannon at one of the Imperial Star Destroyers allowing the first transports to escape. The Rebel pilots assigned to hold off the Imperial ground assault depart the Hoth base for the oncoming [[Battle of Hoth|battle]] against heavily equipped Imperial forces, who are armed with agile [[All Terrain Scout Transport|AT-STs]] (All Terrain Scout Transports) and monstrous [[All Terrain Armored Transport|AT-AT]] (All Terrain Armored Transport) walkers, led by General Veers.
+
+The [[Rogue Squadron]] snowspeeder group led by Luke commences the attack. Luke quickly realizes the AT-AT's armor is far too strong for blasters and decides to use attached harpoons and tow cables to tangle the walker's legs. Luke's gunner [[Dak Ralter]] is hit and killed during the first approach. This leaves [[Wedge Antilles]] and his gunner [[Wes Janson]] to make the first pass. They manage to topple one of the AT-ATs, which is destroyed as Rebel troops storm it. The main AT-AT, commanded by General Veers, prepares to take their aim at the Rebel base's main power generator. Suddenly, Luke's speeder is shot down by the Imperials, and crash-lands in the snow. Luke escapes before an AT-AT can step on and crush his ship.
+
+The Rebel base is now under direct attack and Imperial snowtroopers have entered the base, forcing Han, Leia, Chewbacca, and [[C-3PO]] to escape. Leia gives the evacuation command for the base as they leave.
+
+[[File:Rebels_get_pounded.jpg|thumb|right|220px|The [[Alliance to Restore the Republic|Rebels]]' desperate fight.]]
+Luke, meanwhile, manages to destroy another AT-AT by using his hoist cable and lightsaber to get into the belly of the transport, tossing in a thermal detonator, and then detaching himself from the cable as a series of explosions neutralize the AT-AT. The Rebels suffer major casualties as the result of the battle. The main AT-AT, being driven by General Veers, gets within firing range of the power generator, then successfully blasts and destroys it.
+
+Han, Leia, and company, now realizing they are being followed by Vader (who has arrived personally on Hoth), make their way to the ''[[Millennium Falcon]]'' in time to escape. As the ''Falcon'' flies off, Luke reaches [[R2-D2]] and his [[T-65B X-wing starfighter|X-wing starfighter]] and finally departs Hoth. Changing course from the rendezvous point, he sets his coordinates for Dagobah.
+
+Han and company are pursued by Imperial [[TIE/ln space superiority starfighter|TIE fighters]]. Flipping the switch to take them to lightspeed, Han realizes (with reluctant help from 3PO) that the hyperdrive has been damaged. While trying to fix the hyperdrive system, Han enters an [[asteroid]] field to hamper pursuit. He manages to land his ship inside a cavern on one of the larger asteroids to rest and find a way to fix the ship.
+
+===The way of a Jedi===
+[[File:Hanleiafalcon.png|thumb|left|250px|[[Han Solo]] and [[Prince]]ss [[Leia Skywalker Organa Solo|Leia]] kissing.]]
+Luke lands on the marshy [[planet]] Dagobah, swamping his X-wing in the process. There, he discovers a diminutive and eccentric figure who fiddles around with Luke's gear. After Luke tells him that he is looking for a [[Jedi Master]], the being offers to take Luke to Yoda.
+
+Back on the ''Falcon'', while Leia tries to make repairs, Han makes his move on the Princess, drawing himself closer to her before both end up in a passionate kiss. When Threepio arrives, Leia withdraws and walks away.
+
+Vader orders the entirety of [[Death Squadron]] to begin sweeping the asteroid field to find the ''Millennium Falcon'' As the search continues, the dangers of the field begin to take their toll: an asteroid smashes into the bridge tower of a [[Star Destroyer]], presumably killing all aboard. On the ''Executor'', Vader communicates with the [[captain]]s of the other ships (the captain of the demolished star destroyer throws his arms up in horror, and the transmission fades). One officer, Captain [[Lorth Needa]], tells Vader that they should consider their damage. Vader firmly replies that they will continue the search. Shortly afterward, Admiral Piett informs Vader that [[Galactic Emperor|Emperor]] [[Darth Sidious|Sheev Palpatine]] commands he make contact immediately. Vader orders his ship out of the asteroid field for a clear transmission.
+
+In his private quarters, Vader receives a holographic message from Palpatine, alias Darth Sidious, who alerts the Dark Lord to a "new enemy who could destroy" the Empire - Luke Skywalker. Vader suggests that if Luke could be turned, he would be a "powerful ally". Lord Sidious agrees, saying that Luke would be a "great asset" and asks his apprentice if it could be done. Vader declares Luke will join the Empire "or die".
+
+Instead of going straight to Yoda, Luke is brought to the creature's hut. Luke insists on going to find Yoda immediately, but the small creature only responds with "Not far. Yoda not far." The diminutive figure then declares the boy lacks patience, but the voice of Kenobi tells the figure that the boy will learn patience if he is to be trained. Only then does Luke realize that the small green figure ''is'' Yoda. Yoda asks Kenobi if he will finish whatever training he begins, then suspects that Luke will someday succumb to fear.
+
+[[File:Yodalukedagobah.png|thumb|right|250px|Yoda teaches Luke the way of the [[Jedi]] and to beware of the [[dark side of the Force]].]]
+The next day, while cleaning parasitic creatures called Mynocks off the ''Falcon'', Solo and his companions are forced to escape what turns out to be a titanic [[Exogorth|space slug]] (which resided in the asteroid the ''Falcon'' landed on). Meanwhile, Luke begins a rigorous training regime from Yoda which includes moral lessons about the dangers of the dark side of the Force. That particular lesson is driven home when he is told to enter a cave that is strong with the Dark Side's power. Ignoring Yoda's counsel to leave his weapons, Luke enters the cavern armed. Once inside, he has a vision of himself angrily confronting Darth Vader and beheading him. However, the severed head's mask bursts apart and reveals Luke's face with a scared look underneath; it is a warning that if Luke battles Vader with no emotional control, he will become Vader himself, seduced by the Dark Side.
+
+Back on the Star Destroyer, Vader enlists the bounty hunters, [[Boba Fett]], [[Dengar]], [[IG-88B|IG-88]], [[Bossk'wassak'Cradossk|Bossk]], [[4-LOM]] and [[Zuckuss]] to find the ''Millennium Falcon'' for a "substantial reward". One of the Imperial commanders finally spots the ''Falcon'', leading to another pursuit which results in the Falcon eluding the Empire by making the insanely counter intuitive move of attacking the lead Star Destroyer. However, at the last moment, the ship veers off and secretly attaches itself to the rear of the cruiser's command tower, which is not extensively covered by sensors, making it appear to have vanished from the Destroyer's point of view.
+
+Days later, while training, Luke becomes distracted when he finds that his X-wing fighter has almost completely submerged into the swamp. Luke declares he will never be able to get the ship out, seeing that it is too big for him to extract from the water. Yoda says it is "no different, only different in your mind." Luke says he'll "try" to lift the ship, but Yoda says "No! Do or do not, there is no try." Luke tries to use the Force, but to no avail. Yoda reminds him that "size matters not" and gives him wisdom about the Force. Luke denies all of this, then Yoda decides to use the Force to lift the ship out himself. Luke is dumbfounded and incredulous. Yoda senses the youngster's failures within his mind.
+
+[[File:Falconasteroidsgr.jpg|thumb|left|250px|The [[Galactic Empire|Imperials]] pursue the ''Millennium Falcon'' through an asteroid field.]]
+When the fleet disperses to search for the ''Falcon'', the Rebels wait for the ship to do its standard dump of refuse before jumping, then detach to float away with it. The ''Falcon''{{'s}} hyperdrive needs repairs, so Han decides to make their way to [[Cloud City]], a gas-mining colony run by his "old friend" [[Landonis Balthazar Calrissian|Lando Calrissian]]. Unfortunately, the [[bounty hunter]] Boba Fett had deduced the ''Falcon''{{'s}} escape method and had his ship jettisoned with the waste to stealthily follow the fugitives.
+
+The next day, Yoda reminds Luke of the things the young Jedi will see in his mind, the future, the past, and of friends he recognizes. Luke loses concentration again and has a vision of his friends in danger. He wants to leave Dagobah to rescue them, but Yoda reminds him that if he leaves now, everything his friends fought and suffered for will be destroyed.
+
+===The city in the clouds===
+{{Quote|I love you.''"<br />"''I know.|Leia Organa and Han Solo, on Cloud City|Star Wars: Episode V The Empire Strikes Back}}
+
+Upon arrival at Cloud City, Han's party is welcomed by an old friend of his who goes by the name Lando Calrissian. However, there are numerous elements that make the Rebels suspicious, not the least of which being C-3PO being found deactivated, dismembered, and almost recycled.
+
+[[File:Cloud_City.png|thumb|right|250px|[[Cloud City]] on [[Bespin]].]]
+That evening, Luke and R2-D2 prepare themselves to leave Dagobah, but are warned by both Yoda and the spirit form of Kenobi not to end training so soon for a fight Luke is not ready for. Ben declares that should Luke decide to face Vader, he will have to face him alone without interference. Luke understands this, and his ship takes off from Dagobah. Yoda is disappointed, declaring Luke is reckless. Ben tells Yoda "That boy is our last hope", however, Yoda answers back, "No... there is another..."
+
+A day later, Han and company find themselves betrayed by Calrissian who was approached by the Empire just before the Rebels' arrival and threatened him and the city unless he cooperated. They became the captives of Darth Vader, who proceeds to [[torture]] Han and Leia to create a disturbance in the Force for Luke to detect.
+
+Meanwhile, Chewbacca makes an attempt to rebuild C-3PO only to accidentally put the latter's head on backwards. After being tortured, the rebels are informed by Lando that Leia, Chewbacca, and C-3PO would be confined to Cloud City and Han would be given to Boba Fett. Leia believes Vader wants them all dead, but Lando tells her and the rebels otherwise and that he is after someone called "Skywalker." The rebels immediately realize that Vader wants Luke and has set a trap for him, using them as bait. After Lando announces that Luke was on his way, Han attacks his "friend," only to be restrained by Calrissian's security detail.
+
+That afternoon, Vader enters a carbon-freezing chamber intending to freeze Luke Skywalker once he arrives. The Dark Lord uses the opportunity for Boba Fett to deliver Solo to Jabba the Hutt (to whom Han owed a debt) by testing the device on Solo himself. Han and company enter the chamber for the experiment. At first, Chewbacca resists the stormtroopers, but Han restrains him, saving his strength for another time. Han says goodbye to Leia with a passionate kiss before he is escalated into the carbon freezing chamber. When he is successfully entombed in carbonite in a state of suspended animation, Vader hands over Han to bounty hunter Boba Fett for transportation to [[Tatooine]] to receive a bounty from Jabba. One of the Imperial commanders informs Vader that Luke's starfighter has arrived on Bespin. The Dark Lord orders Lando to take Leia, Chewbacca, and C-3PO to his Star Destroyer, reneging on a deal he made with Calrissian. However, the Cloud City administrator has other plans.
+
+===Duel with the Dark Lord and escape from the Cloud City===
+[[File:Lukevaderesb.png|thumb|left|250px|The epic duel begins.]]
+Luke makes his way to Bespin safely. He quietly walks down the corridors of Cloud City. He spots Boba Fett who is taking the now-frozen Solo back to his ship. He attempts to follow but is thwarted when the bounty hunter notices and opens fire. Luke narrowly escapes and runs down farther into the corridor. He finally meets up with Leia, Chewie, and Lando, who have been captured by stormtroopers. Luke tries to ambush the group of Imperials, but is unsuccessful. Leia yells at him and tells him that "it's a trap!" Luke runs after his captured friends, hoping to save them, but wanders into the carbon-freezing chamber. There, he meets with Vader and [[Duel on Cloud City|the two fight in an epic lightsaber duel]], where Luke's undeveloped Jedi skills are no match for Vader's experience.
+
+The Imperials (escorting the Rebel prisoners out of Bespin) are overpowered by Cloud City security, setting Lando and company free. Chewbacca turns against Lando for betraying Han and chokes him, but he manages to tell the Wookiee there's still a chance to rescue Han at the East Platform. C-3PO is reunited with his companion R2-D2. Lando and company arrive too late as Fett's ship takes off, then engage in a fierce battle with stormtroopers.
+
+Luke and Vader continue the duel in the darkened rooms of the Cloud City. Luke didn't follow Han's sad fate when he fell into the freezing mine, but he manages to jump out of it with the help of the Force a moment before Vader activates the freezing system. The fight continues. Vader uses the Dark Side of the Force, hurling everything that comes to hand at Luke: equipment, construction elements and furniture. One of the items breaks the window, creating a vacuum. Luke is quickly pulled out and the fight moves to the emergency platform.
+
+As the gunfight continues, Lando orders an evacuation of Cloud City before the arrival of the main forces of the Empire, then the rebel company manages to find their last hope of escape...the ''Millennium Falcon''.
+
+On the emergency platform of the Cloud City, Luke and Vader continue the duel. Vader knocks Luke off his feet and invites him to surrender so that he won't let himself be killed, like Obi-Wan. However, the young man is not yet defeated and continues to fight. During the duel over the abyss, Luke beats Vader with his saber in his right shoulder, slightly damaging his dark armor. Vader is furious and cuts Luke's right hand holding a lightsaber (the hand and the saber fall into the abyss). Then he reveals to Luke the fatal truth about his father:{{Anchor|father}}{{Quote|Obi-Wan never told you what happened to your father.''"<br />"''He told me enough! He told me you killed him!''"<br />"''No, ''I'' am your father.|Darth Vader and Luke Skywalker, on Cloud City|Star Wars: Episode V The Empire Strikes Back}}Luke does not want to believe what he heard, and accuses Vader of lying, but he advises the young man to listen to his own heart, and thus understand that this is pure truth. Shocked and frightened by the cruel truth, Luke falls into despair, still not wanting to believe what he heard. Vader invites the young man to reunite with him in order to destroy the Emperor together and rule the galaxy as a father and son. However, Luke chooses suicide over being corrupted and throws himself down a deep shaft.[[File:Vader's_revelation.png|thumb|right|250px|"No. ''I'' am your father."]]
+Luke is sucked into an air vent, exits the underbelly of the city and catches an antenna beneath Cloud City. Facing clear death, Luke calls out to Ben Kenobi in vain (Kenobi had warned Luke that he would not be able to help Luke once he faced Vader). Then, he calls out to the only other one who could help... Leia.
+
+Leia mysteriously senses Luke's [[The Force|telepathic]] distress signal. The Falcon turns around and comes back to Cloud City. Using an escape hatch, Lando manages to catch Luke and rescue him before the wounded Jedi falls helplessly to the planet as TIE Fighters race toward them. The Falcon finally leaves Bespin's gravitational field and is about to escape into hyperspace when the hyperdrive system again fails (as it turns out - this is the work of the imperial specialists, as reported by the city computer R2-D2 accessed). Vader asks for confirmation that the ''[[Millennium Falcon]]''{{'s}} hyperdrive system was deactivated to prevent their escape, then orders weapons be set to stun.
+
+[[File:Empire_endshot.png|thumb|left|250px|The Rebels regroup and plan to rescue Han.]]
+As the Imperials pursue the ''Falcon'', the injured Luke telepathically hears the voice of Vader calling to him. He answers, "Father...", while Vader telepathically calls, "Son, come with me". Luke senses it is Vader, then cries, "Ben, why didn't you tell me?"
+
+C-3PO commands that R2-D2 finish reconstructing him after his ordeal in Cloud City. However, with quick ingenuity, R2 manages to re-activate the ''Falcon''{{'s}} hyperdrive system just in time for the ship to flee to hyperspace. Vader is disappointed and retreats to his secret quarters in his Star Destroyer, ignoring Piett's failure.
+
+On a [[EF76 Nebulon-B escort frigate]] at the Rebel fleet's rendezvous point, Luke is under the care of 2-1B again which includes the implantation of a [[Cybernetics|prosthetic hand]]. Lando and Chewbacca begin their parts of a most dangerous mission...[[Rescue of Han Solo|rescuing]] Han. Lando promises to Leia they'll bring her back the man she loves. The movie ends with Luke, Leia, and the droids looking on as the Falcon departs for unknown territories, setting the stage for [[Star Wars: Episode VI Return of the Jedi|''Return of the Jedi'']].
+
+==Development==
+[[File:On_set_dagobah.jpg|thumb|right|250px|Mark Hamill on set at Pinewood Studios]]
+Lucas hired screenwriter [[Leigh Brackett]] to write a screenplay based on his story treatment. Brackett finished the first draft on February 23, 1978, but she died soon afterwards. According to Lucas, he did not like the direction in which her screenplay went. Without a writer to fix it, he was forced to write the second draft himself throughout March.<ref name="The Making of The Empire Strikes Back">''[[The Making of The Empire Strikes Back]]''</ref> Major plot changes were made compared to the first draft and the storyline that is in the film was formed in this draft. One of the most notable changes was making [[Anakin Skywalker/Legends|Vader]] [[Luke Skywalker/Legends|Luke's]] father.<ref name="The Making of The Empire Strikes Back" /> When [[Lawrence Kasdan]] finished writing the screenplay for [[Wikipedia:Indiana Jones and the Raiders of the Lost Ark|''Raiders of the Lost Ark'']] he was hired to rewrite and improve Lucas' draft. He wrote a few more drafts before the script conference was held in November between [[George Lucas]], [[Lawrence Kasdan]], [[Irvin Kershner]] and [[Gary Kurtz]]. After some additional input, the shooting script was finally formed. Minor changes to dialogues came from Kershner and actors throughout the filming and were mostly approved by Lucas.<ref name="The Making of The Empire Strikes Back" />
+
+Majority of the concept art and designs for the film was done by [[Ralph McQuarrie]], [[Joe Johnston]] and [[Nilo Rodis-Jamero]] based on Lucas' ideas.<ref name="The Making of The Empire Strikes Back" /> The [[Yoda|Yoda puppet]] was designed by British make-up artist [[Stuart Freeborn]]. He said he based Yoda's face on his own face and added some of [[Wikipedia:Albert Einstein|Albert Einstein's]] facial features to it.<ref name="Empire of Dreams">''[[Empire of Dreams: The Story of the Star Wars Trilogy]]''</ref>
+
+Filming lasted from [[March 5]]<ref name="Our Galactic Starcruiser Voyage">{{SWYoutube|pmZ0VyX8ls4|Our Galactic Starcruiser Voyage, New Comic Previews, and More!|archivedate=20220303203903}}</ref> until [[September 24]], [[1979]]. Some of the [[Hoth/Legends|Hoth]] sequence was filmed in [[Wikipedia:Norway|Norway]], in the area from the railway station ''[[Finse]]'' to the [[Wikipedia:Hardangerj&oslash;kelen|''Hardangerj&oslash;kelen'']] [[Wikipedia:glacier|glacier]]. The scenes on [[Dagobah/Legends|Dagobah]], [[Cloud City/Legends|Cloud City]] and inside the Hoth [[Echo Base/Legends|Echo Base]] were shot at [[Elstree Studios]], [[Wikipedia:England|England]].
+
+During the production, the film went seriously over-budget and over-schedule. When the film budget increased for $10 million the bank wanted to pull the loan. To secure the additional money required to complete the film, Lucas was forced to approach [[20th Century Studios|20th Century Fox]] to negotiate a deal. The studio received more profit from the film while in exchange it guaranteed the loan. Despite this Lucas managed to retain the sequel and merchandising rights.<ref name="Empire of Dreams" />
+
+===Music===
+After the fantastic success of the first film (and its highly-praised score), John Williams was once again brought back to be the composer. Unlike with the first film, we don't know the exact pieces used for the temp track, but we do know that Kershner intended to use pieces from "Stravinsky and Shostakovich, Hindemith and Copland, Prokofiev [his scores for Sergei Eisenstein's films] and Bliss".<ref name="making of ESB">[[The Making of The Empire Strikes Back]]</ref> The spotting sessions for Empire were held on an unknown date in early November, 1979.<ref name="Chris Malone document">{{Cite_web|url=https://www.malonedigital.com/starwars.pdf|title=Recording the Star Wars Saga|author=Malone, Chris|date=2012-03-18|work=[https://www.malonedigital.com Malone Digital]|format=PDF|archivedate=20220619203126}}</ref> Also present at the sessions were producer George Lucas, producer Gary Kurtz, director Irvin Kershner, editor Paul Hirsch, music supervisor Lionel Newman, and music editor Ken Wannberg.<ref name="making of ESB" /> Footage of the carbon freeze scene being spotted can be seen in the documentary [[Star Wars: Music by John Williams]]<ref name="BBC music documentary">[[Star Wars: Music by John Williams]]</ref>, and also in the Enhanced Edition of J.W. Rinzler's [[The Making of The Empire Strikes Back]].<ref name="making of ESB" />
+
+Following the spotting sessions, Williams would get to work constructing his score. For this film, he would both reuse some themes from the first (Luke's theme, Ben's theme - now known as The Force Theme, and Princess Leia's Theme) while also creating entirely new themes (Darth Vader's Theme, Yoda's Theme, the Cloud City Theme, the Han/Leia love theme). It is unknown how long he would've spent writing the music for this film, but we know that he had at most 8 weeks, assuming the spotting sessions were in the first week of November. This is because recording started December 27th, 1979.<ref name="1980 liner notes">Liner notes of the 1980 LP soundtrack release, notes written by Alan Arnold</ref>
+
+Once again, the film's score was orchestrated by [[Herbert W. Spencer|Herbert Spencer]], this time assisted by [[Angela Morley]]<ref name="Angela Morley jwfan">{{Cite_web|url=https://www.jwfan.com/forums/index.php?/topic/21632-angela-morley-about-arranging-for-john-williams-on-star-wars|title=Angela Morley about Arranging for John Williams on Star Wars|author=Augie|date=2012-04-17|work=[https://www.jwfan.com John Williams Fan Network]|archivedate=20201112011706}}</ref>, [[Al Woodbury]], and [[Fred Steiner]].<ref name="leaked sheet music">Orchestrator credits are known for some cues due to sheet music leaks.</ref>
+
+{|class="wikitable"
+|+Complete cue list (as written) with orchestrator credits where known
+!Cue #
+!Cue Title
+!Orchestrator
+!Notes
+|-
+|1m1
+|Main Title
+|unknown
+|
+|-
+|1m2
+|The Imperial Probe
+|Herbert Spencer
+|
+|-
+|1m2
+|New Start
+|Angela Morley
+|Rewritten opening of 1m2 The Imperial Probe
+|-
+|1m2 (Insert Bar 80)
+|
+|Angela Morley
+|After it was decided to edit out most of The Imperial Probe from the movie, this was written as an insert to replace the music for Han entering Echo Base
+|-
+|1m2 (Insert Bar 109)
+|
+|Angela Morley
+|Tweaked transition between bars 109 and 110
+|-
+|1m3-2m1
+|Luke's Escape
+|Al Woodbury
+|
+|-
+|2m2
+|Ben's Instructions
+|unknown
+|
+|-
+|2m3
+|Luke's Rescue
+|Herbert Spencer
+|
+|-
+|2m4
+|The Probe Scanner
+|unknown
+|
+|-
+|3m1
+|Drawing the Battle Lines
+|unknown
+|
+|-
+|3m2
+|Leia's Instructions
+|unknown
+|
+|-
+|3m3
+|The Snow Battle
+|Herbert Spencer
+|
+|-
+|3m4-4m1
+|Luke's First Crash
+|Fred Steiner
+|
+|-
+|4m2
+|The Rebels Escape Again
+|Herbert Spencer
+|
+|-
+|4m3
+|The Asteroid Field
+|Herbert Spencer
+|
+|-
+|5m1
+|Crash Landing
+|unknown
+|
+|-
+|5m2
+|Yoda Appears
+|unknown
+|
+|-
+|5m3
+|Yoda's Entrance
+|Herbert Spencer
+|
+|-
+|5m3
+|End Fix
+|Angela Morley
+|Re-written ending to 5m3 Yoda's Entrance
+|-
+|5m4-6m1
+|Solo and the Princess
+|Fred Steiner
+|
+|-
+|6m2
+|Yoda's Teaching
+|Herbert Spencer<ref name="JKMS twitter post">{{Twitter|JKMSlibrary|name=JoAnn Kane Music Svc|status/829049105406062592|archivedate=20220821013148}}</ref>
+|
+|-
+|6m3
+|This is Not a Cave
+|unknown
+|
+|-
+|6m4
+|Training a Jedi
+|Fred Steiner
+|
+|-
+|6m5-7m1
+|The Magic Tree
+|Herbert Spencer
+|
+|-
+|7m2
+|Attack Position
+|unknown
+|
+|-
+|7m3
+|Yoda Raises the Ship
+|Herbert Spencer
+|
+|-
+|7m4-8m1
+|Vader's Command
+|unknown
+|
+|-
+|8m2
+|City in the Clouds
+|Al Woodbury
+|
+|-
+|8m3
+|Lando's Palace
+|Al Woodbury
+|
+|-
+|9m1
+|Luke to the Rescue
+|unknown
+|
+|-
+|9m2
+|Vader Shows Up
+|unknown
+|
+|-
+|9m3
+|Putting Threepio Together
+|unknown
+|
+|-
+|9m4
+|Trouble in Prison
+|unknown
+|
+|-
+|9m6-10m1
+|Carbon Freeze
+|unknown
+|
+|-
+|9m6-10m1 (Insert Bar 57)
+|
+|unknown
+|Re-written section of 9m6-10m1 Carbon Freeze
+|-
+|10m2
+|Luke Pursues the Captives
+|unknown
+|
+|-
+|10m3
+|Chewie Chokes Lando
+|Herbert Spencer
+|
+|-
+|11m1
+|Through the Window
+|unknown
+|
+|-
+|12m1
+|Losing a Hand
+|unknown
+|
+|-
+|12m2
+|To Hyper-Space
+|Herbert Spencer
+|
+|-
+|12m3
+|Finale
+|Angela Morley
+|
+|-
+|12m4
+|End Credits
+|Herbert Spencer
+|
+|-
+|12m4
+|End Credits Insert
+|Herbert Spencer
+|Re-written portion of 12m4 End Credits
+|-
+|N/A
+|Darth Vader's Theme
+|Herbert Spencer
+|
+|-
+|N/A
+|Yoda's Theme
+|Angela Morley
+|
+|-
+|}<ref name="leaked sheet music" /><ref name="jwfan ESB cue list">{{Cite_web|url=https://www.jwfan.com/?p=4092|title=THE EMPIRE STRIKES BACK (1980) – Complete Cue List|author=Takis, John|date=2009-03-16|archivedate=20220619202401}}</ref>
+
+We don't know the exact recording schedule for Empire, but we know it was recorded on December 27th, 28th, 29th of 1979, and January 7th, 8th, 9th, 10th, 17th and 18th of 1980.<ref name="1980 liner notes" /> Once again, the score was recorded with the London Symphony Orchestra at Anvil Scoring Stage by engineer [[Eric Tomlinson]], and his assistant [[Alan Snelling]]. This time, the score was recorded with an upgraded Neve mixing console supporting 24 channels, that was hooked up to a 24-track 2" MCI recorder using Dolby A. Instead of recording the live mix to the multi-track masters like he had with Star Wars, Tomlinson recorded his live mix for Empire to an 8-track Struder A80 machine also using Dolby A. The first 6 tracks were used for his live surround mix, and the 8th channel had a film synchronization tone. The 7th channel was left empty to prevent cross-talk. No 35mm magnetic film master was created for the Empire sessions, unlike for the original Star Wars.<ref name="Chris Malone document" />
+
+====Releases====
+Like its predecessor, the score to Empire has had several releases over the years. While many of these releases have been straight reissues of previous releases, there are currently four releases with unique programs that were independently mastered from the original session tapes:<ref name="explanation of releases">By comparing the credits for all releases from 1980 to present (7/19/22), we can conclude that the only teams that went back to the original masters were the OST (1980 - led by John Williams), Anthology (1993 - led by Ford A Thaxton), SE (1997 - led by Michael Mattessino), and Remastered (2018 - led by Shawn Murphy). Every other release is a reissue of one of these four</ref>
+*[[Star Wars Episode V: The Empire Strikes Back Original Soundtrack|1977 OST (20th Century Fox Records)]]
+*[[Star Wars Trilogy: The Original Soundtrack Anthology|1993 Anthology (Arista Records)]]
+*[[Star Wars: Episode V The Empire Strikes Back Special Edition: Original Motion Picture Soundtrack|1997 Special Edition (RCA Victor)]]
+*[[Star Wars Episode V: The Empire Strikes Back Remastered Soundtrack|2018 OST Remaster (Walt Disney Records)]]
+
+==Release==
+In the lead-up to the release of ''The Empire Strikes Back'', various cast members made in-character television appearances to promote the film; [[Mark Hamill]] and [[Peter Mayhew]] on [[Wikipedia:Jim'll Fix It|''Jim'll Fix It'']],<ref>{{Youtube|video=f98TW0-_10c|text=Lucky kid Visits the set of The Empire Strikes Back Dagobah set. Meets Mark Hamill|channel=channel/UCWAveNRXoE2mJ2xwWtA4TSw|channelname=Filmumentaries com|archivedate=20160126062413}}</ref> [[Anthony Daniels]] on ''[[Sesame Street]]'', and Daniels, Hamill and Mayhew on ''[[The Muppet Show]]''.
+
+The world premiere of ''The Empire Strikes Back'' was held on [[May 17]], [[1980]], at the Kennedy Center in Washington, D.C. (as a special Children's World Premiere event).<ref name="Empire Turns 40" /> The film had a Royal Charity Premiere in London at the Odeon Cinema in Leicester Square on May 20th. The special event was dubbed "Empire Day," a playful take on the British Commonwealth Day holiday (known as Empire Day prior to 1958), where legions of stormtroopers were unleashed across the city.<ref>{{SW|url=news/an-empire-day-to-remember|text=An 'Empire Day' to Remember}}</ref> A series of other charity benefit premieres were held in numerous locations on May 19 and 20. The film went on to official general release in North America and the U.K. on May 21, 1980. The first wave of release included 127 70 mm prints of the film,<ref name="Empire Turns 40" /> before a wider release in June 1980 (which were mostly 35 mm prints).<ref>{{Cite_web|url=http://www.fromscripttodvd.com/empire_strikes_back_70mm_engagements.htm|title=The Empire Turns 25: A 25th Anniversary Tribute To 'The Empire Strikes Back'|author=Coate, Michael|date=2005-03-25|publisher=fromscripttodvd.com|archivedate=20200720200924}}</ref> A tv documentary entitled ''[[Star Wars: Music by John Williams]]'' was released to coincide with the film. Similarly, in [[September]] 1980, [[CBS]] aired the official making-of documentary, ''[[SPFX: The Empire Strikes Back]]''.
+
+===Merchandise===
+A [[Star Wars Episode V: The Empire Strikes Back (novel)|novelization]] of the film was written by [[Donald F. Glut]] and was published on April 12, 1980. The film was adapted into comics form by Marvel Comics as part of their [[Star Wars (Marvel Comics 1977)|ongoing ''Star Wars'' series]]. Released in six parts (issues [[Star Wars (1977) 39|39]] to [[Star Wars (1977) 44|44]]), the adaptation was scripted by [[Archie Goodwin]] and illustrated by [[Al Williamson]]. (Years later, a [[Star Wars Manga: The Empire Strikes Back|manga adaptation]] illustrated by [[Toshiki Kudo]] was released in Japan in 1998 and in the United States in 1999.) [[Kenner Products|Kenner]] launched a [[Star Wars: The Empire Strikes Back (toy line)|toyline]] based on the film. A [[The Empire Strikes Back (radio)|radio drama]] adaptation was written by [[Brian Daley]] and produced for broadcast on [[Wikipedia:National Public Radio|National Public Radio]] in [[1983]].
+
+===Re-releases===
+[[File:TESB_30th_Anniversary_logo.png|thumb|right|150px|2010 marked the film's 30th Anniversary]]
+Along with the other two films of his original trilogy, [[George Lucas]] issued a [[The Star Wars Trilogy Special Edition|Special Edition]] of ''The Empire Strikes Back'' in 1997, making a number of [[List of changes in Star Wars re-releases|changes and additions]], including replacing a piece of music from the closing scene.
+
+On [[September 21]], [[2004]] the three original movies were finally released on DVD. There have been [[List of changes in Star Wars re-releases|a few further minor changes to the film]] on this release&mdash;such as sound effects and improvements to the visual quality of the film. One highly noticeable change involving visual quality improvement is that the odd pink glow was removed from the Cloud City entrance scene, where the Cloud Car was replaced with a [[Tibanna]] refinery in the 1997 theatrical version.
+
+In addition, the scene in which Darth Vader speaks with the Emperor was altered for the DVD release. Originally, Palpatine was portrayed by a woman wearing a mask with a chimpanzee's eyes superimposed over her own, with an elder male's voice dubbed in later. [[Clive Revill]], who performed Palpatine's voice, and [[Marjorie Eaton]], who portrayed Palpatine physically, were both replaced with [[Ian McDiarmid]], who would eventually be cast for the same role in ''Return of the Jedi'' and all three prequels. However, Revill's name still appeared in the movie's credits as the voice actor for Palpatine. McDiarmid re-recorded the dialogue with [[James Earl Jones]] and they both added more lines for this scene.
+
+Another addition was [[Temuera Morrison]] providing the voice for [[Boba Fett]], further establishing the fact that Boba is indeed a clone of [[Jango Fett]].
+
+[[File:Empire-at-40-theatres.png|thumb|left|250px|In addition to multiple home video re-releases, the film underwent numerous theatrical re-releases.]]
+The trilogy was re-released on separate two-disc Limited Edition DVD sets from [[September 12]], [[2006]] to [[December 31]], 2006; the original versions of the films were added as bonus material. Controversy surrounded the release because the unaltered versions were from the 1993 non-[[Wikipedia:Anamorphic|anamorphic]] [[Wikipedia:Laserdisc|Laserdisc]] masters, and were not retransferred with modern video standards.<ref>{{Cite_web|url=http://www.mindjack.com/film/archives/2006_05_01_archive.html|title=Anamorphic Star Wars and Other Musings|author=Ian Dawe|work=Mindjack Film|archivedate=20200720220906}}</ref> ''The Empire Strikes Back'' was re-released for a Blu-ray format re-release in September of [[2011]].<ref>{{SWArchive|url=movies/saga/bluraymay4/index.html|text=Bring the Complete Collection Home: Star Wars: The Complete Saga on Blu-Ray|archivedate=20110507103835}}</ref>
+
+On [[April 7]], [[2015]], Walt Disney Studios, 20th Century Fox, and Lucasfilm jointly announced the digital releases of the six released ''Star Wars'' films. As Lucasfilm had retained digital distribution rights to Episodes I through VI, Walt Disney Studios Home Entertainment released ''The Empire Strikes Back'' for digital download on [[April 10]], 2015.<ref>{{SW|url=news/the-star-wars-digital-movie-collection-coming-april-10|text=The ''Star Wars'' Digital Movie Collection Coming April 10}}</ref>
+
+Despite [[the Walt Disney Company]]'s [[2012]] purchase of [[Lucasfilm Ltd.]] and the release rights to all future ''Star Wars'' films, Fox was to retain original distribution rights to [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], which they co-produced and co-financed, in perpetuity in all media worldwide. Fox was also to retain theatrical, nontheatrical, and home video rights worldwide for the franchise's five subsequent films, which Lucasfilm produced and financed independently, through [[May]] [[2020]], at which time ownership was to transfer to Disney. This complex relationship between Fox and Disney, particularly in regards to Fox's perpetual rights to Episode IV, was to create an obstacle for any future boxed set comprising all nine films.<ref name="Hollywood Reporter">{{Cite_web|url=https://www.hollywoodreporter.com/news/tangled-rights-could-tie-up-384541|title=Tangled Rights Could Tie Up Ultimate 'Star Wars' Box Set (Analysis)|author=Masters, Kim|date=2012-10-30|work=The Hollywood Reporter|archivedate=20200215125918}}</ref> On [[December 14]], [[2017]], The Walt Disney Company announced that it was acquiring most of Fox's parent company, [[Wikipedia:21st Century Fox|21st Century Fox]], including the film studio and all distribution rights to ''A New Hope''.<ref name="Acquire">{{DisneyCompany|url=walt-disney-company-acquire-twenty-first-century-fox-inc-spinoff-certain-businesses-52-4-billion-stock-2|text=The Walt Disney Company To Acquire Twenty-First Century Fox, Inc., After Spinoff Of Certain Businesses, For $52.4 Billion In Stock|archivedate=20200617112439}}</ref> On [[March 20]], [[2019]], the [[Wikipedia:Acquisition of 21st Century Fox by Disney|deal]] was officially completed.<ref>{{Cite_web|url=https://www.hollywoodreporter.com/news/disney-closes-fox-deal-creating-global-content-powerhouse-1174498|title=Disney Closes $71.3 Billion Fox Deal, Creating Global Content Powerhouse|author=Georg Szalai, Paul Bond|date=2019-03-19|work=[[Wikipedia:The Hollywood Reporter|The Hollywood Reporter]]|archivedate=20200611175708}}</ref> On [[April 12]], 2019, a [[Wikipedia:Blu-ray|Blu-ray]] box set containing the nine main installments of the ''[[Star Wars]]'' [[Star Wars saga|saga]] remastered in 4K was reportedly announced to be in development for a [[2020]] release.<ref>{{Cite_web|url=https://www.thedigitalfix.com/film/content/105409/exclusive-skywalker-saga-4k|title=Exclusive: Disney are working on a 4K Blu-ray box set for Star Wars: The Skywalker Saga (updated)|date=2019-04-12|work=[https://www.thedigitalfix.com/film The Digital Fix: Film]|archivedate=20190506104719}}</ref>
+
+[[File:Empire-at-40-poster.jpg|thumb|right|250px|The film's 40th Anniversary was celebrated with official posters by Matt Ferguson]]
+Alongside every other ''Star Wars'' saga and [[Star Wars Anthology Series|anthology]] films, ''The Empire Strikes Back'' was released in 4K HDR10 format on the [[Disney+]] streaming platform. The films were also each given a new poster, with Episode V's poster having an overall light blue color scheme.<ref name="Disney+ in NZ">{{Cite_web|url=http://www.swnz.co.nz/2019/11/16/disney-in-nz-your-questions-answered|title=Disney+ in NZ – Your Questions Answered|author=G., Matt|date=2019-11-16|publisher=Star Wars New Zealand|archiveurl=https://archive.vn/GBOP6}}</ref> For ''The Empire Strikes Back''{{'s}} 40th Anniversary, Lucasfilm hired [[Matt Ferguson]] to create new official anniversary posters for the film.<ref name="Empire at 40 poster">{{SW|url=news/empire-at-40-matt-ferguson-star-wars-the-empire-strikes-back-poster|text=Empire at 40 &#124; Matt Ferguson Discusses the Making of His Incredible Star Wars: The Empire Strikes Back Poster}}</ref>
+
+==Reception==
+''The Empire Strikes Back'' initially received mixed reviews. Many critics had problems with the story, but at the same time said the film was a technical achievement. Critics also had various reactions to [[List of changes in Star Wars re-releases|changes introduced in re-releases]] of this film.{{Fact}}
+
+According to the actors, [[Irvin Kershner]] would encourage group discussions and improvisations from the actors, and would do many takes of each scene, in contrast to Lucas, who would always stick to the script, usually do about three takes, and offer little direction to the actors.{{Fact}}
+
+The film is the highest grossing sequel of all time when adjusted for inflation.{{Fact}}
+
+The film was selected in 2010 to be preserved by the [[Wikia:Library of Congress|Library of Congress]] as part of its [[Wikia:National Film Registry|National Film Registry]].<ref name="hollreporter">{{Cite_web|url=https://www.hollywoodreporter.com/news/empire-strikes-airplane-25-movies-65915|title='Empire Strikes Back,' 'Airplane!' Among 25 Movies Named to National Film Registry|author=Barnes, Mike|date=2010-12-28|publisher=The Hollywood Reporter|archivedate=20200713023700}}</ref>
+
+At theaters in Australia, the United Kingdom, and Scandinavia, the short film [[Wikipedia:Black Angel (1980 short film)|''Black Angel'']] was shown before ''The Empire Strikes Back''{{'s}} theatrical release. ''Black Angel'' was the directorial debut of [[Roger Christian]], the art director for ''A New Hope''. The film was shot in [[Wikipedia:Scotland|Scotland]], Autumn 1979, for £25,000, a gift to Christian from George Lucas for his work on ''Star Wars''.<ref name="shad8">{{Cite_web|url=http://www.shadowlocked.com/20100309134/interviews/exclusive-interview-the-worlds-of-roger-christian.html|title=Exclusive interview: The worlds of Roger Christian|author=Anderson, Martin|date=2010-03-09|publisher=Shadowlocked|archivedate=20160306154040}}</ref><ref name="ars-technica-2013-9-10">{{Cite_web|url=https://arstechnica.com/gaming/2013/09/once-lost-star-wars-related-short-to-screen-for-the-first-time-in-33-years|title=Once-lost ''Star Wars''-related short to screen for the first time in 33 years|author=Matisse, Nathan|date=2013-09-10|publisher=Ars Technica|archivedate=20200715113810}}</ref>
+
+==Deleted scenes==
+===The Death of General Veers===
+[[Maximilian Veers|General Veers]] is about to destroy the shield generators when [[Derek Klivian|Hobbie]], a Rebel pilot, flies his damaged snowspeeder toward Veers's walker. One of Veers's men says, "Look out! He's going to..." Hobbie crashes his fighter into the cockpit of Veers's AT-AT Walker, which is blown up, killing both Hobbie and Veers. (The [[Star Wars Legends|Expanded Universe]] shows both of them alive after the Battle of Hoth.) This scene was likely cut because Veers succeeds in destroying the shield generators, and the filmmakers would have found it difficult to alter the scene so it takes place after Veers destroys them.
+
+===Wampa attack===
+[[File:Wampa_attack_top.jpg|left|thumb|[[R2-D2/Legends|R2-D2]] escapes a wampa]]
+According to the fourth version of the script for [[Star Wars: Episode V The Empire Strikes Back|''The Empire Strikes Back'']], there is some extra dialogue concerning the wampas and a scene involving R2 getting chased down a hallway by one while the Rebels blast it. One of the Rebels calls in the report saying, "We got it, sir, but there may be more," (talking to [[General/Legends|General]] [[Carlist Rieekan|Rieekan]]). Alarms are buzzing and Leia inquires if the creature has been examined yet. The general tells her they are working on it and then they are alerted to a "visitor"&mdash;the Imperial [[Viper probe droid|probot]]. Since it is revealed to be metallic, [[Leia Skywalker Organa Solo|Leia]] remarks, "Then it couldn't be one of ''those'' creatures"&mdash;referring to the wampas, of course.
+
+===Wampas infiltrate Echo Base===
+[[File:Wampas_infiltrate_top.jpg|right|thumb|[[2-1B/Legends|2-1B]] attends to the dead [[Tauntaun/Legends|tauntaun]]]]
+In the scene where [[Han Solo]] is about to go after [[Luke Skywalker]] on a [[tauntaun]], a dead tauntaun is seen on the floor being examined by 2-1B, the medical droid. On the wall is what appears to be some blood, presumably from the dead animal. In the fourth draft of the script, one of the rebels says to his deck officer, "...I can't imagine, sir. Their necks are broken." (The script refers to three dead creatures, not one.) The wampas have already broken into the base at this point and have obviously attacked some tauntauns. They break in once around the time of Han and Leia's argument in the hallway (see the picture below from the comic adaptation) and again when [[C-3PO]] and [[R2-D2]] are walking towards the hangar and commenting about the temperature in Leia's chamber. Later, when Han is wondering where Luke is, he comes across the Rebels examining the dead tauntaun. They are wondering what happened to this creature as they have no idea yet that wampas have infiltrated the base. It can be noted however, that this scenario is present in the instant action mode of ''[[Star Wars: Battlefront II]]''.
+
+===The Wampa Pen===
+[[File:Wampa_pen_top.jpg|left|thumb|The pursuing [[Cold assault stormtrooper|snowtroopers]] enter the wampa pen]]
+Out of all the cut scenes featuring wampas, this one is the most well-known, perhaps because this scene has left the most evidence behind. Sometime during the Hoth scenes, it's discovered that R2-D2's beeping noises attract the wampas&mdash;just like in the famous "Pied Piper" fairy tale. R2-D2 leads the wampas into a large room and the Rebels then place a red and yellow warning sign on the door so Rebels will not wander inside unaware and get eaten. This scene with R2-D2 was allegedly filmed, but never made it into the final cut. Later on, while on their way to the medical center to see Luke, R2-D2 and C-3PO pass by the wampa pen and discuss the creatures briefly.
+
+Jumping ahead to the Rebel heroes' exodus from [[Echo Base]] during the [[Battle of Hoth]], Han, Leia, and C-3PO are scurrying to get Leia to her transport. On the way out, they pass a door with a familiar yellow sign with [[Unidentified Rebel script|red lettering]]. Han gives the door a quick look and almost stops but continues on past it after recognizing the warning (the quick shot is in the finished film; it appears directly after General Veers destroys the power generators). What was not included in the film was C-3PO (who is running behind Han and Leia, trying to keep up) trudging up to the door after them. He stops and tears off the yellow warning sign (C-3PO is seen tearing off the sign on the "bonus features" DVD of the Trilogy box DVD set and in the trailer for Episode V). He then proceeds to catch up with Han and Leia as they make their way to the Millennium Falcon.
+
+After the snowtroopers burst into the base, they come across the door, left with only a small piece of the original warning sign. They open the door, only to be attacked by the already annoyed wampas inside.
+
+===Luke: Gunner===
+[[File:Luke_gunner_01.jpg|thumb|[[Luke Skywalker/Legends|Luke Skywalker]] mans a heavy [[Artillery/Legends|artillery]] weapon against the attacking wampas.]]
+There have always been rumors and images that state there was originally a scene from ''Empire'' inside Echo Base where Luke mans a gun and blasts a few wampas. The only thing that really makes most fans believe this scene was actually shot is the following quote from Jon Knoles in the [[Star Wars Insider 33|''Star Wars Insider'' 33]] (page 59) talking about the game, ''Shadows of the Empire'' for Nintendo 64: "We knew, for instance, of the scene where a wampa actually broke through into Echo Base and mauled a tauntaun (and possibly some Rebel troops) and a scene where Luke actually took over an auto-laser cannon and blasts a wampa or two. The wampa filmed in this shot looked absolutely hilarious with a big fluffy face and metallic round eyeballs. We saw the picture in a Kodak shoebox Photo CD that Lucasfilm Ltd. provided us with some time ago."{{Fact}}
+
+Later, [[Pablo Hidalgo]] stated that the images of Luke manning a turret were not deleted scenes. According to him, they were simply on set photos taken with the "Rebel cannon sled" prop.<ref name="Pablo tweet">{{Twitter|pabl0hidalgo|status/1432779261304258563|[[Pablo Hidalgo]]|quote=You may occasionally find photos of Luke in his snowspeeder pilot manning the guns online labeled as a 'deleted scene'. It's not. It's more like a photo opportunity, as this prop / vehicle was on set that day|archivedate=1432779261304258563}}</ref> [[Star Wars Legends|Legends]] sources named this vehicle the [[LC-10bW]],<ref name="Rebel Blueprints">''[[Star Wars Blueprints: Rebel Edition]]''</ref> while [[canon]] has dubbed it the [[laser-ice cutter]].<ref name="CL 2016">[[Star Wars: Complete Locations (2016)|''Star Wars: Complete Locations'']]</ref>
+
+==Release gallery==
+<gallery>
+File:Empirestrikesback.jpg|The [[1997]] Special Edition
+File:Ep5DVD.jpg|The [[2004]] DVD Edition
+File:VUnaltered.png|The [[2006]] Unaltered and [[2004]] DVD Edition double feature
+Star Wars Episode V The Empire Strikes Back Blu-ray Steelbook.jpg|The [[2015]] Blu-ray steelbook.
+Star Wars Episode V The Empire Strikes Back 2019 release cover.jpg|The [[2019]] re-release cover.
+</gallery>
+
+==Credits==
+{{Credits
+|cast=
+*'''[[Mark Hamill]]''' as '''[[Luke Skywalker]]'''
+*'''[[Harrison Ford]]''' as '''[[Han Solo]]'''
+*'''[[Carrie Fisher]]''' as [[Prince]]ss '''[[Leia Skywalker Organa Solo|Leia]]'''
+*'''[[Billy Dee Williams]]''' as '''[[Landonis Balthazar Calrissian|Lando Calrissian]]'''
+*'''[[Anthony Daniels]]''' as '''[[C-3PO]]'''
+*'''[[David Prowse]]''' as '''[[Anakin Skywalker|Darth Vader]]'''
+*'''[[Peter Mayhew]]''' as '''[[Chewbacca]]'''
+*'''[[Kenny Baker]]''' as '''[[R2-D2]]'''
+*'''[[Frank Oz]]''' performing '''[[Yoda]]'''
+*'''[[Alec Guinness]]''' as '''[[Obi-Wan Kenobi|Ben (Obi-Wan) Kenobi]]'''
+*'''[[Jeremy Bulloch]]''' as '''[[Boba Fett]]'''
+*'''[[John Hollis]]''' as '''[[Lobot|Lando's Aide]]'''
+*'''[[Jack Purvis]]''' as '''Chief [[Ugnaught]]'''
+*'''[[Des Webb]]''' {{C|pre-1997 releases, scenes deleted}} as '''[[Wampa|Snow Creature]]'''
+*'''[[Kathryn Mullen]]''' as the '''Performing Assistant for [[Yoda]]'''
+*'''[[Clive Revill]]''' as the voice of the '''[[Darth Sidious|Emperor]]''' {{C|pre-1997 releases}}
+*'''[[Kenneth Colley]]''' as '''Admiral [[Firmus Piett|Piett]]'''
+*'''[[Julian Glover]]''' as '''General [[Maximilian Veers|Veers]]'''
+*'''[[Michael Sheard]]''' as '''Admiral [[Kendal Ozzel|Ozzel]]'''
+*'''[[Michael Culver]]''' as '''Captain [[Lorth Needa|Needa]]'''
+*'''[[John Dicks]]''' as '''Captain [[Lennox]]''' {{C|credited under "Other Officers"}}
+*'''[[Milton Johns]]''' as '''Captain [[Bewil]]''' {{C|credited under "Other Officers"}}
+*'''[[Mark Jones]]''' as '''Commander [[Nemet]]''' {{C|credited under "Other Officers"}}
+*'''[[Oliver Maguire]]''' as '''Lieutenant [[Cabbel]]''' {{C|credited under "Other Officers"}}
+*'''[[Robin Scobey]]''' as '''Lieutenant [[Venka]]''' {{C|credited under "Other Officers"}}
+*'''[[Bruce Boa]]''' as '''General [[Carlist Rieekan|Rieekan]]'''
+*'''[[Christopher Malcolm]]''' as '''[[Zev Senesca|Zev (Rogue 2)]]'''
+*'''[[Denis Lawson]]''' as '''[[Wedge Antilles|Wedge (Rogue 3)]]'''
+*'''[[Richard Oldfield]]''' as '''[[Derek Klivian|Hobbie (Rogue 4)]]'''
+*'''[[John Morton]]''' as '''[[Dak Ralter|Dak (Luke's Gunner)]]'''
+*'''[[Ian Liston]]''' as '''[[Wes Janson|Janson (Wedge's Gunner)]]'''
+*'''[[John Ratzenberger]]''' as '''Major [[Bren Derlin|Derlin]]'''
+*'''[[Jack McKenzie]]''' as '''[[Cal Alder|Deck Lieutenant]]'''
+*'''[[Jerry Harte]]''' as '''[[Unidentified Rebel major|Head Controller]]'''
+*'''[[Norman Chancer]]''' as '''[[Tamizander Rey]]''' {{C|credited under "Other Officers"}}
+*'''[[Norwich Duff]]''' as '''[[Jeroen Webb]]''' {{C|credited under "Other Officers"}}
+*'''[[Ray Hassett]]''' as '''[[Tigran Jamiro]]''' {{C|credited under "Other Officers"}}
+*'''[[Brigitte Kahn]]''' as '''[[Toryn Farr]]''' {{C|credited under "Other Officers"}}
+*'''[[Burnell Tucker]]''' as '''[[Wyron Serper]]''' and '''[[Romas Navander]]''' {{C|credited under "Other Officers"}}
+|crew=
+[[File:Empire_strikes_back_poster_vader.jpg|thumb|right|Poster with Vader's helmet]]
+*Director &mdash; [[Irvin Kershner]]
+*Produced By &mdash; [[Gary Kurtz]]
+*Screenplay By &mdash; [[Leigh Brackett]], [[Lawrence Kasdan]]
+*Story By &mdash; [[George Lucas]]
+*Executive Producer &mdash; [[George Lucas]]
+*Production Designer &mdash; [[Norman Reynolds]]
+*Director Of Photography &mdash; [[Peter Suschitzky]] B.S.C.
+*Edited By &mdash; [[Paul Hirsch]] A.C.E.
+*Special Visual Effects &mdash; [[Brian Johnson]], [[Richard Edlund]]
+*Music By &mdash; [[John Williams]]
+*Performed By &mdash; The [[London Symphony Orchestra]]
+*Original Music Copyright 1980 Fox Fanfare Music Inc. / Bantha Music
+*Associate Producers &mdash; [[Robert Watts]], [[Jim Bloom|James Bloom]]
+*Design Consultant And Conceptual Artist &mdash; [[Ralph McQuarrie]]
+*Art Directors &mdash; [[Leslie Dilley]], [[Harry Lange]], [[Alan Tomkins]]
+*Set Decorator &mdash; [[Michael Ford]]
+*Construction Manager &mdash; [[Bill Welch]]
+*Assistant Art Directors &mdash; [[Michael Lamont]], [[Fred Hole]]
+*Sketch Artist &mdash; [[Ivor Beddoes]]
+*Draftsmen &mdash; [[Ted Ambrose]], [[Michael Boone]], [[Reg Bream]], [[Steve Cooper]], [[Richard Dawking]]
+*Modellers &mdash; [[Fred Evans]], [[Allan Moss]], [[Jan Stevens]]
+*Chief Buyer &mdash; [[Edward Rodrigo]]
+*Construction Storeman &mdash; [[Dave Middleton]]
+*Operating Cameramen &mdash; [[Kelvin Pike]], [[David Garfath]]
+*Assistant Cameramen &mdash; [[Maurice Arnold]], [[Chris Tanner]]
+*Second Assistant Cameramen &mdash; [[Peter Robinson]], [[Madelyn Most]]
+*Dolly Grips &mdash; [[Dennis Lewis]], [[Brian Osborn]]
+*Matte Photography Consultant &mdash; [[Stanley Sayer, B.S.C.]]
+*Gaffer &mdash; [[Laurie Shane]]
+*Rigging Gaffer &mdash; [[John Clark]]
+*Lighting Equipment And Crew From Lee Electric
+*Make-Up And Special Creature Design &mdash; [[Stuart Freeborn]]
+*Chief Make-Up Artist &mdash; [[Graham Freeborn]]
+*Make-Up Artists &mdash; [[Kay Freeborn]], [[Nick Maley]]
+*Chief Hairdresser &mdash; [[Barbara Ritchie]]
+*Yoda Fabrication &mdash; [[Wendy Midener]]
+*Costume Designer &mdash; [[John Mollo]]
+*Wardrobe Supervisor &mdash; [[Tiny Nicholls]]
+*Wardrobe Mistress &mdash; [[Eileen Sullivan]]
+*Property Master &mdash; [[Frank Bruton]]
+*Property Supervisor &mdash; [[Charles Torbett]]
+*Property Dressing Supervisor &mdash; [[Joe Dipple]]
+*Head Carpenter &mdash; [[George Gunning]]
+*Head Plasterer &mdash; [[Bert Rodwell]]
+*Head Rigger &mdash; [[Red Lawrence]]
+*Sound Design And Supervising Sound Effects Editor &mdash; [[Ben Burtt]]
+*Sound Editors &mdash; [[Richard Burrow]], [[Teresa Eckton]], [[Bonnie Koehler]]
+*Production Sound &mdash; [[Peter Sutton]]
+*Sound Boom Operator &mdash; [[Don Wortham]]
+*Production Maintenance &mdash; [[Ron Butcher]]
+*Re-Recording &mdash; [[Bill Varney]], [[Steve Maslow]], [[Gregg Landaker]]
+*Music Recording &mdash; [[Eric Tomlinson]]
+*Orchestrations &mdash; [[Herbert W. Spencer]]
+*Supervising Music Editor &mdash; [[Ken Wannberg|Kenneth Wannberg]]
+*Assistant Film Editors &mdash; [[Duwayne Dunham]], [[Phil Sanderson]], [[Barbara Ellis]], [[Steve Starkey]], [[Paul Tomlinson]]
+*Dialogue Editors &mdash; [[Curt Schulkey]], [[Leslie Shatz]], [[Joanne D'antonio]]
+*Optical Coordinator &mdash; [[Roberta Friedman]]
+*Assistant Sound Editors &mdash; [[John Benson]], [[Joanne Cappuccilli]], [[Ken Fischer]], [[Craig Jaeger]], [[Nancy Jencks]], [[Laurel Ladevich]]
+*Foley Editors &mdash; [[Robert R. Rutledge]], [[Scott Hecker]]
+*Foley Assistants &mdash; [[Edward M. Steidele]], [[John Roesh]]
+*Sound Effects Recording &mdash; [[Randy Thom]]
+*Recording Technicians &mdash; [[Gary Summers]], [[Howie Weed]], [[Kevin O'Connell]]
+*Production Supervisor &mdash; [[Bruce Sharman]]
+*Assistant Production Manager &mdash; [[Patricia Carr]]
+*Production Coordinator &mdash; [[Miki Herman]]
+*First Assistant Director &mdash; [[David Tomblin]]
+*Second Assistant Directors &mdash; [[Steve Lanning]], [[Roy Button]]
+*Location Manager &mdash; [[Philip Kohler]]
+*Continuity &mdash; [[Kay Rawlings]], [[Pamela Mann]]
+*Casting &mdash; [[Irene Lamb]], [[Terry Liebling]], [[Bob Edmiston]]
+*Assistant To Producer &mdash; [[Bunny Alsup]]
+*Assistant To Director &mdash; [[Debbie Shaw]]
+*Assistant To Executive Producer &mdash; [[Jane Bay]]
+*Production Assistants &mdash; [[Barbara Harley]], [[Nick Laws]], [[Charles Wessler]]
+*Stunt Coordinator &mdash; [[Peter Diamond]]
+*Stunt Doubles &mdash; [[Bob Anderson]], [[Colin Skeaping]]
+*Production Accountant &mdash; [[Ron Phipps]]
+*Assistant Accountant &mdash; [[Michael Larkins]]
+*Set Cost-Controller &mdash; [[Ken Gordon]]
+*Location Accountant &mdash; [[Ron Cook]]
+*Still Photographer &mdash; [[George Whitear]]
+*Unit Publicist &mdash; [[Alan Arnold]]
+*Assistant Publicist &mdash; [[Kristen Wing]]
+*Studio Second Unit
+*Directors &mdash; [[Harley Cokliss]], [[John Barry]]
+*Director Of Photography &mdash; [[Chris Menges]]
+*Assistant Director &mdash; [[Dominic Fulford]]
+*Second Assistant Director &mdash; [[Andrew Montgomery]]
+*Location Second Unit
+*Director &mdash; [[Peter Macdonald]]
+*Director Of Photography &mdash; [[Geoff Glover]]
+*Operating Cameraman &mdash; [[Bob Smith]]
+*Assistant Cameramen &mdash; [[John Campbell (cameraman)|John Campbell]], [[Mike Brewster]]
+*Second Assistant Cameramen &mdash; [[John Keen]], [[Greg Dupre]]
+*Dolly Grip &mdash; [[Frank Batt]]
+*Production Manager &mdash; [[Svein Johansen]]
+*Assistant Directors &mdash; [[Bill Westley]], [[Ola Solum]]
+*Production And Mechanical Effects Unit
+*Mechanical Effects Supervision &mdash; [[Nick Allder]]
+*Location Unit Supervisor &mdash; [[Allan Bryce]]
+*Senior Effects Technician &mdash; [[Neil Swan]], [[Dave Watkins]]
+*Robot Fabrication And Supervision &mdash; [[Andrew Kelly]], [[Ron Hone]]
+*Effects Technicians &mdash; [[Phil Knowles]], [[Barry Whitrod]], [[Martin Gant]], [[Brian Eke]], [[Guy Hudson]], [[Dennis Lowe]]
+*Effects Engineering &mdash; [[Roger Nichols]], [[Steve Lloyd]]
+*Electrical Engineer &mdash; [[John Hatt]]
+*Electronics Consultant &mdash; [[Rob Dickinson]]
+*Model Construction &mdash; [[John Pakenham]]
+*Effects Assistants &mdash; [[Alan Poole]], [[Digby Milner]], [[Robert McLaren]]
+*Effects Secretary &mdash; [[Gill Case]]
+*Minature And Optical Effects Unit
+*Effects DirectorOf Photography &mdash; [[Dennis Muren]]
+*Effects Cameramen &mdash; [[Ken Ralston]], [[Jim Veilleux]]
+*Camera Operators &mdash; [[Don Dow]], [[Bill Neil]]
+*Assistant Cameramen &mdash; [[Selwyn Eddy]], [[Jody Westheimer]], [[Rick Fighter]], [[Clint Palmer]], [[Michael McAlister]], [[Paul Huston]], [[Richard Fish]], [[Chris Anderson]]
+*Optical Photography Supervisor &mdash; [[Bruce Nicholson]]
+*Optical Printer Operators &mdash; [[David Berry]], [[Kenneth Smith]], [[Donald Clark]]
+*Optical Line-Up &mdash; [[Warren Franklin]], [[Mark Vargo]], [[Peter Amundson]], [[Loring Doyle]], [[Thomas Rosseter]], [[Tam Pillsbury]], [[James Lim]]
+*Optical Coordinator &mdash; [[Laurie Vermont]]
+*Laboratory Technicians &mdash; [[Tim Geideman]], [[Duncan Myers]], [[Ed Jones]]
+*Art Director-Visual Effects &mdash; [[Joe Johnston]]
+*Assistant Art Director &mdash; [[Nilo Rodis-Jamero]]
+*Stop Motion Animation &mdash; [[Jon Berg]], [[Phil Tippett]]
+*Stop Motion Technicians &mdash; [[Tom St. Amand]], [[Doug Beswick]]
+*Matte Painting Supervisor &mdash; [[Harrison Ellenshaw]]
+*Matte Artists &mdash; [[Ralph McQuarrie]], [[Michael Pangrazio]]
+*Matte Photography &mdash; [[Neil Krepela]]
+*Additional Matte Photography &mdash; [[Michael Lawler]]
+*Matte Photography Assistants &mdash; [[Craig Barron]], [[Robert Elswit]]
+*Chief Model Maker &mdash; [[Lorne Peterson]]
+*Modelshop Foreman &mdash; [[Steve Gawley]]
+*Model Makers &mdash; [[Paul Huston]], [[Tom Rudduck]], [[Michael Fulmer]], [[Samuel Zolltheis]], [[Charles Bailey]], [[Ease Owyeung]], [[Scott Marshall]], [[Marc Thorpe]], [[Wesley Seeds]], [[Dave Carson]], [[Rob Gemmel]], [[Pat McClung]]
+*Animation And Rotoscope Supervisor &mdash; [[Peter Kuran]]
+*Animators &mdash; [[Samuel Comstock]], [[Garry Waller]], [[John Van Vliet]], [[Rick Taylor]], [[Kim Knowlton]], [[Chris Casady]], [[Nina Saxon]], [[Diana Wilson]]
+*Visual Effects Editorial Supervisor &mdash; [[Conrad Buff]]
+*Effects Editor &mdash; [[Michael Kelly]]
+*Assistant Effects Editors &mdash; [[Arthur Repola]], [[Howard Stein]]
+*Apprentice Editor &mdash; [[Jon Thaler]]
+*Production Administrator &mdash; [[Dick Gallegly]]
+*Production Secretary &mdash; [[Patricia Blau]]
+*Production Associate &mdash; [[Thomas Brown]]
+*Production Accountant &mdash; [[Ray Scalice]]
+*Assistant Accountant &mdash; [[Glenn Phillips]], [[Pam Traas]], [[Laura Crockett]]
+*Production Assistant &mdash; [[Jenny Oznowicz]]
+*Transportation &mdash; [[Robert Martin]]
+*Still Photographer &mdash; [[Terry Chostner]]
+*Lab Assistant &mdash; [[Roberto McGrath]]
+*Electronics Systems Designer &mdash; [[Jerry Jeffress]]
+*Systems Programming &mdash; [[Kris Brown]]
+*Electronic Engineers &mdash; [[Lhary Meyer]], [[Mike Mackenzie]], [[Gary Leo]]
+*Special Project Coordinator &mdash; [[Stuart Ziff]]
+*Equipment Engineering Supervisor &mdash; [[Gene Whiteman]]
+*Design Engineer &mdash; [[Mike Bolles]]
+*Machinists &mdash; [[Udo Pampel]], [[Greg Beaumonte]]
+*Draftsman &mdash; [[Ed Tennler]]
+*Special Projects &mdash; [[Gary Platek]]
+*Supervising Stage Technician &mdash; [[T.E. Moehnke]]
+*Stage Technicians &mdash; [[William Beck]], [[Bobby Finley]], [[Leo Loverro]], [[Edward Hirsh]], [[Dick Dova]], [[Ed Breed]]
+*Miniature Pyrotechnics &mdash; [[Joseph Viskocil]], [[Dave Pier]], [[Thaine Morris]]
+*Optical Printer Component Manufacturer &mdash; [[George Randle Co.]]
+*Camera And Movement Design &mdash; [[Jim Beaumonte]]
+*Special Optics Designer &mdash; [[David Grafton]]
+*Special Optics Fabrication &mdash; [[J.L. Wood Optical Systems]]
+*Optical Printer Component Engineering &mdash; [[Fries Engineering]]
+*High Speed Camera Movements &mdash; [[Mitchell Camera Corp.]]
+*Ultra High Speed Camera &mdash; [[Bruce Hill Productions]]
+*Color Timer &mdash; [[Ed Lemke]]
+*Negative Cutting &mdash; [[Robert Hart]], [[Darrell Hixson]]
+*Dolby Consultant &mdash; [[Don Digirolamo]]
+*Additional Optical Effects &mdash; [[Van Der Veer Photo Effects]], [[Modern Film Effects]], [[Ray Mercer & Company]], [[Westheimer Company]], [[Lookout Mountain Films]]
+
+;Special Edition Crew
+*Producer &mdash; [[Rick McCallum]]
+*Editor &mdash; [[Tom M. Christopher|T.M. Christopher]]
+*Sound Designer &mdash; [[Ben Burtt]]
+*Re-Recording Mixer &mdash; [[Gary Summers]]
+*First Assistant Editor &mdash; [[Samuel Hinckley]]
+*Assistant Editor &mdash; [[Robert Marty]]
+*Assistant Avid Editors &mdash; [[Mike Jackson (editor)|Mike Jackson]], [[Robin Lee]]
+*Sound Editor &mdash; [[Teresa Eckton]]
+*Assistant Sound Editor &mdash; [[Lisa Storer]]
+*Re-Recordist &mdash; [[Ronald G. Roumas]]
+*Digital Mix Technician &mdash; [[Gary A. Rizzo]]
+*Archivist &mdash; [[Tim Fox]]
+*Optical Supervisors &mdash; [[Phillip Feiner]], [[Chris Bushman]]
+*Film Restoration Supervisor &mdash; [[Pete Comandini]]
+*Color Timer &mdash; [[Robert J. Raring]]
+*Negative Continuity &mdash; [[Ray Sabo]]
+*Negative Cutter &mdash; [[Bob Hart]]
+*Special Edition Digital Remastering Provided By Skywalker Sound A Lucas Digital Ltd. Company
+*Film Restoration Consultant &mdash; [[Leon Briggs]]
+*Optical Restoration &mdash; [[Pacific Title]]
+*Film Restoration By &mdash; [[YCM Laboratories]]
+*Industrial Light And Magic
+*Visual Effects Supervisor &mdash; [[Dave Carson]]
+*Visual Effects Producer &mdash; [[Tom Kennedy]]
+*Computer Graphics Supervisor &mdash; [[Tom Hutchinson]]
+*Visual Effects Art Director &mdash; [[George Hull]]
+*Visual Effects Editor &mdash; [[Michael McGovern]]
+*Color Timing Supervisor &mdash; [[Bruce Vecchitto]]
+*Visual Effects Coordinator &mdash; [[Lisa Todd]]
+*Digital Effects Artists &mdash; [[Don Butler]], [[Michael Conte]], [[Howard Gersh]], [[Marshall Krasser]], [[Tia Marshall]], [[Stuart Maschwitz]], [[Julie Neary]], [[Ken Nielsen]], [[Eddie Pasquarello]], [[Ricardo Ramos]], [[Tom Rosseter]], [[Lawrence Tan]], [[Paul Theren]], [[Hans Uhlig]], [[Li-Hsein Wei]], [[Ron Woodall]]
+*Digital Matte Artists &mdash; [[Ronn Brown]], [[Eric Chauvin]], [[Brian Flora]], [[William Mather]]
+*3d Matchmove Artist &mdash; [[James Hagedorn]]
+*Digital Paint & Roto Artists &mdash; [[Lisa Drostova]], [[Heidi Zabit]]
+*Chief Creature Maker &mdash; [[Howie Weed]]
+*Model & Creature Makers &mdash; [[Carol Bauman]], [[Don Bies]], [[Giovanni Donovan]], [[Wendy Morton]], [[Anne Polland]], [[Mark Siegel]], [[Steven Walton]]
+*Sabre Group Supervisor &mdash; [[Daniel McNamara]]
+*Sabre Artists &mdash; [[Rita Zimmerman]], [[Chad Taylor]], [[Mary McCulloch]], [[Grant Guenin]], [[Caitlin Content]]
+*Software Research And Development &mdash; [[David Benson]], [[Jim Hourihan]], [[Zoran Kacic-Alesic]], [[Florian Kainz]], [[Jeff Yost]]
+*Digital Scanning Supervisor &mdash; [[Joshua Pines]]
+*Digital Scanning Operators &mdash; [[Randall Bean]], [[Michael Ellis]], [[Earl Beyer]]
+*Negative Supervisor &mdash; [[Doug Jones]]
+*Negative Line-Up &mdash; [[Andrea Biklian]], [[Tim Geideman]]
+*Projectionist &mdash; [[Tim Greenwood]]
+*Digital Plate Restoration &mdash; [[Melissa Monterrosa]], [[Mike Van Eps]], [[Wendy Hendrickson]]
+*Assistant Visual Effects Art Director &mdash; [[Alex Laurant]]
+*Assistant Visual Effects Editor &mdash; [[John Bartle]]
+*Video Editor &mdash; [[Angela Leaper]]
+*Animatic Artist &mdash; [[Jonathan Rothbart]]
+*Digital Effects Technical Assistants &mdash; [[Okan Ataman]], [[Peter Chesloff]], [[Joshua Levine]], [[Dawn Matheson]], [[Daniel Shumaker]]
+*Digital Effects Resource Assistant &mdash; [[Daniel Brimer]]
+*Visual Effects Production Staff &mdash; [[Julie Creighton]], [[Joshua Marks]]
+*Video Assistants &mdash; [[Dawn Martin]], [[Wendy Bell]]
+*Production Engineering &mdash; [[Ken Beyer]], [[Ken Corvino]], [[Gary Meyer]]
+*Aerial Camera System By Wesscam Camera Systems (Europe)
+*Aerial Cameraman &mdash; [[Ron Goodman]]
+*Assistant &mdash; [[Margaret Herron]]
+*Helicopter Supplied By Dollar Air Services Limited
+*Pilot &mdash; [[Mark Wolfe]]
+*Cloud Plates Photographed With Astrovision(c) By Continental Camera Systems Inc.
+*Snow Vehicles Supplied By Aktiv Fischer
+*R2 Bodies Fabricated By White Horse Toy Company
+*Special Assistance From Giltspur Engineering And Compair
+*Photographed On The Hardengerjekulan Glacier, Finse, Norway And At Emi - Elstree Studios, Borehamwood, England
+*Music Recorded At Anvil Studios, Denham, England
+*Re-Recording At Samuel Goldwyn Studios, Los Angeles, California
+*Special Visual Effects Produced At Industrial Light And Magic, Marin County, California
+|uncredited=
+*'''[[Bob Anderson]]''' as the stunt double for '''[[Anakin Skywalker|Darth Vader]]'''
+*'''[[Morris Bush]]''' as '''[[Dengar]]'''
+*'''[[Mark Capri]]''' as '''Officer [[M'kae]]'''
+*'''[[Shaun Curry]]''' as '''Unnamed Rebel commander'''
+*'''[[Marjorie Eaton]]''' {{C|pre-2004 releases}} and '''[[Ian McDiarmid]]''' {{C|post-2004 releases}} as '''the Emperor'''
+*'''[[Stephanie English]]''' as '''Unnamed Rebel Technician'''
+*'''[[Alan Harris]]''' as '''[[Merrill]]''', '''[[Bossk'wassak'Cradossk|Bossk]]''', ''[[Stormtrooper]]''
+*'''[[James Earl Jones]]''' as the voice of '''[[Anakin Skywalker|Darth Vader]]'''
+*'''[[Ralph McQuarrie]]''' as '''General [[Pharl McQuarrie|McQuarrie]]'''
+*'''[[Ralpph Morse]]''' as '''[[Stormtrooper]]''', '''Imperial Comms Officer''', '''Rebel Soldier'''
+*'''[[John Morton]]''' as '''[[Boba Fett]]''' {{C|one scene}}
+*'''[[Cathy Munro]]''' as '''[[Zuckuss]]''', '''[[Wiorkettle]]'''
+*'''[[C. Andrew Nelson]]''' as '''Darth Vader''' {{C|one brief sequence, post-1997 releases}}
+*'''[[Chris Parsons]]''' as '''[[4-LOM]]''', '''[[K-3PO]]''', '''Stormtrooper'''
+*'''[[Quentin Pierre]]''' as '''[[Isdam Edian/Legends|Edian]]'''
+*'''[[Howie Weed]]''' {{C|post-1997 releases}} as '''[[Wampa|Snow Creature]]'''
+*'''[[Jason Wingreen]]''' {{C|pre-2004 releases}} and '''[[Temuera Morrison]]''' {{C|post-2004 releases}} as the voice of '''Boba Fett'''
+*'''[[Treat Williams]]''' as '''Echo Base Trooper'''
+}}
+
+==Appearances==
+{{App
+|c-characters=
+*[[2-1B]] {{1st}}
+*[[4-LOM]] {{1st}}
+*[[Wedge Antilles]]
+*[[Cal Alder]] {{1st}}
+*[[Bewil]] {{1st}}
+*[[Bossk'wassak'Cradossk]] {{1st}}
+*[[C-3PO]]
+*[[Cabbel]] {{1st}}
+*[[Trey Callum]] {{1st}}
+*[[Landonis Balthazar Calrissian]] {{1st}}
+*[[Canonhaus]] {{1st}} {{Hologram}}
+*[[Chewbacca]]
+*[[Chiffonage]] {{1st}}
+*[[CR978]] {{1st}}
+*[[Dengar]] {{1st}}
+*[[Bren Derlin]] {{1st}}
+*[[Jabba Desilijic Tiure]] {{Mo}}
+*[[E-3PO (Bespin)|E-3PO]] {{1st}}
+*[[Isdam Edian]] {{1st}}
+*[[Toryn Farr]] {{1st}}
+*[[Boba Fett]] {{1st}}
+*[[Ledick Firest]] {{1st}}
+*[[FS-451]] {{1st}}
+*[[FX-7]] {{1st}}
+*[[Reyé Hollis]] {{1st}}
+*[[Willrow Hood]] {{1st}}
+*[[IG-88B]] {{1st}}
+*[[JA189]] {{1st}} {{C|Indirect appearance only}}
+*[[Tigran Jamiro]] {{1st}}
+*[[Tigran Jamiro's assistant]] {{1st}}
+*[[Wes Janson]] {{1st}}
+*[[Tiaan Jerjerrod]] {{C|Introduced in [[The Star Wars Trilogy Special Edition|''Special Edition'']]}}
+*[[K-3PO]] {{1st}}
+*[[Obi-Wan Kenobi]] {{Ghost}}
+*[[Derek Klivian]] {{1st}}
+*[[L3-37]] {{1stm}} {{Imo}} {{Ret}}
+*[[Lastok]] {{1st}}
+*[[Lennox]] {{1st}}
+*[[Lobot]] {{1st}}
+*[[Deena Lorn]] {{1st}}
+*[[M'Kae]] {{1st}}
+*[[Pharl McQuarrie]] {{1st}}
+*[[Murra (tauntaun)|Murra]] {{1st}}
+*[[Romas Navander]] {{1st}}
+*[[Lorth Needa]] {{1st}}
+*[[Nemet]] {{1st}}
+*[[Nevar]] {{1st}} {{C|Walker only}}
+{{!}}
+*[[OL701]] {{1st}} {{C|Starfighter only}}
+*[[Leia Skywalker Organa Solo|Leia Organa]]
+*[[Kesin Ommis]] {{1st}}
+*[[Kendal Ozzel]] {{1st}}
+*[[Darth Sidious|Sheev Palpatine]] {{1st}} {{Hologram}}
+*[[Firmus Piett]] {{1st}}
+*[[Penrie]] {{1st}} {{C|Starfighter only}}
+*[[R-3PO]] {{1st}}
+*[[R2-D2]]
+*[[R3-A2]] {{1st}}
+*[[R3-Y2]] {{1st}}
+*[[R5-M2]] {{1st}}
+*[[Dak Ralter]] {{1st}}
+*[[Ciena Ree]] {{1stm}} {{Imo}}
+*[[Riba]] {{1st}}
+*[[Carlist Rieekan]] {{1st}}
+*[[Will Scotian]] {{1st}}
+*[[Zev Senesca]] {{1st}}
+*[[Wyron Serper]] {{1st}}
+*[[Sheckil]] {{1st}}
+*[[Skorr]] {{1stm}} {{Imo}}
+*[[Luke Skywalker]]
+*[[Smiley (mynock)|Smiley]] {{1st}}
+*[[Han Solo]]
+*[[Helder Spinoza]] {{1st}}
+*[[Starck]] {{1st}} {{C|Walker only}}
+*[[Suba (lieutenant)|Suba]] {{1st}}
+*[[Sy-O]] {{1st}}
+*[[Tarrin]] {{1st}}
+*[[Tig]] {{1st}}
+*[[TK-5187]] {{1st}}
+*[[Treadwell]] {{1st}}
+*[[TS-4068]] {{1st}}
+*[[Ugloste]] {{1st}}
+*[[Unidentified Echo Base deck officer]] {{1st}}
+*[[Unidentified rebel (Echo Base)|Unidentified rebel]] {{1st}} {{Voice}}
+*[[Unidentified wampa]] {{1st}}
+*[[Anakin Skywalker|Darth Vader]] {{1stID|Anakin Skywalker}}
+*[[Kit Valent]] {{1st}}
+*[[Maximilian Veers]] {{1st}}
+*[[Chase Wilsorr]] {{1st}}
+*[[Nash Windrider]] {{1stm}} {{Imo}}
+*[[XJ9-CS14]] {{1st}}
+*[[Yoda]] {{1st}}
+*[[Yoxgit]] {{1st}}
+*[[Zuckuss]] {{1st}}
+|l-characters=
+*[[2-1B/Legends|2-1B]]
+*[[4-LOM/Legends|4-LOM]]
+*[[Cal Alder/Legends|Cal Alder]]
+*[[Wedge Antilles/Legends|Wedge Antilles]]
+*[[Ardan]]
+*[[Bachenkall]]
+*[[Bewil/Legends|Bewil]]
+*[[Jerrol Blendin]]
+*[[Vildar Blin]]
+*[[Bossk/Legends|Bossk]]
+*[[Brandei]]
+*[[Bursk]]
+*[[Cabbel/Legends|Cabbel]]
+*[[Trey Callum/Legends|Trey Callum]]
+*[[Lando Calrissian/Legends|Lando Calrissian]]
+*[[C-3PO/Legends|C-3PO]]
+*[[Cecius]]
+*[[Chewbacca/Legends|Chewbacca]]
+*[[Beryl Chiffonage]]
+*[[Tian Chyler]]
+*[[Dainsom]]
+*[[Tarrin Datch]]
+*[[Dengar/Legends|Dengar]]
+*[[Derdram]]
+*[[Jann Derem]]
+*[[Bren Derlin/Legends|Bren Derlin]]
+*[[Desanne]]
+*[[Drazin]]
+*[[E-3PO (Bespin)/Legends|E-3PO]]
+*[[Isdam Edian/Legends|Isdam Edian]]
+*[[Gir Endac]]
+*[[Toryn Farr/Legends|Toryn Farr]]
+*[[Boba Fett/Legends|Boba Fett]]
+*[[FX-7/Legends|FX-7]]
+*[[Grugnak]]
+*[[Hapnix]]
+*[[Nala Hetsime]]
+*[[Duncan Hikmat]]
+*[[Reyé Hollis/Legends|Reyé Hollis]]
+*[[Willrow Hood/Legends|Willrow Hood]]
+*[[Treva Horme]]
+*[[Hurdiss]]
+*[[IG-88B/Legends|IG-88B]]
+*[[Jabba Desilijic Tiure/Legends|Jabba Desilijic Tiure]] {{Mo}}
+{{!}}
+*[[Tigran Jamiro/Legends|Tigran Jamiro]]
+*[[Tigran Jamiro's assistant/Legends|Tigran Jamiro's assistant]]
+*[[Wes Janson/Legends|Wes Janson]]
+*[[Corman Jeihn]]
+*[[Tiaan Jerjerrod/Legends|Tiaan Jerjerrod]]
+*[[K-3PO/Legends|K-3PO]]
+*[[Vekozev Kabir]]
+*[[Vigrat Pomoner]] {{C|Fighter only}}
+*[[Samara Kebyc]]
+*[[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]] {{Ghost}}
+*[[King of the Dragonsnakes]]
+*[[Derek Klivian/Legends|Derek Klivian]]
+*[[Xamuel Lennox]]
+*[[Tenk Lenso]]
+*[[Lobot/Legends|Lobot]]
+*[[Fin Mak'lath]]
+*[[Alec Mard]]
+*[[Fantes Mer'darro]]
+*[[Bislav Merril]]
+*[[Tarn Mison]]
+*[[M'Kae/Legends|M'kae]]
+*[[Utris M'Toc]]
+*[[Narthax]]
+*[[Romas Navander/Legends|Romas Navander]]
+*[[Lorth Needa/Legends|Lorth Needa]]
+*[[Allen Neff]]
+*[[Nemet/Legends|Nemet]]
+*"[[One-Arm]]"
+*[[Unidentified wampa/Legends|Unidentified wampa]]
+*[[Leia Organa Solo|Leia Organa]]
+*[[Kendal Ozzel/Legends|Kendal Ozzel]]
+*[[Palpatine/Legends|Palpatine/Darth Sidious]] {{Hologram}}
+*[[Nichos Panib]]
+*[[Lee Phenets]]
+*[[Firmus Piett/Legends|Firmus Piett]]
+*[[Jek Pugilio]]
+*[[Corman Quien]]
+*[[R-3PO/Legends|R-3PO]]
+*[[R2-D2/Legends|R2-D2]]
+*[[R3-A2/Legends|R3-A2]]
+*[[R3-Y2/Legends|R3-Y2]]
+*[[R5-M2/Legends|R5-M2]]
+*[[Beryann Raleg]]
+*[[Dak Ralter/Legends|Dak Ralter]]
+*[[Retwin]]
+*[[Tamizander Rey]]
+{{!}}
+*[[Carlist Rieekan/Legends|Carlist Rieekan]]
+*[[Ark Rutendo]]
+*[[Bialar Selis]]
+*[[Jake Sirrom]]
+*[[Will Scotian/Legends|Will Scotian]]
+*[[Zev Senesca/Legends|Zev Senesca]]
+*[[Wyron Serper/Legends|Wyron Serper]]
+*[[Sheckil/Legends|Sheckil]]
+*[[Skorr/Legends|Skorr]] {{1stm}} {{Imo}}
+*[[Luke Skywalker/Legends|Luke Skywalker]]
+*[[Gemmer Sojan]] {{1st}} {{Ret}}
+*[[Pedar Solardo]]
+*[[Han Solo/Legends|Han Solo]]
+*[[Jell Spiel]]
+*[[Helder Spinoza/Legends|Helder Spinoza]]
+*[[Suba (lieutenant)/Legends|Suba]]
+*[[Adam Swiftgale]]
+*[[Razell Tameron]]
+*[[Palo Torshan]]
+*[[Ugloste/Legends|Ugloste]]
+*[[Anakin Skywalker/Legends|Darth Vader]]
+*[[Shawn Valdez]]
+*[[Kit Valent/Legends|Kit Valent]]
+*[[Vandolay]]
+*[[Maximilian Veers/Legends|Maximilian Veers]]
+*[[Venka]]
+*[[Jeroen Webb]]
+*[[WED-1016 'Techie' Droid]]
+*[[Wiorkettle]]
+*[[Yoda/Legends|Yoda]]
+*[[Kulbart Zamoon]]
+*[[Habeer Zignean]]
+*[[Zuckuss/Legends|Zuckuss]]
+'''Unidentified characters'''
+*[[Unidentified Imperial captain (asteroid victim)|Unidentified Asteroid victim officer]]
+*[[Unidentified Cloud City technician]]
+*[[Unidentified Imperial captain (Executor, Bespin)|Unidentified Imperial captain]]
+*[[Unidentified Imperial officer (Avenger)|Unidentified Imperial officer]]
+*[[Unidentified Rebel major]]
+*[[Unidentified Rebel technician (Echo Base)|Unidentified Rebel technician]]
+|c-creatures=
+*[[Gundark]] {{1stm}}
+*[[Nerf]] {{1stm}}
+*[[Parasite]] {{1st}}
+**[[Mynock]] {{1st}}
+*[[Reptavian]] {{1st}}
+**[[Bogwing]] {{1st}}
+*[[Reptile]]
+**[[Dragonsnake]] {{1st}}
+**[[Lizard]] {{1st}}
+***[[Nudj]] {{1st}}
+***[[Sleen]] {{1st}}
+***[[Tauntaun]] {{1st}}
+**[[Snake]] {{1st}}
+***[[Dagobah python]] {{1st}}
+***[[Vine snake]] {{1st}}
+*[[Wampa]] {{1st}}
+|l-creatures=
+*[[Bogwing/Legends|Bogwing]]
+*[[Dragonsnake/Legends|Dragonsnake]]
+*[[Exogorth/Legends|Exogorth]]
+*[[Gundark/Legends|Gundark]] {{Mo}}
+*[[Mynock/Legends|Mynock]]
+*[[Nerf/Legends|Nerf]] {{Mo}}
+*[[Nudj/Legends|Nudj]]
+*[[Sleen/Legends|Sleen]]
+*[[Tauntaun/Legends|Tauntaun]]
+*[[Vine snake/Legends|Vine snake]]
+*[[Wampa/Legends|Wampa]]
+|c-droids=
+*[[Assassin droid]] {{1st}}
+**[[IG-series]] {{1st}}
+***[[IG-88 assassin droid]] {{1st}}
+*[[Astromech droid]]
+**[[R-series]]
+***[[R2 series astromech droid]]
+***[[R3-series astromech droid]]
+***[[R5 series astromech droid|R5 unit]]
+*[[Medical droid]] {{1st}}
+**[[2-1B-series medical droid]] {{1st}}
+**[[FX-series medical assistant droid]] {{1st}}
+**[[Gand med droid]] {{1st}}
+*[[Pilot droid]] {{1st}}
+**[[Piloting droid]] {{1st}}
+*[[Power droid]]
+**[[EG-series power droid]]
+**[[GNK-series power droid]]
+{{!}}
+*[[Protocol droid]]
+**[[3PO-series protocol droid]]
+**[[LOM-series protocol droid]] {{1st}}
+*[[Probe droid]] {{1st}}
+**[[Viper probe droid]] {{1st}}
+*[[Repair droid]]
+**[[MSE series]]
+***[[MSE-6 series repair droid]]
+**[[WED Treadwell repair droid]]
+***[[WED 15 "Septoid 2" Treadwell toolkit droid]] {{1st}}
+|l-droids=
+*[[Assassin droid/Legends|Assassin droid]]
+**[[IG-88 assassin droid/Legends|IG-88 assassin droid]]
+*[[Medical droid/Legends|Medical droid]]
+**[[2-1B-series medical droid]]
+**[[FX-7 medical assistant droid]]
+*[[Power droid/Legends|Power droid]]
+**[[EG-4 power droid]]
+*[[Protocol droid]]
+**[[3PO-series protocol droid/Legends|3PO-series protocol droid]]
+**[[LOM-series protocol droid]]
+*[[R2-series astromech droid]]
+*[[Viper probe droid/Legends|Viper probe droid]]
+*[[WED-1016 'Techie' Droid]]
+|c-events=
+*[[Imperial Era]]
+**[[Evacuation of Yavin 4]] {{C|First mentioned, in the opening crawl}}
+**[[Galactic Civil War]]
+***[[Battle of Hoth]] {{1st}}
+***[[Battle of Yavin]] {{Mo}}
+***[[Duel on Cloud City]] {{1st}}
+***[[Escape from Cloud City]] {{1st}}
+|l-events=
+*[[Battle of Yavin/Legends|Battle of Yavin]] {{Mo}}
+*[[Mission to Ord Mantell (0 ABY)|Mission to Ord Mantell]] {{1stm}}
+*[[Evacuation of Yavin]] {{Mo}}
+*[[Battle of Hoth/Legends|Battle of Hoth]]
+*[[Duel on Cloud City/Legends|Duel on Cloud City]]
+*[[Occupation of Bespin]]
+|c-locations=
+*[[The galaxy]]
+**[[Backup Rendezvous Point Gamma-Nine]] {{1st}}
+**[[Juris sector]] {{1st}}
+**[[Ord Mantell]] {{1stm}}
+**[[Outer Rim Territories]]
+***[[Greater Javin]] {{1st}}
+****[[Anoat sector]] {{1st}}
+*****[[Anoat system]] {{1st}}
+*****[[Bespin system]] {{1st}}
+******[[Bespin]] {{1st}}
+*******[[Cloud City]] {{1st}}
+********[[Administrator's Palace]] {{1st}}
+*********[[Rinetta dining room]] {{1st}}
+********[[East Platform]] {{1st}}
+********[[Grand Bespin Hotel]] {{1st}}
+********[[Imperial Garrison (Cloud City)|Imperial Garrison]] {{1stm}} {{Imo}}
+********[[Platform 327]] {{1st}}
+*****[[Hoth system]] {{1st}}
+******[[Hoth]] {{1st}}
+*******[[Ceyan Range]] {{1st}}
+*******[[Clabburn Range]] {{1st}}
+********[[Echo Base]] {{1st}}
+*********[[Echo Base medical center]] {{1st}}
+********[[South Ridge]] {{1st}} {{1stID|South Slope}}
+*******[[Echo Station 3-T-8]] {{1st}}
+*******[[Echo Station 5-7]] {{1st}}
+*******[[Lanteel Glacier]] {{1st}}
+*******[[Nev Ice Flow]] {{1st}}
+*******[[North Ridge]] {{1st}}
+*******[[Station 3-8]] {{1stm}}
+*******[[Zone Twelve|Zone twelve]] {{1st}}
+******[[Sector Four (Hoth system)|Sector Four]] {{1st}}
+******[[Hoth (star)]] {{1st}}
+******[[Hoth asteroid belt]] {{1st}}
+***[[Sluis sector]] {{1st}}
+****[[Dagobah system]] {{1st}}
+*****[[Dagobah]] {{1st}}
+******[[Cave of Evil]] {{1st}}
+******[[Dragonsnake Bog]] {{1st}}
+******[[Yoda's Hut]] {{1st}}
+***[[Tatooine]] {{Mo}} {{1stID|Tatooine}}
+****[[Jundt Massif]] {{1stm}} {{Imo}}
+***[[Yavin 4]] {{C|Indirectly mentioned only; in opening crawl}}
+****[[Great Temple]] {{C|Indirectly mentioned only; in opening crawl}}
+**[[Rendezvous Point Delta-Three]] {{1stm}} {{Imo}}
+|l-locations=
+*[[Anoat system/Legends|Anoat system]]
+*[[Bespin system/Legends|Bespin system]]
+**[[Bespin/Legends|Bespin]]
+***[[BesGas Three]]
+***[[Cloud City/Legends|Cloud City]]
+****[[Administrator's Palace/Legends|Administrator's Palace]] {{1st}}
+****[[Beldon's Eye]]
+****[[Carbon-freezing chamber/Legends|Carbon-freezing chamber]]
+****[[Cloud City Core]]
+****[[Cloud City dining room]]
+****[[Core Tunnel]]
+****[[East Platform/Legends|East Platform]]
+****[[Incinerator room/Legends|Incinerator room]]
+****[[North Corridor]]
+****[[Platform 327/Legends|Platform 327]]
+****[[Port Town District]]
+****[[Cloud City Security Tower|Security Tower]]
+*****[[Level 139]]
+******[[Detention Cell 5305]]
+****[[West Gallery]]
+****[[Yarith Bespin/Legends|Yarith Bespin]]
+***[[Floating health spa]]
+*[[Dagobah system/Legends|Dagobah system]]
+**[[Dagobah/Legends|Dagobah]]
+***[[Dragonsnake Bog/Legends|Dragonsnake Bog]]
+***[[Dark Side Cave]]
+***[[Yoda's hut]]
+{{!}}
+*[[Haven (rendezvous point)|Haven]]
+*[[Hoth system/Legends|Hoth system]]
+**[[Hoth asteroid field]]
+***[[Big One]]
+**[[Hoth/Legends|Hoth]]
+***[[Clabburn Range/Legends|Clabburn Range]]
+****[[South Ridge/Legends|South Ridge]]
+*****[[Echo Base/Legends|Echo Base]]
+******[[Bay 3]]
+******[[Echo Base medical lab]]
+****[[North Ridge/Legends|North Ridge]]
+*****[[Lanteel Glacier/Legends|Lanteel Glacier]]
+***[[Echo Station 3-8]]
+***[[Echo Station 3-T-8/Legends|Echo Station 3-T-8]]
+***[[Echo Station 5-7/Legends|Echo Station 5-7]]
+***[[Zone Twelve/Legends|Zone Twelve]]
+*[[Ione system/Legends|Ione system]]
+*[[Ord Mantell/Legends|Ord Mantell]] {{Mo}}
+*[[Qeimet system]]
+*[[Tatooine/Legends|Tatooine]] {{Mo}}
+|c-organizations=
+*[[Administrator]] {{1st}}
+*[[Alliance to Restore the Republic]]
+**[[Alliance Military]]
+***[[Rebel Alliance Navy]]
+****[[Rebel Alliance Starfighter Corps]]
+*****[[Group 7]] {{1stm}}
+*****[[Group 10]] {{1stm}}
+*****[[Rogue Squadron]] {{1st}}
+******[[Rogue Eleven]] {{1stm}}
+******[[Rogue Four]] {{1st}}
+******[[Rogue Leader]] {{1st}}
+******[[Rogue Ten]] {{1stm}}
+******[[Rogue Three]] {{1st}}
+******[[Rogue Two]] {{1st}}
+****[[Rebel pilot]]
+***[[Rebel Alliance Intelligence Service]] {{1st}}
+***[[Echo Base High Command]] {{1st}}
+***[[Echo Seven]] {{1st}}
+***[[Echo Three]] {{1st}}
+***[[Alliance Army]]
+****[[Cold-weather Soldier]] {{1st}}
+****[[Rebel trooper]]
+****[[Tauntaun Rider]] {{1st}}
+***[[Alliance officer]]
+*[[Baron Administrator]] {{1st}}
+*[[Bespin Wing Guard]] {{1st}}
+*[[Bounty hunter]]
+*[[Chief of Security]] {{1st}}
+*[[Controller]] {{1st}}
+*[[Findsman]] {{1st}}
+*[[Galactic Empire]]
+**[[Galactic Emperor]] {{1st}} {{Hologram}}
+**[[Imperial Military]]
+***[[Imperial Army]]
+****[[Imperial combat driver]] {{1st}}
+*****[[AT-AT pilot]] {{1st}}
+****[[Stormtrooper Corps]]
+*****[[501st Legion]]
+******[[Blizzard Force]] {{1st}}
+******[[Deena's squad]] {{1st}}
+******[[Thundering Herd]] {{1st}}
+*****[[Cold weather assault stormtrooper]] {{1st}}
+*****[[Stormtrooper]]
+****[[Vehicle commander]] {{1st}}
+***[[Imperial Navy]]
+****[[Death Squadron]] {{1st}}
+****[[Imperial Navy Trooper]]
+****[[Imperial Starfighter Corps]]
+*****[[Obsidian Squadron]] {{1st}}
+*****[[Imperial Starfighter Pilot|TIE fighter pilot]]
+**[[Imperial Officer Corps]]
+***[[Imperial officer]]
+****[[Imperial Navy's officer corps]]
+{{!}}
+*[[Gambler]] {{1stm}}
+*[[Gunner]]
+*[[House of Organa]]
+**[[Prince]]ss
+*[[Jedi]]
+**[[Jedi Order]] {{1st}}
+***[[Jedi Knight]] {{Mo}}
+***[[Jedi Master]] {{1stID|Jedi Master}}
+***[[Padawan]]
+*[[Information broker]]
+*[[Jerjerrod family]] {{C|Introduced in [[The Star Wars Trilogy Special Edition|''Special Edition'']]}}
+*[[Millennium Collective]] {{1stm}} {{Imo}}
+*[[Mining Guild]] {{1stm}}
+*[[Professor]] {{1stm}} {{C|as insult}}
+*[[Officer]]
+**[[Admiral]]
+**[[Captain]]
+**[[Commander]]
+**[[Communications Officer]] {{1st}}
+**[[Deck officer]] {{1st}}
+**[[Lieutenant]] {{Mo}}
+**[[Logistics officer]] {{1st}}
+**[[Major]] {{1st}}
+**[[Sergeant major]] {{1st}}
+**[[Tracking officer]] {{1st}}
+*[[Security officer]] {{1st}}
+*[[Sith]]
+**[[Dark Lord of the Sith]]
+**[[Darth]]
+**[[Sith apprentice]]
+**[[Sith Lord]]
+**[[Sith Master]] {{1st}} {{Hologram}}
+*[[Smuggler]]
+*[[Soldier]]
+*[[Technician]]
+|l-organizations=
+*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]
+**[[Alliance Army/Legends|Alliance Army]]
+**[[Alliance Special Forces/Legends|Alliance Special Forces]]
+**[[Alliance Fleet]]
+**[[Alliance Starfighter Corps]]
+***[[Rogue Squadron/Legends|Rogue Squadron]]
+*[[Baron Administrator/Legends|Baron Administrator]]
+*[[Cloud City Control]]
+**[[Bespin Wing Guard/Legends|Bespin Wing Guard]]
+*[[Galactic Empire/Legends|Galactic Empire]]
+**[[Galactic Emperor/Legends|Galactic Emperor]] {{Hologram}}
+**[[Imperial Army/Legends|Imperial Army]]
+***[[Thundering Herd/Legends|Thundering Herd]]
+***[[Stormtrooper/Legends|Stormtrooper]]
+****[[501st Legion/Legends|501st Legion]]
+****[[Cold assault stormtrooper|Snowtrooper]]
+*****[[Blizzard Force/Legends|Blizzard Force]]
+*****[[Snow Hawks]]
+**[[Imperial Navy/Legends|Imperial Navy]]
+***[[Death Squadron/Legends|Death Squadron]]
+{{!}}
+*[[Jedi Order/Legends|Jedi Order]]
+**[[Grand Master/Legends|Grand Master]]
+**[[Jedi Master/Legends|Jedi Master]]
+*[[Mining Guild/Legends|Mining Guild]] {{Mo}}
+*[[Order of the Sith Lords]]
+**[[Dark Lord of the Sith/Legends|Dark Lord of the Sith]]
+**[[Sith apprentice/Legends|Sith apprentice]]
+**[[Sith Master/Legends|Sith Master]] {{Hologram}}
+|c-species=
+*[[Exogorth]] {{1st}}
+*[[Gand]] {{1st}}
+**[[Breathing Gand]] {{1st}}
+*[[Human]]
+**[[Alderaanian]]
+**[[Chandrilan]] {{1st}}
+**[[Cloning|Clone]]
+**[[Corellian]]
+**[[Lothalite]] {{1st}} {{C|Starfighter only}}
+**[[Naboo (people)|Naboo]] {{1st}}
+*[[Hutt]] {{Mo}}
+*[[Lutrillian]]
+*[[Snivvian]]
+*[[Trandoshan]] {{1st}}
+*[[Ugnaught]] {{1st}}
+*[[Wookiee]]
+*[[Yoda's species]] {{1st}}
+|l-species=
+*[[Balosar (species)/Legends|Balosar]] {{Ret}}
+*[[Gand/Legends|Gand]]
+*[[Human/Legends|Human]]
+*[[Imzig]] {{C|Cut}}
+*[[Lutrillian/Legends|Lutrillian]]
+*[[Snivvian/Legends|Snivvian]]
+*[[Trandoshan/Legends|Trandoshan]]
+*[[Ugnaught/Legends|Ugnaught]]
+*[[Wookiee/Legends|Wookiee]]
+*[[Yoda's species/Legends|Yoda's species]]
+|c-vehicles=
+*[[Death Star]] {{Mo}}
+**[[DS-1 Death Star Mobile Battle Station]] {{Mo}}
+*[[Hyperdrive pod]] {{1st}}
+*[[Repulsorcraft]]
+**[[Carbonite storage repulsor sled]] {{1st}}
+**[[Cloud car]] {{1st}}
+***[[Storm IV Twin-Pod cloud car]] {{1st}}
+**[[Laser-ice cutter]] {{1st}}
+**[[Speeder]]
+***[[Airspeeder]]
+****[[T-47 airspeeder]] {{1st}}
+*****[[Snowspeeder]] {{1st}}
+**[[Troop carrier]] {{1st}}
+***[[Rebel Troop Carrier]] {{1st}}
+*[[Starship]]
+**[[Bomber]]
+***[[Light bomber]] {{1st}}
+**[[Capital ship]]
+***[[Dreadnought]] {{1st}}
+****[[Star Dreadnought]] {{1st}}
+*****[[Executor-class Star Dreadnought|''Executor''-class Star Dreadnought]] {{1st}}
+******''[[Executor]]'' {{1st}}
+***[[Frigate]] {{1st}}
+****[[EF76 Nebulon-B escort frigate]] {{1st}}
+*****''[[Redemption]]'' {{1st}}
+***[[Star Destroyer]]
+****[[Imperial-class Star Destroyer|''Imperial''-class Star Destroyer]]
+*****[[Imperial I-class Star Destroyer|''Imperial I''-class Star Destroyer]]
+******[[Conquest (Imperial I-class)|''Conquest'']]
+******''[[Devastator]]''
+*****[[Imperial II-class Star Destroyer|''Imperial II''-class Star Destroyer]] {{1st}}
+******''[[Avenger]]'' {{1st}}
+******[[Stalker|''Stalker'']] {{1st}}
+******''[[Tyrant]]'' {{1st}}
+******''[[Ultimatum]]'' {{1st}} {{Ret}}
+**[[Firespray-31-class patrol and attack craft|''Firespray-31''-class patrol and attack craft]] {{1st}}
+***''[[Slave I]]'' {{1st}}
+**[[Freighter]]
+***[[Light freighter]]
+****[[YT-1300 light freighter]]
+*****''[[Millennium Falcon]]''
+**[[Hospital ship]] {{1st}}
+**[[Shuttle]]
+***[[Abecederian line]] {{C|Introduced in [[The Star Wars Trilogy Special Edition|''Special Edition'']]}}
+****[[Lambda-class T-4a shuttle|''Lambda''-class T-4a shuttle]] {{C|Introduced in [[The Star Wars Trilogy Special Edition|''Special Edition'']]}}
+*****''[[ST 321]]'' {{C|Introduced in [[The Star Wars Trilogy Special Edition|''Special Edition'']]}}
+**[[Starfighter]]
+***[[TIE line]]
+****[[TIE/ln space superiority starfighter]]
+****[[TIE/sa bomber]] {{1st}}
+****[[TIE/sh shuttle]] {{1st}}
+***[[X-wing starfighter]]
+****[[T-65B X-wing starfighter]]
+*****[[Red Five (T-65B X-wing starfighter)|''Red Five'']]
+***[[BTL Y-wing starfighter|Y-wing starfighter]]
+****[[BTL-A4 Y-wing assault starfighter/bomber]]
+**[[Transport]]
+***[[GR-75 medium transport]] {{1st}}
+****''[[Bright Hope]]'' {{1st}}
+****''[[Quantum Storm]]'' {{1st}}
+**[[Unidentified Rebel Alliance vessel]] {{1st}}
+*[[Train]] {{1st}} {{C|Introduced in [[The Star Wars Trilogy Special Edition|''Special Edition'']]}}
+*[[Walker]] {{1st}}
+**[[All-terrain vehicle]] {{1st}}
+***[[All Terrain Armored Transport]] {{1st}}
+****[[All Terrain Armored Transport (Galactic Civil War)]] {{1st}}
+*****''[[Blizzard 1]]'' {{1st}}
+*****''[[Blizzard 2]]'' {{1st}}
+*****''[[Blizzard 4]]'' {{1st}}
+*****''[[Blizzard 6]]'' {{1st}}
+*****''[[Blizzard 8]]'' {{1st}}
+*****''[[Blizzard 9]]'' {{1st}}
+***[[All Terrain Scout Transport]] {{1st}}
+|l-vehicles=
+*[[All Terrain Armored Transport/Legends|All Terrain Armored Transport]]
+*[[All Terrain Scout Transport/Legends|All Terrain Scout Transport]]
+*[[Cannon sled]] {{1st}}
+*[[Commuter tram]]
+*[[Rebel personnel carrier/Legends|Rebel personnel carrier]]
+*[[Storm IV Twin-Pod cloud car/Legends|Storm IV Twin-Pod cloud car]]
+*[[T-47 airspeeder/Legends|T-47 airspeeder]]
+*[[Starship/Legends|Starship]]
+**[[EF76 Nebulon-B escort frigate/Legends|EF76 Nebulon-B escort frigate]]
+***[[Redemption/Legends|''Redemption'']]
+**[[Firespray-31-class patrol and attack craft/Legends|''Firespray-31''-class patrol and attack craft]]
+***[[Slave I/Legends|''Slave I'']]
+**[[Freighter/Legends|Freighter]]
+***[[YT-1300 light freighter/Legends|YT-1300 light freighter]]
+****[[Millennium Falcon/Legends|''Millennium Falcon'']]
+**[[GR-75 medium transport/Legends|GR-75 medium transport]]
+**[[Shuttle/Legends|Shuttle]]
+***[[Lambda-class T-4a shuttle/Legends|''Lambda''-class T-4a shuttle]] {{C|post-[[1997]] releases}}
+****[[ST 321/Legends|''ST 321'']] {{C|post-[[1997]] releases}}
+***[[TIE/sh VIP shuttle|TIE shuttle]]
+**[[Star Destroyer/Legends|Star Destroyer]]
+***[[Executor-class Star Dreadnought/Legends|''Executor''-class Star Dreadnought]]
+***[[Imperial I-class Star Destroyer/Legends|''Imperial I''-class Star Destroyer]]
+***[[Imperial II-class Star Destroyer/Legends|''Imperial II''-class Star Destroyer]]
+**[[Starfighter/Legends|Starfighter]]
+***[[BTL Y-wing starfighter/Legends|BTL Y-wing starfighter]]
+***[[T-65 X-wing starfighter]]
+***[[T-65B X-wing starfighter/Legends|T-65B X-wing starfighter]]
+***[[TIE/LN starfighter|TIE fighter]]
+***[[TIE/sa bomber/Legends|TIE/sa bomber]]
+|c-technology=
+*[[20m-cp Strobe/C-Beam Lamp]] {{1st}}
+*[[Armor]]
+**[[Imperial officer battle armor]] {{1st}}
+**[[Mandalorian armor]] {{1st}}
+***[[Boba Fett's armor]] {{1st}}
+***[[Macrobinocular viewplate]] {{1st}}
+***[[Mandalorian vambrace]] {{1st}}
+**[[Stormtrooper armor]]
+**[[Vader's armor]]
+*[[Bacta mask]] {{Del}}
+*[[Bacta tank]] {{1st}}
+*[[Blaster]]
+**[[Blaster cannon]]
+***[[Ax-108 "Ground Buzzer" blaster cannon]] {{1st}}
+***[[E-Web heavy repeating blaster cannon]] {{1st}}
+**[[Blaster carbine]] {{1st}}
+***[[EE-3 carbine rifle]] {{1st}}
+**[[Blaster pistol]]
+***[[Ascension gun]] {{1st}}
+***[[Heavy blaster pistol]]
+****[[DL-44 heavy blaster pistol]]
+*****[[Han's heavy blaster pistol]]
+***[[Relby K-23 blaster pistol]] {{1st}}
+**[[Blaster rifle]]
+***[[A280 blaster rifle]] {{1st}}
+***[[A280C blaster rifle]] {{1st}}
+***[[DLT-20A blaster rifle]] {{1st}}
+***[[E-11 medium blaster rifle]]
+***[[Heavy blaster rifle]]
+****[[DLT-19 heavy blaster rifle]]
+*****[[4-LOM's DLT-19 heavy blaster rifle]] {{1st}}
+***[[Relby-v10 micro grenade launcher]] {{1st}}
+****[[Bossk's Relby-v10 Mortar Gun]] {{1st}}
+**[[Power 5 blaster]] {{1st}}
+**[[Repeating blaster]] {{1st}}
+*[[Bowcaster]]
+**[[Chewbacca's bowcaster]]
+*[[Breath mask]]
+**[[Roamer-6 emergency breathing mask]]
+*[[Cannon]]
+**[[Ion cannon]]
+***[[NK-7 ion cannon]]
+***[[v-150 Planet Defender]] {{1st}}
+**[[Laser cannon]]
+***[[1.4 FD P-Tower]] {{1st}}
+***[[DF.9 turret placement]] {{1st}}
+***[[KX9 laser cannon]]
+***[[L-s1 laser cannon]]
+***[[Quad laser cannon]]
+****[[AG-2G quad laser cannon]]
+*[[Carbon-freezing chamber]] {{1st}}
+*[[Cloaking device]] {{1stm}}
+*[[Code cylinder]]
+*[[Comlink]]
+**[[C1 personal comlink]]
+*[[Comm/scan processor]]
+*[[Communications array]]
+*[[Computer]]
+*[[Computer monitor]]
+*[[Cybernetics]]
+**[[Cyborg]]
+**[[AJ^6 cyborg construct]] {{1st}}
+*[[DAS-430 Neural Inhibitor]] {{1st}}
+*[[Datacard]]
+*[[Deflector shield]]
+*[[Deflector shield generator]]
+*[[Droid]]
+**[[Ray shield]]
+{{!}}
+*[[Docking tube]] {{1st}}
+*[[Electrobinoculars]]
+*[[Engine]]
+**[[Sublight engine]]
+***[[Galaxy-15 ion engine]] {{1st}}
+*[[Fire extinguisher]]
+*[[Gas-processing vane]] {{1st}}
+*[[Glowrod]] {{1st}}
+*[[Grenade]]
+**[[Concussion grenade]] {{1st}}
+***[[Concussion disc]] {{1st}}
+**[[Thermal detonator]]
+*[[Grenade launcher]] {{1st}}
+*[[Harpoon gun]] {{1st}}
+*[[Hologram]]
+*[[Holoprojector]]
+*[[Hyperdrive]] {{1stm}}
+**[[Alluvial damper]] {{1stm}}
+**[[Horizontal booster]] {{1stm}}
+**[[Hyperdrive motivator]] {{1stm}}
+*[[Hydrospanner]] {{1st}}
+*[[Jetpack]] {{1st}}
+**[[Z-6 jetpack]] {{1st}}
+*[[Laser]]
+*[[Life support]]
+*[[Lightsaber]]
+**[[Sith lightsaber]]
+***[[Dual-phase lightsaber]]
+****[[Darth Vader's lightsaber]]
+**[[Skywalker lightsaber|Skywalker's lightsaber]]
+*[[Magnetic harpoon]] {{1st}}
+*[[Manipulator arm]]
+*[[Meditation chamber]] {{1st}}
+**[[Darth Vader's meditation chamber]] {{1st}}
+*[[Memory bank]] {{1stm}}
+*[[MM9 mini concussion rocket launcher]] {{1st}}
+*[[Needle dart gun]] {{1st}}
+*[[Officer's disk]]
+*[[Photoreceptor]]
+*[[Power generator]] {{1st}}
+*[[Power socket]] {{1st}}
+*[[Proton bomb]] {{1st}}
+*[[Quarrel]]
+*[[Rangefinder]] {{1st}}
+*[[Reactor bulb]] {{1st}}
+*[[Reactor shaft]] {{1st}}
+*[[Reactor stalk]] {{1st}}
+*[[Rectenna]]
+*[[Repulsorlift]]
+*[[Retrorocket]] {{1st}}
+*[[Rifle]]
+**[[Laser Rifle]] {{1st}}
+**[[Snare rifle]] {{1st}}
+***[[GRS-1 snare rifle]] {{1st}}
+*[[S-foils]]
+*[[Scan Grid]] {{1st}}
+*[[Scomp link]]
+*[[Self-destruct mechanism]] {{1st}}
+*[[Sensor]] {{1st}}
+**[[Heat sensor]] {{1st}}
+**[[Sensor beacon]] {{1stm}}
+*[[Servomotor]] {{1st}}
+*[[Stuncuffs]]
+*[[Stylus]] {{1st}}
+*[[Tractor beam]]
+*[[Tractor beam projector]]
+**[[07 tractor beam projector]]
+*[[Turbolaser]]
+**[[Octuple turbolaser barbette]] {{1st}}
+**[[XX-9 heavy turbolaser battery]]
+*[[Turbolift]]
+*[[Viewscreen]] {{1st}}
+*[[Weather scanner vane]] {{1st}}
+|l-technology=
+<div style="-webkit-column-count:3">
+*[[Armor/Legends|Armor]]
+**[[Blast armor]]
+**[[Darth Vader's armor]]
+**[[Mandalorian armor/Legends|Mandalorian armor]]
+*[[1.4 FD P-Tower/Legends|1.4 FD P-Tower]]
+*[[Alluvial damper/Legends|Alluvial damper]]
+*[[ANq-51 sensor array computer/Legends|ANq-51 sensor array computer]]
+*[[Ascension gun/Legends|Ascension gun]] {{1st}}
+*[[Blaster/Legends|Blaster]]
+**[[Blaster cannon/Legends|Blaster cannon]]
+***[[Ax-108 "Ground Buzzer" surface-defense blaster cannon]]
+**[[Blaster pistol/Legends|Blaster pistol]]
+***[[DL-21 blaster pistol/Legends|DL-21 blaster pistol]]
+***[[DL-44 heavy blaster pistol/Legends|DL-44 heavy blaster pistol]]
+***[[Model 57 blaster pistol]]
+***[[Relby-k23 blaster pistol]]
+**[[Blaster rifle/Legends|Blaster rifle]]
+***[[A295 blaster rifle/Legends|A295 blaster rifle]]
+***[[DLT-19 heavy blaster rifle/Legends|DLT-19 heavy blaster rifle]]
+***[[DLT-20A blaster rifle/Legends|DLT-20A blaster rifle]]
+***[[E-11 blaster rifle/Legends|E-11 blaster rifle]]
+***[[EE-3 carbine rifle/Legends|EE-3 carbine rifle]]
+**[[Long-barreled blaster]]
+**[[Mark II medium repeating blaster cannon]]
+**[[E-Web heavy repeating blaster]]
+*[[Bacta/Legends|Bacta]]
+*[[Bacta mask/Legends|Bacta mask]] {{Del}}
+*[[Bacta tank/Legends|Bacta tank]]
+*[[Bandolier/Legends|Bandolier]]
+*[[Stun cuffs|Binders]]
+*[[Blast door/Legends|Blast door]]
+*[[Borg Construct Aj^6]]
+*[[Bowcaster/Legends|Bowcaster]]
+*[[Cloaking device/Legends|Cloaking device]] {{1stm}}
+*[[Comlink/Legends|Comlink]]
+**[[C1 personal comlink/Legends|C1 personal comlink]]
+*[[Condenser unit/Legends|Condenser unit]]
+*[[Darth Vader's meditation chamber/Legends|Darth Vader's meditation chamber]]
+*[[DAS-430 Neural Inhibitor/Legends|DAS-430 Neural Inhibitor]]
+*[[Deflector shield generator/Legends|Deflector shield generator]]
+**[[DSS-02 shield generator/Legends|DSS-02 shield generator]]
+*[[DF.9]]
+*[[Dim goggles]]
+*[[Docking clamp]]
+*[[Docking tube/Legends|Docking tube]] {{1st}}
+*[[Dur-24 wrist laser/Legends|Dur-24 wrist laser]]
+*[[Electrobinoculars/Legends|Electrobinoculars]]
+**[[Model TD2.3 electrobinoculars/Legends|Model TD2.3 electrobinoculars]]
+*[[False eye/Legends|False eye]]
+*[[False touch]]
+*[[Fire extinguisher/Legends|Fire extinguisher]]
+*[[Flamethrower/Legends|Flamethrower]]
+**[[ZX miniature flame projector/Legends|ZX miniature flame projector]]
+*[[Force field/Legends|Force field]]
+*[[Fusion furnace/Legends|Fusion furnace]]
+*[[Fusioncutter/Legends|Fusioncutter]]
+*[[Grenade launcher/Legends|Grenade launcher]] {{1st}}
+**[[Relby-v10 micro grenade launcher/Legends|Relby-v10 micro grenade launcher]] {{1st}}
+*[[Glowrod]]
+*[[GRS-1 snare rifle/Legends|GRS-1 snare rifle]]
+*[[Power harpoon|Harpoon and tow cable]]
+*[[Heavy turbolaser turret/Legends|Heavy turbolaser turret]]
+*[[HH-15 projectile launcher]]
+*[[Holocamera|Holocam]]
+*[[Horizontal booster/Legends|Horizontal booster]]
+*[[Ion cannon/Legends|Ion cannon]]
+**[[NK-7 ion cannon/Legends|NK-7 ion cannon]]
+**[[SW-4 ion cannon/Legends|SW-4 ion cannon]]
+**[[V-150 Planet Defender/Legends|v-150 Planet Defender]]
+*[[Kama/Legends|Kama]]
+*[[Kyromaster]]
+*[[Laser cannon/Legends|Laser cannon]]
+**[[Ap/11 double laser cannon]]
+**[[AG-2G quad laser cannon/Legends|AG-2G quad laser cannon]]
+**[[DF.9 laser cannon]]
+**[[KX9 laser cannon/Legends|KX9 laser cannon]]
+*[[LC-10bW]]
+*[[L-hand 980]]
+*[[Life support pack]]
+*[[Lifeform scanner]]
+*[[Lightsaber/Legends|Lightsaber]]
+*[[Memory core]]
+*[[MM9 rocket system]]
+*[[OrC-19 com-scan integrator console]]
+*[[Plastex/Legends|Plastex]]
+*[[Plastoid/Legends|Plastoid]]
+*[[Portable scanner/Legends|Portable scanner]]
+**[[EnhanceScan general-purpose scanner]]
+*[[Power coupling/Legends|Power coupling]]
+*[[Proton bomb/Legends|Proton bomb]]
+*[[Pulse cannon/Legends|Pulse cannon]]
+*[[Quarrel/Legends|Quarrel]]
+*[[Rangefinder/Legends|Rangefinder]]
+*[[Roamer-6 breath mask]]
+*[[Scan grid]]
+*[[Self-destruct mechanism/Legends|Self-destruct mechanism]]
+*[[Sentry marker]] {{1stm}}
+*[[Sonic beam weapon]]
+*[[Sonic stunner]]
+*[[ST2 concussion missile rack]]
+*[[Stormtrooper armor/Legends|Stormtrooper armor]]
+*[[Survival knife]]
+*[[TR-62 Autocushion Tripod/Legends|TR-62 Autocushion Tripod]]
+*[[Transfer circuit]]
+*[[Transparisteel/Legends|Transparisteel]]
+*[[Type-12A anti-personnel rocket]]
+*[[V-59 concussion grenade]]
+*[[W-90 concussion rifle]]
+*[[Weather vane]]
+*[[Whipcord launcher/Legends|whipcord launcher]]
+*[[XX-9 heavy turbolaser]]
+</div><br clear="all">
+|c-miscellanea=
+*[[Alien]]
+*[[Army]]
+**[[Soldier]]
+**[[Troop]]
+*[[Atmosphere]]
+*[[Attack Pattern Delta]] {{1st}}
+*[[Backpack]]
+**[[Alliance Cold Weather Backpack]] {{1st}}
+*[[Bacta]] {{1st}}
+*[[Bandolier]]
+*[[Bespinite]] {{1st}}
+*[[Blanket]] {{1st}}
+*[[Blissl/Canon|Blissl]] {{1st}}
+*[[Blockade]]
+*[[Blood]]
+*[[Bridge (starship)|Bridge]] {{1st}}
+*[[Bounty]]
+*[[Callsign]]
+*[[Camtono]] {{1st}}
+*[[Carbonite]] {{1st}}
+*[[Carbon-freezing]] {{1st}}
+*[[Cane/Legends|Cane]] {{1st}}
+*[[Casino]] {{1st}}
+*[[Cave]] {{1st}}
+*[[City]]
+*[[Clothing]]
+**[[Bandolier]]
+**[[Boot]]
+**[[Cloak]]
+**[[Flight suit]]
+***[[Flight helmet]]
+****[[K-22995 light flight helmet]]
+**[[Goggles]] {{1st}}
+***[[Anti-glare goggles]] {{1st}}
+**[[Hat]]
+**[[Holster]]
+**[[Imperial military uniforms]]
+***[[Rank insignia plaque]]
+**[[Jacket]]
+**[[Robe]]
+*[[Cockpit]]
+*[[Code Force Seven]] {{1st}}
+*[[Color]]
+{{!}}
+*[[Command tower]]
+*[[Communications tower]] {{1st}}
+*[[Cybernetics]]
+**[[Cyborg]]
+*[[Data pit]] {{1st}}
+*[[Death]]
+**[[Suicide]] {{Mo}}
+*[[Death mark]] {{1st}}
+*[[Dream]] {{1stm}}
+*[[Fire]]
+*[[Fleet]]
+**[[Command ship]] {{1stID|Command ship}}
+***[[Flagship]] {{1st}}
+**[[Navy]]
+**[[Warship]]
+*[[Foodstuff]]
+**[[Ration bar]] {{1st}}
+**[[Stew]] {{1st}}
+***[[Rootleaf stew]] {{1st}}
+**[[Vegetable]] {{1st}}
+***[[Rootleaf/Canon|Rootleaf]] {{1st}}
+*[[The Force]]
+**[[Dark side of the Force]]
+**[[Disturbance in the Force]]
+**[[Force power]]
+***[[Force choke]]
+***[[Force deflection]] {{1st}}
+***[[Force jump]] {{1st}}
+***[[Force spirit]]
+***[[Force vision]] {{1st}}
+***[[Telekinesis]] {{1st}}
+**[[Light side of the Force]]
+**[[Living Force]]
+**[[Vergence]] {{1st}}
+*[[Gambling]] {{1stm}}
+*[[Garrison]] {{Mo}}
+*[[Gas]]
+**[[Rethen]] {{1st}}
+**[[Tibanna]] {{1st}}
+*[[Gimer stick]] {{1st}}
+*[[Hangar]]
+*[[Chaos|Hell]] {{Mo}} {{C|as expletive}}
+*[[Hermit]]
+*[[Humanoid]]
+*[[Hyperspace]]
+*[[Hypothermia]] {{1st}}
+*[[Water|Ice]]
+*[[Immortality]] {{Ghost}}
+*[[Imperial crest]]
+*[[Jedi training]]
+*[[Language]]
+**[[Binary]]
+**[[Dosh]] {{1st}}
+**[[Galactic Basic Standard]]
+**[[Huttese]]
+**[[Omnisignal unicode]] {{1st}}
+**[[Shyriiwook]]
+**[[Ugnaught (language)|Ugnaught]] {{1st}}
+*[[Leather]]
+*[[Life Zone]] {{1st}}
+*[[Lightsaber combat]]
+**[[Form II]] {{1st}}
+**[[Lightsaber duel]]
+*[[Lightspeed]]
+{{!}}
+*[[Limb]]
+*"[[May the Force be with you]]"
+*[[Medical bay]] {{1st}}
+*[[Meditation]]
+*[[Meteorite]] {{1stm}}
+*[[Mining]] {{1st}}
+*[[Naval warfare]]
+*[[Nerf herder]] {{1stm}} {{C|as insult}}
+*[[Noble]]
+*[[Orbital bombardment]] {{1stm}}
+*[[Oxygen]]
+*[[Pillow]]
+*[[Plant]]
+**[[Tree]]
+***[[Gnarltree]] {{1st}}
+*[[Plastoid]]
+*[[Politics]]
+*[[Prisoner]]
+*[[Project Swarm]] {{1st}}
+*[[Realspace]]
+*[[Rebel Alliance starbird]]
+*[[Rebel command insignia]]
+*[[Species]]
+**[[Brain]] {{Mo}}
+**[[Eye]]
+**[[Hair]]
+**[[Mouth]]
+**[[Parent]]
+**[[Sentience]]
+**[[Gender|Sexes]]
+**[[Twin]]
+*[[Star system]]
+**[[Asteroid]]
+***[[Asteroid field]]
+**[[Orbit]]
+**[[Planet]]
+***[[Gas giant]]
+*[[Sabacc]] {{1stm}}
+*[[Silicon-based organism]] {{1st}}
+*[[Silk]]
+**[[Aeien silk]] {{1st}}
+*[[Spoon]]
+*[[Star]]
+**[[Protostar]] {{1st}}
+*[[Steel]]
+**[[Beskar]] {{1st}} {{Ret}}
+*[[Surface warfare]] {{1st}}
+**[[Trench warfare]] {{1st}}
+*[[Suspended animation]] {{1st}}
+*[[Synthstone]] {{1st}}
+*[[Swamp]] {{1st}}
+*[[Telepathy]] {{1st}}
+*[[Temperature]] {{1stm}}
+*[[Time]]
+**[[Standard minute]] {{Mo}}
+**[[Standard year]] {{Mo}}
+*[[Torture]]
+*[[Transparisteel]]
+*[[Vacuum]]
+*[[Victory decal]]
+*[[Viewport]]
+*[[Zeyd cloth]] {{1st}} {{Hologram}}
+|l-miscellanea=
+*[[Bacta/Legends|Bacta]]
+*[[Binary/Legends|Binary]]
+*[[Blanket/Legends|Blanket]]
+*[[Blissl]] {{1st}}
+*[[Blockade/Legends|Blockade]]
+*[[Blood/Legends|Blood]]
+*[[Boot/Legends|Boot]]
+*[[Carbonite/Legends|Carbonite]]
+*[[Denscris]]
+*[[Doonium/Legends|Doonium]]
+*[[Driving gauntlet]]
+*[[Durasteel/Legends|Durasteel]]
+*[[The Force/Legends|The Force]]
+**[[Dark side of the Force/Legends|Dark side of the Force]]
+**[[Telekinesis/Legends|Telekinesis]]
+**[[Force Jump]]
+**[[Force ghost]]
+**[[Telepathy/Legends|Telepathy]]
+{{!}}
+*[[Galactic Basic Standard/Legends|Galactic Basic Standard]]
+*[[Gear harness]]
+*[[Gimer stick/Legends|Gimer stick]]
+*[[Jumpsuit/Legends|Jumpsuit]]
+*[[Lightsaber combat/Legends|Lightsaber combat]]
+**[[Cho mai/Legends|Cho mai]]
+**[[Cho mok/Legends|Cho mok]]
+**[[Dun Möch/Legends|Dun Möch]]
+**[[Form II/Legends|Form II]] {{1st}}
+**[[Form V/Legends|Form V]]
+**[[Sai cha/Legends|Sai cha]]
+**[[Shiim/Legends|Shiim]]
+*[[Liwari shoes]]
+*[[Shyriiwook/Legends|Shyriiwook]]
+*[[Spoon/Legends|Spoon]]
+*[[Tibanna/Legends|Tibanna]]
+*[[Transparisteel/Legends|Transparisteel]]
+}}
+
+==Sources==
+{{Scroll_box|
+{{Mediacat|soundcat=Audio files from Star Wars: Episode V The Empire Strikes Back|imagecat=Images from Star Wars: Episode V The Empire Strikes Back}}
+*''[[The Jedi Master's Quizbook]]''
+*{{InsiderCite|1|Anthony Daniels: Remembering That Galaxy Far, Far Away}}
+*{{InsiderCite|1|Star Wars 10th Anniversary Convention!!|''Star Wars'' 10th Anniversary Convention!!}}
+*{{InsiderCite|1|Collections}}
+*{{InsiderCite|2|Star Wars: The Role-Playing Game|''Star Wars: The Role-Playing Game''}}
+*{{InsiderCite|2|Inside ILM|Inside ILM: Visual Effects Design}}
+*{{InsiderCite|2|Star Tours: "The Ultimate Adventure" is Still the Ultimate Ride at Disneyland|''Star Tours'': 'The Ultimate Adventure' is Still the Ultimate Ride at Disneyland}}
+*{{InsiderCite|3|Mark Hamill: 10 Years Later}}
+*{{InsiderCite|4|Inside ILM|Inside ILM: Creating the Magic of ''Willow''}}
+*{{InsiderCite|5|Collections|Collections: Foreign ''Star Wars'' Collectibles}}
+*{{InsiderCite|6|George Lucas: The Force Behind Lucasfilm}}
+*{{InsiderCite|6|Inside ILM}}
+*''[[Crisis on Cloud City]]''
+*{{InsiderCite|23|Star Wars Publications Timeline|''Star Wars'' Publications Timeline}}
+*{{InsiderCite|47|}} (marks 20th anniversary of film; details deleted scenes)
+*''[[The Secrets of Star Wars: Shadows of the Empire]]''
+*''[[Star Wars: Rebellion: Prima's Official Strategy Guide]]''
+*{{SW|url=series/clone-wars/rising-malevolence-episode-guide|text="Rising ''Malevolence''" Episode Guide &ndash; ''The Clone Wars''}}
+*{{SW|url=series/clone-wars/rookies-episode-guide|text="Rookies" Episode Guide &ndash; ''The Clone Wars''}}
+*{{SW|url=news/the-star-wars-digital-movie-collection-coming-april-10|text=The ''Star Wars'' Digital Movie Collection Coming April 10}}
+*{{SWYoutube|JNwNXF9Y6kY|''Star Wars'': Episode V ''The Empire Strikes Back'' &ndash; Trailer|archivedate=20200809014051}}
+*{{SWYoutube|vU6L3jXt2r8|''Star Wars'': Episode V ''The Empire Strikes Back'' &ndash; Digital Movie Collection Trailer|archivedate=20200308111849}}
+*{{SW|url=news/much-to-learn-you-still-have-9-things-you-might-not-know-about-rodians|text=Much to Learn You Still Have: 9 Things You Might Not Know About Rodians|archivedate=20211101052301}}
+*{{SW|url=news/7-things-you-might-not-know-about-trandoshans|text=Much to Learn You Still Have: 7 Things You Might Not Know About Trandoshans|archivedate=20211122023713}}
+*{{SW|url=news/much-to-learn-at-ats|text=Much to Learn You Still Have: Four Things You Might Not Know About AT-ATs|archivedate=20210306090728}}
+*{{SW|url=news/mark-hamill-interview-empire-strikes-back-40th|text="The Most Physically Grueling of Them All": Mark Hamill on ''Star Wars: The Empire Strikes Back''}}
+*''[[Star Wars: The Lightsaber Collection]]''
+*{{SW|url=series/the-mandalorian/chapter-3-guide|text="Chapter 3: The Sin" Episode Guide}}
+*{{SW|url=series/the-mandalorian/chapter-5-guide|text="Chapter 5: The Gunslinger" Episode Guide}}
+*{{SW|url=series/the-mandalorian/chapter-6-guide|text="Chapter 6: The Prisoner" Episode Guide}}
+*{{BuildXWingCite|11|Creating a Starship Fleet|The Ice Hangar &ndash; Filming the Rebel Base}}
+*{{BustCollectionCite|1|multiple=[[Star Wars Universe|Star Wars Universe: Darth Vader]]; [[Behind the Cameras|Behind the Cameras: How the Death Star Was Created]]}}
+*{{BustCollectionCite|2|Behind the Cameras|Evolution of the Stormtroopers}}
+*{{SWYoutube|yix_9g_Ob74|Celebrating 40 Years of Empire: Behind the Scenes|archivedate=20210331151642}}
+*{{SWYoutube|9ua2v64mh9o|Celebrating 40 Years of Empire: The Legacy|archivedate=20201217171131}}
+*{{SW|url=news/lego-star-wars-holiday-special-easter-eggs|text=15 Easter Eggs to Find in the ''LEGO Star Wars Holiday Special''}}
+*{{InsiderCite|202|Star Wars: The Mandalorian Season Two Companion|''Star Wars: The Mandalorian'' Season Two Companion}}
+*''[[Star Wars: The Skywalker Saga: The Official Collector's Edition]]''
+*''[[Star Wars: The Mandalorian: Guide to Season One]]''
+*{{SW|url=series/the-bad-batch/replacements-episode-guide|text="Replacements" Episode Guide}}
+*{{SW|url=series/the-bad-batch/rampage-episode-guide|text="Rampage" Episode Guide}}
+*{{InsiderCite|203|Launchpad}}
+*{{SW|url=news/the-book-of-boba-fett-chapter-6-highlights|text=The Best of ''The Book of Boba Fett'': 5 Highlights from "Chapter 6: From the Desert Comes a Stranger"}}
+*{{SW|url=news/star-wars-inside-intel-mandalorian-armor|text=''Star Wars'' Inside Intel: Mandalorian Armor|int=Star Wars Inside Intel: Mandalorian Armor}}
+*{{SW|url=news/obi-wan-kenobi-ew|text=''Obi-Wan Kenobi'' Photos and Details Revealed}}
+*{{SW|url=news/clones-at-20-rob-coleman-interview|text=''Clones'' at 20 &#124; Rob Coleman on Bringing Yoda, Dexter Jettster, and More to Digital Life}}
+*{{SW|url=news/swca-2022-marvel-yoda-interview|text=SWCA 2022: Marvel's ''Star Wars: Yoda'' Miniseries Revealed}}
+*{{SWYoutube|duTUfetIdts|Go Beyond The Spires in Virtual Reality: Making of ILMxLab's Tales From The Galaxy's Edge SWCA 2022|archivedate=20220530112928}}
+*{{SWYoutube|dBiJibR6WDw|Temuera Morrison joins us at SWCA 2022 &#124; Star Wars Celebration LIVE!|archivedate=20220529225827}}
+*{{SW|url=news/swca-2022-marvel-comics-panel|text=SWCA 2022: 8 Things We Learned from the Marvel ''Star Wars'' Comics Panel}}
+*{{SW|url=news/charles-soule-star-wars-interview|text=As His 100th ''Star Wars'' Comic Hits Shelves, Charles Soule Looks Back}}
+*{{InsiderCite|212|Launchpad}}
+*{{SW|url=series/obi-wan-kenobi/part-i-guide|text=Obi-Wan Kenobi Part I Episode Guide}}
+*{{SW|url=series/obi-wan-kenobi/part-iv-guide|text=Obi-Wan Kenobi Part IV Episode Guide}}
+*{{SW|url=news/star-wars-hidden-empire|text=''Hidden Empire'' Revealed: Charles Soule on Marvel's Next ''Star Wars'' Epic &ndash; Exclusive}}
+*{{SWYoutube|d-FdDsUwIPE|Marvel Star Wars: Revelations Reveal, Inspiring ILM Legends, and More!|archivedate=20220811190442}}
+*{{SW|url=news/star-wars-revelations|text=Marvel's ''Star Wars: Revelations'' Will Point Toward the Future of the Galaxy Far, Far Away in Comics &ndash; Exclusive}}
+*{{SW|url=news/marvel-star-wars-comics-december-2022|text=Yoda Goes to a Strange World and More from Marvel's December 2022 ''Star Wars'' Comics &ndash; Exclusive}}
+*{{SW|url=news/nycc-2022-lucasfilm-publishing-panel|text=NYCC 2022: ''Rise of the Red Blade'' Inquisitor Novel Revealed, and More Highlights from the Lucasfilm Publishing Panel}}
+*{{SW|url=series/andor/andor-season-1-episode-6-episode-guide|text=''Andor'' &#124; "Episode 6: The Eye" Episode Guide}}
+*{{InsiderCite|214|The Princess, the Scoundrel, and the Author}}
+*{{SW|url=news/cavan-scott-tales-from-the-rancor-pit-interview|text=Author Cavan Scott Springs the Trap with ''Tales from the Rancor Pit''}}
+*{{SW|url=news/5-spine-tingling-sith-moments|text=5 Spine-Tingling Sith Moments}}
+*{{SW|url=series/andor/andor-season-1-episode-9-episode-guide|text=''Andor'' &#124; "Episode 9: Nobody's Listening!" Episode Guide}}
+*{{SW|url=news/andor-ben-bailey-smith-interview|text=''Andor'''s Ben Bailey Smith on Playing Supervisor Blevin and the Fun of Being Bad}}}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+*{{SW|url=films/star-wars-episode-v-the-empire-strikes-back|text=''Star Wars: The Empire Strikes Back''}}
+*{{Lucasfilm|productions/episode-v|''Star Wars: The Empire Strikes Back''|archivedate=20190816063735}}
+*{{WP|The Empire Strikes Back|''The Empire Strikes Back''}}
+*{{Imdb|title/tt0080684}}
+
+{{Episode_V_multimedia}}
+{{Star_Wars}}
+
+{{Interlang
+|bg=Междузвездни войни: Епизод V – Империята отвръща на удара
+|ca=L'Imperi Contraataca
+|cs=Star Wars: Epizoda V Impérium vrací úder
+|de=Episode V – Das Imperium schlägt zurück
+|el=Star Wars: Επεισόδιο 5 - Η Αυτοκρατορία Αντεπιτίθεται
+|es=Star Wars: Episodio V El Imperio Contraataca
+|fi=Tähtien sota: Episodi V – Imperiumin vastaisku
+|fr=Star Wars épisode V : L'Empire contre-attaque
+|ga=Eipeasóid V: The Empire Strikes Back
+|hu=Csillagok háborúja V: A Birodalom visszavág
+|is=Gagnárás keisaradæmisins
+|it=Star Wars Episodio V: L'Impero colpisce ancora
+|ja=スター・ウォーズ エピソード5/帝国の逆襲
+|ka=ვარსკვლავური ომები, ეპიზოდი V: იმპერიის საპასუხო დარტყმა
+|ko=스타워즈: 에피소드 5 제국의 역습
+|nl=Star Wars Episode V: The Empire Strikes Back
+|no=Star Wars Episode V: Imperiet slår tilbake
+|pl=Imperium kontratakuje
+|pt=Star Wars Episódio V: O Império Contra-Ataca
+|ru=Звёздные войны. Эпизод V: Империя наносит ответный удар
+|tr=Star Wars: Bölüm V İmparator
+|uk=Зоряні війни. Епізод V: Імперія завдає удару у відповідь
+|zh=星球大战V：帝国反击战
+}}
+
+[[Category:Saga films|5]]
+[[Category:1980 releases]]

@@ -1,0 +1,20 @@
+{{Infobox film
+|name        = The Elephant
+|director    = 
+|producer    = 
+|writer      = 
+|distributor = Walt Disney Productions
+|language    = English
+|image = Image:The_nature_of_things_the_elephant.jpg
+|time = 10 minutes
+|imagewidth = 250px|release = [[1956]]}}
+'''''The Elephant''''' is ''The Nature of Things'' short that originally aired on ''[[The Mickey Mouse Club]]''.
+
+==Synopsis==
+Combines live action and 90% animation to tell the story of elephants in Africa. [[Jiminy Cricket]] tells the origin of elephants, how they made it through the Ice Age, and how they are used commercially today. Did you know that the first elephants were very small?!
+
+{{DEFAULTSORT:Elephant, The}}
+[[Category:1956 shorts]]
+[[Category:Films]]
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse Club]]

@@ -1,0 +1,27 @@
+{{Infobox character
+|image = Soggy Bottom.jpg
+|name = Soggy Bottom
+|games = ''[[Toontown Online]]''
+|occupation = Shopkeeper
+|alignment = Good}}
+'''Soggy Bottom''' is a character from the discontinued online game, ''[[Toontown Online]]''. He is a [http://toontown.wikia.com/wiki/Toon Toon] NPC [http://toontown.wikia.com/wiki/Horse Horse] and a shopkeeper toon who owns [http://toontown.wikia.com/index.php?title=Petal_Pusher_Bicycles&action=edit&redlink=1 Petal Pusher Bicycles], on [http://toontown.wikia.com/wiki/Elm_Street Elm Street], in [http://toontown.wikia.com/wiki/Daisy_Gardens Daisy Gardens].
+
+==SOS Toon==
+﻿Soggy Bottom is also an [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon]. He is a 4-star Toons Hit. When called upon, he uses his [http://toontown.wikia.com/wiki/Pixie_Dust Pixie Dust] to allow toons to hit [http://toontown.wikia.com/wiki/Cogs cogs] '''guaranteed'''.
+
+This SOS lasts 1 round.
+
+==Trivia==
+*All SOS Toons Hit start with the letter "S".
+**Coincidentally, two of the three toons both start with Soggy. He shares his name with [http://toontown.wikia.com/wiki/Soggy_Nell Soggy Nell].
+*He was the only SOS Toon Horse, until [http://toontown.wikia.com/wiki/Doctor_Drift Doctor Drift] was remodelled.
+
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Horses]]
+[[Category:Males]]
+[[Category:Characters in video games]]
+[[Category:Characters introduced in video games]]
+[[Category:Animated characters]]
+{{Toontown Online}}

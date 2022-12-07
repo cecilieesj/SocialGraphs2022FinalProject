@@ -1,0 +1,28 @@
+{{Infobox film
+|image = Going Home still.png
+|name = Going Home
+|director = Jacob Frey
+|producer = Jennifer Newfield
+|release = [[August 4]], [[2021]]
+|studio = [[Walt Disney Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Disney+]]
+|music = Jake Monaco
+|preceded = ''[[Crosswalk]]''
+|followed = ''[[No. 2 to Kettering]]''}}
+'''Going Home''' is an animated short film produced by [[Walt Disney Animation Studios]] in the ''[[Short Circuit]]'' series that was released as a [[Disney+]] exclusive on [[August 4]], [[2021]].
+
+==Synopsis==
+A story about growing up and the meaning of home in which a young adult repeatedly visits his hometown, but with every new arrival he starts to face the inevitable: change.
+
+==Plot==
+Taking place over the course of what is presumed to be years, a young man gets off a train and walks through his town as the seasons change. He witnesses people and places changing. With each passing, the man noticeably becomes sadder and sadder. He eventually arrives at his old home and is greeted by his parents and dog. As he approaches the front steps, they begin to age until eventually the dog disappears, followed by his father and finally his mother. It is revealed that the man came this time to pack everything in the house. As he gets in the car, he is comforted by his wife and duaghter.
+{{Stub}}
+{{Disney+}}
+{{DISPLAYTITLE:''Going Home''}}
+[[it:Tornare a casa]]
+[[pt-br:Indo Para Casa]]
+[[Category:Animated shorts]]
+[[Category:Disney+ Originals]]
+[[Category:Short Circuit]]
+[[Category:2021 shorts]]
+[[Category:Featured shorts]]

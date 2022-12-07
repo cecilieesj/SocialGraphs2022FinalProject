@@ -1,0 +1,59 @@
+{{Infobox character
+|name = Eric Koenig
+|image = EricKoenig.jpg
+|shows = ''[[Agents of S.H.I.E.L.D.]]''
+|actor = [[Patton Oswalt]]
+|fullname = Eric Koenig
+|nickname = Lightning Foot
+|personality = Uptight, strict (in company), relaxed (alone)
+|appearance = Short, heavy-set
+|occupation = [[S.H.I.E.L.D.]] agent;<br>Keeper of the "Providence" base
+|alliance = Good
+|affiliations = S.H.I.E.L.D.
+|home = Providence secret S.H.I.E.L.D. base
+|friends = [[Phil Coulson]], [[Skye]], [[Jemma Simmons]], [[Leo Fitz]], [[Antoine Triplett]], [[Grant Ward]] (formerly)
+|enemies = [[Grant Ward]], [[HYDRA]]
+|likes = Video games, lanyards, order
+|dislikes = HYDRA
+|weapons = Handgun
+|fate = Strangled by Grant Ward
+|alignment = Good
+|family = [[Ernest Koenig]] (grandfather)<br>Sam Koenig (brother)<br>Billy Koenig (brother)<br>Thurston Koenig (brother)<br>LT Koenig (sister)}}
+'''Eric Koenig''' is a [[S.H.I.E.L.D.]] agent in Marvel's ''[[Agents of S.H.I.E.L.D.]]''.
+
+==Background information==
+Eric Koenig is introduced in "[[Providence]]" as the caretaker of the secret S.H.I.E.L.D. base Providence. He is pleased to meet [[Phil Coulson|Agent Coulson]] who has become a legend among the higher-level agents after the events of the Battle of New York. He tells the agents that [[Nick Fury|Director Fury]] is dead, but tells Coulson in confidence that Fury is still alive.
+
+In "[[The Only Light in the Darkness]]", Koenig will not allow Coulson's team to leave Providence base until he has tested the reliability of the members. He puts them all through an orientation involving a lie-detector which he designed to examine 96 variables. He notices fluctuations in [[Grant Ward]]'s test and points a gun at him. Ward lies his way to passing the test. After Coulson, [[Jemma Simmons|Simmons]], [[Leo Fitz|Fitz]], and [[Antoine Triplett|Triplett]] leave, Eric is left with Ward and [[Skye]]. When he is alone with Ward, the HYDRA agent kills him and hides his body in a supply closet.
+
+In "[[Nothing Personal]]" his corpse is found by Simmons.
+
+In "[[Beginning of the End]]", it is revealed that Billy Koenig, who is identical to Eric, and is there to help Coulson, the new director of S.H.I.E.L.D.
+
+==Trivia==
+* In the comics, Eric Koenig was a member of Nazi Youth Group during World War II. Later, he abandoned this organization to join the [[Howling Commandos]]. After the war, Koenig was one of the Howlers that joined Nick Fury in forming S.H.I.E.L.D..
+
+==Gallery==
+<gallery position="center" spacing="small">
+eric-koenig.jpg
+Providence_238.png
+Agents of S.H.I.E.L.D. - 1x18 - Providence - Photography - Coulson and Koenig.jpg|Koening talking with Coulson. 
+patton-oswald-eric-koenig-agents-of-shield.jpg
+Agents of S.H.I.E.L.D. - 1x19 - The Only Light in the Darkness - May Interrogation.png
+</gallery>
+
+{{CharacterStub}}
+{{Marvel Cinematic Universe}}
+{{DEFAULTSORT:Koenig, Eric}}
+[[Category:S.H.I.E.L.D. agents]]
+[[Category:Agents of S.H.I.E.L.D. characters]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Adults]]
+[[Category:Live-action characters]]
+[[Category:Marvel Comics characters]]
+[[Category:Deceased characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Siblings]]
+[[Category:American characters]]
+[[Category:Acquired characters]]

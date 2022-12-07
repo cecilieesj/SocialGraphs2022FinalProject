@@ -1,0 +1,100 @@
+{{Marvel Database:Film Template
+| Image                   = Punisher War Zone (film) Poster 005.jpg
+| Aliases                 = 
+
+| Directors               = Lexi Alexander
+| Producers               = Avi Arad; Gale Anne Hurd
+| ComicWriters            = Gerry Conway; Ross Andru; John Romita Sr.
+| StoryWriters            = 
+| ScreenplayWriters       = Nick Santora; Matt Holloway; Art Marcum
+| Musicians               = Michael Wandmacher
+| Cinematographer         = Steve Gainer
+| Editors                 = William Yeh; Vincent Tabaillon
+| Distributors            = Lionsgate Entertainment
+| ProductionCompanies     = Lionsgate, Marvel Studios, Valhalla Motion Pictures, MHF Zweite Academy Film, SGF Entertainment Inc.
+| Running Time            = 107 minutes
+| Rating                  = '''MPAA:''' R for pervasive strong brutal violence, language and some drug use
+| Budget                  = $35 million
+| Release Date            = December 5, 2008
+
+| AM ID                   = punisher-war-zone-v410445
+| IMDB ID                 = 0450314
+| Marvel Movies           = Punisher: War Zone
+
+| Previous Film           = 
+| Next Film               = 
+
+| Tagline                 = Vengeance has a name.
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Flashback|[[Frank Castle (Earth-TRN011)|Punisher (Frank Castle)]]}} {{Only}}
+'''Supporting Characters:'''
+* {{Only|[[Martin Soap (Earth-TRN011)|Detective Martin Soap]]}} 
+* {{Only|[[Paul Budiansky (Earth-TRN011)|Agent Paul Budiansky]]}} 
+* {{Only dies|[[Linus Lieberman (Earth-TRN011)|Microchip (Linus Lieberman)]]}}
+* {{Only dies|[[Carlos Cruz (Earth-TRN011)|Carlos Cruz]]}}
+* Father Mike {{Only}}
+'''Antagonists:'''
+* {{Only dies|[[William Russoti (Earth-TRN011)|Jigsaw (Billy "The Beaut" Russoti)]]}}
+* {{Only dies|[[Carmine Gazzera (Earth-TRN011)|Pittsy (Carmine Gazzera)]]}} 
+* {{Only dies|[[Gaitano Cesare (Earth-TRN011)|Gaitano Cesare]]}}
+* {{Only dies|[[Stella Cesare (Earth-TRN011)|Stella Cesare]]}} 
+* {{Only dies|[[Tommy Cesare (Earth-TRN011)|Tommy Cesare]]}}
+* Slick Tony {{Only dies}}
+* {{Only dies|[[Ink (Earth-TRN011)|Ink]]}}
+* {{Only dies|[[Maginty (Earth-TRN011)|Maginty]]}}
+* {{Only dies|[[James Russoti (Earth-TRN011)|"Looney Bin Jim" Russoti]]}}
+* {{Only|[[Cristu Bulat (Earth-TRN011)|Cristu Bulat]]}}
+* Pompiliu {{Only dies}}
+* {{Only|[[Tiberiu Bulat (Earth-TRN011)|Tiberiu Bulat]]}} 
+'''Other Characters:'''
+* {{Only dies|[[Nicky Donatelli (Earth-TRN011)|Agent Nicky Donatelli]]}}
+* {{Only|[[Angela Donatelli (Earth-TRN011)|Angela Donatelli]]}} 
+* {{Only|[[Grace Donatelli (Earth-TRN011)|Grace Donatelli]]}}
+* Captain Ross {{Only}}
+* {{Only Dies|[[Mrs. Lieberman (Earth-TRN011)|Mrs. Lieberman]]}}
+* Agent Miller {{Only}}
+* {{Minor|Maria Castle (Earth-TRN011)|Maria Castle|Only appearance; corpse}} {{FlashOnly}}
+* {{FlashOnly|[[Lisa Castle (Earth-TRN011)|Lisa Castle]]}} {{Only}}
+* {{FlashOnly|[[Frank Castle, Jr. (Earth-TRN011)|Frank Castle, Jr.]]}} {{Only}}
+'''Locations:'''
+* {{Only|[[Earth-TRN011]]}}
+** {{Only|[[Earth]]}}
+*** {{Only|[[United States of America]]}}
+**** {{Only|[[New York (State)|New York State]]}}
+***** {{Only|[[New York City]]}}
+****** {{Only|[[Kentworth Asylum]]}}
+'''Items:'''
+* {{Only|[[Punisher's Suit]]}}
+* {{Only|[[Punisher's Arsenal]]}}
+
+| Plot                    = 
+Infamous vigilante, anti-hero Frank Castle is six years into his vengeance driven zeal as the Punisher when he brutally assaults a "beat the rap" party for notorious mob boss Gaitano Cesare. During the course of the massacre, he hideously disfigures overeager gangster Billy Russoti and murders a mafia lackey who turns out to be an undercover FBI agent. Agent Paul Budiansky, the ex-partner of the undercover Fed, joins the NYPD's "Punisher Task Force" to help bring Castle to justice, once and for all.
+
+A facially mutilated Russoti recovers from his run-in with the Punisher with revenge on his mind and recruits a massive army of psychotic killers, gangbangers, and mobsters under his new alias "Jigsaw". Distraught that he has now become the very evil he swore to battle, Castle is content to hang up his guns and quit the justice business for good. However, plans quickly change once he learns that Jigsaw has kidnapped the surviving wife and child of the dead federal agent.
+
+Forced back into the war, the Punisher now has to face off against Jigsaw's formidable army in order to save the lives of an innocent family his actions put in the firing line.
+
+| Cast                    = 
+* [[wikipedia:Ray Stevenson|Ray Stevenson]] - [[Frank Castle (Earth-TRN011)|Punisher (Frank Castle)]] 
+* [[wikipedia:Dominic West|Dominic West]] - [[William Russoti (Earth-TRN011)|Jigsaw (Billy Russoti)]]
+* [[wikipedia:Wayne Knight|Wayne Knight]] - [[Linus Lieberman (Earth-TRN011)|Microchip]]
+* [[wikipedia:Colin Salmon|Colin Salmon]] - [[Paul Budiansky (Earth-TRN011)|Agent Paul Budiansky]]
+* [[wikipedia:Dash Mihok|Dash Mihok]] - [[Martin Soap (Earth-TRN011)|Detective Martin Soap]]
+
+| Notes                   = 
+
+==Trailer==
+[[File:PUNISHER WAR ZONE TRAILER 4 Jigsaw|center|Punisher: War Zone trailer]]
+
+| Trivia                  = * The film was released by [[Marvel Knights (Imprint)|Marvel Knights]] Pictures, an offshoot of Marvel Studios dealing with movies for mature audiences.
+* The '''Punisher: War Zone''' film is heavily based on ''[[Punisher Vol 7]]'', a comic book series published by [[Marvel Comics]] under the [[MAX]] imprint.
+* ''Days of Revenge'' song by Ramallah band was used in the Comic-Con trailer.
+* This film was originally meant to be a sequel to [[The Punisher (2004 film)|the 2004 film]]. However, departures from both Thomas Jane and Jonathan Hensleigh scrapped the idea altogether, also, Marvel rejected Kurt Sutter's script,<ref>[https://www.cinemablend.com/news/1605600/why-marvel-rejected-kurt-sutters-punisher-2-script-according-to-kurt-sutter Why Marvel Rejected Kurt Sutter’s Punisher 2 Script, According To Kurt Sutter]</ref> making War Zone a stand-alone reboot.
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+* [http://www.punisherwarzonemovie.com/ Official site]
+* [http://www.imdb.com/title/tt0450314/combined IMDB Listing]
+* [[Punisher (film)]]
+}}
+[[ru:Каратель: Территория войны]]

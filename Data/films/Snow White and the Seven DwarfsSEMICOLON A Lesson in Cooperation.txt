@@ -1,0 +1,33 @@
+{{Infobox film
+| name           = Snow White and the Seven Dwarfs: A Lesson in Cooperation
+| image          = File:Illustration-Snow-White-A-Lesson-In-Coopération-01.png
+| caption        = 
+| director       = Philip Abbott
+| producer       = Philip Abbott<br>JC Alexander
+| music          = 
+| cinematography =  
+| studio         = Walt Disney Productions
+| distributor    = Walt Disney Educational Media Company
+| release       = September [[1978]]
+| time        = 8 minutes
+| language       = English}}
+'''''Snow White and the Seven Dwarfs: A Lesson in Cooperation''''' is a [[1978]] American educational live-action/animated short film, part of the ''Disney's Animated Classics: Lessons in Living'' series. The short features clips from ''[[Snow White and the Seven Dwarfs]]''.
+
+
+
+==Synopsis==
+Cooperating, even in chores, can be a rewarding experience.
+
+==Gallery==
+<gallery>
+Illustration-Snow-White-A-Lesson-In-Coopération-02.png
+Illustration-Snow-White-A-Lesson-In-Coopération-03.png
+Illustration-Snow-White-A-Lesson-In-Coopération-04.png
+Illustration-Snow-White-A-Lesson-In-Coopération-05.png
+Illustration-Snow-White-A-Lesson-In-Coopération-06.png
+</gallery>
+{{Stub}}
+{{Snow White}}
+[[Category:1978 films]]
+[[Category:Educational films]]
+[[Category:Snow White and the Seven Dwarfs]]

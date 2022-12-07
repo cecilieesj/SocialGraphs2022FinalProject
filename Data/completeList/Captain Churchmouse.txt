@@ -1,0 +1,39 @@
+{{Infobox character
+|name=Captain Churchmouse
+|image=Churchmouse.gif
+|voice= 
+|animator=
+|model=
+|designer=
+|inspiration=
+|awards=
+|fullname=Nathaniel Churchmouse
+|alias=Shakespeare; Mr. Bill
+|personality=
+|appearance=
+|occupation=
+|alliance=
+|goal=
+|home=[[Mouseton]]
+|family=Mrs. Churchmouse (wife)
+|pets=Bombo the Gorilla
+|friends=[[Mickey Mouse]], [[Minnie Mouse]]
+|minions=
+|enemies=[[Pete]], [[Sylvester Shyster]]
+|likes=
+|dislikes=
+|powers=
+|weapons=
+|fate=Returns to Mouseton and reunites with his wife
+|quote=
+}}'''Captain Nathaniel Churchmouse''' is a character from the ''[[Mickey Mouse]]'' comic strip, introduced in the storyline ''Mickey Mouse Sails for Treasure Island''.
+
+{{CharacterStub}}
+{{DEFAULTSORT:Churchmouse, Nathaniel}}
+[[Category:Characters introduced in comics]]
+[[Category:Mickey Mouse universe characters]]
+[[Category:Mice]]
+[[Category:Anthropomorphic characters]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Captains]]

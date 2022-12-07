@@ -1,0 +1,57 @@
+{{Marvel Database:Film Template
+| Image                   = Blade (2024 film) logo 002.jpg
+| Aliases                 = Perfect Imprints (working title)
+
+| Directors               = Yann Demange
+| Producers               = Kevin Feige; Eric Hausermann Carroll
+| ScreenplayWriters       = Michael Starrbury
+| Musicians               = 
+| Cinematographers        = Damián García
+| Editors                 = Leigh Folsom Boyd
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = 
+| Rating                  = 
+| Budget                  = 
+| Release Date            = September 6, 2024
+
+| IMDB ID                 = 10671440
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* <br/>
+'''Supporting Characters:'''
+* <br/>
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* <br/>
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * {{WP|Mahershala Ali}} as [[Eric Brooks (Earth-199999)|Blade / Eric Brooks]]
+
+Additionally, {{WP|Delroy Lindo}}, {{WP|Aaron Pierre (actor)|Aaron Pierre}} and Milan Ray have been cast in undisclosed roles.
+
+==Gallery==
+<gallery>
+Blade (2024 film) logo 001.jpg
+</gallery>
+
+| Notes                   = * {{WP|Bassam Tariq}} was originally planned to direct this film, before he left due to changes in the production schedule.<ref>{{cite web|url= https://www.hollywoodreporter.com/movies/movie-news/marvels-blade-loses-director-bassam-tariq-2023-movie-1235228796/|title= Marvel’s ‘Blade’ Loses Director Bassam Tariq (Exclusive)|work= THR|last= Couch|first= Aaron|coauthors= Kit, Borys|date= September 27, 2022|accessdate= September 28, 2022}}</ref>
+* Originally slated to be released on November 3, 2023, this film was later pushed back to September 6, 2024.<ref>{{cite web|url= https://deadline.com/2022/10/blade-fantastic-four-avengers-secret-wars-release-dates-shift-1235141388/|title= Marvel Shifts Release Dates For ‘Blade’, ‘Fantastic Four’, ‘Avengers: Secret Wars’, Next ‘Deadpool’ Among Disney Moves|work= Deadline|last= Grobar|first= Matt|date= October 11, 2022|accessdate= October 12, 2022}}</ref>
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}
+[[tr:Blade (2024 filmi)]]

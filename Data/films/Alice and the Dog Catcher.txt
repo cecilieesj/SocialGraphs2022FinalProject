@@ -1,0 +1,36 @@
+{{Infobox film
+|image =
+|name = Alice and the Dog Catcher
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[July 1]], [[1924]]
+|time = 12:26
+|preceded = ''[[Alice's Fishy Story]]''
+|followed = ''[[Alice the Peacemaker]]''
+}}
+'''''Alice and the Dog Catcher''''' is an animated short film that is part of the [[Alice Comedies]] that were released by Winkler Pictures in [[1924]]. It was in black and white and silent.
+
+==Summary==
+Alice presides over a secret club which proposes to rid the town of dog catchers and free the dogs!
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+Alice and the dog catcher 1large.jpg
+Alice and the dog catcher 2large.jpg
+Alice and the dog catcher 3large.jpg
+Alice and the dog catcher 4large.jpg
+Alice and the dog catcher 5large.jpg
+Alice and the dog catcher 6large.jpg
+1924-dog-2.jpg
+1924-dog-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=15 Alice and the Dog Catcher] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1924 shorts]]
+[[Category:Alice Comedies]]

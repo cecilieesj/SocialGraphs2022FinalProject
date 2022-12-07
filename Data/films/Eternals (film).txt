@@ -1,0 +1,245 @@
+{{Marvel Database:Film Template
+| Image                   = Eternals (film) poster 002.jpg
+| Aliases                 = The Eternals<br>Sack Lunch (working title)
+
+| Directors               = Chloé Zhao
+| Producers               = Kevin Feige; Nate Moore
+| ScreenplayWriters       = Chloé Zhao; Patrick Burleigh; Kaz Firpo; Ryan Firpo
+| StoryWriters            = Ryan Firpo; Kaz Firpo
+| ComicWriters            = [[Jack Kirby]]
+| Musicians               = Ramin Djawadi
+| Cinematographers        = Ben Davis
+| Editors                 = Craig Wood; Dylan Tichenor
+| ProductionCompanies     = Marvel Studios
+| Distributors            = Walt Disney Studios Motion Pictures
+| Running Time            = 156 minutes
+| Rating                  = '''MPAA:''' Rated PG-13 for fantasy violence and action, some language and brief sexuality
+| Budget                  = $200 million
+| Release Date            = November 3, 2021
+| US Release Date         = November 5, 2021
+
+| Marvel Movies           = Eternals (film)
+| IMDB ID                 = 9032400
+| MCU                     = Eternals (film)
+| AM ID                   = eternals-v716149
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Eternals (Homo immortalis)|Eternals]]}}
+** {{1st|[[Ikaris (Earth-199999)|Ikaris]]}} {{Flashback}} {{ApDeath}}
+** {{1st|[[Sersi (Earth-199999)|Sersi]]}} {{Flashback}}
+** {{1st|[[Kingo (Earth-199999)|Kingo]]}} {{Flashback}}
+** {{1st|[[Sprite (Earth-199999)|Sprite]]}} {{Flashback}} {{Leaves}}
+** {{1st|[[Phastos (Earth-199999)|Phastos / "Phil Stoss"]]}} {{Flashback}}
+** {{1st|[[Makkari (Earth-199999)|Makkari]]}} {{Flashback}}
+** {{1st|[[Druig (Earth-199999)|Druig]]}} {{Flashback}}
+** {{1st|[[Gilgamesh (Earth-199999)|Gilgamesh]]}} {{Flashback}} {{Dies}}
+** {{1st|[[Ajak (Earth-199999)|Ajak]]}} {{FlashOnly}} {{Dies}}
+** {{1st|[[Thena (Earth-199999)|Thena]]}} {{Flashback}}
+'''Supporting Characters:'''
+* {{1st|[[Dane Whitman (Earth-199999)|Dane Whitman]]}}
+* {{1st|[[Karun Patel (Earth-199999)|Karun]]}}
+* {{1st|[[Benjamin Stoss (Earth-199999)|Ben Stoss]]}}
+* {{1st|[[Jack Stoss (Earth-199999)|Jack Stoss]]}}
+* {{1st|[[Uni-Mind (Earth-199999)|Uni-Mind]]}}
+'''Antagonists:'''
+* {{1st|[[Deviants (Homo descendus)|Deviants]]}}
+** {{1st|[[Kro (Earth-199999)|Kro]]}} {{Dies}}
+** {{1st|[[Enkidu (Earth-199999)|Enkidu]]}} {{FlashOnly}} {{Dies}}
+* {{1st|[[Arishem (Earth-199999)|Arishem the Judge]]}}
+* {{1st|[[Tiamut (Earth-199999)|Tiamut]]}} {{Dies}}
+'''Other Characters:'''
+* {{Named|[[Global Repatriation Council (Earth-199999)|Global Repatriation Council]]}}
+* {{WP|Charles Darwin}} {{Statue}}
+* {{1st|[[Jemiah (Earth-199999)|Jemiah the Analyzer]]}}
+* {{1st|[[Hargen (Earth-199999)|Hargen the Measurer]]}}
+* {{1st|[[Nezarr (Earth-199999)|Nezarr the Calculator]]}}
+* {{Vision|[[Tiamut (Earth-Unknown)|Tiamut]]}}
+* {{Mentioned|[[Avengers (Earth-199999)|Avengers]]]]}}
+** {{Mentioned|[[Anthony Stark (Earth-199999)|Iron Man (Tony Stark)]]}}
+** {{Mentioned|[[Steven Rogers (Earth-199999)|Captain America (Steve Rogers)]]}}
+** {{Mentioned|[[Thor Odinson (Earth-199999)|Thor]]}}
+* {{Mentioned|[[Thanos (Earth-199999)|Thanos]]}}
+* {{Mentioned|[[Stephen Strange (Earth-199999)|Doctor Strange]]}}
+* {{Mentioned|[[Nathan Garrett (Earth-199999)|Nathan Garrett]]}}
+* {{Mentioned|[[Odin Borson (Earth-199999)|Odin]]}}
+* {{Mentioned|[[Laufey (Earth-199999)|Laufey]]}}
+* {{Mentioned|[[Arthur Pendragon (Earth-199999)|King Arthur]]}}
+* [[Bruce Wayne|Batman]] {{Mentioned}} {{Topical Reference}}
+* [[w:c:DC:Alfred Pennyworth|Alfred Pennyworth]] {{Mentioned}} {{Topical Reference}}
+* [[Clark Kent|Superman]] {{Mentioned}} {{Topical Reference}}
+* {{Statue|[[Jesus of Nazareth (Earth-199999)|Jesus Christ]]}}
+* {{1st|[[Pip Gofern (Earth-199999)|Pip the Troll]]}}
+* {{1st|[[Eros (Earth-199999)|Starfox (Eros)]]}}
+* {{Mentioned|[[Black Roger (Earth-199999)|Black Roger]]}}
+* {{Voice|[[Eric Brooks (Earth-199999)|Blade (Eric Brooks)]]}} {{1st}}
+'''Races and Species:'''
+* [[Eternals (Homo immortalis)|Eternals]]
+* [[Deviants (Homo descendus)|Deviants]]
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Celestials]]}}
+* {{a|[[Titans (Eternals)|Titans]]}}
+* {{Mentioned|[[Vampires]]}}
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[United Kingdom]]}}
+**** {{a|[[England]]}}
+***** {{a|[[London (England)|London]]}}
+****** {{a|[[Piccadilly Circus]]}}
+****** {{a|[[Natural History Museum]]}}
+****** {{a|[[Camden Town]]}}
+******* {{a|[[Camden Lock]]}}
+**** {{a|[[Scotland]]}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[South Dakota (State)|South Dakota]]}}
+**** {{a|[[Illinois (State)|Illinois]]}}
+***** {{a|[[Chicago (Illinois)|Chicago]]}}
+****** {{a|[[Phastos' Residence]]}}
+**** {{a|[[Alaska (State)|Alaska]]}}
+*** {{a|[[Iraq|Iraq/Mesopotamia]]}}
+**** {{a|[[Babylon]]}}
+***** {{a|[[Ishtar Gate]]}}
+***** {{a|[[Hanging Gardens of Babylon]]}}
+*** {{a|[[Japan]]}}
+**** {{a|[[Hiroshima]]}}
+*** {{a|[[Spain]]}}
+**** {{a|[[Canary Islands]]}}
+*** {{a|[[India]]}}
+**** {{a|[[Mumbai]]}}
+*** {{a|[[Indian Ocean]]}}
+*** {{a|[[Mexico]]}}
+**** {{a|[[Tenochtitlan]]}}
+*** {{a|[[Australia]]}}
+**** {{a|[[Ayers Rock|Ayers Rock/Uluru]]}}
+*** {{a|[[Peru]]}}
+**** {{a|[[Amazon Jungle|Amazon]]}}
+***** {{a|[[Druig's Compound]]}}
+*** {{a|[[Brazil]]}}
+**** {{a|[[Rio de Janeiro (City)|Rio de Janerio]]}}
+** {{a|[[World Forge]]}}
+* {{Mentioned|[[Centuri-Six]]}} {{Destroyed}}
+* {{Mentioned|[[Mystery Planet]]}}
+* {{Vision|[[Earth-Unknown|Earth Destroyed by Tiamut]]}}
+** {{Vision|[[Earth]]}} {{Destroyed}}
+* {{Vision|[[Earth-Unknown|Habitable Saturn]]}}
+** {{Vision|[[Saturn (Planet)|Saturn]]}}
+'''Items:'''
+* {{a|[[Celestial Astrolabe]]}}
+* {{a|[[Celestial Sextant]]}}
+* {{a|[[Eternals (Homo immortalis)#Mahd Wy'ry|Mahd Wy'ry]]}}
+* {{Mentioned|[[Vibranium]]}}
+* {{Minor|[[Captain America's Shield]]}} {{g|Replica}}
+* {{a|[[Excalibur (Sword)|Excalibur]]}}
+* {{a|[[Ebony Blade]]}}
+* {{a|[[Emerald Tablet]]}}
+'''Vehicles:'''
+* {{a|[[Domo (Ship)|Domo]]}}
+* Kingo's Jet
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Gemma Chan|Gemma Chan]] as [[Sersi (Earth-199999)|Sersi]]<ref name="D23 2019"/>
+
+* [[wikipedia:Richard Madden|Richard Madden]] as [[Ikaris (Earth-199999)|Ikaris]]<ref name="SDCC 2019">{{cite web|url=https://www.marvel.com/articles/movies/sdcc-2019-all-of-the-marvel-studios-news-coming-out-of-hall-h-at-san-diego-comic-con|title=SDCC 2019: All of the Marvel Studios News Coming Out of Hall H at San Diego Comic-Con|author=Marvel|work=Marvel.com|date=20 July 2019|accessdate=21 July 2019}}</ref>
+
+* [[wikipedia:Kumail Nanjiani|Kumail Nanjiani]] as [[Kingo (Earth-199999)|Kingo]]<ref name="SDCC 2019"/>
+
+* [[wikipedia:Lia McHugh|Lia McHugh]] as [[Sprite (Earth-199999)|Sprite]]<ref name="SDCC 2019"/>
+
+* [[wikipedia:Brian Tyree Henry|Brian Tyree Henry]] as [[Phastos (Earth-199999)|Phastos]]<ref name="SDCC 2019"/>
+
+* [[wikipedia:Lauren Ridloff|Lauren Ridloff]] as [[Makkari (Earth-199999)|Makkari]]<ref name="SDCC 2019"/>
+
+* [[wikipedia:Barry Keoghan|Barry Keoghan]] as [[Druig (Earth-199999)|Druig]]<ref name="D23 2019">{{cite web|url=https://www.marvel.com/articles/movies/d23-expo-2019-all-the-movies-news-from-the-marvel-studios-presentation|title=D23 Expo 2019: All the Movies News from the Marvel Studios Presentation|author=Marvel|date=24 August 2019|accessdate=24 August 2019}}</ref>
+
+* [[wikipedia:Ma Dong-seok|Don Lee]] as [[Gilgamesh (Earth-199999)|Gilgamesh]]<ref name="SDCC 2019"/>
+
+* [[wikipedia:Kit Harington|Kit Harington]] as [[Dane Whitman (Earth-199999)|Dane Whitman]]<ref name="D23 2019"/>
+
+* [[wikipedia:Salma Hayek|Salma Hayek]] as [[Ajak (Earth-199999)|Ajak]]<ref name="SDCC 2019"/>
+
+* [[wikipedia:Angelina Jolie|Angelina Jolie]] as [[Thena (Earth-199999)|Thena]]<ref name="SDCC 2019"/>
+
+* [[wikipedia:David Kaye|David Kaye]] as [[Arishem (Earth-199999)|Arishem]] (voice)
+
+* [[wikipedia:Bill Skarsgard|Bill Skarsgard]] as [[Kro (Earth-199999)|Kro]] (voice)
+
+* [[wikipedia:Harry Styles|Harry Styles]] as [[Eros (Earth-199999)|Eros]]
+
+* [[wikipedia:Patton Oswalt|Patton Oswalt]] as [[Pip Gofern  (Earth-199999)|Pip]]
+
+* [[wikipedia:Haaz Sleiman|Haaz Sleiman]] as Phastos' husband [[Benjamin Stoss (Earth-199999)|Ben]].{{r|{{cite web|url= https://io9.gizmodo.com/marvels-first-big-screen-queer-couple-will-be-eternals-1841669443|title= Marvel's First Big-Screen Queer Couple Will Be Eternals' Haaz Sleiman and Brian Tyree Henry|work= io9 Gizmodo|last= Pulliam-Moore|first= Charles|date= February 13, 2020|accessdate= February 14, 2020}}}} 
+
+* [[wikipedia:Harish Patel|Harish Patel]] as Kingo's manager [[Karun Patel (Earth-199999)|Karun]].{{r|[[:File:Eternals (film) poster 001.jpg|Official ''Eternals'' poster]]}}
+
+Additionally, {{WP|Mahershala Ali}} made an uncredited voice-appearance as [[Eric Brooks (Earth-199999)|Blade]] in the post-credits.{{r|{{cite web|url= https://variety.com/2021/film/news/eternals-post-credits-harry-styles-starfox-kit-harington-mahershala-ali-black-knight-ebony-blade-1235105503/|title= How ‘Eternals’ Pulled Off Those Wild Post-Credits Scenes: ‘I Still Can’t Believe It Happened’|work= Variety|last= Vary|first= Adam B.|date= November 5, 2021|accessdate= November 7, 2021}}}}
+
+| Notes                   = * Filming for this film started in late July, 2019,{{r|{{cite web|url= https://ew.com/comic-con/2019/07/21/angelina-jolie-the-eternals-exclusive-cast-portrait/|title= See the exclusive first portrait of Angelina Jolie and the cast of The Eternals|work= EW|last= Bucksbaum|first= Sydney|date= July 21, 2019|accessdate= July 24, 2019}}}} and wrapped on February 4, 2020.{{r|{{cite web|url= https://www.digitalspy.com/movies/a30768076/marvel-phase-four-the-eternals-filming-wrapped-gemma-chan/|title= Marvel's The Eternals star Gemma Chan confirms Phase 4 movie has wrapped filming|work= Digital Spy|last= Chase|first= Stephanie|date= February 4, 2020|accessdate= February 14, 2020}}}}
+* The film was originally scheduled to release on November 6, 2020.<ref name="D23 2019"/> However, on April 3, 2020, Marvel announced its Phase Four film line-up had been pushed back due to the [[wikipedia:COVID-19 pandemic|COVID-19 pandemic]], with ''Eternals'' taking the new release date of February 12, 2021.{{r|{{cite web|url= https://variety.com/2020/film/box-office/disney-mulan-black-widow-release-dates-coronavirus-1203550173/|title= ‘Black Widow,’ ‘Eternals,’ ‘Indiana Jones 5’ and More Disney Films Get New Release Dates|work= Variety|last= Rubin|first= Rebecca|date= April 3, 2020|accessdate= April 3, 2020}}}} In September 2020, the film was pushed back again to November 5, 2021.<ref>{{cite web|url=https://variety.com/2020/film/news/black-widow-west-side-story-eternals-release-date-delay-1234773491/|title=‘Black Widow,’ ‘West Side Story,’ ‘Eternals’ Postpone Release Dates|accessdate=24 September 2020|last=Lang|first=Brent|coauthors=Rubin, Rebecca|date=23 September 2020|work=Variety}}</ref>
+| Trivia                  = * Gemma Chan had previously portrayed the [[Earth-199999|Marvel Cinematic Universe]]-character [[Minn-Erva (Earth-199999)|Minn-Erva]] in the film {{sl|Captain Marvel (film)}}.
+** On being recast from her role in ''Captain Marvel'', Chan stated that Marvel Studios head Kevin Feige told her that they'd love to work with her again and that they "wanted to make better use" of her acting talents.<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/gemma-chan-on-let-them-all-talk-and-how-she-wound-up-in-eternals-after-captain-marvel|title=Gemma Chan on 'Let Them All Talk' and How She Wound Up in 'Eternals' After 'Captain Marvel'|last=Davis|first=Brian|work=The Hollywood Reporter|date=11 December 2020|accessdate=13 December 2020|}}</ref>
+==Gallery==
+===Alternate Posters===
+<gallery>
+Eternals (film) Logo.jpg
+Eternals (film) poster 002 textless.jpg
+Eternals (film) poster 001.jpg
+Eternals (film) poster 001 textless.jpg
+Eternals (film) poster 013.jpg
+Eternals (film) poster 013 textless.jpg
+Eternals (film) poster 018.jpg
+Eternals (film) poster 018 textless.jpg
+Eternals (film) poster 019.jpg
+Eternals (film) poster 019 textless.jpg
+Eternals (film) poster 014.jpg
+Eternals (film) poster 014 textless.jpg
+Eternals (film) poster 021.jpg
+Eternals (film) poster 021 Textless.jpg
+Eternals (film) poster 022.jpg
+Eternals (film) poster 022 Textless.jpg
+Eternals (film) poster 023.jpg
+Eternals (film) poster 023 Textless.jpg
+Eternals (film) poster 003.jpg
+Eternals (film) poster 004.jpg
+Eternals (film) poster 005.jpg
+Eternals (film) poster 006.jpg
+Eternals (film) poster 007.jpg
+Eternals (film) poster 008.jpg
+Eternals (film) poster 009.jpg
+Eternals (film) poster 010.jpg
+Eternals (film) poster 011.jpg
+Eternals (film) poster 012.jpg
+Eternals (film) poster 016.jpg
+Eternals (film) poster 017.jpg
+Eternals (film) poster 020.jpg
+Eternals (film) poster 003 textless.jpg
+Eternals (film) poster 004 textless.jpg
+Eternals (film) poster 005 textless.jpg
+Eternals (film) poster 006 textless.jpg
+Eternals (film) poster 007 textless.jpg
+Eternals (film) poster 008 textless.jpg
+Eternals (film) poster 009 textless.jpg
+Eternals (film) poster 010 textless.jpg
+Eternals (film) poster 011 textless.jpg
+Eternals (film) poster 012 textless.jpg
+Eternals (film) poster 016 textless.jpg
+Eternals (film) poster 020 textless.jpg
+Eternals (film) poster 015.jpg
+Eternals (film) poster 015 Textless.jpg
+</gallery>
+
+===Trailers===
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios Celebrates The Movies
+Marvel Studios’ Eternals - Official Teaser
+Marvel Studios’ Eternals - Final Trailer
+</gallery>
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[tr:Eternals (film)]]
+[[it:Eternals (film)]]
+[[ru:Вечные (фильм)]]

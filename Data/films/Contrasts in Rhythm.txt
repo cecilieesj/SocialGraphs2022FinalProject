@@ -1,0 +1,24 @@
+{{Infobox film
+|name        = Contrasts in Rhythm
+|director    = 
+|producer    = 
+|writer      = 
+|distributor = Walt Disney Productions
+|language    = English
+|image = Image:1955-contrasts-1.jpg
+|imagewidth = 250px
+|release = [[March 11]], [[1955]]}}'''''Contrasts in Rhythm''''' is an animated short containing two segments from ''[[Melody Time]]'': "[[Bumble Boogie]]" and "[[Trees (Melody Time)|Trees]]".
+
+==Gallery==
+<gallery>
+contrasts in rhythm title.jpg
+1955-contrasts-3.jpg
+1955-contrasts-2.jpg
+</gallery>
+
+{{Melody Time}}
+[[Category:Animated shorts]]
+[[Category:1955 shorts]]
+[[Category:Melody Time]]
+[[Category:Compilation films]]
+[[Category:Unrated films]]

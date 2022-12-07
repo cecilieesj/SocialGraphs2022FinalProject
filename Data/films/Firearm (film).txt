@@ -1,0 +1,55 @@
+{{Marvel Database:Film Template
+| Image                   = Firearm (film).jpg
+| Aliases                 = 
+
+| Directors               = Darren Doane
+| Producers               = 
+| ComicWriters            = 
+| StoryWriters            = 
+| ScreenplayWriters       = James Robinson
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = 
+| Running Time            = 35 minutes
+| Rating                  = '''MPAA:''' Rated PG
+| Budget                  = 
+| Release Date            = September 1993
+
+| IMDB ID                 = 0136198
+| Marvel Movies           = Firearm (film)
+
+| Previous Film           = 
+| Next Film               = 
+
+| Tagline                 = One man. One gun. One Chance...
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Alexander Swan (Earth-93060)|Firearm (Alec Swan)]]|-|Firearm Vol 1 0}} {{1st}}
+'''Antagonists:'''
+* {{apn|[[Felix (Earth-93060)|Duet]]|-|Firearm Vol 1 0}} {{1st}}
+'''Locations:'''
+* {{a|[[Earth-93060]]}}
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * James Jude Courtney as [[Alexander Swan (Earth-93060)|Firearm/Alec Swan]]
+* James Geralden as Ben Travers
+* Joe Hulser as Duet
+* George LePorte as Sam Daily
+* Derek Stewart as Charlie Cant
+* Mark Thorne as Rob Lyle
+* Thomas Crawford as Ron Blake
+* Kelly Kidneigh as Lydia
+* James K. Stroud as Farley
+
+| Notes                   = * Released on VHS in a bundle with ''[[Firearm Vol 1 0|Firearm Vol 1 0]]''.
+* The events of the video take place immediately prior to ''Firearm Vol 1 0''.
+| Trivia                  = 
+| Links                   = 
+}}

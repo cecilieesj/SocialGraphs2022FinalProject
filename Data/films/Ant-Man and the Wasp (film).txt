@@ -1,0 +1,206 @@
+{{Marvel Database:Film Template
+| Image                   = Ant-Man and the Wasp (film) poster 002.jpg
+| Aliases                 = Ant-Man 2<br>Cherry Blue (working title)
+
+| Directors               = Peyton Reed
+| Producers               = Kevin Feige; Stephen Broussard
+| ComicWriters            = [[Stan Lee]]; [[Larry Lieber]]; [[Jack Kirby]]
+| ScreenplayWriters       = Chris McKenna; Erik Sommers; Paul Rudd; Andrew Barrer; Gabriel Ferrari
+| StoryWriters            = 
+| Musicians               = Christophe Beck
+| Cinematographers        = Dante Spinotti
+| Editors                 = Dan Lebental; Craig Wood
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = 118 minutes
+| Rating                  = '''MPAA:''' PG-13 for sci-fi action violence and brief suggestive material
+| Budget                  = $130 million
+| Release Date            = July 4, 2018
+| US Release Date         = July 6, 2018
+
+| AM ID                   = ant-man-and-the-wasp-v643807
+| IMDB ID                 = 5095030
+| Marvel Movies           = Ant-Man and the Wasp
+| MCU                     = Ant-Man and the Wasp
+
+| Previous Film           = Ant-Man (film)
+| Previous Film2          = {{sld|Captain America: Civil War}}
+| Next Film               = Avengers: Endgame
+| Next Film2              = {{sld|Ant-Man and the Wasp: Quantumania}}
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Hope Van Dyne (Earth-199999)|Wasp/"Susan" (Hope Van Dyne)]]|Ant-Man (film)|Avengers: Endgame}} {{1stas|Wasp}} {{Flashback}} {{Death}}
+* {{apn|[[Scott Lang (Earth-199999)|Ant-Man (Scott Lang)]]|Marvel's Avengers: Infinity War Prelude Vol 1 1|Avengers: Endgame}} {{Flashback}}
+'''Supporting Characters:'''
+* {{apn|[[Henry Pym (Earth-199999)|Dr. Hank Pym]]|Ant-Man (film)|Avengers: Endgame}} {{Flashback}} {{g|As [[Ant-Man]] in flashback only}} {{Death}}
+* {{apn|[[Janet Van Dyne (Earth-199999)|Janet Van Dyne]]|Ant-Man (film)|Avengers: Endgame}} {{1stFull}} {{Revealed Alive}} {{Flashback}} {{g|As the [[Wasp]] in flashback only}} {{Death}}
+* {{apn|[[Cassandra Lang (Earth-199999)|Cassie Lang]]|Marvel's Avengers: Infinity War Prelude Vol 1 1|Avengers: Endgame}} {{Flashback}}
+* {{1st|[[X-Con Security Consultants (Earth-199999)|X-Con Security Consultants]]}}
+** {{apn|[[Luis (Earth-199999)|Luis]]|Ant-Man (film)|-}} {{Flashback}}
+** {{apn|[[Dave (Earth-199999)|Dave]]|Ant-Man (film)|-}}
+** {{apn|[[Kurt Goreshter (Earth-199999)|Kurt]]|Ant-Man (film)|-}}
+* {{a|[[Ant-Man's Ants]]}}
+** [[Character Index/Earth-199999#Ulysses S. Gr-Ant|Ulysses S. Gr-Ant]] {{1st}}
+** [[Character Index/Earth-199999#Ant-onio Banderas|Ant-onio Banderas]] {{Only Dies}}
+** Numerous unnamed ants
+'''Antagonists:'''
+* {{a|[[Federal Bureau of Investigation (Earth-199999)|F.B.I.]]}}
+** {{apn|[[James Woo (Earth-199999)|Agent Jimmy Woo]]|-|WandaVision Season 1 4}} {{1st}}
+** {{1st|[[Agent Burleigh (Earth-199999)|Agent Burleigh]]}}
+** [[Character Index/Earth-199999#Stoltz|Agent Stoltz]] {{Only Dies}}
+** [[Character Index/Earth-199999#Pearson|Agent Pearson]] {{1st}}
+** Numerous unnamed agents
+* {{1st|[[Ava Starr (Earth-199999)|Ghost (Ava Starr)]]}} {{Flashback}}
+* {{1st|[[Sonny Burch (Earth-199999)|Sonny Burch]]}}
+* [[Character Index/Earth-199999#Uzman|Uzman]] {{1st}}
+* [[Character Index/Earth-199999#Knox|Knox]] {{1st}}
+* [[Character Index/Earth-199999#Anitolov|Anitolov]] {{1st}}
+* {{1st|[[William Foster (Earth-199999)|Dr. Bill Foster]]}} {{Flashback}}
+'''Other Characters:'''
+* [[Character Index/Earth-199999#Rose|Rose]] {{Only}} {{FlashOnly}}
+* {{FlashOnly|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-199999)|S.H.I.E.L.D.]]}}
+* {{Mentioned|[[Steven Rogers (Earth-199999)|Captain America (Steve Rogers)]]}}
+* {{apn|[[Maggie Lang (Earth-199999)|Maggie Lang]]|Ant-Man (film)|-}}
+* {{apn|[[James Paxton (Earth-199999)|Jim Paxton]]|Ant-Man (film)|-}}
+* {{Mentioned|[[Avengers (Earth-199999)|Avengers]]}}
+* {{Mentioned|[[Hydra (Earth-199999)|Hydra]]}}
+* {{Only Dies|[[Elihas Starr (Earth-199999)|Elihas Starr]]}} {{FlashOnly}}
+* {{Only Dies|[[Catherine Starr (Earth-199999)|Catherine Starr]]}} {{FlashOnly}}
+* {{Mentioned|[[George Washington (Earth-199999)|George Washington]]}}
+* [[Wikipedia:George Jefferson|George Jefferson]] {{Mentioned}}
+* {{Mentioned|[[MI6 (Earth-199999)|MI6]]}}
+* {{1st|[[Daniel Gooobler (Earth-199999)|Captain Daniel Gooobler]]}}
+* {{a|[[Stan Lee (Earth-199999)|Stan Lee]]}}
+'''Races and Species:'''
+* {{Flashback|[[Humans (Homo sapiens)|Humans]]}}
+* {{Flashback|[[Ants]]}}
+* [[wikipedia:Tardigrade|Tardigrades]] {{1st}}
+'''Locations:'''
+* {{Flashback|[[Earth-199999]]}}
+** {{Flashback|[[Earth]]}}
+*** {{Flashback|[[United States of America]]}}
+**** {{Flashback|[[California (State)|California]]}}
+***** {{Flashback|[[San Francisco]]}}
+****** Brookemont Elementary School
+****** {{FlashOnly|[[San Quentin Prison]]}}
+****** {{a|[[Fisherman's Wharf]]}}
+****** {{a|[[San Francisco Bay]]}}
+**** {{Mentioned|[[Minnesota (State)|Minnesota]]}}
+*** {{Mentioned|[[Germany]]}}
+*** {{FlashOnly|[[Argentina]]}}
+** {{a|[[Microverse|Quantum Realm]]}}
+'''Items:'''
+* {{Mentioned|[[Sokovia Accords]]}}
+* {{a|[[Ant-Man's Suit|Ant-Men's Suits]]}} and {{Flashback|[[Ant-Man's Helmet|Helmets]]}}
+* {{a|[[Wasp's Suit|Wasps' Suits]]}} and {{Flashback|[[Bio-Synthetic Wings]]}}
+* {{a|[[Pym Particles]]}}
+* {{a|[[Pym Discs]]}}
+* Hank Pym's Portable Lab {{1st}}
+* {{1st|[[Ghost's Suit]]}} {{Flashback}}
+* {{1st|[[Quantum Tunnel]]}}
+'''Vehicles:'''
+* {{a|[[Ant-Van|X-Con Security Van]]}}
+
+| Plot                    = 
+
+| Cast                    = 
+* [[wikipedia:Paul Rudd|Paul Rudd]] as [[Scott Lang (Earth-199999)|Ant-Man / Scott Lang]]<ref name="Collider">{{cite web|url=http://collider.com/ant-man-and-the-wasp-michael-douglas/|title='Ant-Man and the Wasp': Michael Douglas Eyeing Return for Sequel|last=Cabin|first=Chris|work=Collider|date=13 November 2015|accessdate=13 November 2015}}</ref>
+
+* [[wikipedia:Evangeline Lilly|Evangeline Lilly]] as [[Hope Van Dyne (Earth-199999)|The Wasp / Hope Van Dyne]]<ref name="Collider"/>
+** Madeleine McGraw portrays young Hope
+
+* [[wikipedia:Michael Peña|Michael Peña]] as [[Luis (Earth-199999)|Luis]]<ref>{{cite web|url=http://www.hollywoodreporter.com/heat-vision/michael-pena-star-sony-horror-920657|title=Michael Pena to Star in Sony Horror Thriller 'The Bringing' (Exclusive)|last=Kit|first=Borys|work=The Hollywood Reporter|date=19 August 2016|accessdate=19 August 2016}}</ref>
+
+* [[wikipedia:Walton Goggins|Walton Goggins]] as [[Sonny Burch (Earth-199999)|Sonny Burch]]<ref>{{cite web|url=http://deadline.com/2017/07/walton-goggins-ant-man-and-the-wasp-cast-1202130667/|title=Walton Goggins Flies To ‘Ant-Man And The Wasp’|last=Hipes|first=Patrick|work=Deadline|date=18 July 2017|accessdate=18 July 2017}}</ref><ref>{{cite web|url=http://www.ign.com/articles/2017/07/23/comic-con-2017-michelle-pfeiffer-joins-cast-of-ant-man-and-the-wasp|title=Comic-Con 2017: Three Character Castings Revealed for Ant-Man and the Wasp|last=Sanchez|first=Miranda|work=IGN|date=22 July 2017|accessdate=22 July 2017}}</ref>
+
+* [[wikipedia:Hannah John-Kamen|Hannah John-Kamen]] as [[Ava Starr (Earth-199999)|Ghost]]<ref>{{cite web|url=http://variety.com/2017/film/news/black-mirrors-hannah-john-kamen-in-ant-man-and-the-wasp-1202456011/|title='Black Mirror's' Hannah John-Kamen Lands Key Role in 'Ant-Man and the Wasp' (EXCLUSIVE)|last=Kroll|first=Justin|work=Variety|date=7 June 2017|accessdate=7 June 2017}}</ref><ref name="SDCC 2017"/>
+** RaeLynn Bratten potrays young Ava
+
+* [[wikipedia:David Dastmalchian|David Dastmalchian]] as [[Kurt Goreshter (Earth-199999)|Kurt]]<ref>{{cite web|url=http://www.etonline.com/media/video/exclusive david dastmalchian confirms kurt is returning for ant man and the wasp-215632/|title=EXCLUSIVE: David Dastmalchian Confirms Kurt Is Returning for 'Ant-Man and the Wasp'|date=19 April 2017|accessdate=23 May 2017|work=Entertainment Tonight}}</ref>
+
+* [[wikipedia:T.I.|Tip "T.I." Harris]] as [[Dave (Earth-199999)|Dave]]<ref>{{cite web|url=http://www.blackfilm.com/read/2017/05/exclusive-ti-confirmed-to-return-marvel-ant-man-and-the-wasp/|title=Exclusive: T.I. Confirmed To Return In Marvel’s Ant-Man and The Wasp|date=23 May 2017|accessdate=23 May 2017|last=Morales|first=Wilson|work=Blackfilm}}</ref>
+
+* [[wikipedia:Judy Greer|Judy Greer]] as [[Maggie Lang (Earth-199999)|Maggie Lang]]<ref>{{cite web|url=http://deadline.com/2017/07/judy-greer-marvels-ant-man-and-the-wasp-1202137515/|title=Judy Greer Set to Return for Marvel's 'Ant-Man and the Wasp'|last=N'Duka|first=Amanda|work=Deadline|date=27 July 2017|accessdate=2 August 2017}}</ref>
+
+* [[wikipedia:Bobby Cannavale|Bobby Cannavale]] as [[James Paxton (Earth-199999)|Jim Paxton]]<ref name="Coming Soon Production">{{cite web|url=http://www.comingsoon.net/movies/trailers/875655-production-officially-begins-on-ant-man-and-the-wasp#/slide/1|title=Production Officially Begins on Ant-Man and The Wasp!|last=Perry|first=Spencer|work=Coming Soon|date=1 August 2017|accessdate=2 August 2017}}</ref>
+
+* [[wikipedia:Randall Park|Randall Park]] as [[James Woo (Earth-199999)|Agent Jimmy Woo]]<ref>{{cite web|url= http://screenrant.com/ant-man-2-wasp-randall-park-jimmy-woo/|title= Ant-Man & The Wasp Casts Randall Park as S.H.I.E.L.D.’s Jimmy Woo|work= Screen Rant|last= Hood|first= Cooper|date= 2017-07-07|accessdate= 2017-07-08}}</ref>
+
+* [[wikipedia:Abby Ryder Fortson|Abby Ryder Fortson]] as [[Cassandra Lang (Earth-199999)|Cassie Lang]]<ref name="Coming Soon Production"/>
+
+* [[wikipedia:Michelle Pfeiffer|Michelle Pfeiffer]] as [[Janet Van Dyne (Earth-199999)|Janet Van Dyne]]<ref name="SDCC 2017">{{cite web|url=http://www.hollywoodreporter.com/heat-vision/ant-man-wasp-casts-michelle-pfeiffer-laurence-fishburne-at-comic-con-1023664|title='Ant-Man and the Wasp' Casts Michelle Pfeiffer and Laurence Fishburne|last=Couch|first=Aaron|work=The Hollywood Reporter|date=22 July 2017|accessdate=22 July 2017}}</ref>
+** [[wikipedia:Hayley Lovitt|Hayley Lovitt]] portrays young Janet
+
+* [[wikipedia:Laurence Fishburne|Laurence Fishburne]] as [[William Foster (Earth-199999)|Dr. Bill Foster]] <ref name="SDCC 2017"/>
+** His son [[wikipedia:Langston Fishburne|Langston Fishburne]] portrays young Bill
+
+* [[wikipedia:Michael Douglas|Michael Douglas]] as [[Henry Pym (Earth-199999)|Dr. Hank Pym]]<ref name="Douglas Filming">{{cite web|url=https://www.facebook.com/MichaelDouglasOfficial/photos/a.439589159469239.1073741828.436431613118327/1296569953771151/?type=3&theater|title=Getting ready to play Dr. Pym again in Ant-Man 2 shooting in July. Need to start growing the goatee now. #antman #marvel|accessdate=10 February 2017|last=Douglas|first=Michael|date=10 February 2017|work=Facebook|archiveurl=http://archive.is/cnZHh|archivedate=10 February 2017}}</ref>
+** [[wikipedia:Dax Griffin|Dax Griffin]] portrays young Hank
+
+Additionally, [[wikipedia:Divian Ladwa|Divian Ladwa]], [[wikipedia:Goran Kostić|Goran Kostić]] and [[wikipedia:Rob Archer|Rob Archer]] portray Uzman, Anitolov, and Knox, respectively.{{r|:File:Marvel Studios' Ant-Man and The Wasp Red Carpet World Premiere}} [[wikipedia:Sean Kleier|Sean Kleier]], [[wikipedia:Benjamin Byron Davis|Benjamin Byron Davis]], and Suehyla El-Attar appear as FBI agents [[Agent Stoltz (Earth-199999)|Stoltz]], [[Agent Burleigh (Earth-199999)|Burleigh]], and Pearson, respectively. [[wikipedia:Michael Cerveris|Michael Cerveris]] and [[wikipedia:Riann Steele|Riann Steele]] portray [[Elihas Starr (Earth-199999)|Elihas]] and [[Catherine Starr (Earth-199999)|Catherine Starr]], respectively. [[wikipedia:Tim Heidecker|Tim Heidecker]] makes a cameo as [[Daniel Gooobler (Earth-199999)|Captain Daniel Gooobler]]. [[Stan Lee]] makes a cameo as a pedestrian whose car is shrunk. Julia Vera-Andrews portrays Luis' grandmother. Darcy Shean appears as Rose the nanny. [[wikipedia:Brian Huskey|Brian Huskey]] cameos as Cassie's teacher. ''[[wikipedia:The Best Show with Tom Scharpling|The Best Show]]'' hosts [[wikipedia:Tom Scharpling|Tom Scharpling]] and [[wikipedia:Jon Wurster|Jon Wurster]] make cameos as Burch's SUV drivers.
+
+| Notes                   = * ''[[Ant-Man (film)|Ant-Man]]'' co-writer [[Wikipedia:Adam McKay|Adam McKay]] stated he would have a contribution to the film in some sort of capacity.<ref>{{cite web|url=http://nerdist.com/adam-mckay-ant-man-and-the-wasp/|title=ADAM MCKAY WILL BE BACK FOR ANT-MAN AND THE WASP (EXCLUSIVE)|last=McCabe|first=Joseph|work=Nerdist|date=16 February 2016|accessdate=17 February 2016}}</ref>
+* Filming for this film began on August 1, 2017, and wrapped on November 19, 2017.<ref>{{cite web|url=https://news.marvel.com/movies/70705/marvel-studios-ant-man-wasp-begins-production/|title=Marvel Studios' 'Ant-Man and the Wasp' Begins Production|last=Strom|first=Marc|work=Marvel.com|date=1 August 2017|accessdate=2 August 2017}}</ref><ref>{{cite web|url= https://twitter.com/MrPeytonReed/status/932511307030396928|title= That’s a wrap. #AntManandtheWasp|work= Twitter|last= Reed|first= Peyton|date= 2017-11-19|accessdate= 2017-11-20|archiveurl= https://web.archive.org/web/20171120150056/https:/twitter.com/MrPeytonReed/status/932511307030396928|archivedate= 2017-11-20}}</ref>
+* The film takes place two years after ''[[Captain America: Civil War]]''.{{r|:File:Marvel Studios’ Ant-Man and The Wasp War TV Spot}}
+| Trivia                  = * Marvel Studios announced ''Ant-Man and the Wasp'' on October 8, 2015, almost a year after the original slate of Phase 3 films in the [[Earth-199999|Marvel Cinematic Universe]] was first announced.<ref>{{cite web|url=http://marvel.com/news/movies/25244/marvel studios phase 3 update|title=Marvel Studios Phase 3 Update|last=Strom|first=Marc|work=Marvel.com|date=8 October 2015|accessdate=8 October 2015}}</ref>
+* Early on, the film included a flashback scene of Hank Pym and Bill Foster's younger years working together, in which audiences would've been able to actually see Foster growing in size. The idea was scrapped, according to director Peyton Reed, because it was from a narrative perspective "too much of a left turn."{{r|{{cite web|url=https://soundcloud.com/empiremagazine/ant-man-and-the-wasp-spoiler-special|title=Ant-Man And The Wasp Spoiler Special|work=Soundcloud|first=The Empire Film Podcast|date=10 August 2018|accessdate=11 August 2018}}}}
+* Writers [[Chris McKenna]] and [[Erik Sommers]] were told at one point to add a piece of dialogue about [[Hope Van Dyne (Earth-199999)|Hope Van Dyne]] losing her cat, which would have had ramifications in ''[[Avengers: Endgame]]''. McKenna believes it's possible that instead of a rat, Hope's cat would have been responsible for setting up the [[Quantum Tunnel]] to free [[Scott Lang (Earth-199999)|Ant-Man]] from the [[Quantum Realm]].{{r|{{cite web|url=https://www.hollywoodreporter.com/heat-vision/why-spider-man-far-home-nixed-a-donald-glover-cameo-1223627|title='Spider-Man: Far From Home' Team Considered a Donald Glover Cameo|work=The Hollywood Reporter|first=Aaron|last=Couch|date=13 July 2019|accessdate=19 July 2019}}}}
+
+==Gallery==
+===Alternate Posters===
+<gallery position="center" captionalign="center">
+Ant-Man and the Wasp (film) logo 001.jpg
+Ant-Man and the Wasp (film) poster 001.jpg
+Ant-Man and the Wasp (film) poster 003.jpg
+Ant-Man and the Wasp (film) poster 004.jpg
+Ant-Man and the Wasp (film) poster 005.jpg
+Ant-Man and the Wasp (film) poster 006.jpg
+Ant-Man and the Wasp (film) poster 007.jpg
+Ant-Man and the Wasp (film) poster 008.jpg
+Ant-Man and the Wasp (film) poster 009.jpg
+Ant-Man and the Wasp (film) poster 010.jpg
+Ant-Man and the Wasp (film) poster 011.jpg
+Ant-Man and the Wasp (film) poster 012.jpg
+Ant-Man and the Wasp (film) poster 013.jpg
+Ant-Man and the Wasp (film) poster 014.jpg
+Ant-Man and the Wasp (film) poster 015.jpg
+Ant-Man and the Wasp (film) poster 016.jpg
+Ant-Man and the Wasp (film) poster 017.jpg
+Ant-Man and the Wasp (film) promo art 001.jpg
+</gallery>
+===Videos===
+====Trailers====
+<gallery widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios' Ant-Man and the Wasp - Official Trailer
+Marvel Studios' Ant-Man and The Wasp - Official Trailer
+</gallery>
+====Teasers====
+<gallery widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios' Ant-Man and The Wasp Unleashed TV Spot
+Marvel Studios' Ant-Man and The Wasp Fun TV Spot
+Marvel Studios' Ant-Man and The Wasp House Arrest TV Spot
+Marvel Studios' Ant-Man and The Wasp Powers TV Spot
+Marvel Studios’ Ant-Man and The Wasp Universe TV Spot
+Marvel Studios’ Ant-Man and The Wasp War TV Spot
+Marvel Studios' Ant-Man and The Wasp Flock TV Spot
+Marvel Studios’ Ant-Man and The Wasp Skills TV Spot
+Marvel Studios’ Ant-Man and The Wasp Prepare TV Spot
+Marvel Studios’ Ant-Man and The Wasp Days Away TV Spot
+</gallery>
+====Clips====
+<gallery widths="300" spacing="small" hideaddbutton="true">
+Marvel Studios' Ant-Man and The Wasp "Scenic Tour" Film Clip
+</gallery>
+====Featurettes====
+<gallery widths="300" spacing="small" hideaddbutton="true">
+“Ant-Man & The Wasp” Now In Production
+Where Were Ant-Man and the Wasp? New Trailer Tomorrow
+Marvel Studios' Ant-Man and The Wasp “It’s Takes Two” Featurette
+Marvel Studios' Ant-Man and The Wasp Who is The Wasp? Featurette
+Marvel Studios' Ant-Man and The Wasp Red Carpet World Premiere
+</gallery>
+| Links                   = 
+* [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[ru:Человек-муравей и Оса]]

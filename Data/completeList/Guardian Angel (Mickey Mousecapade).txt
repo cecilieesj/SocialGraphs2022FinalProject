@@ -1,0 +1,32 @@
+{{Infobox character
+|name=Guardian Angel
+|image=Guardian Angel mickeymouse manual.jpg
+|shows=
+|games=''[[Mickey Mousecapade]]''
+|animator=
+|voice= 
+|designer=
+|inspiration= 
+|fullname = 
+|personality = 
+|occupation= Angel
+|alliance = Good
+|goal= To help [[Mickey Mouse]] and [[Minnie Mouse|Minnie]] in their quest
+|home= 
+|family=
+|pets=  
+|friends=[[Mickey Mouse]], [[Minnie Mouse]]
+|enemies=
+|likes= 
+|dislikes= 
+|powers= Invincibility granting powers
+|weapons= 
+|fate= 
+|quote=}}'''Guardian Angel''' is a helpful character in the video game ''[[Mickey Mousecapade]]''. She helps [[Mickey Mouse]] and [[Minnie Mouse]] by making them invincible, but only for 10 seconds.
+{{CharacterStub}}
+[[Category:Mickey Mouse universe characters]]
+[[Category:Females]]
+[[Category:Angels]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Characters introduced in video games]]

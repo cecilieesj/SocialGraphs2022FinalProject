@@ -1,0 +1,29 @@
+{{Infobox character
+|image = Dtr-moon-rat.gif
+|name = Giant Moon Rat
+|games = ''[[DuckTales (video game)|Ducktales]]''<br>''[[DuckTales Remastered]]''
+|alignment = Bad
+|weapons = His claws and teeth}}The '''Giant Moon Rat''', also known as the '''Lunar Rat''' or '''Lunarat''' is an antagonist who appears in the video games ''[[DuckTales (video game)|DuckTales]]'' and ''[[DuckTales Remastered]]'' as the boss of the Moon level. In the NES version, the Rat jumps around, trying to pounce on [[Scrooge McDuck]].
+In the Remastered version, the Rat is one of the escaped rats from the spaceship. After eating the Green Cheese of Longevity, the Moon Rat grows into a giant rat. It still tries to pounce on Scrooge, but with some new powers. With the Green Cheese, the Rat can teleport and use enhanced speed to attack Scrooge. After he is defeated, the Rat turns back to its normal size and scurries away, allowing Scrooge to acquire the Green Cheese.
+
+<gallery position="center">
+Lunar Rat.png|Scrooge encountering the Rat in ''[[DuckTales (video game)|DuckTales]]''
+DTNES - Lunarat (Nintendo Power).png|Lunarat's artwork in ''Nintendo Power''
+</gallery>
+
+{{CharacterStub}}
+{{DuckTales}}
+[[fi:Jättiläiskuurotta]]
+[[Category:Characters]]
+[[Category:Rats]]
+[[Category:Giants]]
+[[Category:Aliens]]
+[[Category:DuckTales characters]]
+[[Category:Video game bosses]]
+[[Category:Characters in video games]]
+[[Category:Disney characters]]
+[[Category:Mutants]]
+[[Category:Animated characters]]
+[[Category:Adults]]
+[[Category:Males]]
+[[Category:Characters introduced in video games]]

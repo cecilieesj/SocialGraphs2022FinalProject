@@ -1,0 +1,69 @@
+{{Adaptation}}
+{{Marvel Database:Film Template
+| Image                   = Guardians' Inferno poster 001.png
+| Image2                  = Guardians' Inferno poster 002.jpg
+| Aliases                 = Guardians of the Galaxy: Inferno
+
+| Directors               = James Gunn; David Yarovesky
+| Producers               = James Gunn
+| ScreenplayWriters       = James Gunn
+| StoryWriters            = James Gunn
+| Musicians               = Tyler Bates; James Gunn
+| Cinematographers        = Michael Dallatorre
+| Editors                 = James Gunn
+| Distributors            = Walt Disney Studios Home Entertainment
+| Running Time            = 3 minutes, 38 seconds
+| Rating                  = 
+| Budget                  = 
+| Release Date            = August 6, 2017
+
+| IMDB ID                 = 7131308
+
+| Quotation               = ''Getting down and dirty with a [[procyon lotor]],''<br>
+''Got no people skills but he's good with motors.''<br>
+''That weird thing by his side's an [[Groot II (Earth-199999)|infantilized sequoia]].''<br>
+''The two of them walk by, people say "oh boy-a".''<br>
+''They ask me why I'm bringin'''<br>
+''A baby into battle.''<br>
+''That's really irresponsible''<br>
+''And getting them rattled.''<br>
+''I say "give me a break,''<br>
+''Get off of my back, damn it.''<br>
+''[[Peter Quill (Earth-199999)|I]] didn't learn parenting,''<br>
+''[[Ego (Earth-199999)|My daddy]] was a planet!"''<br>
+''(Zardu Hasselfrau, Zardu Hasselfrau, hey!)''<br>
+''(Zardu Hasselfrau, Zardu Hasselfrau, hey!)''<br>
+| Speaker                 = [[Zardu Hasselfrau (Earth-199999)]]{{r|Guardians' Inferno}}
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[The Sneepers (Earth-199999)|The Sneepers]]}}
+** {{1st|[[Zardu Hasselfrau (Earth-199999)|Zardu Hasselfrau]]}}
+'''Supporting Characters:'''
+* {{a|[[Stan Lee (Earth-199999)|Stan Lee]]}}
+* [[wikipedia:Guillermo Rodriguez (comedian)|Guillermo]]
+'''Other Characters:'''
+* {{Mentioned|[[89P13 (Earth-199999)|Rocket (89P13)]]}}
+* {{Mentioned|[[Groot II (Earth-199999)|Groot]]}}
+* {{Mentioned|[[Ego (Earth-199999)|Ego]]}}
+'''Races and Species:'''
+* {{1st|[[Sneepers]]}}
+* {{Mentioned|[[Raccoons|Procyon lotor]]}}
+* {{Mentioned|[[Flora colossi|Sequoia]]}}
+* {{Mentioned|[[Celestials]]}}
+'''Locations:'''
+* {{a|[[Earth-199999]]}}
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:David Hasselhoff|David Hasselhoff]] as [[Zardu Hasselfrau (Earth-199999)|Zardu Hasselfrau]]
+* [[Stan Lee|Stan Lee]] as himself
+* [[wikipedia:Guillermo Rodriguez (comedian)|Guillermo]] as himself
+* [[wikipedia:Chris Pratt|Chris Pratt]] as an unnamed [[Robots|robot]]
+* [[wikipedia:Dave Bautista|Dave Bautista]], [[wikipedia:Karen Gillan|Karen Gillan]], [[wikipedia:Zoe Saldana|Zoe Saldana]], [[wikipedia:Michael Rooker|Michael Rooker]], [[James Gunn]], [[wikipedia:Sean Gunn|Sean Gunn]], and [[wikipedia:Pom Klementieff|Pom Klementieff]] as [[The Sneepers (Earth-199999)|The Sneepers]]
+
+| Notes                   = * Released as a bonus feature on the digital and Blu-ray release for the film ''[[Guardians of the Galaxy Vol. 2 (film)|Guardians of the Galaxy Vol. 2]]''.
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Marvel Studios|Marvel Films]]
+}}
+[[Category:Short Films]]

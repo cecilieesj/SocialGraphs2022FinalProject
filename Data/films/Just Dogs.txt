@@ -1,0 +1,51 @@
+{{Infobox film
+|image = just-dogs-original.jpg
+|imagewidth = 250px
+|name = Just Dogs
+|director = [[Burt Gillett]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = [[Pinto Colvig]]
+|music = Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[United Artists]]
+|release = [[August 12]], [[1932]]<ref>[https://archive.org/details/motionpictureher109unse/page/62/mode/2up/ Motion Picture Herald (12/24/1932)]</ref>
+|language = English
+|preceded = ''[[The Bears and Bees]]''
+|followed = ''[[Flowers and Trees]]''}}
+'''''Just Dogs''''' is a ''[[Silly Symphony]]'' cartoon starring [[Pluto]], released on [[August 12]], [[1932]].
+
+==Synopsis==
+Two inmates at the city dog pound stage an escape and free most of their companions as well. A lively spree ensues, most of which takes place in a nearby junk yard.
+
+==Releases==
+'''Television'''
+*''[[The Mickey Mouse Club]]'', January 31, 1956
+*''[[The Ink and Paint Club]]'', episode #1.32: "Goin' to the Dogs"
+
+'''DVD'''
+*''[[Walt Disney Treasures]]: Silly Symphonies''
+
+==Trivia==
+*This is the first cartoon short where [[Pluto]] has a starring role without [[Mickey Mouse]].
+*This also marks the only time Pluto appears in a Silly Symphony short.
+
+==Gallery==
+<gallery captionalign="center" spacing="small" position="center" widths="150">
+Ss-justdogs-redux.jpg|Title card
+16505.jpg
+16506.jpg
+16507.jpg
+16510.jpg
+16511.jpg
+16512.jpg
+</gallery>
+
+==References==
+<references/>
+{{Pluto-Series}}
+{{Silly Symphony}}
+[[Category:Silly Symphonies]]
+[[Category:Animated shorts]]
+[[Category:Pluto shorts]]
+[[Category:1932 shorts]]

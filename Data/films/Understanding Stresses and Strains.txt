@@ -1,0 +1,38 @@
+{{Infobox film
+|image = 1968-stresses-01.jpg
+|name = Understanding Stresses and Strains
+|caption = 
+|director = [[Hamilton Luske]]
+|producer = 
+|writer = [[Al Bertino]] (story)<br>[[Otto Englander]] (story)
+|music = 
+|cinematography =  
+|studio = [[Walt Disney Productions]]
+|distributor = Upjohn Pharmacy Company
+|release = 1968
+|time = 10 minutes
+|language = English
+}}'''''Understanding Stresses and Strains''''' is a [[1968]] Disney educational animated short. It was produced by the Upjohn Company as part of Upjohn's Triangle of Health series.
+
+==Synopsis==
+This film suggests the usage of common sense to minimize the normal stresses and strains of everyday life.
+
+==Gallery==
+<gallery widths="185">
+StressesStrains 1.jpg
+StressesStrains 2.jpg
+StressesStrains 3.jpg
+StressesStrains 4.jpg
+1968-stresses-04.jpg
+1968-stresses-05.jpg
+1968-stresses-06.jpg
+1968-stresses-07.jpg
+1968-stresses-08.jpg
+</gallery>
+
+{{Stub}}
+
+[[Category:1968 shorts]]
+[[Category:Animated shorts]]
+[[Category:Disney films]]
+[[Category:Educational films]]

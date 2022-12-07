@@ -1,0 +1,22 @@
+{{Infobox film
+|image = File:Paul_mccartney_music_and_animation.jpg
+|name = Paul McCartney: The Music and Animation Collection
+|studio = MPL Entertainment
+|distributor = [[Miramax Films]]<br>Echo Bridge Home Entertainment (re-release)
+|release = [[2004]] (DVD)
+|time = 45 minutes
+|starring = [[Paul McCartney]]
+}}
+'''''Paul McCartney: The Music and Animation Collection''''' is a collection of three animated shorts produced by {{WikipediaLink|Paul McCartney}}. It was released in the U.S. on DVD by [[Miramax Films]]. The film includes ''{{WikipediaLink|Rupert and the Frog Song}}'', ''{{WikipediaLink|Tuesday (book)|Tuesday}},'' and ''{{WikipediaLink| Tropic Island Hum}}''.
+
+==Release==
+This film was released on DVD in August [[2004]] in libraries and released in September at Amazon.com. This film was also re-released on DVD in [[2011]] by Echo Bridge Home Entertainment.
+
+{{DEFAULTSORT:Paul McCartney: Music and Animation}}
+[[Category:Articles with Wikipedia content]]
+[[Category:2004 films]]
+[[Category:Miramax Films]]
+[[Category:Live-action films]]
+[[Category:Animated films]]
+[[Category:Non-Disney]]
+[[Category:Compilation films]]

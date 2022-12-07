@@ -1,0 +1,64 @@
+{{Infobox character
+|image = Sofie Squirt.jpg
+|name = 
+|films = 
+|shorts = 
+|shows = 
+|games = ''[[Toontown Online]]''
+|rides = 
+|actor = 
+|actress = 
+|animator = 
+|voice = 
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = 
+|personality = 
+|appearance = Green Duck wearing a white shirt and a red skirt
+|occupation = Owner of The Squirting Flower
+|alignment = Good
+|affiliations = 
+|goal = 
+|home = 
+|family = 
+|pets = 
+|friends = 
+|minions = 
+|enemies = 
+|likes = 
+|dislikes = 
+|powers = 
+|possessions = 
+|weapons = 
+|fate = 
+|quote = }}'''Sophie Squirt''' is a character from the discontinued online video game, ''[[Toontown Online]]''. She is [[Toon]] NPC green Duck who wears a white shirt and a red skirt. She is the owner of The Squirting Flower located in Maple Street, Daisy Gardens.
+
+==Toontask==
+In Daisy Gardens, toons will be given two similar toontasks.
+#Visit Sophie Squirt in The Squirting Flower, Maple Street, Daisy Gardens.
+#Defeat 20 Cogs on Maple Street.
+#Return to Sophie Squirt.
+Reward: +1 Laff Boost
+#Deliver 10 Squirting Flowers to Sophie Squirt in The Squirting Flower, Maple Street, Daisy Gardens.
+#Defeat 20 Cogs on Maple Street.
+#Return to Sophie Squirt.
+Reward: +1 Laff Boost.
+
+==SOS Toon==
+When used as an SOS Toon, she restocks the Squirt Gag track except the Level 7. She is a 3-star Squirt Restock.
+
+==Trivia==
+*Her building's name shares the same name as a Gag, the Squirting Flower.﻿
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Ducks]]
+[[Category:Females]]
+[[Category:Characters]]
+[[Category:Animated characters]]
+[[Category:Characters introduced in video games]]
+[[Category:Characters in video games]]
+{{Toontown Online}}

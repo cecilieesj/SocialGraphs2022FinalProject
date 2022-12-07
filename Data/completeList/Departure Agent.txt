@@ -1,0 +1,44 @@
+{{Infobox character
+|image = Coco (2017) - Departure Agent.png
+|name = Departure Agent
+|films = ''[[Coco (film)|Coco]]''
+|shorts = 
+|shows = 
+|games = 
+|voice = [[Carla Medina]]
+||occupation = Officer
+|affiliations = 
+|goal = 
+|home = [[Land of the Dead]]
+|minions = 
+|likes = 
+|dislikes = 
+|powers = 
+|paraphernalia = Computer
+|status = Deceased
+|quote = }}
+The '''Departure Agent''' is a character who appears in the [[2017]] [[Walt Disney Pictures|Disney]]/[[Pixar]] animated film, ''[[Coco (film)|Coco]]''. 
+
+==Background==
+As her name implies, the Departure Agent is a female skeleton who scans skeletons of deceased people to cross the bridge before sunrise. Though she uses her computer, she only allows skeletons whose pictures are placed on their respective ''ofrendas'' in order for them to cross the bridge.
+
+==Role in the film==
+During the scene where [[Miguel Rivera]] and [[Dante]] arrive at the [[Land of the Dead]]'s departure area, the Departure Agent is first seen scanning a skeleton couple whose computer shows an image of the couple's picture on their son's ''ofrenda'' in the real world, followed by [[Juan Ortodoncia]] who has his picture on his dentist's ''ofrenda'' and [[Héctor]] disguised as [[Frida Kahlo]]. Noticing this, the Departure Agent's computer shows no result of "Frida"'s picture on the ''ofrenda'' and she refuses to let the disguised skeleton cross the bridge. "Frida" is then revealed to be Héctor in disguise. As a result, Héctor cannot cross the bridge due to his photo not being placed on his family's ''ofrenda''.
+
+At the end of the film during the musical number "[[Proud Corazón]]", the Departure Agent finally allows Héctor to cross the bridge due to his photo being placed on the ''ofrenda'' after [[Coco Rivera|Mamá Coco]] put the torn photo of her father on the incomplete photo just as Héctor finally reunites with his family in rejoice.
+
+==Trivia==
+*In the ''Coco'' installment in the ''[[As Told by Emoji]]'' short series, the [[Arrival Agent]] takes the Departure Agent's role when scanning skeletons whose pictures must be placed on the ofrenda for them to cross the bridge.
+
+==External links==
+*{{Interwiki|https://vignette.wikia.nocookie.net/pixar/images/6/64/Favicon.ico|pixar|Departure Agent|Pixar Wiki}}
+
+{{PixarWiki}}
+{{Coco}}
+[[pt-br:Agente de Partida]]
+[[Category:Coco characters]]
+[[Category:Pixar characters]]
+[[Category:Animated characters]]
+[[Category:Females]]
+[[Category:Skeletons]]
+[[Category:Deceased characters]]

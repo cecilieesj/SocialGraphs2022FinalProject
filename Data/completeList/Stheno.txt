@@ -1,0 +1,59 @@
+{{Infobox character
+|image = Stheno.jpg
+|films = ''[[Hercules (film)|Hercules]]''
+|name = Stheno
+|shows = ''[[Hercules (TV series)|Hercules]]''
+|games = ''[[Hercules (video game)|Hercules]]''<br>''[[Hades Challenge]]''<br>''[[Disney's Arcade Frenzy|Arcade Frenzy]]''
+|designer = [[Gerald Scarfe]]
+|voice = [[Andrea Martin]]
+|inspiration = {{WikipediaLink|Stheno}}
+|home = [[Ancient Greece]]
+|powers = Can turn anyone who looks into her eyes into stone<br>Poison from her snake's mouths. 
+|status = Defeated 
+|siblings=[[Medusa (Hercules)|Medusa]] (young sister)<br>Euryale (sister)}}
+'''Stheno''' is a gorgon and the elder sister of [[Medusa (Hercules)|Medusa]] and Euryale, and an antagonist from the ''[[Hercules]]'' franchise.
+
+==Appearances==
+===''[[Hercules (film)|Hercules]]''===
+In the film, Hades sends her, the [[Minotaur]], and the [[Griffins (Hercules)|Griffin]] to gang up on Hercules, but all 3 of them were defeated by a punch each from Hercules in less than a few seconds. Stheno was the last one knocked on the pile, squashing both the Minotaur and the Griffin below her.
+
+===[[Hercules (video game)|''Hercules'' Video Game]]===
+In the Hercules video game, Stheno serves as a boss in the "Medusa's Lair" section. She stands in the middle while Hercules runs around the edge, fighting off skeleton soldiers. She has the ability to shoot eye lasers that turn people to stone, shoot poison out of her snake heads, and slam her body into the ground which causes rubble to fall. Hercules must knock down pillars with mirrors on them during the fight. Doing so will cause the mirrors to fall, and Hercules will hide behind them. When he does, Stheno will shoot her lasers and hit herself. After she fires at all of the mirrors, she is defeated. 
+
+=== [[Disney's Arcade Frenzy|''Disney's Arcade Frenzy'']] ===
+Stheno is among the guardian enemies in the Flying Frenzy game along with the Minotaur and [[Nessus]]. They walk around on the bottom and platform clouds and can be defeated from above or the sides. 
+===[[Hercules (TV series)|''Hercules'' (TV series)]]===
+Stheno makes an appearance in the episode "[[Hercules and the Phil Factor]]", voiced by [[Andrea Martin]]. When [[Philoctetes]] comes to the gorgon's residence looking to sell spears, Stheno answers the door with a hiss and growl, which frightens Phil away from her.
+
+==Gallery==
+<gallery position="center" captionalign="center" widths="185">
+Medusa Griffin Minotaur Pawns.png|Stheno depicted as a pawn in the film. 
+Medusa Griffin Minotaur Defeated.png|Stheno being defeated in the film. 
+Medusa Level Hercules.png|Stheno's level title in the PS1 game. 
+Medusa Movie Hercules SNES Fight.png|Stheno in the PS1 game. 
+Stheno2.JPG|Stheno in the TV series.
+</gallery>
+
+==Trivia==
+*In the original storyboard for "[[Zero to Hero]]", Stheno and the Griffin were replaced respectively by a giant lobster and a huge green fish with a unicorn horn who helped the Minotaur fight Hercules.
+** Stheno, however, did fight Hercules in one scene of the demo version. In that scene, she was firing a green beam from her left hand when Hercules came from behind and tied her snakes into knots. The vase showing the result of the fight showed that Stheno's snakes were tangled around her head and twisted into 6 stacked loops that reached near the top of the vase, leaving her powerless.
+***This scene replaced the one where Hercules fought [[Cetus]].
+* This character also appears under the name "Medusa" in tie-in games from the original film. However, the animated series, which distinguishes the two, is considered to take canonical precedent over these.
+
+{{CharacterStub}}
+{{Hercules}}
+[[Category:Hercules characters]]
+[[Category:Females]]
+[[Category:Monsters]]
+[[Category:Greek Mythology]]
+[[Category:Greek characters]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:TV Animation characters]]
+[[Category:Villains]]
+[[Category:Animated characters]]
+[[Category:Characters in the Disney animated features canon]]
+[[Category:Legendary creatures]]
+[[Category:Siblings]]
+[[Category:Characters in video games]]
+[[Category:Video game bosses]]

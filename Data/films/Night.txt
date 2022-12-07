@@ -1,0 +1,48 @@
+{{Infobox film
+|name = Night
+|image = Ss-night-redux.jpg
+|director = [[Walt Disney]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = [[Marcellite Garner]]
+|music = Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[July 31]], [[1930]]
+|time = 6:52
+|preceded = ''[[Midnight in a Toy Shop]]''
+|followed = ''[[Monkey Melodies]]''
+}}
+'''''Night''''' is a [[Silly Symphony|''Silly Symphony'']] that was released on [[July 31]], [[1930]].
+
+==Synopsis==
+The appearance of a full moon over the old mill pond inspires much comic "bad singing" amongst the flora and fauna living there.
+
+==Home video releases==
+'''DVD'''
+* ''[[Walt Disney Treasures]]: More Silly Symphonies''
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150" captionalign="center">
+NIGHT (1).png
+NIGHT (2).png
+NIGHT (3).png
+NIGHT (4).png
+NIGHT (5).png
+NIGHT (6).png
+NIGHT (7).png
+NIGHT (8).png
+NIGHT (9).png
+</gallery>
+
+==Copyright info==
+The film's copyright was renewed on [[December 16]], [[1957]].<ref>[https://archive.org/details/catalogofcopyrig3111213li/page/116/mode/1up Catalog of Copyright Entries (1957 renewals)]</ref>
+
+==References==
+{{Reflist}}
+
+{{Silly Symphony}}
+[[Category:Animated shorts]]
+[[Category:Silly Symphonies]]
+[[Category:1930 shorts]]

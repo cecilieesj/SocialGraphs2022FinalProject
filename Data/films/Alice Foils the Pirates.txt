@@ -1,0 +1,23 @@
+{{NeedImage}}
+{{Infobox film
+|name = Alice Foils the Pirates
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[January 24]], [[1927]]
+|preceded = ''[[Alice the Golf Bug]]''
+|followed = ''[[Alice at the Carnival]]''
+}}
+'''''Alice Foils the Pirates''''' is a [[1927]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+Julius discovers Alice being held captive on Pete's pirate ship and once again has to take on Pete to rescue her.
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=52 Alice Foils the Pirates] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+[[Category:Animated shorts]]
+[[Category:1927 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Lost cartoons]]
+[[Category:Pete Shorts]]

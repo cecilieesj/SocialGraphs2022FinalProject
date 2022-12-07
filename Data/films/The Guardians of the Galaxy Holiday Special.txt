@@ -1,0 +1,86 @@
+{{Marvel Database:Film Template
+| Image = The Guardians of the Galaxy Holiday Special poster 001.jpeg
+| Aliases = Poptart (working title)
+| Universe = Earth-199999
+
+| Directors = James Gunn
+| Producers = Kevin Feige
+| ScreenplayWriters = James Gunn;
+| Musicians = John Murphy
+| Cinematographers = Henry Braham
+| Editors = Greg D'Auria
+| ProductionCompanies = Marvel Studios
+| Distributors = Disney Platform Distribution
+| Running Time = 
+| Rating = <!--Do not place until official rating has been given by the MPAA-->
+| Budget = 
+| Release Date = November 25, 2022
+
+| AM ID = 
+| Marvel Movies = The Guardians of the Galaxy Holiday Special
+| IMDB ID = 13623136
+| MCU = The Guardians of the Galaxy Holiday Special
+
+| Previous Film = Guardians of the Galaxy Vol. 2 (film)
+| Previous Film2 = {{sld|Avengers: Endgame}}{{sld|Thor: Love and Thunder}}
+| Next Film = Guardians of the Galaxy Vol. 3 (film)
+
+| Appearances = 
+'''Featured Characters:'''
+* [[Guardians of the Galaxy (Earth-199999)|Guardians of the Galaxy]]
+** [[Peter Quill (Earth-199999)|Star-Lord (Peter Quill)]]
+** [[Drax (Earth-199999)|Drax the Destroyer]]
+** [[Mantis (Earth-199999)|Mantis]]
+** [[Nebula (Earth-199999)|Nebula]]
+** [[89P13 (Earth-199999)|Rocket]]
+** [[Groot (Earth-199999)|Groot]]
+** [[Kraglin Obfonteri (Earth-199999)|Kraglin Obfonteri]]
+
+'''Supporting Characters:'''
+* [[Cosmo (Earth-199999)|Cosmo]]
+* [[Kevin Bacon (Earth-199999)|Kevin Bacon]]
+
+'''Antagonists:'''
+* <br/>
+
+'''Other Characters:'''
+* <br/>
+
+'''Races and Species:'''
+* <br/>
+
+'''Locations:'''
+* <br/>
+
+'''Items:'''
+* <br/>
+
+'''Vehicles:'''
+* <br/>
+
+| Plot = 
+
+| Cast = * {{WP|Chris Pratt}} as [[Peter Quill (Earth-199999)|Star-Lord / Peter Quill]]
+
+* {{WP|Dave Bautista}} as [[Drax (Earth-199999)|Drax]]
+
+* {{WP|Pom Klementieff}} as [[Mantis (Earth-199999)|Mantis]]
+
+* {{WP|Karen Gillan}} as [[Nebula (Earth-199999)|Nebula]]
+
+* {{WP|Bradley Cooper}} as [[89P13 (Earth-199999)|Rocket / 89P13]]
+** {{WP|Sean Gunn}} does the motion capture for Rocket
+
+* {{WP|Vin Diesel}} as [[Groot II (Earth-199999)|Groot]]
+
+* {{WP|Sean Gunn}} as [[Kraglin Obfonteri (Earth-199999)|Kraglin Obfonteri]]
+
+* {{WP|Maria Bakalova}} as [[Cosmo (Earth-199999)|Cosmo]]
+
+* {{WP|Kevin Bacon}} as '''Kevin Bacon'''
+
+| Notes = 
+| Trivia = 
+| Links = * [[Marvel Films#Upcoming Films|Marvel Films]]}}
+[[Category:Disney+]]
+[[Category:Marvel Studios]]

@@ -1,0 +1,103 @@
+{{Infobox Film
+|image = Luxo Jr.jpg
+|director = [[John Lasseter]]
+|producer = [[John Lasseter]]<br>William Reeves
+|writer = [[John Lasseter]]
+|music = Brian Bennett
+|studio = [[Pixar|Pixar Animation Studios]]
+|release = [[August 17]], [[1986]]<br>{{small|(SIGGRAPH)}}<br>[[November 24]], [[1999]]<br>{{small|(with ''[[Toy Story 2]]'')}}
+|time = 2 minutes
+|preceded = ''[[The Adventures of André & Wally B.]]''
+|followed = ''[[Red's Dream]]''
+|imdb_id = 0091455
+|runtime = 2 minutes, 18 seconds
+|country = [[United States]]
+|website = https://www.pixar.com/luxo-jr
+}}
+''This article is about the Pixar short film. For the character, see [[Luxo, Jr. (character)]].''{{Quote|In 1986, Pixar Animation Studios produced its first film. This is why we have a hopping lamp in our logo.|Introductory message}}
+
+'''''Luxo, Jr.''''' was the first short film produced by the newly formed [[Pixar|Pixar Animation Studios]]. It debuted at the [[1986]] SIGGRAPH conference in Dallas, [[Texas]].
+
+The short was re-issued in [[1999]] and shown before screenings of ''[[Toy Story 2]]''. Luxo is also the "i" in PIXAR. In [[2014]], the film was selected for preservation by the [[National Film Registry]].
+
+==Plot==
+The only characters are two [http://en.wikipedia.org/wiki/Anglepoise_lamp Anglepoise] desk lamps, inspired by a Luxo brand task-light on [[John Lasseter]]'s desk. The small lamp, [[Luxo, Jr. (character)|Luxo, Jr.]], plays with a [[Pixar Ball|small inflated rubber ball]], chasing it and trying to balance on it as [[Luxo, Sr.]], the larger lamp reacts to these antics. The ball eventually deflates due to Luxo, Jr. jumping on it too much. Luxo, Jr. is admonished by Luxo, then finds and plays with an even larger ball.
+
+==Significance==
+On the technical level, the film demonstrates the use of shadow maps to simulate the shifting light and shadow given by the animated lamps.<ref name="fo">Foley, J. D., Van Dam, A., Feiner, S. K. & Hughes, J. F. (1995). ''Computer Graphics: Principles and Practice.'' Addison-Wesley. ISBN 978-0201848403.</ref> The lights and the color surfaces of all the objects are calculated, each using a RenderMan surface shader, not surface textures.<ref name="fo" /> The articulation of "limbs" is carefully coordinated, and power cords trail believably behind the moving lamps.<ref name="fo" /> On the cinematic level, it demonstrates a simple and entertaining story, including effectively expressive individual characters.<ref>Courrier, K. (2005). ''Randy Newman's American Dreams: American Dreams.'' ECW Press. ISBN 978-1550226904.</ref>
+
+It was Pixar's first animation after [[Ed Catmull]] and [[John Lasseter]] left ILM's computer division. Lasseter's aim was to finish the short film for SIGGRAPH, an annual computer technology exhibition attended by thousands of industry professionals. Catmull and Lasseter worked around the clock, and Lasseter even took a sleeping bag into work and slept under his desk<ref>The Pixar Story (2007) (TV documentary)</ref>, ready to work early the next morning. The commitment paid off, and against all odds, it was finished for SIGGRAPH. Before ''Luxo, Jr.'' finished playing at SIGGRAPH, the crowd had already risen in applause.<ref>Paik, K., Lasseter, J., Iwerks, L., Jobs, S. & Catmull, E. (2007). ''To Infinity and Beyond!: The Story of Pixar Animation Studios.'' Chronicle Books. ISBN 978-0811850124.</ref>
+
+{{Quote 2|"''Luxo, Jr.'' sent shockwaves through the entire industry – to all corners of computer and traditional animation. At that time, most traditional artists were afraid of the computer. They did not realize that the computer was merely a different tool in the artist's kit but instead perceived it as a type of automation that might endanger their jobs. Luckily, this attitude changed dramatically in the early '80s with the use of personal computers in the home. The release of our ''Luxo, Jr.'' ... reinforced this opinion turnaround within the professional community."|Edwin Catmull, Computer Animation: A Whole New World, [[1998]].}}
+
+In [[1986]], ''Luxo Jr.'' received an Academy Award nomination for Best Animated Short Film. It was the first computer animated film to be nominated for an Academy Award.<ref>Paik, Karen (2007). ''[http://www.amazon.com/Infinity-Beyond-Story-Animation-Studios/dp/0811850129/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1204431018&sr=8-1 To Infinity and Beyond! The Story of Pixar Animation Studios]''. San Francisco, CA: Chronicle Books LLC.</ref>
+
+In To Infinity and Beyond!: The Story of Pixar Animation Studios, a book of Pixar's history up through January [[2007]], film critic Leonard Maltin said that he "like[s] the fact that Luxo [Jr.] still has significance to the people at Pixar", and remarked that it was something like Disney's [[Mickey Mouse]].
+
+In [[2014]], the film was selected for preservation in the United States National Film Registry by the Library of Congress as being "culturally, historically, or aesthetically significant".
+
+==Gallery==
+<gallery spacing="small" position="center" widths="142" captionalign="center">
+282px-Title-luxojr.jpg|Official logo
+Luxo Sr..png
+File:Luxo Jr. (1986) Blender Remake (June 2021 Update) 000027.jpg
+Pixar-Luxo-Jr.jpg
+Picture of Luxo Jr..png|Picture of Luxo Jr.
+Luxo-Luxo-Jr.jpg
+File:Luxo Jr. (1986) Blender Remake (June 2021 Update) 000057.jpg
+VIcsnap1540506304947.jpeg
+Vlcsnap2010011919h11m36.png
+Frame of Luxo Jr..png|Frame of Luxo Jr.
+Luxo Sr. and Luxo Jr..png
+Luxo Sr. and Luxo Jr. is apologize.png
+File:Luxo Jr. (1986) Blender Remake (June 2021 Update) 000087.jpg
+Luxo Sr. and Luxo Jr. is chase.png
+Concept art of Luxo Jr..png|Concept art of Luxo Jr. by [[John Lasseter]] in 1986.
+Shadow maps of Luxo Jr..png|Shadow maps of Luxo Jr.
+</gallery>
+
+==Trivia==
+*Luxo Jr. is the first computer-animated short film to be nominated for an Academy Award.
+*Luxo Jr., the small lamp, was actually inspired by one of Pixar's employee's kid.
+*Luxo Jr. serves as Pixar's mascot and the ball serves as one of Pixar's top found easter eggs.
+*Luxo Jr. is the only original Pixar short not shown as a book on Andy's bookshelf in ''[[Toy Story]]''.
+*[[John Lasseter]] has said that while the parent lamp is a father, it is based on his mother.<ref>[http://www.youtube.com/watch?v=nU6WlLQWsyU John Lasseter Q&A: Is the Pixar lamp a mama lamp, or a daddy?]</ref>
+*When this short premiered at SIGGRAPH, as soon as the audience first saw the ball come in and the lamp move, they applauded throughout the whole short.
+*[[Disney+]] states the release of this movie to be 1999, the year it was re-issued with ''Toy Story 2''. 
+
+===Other appearances===
+*[[Luxo, Jr. (character)|Luxo, Jr.]] (sans cord) is seen in the opening logo of each [[Pixar Animation Studios|Pixar]] film (standing in for the "I" in "Pixar").
+*Luxo meets [[WALL-E (character)|WALL-E]] at the end of the film, ''[[WALL-E (film)|WALL-E]]''.
+*Luxo's light once turned into the "0" in "20" in ''[[Cars]]''.
+*Luxo's light also once became the "c" in "celebrating" in ''[[Cars 2]]'', but cannot be seen in Blu-ray and DVD.
+*Since the short's release, the Ball has appeared in almost every Pixar production to date.
+*There is a scene in ''[[Toy Story 2]]'' where [[Hamm]] rapidly flicks through TV channels to find a certain [[Al's Toy Barn|commercial]]. One of the channels is showing Luxo, Jr. Coincidently, the short was shown before screenings of ''Toy Story 2''.
+*An audio-animatronic version of Luxo, Jr. appears in [[Pixar Place]] at [[Disney's Hollywood Studios]] theme park. It comes out of shutters on the side of a building, bouncing out onto a platform. It dances around to different music that plays during the day, and at night it interacts with the lighting in nearby trees. The animatronic was removed in April 2010, officially because it was a test figure never meant to be permanent, but in truth, was because of legal issues with Luxo, the company that makes the lamps, over the unauthorized use of the name in a Blu-Ray boxset of ''[[Up]]''.
+*A series of four shorts featuring Luxo, Jr. and his [[Luxo, Sr.|father]] were produced for ''Sesame Street'' and aired in [[1991]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://pixar.fandom.com/wiki/Tiny_Toy_Stories Tiny Toy Stories]
+*[https://www.pixar.com/luxo-jr Pixar's official Luxo Jr. site]
+*[http://www.time.com/time/magazine/article/0,9171,962202,00.html The Love of Two Desk Lamps]
+
+{{Pixar}}
+[[de:Die kleine Lampe]]
+[[es:Luxo, Jr.]]
+[[fr:Luxo Jr. (film)]]
+[[pl:Luxo Jr]]
+[[pt-br:Luxo, Jr.]]
+[[ru:Люксо Младший]]
+[[zh:小台灯]]
+[[Category:Pixar films]]
+[[Category:1986 films]]
+[[Category:Animated shorts]]
+[[Category:Pixar shorts]]
+[[Category:1986 shorts]]
+
+[[Category:Featured shorts]]
+[[Category:National Film Registry films]]
+[[Category:Academy Award nominated films]]
+[[Category:Best Short Academy Award winners]]

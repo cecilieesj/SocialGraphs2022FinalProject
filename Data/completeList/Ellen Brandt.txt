@@ -1,0 +1,56 @@
+{{Infobox character
+|name = Ellen Brandt
+|image = Ellen_Brandt_IM3.jpg
+|films = ''[[Iron Man 3]]''
+|actress = [[Stephanie Szostak]]
+|fullname = Ellen Brandt
+|alias = 
+|occupation = 
+|affiliations = [[A.I.M.]]
+|powers = Extremis
+|paraphernalia =
+|status = Deceased}}
+
+'''Ellen Brandt''' is a character from the film ''[[Iron Man 3]]''. She was a war veteran turned assassin after her exposure to the virus [[Extremis]].
+
+Ellen Brandt was created by Roy Thomas, Gerry Conway, and Gray Morrow.
+
+==Role in the film==
+[[Aldrich Killian|Killian]] orders her to retrieve documents that detail the death of an individual exposed to [[Extremis]].
+Brandt arrives at the bar and discovers that Tony had already gotten the files, then passed by Homeland Security to "arrest" Tony, was only stopped by the Sheriff but she proceeds to kill him and his deputy.
+Brandt and [[Eric Savin|Savin]] chase [[Iron Man|Tony]] to recover the files but fail in their attempt. She dies in an explosion caused by Tony in a restaurant.
+
+==Trivia==
+*In the comics she is the ex-wife of Dr. Theodore Sallis, the [[Man-Thing]].
+*The writers envisioned Brandt as Killian's main henchman, which would return throughout the movie to fight Tony, but eventually that role was reassigned to Eric Savin.
+
+==Gallery==
+<gallery position="center">
+TonymeetsBrandt.png
+EllenBrandtwithGun-IM3.png
+EllenBrandtExtremis-IM3.png
+Ellen_Brant_death.png|Ellen Brant's death.
+EllenBrandtExtremisCandidate.png
+EllenBrandt6-IM3.png
+</gallery>
+
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Ellen Brandt|Marvel Cinematic Universe Wiki}}
+
+{{CharacterStub}}
+{{Marvel Cinematic Universe}}
+{{DEFAULTSORT:Brandt, Ellen}}
+[[Category:Characters]]
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Females]]
+[[Category:Deceased characters]]
+[[Category:Soldiers]]
+[[Category:Live-action characters]]
+[[Category:Adults]]
+[[Category:Villains]]
+[[Category:Live-action villains]]
+[[Category:Henchmen]]
+[[Category:Military characters]]
+[[Category:Iron Man characters]]
+[[Category:Acquired characters]]

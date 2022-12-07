@@ -1,0 +1,65 @@
+{{WarningAlert}}
+{{Infobox film
+|image = Der Fuhrer's Face Poster.jpg
+|imagewidth = 250px
+|name = Der Fuehrer's Face
+|director = [[Jack Kinney]]
+|producer = [[Walt Disney]]
+|writer = [[Joe Grant]]<br>[[Dick Huemer]]
+|starring = [[Clarence Nash]]<br>[[Billy Bletcher]]<br>[[Pinto Colvig]]<br>[[Charles Judels]]
+|music = [[Oliver Wallace]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[RKO Radio Pictures]]
+|release = [[January 1]], [[1943]]
+|language = English
+|preceded = ''[[Bellboy Donald]]''
+|followed = ''[[The Spirit of '43]]''
+}}
+'''''Der Fuehrer's Face''''' is a [[1943]] animated cartoon by [[Walt Disney Productions]], starring [[Donald Duck]]. It was directed by [[Jack Kinney]] and released on [[January 1]], [[1943]] as an anti-[[wikipedia:Nazism|Nazi]] propaganda film for the American war effort. The film won the 1943 Academy Award for Best Animated Short Film and was the only Donald Duck cartoon to win an Oscar. In [[1994]], it was voted #22 of "the 50 Greatest Cartoons" of all time by members of the animation field.
+
+==Synopsis==
+The cartoon begins with music from [[wikipedia:Richard Wagner|Wagner]]'s comic opera ''{{WikipediaLink|Die Meistersinger von Nürnberg}}'' before continuing into [[Der Fuehrer's Face (song)|the title song]].
+
+A German oom-pah band composed of Axis leaders [[wikipedia:Hideki Tojo|Hideki Tojo]] on sousaphone, [[wikipedia:Hermann Göring|Göring]] on piccolo, [[wikipedia:Joseph Goebbels|Goebbels]] on trombone, [[wikipedia:Benito Mussolini|Mussolini]] on bass drum and {{WikipediaLink|Heinrich Himmler}} on snare drum marches through a small German town, where everything, even the clouds and trees, are shaped as swastikas, singing the virtues of the Nazi doctrine. Passing by Donald's house (the features of which depict {{WikipediaLink|Adolf Hitler}}), they poke him out of bed with a bayonet to get ready for work. Because of wartime rationing, his breakfast consists of a piece of wood shaped like a loaf of bread, coffee brewed from a single hoarded coffee bean and an aromatic spray that tastes like bacon and eggs. The band shoves a copy of ''{{WikipediaLink|Mein Kampf}}'' in front of him for a moment of reading, then marches into his house and escorts him to a factory, with Donald carrying the bass drum and Göring kicking him.
+
+Upon arriving at the factory (at bayonet-point), Donald starts his 48-hour daily shift screwing caps onto artillery shells in an assembly line. Mixed in with the shells are portraits of the Führer, so Donald must perform the Hitler salute every time a portrait appears, all the while screwing the caps onto shells, much to his disgust. Each new batch of shells is of a different size, ranging from minute shells to massive shells as large as Donald if not larger. The pace of the assembly line intensifies (as in the {{WikipediaLink|Charlie Chaplin}} comedy ''[[wikipedia:Modern Times (film)|Modern Times]]'') and Donald finds it increasingly hard to complete all the tasks. At the same time, he is bombarded with propaganda messages about the superiority of the Aryan race and the glory of working for the Fuehrer.
+
+After a "paid vacation" that consists of making swastika shapes with his body for a few seconds in front of a painted backdrop of the Alps as exercise, Donald is ordered to work overtime. He has a nervous breakdown with hallucinations of artillery shells everywhere, some of which are snakes and birds, some sing and are the same shapes as the marching band from the beginning, music and all. When the hallucinations clear, he finds himself in his bed – in the [[United States]] – and realizes the whole experience was just a nightmare. Donald embraces a miniature {{WikipediaLink|Statue of Liberty}}, thankful for his American citizenship.
+
+The short ends with a caricature of Hitler's angry face. After two sets of "Heils", a tomato is thrown at Hitler's face and forms the words "THE END".
+
+==Voice Cast==
+*[[Cliff Edwards]] - Nazi lead singer
+*[[Billy Bletcher]], [[Pinto Colvig]], [[Charles Judels]], [[Jimmy MacDonald]] - Nazis
+*[[Clarence Nash]] - Donald Duck
+
+==Home video releases==
+===DVD===
+* ''[[Walt Disney Treasures]]: On the Front Lines''
+* ''Walt Disney Treasures: The Chronological Donald, Volume 2''
+==Gallery==
+{{Gallerylink}}
+
+==German vocabulary==
+This movie also include some German words. Besides the Hitlergruß ("Sieg Heil" and "Heil Hitler") there are as following:
+*''Heraus!'' (when Donald gets poked out of bed) - ''Get out!''
+*''Schweinehund'' (incorrectly spoken as ''Schweinhund'') -compares to ''b******'' or ''swine''
+* ''Mach schnell!'' - quick(ly)!
+* ''Verdammter Esel'' (incorrectly spoken as feminine form ''verdammte Esel'') - compares to ''b******'' or ''donkey''
+
+==Trivia==
+*The original title of this short was ''Donald Duck in Nutzi Land''. It was changed after Spike Jones' recording of the song became a huge hit, peaking at #3 in the ''Best Selling Singles'' chart.
+*The phrase "Heil Hitler" is spoken 33½ times in this short, the ½ being after Donald wakes up and realizes mid-sentence that the silhouette of ''der Fuehrer'' he is saluting is actually a figurine of the Statue of Liberty.
+*Despite its openly American patriotic and anti-Nazi message, this short is not available on [[Disney+]] due to the Nazi symbology and images in it and possibly its war propaganda purpose.
+
+{{Donald-Series}}
+[[es:Der Fuehrer's Face]]
+[[nl:Der Fuehrer's Face]]
+[[pt-br:A Face do Führer]]
+[[Category:Animated shorts]]
+[[Category:Donald Duck shorts]]
+[[Category:World War II films]]
+[[Category:Best Short Academy Award winners]]
+[[Category:1943 shorts]]
+[[Category:Articles containing mature content]]
+[[Category:Academy Award winning films]]

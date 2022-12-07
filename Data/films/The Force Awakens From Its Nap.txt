@@ -1,0 +1,59 @@
+{{Infobox film
+|image = The Force Awakens from Its Nap.jpeg
+|name = The Force Awakens from Its Nap
+|director = {{WikipediaLink|David Silverman (animator)|David Silverman}}<ref name="Credits">''Maggie Simpson in "The Force Awakens From Its Nap"'' credits</ref>
+|producer = 
+|writer = {{WikipediaLink|Joel Cohen}}<ref name="Credits" /> <br>{{WikipediaLink|Al Jean}}<ref name="Credits" /> <br> {{WikipediaLink|Michael Price (writer)|Michael Price}}<ref name="Credits" />
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[20th Television]] <br /> {{WikipediaLink|Gracie Films}}
+|distributor = [[Disney+]]
+|release = [[May 4]], [[2021]]<ref name="Announcement">[https://twitter.com/starwars/status/1389233973486768136 Tweet by @starwars]: ''In a daycare far, far away… but still in Springfield. Maggie Simpson in “The Force Awakens From Its Nap” is streaming tomorrow, May the 4th on #DisneyPlus.''</ref>
+|time = 3 minutes
+|language = English
+|budget = 
+|gross = 
+|preceded = ''[[Playdate with Destiny]]''
+|followed = ''[[The Simpsons: The Good, the Bart, and the Loki]]''
+|hidec = 
+|website = }}
+'''''Maggie Simpson in "The Force Awakens from Its Nap"''''' is a crossover short film between ''[[Star Wars]]'' and [[Wikipedia:The Simpsons|''The Simpsons'']]. It was released on [[May 4]], [[2021]] on [[Disney+]].<ref name="Announcement" />
+
+==Official description==
+:''In a daycare far, far away… but still in Springfield, Maggie is on an epic quest for her stolen pacifier. Her adventure brings her face-to-face with young [[w:c:starwars:Padawan|Padawans]], [[w:c:starwars:Sith Lord|Sith Lords]], familiar [[w:c:starwars:Droid|droids]], [[w:c:starwars:Alliance to Restore the Republic|Rebel]] scum, and an ultimate battle against the [[w:c:starwars:Dark side of the Force|Dark Side]], in this original short celebrating the [[Star Wars]] galaxy.''
+
+==Development==
+The idea behind a ''Star Wars'' short starring {{WikipediaLink|Maggie Simpson}} came up in January [[2021]]. As the [[Disney+]] ''{{WikipediaLink|The Simpsons}}'' library was well received, executive producer {{WikipediaLink|James L. Brooks}} proposed to do a series of shorts where the show interacted with other franchises available in the streaming service. Showrunner {{WikipediaLink|Al Jean}}, a long-time ''Star Wars'' fan, pitched the idea of making a ''Star Wars''-centric short in which Maggie is send to a [[Jedi]] preschool. Two shorts starring Maggie, ''{{WikipediaLink|The Longest Daycare}}'' and ''[[Playdate with Destiny]]'', had been previously produced in [[2012]] and [[2020]]. Both [[Lucasfilm]] and Disney+ showed enthusiasm for the idea, and asked ''The Simpsons'' crew to have the short ready for [[May 4]], 2021, given the [[Star Wars Day|"''Star Wars'' Day"]] is celebrated in that date.<ref name="Variety">{{Cite_web|url=https://variety.com/2021/tv/news/the-simpsons-star-wars-may-4-maggie-al-jean-1234965752/|title=‘The Simpsons’ Producer Al Jean on How the Show’s New ‘Star Wars’ Short Came to Be — And If Marvel Is Next|accessdate=2021-05-05|last=Schneider|first=Michael|date=2021-05-03|publisher=[[Wikipedia:Variety (magazine)|Variety]]|archiveurl=http://web.archive.org/web/20210504011216/https://variety.com/2021/tv/news/the-simpsons-star-wars-may-4-maggie-al-jean-1234965752/|archivedate=20210504011216}}</ref>
+
+Jean wrote the script along with {{WikipediaLink|Joel Cohen}} and {{WikipediaLink|Michael Price (writer)|Mike Price}} and ''The Simpsons'' director {{WikipediaLink|David Silverman (animator)|David Silverman}} directed the short. The first draft for the short was ready by [[January 18]]. They worked closely with Lucasfilm during throughout the short's development, providing suggestions and making sure that ''The Simpsons'' crew used the full universe of their characters. Among the characters included in the short is a "[[w:c:starwars:Maul|Darth Maul]] Baby" and [[BB-8]], but [[Grogu]] was only referenced yet not included, as Jean felt that the character, best known as "Baby Yoda", is probably the most demanded to Disney, so they understandably didn't want him to be overexposed. The Lucasfilm team also helped them to translate the [[w:c:starwars:Aurebesh|Aurebesh]] writing correctly on a chalkboard. The short was finished on [[April 30]], four days before its release date.<ref name="Variety" />
+
+==Trivia==
+* At one point during the film, some Aurebesh writing can be seen on a chalkboard. When translated, it reads: <br>'''GOOD JOB, NERDS'''<br>'''YOU FIGURED IT OUT.'''
+
+==References==
+*{{SW|url=news/the-force-awakens-from-its-nap-behind-the-scenes-of-the-surprise-star-wars-day-simpsons-short|text="The Force Awakens From Its Nap": Behind-the-Scenes of the Surprise ''Star Wars'' Day ''Simpsons'' Short|archivedate=20210504194214}}
+
+<references/>
+
+==External links==
+* [https://www.disneyplus.com/movies/maggie-simpson-in-the-force-awakens-from-its-nap/2pjsLoN9XE9q  ''The Force Awakens from Its Nap''] on [[Disney+]]
+* {{Wookieepedia|Maggie Simpson in "The Force Awakens From Its Nap"}}
+
+==See also==
+* [[Playdate with Destiny]]
+
+{{Star Wars}}
+{{DEFAULTSORT:Force Awakens From Its Nap}}
+{{DISPLAYTITLE:''The Force Awakens From Its Nap''}}
+[[Category:2021 films]]
+[[Category:Animated shorts]]
+[[Category:Disney+]]
+[[Category:Star Wars]]
+[[Category:2021 shorts]]
+[[Category:20th Century Fox films]]
+[[Category:20th Television]]
+[[Category:Disney+ Originals]]
+[[Category:Crossovers]]
+[[Category:The Simpsons]]

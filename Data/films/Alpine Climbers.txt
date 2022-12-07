@@ -1,0 +1,72 @@
+{{Infobox film
+|image = Alpine Climbers poster.jpg
+|imagewidth = 250px
+|name = Alpine Climbers
+|director = [[David Hand|Dave Hand]]
+|producer = [[Walt Disney]]
+|writer = Vernon Stallings<br>[[Homer Brightman]] (story)
+|starring = [[Walt Disney]]<br>[[Clarence Nash]]<br>[[Pinto Colvig]]<br>[[Jimmy MacDonald]]
+|music = [[Albert Hay Malotte]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[United Artists]]
+|release = [[July 25]], [[1936]]
+|language = English
+|preceded = ''[[Moving Day]]''
+|followed = ''[[Mickey's Circus]]''
+}}
+
+'''''Alpine Climbers''''' is a [[Mickey Mouse]] cartoon that was released on [[July 25]], [[1936]].
+
+==Synopsis==
+Up in the Swiss Alps, Mickey Mouse tangles with a mother eagle, Donald Duck scraps with an edelweiss-stealing goat and Pluto gets inebriated with a St. Bernard.
+
+==Characters==
+*[[Mickey Mouse]] (voiced by [[Walt Disney]])
+*[[Donald Duck]] (voiced by [[Clarence Nash]])
+*[[Pluto]] (voiced by [[Pinto Colvig]])
+*[[Bolivar]] (voiced by [[Jimmy MacDonald]])
+*Mountain Goat Kid
+*Mountain Goat Father (voiced by Clarence Nash)
+*Eagle Chicks (voiced by Jimmy MacDonald)
+*Mother Eagle (voiced by Jimmy MacDonald)
+
+==Trivia==
+*''Alpine Climbers'' is one of the shorts featured as a level in ''[[Epic Mickey]]''.
+*On the ''Walt Disney Cartoon Classics: Limited Gold Editions - Life with Mickey'' VHS, the cartoon uses the 1948 reissue titles.
+
+==Releases==
+===Television===
+*''[[Walt Disney anthology series|Disneyland]]'', episode #2.5: "[[The Adventures of Mickey Mouse]]"
+*''[[The Mouse Factory]]'', episode #15: "Back to Nature"
+*''[[Good Morning, Mickey]]'', episode #53
+*''[[Mickey's Mouse Tracks]]'', episode #43
+*''[[Donald's Quack Attack]]'', episode #14
+*''[[The Ink and Paint Club (show)|The Ink and Paint Club]]'', episode #1.22: "Classic Mickey"
+
+===Home video===
+* ''[[Walt Disney Cartoon Classics: Limited Gold Editions]] - Life with Mickey'' (VHS/laserdisc)
+* ''[[Walt Disney Treasures: Wave One|Walt Disney Treasures]]: Mickey Mouse in Living Color'' (DVD)
+* ''[[Walt Disney's It's a Small World of Fun!]]: Volume 3'' (DVD)
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+24205.jpg|Mickey ties Pluto up to the rock
+24206.jpg|Donald finds an edelweiss flower
+24211.jpg|One of angry baby eagles encounters Pluto
+24207.jpg|Bolivar saves Pluto from freezing
+24212.jpg|Donald realizes he got the wrong goat
+24210.jpg|Drunk bromance of Pluto and Bolivar
+1936-alpine-2.jpg|Mickey climbs the mountain
+1936-alpine-3.jpg|A snow goat kid is about to steal Donald's edelweiss flower
+Tumblr n1scdfSDfE1qhcrb0o1 1280.jpg|Bolivar wakes up
+ALPINE_CLIMBERS.png|Donald challenges a snow goat in a ram combat
+Alpine Climbers 1948 reissue poster.jpg|1948 reissue poster
+</gallery>
+
+{{Mickey-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Donald Duck shorts]]
+[[Category:Pluto shorts]]
+[[Category:Epic Mickey transition levels]]
+[[Category:1936 shorts]]

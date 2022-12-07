@@ -1,0 +1,44 @@
+{{Dablink2|the character from the upcoming movie ''[[Wish]]''|the [[Disney+]] brand|[[Star (brand)]]|the character from ''[[Star vs. the Forces of Evil]]''|[[Star Butterfly]]}}
+{{Upcoming|media=character}}
+{{NeedImage}}
+{{Infobox character
+|image = 
+|films = ''[[Wish]]''
+|shorts = 
+|shows = 
+|games = 
+|rides = 
+|animator = 
+|inspiration = The Iconic Wishing Star
+|designer = 
+|voice = 
+|fullname = 
+|alias = 
+|occupation = 
+|affiliations =Asha<br>Valentino 
+|home = Space 
+|likes = Making wishes
+|dislikes =
+|paraphernalia =
+|status = 
+|parents = 
+|siblings = 
+|family = 
+|partner = 
+|pets = }}
+'''Star''' is one of the upcoming characters from the Disney animated film, ''[[Wish]]'', based on the classic wishing star in various Disney films.
+
+==Appearance==
+Star is a little yellow star with white eyes and a small mouth.
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="150">
+Star First Look.jpg
+</gallery>
+{{CharacterStub}}
+{{Wish}}
+
+[[Category:Wish characters]]
+[[Category:Animated characters]]
+[[Category:Disney characters]]
+[[Category:Characters in the Disney animated features canon]]

@@ -1,0 +1,63 @@
+{{Infobox film
+| name           = One Little Indian
+| image          = One Little Indian.jpg
+| director       =  Bernard McEveety
+| producer       =  [[Winston Hibler]]
+| writer         =  Harry Spalding 
+| starring       =  [[James Garner]]<br>Vera Miles<br>Pat Hingle<br>Morgan Woodward<br>[[Jodie Foster]]
+| music          = Jerry Goldsmith 
+| cinematography = Charles F. Wheeler
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| runtime        = 90 minutes
+| country        = United States
+| language       = English
+| gross          = $2 million
+| editor         = Robert Stafford
+| release        = [[June 20]], [[1973]]
+| time           = 90 minutes
+| website        = https://movies.disney.com/one-little-indian
+| imdb_id        = tt0070481
+}}
+
+'''''One Little Indian''''' is a [[1973]] western Walt Disney movie starring [[James Garner]] and Vera Miles. The supporting cast includes Pat Hingle, Jay Silverheels, and features an 11-year-old [[Jodie Foster]]. The film was written by Harry Spalding and directed by Bernard McEveety.
+
+==Plot==
+<p style="margin-bottom: 0in">In the middle of an Indian raid, a cavalry rider goes AWOL in order to save the lives of the Native American women and children. Later, when he is crossing the desert in [[New Mexico]] on a camel, he meets a white boy who was raised by an Indian and is trying to find his tribe, and the two travel on together.</p>
+==Cast==
+*[[James Garner]] as Cpl. Clint Keyes
+*[[Vera Miles]] as Doris McIver
+*Pat Hingle as Capt. Stewart
+*Morgan Woodward as Sgt. Raines
+*John Doucette as Sgt. Waller
+*Clay O'Brien as Mark
+*Robert Pine as Lt. Cummins
+*Bruce Glover as Schrader
+*Ken Swofford as Pvt. Dixon
+*Jay Silverheels as Jimmy Wolf
+*Andrew Prine as Chaplain John Kaplan
+*[[Jodie Foster]] as Martha McIver
+*Walter Brooke as The doctor
+*Rudy Diaz as The Apache
+*John C. Flinn II as Cowboy (as John Flinn)
+
+==Gallery==
+<gallery spacing="small">
+One Little Indian DVD.jpg
+One Little Indian DVD Cover.jpg
+Tumblr_n90vx6uobL1qhcrb0o1_1280.jpg
+Mgg0CcAN3PYdQVgIvjIG8Pg.jpg
+</gallery>
+
+==Copyright info==
+A copyright renewal for the film was registered on [[August 3]], [[2001]].<ref>[https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First&Search_Arg=RE0000845665&Search_Code=REGS Online Copyright Catalog search (form autofilled, pressing "begin search" brings up the entry)]</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:1973 films]]
+[[Category:Western Films]]
+[[Category:One Little Indian]]
+[[Category:G-rated films]]

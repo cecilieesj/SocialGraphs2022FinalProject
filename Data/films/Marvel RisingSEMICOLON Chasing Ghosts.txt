@@ -1,0 +1,92 @@
+{{Marvel Database:Film Template
+| Image                   = Marvel Rising Chasing Ghosts poster 001.jpg
+| Aliases                 = 
+| Universe                = Earth-TRN684
+
+| Directors               = Alfred Gimeno
+| Producers               = 
+| ScreenplayWriters       = Mairghread Scott
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = 
+| Running Time            = 21 minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = January 16, 2019
+
+| Previous Film           = Marvel Rising: Secret Warriors
+| Next Film               = Marvel Rising: Heart of Iron
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{a|[[Gwendolyn Stacy (Earth-TRN684)|Ghost-Spider (Gwen Stacy)]]}}
+'''Supporting Characters:'''
+* {{a|[[Secret Warriors (Earth-TRN684)|Secret Warriors]]}}
+** {{a|[[Kamala Khan (Earth-TRN684)|Ms. Marvel (Kamala Khan)]]}}
+** {{a|[[Doreen Green (Earth-TRN684)|Squirrel Girl (Doreen Green)]]}}
+** {{a|[[Dante Pertuz (Earth-TRN684)|Inferno (Dante Pertuz)]]}}
+** {{a|[[Daisy Johnson (Earth-TRN684)|Quake (Agent Daisy Johnson)]]}}
+** {{a|[[Rayshaun Lucas (Earth-TRN684)|Patriot (Shaun Lucas)]]}}
+** {{a|[[America Chavez (Earth-TRN684)|Ms. America Chavez]]}}
+
+'''Antagonists:'''
+* {{a|[[Sheath (Earth-TRN684)|Sheath]]}}
+* {{a|[[Victor Kohl (Earth-TRN684)|Exile (Victor Kohl)]]}}
+* {{a|[[George Stacy (Earth-TRN684)|Captain George Stacy]]}}
+
+'''Other Characters:'''
+* {{a|[[Tippy-Toe (Earth-TRN684)|Tippy-Toe]]}}
+* {{a|[[Lockjaw (Earth-TRN684)|Lockjaw]]}}
+* {{a|[[Mary Janes (Earth-TRN684)|The Mary Janes]]}}
+** {{a|[[Mary Jane Watson (Earth-TRN684)|Em Jay Watson]]}}
+** {{a|[[Gloria Grant (Earth-TRN684)|Glory Grant]]}}
+** {{a|[[Elizabeth Brant (Earth-TRN684)|Betty Brant]]}}
+
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* {{a|[[Earth-TRN684]]}}
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Dove Cameron|Dove Cameron]] as Ghost Spider / Gwen Stacy
+
+* [[wikipedia:Kathreen Khavari|Kathreen Khavari]] as Ms. Marvel / Kamala Khan
+
+* [[wikipedia:Tyler Posey|Tyler Posey]] as Inferno / Dante Pertuz
+
+* [[wikipedia:Milana Vayntrub|Milana Vayntrub]] as Squirrel Girl / Doreen Green
+
+* [[wikipedia:Chloe Bennet|Chloe Bennet]] as Quake / Daisy Johnson
+
+* [[wikipedia:Cierra Ramirez|Cierra Ramirez]] as Ms. America Chavez
+
+* [[wikipedia:Dove Cameron|Dove Cameron]] as Ghost-Spider / Gwen Stacy
+
+* Kamil McFadden as Patriot / Rayshaun Lucas
+
+* [[wikipedia:Dee Bradley Baker|Dee Bradley Baker]] as Lockjaw & Tippy-Toe
+
+* [[wikipedia:Booboo Stewart|Booboo Stewart]] as Exile / Victor Kohl
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Marvel Rising|Marvel Films]]
+
+==Gallery==
+===Images===
+<gallery>
+Marvel Rising Chasing Ghosts logo 001.png
+</gallery>
+===Videos===
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Ghost-Spider Returns! Marvel Rising Chasing Ghosts TRAILER
+Marvel Rising Chasing Ghosts Starring Dove Cameron, Chloe Bennet & Milana Vayntrub SPECIAL
+</gallery>
+}}
+[[Category:Short Films]]

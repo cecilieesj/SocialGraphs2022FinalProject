@@ -1,0 +1,95 @@
+{{Infobox film
+| name           = The Christmas Tree
+| image          = File:Title-The Christmas Tree 1996.jpg
+| image_size     = 
+| caption        = 
+| director       = [[Sally Field]]
+| producer       = Steven R. McGlothen<br>Janet Brownell<br>Sally Field<br>Wendy Japhet
+| writer         = '''Teleplay:'''<br>Janet Brownell<br>Sally Field<br>'''Book:'''<br>Julie Salamon<br>Jill Weber
+| narrator       = 
+| starring       = Julie Harris<br>Trini Alvarado<br>Andrew McCarthy<br>Betty Aberlin<br>Jessica Hecht<br>Anne Pitoniak<br>Colin Quinn
+| music          = David Benoit
+| cinematography = John S. Moyer
+| editing        = Harry Hitner
+| studio         = [[Walt Disney Television]]
+| distributor    = [[ABC]]<br>[[Buena Vista Television]]
+| release       = [[December 22]], [[1996]]
+| time        = 153 minutes 
+| country        = [[United States]]
+| language       = English
+| budget         = 
+| gross          = 
+| preceded_by    = 
+| followed_by    = 
+|imdb_id = 0115892}}
+'''''The Christmas Tree''''' is a [[1996]] [[ABC]] television film directed by [[Sally Field]].<ref>[http://www.abcmedianet.com/web/showpage/showpage.aspx?program_id=002096&type=field ABC Medianet], Sally Field, accessed 01-21-2009</ref><ref>[http://www.mooviees.com/38326/credits mooviees.com] ''The Christmas Tree'', accessed 01-21-2009</ref><ref>[http://www.variety.com/profiles/TVMOW/main/43756/The%20Christmas%20Tree.html?dataSet=1#Awards] New York Times, ''The Christmas Tree'', accessed 01-21-2009</ref><ref>[http://www.pghfilm.org/about/show_films.jsp?restrictids=Film_Name&restrictvalues=The%20Christmas%20Tree%20(TV) Pittsburgh Film Office], ''The Christmas Tree'', </ref>
+
+==Synopsis==
+A story about a forming friendship between an elderly nun, Sister Anthony (Julie Harris), and [[New York City]]'s Rockefeller Center's head gardener Richard Reilly (Andrew McCarthy), who wants to fell a tree she's been growing for decades and move it to Rockefeller Center for Christmas display.
+
+==Cast==
+*Julie Harris as Sister Anthony
+*Trini Alvarado as Beth
+*Andrew McCarthy as Richard Reilly
+*Betty Aberlin as Sister Sarah
+*Jessica Hecht as Sister Mary
+*Anne Pitoniak as Mother Superior Frances
+*Colin Quinn as Tom
+;Additional cast
+*Suzi Hofrichter as Anna
+*Imogene Bliss as Sister Lucia
+*Therese Courtney as Mother Superior (1939)
+*Lulee Fisher as Sister Rose
+*Shannon Holt as Sister Lucia (1939 / 1959)
+*Lynne Innerst as Sister Frances
+*Chad Luberger as Roy
+*Kathleen McEntee as Sister Margaret
+*Zachary Mott as Anna's Father
+*Beverly Owings as Matron of the Orphanage
+*Jaime Shapiro as Doreen
+*Daniel Sweazen as Helicopter Pilot
+*Katherine Sweeney as Terry
+*Cornell J. Wallace as Harvey / Workman
+*Dave Whalen as Sven
+*Nili Bassman as Anna (Age 18)
+
+==Release==
+The film had international release under several titles: in [[France]] as ''Arbre de Noël, L' Canada'', in [[Spain]] as ''Árbol de Navidad, El Spain'', in [[Brazil]] as ''A Árvore de Natal Brazil'' (Portuguese), in [[Greece]] as ''Dentro ton Hristougennon, To Greece'', and in [[Germany]] as ''Der Weihnachtsbaum''. It was made available in October [[2001]] on VHS in Spanish and English.<ref>{{cite video
+ |people     = 
+ |date      = [[October 15]], [[2001]]
+ |title      = Christmas Tree
+ |url        = http://www.amazon.com/Christmas-Tree-Julie-Harris/dp/B00005RJ0R
+ |format     = VHS
+ |medium     = Color, NTSC 
+ |publisher  = Good Times Home Video
+ |location   = 
+ |accessdate = [[January 21]], [[2009]]
+ | B00005RJ0R 
+ |oclc       = 
+ |quote      = 
+}}</ref>
+
+==Gallery==
+<gallery widths="185">
+1996-arbre-1.jpg
+1996-arbre-2.jpg
+1996-arbre-3.jpg
+The_Christmas_Tree_1996.jpg
+</gallery>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.allrovi.com/movies/movie/v153093 ''The Christmas Tree''] at [http://en.wikipedia.org/wiki/AllRovi AllRovi]
+*[http://tcmdb.com/title/title.jsp?stid=461493 ''The Christmas Tree''] at the [http://en.wikipedia.org/wiki/Turner_Classic_Movies TCM Movie Database]
+
+{{Wikipedia}}
+
+{{DEFAULTSORT:Christmas Tree, The}}
+{{DISPLAYTITLE:''The Christmas Tree''}}
+[[Category:1996 films]]
+[[Category:Live-action films]]
+[[Category:Disney films]]
+[[Category:Films]]
+[[Category:Christmas productions]]

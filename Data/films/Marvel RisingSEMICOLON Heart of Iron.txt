@@ -1,0 +1,89 @@
+{{Marvel Database:Film Template
+| Image                   = Marvel_Rising_Heart_of_Iron_poster_002.png
+| Image2                  = Marvel Rising Heart of Iron poster 001.png
+| Aliases                 = 
+| Universe                = Earth-TRN684
+
+| Directors               = Sol Choi; Alfred Gimeno
+| Producers               = 
+| ScreenplayWriters       = Margaret Dunlap
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = 
+| Running Time            =44 Minutes 
+| Rating                  = 
+| Budget                  = 
+| Release Date            = April 3, 2019
+
+| Previous Film           = Marvel Rising: Chasing Ghosts
+| Next Film               = Marvel Rising: Battle of the Bands
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Riri Williams (Earth-TRN684)|Ironheart (Riri Williams)]]}}
+'''Supporting Characters:'''
+* {{a|[[Secret Warriors (Earth-TRN684)|Secret Warriors]]}}
+** {{a|[[Kamala Khan (Earth-TRN684)|Ms. Marvel (Kamala Khan)]]}}
+** {{a|[[Doreen Green (Earth-TRN684)|Squirrel Girl (Doreen Green)]]}}
+** {{a|[[Dante Pertuz (Earth-TRN684)|Inferno (Dante Pertuz)]]}}
+** {{a|[[Daisy Johnson (Earth-TRN684)|Quake (Agent Daisy Johnson)]]}}
+** {{a|[[Rayshaun Lucas (Earth-TRN684)|Patriot (Shaun Lucas)]]}}
+** {{a|[[America Chavez (Earth-TRN684)|Ms. America Chavez]]}}
+* {{a|[[Gwendolyn Stacy (Earth-TRN684)|Ghost Spider (Gwen Stacy)]]}}
+* {{a|[[Carol Danvers (Earth-TRN684)|Captain Marvel (Carol Danvers)]]}}
+'''Antagonists:'''
+* {{a|[[Hala (Earth-TRN684)|Hala the Accuser]]}}
+'''Other Characters:'''
+* {{a|[[Tippy-Toe (Earth-TRN684)|Tippy-Toe]]}}
+* {{a|[[Anthony Stark (Earth-TRN684)|Iron Man (Tony Stark)]]}}
+'''Races and Species:'''
+*  {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Human-Inhuman Hybrids]]}}
+* {{a|[[Fuertonas]]}}
+* {{a|[[Human-Kree Hybrids]]}}
+* {{a|[[Squirrels]]}}
+'''Locations:'''
+*{{RecapOnly|[[Chicago (Illinois)|Chicago]]}}
+* {{a|[[Earth-TRN684]]}}
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+
+| Cast                    = * [[wikipedia:Sofia Wylie|Sofia Wylie]] as Ironheart / Riri Williams
+
+* [[wikipedia:Dove Cameron|Dove Cameron]] as Ghost Spider / Gwen Stacy
+
+* [[wikipedia:Kathreen Khavari|Kathreen Khavari]] as Ms. Marvel / Kamala Khan
+
+* [[wikipedia:Tyler Posey|Tyler Posey]] as Inferno / Dante Pertuz
+
+* [[wikipedia:Milana Vayntrub|Milana Vayntrub]] as Squirrel Girl / Doreen Green
+
+* [[wikipedia:Chloe Bennet|Chloe Bennet]] as Quake / Daisy Johnson
+
+* [[wikipedia:Cierra Ramirez|Cierra Ramirez]] as Ms. America Chavez
+
+* [[wikipedia:Kim Raver|Kim Raver]] as Captain Marvel / Carol Danvers
+
+* [[wikipedia:Ming-Na Wen|Ming-Na Wen]] as Hala the Accuser
+
+* Kamil McFadden as Patriot / Rayshaun Lucas
+
+* [[wikipedia:Dee Bradley Baker|Dee Bradley Baker]] as Tippy-Toe
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Marvel Rising|Marvel Films]]
+
+==Videos==
+<gallery>
+file:Marvel Rising Heart of Iron Starring Sofia Wylie, Ming-Na Wen & Dove Cameron
+</gallery>
+
+}}
+[[Category:Short Films]]

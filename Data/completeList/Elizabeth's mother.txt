@@ -1,0 +1,20 @@
+{{NeedImage}}
+{{Infobox character
+|image = Noimage.png
+|films = ''[[Ernest Scared Stupid]]''
+|alignment = Good
+|children = [[Elizabeth (Ernest Scared Stupid)|Elizabeth]] (daughter)
+|home = Briarville, [[Missouri]]}}
+'''Elizabeth's mother''' is a supporting character in ''[[Ernest Scared Stupid]]''.
+
+==Role in the film==
+She tells [[Elizabeth (Ernest Scared Stupid)|Elizabeth]] that Halloween is very fun and that trolls (including [[Trantor]]) do not exist. After Elizabeth becomes one of Trantor's wooden dolls, her mother is worried thinking that she lost her. This lasts until she and other citizens of Briarville encounter the trolls at the tree house near [[Francis Hackmore|Old Lady Hackmore]]'s mansion, but she does see Elizabeth again until [[Ernest P. Worrell|Ernest]] defeats Trantor once and for all.
+
+{{CharacterStub}}
+[[Category:Characters]]
+[[Category:Touchstone characters]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Live-action characters]]
+[[Category:Ernest characters]]
+[[Category:Adults]]

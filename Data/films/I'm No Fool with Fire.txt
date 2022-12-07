@@ -1,0 +1,43 @@
+{{Infobox film
+|name        = I'm No Fool with Fire
+|director    = [[Bill Justice]]
+|producer    = 
+|writer      = 
+|distributor = Walt Disney Productions<br>Walt Disney Educational Media Company (updated version)
+|language    = English
+|image = Image:Fool_fire.jpg
+|release = [[December 1]], [[1955]] (television)<br>April [[1956]] (16mm)<br>September [[1986]] (updated version)}}'''I'm No Fool with Fire''' is an "I'm No Fool" short that originally aired on ''[[The Mickey Mouse Club]]'' in [[1955]].
+
+==Synopsis==
+[[Jiminy Cricket]] gives a history of man's reliance on fire, then offers safety techniques to handle and control it properly.
+
+==Voices==
+===Original===
+*[[Cliff Edwards]] - Jiminy Cricket
+===Remake===
+*[[Hal Smith]] - Jiminy Cricket
+
+==Trivia==
+*In [[1986]], an updated version of this short was released by the Walt Disney Educational Media Company, which updated the safety information on this short and showed kids with a real live fire fighter showing them the modern safety features such as smoke detectors, fire extinguishers, and the 911 emergency phone number.
+
+==Gallery==
+<gallery captionalign="center" position="center">
+I'm no fool with fire alternate title.jpg|Title card from updated version
+Caveman fire and wild animals.jpg
+Jc and fire triangle.jpg
+File:1956-fool-fire-06.jpg
+File:1956-fool-fire-07.jpg
+File:1956-fool-fire-08.jpg
+File:1956-fool-fire-09.jpg
+File:1956-fool-fire-10.jpg
+File:1956-fool-fire-11.jpg
+File:1956-fool-fire-13.jpg
+File:1956-fool-fire-14.jpg
+</gallery>
+[[Category:1955 shorts]]
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse Club]]
+[[Category:Educational films]]
+[[Category:Jiminy Cricket]]
+[[Category:Works about safety]]
+[[Category:I'm No Fool]]

@@ -1,0 +1,55 @@
+{{Infobox Film
+|image = Geri's Game.jpg
+|director = Jan Pinkava
+|producer = Karen Dufilho-Rosen<br>[[John Lasseter]] {{Small|(Executive)}}<br>[[Ed Catmull]] {{Small|(Executive)}}
+|writer = Jan Pinkava
+|music = Gus Viseur
+|studio = [[Pixar|Pixar Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Buena Vista Pictures]]
+|release = [[April 2]], [[1997]]<br>[[November 25]], [[1998]] (with ''[[A Bug's Life]]'')
+|time = 4 minutes, 55 seconds
+|preceded = ''[[Knick Knack]]''
+|followed = ''[[For the Birds]]''
+|imdb_id = 0131409
+|website = https://www.pixar.com/geris-game}}
+
+'''''Geri's Game''''' is a computer-animated short film made by [[Pixar]] in [[1997]]. It was written and directed by Jan Pinkava, and the first [[Pixar]] Short created after ''[[Toy Story]]'', It was released in theaters on [[November 25]], [[1998]] with ''[[A Bug's Life]]''. The film won the Academy Award for Best Animated Short Film that year.
+
+==Plot==
+An elderly man named [[Geri]] plays a game of chess in the park against himself. He starts off playing as white (while displaying a calm and docile personality), but then hoists himself up and lumbers over to play as the black opponent (while displaying a snarky and cocky attitude). He quickly dominates the game as the black side, although he is his own opponent. White Geri (with glasses), on the verge of losing with only his king piece left standing, fakes a heart attack to outsmart Black Geri (without glasses) and falls to the ground. This alarms Black Geri, and in turn, he tests his own pulse. While he is doing this, White Geri looks up and flips the board around, inverting their colors. He checkmates Black Geri and makes him hand over a set of dentures as the prize. As the movie ends with him giving a toothy grin, the camera backs out, revealing that there is only one Geri; a reminder to the audience that he played this game all by himself.
+
+==Awards==
+*1998 Academy Award Winner for Best Animated Short Film
+
+==Trivia==
+*When Geri first puts the box of chess pieces down, you can see the old Pixar logo on the top-left on a torn label.
+*Geri's chess box reads "Point Richmond PIXAR SHORTS." This is because Pixar's old headquarters were originally located in Point Richmond.
+*Geri appeared in ''[[Toy Story 2]]'' as [[Geri|The Cleaner]] who fixed [[Woody]]. When The Cleaner opens one of the drawers in his case, some chess pieces can be seen, in reference to the short.
+*After pretending to have a heart attack, Geri knocks down the chess box. When the camera zooms out at the end of the short, if you look to the ground, the chess box is not there. This was discussed in Jan Pinkava's audio commentary for the short. When he was asked about this question, he simply replied, "We just forgot to put it in."
+*As the game/short goes on, the lighting changes. This is to make it seem like the game has been going on for the whole day.
+*In one scene, both of Geri's personas can be seen. In the shorts commentary, Jan Pinkava states that it was an intentional joke.
+*Pixar shareholders received a VHS copy of ''Geri's Game'' with their [[1997]] annual report.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+Vlcsnap-2014-06-07-17h49m38s167.png|The old Pixar logo and Point Richmond PIXAR SHORTS can be seen on Geri's chess box.
+Geri's game mistake.png|The chess box is shown to be falling in the above scene, but it cannot be seen anywhere on the ground in the ending scene below.
+Geri's Game joke scene.png|The scene showing both of Geri's personas.
+Tumblr ngn9vkcw2a1qhcrb0o1 1280.jpg
+</gallery>
+
+==External links==
+*{{Interwiki|https://vignette.wikia.nocookie.net/pixar/images/6/64/Favicon.ico|pixar|Geri's Game|Pixar Wiki}}
+{{DISPLAYTITLE:''Geri's Game''}}
+[[es:Geri's Game]]
+[[fr:Le Joueur d'échecs]]
+[[pt-br:O Jogo de Geri]]
+[[zh:棋局]]
+[[Category:Animated shorts]]
+[[Category:Pixar shorts]]
+[[Category:1997 shorts]]
+[[Category:Best Short Academy Award winners]]
+[[Category:Pixar]]
+[[Category:Academy Award winning films]]
+[[Category:Featured shorts]]
+[[Category:Annie Award Winner]]

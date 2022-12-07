@@ -1,0 +1,41 @@
+{{Infobox character
+|name = Monster Honker
+|image = Monsterhonker.jpg
+|shows =
+|games =
+|voice =
+|animator = 
+|model=
+|designer =
+|inspiration = [[Willie the Giant]]
+|awards =
+|alias =
+|personality = Mean, sinister, vicious, dark
+|appearance = Looks like [[Willie the Giant]]
+|occupation = Monster
+|alliance= Bad
+|goal =
+|minions = 
+|enemies =
+|likes = Destroying the city
+|dislikes =
+|powers = Super strength and endurance
+|weapons =
+|fate =
+|quote =
+}}'''Monster Honker''' is a transformed version of [[Honker Muddlefoot]]. He transforms by falling into the slime. He eventually reverts to normal when he gets hit by the antidote gas.
+
+==Trivia==
+*He is likely based on [[Willie the Giant]].
+{{CharacterStub}}
+[[Category:Adults]]
+[[Category:Males]]
+[[Category:Villains]]
+[[Category:Henchmen]]
+[[Category:Monsters]]
+[[Category:Giants]]
+[[Category:Characters introduced in comics]]
+[[Category:Disney characters]]
+[[Category:Animated characters]]
+[[Category:Chickens]]
+[[Category:Alternate Forms]]

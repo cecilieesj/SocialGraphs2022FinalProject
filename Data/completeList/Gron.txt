@@ -1,0 +1,42 @@
+{{Infobox character
+|image = Gron_CT.png
+|shows = ''[[Star Wars Rebels]]''
+|voice = [[Gary Anthony Williams]]
+|fullname = 
+|alias = 
+|personality = Pacifist
+|appearance = 
+|occupation = Member of the Lasan Honor Guard
+|alignment = Good
+|affiliations = Lasan Honor Guard
+|goal = To find Lira San (succesed)
+|home = Lasan (formerly)<br> Lira San
+|family = 
+|pets = 
+|friends = [[Garazeb Orrelios]], [[Chava]], [[Hera Syndulla]], [[Kanan Jarrus]], [[Ezra Bridger]], [[Sabine Wren]], [[C1-10P]],
+|minions = 
+|enemies = [[Galactic Empire]]
+|likes = Peace
+|dislikes =  War, violence
+|powers = 
+|possessions = 
+|weapons = 
+|fate = 
+|quote = 
+|status = Active}}
+'''Gron''' is a minor protagonist in the [[Disney XD]] animated series ''[[Star Wars Rebels]]''. He is a male Lasat who served under captain [[Garazeb Orrelios]] in the Lasan Honor Guard.
+
+==Background==
+At some point in his life, Gron became part of the Lasan Honor Guard, and was one of the few that survived the Fall of Lasan. He later escaped with a Lasat elder named Chava, and became her traveling companion.
+
+{{CharacterStub}}
+{{Star Wars}}
+[[Category:Heroes]]
+[[Category:Males]]
+[[Category:Characters]]
+[[Category:Aliens]]
+[[Category:Military characters]]
+[[Category:Soldiers]]
+[[Category:Star Wars Rebels characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]

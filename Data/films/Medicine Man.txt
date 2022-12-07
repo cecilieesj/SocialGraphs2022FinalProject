@@ -1,0 +1,84 @@
+{{Infobox film
+| name = Medicine Man
+| image = File:Medicine_man.jpg
+| caption = Theatrical poster
+| director = John McTiernan 
+| producer = Donna Dubrow<br>Andrew G. Vajna<br>[[Sean Connery]]
+| writer = Tom Schulman<br>Sally Robinson
+| music = Jerry Goldsmith
+| cinematography =Donald McAlpine
+| editing = Mary Jo Markey<br>Michael R. Miller
+| studio = Cinergi Pictures	
+| distributor = [[Hollywood Pictures]]
+| release = [[February 7]], [[1992]]
+| time = 106 minutes
+| country = United States
+| language = English
+| budget = $40 million
+| gross = $45,500,797
+|imdb_id = 0104839}}
+'''''Medicine Man''''' is a [[1992]] American film directed by John McTiernan. The film stars [[Sean Connery]] and Lorraine Bracco. It also features a noteworthy score by composer Jerry Goldsmith.
+
+== Plot ==
+A pharmaceutical company sends biochemist Dr. Rae Crane into the Amazonian rainforest to locate researcher Robert Campbell after his wife and research partner abandon him.
+
+Crane is bringing equipment and supplies, but Campbell is nevertheless upset the research partner is not forthcoming. He tries to send Crane home, but she demurs, as she has been assigned to determine whether Campbell's research deserves continued funding.
+
+Campbell has found a cure for cancer, but attempts to synthesize the compound have failed. With supplies of the successful serum running low, Campbell isolates a derivative of a species of flower from which the formula can be synthesized and with Crane's help is determined to find its source.
+
+A logging company is building a road headed straight for the village, threatening to expose the native population to potentially lethal foreign antigens, as has happened before. In fact, Campbell's wife left him because he could not forgive himself for the tragedy.
+
+A small boy appears with malignant neoplasms and Campell, Crane, the boy, and his father set out in search of Campbell's predecessor, a medicine man from whom Campbell once acquired his knowledge of flowers. Upon encountering Campbell's entourage, the medicine man flees in fear. Though he is reluctant to pursue the man further, Crane convinces him circumstances demand that he must.
+
+Campbell rescues Crane from a fall, then locates the medicine man, whom he is compelled to fight in order to heal the medicine man's wounded pride and gain further necessary information. Unfortunately, the medicine man reveals that the flowers have no "juju"--power to heal. Father and son agree to return another time.
+
+Back at the village, Crane initially refuses to allow Campbell to inoculate the boy with the last of the serum until more can be synthesized. But when the boy's condition worsens, she gives in and the boy is inoculated.
+
+The next morning, the boy is better but the village is in tumult. The logging road is nearly finished. Campbell appeals to the company's workers to halt construction until he can conclude his research, but it refuses.
+
+In desperation and after new samples fail to contain the missing compound, Crane runs the chromatograph one more time and accidentally discovers that the source of the cure is not the flower but a species of rare ant indigenous to the rainforest. Campbell demands the construction stop. A fight results and a bulldozer catches fire, destroying the village and the research station along with many acres of rainforest.
+
+The next day, Crane promises to send Campbell new equipment and the research assistant he'd originally requested. She is about to return home when she meets the medicine man. He symbolically passes on his mantle to Campbell, and Crane accepts an invitation to continue working with him in exchange for recognition for co-discovering the source of the compound.
+
+==Cast==
+*[[Sean Connery]] as Dr. Robert Campbell
+*Lorraine Bracco as Dr. Rae Crane
+*José Wilker as Dr. Miguel Ornega
+
+==Soundtrack==
+The music for ''Medicine Man'' was composed and conducted by veteran composer Jerry Goldsmith. The score, a blend of orchestra, synthetic elements, and guitar solos, was praised by critics and is considered one of the film's few strengths. The soundtrack was released 4 February 1994 through Varèse Sarabande and features fourteen tracks.
+# "Rae's Arrival" (5:06)
+# "First Morning" (3:46)
+# "Campbell and the Children" (1:57)
+# "The Trees" (6:01)
+# "The Harvest" (3:11)
+# "Mocara" (3:36)
+# "Mountain High" (2:41)
+# "Without a Net" (4:19)
+# "Finger Painting" (2:30)
+# "What's Wrong" (1:52)
+# "The Injection" (2:09)
+# "The Sugar" (2:08)
+# "The Fire" (2:10)
+# "A Meal and a Bath" (8:03)
+
+==Reception==
+The movie was panned by critics. ''Medicine Man'' maintains a 20% rating on [[Wikipedia:Rotten Tomatoes|Rotten Tomatoes]]. Lorraine Bracco's performance in the film earned her a Razzie Award nomination for Worst Actress.
+
+===Box Office===
+The movie debuted at No. 1. The following week it was knocked out of the top spot by ''Wayne's World''. The film eventually grossed $45.5 million domestically, earning back its expenses.
+
+== External links ==
+* [http://www.allrovi.com/movies/movie/v32043 ''Medicine Man''] at [http://en.wikipedia.org/wiki/AllRovi AllRovi]
+* [http://www.rottentomatoes.com/m/1038176-medicine_man/ ''Medicine Man''] at [http://en.wikipedia.org/wiki/Rotten_Tomatoes Rotten Tomatoes]
+* [http://www.boxofficemojo.com/movies/?id=medicineman.htm ''Medicine Man''] at [http://en.wikipedia.org/wiki/Box_Office_Mojo Box Office Mojo]
+
+{{Wikipedia|Medicine Man (film)}}
+{{DISPLAYTITLE:''Medicine Man''}}
+[[pl:Uzdrowiciel z tropików]]
+[[Category:Articles with Wikipedia content]]
+[[Category:1992 films]]
+[[Category:Hollywood Pictures films]]
+[[Category:Live-action films]]
+[[Category:Films]]
+[[Category:PG-13 rated films]]

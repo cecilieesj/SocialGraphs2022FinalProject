@@ -1,0 +1,25 @@
+{{infobox character
+|image = Uncle_Bun.png
+|name = Uncle Bun
+|shows = ''[[Sheriff Callie's Wild West]]''
+|voice = [[Kevin Michael Richardson]]
+|occupation = Owner of the general store at [[Nice and Friendly Corners]]
+|friends = [[Sheriff Callie]], [[Deputy Peck]], [[Toby (Sheriff Callie's Wild West)|Toby]], [[Sparky (Sheriff Callie's Wild West)|Sparky]], [[Priscilla Skunk|Priscilla]], Tio Tortuga, [[Ella Cowbelle]], [[Farmer Stinky]], [[Dirty Dan and Dusty]], Mr. Dillo, Clementine, Dr. Wolf
+|alignment = Good
+|home = [[Nice and Friendly Corners]]}}'''Uncle Bun''' is a rabbit who owns a general store from ''[[Sheriff Callie's Wild West]]''. He is a bit forgetful sometimes, and dreams of moving to the big city someday.
+==Gallery==
+<gallery position="center" captionalign="center" widths="150" spacing="small">
+CallieTownsfolk.png
+</gallery>
+
+{{CharacterStub}}
+{{Sheriff Callie's Wild West}}
+[[Category:Sheriff Callie's Wild West characters]]
+[[Category:Disney Junior characters]]
+[[Category:TV Animation characters]]
+[[Category:Disney characters]]
+[[Category:Males]]
+[[Category:Rabbits]]
+[[Category:Animated characters]]
+[[Category:Anthropomorphic characters]]
+[[Category:Singing characters]]

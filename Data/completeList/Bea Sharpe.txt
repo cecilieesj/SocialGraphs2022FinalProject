@@ -1,0 +1,23 @@
+{{Infobox character
+|image = Bea Sharpe.jpg
+|name = Bea Sharpe
+|games = ''[[Toontown Online]]''
+|appearance = Sea Green monkey
+|occupation = Field Office SOS Toon
+|alignment = Good
+|weapons = Blaster}}
+'''Bea Sharpe''' is a [http://toontown.wikia.com/wiki/Toon Toon] NPC sea green [http://toontown.wikia.com/wiki/Monkey Monkey]. She is a Field Office SOS Toon. She is a no-star [http://toontown.wikia.com/wiki/Sound_Gags Sound] [http://toontown.wikia.com/wiki/SOS_Toon SOS Toon].
+
+==Trivia==
+*Her name is a pun on ''"b-sharp"'', a common musical designation; it is denoted by a hash mark in the ''b'' position.
+*She is the weakest SOS toon, doing only 10 damage to all cogs.
+
+{{CharacterStub}}
+{{DEFAULTSORT:Sharpe, Bea}}
+[[Category:Toontown characters]]
+[[Category:Monkeys]]
+[[Category:Females]]
+[[Category:Characters]]
+[[Category:Characters in video games]]
+[[Category:Animated characters]]
+{{Toontown Online}}

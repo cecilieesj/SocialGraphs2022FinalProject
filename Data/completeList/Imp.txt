@@ -1,0 +1,33 @@
+{{Infobox character
+|name = Imp
+|image = Imp.png
+|films = ''[[Strange Magic (film)|Strange Magic]]''
+|voice = [[Brenda Chapman]]
+|inspiration = 
+|personality = Friendly, tricky, mischievous 
+|appearance = White fur, big ears, beady black eyes
+|occupation = 
+|alignment = Good
+|friends = [[Marianne]], [[Sunny (Strange Magic)|Sunny]]
+|enemies = [[Roland]]
+|goal = To cause mischief with the love potion 
+|powers = 
+|weapons = 
+|fate = Becomes friends with the heroes|affiliations = Good|home = Dark Forest|alias = Tiny Rabbit (by Roland)}}The '''Imp''' is a character in the film ''[[Strange Magic]]''. He steals the love potion and causes all sorts of mischief throughout the film.
+He is voiced by Brenda Chapman.
+
+==Gallery==
+<gallery widths="185">
+Imp SM.jpg
+Balloon_Thing.png
+</gallery>
+
+{{CharacterStub}}
+{{Strange Magic}}
+[[Category:Strange Magic characters]]
+[[Category:Males]]
+[[Category:Creatures]]
+[[Category:Touchstone characters]]
+[[Category:Thieves]]
+[[Category:Animated characters]]
+[[Category:Acquired characters]]

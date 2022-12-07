@@ -1,0 +1,40 @@
+{{Infobox character
+|image = Marquis de Lafayettte.jpg
+|name = Marquis de Lafayette
+|films = ''[[Hamilton]]''
+|actor = [[Daveed Diggs]]
+|inspiration = The real-life Marquis de Lafayette
+|occupation = Military officer
+|alignment = Good
+|affiliations = The United States Senate
+|home = [[New York]]<br>[[France]]
+|family = 
+|friends = [[Alexander Hamilton]]<br>[[George Washington]]<br>Aaron Burr<br>[[Hercules Mulligan]]<br>[[John Laurens]]<br>[[Thomas Jefferson]]
+|enemies = King George III
+|likes = 
+|dislikes = 
+|fate = Returns to his native country, France, to take part in his own revolution}}
+{{quote|Oui oui, mon ami, je m’appelle Lafayette!...The Lancelot of the revolutionary set!|Marquis de Lafayette}}
+
+'''Marquis de Lafayette''' is a musical dramatized version of the real life figure of the same name. He is a supporting character in the [[Disney+]] film, ''[[Hamilton|Hamilton,]]'' taken from the staged theater production. He is usually portrayed by the same actor who plays [[Thomas Jefferson]].
+
+==Gallery==
+<gallery position="center" captionalign="center">
+Hamilton (1).jpg
+Real Marquis de Lafayette.png|Portrait of the real Marquis de Lafayette
+</gallery>
+
+==External links==
+*{{WP|Gilbert du Motier, Marquis de Lafayette|Marquis de Lafayette}}
+[[Category:Hamilton characters]]
+[[Category:Singing characters]]
+[[Category:Soldiers]]
+[[Category:Military characters]]
+[[Category:Historical characters]]
+[[Category:1800s deaths]]
+[[Category:American people]]
+[[Category:Deceased]]
+[[Category:Males]]
+[[Category:1700s births]]
+[[Category:France]]
+[[Category:French characters]]

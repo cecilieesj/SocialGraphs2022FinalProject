@@ -1,0 +1,36 @@
+{{Infobox film
+|image = 1952-cerf-1.jpg
+|director = [[James Algar]]
+|producer = [[Walt Disney]]
+|writer = [[Winston Hibler]] (script)<br>[[Ted Sears]] (script)<br>James Algar (script)
+|music = [[Paul Smith]]
+|cinematography = Herb Crisler<br>Lois Crisler
+|studio = [[Walt Disney Productions]]
+|distributor = [[RKO Radio Pictures]]
+|release = [[February 13]], [[1952]]
+|time = 27 minutes
+|language = English
+|preceded = ''[[Nature's Half Acre]]''
+|followed = ''[[Water Birds]]''
+|imdb_id = tt0219222
+}}'''''The Olympic Elk''''' is a [[1952]] American documentary film directed by James Algar.
+
+==Cast==
+*[[Winston Hibler]] as Narrator
+
+==Trivia==
+*''The Olympic Elk'' is one of four ''True-Life Adventures'' films that influenced the content of [[Mine Train Thru Nature's Wonderland]].
+
+==Gallery==
+<gallery>
+1952-cerf-2.jpg
+1952-cerf-3.jpg
+</gallery>
+
+{{DEFAULTSORT:Olympic Elk, The}}
+[[Category:1952 films]]
+[[Category:Documentaries]]
+[[Category:Disney films]]
+[[Category:True-Life Adventures]]
+[[Category:Live-action films]]
+[[Category:Live-action shorts]]

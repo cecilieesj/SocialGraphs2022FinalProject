@@ -1,0 +1,67 @@
+{{Infobox film
+|image = Pioneerdays.jpeg
+|imagewidth = 250px
+|name = Pioneer Days
+|director = [[Burt Gillett]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = Walt Disney<br>[[Marcellite Garner]]
+|music = Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[December 5]], [[1930]]
+|time = 7:13
+|preceded = ''[[The Picnic]]''
+|followed = ''[[The Birthday Party]]''}}
+'''''Pioneer Days''''' is a ''[[Mickey Mouse]]'' short that was released on [[December 5]], [[1930]].
+
+==Synopsis==
+Mickey and Minnie are out West, then attacked by Indians. Minnie is captured and Mickey is, too, when he comes looking for her, but she escapes and rescues him; later, they disguise themselves as soldiers and scare the entire tribe into the hills.
+
+==Characters==
+*[[Mickey Mouse]]
+*[[Minnie Mouse]]
+*[[Horace Horsecollar]]
+*[[Clarabelle Cow]]
+
+==Trivia==
+*The film's copyright was renewed on [[December 16]], [[1957]].<ref>[https://archive.org/details/catalogofcopyrig3111213li/page/117/mode/1up Catalog of Copyright Entries (1957 renewals)]</ref>
+*This short was released on Walt Disney's 29th birthday.
+
+==Releases==
+===Television===
+* ''[[The Ink and Paint Club]]'', episode #1.28: "Early Mickey"
+* ''[[House of Mouse]]'', season 2, episode #26: "[[Dennis the Duck (episode)|Dennis the Duck]]"
+
+===Home video===
+'''Laserdisc'''
+*''Mickey Mouse: The Black and White Years - Volume One''
+
+'''DVD'''
+*''[[Walt Disney Treasures]]: Mickey Mouse in Black and White''
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150">
+13105.jpg
+13106.jpg
+13107.jpg
+13110.jpg
+13111.jpg
+13112.jpg
+Tumblr_n6q91lERAL1qhcrb0o1_1280.jpg
+Mickey and Minnie in Pioneer Days.png
+Pioneer Days Fire.png
+Cat playing a banjo.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Mickey-Series}}
+{{Minnie-Series}}
+[[Category:Animated shorts]]
+[[Category:Western Films]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Minnie Mouse shorts]]
+[[Category:1930 shorts]]

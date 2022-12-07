@@ -1,0 +1,23 @@
+{{Infobox film
+| name           = How Walt Disney Cartoons Are Made
+| image          = File:1938-cartoons-1.jpg
+| narrator       = [[Walt Disney]]
+| release       = [[1938]] <small>([[RKO Radio Pictures]])</small><br>[[December 3]], [[2002]] <small>([[Walt Disney Treasures: Wave Two]])</small>
+| time = 10 minutes
+}}
+'''''How Walt Disney Cartoons Are Made''''' was a documentary made in response to requests from members of [[RKO Radio Pictures]] for a [[wiktionary:behind the scenes|behind the scenes]] look at [[Walt Disney Studios]]. The short featured recycled footage from an earlier documentary, ''[[A Trip Through the Walt Disney Studios]]'', which was only shown to executives at RKO.
+
+==Synopsis==
+RKO studios invite the viewer to discover the stages of production of the first full-length animated film, ''[[Snow White and the Seven Dwarfs]]''. All phases of film creation "event" and are reviewed, Walt Disney even indulging in the game by presenting in person, the characters of the dwarves.
+
+==Availability==
+The film can be found on the DVD set ''[[Walt Disney Treasures]]: Behind the Scenes at the Walt Disney Studio''. [http://www.thedigitalbits.com/reviews2/wdtbehinddisneystudio.html] It was also present (along with ''A Trip Through the Walt Disney Studios'') on the 2001 [[DVD]] release of [[Snow White and the Seven Dwarfs]], the film being portrayed in the documentary.
+
+==Gallery==
+<gallery>
+1938-cartoons-2.jpg
+1938-cartoons-3.jpg
+Dwarflandexit.jpg
+</gallery>
+[[Category:1938 films]]
+[[Category:Documentaries]]

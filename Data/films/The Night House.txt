@@ -1,0 +1,61 @@
+{{WarningAlert}}
+{{Infobox film
+|name           = The Night House
+|image          = The Night House.jpg
+|alt            = 
+|caption        =
+|director       = David Bruckner
+|producer       = David S. Goyer<br>Keith Levine<br>John Zois
+|writer         = Ben Collins<br>Luke Piotrowski
+|starring       = [[Rebecca Hall]]<br>Sarah Goldberg<br>Evan Jonigkeit<br>Stacy Martin<br>Vondie Curtis-Hall
+|music          = Ben Lovett
+|cinematography = Elisha Christian
+|editor        = David Marks
+|studio         = Anton<br>Phantom Four Films
+|distributor    = [[Searchlight Pictures]]
+|release       = [[January 24]], [[2020]] (Sundance)<br>[[August 20]], [[2021]]
+|time        = 108 minutes<ref>{{cite web|url=https://www.sundance.org/projects/the-night-house|title=The Night House|website=Sundance Film Festival|accessdate=December 15, 2019}}</ref>
+|country        = United States<br>United Kingdom<ref>{{cite web|url=https://www.imdb.com/title/tt9731534/|title=The Night House (2020)|website=IMDb|accessdate=July 20, 2020}}</ref>
+|language       = English
+|budget         = 
+|gross          = 
+|imdb_id = 9731534}}
+'''''The Night House''''' is a [[2021]] horror thriller film. It was directed by David Bruckner and written by Ben Collins and Luke Piotrowski. The film stars [[Rebecca Hall]], Sarah Goldberg, Evan Jonigkeit, Stacy Martin, and Vondie Curtis-Hall.
+
+The film had a world premiere at the Sundance Film Festival on [[January 24]], [[2020]] and was theatrically released on [[August 20]], [[2021]] by [[Searchlight Pictures]].
+
+==Synopsis==
+Reeling from the unexpected death of her husband, Beth (Rebecca Hall) is left alone in the lakeside home he built for her. She tries as best she can to keep together—but then the dreams come. Disturbing visions of a presence in the house call to her, beckoning with a ghostly allure, but the harsh light of day washes away any proof of a haunting. Against the advice of her friends, she begins digging into his belongings, yearning for answers. What she finds are secrets both strange and terrible and a mystery she’s determined to resolve.
+
+==Cast==
+*[[Rebecca Hall]] as Beth
+*Sarah Goldberg as Claire
+*Evan Jonigkeit as Owen
+*Stacy Martin
+*Vondie Curtis-Hall as Mel
+*Amber Anne as Bridesmaid
+
+==Videos==
+<gallery>
+THE NIGHT HOUSE - Deadline Studio at Sundance 2020
+Sundance 2020- A Q&A Of Horror Film “The Night House” Cast
+THE NIGHT HOUSE - Official Trailer - Searchlight Pictures-2
+THE NIGHT HOUSE - "Doppelgänger" - Now on Digital-2
+THE NIGHT HOUSE - "Don't Be Afraid" Clip - Searchlight Pictures-2
+THE NIGHT HOUSE - Official Trailer - Searchlight Pictures-3
+IS YOUR HOUSE HAUNTED? Expert explains the real life characteristics of a Haunted House-2
+THE NIGHT HOUSE - Music Featurette with Composer Ben Lovett - Searchlight Pictures-2
+THE NIGHT HOUSE - "Believe" Spot - Searchlight Pictures-2
+THE NIGHT HOUSE - "Husband" Spot - Searchlight Pictures-2
+</gallery>
+
+==References==
+{{Reflist}}
+{{DISPLAYTITLE:''The Night House''}}
+[[Category:Films]]
+[[Category:20th Century Studios films]]
+[[Category:Articles containing mature content]]
+[[Category:Live-action films]]
+[[Category:R-rated films]]
+[[Category:2021 films]]
+{{DEFAULTSORT:Night House}}

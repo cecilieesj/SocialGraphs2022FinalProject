@@ -1,0 +1,47 @@
+{{Marvel Database:Film Template
+| Image                   = Avengers The Kang Dynasty logo 001.jpg
+| Aliases                 = Avengers 5
+
+| Directors               = Destin Daniel Cretton
+| Producers               = Kevin Feige
+| ScreenplayWriters       = Jeff Loveness
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = 
+| Rating                  = 
+| Budget                  = 
+| Release Date            = May 2, 2025
+
+| Previous Film           = Avengers: Endgame
+| Next Film               = Avengers: Secret Wars
+
+| Appearances             = 
+'''Featured Characters:'''
+* <br/>
+'''Supporting Characters:'''
+* <br/>
+'''Antagonists:'''
+* <br/>
+'''Other Characters:'''
+* <br/>
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * {{WP|Jonathan Majors}} as '''[[Kang the Conqueror]]'''
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Upcoming Films|Marvel Films]]
+}}
+[[ru:Мстители: Династия Канга]]

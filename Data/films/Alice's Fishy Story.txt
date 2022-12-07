@@ -1,0 +1,36 @@
+{{Infobox film
+|image = Alices_fishy_story_poster.png
+|name = Alice's Fishy Story
+|director = [[Walt Disney]]
+|producer = [[Margaret J. Winkler|M. J. Winkler]]
+|editor = M. J. Winkler
+|studio = [[Walt Disney Productions|Disney Brothers Cartoon Studio]]
+|distributor = [[Winkler Pictures]]
+|release = [[June 1]], [[1924]]
+|time = 11:15
+|preceded = ''[[Alice's Wild West Show]]''
+|followed = ''[[Alice and the Dog Catcher]]''
+}}
+'''''Alice's Fishy Story''''' is an animated short film that is part of the [[Alice Comedies]] that were released by Winkler Pictures in [[1924]]. It was in black and white and silent.
+
+==Summary==
+Alice steals away from piano practice to go fishing and tells her friends a tale about fishing at the North Pole.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+Alices fishy story 1large.jpg
+Alices fishy story 2large.jpg
+Alices fishy story 3large.jpg
+Alices fishy story 4large.jpg
+Alices fishy story 5large.jpg
+Alices fishy story 6large.jpg
+1924-fishy-2.jpg
+1924-fishy-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=14 Alice's Fishy Story] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1924 shorts]]
+[[Category:Alice Comedies]]

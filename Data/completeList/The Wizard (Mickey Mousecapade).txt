@@ -1,0 +1,35 @@
+{{Infobox character
+|name=The Wizard
+|image=The Wizard mickeymouse nes manual.jpg
+|shows=
+|games=''[[Mickey Mousecapade]]''
+|animator=
+|voice= 
+|designer=
+|inspiration= 
+|fullname = 
+|personality = 
+|occupation= Wizard
+|alignment = Bad
+|goal= To defeat [[Mickey Mouse]] and [[Minnie Mouse|Minnie]]
+|home= [[Fun House]]
+|family=
+|pets=  
+|friends= 
+|enemies=[[Mickey Mouse]], [[Minnie Mouse]]
+|likes= 
+|dislikes= 
+|powers= Magic
+|weapons= Wand
+|fate= Gets defeated by Mickey and Minnie
+|quote=
+}}'''The Wizard''' is the first boss in the video game ''[[Mickey Mousecapade]]''. The Wizard is fought in the [[Fun House]], and has to be defeated in order for [[Mickey Mouse]] and [[Minnie Mouse]] to get a key.
+{{DEFAULTSORT:Wizard (Mickey Mousecapade), The}}
+[[Category:Wizards]]
+[[Category:Mickey Mouse universe characters]]
+[[Category:Video game bosses]]
+[[Category:Villains]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Magic Users]]
+[[Category:Characters introduced in video games]]

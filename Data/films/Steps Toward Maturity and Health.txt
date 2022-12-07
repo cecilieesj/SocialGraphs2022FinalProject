@@ -1,0 +1,29 @@
+{{Infobox film
+|image = 1968-steps-toward-01.jpg
+|imagewidth = 250px
+|name = Steps Toward Maturity and Health
+|director = [[Les Clark]]
+|producer = 
+|writer = 
+|studio = [[Walt Disney Productions]]
+|distributor = Upjohn Pharmacy Company
+|release = [[January 25]], [[1969]]
+|language = English
+|time = 9 minutes
+}}
+'''''Steps Toward Maturity and Health''''' is a [[1969]] Disney educational animated short from the [[Upjohn's Triangle of Health]] series.
+
+==Synopsis==
+Tracing human life from birth to adolescence, the film shows how a sound mind, a sound body, and social adjustment form the Triangle of Health.
+
+==Gallery==
+<gallery>
+1968-steps-toward-05.jpg
+1968-steps-toward-06.jpg
+1968-steps-toward-07.jpg
+1968-steps-toward-08.jpg
+</gallery>
+
+[[Category:1969 shorts]]
+[[Category:Animated shorts]]
+[[Category:Educational films]]

@@ -1,0 +1,37 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Untitled Alien film
+|director = Fede Álvarez
+|writer = Fede Álvarez
+|starring = 
+|producer = [[Ridley Scott]]
+|studio = [[20th Century Studios]]<br>Scott Free Productions
+|distributor = [[Hulu]]
+|cinematography = 
+|music = 
+|editor = 
+|time = 
+|language = English
+|release = 
+|budget = 
+|website = }}
+An '''''Untitled Alien film''''' is an upcoming American science-fiction horror film, serving as a "standalone" installment and the seventh film overall in Alien franchise. It will be released on [[Hulu]].
+
+==Production==
+After the acquisition of [[21st Century Fox]] by [[The Walt Disney Company]], it was officially confirmed at the [[2019]] CinemaCon that future Alien films are in development. In May 2019, Variety reported that the third prequel film was "in the script phase", with Ridley Scott attached to serve once again as director. In September 2020, Scott confirmed that work on the next instalment is ongoing, but was undecided with keeping it tied in with the plot set out in Prometheus and Alien: Covenant. In August 2021, however, a news report concluded that a sequel is currently uncertain.<ref>[https://www.slashfilm.com/591541/will-there-be-a-sequel-to-alien-covenant-heres-what-we-know/ Will There Be A Sequel To Alien: Covenant? Here's What We Know]</ref>
+
+On March 4, 2022, ''The Hollywood Reporter'' reported that Fede Álvarez would be writing and directing the film after pitching his own story, and was said to be "unconnected" to the previous films in the franchise, with the project now being set to release on Hulu.<ref>[https://www.hollywoodreporter.com/movies/movie-news/alien-movie-fede-alvarez-20th-century-studios-1235037155/ New ‘Alien’ Movie in the Works With ‘Don’t Breathe’ Filmmaker Fede Alvarez (Exclusive)]</ref>
+
+==References==
+{{Reflist}}
+
+==External Links==
+*{{IMDb|title/tt10582690}}
+{{FilmStub}}
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Hulu]]
+[[Category:20th Century Studios films]]
+[[Category:20th Century Studios]]

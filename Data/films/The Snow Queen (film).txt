@@ -1,0 +1,36 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Dablink|the film|the [[Once Upon a Time]] episode|[[The Snow Queen (Once Upon a Time)|The Snow Queen]]}}
+{{Infobox film
+|image = 
+|name = The Snow Queen
+|director = 
+|producer = Kristin Burr
+|writer = 
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = 
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = }}
+'''''The Snow Queen''''' is an upcoming American fantasy film based on the [[Hans Christian Andersen]] fairy tale of the same name. The project was announced in May [[2020]].<ref>{{cite web|url=https://thedisinsider.com/2020/05/18/exclusive-disney-developing-live-action-the-snow-queen-film/|title=Exclusive: Disney Developing Live-Action ‘The Snow Queen’ Film|website=The Disinsider|last=Shuler|first=Skyler|date=May 18, 2020}}</ref>
+
+==References==
+{{Reflist}}
+{{Stub}}
+{{DEFAULTSORT:Snow Queen, The}}
+{{DISPLAYTITLE:''The Snow Queen''}}
+[[Category:Articles that need a picture]]
+[[Category:Live-action films]]
+[[Category:Disney films]]

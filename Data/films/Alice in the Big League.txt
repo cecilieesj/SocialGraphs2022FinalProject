@@ -1,0 +1,28 @@
+{{Infobox film
+|image=
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|starring = Lois Hardwick
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[August 22]], [[1927]]
+|time = 8:23
+|preceded = ''[[Alice the Beach Nut]]''
+}}
+'''''Alice in the Big League''''' is a [[1927]] short film by the Walt Disney Studio and Winkler Pictures. This is the final entry in the ''[[Alice Comedies]]'' series and Lois Hardwick's final role as Alice.
+
+==Summary==
+Alice attempts to umpire a big league baseball game where the animals begin to take exception to her bad calls.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1927-league-2.jpg
+1927-league-3.jpg
+</gallery>
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=67 Alice in the Big League] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1927 shorts]]
+[[Category:Alice Comedies]]

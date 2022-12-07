@@ -1,0 +1,43 @@
+{{Infobox character
+|name= The Garbage Truck Robot  
+|image= Wall-e gtb1.jpg
+|films= ''[[WALL-E (film)|WALL-E]]'' 
+|inspiration= Garbage Truck
+|fullname=BQ-03 the Garbage Truck Robot
+|alias=(BQ-03) The Trash Cart Robot
+|personality= Hardworking, mute
+|appearance= A gray hovering truck shaped robot with two camera eyes. Has black and yellow warning stripes on its hull
+|occupation= Garbage transferer
+|alignment= Good
+|goal= To carry garbage to and drop it to trash chutes aboard the Axiom
+|home= The [[Axiom]] 
+|family= Other garbage truck bots
+|friends=[[AUTO]] (formerly), [[GO-4]], [[Captain B. McCrea]], [[EVE]], [[WALL-E (character)|WALL-E]] (Sometimes) [[SECUR-T|Axiom's Stewards]], MVR-As, other garbage truck bots
+|enemies=[[AUTO]], [[WALL-E (character)|WALL-E]] (Sometimes)
+|likes= To carry garbage 
+|powers= Hovering
+|fate= Returns to Earth with other robots aboard the ''Axiom''}}'''BQ-03 the Garbage Truck Robots '''are minor characters in the [[2008]] [[Walt Disney Pictures|Disney]]/[[Pixar]] animated feature film ''[[WALL-E (film)|WALL-E]]''. Two distinct units appear briefly in the film. They are neutral characters because they do not actually work against [[WALL-E (character)|the protagonist]] or help him.
+
+Garbage truck bots are gray colored hovering truck shaped robots with two camera eyes. They have black and yellow warning stripes on their hull.
+
+==Role in the film==
+The first garbage truck robot appears when [[WALL-E (character)|WALL-E]] was chasing the MVR-A transport bot that was taking [[EVE]] and [[GO-4]] away. WALL-E spots the garbage truck robot dumping garbage to a trash chute near him. When the second time garbage truck robot appears it is seen by EVE when it dumps trash to a trash chute that is connected to captains quarter. When the garbage truck robot leaves EVE flies through the same chute and brings the plant to the [[Captain B. McCrea|captain]].
+
+==Gallery==
+<gallery position="center">
+WALL-E gtb2.jpg|The second garbage truck bot seen by EVE.
+</gallery>
+
+==Trivia==
+*The two garbage truck bots that appear in the movie are clearly two separate units because their colouring is slightly different. The alignment of a large yellow line that stretches across the robot's hull is a bit different on the two bots.
+
+{{WALL-E}}
+[[Category:Characters]]
+[[Category:WALL-E characters]]
+[[Category:Robots]]
+[[Category:Silent characters]]
+[[Category:Neutral characters]]
+[[Category:Transportation]]
+[[Category:Animated characters]]
+[[Category:WALL-E objects]]
+[[Category:Pixar characters]]

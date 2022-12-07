@@ -1,0 +1,256 @@
+{{Dablink|the film|the character|[[Wreck-It Ralph (character)]]}}
+{{Quote|The story of a [[Wreck-It Ralph (character)|regular guy]] just looking for a little wreck-ognition.|Tagline}}
+{{Infobox film
+|image = Wreck It Ralph Poster.jpeg
+|name = Wreck-It Ralph
+|director = [[Rich Moore]]
+|producer = [[Clark Spencer]]
+|writer = Rich Moore {{Small|(Story)}}<br>[[Jim Reardon]] {{Small|(Story)}}<br>[[Phil Johnston]] {{Small|(Story and Screenplay)}}<br>[[Jennifer Lee]] {{Small|(Screenplay)}}<br>[[Chris Williams]] {{Small|(Screenplay; uncredited)}}
+|starring = [[John C. Reilly]]<br>[[Sarah Silverman]]<br>[[Jack McBrayer]]<br>[[Jane Lynch]]<br>[[Alan Tudyk]]
+|music = [[Henry Jackman]]
+|cinematography = Rob Dressel {{Small|(Layout Supervisor)}}<br>Adolph Lusinsky {{Small|(Director of Look and Lighting)}}
+|editor = Tim Mertens
+|studio = [[Walt Disney Pictures]]<br>[[Walt Disney Animation Studios]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[October 29]], [[2012]] {{Small|([[El Capitan Theatre]])}}<br>[[November 2]], 2012 {{Small|([[United States|US]], [[Canada]] and [[Mexico]])}}<br>[[November 6]], 2012 {{Small|([[China]])}}<br>[[February 8]], [[2013]] {{Small|([[United Kingdom]])}}<br>[[March 23]], 2013 {{Small|([[Japan]])}}
+|time = 101 minutes
+|language = English
+|budget = $165 million
+|gross = $471,222,889
+|preceded = ''[[Winnie the Pooh (film)|Winnie the Pooh]]''
+|followed = ''[[Frozen]]<br>[[Ralph Breaks the Internet]]''
+|website = http://www.disney.co.jp/studio/animation/1183.html
+|imdb_id = 1772341}}
+
+'''''Wreck-It Ralph''''' is a [[2012]] American 3D computer-animated action comedy film created and produced at [[Walt Disney Animation Studios]] and distributed by [[Walt Disney Studios Motion Pictures]]. It is the 52nd animated feature in the [[Disney Animated Canon]]. It stars [[John C. Reilly]], [[Sarah Silverman]], [[Jack McBrayer]], [[Jane Lynch]], [[Alan Tudyk]], and [[Mindy Kaling]].
+
+Taking place in a fictional [[Litwak's Arcade|arcade]] where video game characters live and congregate after hours, the film tells the story of an 8-bit “bad-guy” called [[Wreck-It Ralph (character)|Wreck-It Ralph]], who embarks on a journey through multiple games to accomplish his dream of becoming a hero. Along the way, he encounters a first-person shooter [[Sergeant Calhoun| military sergeant]], a villainous [[King Candy|kart-racing king]], and a sentient “glitch” named [[Vanellope von Schweetz]]. In the midst of his adventures, Ralph inadvertently unleashes a [[Cy-Bugs|deadly enemy]] that threatens the entire arcade world.
+
+''Wreck-It Ralph'' premiered at the [[El Capitan Theatre]] on [[October 29]], 2012, and went into general release on [[November 2]], 2012. The theatrical release was accompanied by Disney's award-winning animated short film ''[[Paperman]]''. The film became wildly popular, becoming one of the highest-grossing features for Disney Animation at the time. Accolades include the Golden Globe, Annie Award, and Critics' Choice Award for Best Animated Feature among others, as well as a nomination from the Academy Awards (though it infamously lost to [[Pixar]]'s ''[[Brave]]'').
+
+A sequel, titled ''[[Ralph Breaks the Internet]]'' was announced on [[June 30]], [[2016]] and released in North America on [[November 21]], [[2018]].
+
+==Plot==
+The film commences at night, when [[Litwak's Arcade]] closes, the various video game characters congregate in [[Game Central Station]], through the power cables. In the game ''[[Fix-It Felix Jr. (video game)|Fix-It Felix Jr.]]'', the [[Nicelanders|characters]] celebrate the game's [[Fix-It Felix|titular hero]], but shun its villain, [[Wreck-It Ralph (character)|Wreck-It Ralph]]. At a [[Bad-Anon|support group for video game villains]], Ralph reveals he doesn't want to be a bad guy anymore. Returning to his own game, Ralph finds the other characters celebrating their game's anniversary and that he has not been invited. Felix reluctantly invites Ralph to join them, but unfortunately, [[Gene]], one of the Nicelanders who has an especially negative attitude towards Ralph, antagonizes him to the point of denouncing him as "just the bad guy who wrecks the building", and makes it clear that they won't think of him otherwise unless he wins a medal the way Felix often does to prove he's a hero. Hurt and dejected, Ralph declares that he'll go out and win one, so he can finally be treated with some respect and storms out.
+
+While visiting ''Tapper'' in the hopes of getting information on where he can win a medal, Ralph meets Markowski, a soldier from the first-person shooter game ''[[Hero's Duty]]'', who tells him the game's winner receives a [[Medal of Heroes|medal]]. Ralph enters the game and encounters [[Sergeant Calhoun]], its no-nonsense leader. He goes through the game session and is the one to end it. Meanwhile, Ralph's absence has not gone unnoticed, as [[Moppet Girl|a girl]] outside the game tells Mr. Litwak that ''Fix-It Felix Jr.'' is malfunctioning, so he puts an out of order sign onto the game's screen. Q*bert travels to ''Fix-It Felix Jr.'', and tells him about the dark turn of events. This causes alarm for [[Fix-It Felix Jr.|Felix]], because if a game becomes broken, Litwak will have to unplug the game, leaving any characters in the game homeless. So, Felix sets out to find Ralph. After the arcade closes, Ralph climbs the game's central beacon, which happened to be filled with the eggs of [[Cy-Bugs]] (bug-like enemies) and collects the medal. However, he accidentally hatches a Cy-Bug that clings to him. During his panic to get the Cy-Bug larva off, he stumbles into a nearby escape pod that launches him out of the game.
+
+Ralph crash-lands in ''[[Sugar Rush]]'', a kart-racing game. As he searches for his medal, he meets [[Vanellope von Schweetz]], a glitchy character who makes off with the medal, planning to use it to buy entry into an after-hours race. However, [[King Candy]] and the [[Sugar Rush Racers|other racers]] refuse to let Vanellope participate, saying she's not really part of the game. The other racers pay her a visit while she is building her own cart and destroy it, disabling her from racing. Ralph witnesses this and scares the racers off. Ralph then berates her, but she insults him right back. This angers him to the point that he smashes a jawbreaker in half. Because of his amazing strength, Vanellope gets an idea. She explains to Ralph that the medal can be won back if she gets first place in a race. She then offers to make a pact that if he can help her win, she'll give Ralph the medal back. Ralph reluctantly accepts her offer. After making said pact, they head off to the cart bakery, where the racers make their carts, and they build a [[Candy Kart|cart]] together. However, a security guard notices the unauthorized activity, and the authorities are sent out, along with King Candy. After a long chase, they give King Candy's party the slip by hiding in Diet Cola Mountain, an incomplete extra racetrack. It is discovered that this is Vanellope's home. From there, Ralph teaches Vanellope how to drive her new cart.
+
+Back in ''Hero's Duty'', Felix meets Sergeant Calhoun, who explains that the Cy-Bugs can control any game, and can then destroy everything in game. As the two search for Ralph and the Cy-Bug in ''Sugar Rush'', Felix explains that he is searching for Ralph, who had probably "gone Turbo". When Calhoun asked Felix about this term, he then explains that a long time ago, there was an old racing game called ''[[TurboTime]]'' starring a self-obsessed racer named Turbo. One day, a ''RoadBlasters'' arcade cabinet entered the arcade and gained more popularity than ''TurboTime''. Out of jealousy, Turbo interrupted the game. He traveled to the other game and crashed into the main player of the new racing game. By doing so, he crashed both games, which led to both of them being unplugged. As Felix and Calhoun progress, they fix the pod Ralph was in and fly off to search for the lone Cy-Bug. Felix later falls in love with Calhoun. However, Calhoun's past comes back to haunt her when Felix refers to her as a "dynamite gal", something that [[Hero's Duty Troops|her fiancé]], who was murdered by a Cy-Bug on their wedding day because she failed to check the area, would call her. Distraught, she forces Felix to leave her ship. A heartbroken Felix walks to King Candy's castle and meets [[Sour Bill]], King Candy's assistant. He locks up Felix after he realizes he should have locked up Ralph. After a long search, Calhoun soon discovers the Cy-Bug has laid hundreds of eggs underground.
+
+Before the race, King Candy finds Ralph in the absence of Vanellope and offers Ralph his medal, which King Candy has dug into the game's code to retrieve (using the "Konami Code"). The only condition was that Vanellope couldn't race. When Ralph asks why King Candy and the other racers hate her so much, he explains he really doesn't. Vanellope is a glitch, and so this would cause her to act abnormally (such as teleporting and jumping around, sometimes through objects). If she won the race, she would become an official part of the racing roster. He explains that her glitching would give gamers the impression that the game was broken and the game would be unplugged. While everyone else could be evacuated from the game, Vanellope could not leave, as she is a glitch. As a result, she would die along with the program. So King Candy leaves Ralph with that and exits. When Vanellope returns and gives Ralph a medal that says, "You're my hero", he explains to Vanellope that she cannot race for her own good. But she notices that Ralph has the Medal of Heroes and doesn't believe him, threatening to race independently. Ralph stops her and hangs her by her jacket on a nearby lollipop tree. He then reluctantly proceeds to destroy her kart into pieces. Vanellope tries to stop Ralph, but it was no use. She falls off, says, "You really are a bad guy!" and runs away, heartbroken.
+
+Ralph goes back to ''Fix-It Felix Jr.'' and sees that the entire game is deserted, save for one lone citizen, Gene. Gene explains that the game was set to be unplugged in the morning and that everyone has evacuated, and he has stayed behind to enjoy one last martini. Gene did say that he will not dishonor his bets and gives Ralph the penthouse's key since he acquired a medal as agreed. Ralph did not realize the extent of this, saying he was sick of being alone in the dump, to which Gene retorts that it is over, for "now you can be alone in the penthouse". Alone, Ralph goes to the balcony and throws his medal at the screen that sits above the game, realizing that he's no hero after everything he's done. This causes the poster that previously covered the screen to unstick and partly falls off, revealing the side of the ''Sugar Rush'' arcade cabinet in front of Ralph's game. He discovers that Vanellope is on the cabinet and wonders why she is on the machine's artwork if she is a glitch. Ralph suspects something foul at play and returns to ''Sugar Rush'' to get answers.
+
+He comes across Sour Bill and places him in his mouth as a form of torture until he confesses. Sour Bill explains that King Candy tried to delete Vanellope's code on purpose. When Ralph asks about his motives, Sour Bill says he doesn't know why, and in fact, no one knows why. He explains it is like this because King Candy locked up all the characters' memories and says that if Vanellope crosses the finish line, the game will reset, and she won't be a glitch anymore. Upon locating Felix, Ralph begs Felix to fix the wrecked kart so Vanellope can race. He agrees to do so after discovering how hard of a life Ralph has had. After also freeing and making amends with Vanellope, they start the race, and as the race proceeds, the hatched Cy-Bugs attack ''Sugar Rush''. Felix, Calhoun, and Ralph then battle them. Vanellope catches up to King Candy mid-race, but Candy tries to ram Vanellope off the track. When Vanellope tries to escape, King Candy instantly gets impatient and viciously attacks her with his cane. Vanellope's glitching interferes with King Candy's code and reveals that King Candy is actually Turbo in disguise, having somehow escaped his game before it was unplugged. Much to the shock of Ralph and Felix. Not wanting Vanellope to undo all he has done to the game, Turbo rams his car into Vanellope's, causing her to be dragged in front of the car while approaching a walled fork in the road. Vanellope finally controls her glitching to escape from Turbo and drives away, yelling at her victory. An enraged Turbo tries to pursue, but suddenly, a Cy-Bug appears on the track and devours him alive.
+
+The group attempts to flee the doomed game, but Vanellope cannot pass through the exit due to her status as a glitch. Calhoun says the game can't be saved because there is no beacon in the game like the beacon in ''Hero's Duty'' which attracts and kills the Cy-Bugs. Ralph, in a last-ditch effort, heads to Diet Cola Mountain, where he plans on collapsing its Mentos stalactites into the cola at the bottom, causing an eruption that would attract the bugs. While on top of the mountain, he pounds the mentos into the diet cola below from the top. However, before he can finish, Turbo, fused with the Cy-Bug that devoured him, arrives and stops him. Turbo declares that he has become "the most powerful virus in the arcade" and plans to take over all the other games using his new powers, but not before getting revenge on Ralph. Ralph and Turbo battle, but Turbo quickly overpowers Ralph, carrying him above the mountain and sadistically forcing him to watch Cy-Bugs close in on Vanellope. Ralph breaks free and dives toward the mountain, hoping his impact will start the eruption. Seeing Ralph dive towards the mountain, Vanellope, in turn, uses her glitching abilities with the goal of catching Ralph. Ralph breaks through the roof of the mountain, but before he is killed in the eruption, Vanellope catches him in [[Sugar Rush Racers|Crumbelina]]'s cart. The eruption shines a bright light, which in turn draws the Cy-Bugs to their destruction. Turbo, being more powerful than the others, is able to resist for a short time, but his Cy-Bug programming overwhelms him, and he flies into the lava as well, killing him. Because video game characters who die outside their own game are unable to ever regenerate, this means that the Cy-Bugs and Turbo die permanently.
+
+After Turbo and the Cy-Bugs are defeated, Felix restores the finish line, and Vanellope crosses it, restoring her memory as the game's lead character, and restoring the ruins of ''Sugar Rush''. As Ralph predicted, the gamers end up favoring her as a character, despite her glitches (her ability to teleport short distances is perceived by at least some gamers as a special power, rather than a glitch), Turbo had been destroyed forever ([[Sour Bill]], [[Wynnchel and Duncan]], and the [[Sugar Rush Racers]], never again heard about him).
+
+The movie ends as Felix and Ralph return to ''Fix-It Felix Jr.'' in time to show Litwak the game works, and they also give Q*Bert and Co. a new opportunity to work with Ralph and crew in a "bonus level", sparing it and also giving its characters new respect for Ralph's work as the villain. Felix later marries Calhoun, with Ralph being the best man and a good friend, and Vanellope as the maid of honor. Ralph concludes the movie narrating both to the audience and the aforementioned support group for video game villains on how much his life has now improved, but how the best part is that he's finally made a true friend in Vanellope and how his favorite part of the day is when the Nicelanders lift him up before tossing him off the building. When he gets to see a quick glimpse of her in her game, he declares, "if that little kid likes me, how bad can I be?"
+
+==Cast==
+*[[John C. Reilly]] as [[Wreck-It Ralph (character)|Wreck-It Ralph]]
+*[[Sarah Silverman]] as [[Vanellope von Schweetz]]
+*[[Jack McBrayer]] as [[Fix-It Felix Jr.]]
+*[[Jane Lynch]] as [[Sergeant Calhoun|Sergeant Tamora Jean Calhoun]]
+*[[Alan Tudyk]] as [[King Candy|King Candy/Turbo]]
+*[[Rich Moore]] as [[Sour Bill]] and [[w:c:streetfighter:Zangief|Zangief]]
+*[[Mindy Kaling]] as [[Taffyta Muttonfudge]]
+*[[Raymond S. Persi]] as [[Gene]] and [[w:c:houseofthedead:Cyril|Zombie]]
+*[[Adam Carolla]] as [[Wynnchel and Duncan|Wynnchel]] and [[Horatio Sanz]] as [[Wynnchel and Duncan|Duncan]]
+*Joe Lo Truglio as [[Markowski]]
+*[[Ed O'Neill]] as [[Stan Litwak|Mr. Litwak]]
+*[[Dennis Haysbert]] as [[General Hologram]]
+*[[Edie McClurg]] as Mary
+*[[Jess Harnell]] as Don
+*[[Rachael Harris]] as Deanna
+*[[Skylar Astin]] as Roy
+*[[Stefanie Scott]] as [[Moppet Girl]]
+*[[John DiMaggio]] as Beard Papa
+*[[Katie Lowes]] as [[Candlehead]]
+*[[Jamie Elman]] as [[Rancis Fluggerbutter]]
+*Josie Trinidad as Jubileena Bing-Bing
+*Cymbre Walk as [[Crumbelina DiCaramello]]
+*Brandon Scott as Kohut
+*Tim Mertens (The film's editor) as [[Dr. Brad Scott]]
+**Nick Grimshaw voices Brad in the UK release.
+*[[Phil Johnston]] as [[Surge Protector]]
+*[[Martin Jarvis]] as Satan ("Satine")
+*[[Kyle Hebert]] as [[w:c:streetfighter:Ryu|Ryu]]
+*[[Maurice LaMarche]] as Root Beer Tapper
+*[[Reuben Langdon]] as [[w:c:streetfighter:Ken Masters|Ken Masters]]
+*[[Jamie Sparer Roberts]] as [[w:c:dancedancerevolution:Yuni|Yuni Verse]]
+*Kevin Deters as [[w:c:pacman:Clyde|Clyde]]
+*Gerald C. Rivers as [[w:c:streetfighter:M. Bison|M. Bison]]
+*Brian Kesinger as [[w:c:mortalkombat:Kano|Cyborg]]
+*[[Roger Craig Smith]] as [https://sonic.fandom.com/wiki/Sonic_the_Hedgehog Sonic the Hedgehog] (SEGA)
+*Gloyd Orangeboar (does not speak)
+*Nougetsia Brumblestain (does not speak)
+*Citrusella Flugpucker (does not speak)
+
+===Additional Voices===
+*Ava Acres
+*[[Isabella Acres]]
+*[[Bob Bergen]]
+*[[Dave Boat]]
+*Reed Buck
+*Michael Carlsen
+*David Cowgill
+*[[Jim Cummings]]
+*[[Elizabeth Daily|E.G. Daily]]
+*[[Debi Derryberry]]
+*Will Deters
+*Terri Douglas
+*[[Sandy Fox]]
+*Eddie Frierson
+*Tyler Ganus
+*Earl Ghaffari
+*Emily Hahn
+*[[Jennifer Hale]]
+*Daniel Kaz
+*Dave Kohut
+*[[Lauren MacMullan]]
+*[[Mona Marshall]]
+*[[Scott Menville]]
+*[[Laraine Newman]]
+*Paul Pape
+*Cooper Reed
+*Lynwood Robinson
+*Trenton Rogers
+*[[Jadon Sand]]
+*[[Kath Soucie]]
+*[[April Stewart]]
+*[[Fred Tatasciore]]
+*Jennifer Christine Vera
+
+===Cameos===
+{{Main|List of cameos in Wreck-It Ralph}}
+In addition to the spoken roles, ''Wreck-It Ralph'' contains a number of other video-game references, including characters and visual gags. At the meeting of video-game villains, the above characters include, in addition to any mentioned above: [[w:c:mario:Bowser|Bowser]] from the ''Super Mario'' series, [[w:c:sonic:Doctor Eggman|Dr. Eggman]] from ''Sonic the Hedgehog'', and Neff from ''Altered Beast''. Characters from ''Q*bert'', including Q*bert, Coily, Slick, Sam, and Ugg, are shown as "homeless" characters and later taken in by Ralph and Felix into their game. Scenes in Game Central Station and Tapper's bar include Chun-Li, Cammy, and Blanka from ''Street Fighter'', Pac-Man, Blinky, Pinky, and Inky from ''Pac-Man'', the Paperboy from ''Paperboy'', the two paddles and the ball from ''Pong'', Dig Dug, a Pooka, and a Fygar from ''Dig Dug'', The Qix from ''Qix'', and Frogger from ''Frogger''. Additionally, [[w:c:mario:Mario|Mario]] and [[w:c:tombraider:Lara Croft|Lara Croft]] are mentioned in dialogue.
+
+Additional references are based on sight gags. The "Cyborg" credited in the credits is based on Kano from ''Mortal Kombat'', and performs his famous "heartrip" fatality on a zombie. The residents of Niceland and the bartender from ''Tapper'' are animated using a jerky motion that spoofs the limited animation cycles of the sprites of many eight- and sixteen-bit arcade games. King Candy uses the Konami Code on a Nintendo Entertainment System controller to access the programming of ''Sugar Rush''. Throughout Game Central Station is graffiti that includes "Aerith lives," (referencing the character of Aerith Gainsborough from ''Final Fantasy VII''), "All your base are belong to us," (an Engrish phrase popularized from the game ''Zero Wing''), "Sheng Long Was Here," (referencing an April Fool's joke around a made-up character Sheng Long from ''Street Fighter''), and "Jenkins" (a nod to the popular Leeroy Jenkins meme from ''World of Warcraft''). There is also a reference to the ''Metal Gear'' series when Ralph is searching for something in a box and finds the "Exclamation point" (with corresponding sound effect from the game), and a mushroom from ''Super Mario Bros.'' Mr. Litwak wears a black and white striped referee's shirt, a nod to the iconic outfit of Twin Galaxies founder Walter Day. One of the songs in the credits is an original work from Buckner and Garcia, previously famous for writing video game-themed songs in the 1980s. The [[Walt Disney Pictures|Disney]] closing logo variation appears in a glitched state, a reference to the kill screen from many early arcade games such as ''Pac-Man''.
+
+==Development==
+The concept of ''Wreck-It Ralph'' was first developed at Disney in the late 1980s, under the working title ''High Score''. Since then, it was redeveloped and reconsidered several times: In the late 1990s, it took on the working title ''Joe Jump'', then in the mid-2000s as ''Reboot Ralph''. In 2011, the project later became ''Wreck-It Ralph''.
+
+[[John Lasseter]], the head of Walt Disney Animation Studios and executive producer of the film, describes ''Wreck-It Ralph'' as "an 8-bit video game bad guy who travels the length of the arcade to prove that he's a good guy". In a manner similar to Disney's 1988 film, ''[[Who Framed Roger Rabbit]]'' and all three ''[[Toy Story]]'' films, ''Wreck-It Ralph'' features cameo appearances by a number of licensed video game characters. For example, one scene from the film's first theatrical trailer shows Ralph attending a support group for the arcade's various villain characters, including Clyde the orange ghost from ''Pac-Man'', Doctor Eggman from ''Sonic the Hedgehog'' and Bowser from ''Super Mario Bros''. Rich Moore, the film's director, had determined that for a film about a video game world to feel authentic, "it had to have real characters from real games in it".
+
+Before production, the existing characters were added to the story either in places they would make sense to appear or as cameos from a list of characters suggested by the film's creative team, without consideration if they would legally be able to use the characters. The company then sought out the copyright holders' permissions to use the characters, as well as working with these companies to assure their characters were being represented authentically. In the case of Nintendo, the writers had early on envisioned the Bad-anon meeting with Bowser as a major character within the scene; according to Moore, Nintendo was very positive towards this use, stating in Moore's own words, "If there is a group that is dedicated to helping the bad guy characters in video games then Bowser must be in that group!" Nintendo had asked that the producers try to devise a scene that would be similarly appropriate for Mario for his inclusion in the film. Despite knowing they would be able to use the character, the producers could not find an appropriate scene that would let Mario be a significant character or take away the spotlight on the main story, and opted to not include the character. Moore debunked a rumor that Mario and his brother character Luigi were not included due to Nintendo requesting too high a licensing fee, stating that the rumor grew out of a joke [[John C. Reilly]] made at Comic-Con. Dr. Wily from ''Mega Man'' was going to appear, but was cut from the final version of the film. Overall, there are about 188 individual character models in the movie as a result of these cameo inclusions.
+
+Moore aimed to add licensed characters similarly as cultural references in ''Looney Tunes'' shorts, but considered "having the right balance so a portion of the audience didn't feel they were being neglected or talked down to". However, Moore avoided creating the movie around existing characters, feeling that "there's so much mythology and baggage attached to pre-existing titles that I feel someone would be disappointed", and considered this to be a reason why movies based on video game franchises typically fail. Instead, for ''Ralph'', the development of new characters representative of the 8-bit video game was "almost like virgin snow", giving them the freedom to take these characters in new directions.
+
+The film introduced Disney's new bidirectional reflectance distribution functions, with more realistic reflections on surfaces, and new virtual cinematography Camera Capture system which makes it possible to go through the scenes in real-time. To research the ''Sugar Rush'' segment of the film, the visual development group traveled to trade fair ISM Cologne, a See's Candy factory, and other manufacturing facilities. The group also brought in food photographers, to demonstrate techniques to make food appear appealing. Special effects, including from "smoke or dust", looks distinct in each of the segments.
+
+==Release==
+The film was originally scheduled for a release on March 22, 2013, but it was later changed to November 2, 2012, due to it being ahead of schedule, with DreamWorks Animation SKG's ''The Croods'' taking its place. The theatrical release was accompanied by Disney's Oscar-winning, animated short film ''[[Paperman]]''.
+
+===Home Video===
+{{Main|Wreck-It Ralph (video)}}
+''Wreck-It Ralph'' was released on DVD and Blu-ray (2D and 3D) in North America on March 5, 2013, from [[Walt Disney Studios Home Entertainment]]. The film was made available for digital download in selected regions on February 12, 2013. ''Wreck-It Ralph'' debuted at #1 in Blu-ray and DVD sales in the United States.
+
+==Reception==
+''Wreck-It Ralph'' received very positive reviews from critics. The film review aggregation website Rotten Tomatoes reports that 86% of critics have given the film a positive review based on 170 reviews, with an average score of 7.5/10. The site's consensus reads: "Equally entertaining for both kids and parents old enough to catch the references, ''Wreck-It Ralph'' is a clever, colorful adventure built on familiar themes and joyful nostalgia." On Metacritic, based on 36 reviews, the film has an average of 72/100. On IMDB, the film has a 7.8/10 rating. The film earned an "A" from audiences polled by CinemaScore.
+
+==Gallery==
+{{Gallerylink}}
+
+==Trivia==
+*This is the eighth non-musical film in the Disney animated canon, following ''[[The Black Cauldron]]'', ''[[The Rescuers Down Under]]'', ''[[Dinosaur]]'', ''[[Atlantis: The Lost Empire]]'', ''[[Treasure Planet]]'' and ''[[Bolt (film)|Bolt]]'', and then followed by ''[[Big Hero 6]]'', ''[[Zootopia]]'', ''[[Ralph Breaks the Internet]]'', and ''[[Raya and the Last Dragon]]''.
+*Nintendo's Mario [https://mario.fandom.com/wiki/Mario Mario] and [https://mario.fandom.com/wiki/Luigi Luigi] were intended to have cameo appearances in this film.
+**Since the producers of the movie were unable to put Luigi into the plot, and they didn't want to make him a cameo, he was not included.
+**On the other side, [https://mario.fandom.com/wiki/Bowser Bowser], Mario's hateful nemesis and the antagonist of the ''Mario'' franchise, did make a cameo in this film.
+**Although he didn't make a cameo appearance, Mario is mentioned by Felix during the party scene as being "fashionably late as usual".
+*The Royal Raceway track is also the name of the [https://mario.fandom.com/wiki/Royal_Raceway third Star Cup racetrack] in the 1997 Nintendo 64 game, ''[[w:c:mario:Mario Kart 64|Mario Kart 64]]''.
+**Only this course comprises candies and sweet foods instead of just a regular landscape and [https://mario.fandom.com/wiki/Princess_Peach Princess Peach]'s [https://mario.fandom.com/wiki/Princess_Peach%27s_Castle castle].
+*The DVD/Blu-ray main menu are both the [[Fix-It Felix Jr. (video game)|Fix-It Felix Jr.]] game in its attract mode.
+**The high score is 110,212 — an unpunctuated short American format rendition of the movie's US release date.
+*This is currently the only Disney film for which {{WikipediaLink|Toonami}} has done a "Paid Immersion Event".[[File:Toonami - Fix-it Felix Jr Game Review (HD 1080p)|thumb|230px]]
+*When the movie aired on [[Freeform]] the following scenes were cut:
+**Tapper passing out root beer.
+**Some of the scenes when characters from ''Hero's Duty'' were entering the game.
+**Ralph hitting the wall.
+**The Cy-Bug eating Ralph's gun.
+**Felix communicating with Q*bert when everyone realized Ralph's gone turbo.
+**Ralph coming out from the entrance of Sugar Rush.
+**Ralph telling Vanellope that his medal was precious and it's his ticket to a better life.
+**Some scenes of the ''Sugar Rush'' racers.
+**The devil dogs looking for Ralph, Ralph hiding in the chocolate and Ralph trying to catch up with the racers.
+**Ralph and Vanellope baking and decorating a kart.
+**King Candy chasing Ralph and Vanellope.
+**Ralph teaching Vanellope how to drive.
+**When Vanellope said she thinks she's going to puke and Ralph saying "Who doesn't love a brat with dirty hair?"
+**The first three scenes of Ralph returning to his game.
+**The scene when Ralph told Sour Bill to stick around.
+**Felix imitating Ralph, making the jail bars stronger and saying "Why do I fix everything I touch?".
+**Ralph calling himself a "numbskull" and a "selfish diaper baby".
+**When Ralph and Vanellope were in the chocolate pond after defeating the Cy-Bugs and King Candy.
+*[[Thomas Newman]], who composed the score to Pixar's ''[[Finding Nemo]]'', was originally picked to create the score to this film, but since he was too busy working on the score to ''Skyfall'', Henry Jackman stepped in to fill his role.
+*Touchstone Pictures' ''[[Who Framed Roger Rabbit]]'' had cartoon character cameos, Pixar's ''[[Toy Story]]'' had toy cameos and ''Wreck-It Ralph'' had video game character cameos. The latter also included other Disney character cameos, like [[Maximus]] (from ''[[Tangled]]'') and [[Lefty]] and [[Tiny (Meet the Robinsons)|Tiny]] (from ''[[Meet the Robinsons]]'').
+*A homage to Shakespeare's ''Romeo & Juliet'' can be seen on a sign (saying "Parting is such sweet sorrow") once Ralph and Felix leave ''Sugar Rush'' towards the ending.
+*This is the first Walt Disney Animation Studios feature to completely have the aspect ratio of 2.39:1 [CinemaScope]. This ratio (including its alternate ratio, 2.35:1) is later used in all later Walt Disney Animation Studios films except ''[[Encanto]]'' (which uses 1.85:1).
+**The last traditionally-animated Disney feature to use this format was ''[[Brother Bear]]'' (The rest of that film; The first twenty-four minutes were in 1.85:1).
+*In ''Big Hero 6'', a toy version of Ralph can be seen in [[Hiro Hamada|Hiro]]'s room on his computer desk.
+*[[Skrillex]] makes a cameo in Fix-it Felix's penthouse, during the 30th-anniversary party.
+*This film has a wide variety of 70 distinct settings while the usual Disney film has around 10 to 25.
+*The film was released in theaters exactly 11 years after the Pixar movie ''[[Monsters, Inc.]]''
+*The film opens with an 8-bit Walt Disney Animation Studios logo.
+*''Wreck-It Ralph'' has 188 unique, individual characters, three times more than any other Disney film in history. Disney films normally have between 40 and 60.
+**These consist of characters from Disney, Nintendo, and classic arcade companies such as Taito. While Disney has a total character base of around 60, most of the characters that made cameo appearance were from Nintendo's archive. These included Street Fighter characters such as M. Bison, Ryu, Ken, and Zangief. Characters from arcade companies other than Nintendo include Pac-man, Pooka, and Fygar (characters from ''Dig-Dug''), Clyde (the orange Pac-Man ghost), Sonic, Dr. Eggman, Bowser, Neff, Q-Bert, Yuni, and plenty more.
+*In this film, the color acid green is associated with evil.
+*During production, the animators and director would watch dailies 3-5 hours per day and animators were expected to turn in about 80 frames per week.
+*The animation team spent many hours visiting different locations in an attempt to provide a more realistic basis for the environments found in the movie. These locations included a visit to Cologne, Germany, where they visited a bakery, candy factories, and the World Confectionery Convention. Ideas were collected from these, which inspired the ''Sugar Rush'', a candy-themed racing game and its surrounding environment. Another trip featured a stop at the Ford manufacturing plant in Detroit, Michigan to see the entire assembly on how trucks are made, which would assist in creating a scene where a ''Sugar Rush'' character, Vanellope, builds a car.
+*Disney recruited professional football players who provided the models for the muscular guys in ''Hero's Duty''. These models imparted reference points as to how real-life soldiers would move. In addition, the team visited Edwards Air Force Base in California to provide the battleground on which the game was based.
+*The production team were urged to spend many hours of playing video games on different platforms using different controllers and joysticks, which would assist in the look and feel of the in-game environments. In addition, the team also visited many of the game development HQs to get a first-hand glimpse at the process behind creating these games. The movie highlighted many of the video game rules for each of the games they were based upon and is something that is featured throughout the movie itself.
+*The song "When Can I See You Again" by Owl City was featured in the [[Paint the Night]] parade at Disneyland for the park's 60th anniversary.
+*''Sugar Rush''<nowiki/>'s buildings are inspired by Antoni Gaudí's architecture. Visual development artist, Lorelay Bove thought his buildings looked like candy houses when she was growing up in Spain.
+*In Japan, the film is called "シュガーラッシュ" (''Shugārasshu''), which translates to '''Sugar Rush'''. This would make sense, seeing how a majority of the movie takes place in ''Sugar Rush'', and the "kawaii" (Japanese for "cute") style of the game, as part of Japanese culture is cuteness.
+*This is the first [[Walt Disney Animation Studios]] film to feature a mock-Disney logo, which is seen at the end of the film.
+*This is also the first [[Walt Disney Animation Studios]] film to contain the [[2011]] “DiSNEY” text variant of the current [[Walt Disney Pictures]] logo.
+*This is the tenth Disney animated film to be set in the same year it was first released, following ''Bolt'', ''Meet the Robinsons'', ''Chicken Little'', ''[[Lilo & Stitch|Lilo and Stitch]]'', ''[[The Rescuers Down Under]]'', ''[[Oliver & Company|Oliver and Company]]'', ''[[The Rescuers]]'', ''[[One Hundred and One Dalmatians]]'', and ''[[Dumbo (1941 film)|Dumbo]]''.
+*''Wreck-It Ralph'' is the fifth original [[Walt Disney Animation Studios]] film to be CGI-Animated, following ''[[Dinosaur]]'', ''[[Chicken Little (film)|Chicken Little]]'', ''[[Meet the Robinsons]]'', ''[[Bolt (film)|Bolt]]'', and ''[[Tangled]]''.
+*When King Candy gets Vanellope's coin and brings it back to Ralph, he uses the same code that is used in the DS game version of ''[[Cars (video game)|Cars]]''.
+*In the scene of Ralph escaping King Candy's Police, he had the sound breathing of [[Darth Vader]] from the chocolate river.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP|Wreck-It Ralph}}
+*{{IMDb|title/tt1772341}}
+*[https://www.facebook.com/WreckItRalph Facebook Page]
+*[[w:c:wreckitralph:Wreck-It Ralph Wiki|Wreck-It Ralph Wiki]]
+*[//www.slashfilm.com/wreck-it-ralph-50-things/ http://www.slashfilm.com/wreck-it-ralph-50-things/]
+
+{{Wreck-It Ralph}}
+{{Disney theatrical animated features}}
+{{Disney Heroes: Battle Mode}}{{DISPLAYTITLE:''Wreck-It Ralph''}}
+[[da:Vilde Rolf]]
+[[de:Ralph reichts]]
+[[es:Wreck-It Ralph]]
+[[fi:Räyhä-Ralf]]
+[[fr:Les Mondes de Ralph]]
+[[it:Ralph Spaccatutto]]
+[[ja:シュガー・ラッシュ]]
+[[nl:Wreck-It Ralph (film)]]
+[[pl:Ralph Demolka (film)]]
+[[pt:Força Ralph]]
+[[pt-br:Detona Ralph]]
+[[ro:Ralph Strică-Tot]]
+[[ru:Ральф (мультфильм)]]
+[[zh:無敵破壞王]]
+[[Category:Wreck-It Ralph]]
+[[Category:3-D films]]
+[[Category:Disney animated features canon]]
+[[Category:2012 films]]
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Animated films]]
+[[Category:Disney animated films]]
+[[Category:PG-rated films]]
+[[Category:Crossovers]]
+[[Category:Academy Award nominated films]]
+[[Category:Annie Award Winner]]
+[[Category:Annie Award Nominated]]
+[[Category:4DX films]]

@@ -1,0 +1,193 @@
+{{Marvel Database:Film Template
+| Image                   = X-MenFirstClassMoviePoster.jpg
+| Aliases                 = 
+
+| Directors               = Matthew Vaughn
+| Producers               = Bryan Singer; Lauren Shuler Donner; Simon Kinberg; Gregory Goodman
+| ComicWriters            = Stan Lee; Jack Kirby
+| StoryWriters            = Sheldon Turner; Bryan Singer
+| ScreenplayWriters       = Ashley Miller; Zack Stentz; Jane Goldman; Matthew Vaughn
+| Musicians               = Henry Pryce Jackman
+| Cinematographers        = John Mathieson
+| Editors                 = Eddie Hamilton; Lee Smith
+| Distributors            = 20th Century Fox
+| ProductionCompanies     = Bad Hat Harry; Donners' Company
+| Running Time            = 140 minutes
+| Rating                  = MPAA: PG-13 for intense sequences of action and violence, some sexual content including brief partial nudity and language
+| Budget                  = $120 million
+| Release Date            = June 1, 2011
+| US Release Date         = June 3, 2011
+
+| AM ID                   = x-men-first-class-v475797
+| IMDB ID                 = 1270798
+| Marvel Movies           = X-Men: First Class
+| X-Men Movies            = X-Men: First Class
+
+| Previous Film           = 
+| Next Film               = X-Men: Days of Future Past (film)
+
+| Tagline                 = Before he was Professor X, he was Charles. Before he was Magneto, he was Erik. Before they were enemies, they were allies
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1stChron|[[X-Men (Earth-10005)|X-Men]]}} {{Origin}}
+** {{apn|[[Erik Lehnsherr (Earth-10005)|Magneto (Erik Lehnsherr)]]|-|X-Men: The Last Stand}} {{1stChron}} {{Flashback}} {{g|Joins and leaves team}}
+** {{apn|[[Charles Xavier (Earth-10005)|Professor Charles Xavier]]|-|X-Men Origins: Wolverine (film)}} {{1stChron}} {{Joins}}
+** {{apn|[[Raven Darkhölme (Earth-10005)|Mystique (Raven Darkhölme)]]|-|X-Men (film)}} {{1stChron}} {{g|Joins and leaves team}} {{g|Impersonates [[Sharon Xavier (Earth-10005)|Sharon Xavier]], [[William Stryker, Sr. (Earth-10005)|William Stryker, Sr.]], [[Sean Cassidy (Earth-10005)|Banshee]], [[Sebastian Shaw (Earth-10005)|Sebastian Shaw]]}}
+** {{apn|[[Henry McCoy (Earth-10005)|Beast (Dr. Hank McCoy)]]|-|X2 (film)}} {{1stChron}} {{Joins}}
+** {{Only|[[Alexander Summers (Earth-10005)|Havok (Alex Summers)]]}} {{Joins}}
+** {{Only|[[Sean Cassidy (Earth-10005)|Banshee (Sean Cassidy)]]}} {{Joins}}
+'''Supporting Characters:'''
+* {{a|[[Central Intelligence Agency (Earth-10005)|CIA]]}}
+** {{apn|[[Moira MacTaggert (Earth-10005)|Agent Moira MacTaggert]]|-|X-Men: The Last Stand}} {{1stChron}} {{Leaves}}
+** {{a|[[Man in Black (Earth-10005)|"The Man in Black"]]}} {{Only Dies}}
+* {{Only Dies|[[Armando Muñoz (Earth-10005)|Darwin (Armando Muñoz)]]}}
+'''Antagonists:'''
+* {{Only|[[Hellfire Club (Earth-10005)|Hellfire Club]]}} {{Disbands}}
+** {{Only Dies|[[Sebastian Shaw (Earth-10005)|Sebastian Shaw]]}} {{Flashback}}
+** {{1st|[[Emma Frost (Earth-10005)|Emma Frost]]}} {{Leaves}}
+** {{Only|[[Janos Quested (Earth-10005)|Riptide (Janos Quested)]]}} {{Leaves}}
+** {{1st|[[Azazel (Earth-10005)|Azazel]]}} {{Leaves}}
+** {{1st|[[Angel Salvadore (Earth-10005)|Angel Salvadore]]}} {{g|Joins and leaves team}}
+* {{1stChron|[[Brotherhood of Mutants (Earth-10005)|Brotherhood of Mutants]]}}
+'''Other Characters:'''
+* {{Death|[[Edie Lehnsherr (Earth-10005)|Edie Lehnsherr]]}}
+* {{a|[[Jakob Lehnsherr (Earth-10005)|Jakob Lehnsherr]]}}
+* {{Minor|Sharon Xavier (Earth-10005)|Sharon Xavier|First appareance; photo}}
+* Norman {{Only}}
+* Amy {{Only}}
+* {{Only Dies|[[Robert Hendry (Earth-10005)|Colonel Robert "Bob" Hendry]]}}
+* {{a|[[Central Intelligence Agency (Earth-10005)|CIA]]}}
+** {{a|[[John McCone (Earth-10005)|Director John A. McCone]]}}
+** {{Only|[[William Stryker, Sr. (Earth-10005)|William Stryker, Sr.]]}}
+** Agent Levine {{Only}}
+* {{Mentioned|[[William Stryker, Jr. (Earth-10005)|William Stryker, Jr.]]}}
+* {{OnScreen|[[John F. Kennedy (Earth-10005)|John F. Kennedy]]}} {{Topical Reference}}
+* {{apn|[[James Howlett (Earth-10005)|James Howlett]]|The Wolverine (film)|X-Men Origins: Wolverine (film)}} {{Cameo}}
+* Various [[Union of Soviet Socialist Republics|Soviet]] soldiers and military officers
+* Various [[United States of America|American]] {{a|[[United States Navy (Earth-10005)|Navy]]}} soldiers and officers
+'''Races and Species:'''
+* {{Flashback|[[Humans (Homo sapiens)|Humans]]}}
+* {{Flashback|[[Mutants (Homo superior)|Mutants]]}}
+'''Locations:'''
+* {{a|[[Earth-10005]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[Europe]]}}
+**** {{a|[[Poland]]}}
+***** {{a|[[Oświęcim]]}}
+****** {{a|[[Auschwitz-Birkenau|Auschwitz]]}}
+**** {{1st|[[Switzerland]]}}
+***** {{1st|[[Geneva (Switzerland)|Geneva]]}}
+***** {{1st|[[Bern (Switzerland)|Bern]]}}
+**** {{1st|[[United Kingdom]]}}
+***** {{1st|[[England]]}}
+****** {{1st|[[Oxford (England)|Oxford]]}}
+******* {{1st|[[Oxford University]]}}
+**** {{1st|[[Union of Soviet Socialist Republics|Soviet Union]]}}
+***** {{1st|[[Russia]]}}
+****** {{1st|[[Moscow]]}}
+******* Russian Military Retreat {{1st}}
+*** {{Mentioned|[[Turkey|Turkey, Asia]]}}
+*** {{a|[[North America]]}}
+**** {{a|[[United States of America]]}}
+***** {{a|[[New York (State)|New York]]}}
+****** {{a|[[Westchester County]]}}
+******* {{a|[[Salem Center]]}}
+******** {{a|[[Xavier's School for Gifted Youngsters|Xavier's Mansion]]}}
+***** {{Mentioned|[[Harvard University|Harvard University, Cambridge, Massachusetts]]}}
+***** {{a|[[Nevada (State)|Nevada]]}}
+****** {{a|[[Las Vegas]]}}
+******* {{1st|[[Hellfire Club Building (Las Vegas)|Hellfire Club]]}}
+***** {{1st|[[Virginia (State)|Virginia]]}}
+****** {{1st|[[Arlington County|Arlington]]}}
+******* {{1st|[[Pentagon]]}}
+****** {{1st|[[Fairfax County]]}}
+******* {{1st|[[McLean (Virginia)|McLean]]}}
+******** {{1st|[[Langley]]}}
+********* {{1st|[[George Bush Center for Intelligence|C.I.A. Headquarters]]}}
+****** {{1st|[[Richmond (Virginia)|Richmond]]}}
+******* Covert CIA Research Base {{1st}}
+***** {{a|[[Washington, D.C.]]}}
+****** {{1st|[[National Mall]]}}
+******* {{1st|[[Lincoln Memorial]]}}
+******* {{1st|[[Washington Monument]]}}
+******* {{Minor|Capitol Building|Capitol Building|First appearance; vision}}
+***** {{1st|[[Florida (State)|Florida]]}}
+****** {{1st|[[Miami]]}}
+**** {{1st|[[Cuba]]}}
+***** {{1st|[[Bay of Pigs]]}}
+*** {{1st|[[South America]]}}
+**** {{1st|[[Argentina]]}}
+***** Villa Gesell {{1st}}
+'''Items:'''
+* {{1stChron|[[Magneto's Helmet]]}}
+* {{1stChron|[[Cerebro (Mutant Detector)|Cerebro]]}} {{Destruction}}
+* {{1st|[[Banshee's Wings]]}}
+* {{1stChron|[[X-Uniforms]]}}
+'''Vehicles:'''
+* {{1stChron|[[X-Men Blackbird|X-Jet]]}} {{Destruction}}
+* Caspartina {{g|Only appearance; destruction}}
+'''Events:'''
+* [[World War II]]
+* [[Holocaust (Event)|Holocaust]]
+* [[Cold War (Event)|Cold War]]
+* [[Cuban Missile Crisis]]
+
+| Plot                    = [[Erik Lehnsherr (Earth-10005)|Erik Lehnsherr]], the young Magneto, is forced to live in a death camp during the Holocaust. Erik pulls apart a metal gate when the [[Schutzstaffel (Earth-10005)|Nazi soldiers]] separate him from his parents. Seeing this, the Nazi collaborator and secret mutant [[Sebastian Shaw (Earth-10005)|Sebastian Shaw]] becomes fascinated by the boy's potential and attempts to get him to move a German coin. When this fails, he has his mother brought in, threatening to kill her if he does not succeed in moving the coin. When this does not work either, he shoots the woman, causing Erik to tear apart the lab in horror. 
+
+Professor [[Charles Xavier (Earth-10005)|Charles Xavier]] and his associate, [[Raven Darkhölme (Earth-10005)|Raven Darkhölme]], are contacted by agents of the CIA to help investigate the [[Hellfire Club (Earth-10005)|Hellfire Club]], a clandestine organization of mutants with suspected criminal operations. The association with the CIA soon brings Xavier into contact with other mutants, including Erik Lehnsherr, [[Alexander Summers (Earth-10005)|Havok]], [[Armando Muñoz (Earth-10005)|Darwin]], [[Henry McCoy (Earth-10005)|Beast]] and [[Sean Cassidy (Earth-10005)|Banshee]].
+
+Xavier's mutant group then comes into conflict with the Hellfire Club, which leads to the murder of Darwin at the hand of the Hellfire Club's leader. Xavier resolves to stop the Hellfire Club and begins training his young group in preparation for conflicts to come. During subsequent confrontations with the Hellfire Club, Erik and Charles' views regarding the path of the emerging mutant race diverges, resulting in the end of their friendship and the fracturing of their emerging team. Erik, now going by the name "Magneto", leaves the team to form the [[Brotherhood of Mutants (Earth-10005)|Brotherhood of Mutants]], with Darkhölme following him, while Xavier continues to shape the others into a team with a higher purpose: the X-Men.
+
+==Gallery==
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+X-Men First Class - Official Trailer
+</gallery>
+| Cast                    = 
+* [[wikipedia:James McAvoy|James McAvoy]] as [[Charles Xavier (Earth-10005)|Professor Charles Xavier]]
+** [[wikipedia:Laurence Belcher|Laurence Belcher]] portrays a 12-year old Charles Xavier
+* [[wikipedia:Michael Fassbender|Michael Fassbender]] as [[Erik Lehnsherr (Earth-10005)|Magneto / Erik Lehnsherr]]
+** [[wikipedia:Bill Millner|Bill Millner]] portrays a young Erik Lehnsherr
+* [[wikipedia:Rose Byrne|Rose Byrne]] as [[Moira MacTaggert (Earth-10005)|Moira MacTaggert]]
+* [[wikipedia:Jennifer Lawrence|Jennifer Lawrence]] as [[Raven Darkhölme (Earth-10005)|Mystique / Raven Darkhölme]]
+** [[wikipedia:Morgan Lily|Morgan Lily]] portrays a 10-year old Raven Darkhölme
+* [[wikipedia:January Jones|January Jones]] as [[Emma Frost (Earth-10005)|Emma Frost]]
+* [[wikipedia:Nicholas Hoult|Nicholas Hoult]] as [[Henry McCoy (Earth-10005)|Beast / Hank McCoy]]
+* [[wikipedia:Oliver Platt|Oliver Platt]] as "The Man in Black"
+* [[wikipedia:Jason Flemyng|Jason Flemyng]] as [[Azazel (Earth-10005)|Azazel]]
+* [[wikipedia:Lucas Till|Lucas Till]] as [[Alexander Summers (Earth-10005)|Havok / Alex Summers]]
+* [[wikipedia:Edi Gathegi|Edi Gathegi]] as [[Armando Muñoz (Earth-10005)|Darwin / Armando Muñoz]]
+* [[wikipedia:Kevin Bacon|Kevin Bacon]] as [[Sebastian Shaw (Earth-10005)|Sebastian Shaw]] 
+* [[wikipedia:Caleb Landry Jones|Caleb Landry Jones]] as [[Sean Cassidy (Earth-10005)|Banshee / Sean Cassidy]]
+* [[wikipedia:Zoë Kravitz|Zoë Kravitz]] as [[Angel Salvadore (Earth-10005)|Angel / Angel Salvadore]]
+* [[wikipedia:Matt Craven|Matt Craven]] as CIA Director John A. McCone
+* [[wikipedia:Álex González (actor)|Álex González]] as [[Janos Quested (Earth-10005)|Riptide / Janos Quested]]
+* [[wikipedia:Rade Šerbedžija|Rade Šerbedžija]] as Soviet General
+* [[wikipedia:Glenn Morshower|Glenn Morshower]] as Col. Bob Hendry
+
+Additionally, [[wikipedia:Beth Goddard|Beth Goddard]] and Éva Magyar appear as [[Sharon Xavier (Earth-10005)|Sharon Xavier]] and [[Edie Lehnsherr (Earth-10005)|Edie Lehnsherr]], respectively. Georg Nikoloff portays [[Jakob Lehnsherr (Earth-10005)|Erik's father]]. [[wikipedia:Annabelle Wallis|Annabelle Wallis]] appears as Amy, a woman with [[wikipedia:Heterochromia iridum|heterochromia]]. [[wikipedia:Don Creech|Don Creech]] portrays [[William Stryker, Sr. (Earth-10005)|William Stryker, Sr.]] [[wikipedia:James Remar|James Remar]], [[wikipedia:Michael Ironside|Michael Ironside]], and [[wikipedia:Ray Wise|Ray Wise]] appear as a U.S. General, a U.S. Navy Captain, and the U.S. Secretary of State, respectively. [[wikipedia:Hugh Jackman|Hugh Jackman]] and [[wikipedia:Rebecca Romijn|Rebecca Romijn]] make uncredited cameos as [[James Howlett (Earth-10005)|James "Logan" Howlett]] and the adult Mystique, respectively.
+
+| Notes                   = 
+*In the comics, [[Alexander Summers (Earth-616)|Alex Summers]] is the younger brother of [[Scott Summers (Earth-616)|Scott Summers]]. In ''X-Men: First Class'' however, [[Alexander Summers (Earth-10005)|Alex]] is apparently much older than [[Scott Summers (Earth-10005)|Scott]], and no familial relationship between the two is mentioned. However, in ''X-Men: Apocalypse'', they were indeed revealed to be brothers.
+* Sheldon Turner earned a story credit due to the film covering the same setting as his discarded ''X-Men Origins: Magneto'' script. Bryan Singer has stated he never read Turner's screenplay. In turn, the contributions by Josh Schwartz and Jamie Moss went uncredited.<ref>{{cite web|url=http://www.hollywoodreporter.com/heat-vision/complex-x-men-first-class-182356|title=Complex 'X-Men: First Class' Screenplay Credit Dispute Resolved (Exclusive)|work=The Hollywood Reporter|date=April 27, 2011|last=Fernandez | first= Jay A. | last2= Kit | first2= Borys|accessdate=May 6, 2012}}</ref><ref>{{cite news | last = Kit | first = Boris | title = 'X-Men: First Class' Writing Credits Appeal Denied |work=The Hollywood Reporter | date = April 29, 2011 | url = http://www.hollywoodreporter.com/heat-vision/x-men-first-class-writing-183768 | accessdate=May 11, 2011| archivedate= May 31, 2011| archiveurl= http://www.webcitation.org/5z6Tdp8tH | deadurl=no}}</ref>
+
+| Trivia                   = 
+*Although it is made clear in the credits and from behind-the-scenes information that the character played by actor Álex González is Riptide, the film makes no mention of this. The character is never referred to by name and has no spoken dialogue.
+
+* ''X-Men: First Class'' is the only ''X-Men'' film in the [[Earth-10005|original timeline]] that is unaffected by the [[Earth-TRN414|changes to the timeline]] in ''[[X-Men: Days of Future Past (film)|X-Men: Days of Future Past]]''.
+
+==Gallery==
+===Alternate Posters===
+<gallery>
+X-Men First Class Teaser Poster.jpg
+</gallery>
+
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+* {{imdb title|id=tt1270798|title=X-Men: First Class (film)}}
+* {{Marvel Movies|X-Men: First Class (film)}}
+}}
+[[Category:20th Century Fox]]
+[[Category:World War II]]
+[[Category:Holocaust (Event)]]
+[[Category:Cold War (Event)]]
+[[Category:Cuban Missile Crisis]]

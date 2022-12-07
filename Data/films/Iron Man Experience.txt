@@ -1,0 +1,91 @@
+{{Marvel Database:Film Template
+| Image                   = Iron Man Experience Logo.png
+| Aliases                 = 
+| Universe                = 
+
+| Directors               = 
+| Producers               = 
+| Writers                 = 
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Language                = English
+| Running Time            = Approximately 5 minutes
+| Rating                  = 
+| Budget                  = 
+
+| Release Date            = January 11, 2017
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Anthony Stark (Earth-TRN971)|Iron Man (Tony Stark)]]}}
+'''Supporting Characters:'''
+* {{a|[[Just A Rather Very Intelligent System (Earth-199999)|J.A.R.V.I.S.]]}}
+** J.A.R.V.I.S. Expo 8 {{1st}}
+* Wendy Wong {{1st}}
+'''Antagonists:'''
+* {{1st|[[Hydra (Earth-TRN971)|Hydra]]}}
+** {{1st|[[Arnim Zola (Earth-TRN971)|Arnim Zola]]}}
+'''Other Characters:'''
+* {{1st|[[Stark Industries (Earth-TRN971)|Stark Industries]]}}
+* {{1st|[[Dum-E (Earth-TRN971)|Dum-E]]}}
+* {{OnScreen|[[Strategic Scientific Reserve (Earth-TRN971)|S.S.R.]]}}
+** {{OnScreen|[[Howard Stark (Earth-TRN971)|Howard Stark]]}}
+** {{OnScreen|[[Steven Rogers (Earth-TRN971)|Captain America (Steve Rogers]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Robots]]}}
+'''Locations:'''
+* {{1st|[[Earth-TRN971|Unnamed reality]]}}
+** {{1st|[[Earth]]}}
+*** {{1st|[[China]]}}
+**** {{1st|[[Hong Kong]]}}
+***** {{1st|[[Hong Kong Disneyland]]}}
+****** [[Stark Expo]] {{1st}}
+******* Hall of Legacy {{1st}} 
+******* Hall of Energy {{1st}}
+******* Hall of Protection {{1st}}
+******* Hall of Mobility {{1st}}
+***** {{1st|[[Hong Kong Stark Tower]]}}
+'''Items:'''
+* {{1st|[[Iron Man Armor MK XLV (Earth-199999)|Iron Man Armor MK XLV]]}}
+* {{1st|[[Arc Reactor]]}}
+* {{1st|[[StarkVision Glasses]]}}
+* {{1st|[[Stark Everglass]]}}
+* {{Minor|Captain America's Shield|Captain America's Prototype Shield|First appearance; replica}}
+* {{Mentioned|[[Vibranium]]}}
+* [[Glossary:Vita-Rays|Vita Rays]] {{1st}} {{OnScreen}}
+* {{1st|[[Tony Stark's New Element]]}} {{OnScreen}}
+* {{Minor|[[Iron Man Armor MK I (Earth-199999)|Iron Man Armor MK I]]}} {{1st}}
+* {{Minor|[[Iron Man Armor MK XXVI (Earth-199999)|Iron Man Armor MK XXVI]]}} {{1st}} {{Photo}}
+* {{Minor|[[Iron Man Armor MK XXXV (Earth-199999)|Iron Man Armor MK XXXV]]}} {{1st}} {{Photo}}
+* {{Minor|[[Iron Man Armor MK XXXVII (Earth-199999)|Iron Man Armor MK XXXVII]]}} {{1st}} {{Photo}}
+* {{Minor|[[Iron Man Armor MK XXXIX (Earth-199999)|Iron Man Armor MK XXXIX]]}} {{1st}} {{Photo}}
+* {{Minor|[[Iron Man Armor MK III (Earth-199999)|Iron Man Armor MK III]]}} {{1st}} 
+* {{Minor|[[Iron Man Armor MK V (Earth-199999)|Iron Man Armor MK V]]}} {{1st}} 
+* [[Iron Man Armor MK V (Earth-199999)|"Hot Pants" Prototype]] {{Only}} 
+'''Vehicles:'''
+* {{1st|[[Iron Wing|Iron Wings]]}}
+* {{1st|[[S.H.I.E.L.D. Flying Car|Stark Industries Flying Car]]}} {{OnScreen}}
+* [[S.H.I.E.L.D. Flying Car|M.A.R.I.A.]] {{1st}} {{OnScreen}}
+* {{1st|[[Hydra Tank]]}} {{OnScreen}}
+
+| Plot                    = [[Iron Man|Tony Stark, the Iron Man]] hosts a new [[Stark Expo]] to showcase the new [[Iron Wing]] vehicle and the world's largest [[Arc Reactor]] atop the brand new [[Hong Kong Stark Tower|Stark Tower]] in downtown [[Hong Kong]]. Unfortunately, [[Arnim Zola]] and his [[Hydra robots]] attack.{{r|[http://www.orlandosentinel.com/travel/attractions/91851229-132.html A Look at The New Iron Man Experience at Hong Kong Disneyland]}}{{r|[https://disneyparks.disney.go.com/blog/2016/05/ride-tests-begin-for-iron-man-experience-at-hong-kong-disneyland/ Ride Tests Begin for Iron Man Experience at Hong Kong Disneyland]}}{{r|[https://disneyparks.disney.go.com/blog/2016/11/opening-date-set-for-iron-man-experience-hong-kong-disneylands-marvel-themed-ride/ Opening Date Set for Iron Man Experience, Hong Kong Disneyland’s Marvel-Themed Ride]}}
+
+| Cast                    = 
+
+| Notes                   = *'''''The Iron Man Experience''''' is a 3-D motion simulator attraction inside [[Wikipedia:Tomorrowland#Hong Kong Disneyland|Tomorrowland]] at the [[Wikipedia:Hong Kong Disneyland|Hong Kong Disneyland Park]] and opened in January 2017. The Iron Man Experience was the first attraction based on a [[Marvel Studios|Marvel property]] at any Disney theme park or resort.
+| Trivia                  = 
+| Links                   = 
+* [[Ant-Man and the Wasp: Nano Battle!]]
+* [[Guardians of the Galaxy: Cosmic Rewind]]
+* [[Guardians of the Galaxy - Mission: BREAKOUT!]]
+* [[Guardians of the Galaxy - Awesome Mix Live!]]
+* [[WEB SLINGERS: A Spider-Man Adventure|W.E.B. Slingers: A Spider-Man Adventure]]
+}}
+[[Category:Attractions]]

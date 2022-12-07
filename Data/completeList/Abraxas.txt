@@ -1,0 +1,55 @@
+{{Infobox character
+|image = Abraxas.jpg
+|name = Abraxas
+|actor =
+|games = ''[[Tron: Evolution]]''
+|voice = [[John Glover]]
+}}
+
+{{Quote|I am the perfect weapon. Spread my pain... Infect the Grid... Destroy everything in my path... My purpose is clear. Everything is coming to an end!|Abraxas}}
+
+'''Abraxas''', formerly '''Jalen''', was an Alpha-class [[ISO]] that evolved into a computer virus and attacked the Tron system in [[1989]]. He is the main antagonist of ''[[Tron: Evolution]]''. Abraxas' features are tall and thin, almost sickly in appearance, and his circuitry is yellow, with more of a "cracked" design to his circuits than traditional program circuitry. He wears a hood and a long black cloak over his right shoulder, all outlined with circuits. His primary weapon is his identity disc, and he also possesses a virulent plague touch.
+
+==Powers and abilities==
+In addition to showing great mastery of his identity disc, Abraxas is a powerful computer virus whose very touch is dangerous. He can corrupt any program through simple physical contact, turning them into monsters under his control. He can also corrupt the environment around him through his very footsteps.
+
+==Biography==
+Jalen was an ISO who arose from the Sea of Simulation in TC29. He was adopted by [[Kevin Flynn]] for an intensive study regarding the unknown nature of ISOs. He received an advanced education of user culture from Flynn alongside fellow ISO, Ophelia, and slated for ordination for System Administrator. He competed in the Game Arena, and he skillfully worked his way up in the tournament but was disqualified when it was discovered that he was an ISO rather than a basic.
+
+[[CLU 2.0|Clu]], operating from a hidden agenda, intervened and allowed Jalen back into the tournament, which Jalen then won, gaining him the respect of ISOs and Basics alike. Clu "awarded" him a disc upgrade, which would reprogram and transform the ISO into a monstrous virus, erasing all memory of his past life. When Jalen discovered the construction site of Clu's ship, the ''Regulator'', the modified disc was triggered. Clu planned on using Abraxas to destroy and infect the remaining ISOs. Jalen was then reported to have been derezzed in the arena.
+
+During the system administrator installation ceremony of Jalen's former partner, Radia, Abraxas showed himself. Jumping from a balcony, Abraxas infected many programs, both ISOs and Basics. He derezzed many system monitors, almost infecting System Administrator CLU. The administrator was saved by the timely arrival of Flynn's prototype system monitor [[Anon]]. The two had a lengthy duel which resulted in Abraxas fleeing.
+
+Abraxas later reappeared, more powerful than ever, in the Bostrum Colony. Running from the viral infection, Anon and [[Gibson]] shut down the Bostrum Reactor so that Abraxas couldn't absorb the reactor's energy. He later infected Gibson, who was attempting to escape to Arjia City with Anon.
+
+Abraxas later had a battle with Anon, who had witnessed Radia's deresolution. Trapped under rubble, the virus was presumed dead when CLU's warship leveled the city. In truth, Abraxas survived, hijacking a recognizer and crashing it into the master propulsion core of the ship. Using his infected programs, Abraxas attempted to absorb the entire ship's energy but was destroyed by Anon, who blew up the core with Abraxas still inside it.
+
+==Gallery==
+<gallery position="center" captionalign="center" widths="185">
+Abraxas Virus.jpg
+Abraxas Engaged Concept Art.jpg
+Abraxas Concept Art.jpg
+</gallery>
+
+==Trivia==
+
+*Abraxas was named after a real-life DOS virus known as the [[wikipedia:Abraxas (computer virus)|Abraxas virus]] or Abraxas5. It was first discovered in April [[1993]], and was capable of infecting and overwriting programs, which, when executed, made a loud, ascending scale play as the words "ABRAXAS" displayed on-screen. Among the text strings found in Abraxas-infected files are the ominous phrases, "...For he is not of this day" "...Nor is he of this mind".
+*In Arjia City, there is a location known as Jalen Plaza.
+*Abraxas' voice actor, [[John Glover]], also voices the villainous [[Dyson]] in ''[[Tron: Uprising]]''. Ironically, given Abraxas's nature, Dyson considered ISOs to be a spreading disease that perverted the Grid.
+*Abraxas is named after the demon who is also called [http://en.wikipedia.org/wiki/Abraxas Abraxas].
+
+{{TronWiki}}
+{{Tron}}
+[[Category:Characters introduced in video games]]
+[[Category:Characters]]
+[[Category:Tron characters]]
+[[Category:Villains]]
+[[Category:Video game bosses]]
+[[Category:Males]]
+[[Category:Programs]]
+[[Category:Warriors]]
+[[Category:Characters in video games]]
+[[Category:Disney characters]]
+[[Category:Animated characters]]
+[[Category:Main antagonists]]
+[[Category:Deceased characters]]

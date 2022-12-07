@@ -1,0 +1,55 @@
+{{Infobox film
+|image = TheMadDog.jpeg
+|imagewidth = 250px
+|name = The Mad Dog
+|director = [[Burt Gillett]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = Walt Disney<br>[[Pinto Colvig]]
+|music = Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|release = [[March 5]], [[1932]]<ref>[https://archive.org/details/motionpictureher107unse/page/n1415/mode/2up/ Motion Picture Herald (1932)]</ref>
+|language = English
+|preceded = ''[[The Grocery Boy]]''
+|followed = ''[[Barnyard Olympics]]''}}
+'''''The Mad Dog''''' is a ''[[Mickey Mouse]]'' cartoon that was released on [[March 5]], [[1932]].
+
+==Story==
+Pluto accidentally swallows the soap while being bathed, then runs away. His soapy slobber and barking make locals think he's gone mad with rabies, and they call Pete the dogcatcher to destroy him. It's up to Mickey to save Pluto.
+
+==Characters==
+*[[Mickey Mouse]] (voiced by [[Walt Disney]])
+*[[Pluto]] (voiced by [[Pinto Colvig]])
+*[[Pete]] (voiced by Pinto Colvig)
+*[[Clarabelle Cow]]
+
+==Releases==
+===Television===
+*''[[Mickey's Mouse Tracks]]'', episode #67
+
+===Home video===
+*''[[Walt Disney Treasures]]: Mickey Mouse in Black and White, Volume 2'' (DVD)
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150">
+15905.jpg
+15906.jpg
+15907.jpg
+15910.jpg
+15911.jpg
+15912.jpg
+Tumblr n3c8n1Rqe91qhcrb0o1 1280.jpg
+MAD_DOG.png
+</gallery>
+
+==References==
+<references/>
+{{DEFAULTSORT:Mad Dog, The}}
+
+{{Mickey-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Pluto shorts]]
+[[Category:1932 shorts]]
+[[Category:Pete Shorts]]

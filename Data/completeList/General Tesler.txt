@@ -1,0 +1,46 @@
+{{Infobox character
+|image = General_Tesler.png| General Tesler 
+|shows = ''[[Tron: Uprising]]''
+|voice = [[Lance Henriksen]]
+|alias = Tesler
+|personality = Careless, betraying
+|appearance = Slander program, black hair, sometimes wears a cape cloak
+|occupation = Servant of CLU
+|alignment = Bad
+|goal = To capture and kill the renegade
+|home = The Grid
+|weapons = His own hands
+|status = Active
+|quote = "Ya can't save them all!"}}
+'''General Tesler''' is the main antagonist of ''[[Tron: Uprising]]''.
+
+==Personality==
+General Tesler is a cold ruthless General Program serving Clu who intends to takeover Argon and the Grid. He shows no problem derezzing his own men should if they say the Renegade is Tron. He is shown to have a disliked towards [[Dyson]], he is even shown to have nightmares of the Renegade freeing Argon should he failed.
+==Background==
+Leading [[CLU 2.0]]'s forces in [[Argon City]], he tries to ensure control of the city and seeks to stamp out any resistance, coming up against [[Beck|the Renegade]].
+
+==Trivia==
+*[https://www.youtube.com/watch?v=5R3efKnT4Ro Unused storyboards], possibly for the season finale, show Tesler being punished for his failures by having his hands cut off.
+==Gallery==
+<gallery position="center">
+Tessler2.png
+Teslerflashback.png|Tesler in a flashback in the episode "[[Isolated]]".
+</gallery>
+
+{{CharacterStub}}
+{{Tron}}
+{{DEFAULTSORT:Tessler}}
+[[Category:Tron characters]]
+[[Category:TV Animation characters]]
+[[Category:Villains]]
+[[Category:Programs]]
+[[Category:Males]]
+[[Category:Disney characters]]
+[[Category:Characters]]
+[[Category:Main antagonists]]
+[[Category:Military characters]]
+[[Category:Soldiers]]
+[[Category:Generals]]
+[[Category:Tron: Uprising characters]]
+[[Category:Animated characters]]
+[[Category:Disney XD characters]]

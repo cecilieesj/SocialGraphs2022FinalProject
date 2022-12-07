@@ -1,0 +1,30 @@
+{{NeedImage}}
+{{Infobox character
+|image = 
+|name = Jean Geary
+|shows = ''[[Fillmore!]]''
+|actress = 
+|voice = 
+|personality = 
+|occupation = Student}}
+'''Jean Geary''' is a minor character from the live-action television program, ''[[Fillmore!]]''. She is an X Middle School Student.
+
+==History==
+Information on her is limited, but she has been seen among the student journalists in the school's media department.
+
+Her name is mentioned briefly in "Next Stop, Armageddon" and she is seen in the background at the train model convention in one brief moment being questioned about what she saw, and knows pertaining to the train model wreck.
+
+In "A Forgotten Yesterday", she is among the students who partake in an illegal activity with Sonny Lombard. When [[Cornelius Fillmore|Fillmore]] and [[Ingrid Third|Ingrid]] enter the room where this is all taking place, she and most everybody else clear it.
+{{CharacterStub}}
+{{Fillmore!}}
+{{DEFAULTSORT:Geary, Jean}}
+[[Category:Fillmore characters]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Females]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Teenagers]]
+[[Category:American characters]]
+[[Category:Heroines]]
+[[Category:Students]]

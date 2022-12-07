@@ -1,0 +1,34 @@
+{{Infobox character
+|image = Arcade_USM.png
+|name = Arcade
+|inspiration = Arcade from Marvel Comics
+|shows = ''[[Ultimate Spider-Man]]''<br>''[[M.O.D.O.K. (TV series)|M.O.D.O.K.]]''
+|voice = [[Eric Bauza]] (''Ultimate Spider-Man'')<br>[[Alan Tudyk]] (''M.O.D.O.K.'')
+|powers = Genius intellect<br>Technopathy (''Ultimate Spider-Man'')
+}}
+'''Arcade''' is a [[Marvel Comics]] character who appears in ''[[Ultimate Spider-Man]]''.
+
+Arcade was created by Chris Claremont and John Byrne.
+
+==Television Appearances==
+===''[[Ultimate Spider-Man]]''===
+Arcade is a young mutant who has the power to control technology. To [[S.H.I.E.L.D.]] he is considered a terrorist and a major threat. He considered everything a video game.  He stole codes to Nuclear weapons and even trapped [[Captain America]], [[Spider-Man]], and [[Wolverine]] in a full-sized video game.
+
+===''[[M.O.D.O.K. (TV series)|M.O.D.O.K.]]''===
+Arcade is hired by the younger time traveling [[M.O.D.O.K.]], later dubbed the Anomaly, to create a devious trap for his older self and his family. He builds a new Murder World and creates two robot duplicates for each family member and forces them to kill the fake ones to free themselves. When the real M.O.D.O.K. challenges the Anomaly to a one on one fight, Arcade gets frustrated and leaves.
+
+==External links==
+{{WP|Arcade (Marvel Comics)|Arcade}}
+
+{{Marvel Animated Universe}}
+{{CharacterStub}}
+[[Category:Males]]
+[[Category:Marvel Comics characters]]
+[[Category:Ultimate Spider-Man characters]]
+[[Category:Teenagers]]
+[[Category:Villains]]
+[[Category:TV Animation characters]]
+[[Category:Acquired characters]]
+[[Category:Animated characters]]
+[[Category:Disney XD characters]]
+[[Category:M.O.D.O.K. characters]]

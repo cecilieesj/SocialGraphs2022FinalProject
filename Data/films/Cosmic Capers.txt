@@ -1,0 +1,29 @@
+{{NeedImage}}
+{{Infobox film
+| name = Cosmic Capers
+| image          = 
+| caption        = 
+| director       = [[Ward Kimball]]
+| producer       = Ward Kimball
+| music          = [[George Bruns]]
+| writer = William Bosché<br>Ward Kimball<br>Charles Downs<br>Con Pederson<br>John W. Dunn
+|starring = [[Paul Frees]]
+| cinematography = 
+| editor = [[Lloyd Richardson]]
+| editing = Lionel A. Ephraim<br>Lloyd L. Richardson
+| studio         = Walt Disney Productions
+| distributor    = [[Buena Vista Distribution]]
+| release       = [[December 31]], [[1979]]
+| time        = 18 minutes
+| language       = English}}
+'''''Cosmic Capers''''' is a [[1979]] Disney educational animated short. It is an edited version of the ''[[Walt Disney anthology series|Disneyland]]'' episode ''[[Mars and Beyond]]''. It was shorter than the original and ran 18 minutes. In [[2003]], with the cooperation of Disney, a 35mm five minute excerpt from "Mars and Beyond" was restored and presented in Don Hertzfeldt's Animation Show theatrical tour, as a tribute to [[Ward Kimball]].
+
+==Synopsis==
+The history of astronomy, from ancient times, through the Greeks, whose Ptolemy decreed the Earth to be the center of the Universe, stifling thought for over 1,000 years. In the Renaissance, Copernicus and Galileo reformed our views. Bernard de Fontanelle described a wide and fanciful variety of life on other planets. A Swedish philosopher also had some amusing views of planetary life. In the 19th century, more people thought there was life on Mars; another round of imaginative fiction ensued. [[H.G. Wells]] produced ''The War of the Worlds'' along with some more serious (but still wrong) speculation. [[Edgar Rice Burroughs]] produced ''A Martian Bestiary''. Many people today believe Martians walk among us or have sent flying spacecraft in various forms; we also see a prototypical (and amusing) sci-fi plot, with a cameo by [[Donald Duck]].
+
+==Cast==
+*[[Paul Frees]] as Narrator
+[[Category:Educational films]]
+[[Category:1979 films]]
+[[Category:Animated shorts]]
+[[Category:Disney films]]

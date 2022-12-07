@@ -1,0 +1,24 @@
+{{NeedImage}}
+{{Infobox character
+|name = Bobby
+|image = Noimage.png
+|films = ''[[Ernest Saves Christmas]]<br>[[Ernest Goes to Jail]]<br>[[Ernest Scared Stupid]]''<br>[[Ernest Goes to School]]
+|shows = ''Hey, Vern, It's Ernest!''
+|actor = Bill Byrge
+|family = [[Chuck (Hey Vern, It's Ernest!)|Chuck]] (brother)<br>[[Tom Tulip]] (brother)|fullname = Bobby Tulip (in "[[Ernest Scared Stupid]]")
+|occupation = Storage agent (in "[[Ernest Saves Christmas]]")<br>security guard (in "Ernest Goes to Jail")<br>high school scientist (in "[[Ernest Goes to School]]")
+|home = Orlando, [[Florida]] (in "Ernest Saves Christmas")<br>[[Briarville]], [[Missouri]] (in "[[Ernest Scared Stupid]]")
+|enemies = [[Felix Nash]], [[Trantor]], other trolls
+|weapons = Pistol (in "[[Ernest Goes to Jail]]")
+|fate = Remains with either one of his two brothers}}
+'''Bobby''' is a recurring character in the ''Ernest'' film series. His first appearance was in the television series ''Hey Vern, It's Ernest!'' alongside his brother, [[Chuck (Hey Vern, It's Ernest!)|Chuck]]. They worked together as storage agents in ''[[Ernest Saves Christmas]]'', and as security guards in ''[[Ernest Goes to Jail]]''. He has a younger brother named [[Tom Tulip|Tom]] in ''[[Ernest Scared Stupid]]''. His final appearance was in the non-Disney film ''Ernest Goes to School'' as a high school scientist along with Greta. He rarely speaks in both the films and the series. His two brothers did most of the communications with [[Ernest P. Worrell|Ernest]] or other characters.
+
+{{CharacterStub}}
+[[Category:Touchstone characters]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Siblings]]
+[[Category:Characters]]
+[[Category:Live-action characters]]
+[[Category:Ernest characters]]
+[[Category:Non-Disney characters]]

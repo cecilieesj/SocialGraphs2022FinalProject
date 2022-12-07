@@ -1,0 +1,37 @@
+{{Episode
+| series     = [[The Wonderful World of Disney (NBC)|The Wonderful World of Disney]]
+| title      = Trail of Danger
+| season     = 24
+| number     = 13-14
+| image      = Trail of Danger.jpg
+| caption    = 
+| production = 
+| airdate    = [[March 12]], [[1978]] (part 1)<br>[[March 19]], 1978 (part 2)
+| writer     = 
+| director   = Andrew V. McLaglen
+| storyboard = 
+| ws         = 
+| story      =
+| previous   = "[[Race for Survival]]"
+| next       = "[[Child of Glass]]"
+}}
+"'''Trail of Danger'''" is a [[1978]] telefilm produced by [[Walt Disney Productions]]. It was originally aired on [[NBC]] as a two-part episode on ''[[The Wonderful World of Disney (NBC)|The Wonderful World of Disney]]'' on [[March 12]], and [[March 19]], [[1978]]. The telefilm was directed by Andrew V. McLaglen.
+
+==Synopsis==
+Two wranglers (Jim Davis, Larry Wilcox) ride a "Trail of Danger" driving horses over hill country that is guarded by hostile sheep ranchers.
+
+==Cast==
+*Jim Davis ... Pop Appling
+*Robert Donner ... The Sheep Boss
+*Tom Hiler ... The Ice Man
+*Charles Hoagland ... The Old Timer
+*David Ireland ... The Hand
+*Larry Wilcox ... Beech Carter
+[[Category:Walt Disney anthology series episodes]]
+[[Category:Television episodes]]
+[[Category:1978 films]]
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:Films]]
+[[Category:Multi-part episodes]]
+[[Category:Western Films]]

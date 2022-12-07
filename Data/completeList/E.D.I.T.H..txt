@@ -1,0 +1,35 @@
+{{Infobox character
+|image = EDITH (MCU).png
+|films = ''[[Spider-Man: Far From Home]]''
+|shorts = 
+|shows = 
+|games = 
+|rides = 
+|designer = 
+|inspiration = 
+|alias = 
+|user = 
+|affiliation = 
+|powers = 
+|status = Active
+|owner = [[Spider-Man|Peter Parker]]<br>[[Iron Man|Tony Stark]] † (creator)<br>[[Mysterio|Quentin Beck]] † (briefly)}}
+
+'''Even Dead I'm the Hero''' ('''E.D.I.T.H.''') is an augmented reality security, defense and artificial tactical intelligence system created by [[Iron Man|Tony Stark]] and bequeathed to Peter Parker following Stark's death. Housed in a pair of sunglasses, E.D.I.T.H. gave its users access to Stark Industries' global satellite network along with an arsenal of missiles and drones.
+
+E.D.I.T.H is voiced by Dawn Michelle King.
+
+==Appearances==
+==='[[Spider-Man: Far From Home]]''===
+E.D.I.T.H. was temporally taken over by [[Mysterio]] after he tricked Peter into giving him the program so he could attack people around the world with his illusions. Although Peter was eventually able to retrieve E.D.I.T.H., Mysterio used the program to create a fake video to make it seem like Spider-Man had caused the attacks and also to reveal Peter's secret identity to the world. 
+
+==Trivia==
+*E.D.I.T.H.'s voice actor has the middle name Michelle, which is the first name of [[Spider-Man|Peter Parker]]'s love interest/girlfriend [[Michelle Jones]].
+*E.D.I.T.H. is the second A.I. Tony has left for Peter, the first was [[Karen (Marvel)|Karen]], which appeared in ''[[Spider-Man: Homecoming]]''.
+{{Marvel Cinematic Universe}}
+[[Category:Live-action characters]]
+[[Category:Spider-Man characters]]
+[[Category:Programs]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Characters]]
+[[Category:Heroines]]
+[[Category:Mentors]]

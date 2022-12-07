@@ -1,0 +1,55 @@
+{{Infobox film
+|image = Castaway-main-01.jpg
+|imagewidth = 250px
+|name = The Castaway
+|director = [[Wilfred Jackson]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = [[Walt Disney]]
+|music = [[Frank Churchill]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[April 6]], [[1931]]
+|time = 7:26
+|preceded = ''[[Traffic Troubles]]''
+|followed = ''[[The Moose Hunt]]''
+}}
+'''''The Castaway''''' is a [[Mickey Mouse|''Mickey Mouse'']] cartoon that was released on [[April 6]], [[1931]].
+
+==Summary==
+Mickey, apparently shipwrecked, is on a raft, using what appears to be a pair of bloomers (similar to Minnie's) as an impromptu sail until a seagull is caught in it and flies away. By poking a swordfish who has rammed into the raft, he is propelled (and then launched from the raft entirely) onto a tropical island, where a banana tree takes care of his hunger, until he accidentally drops a spider onto his face by squirting a banana into the air. He then discovers a box containing a piano that washed ashore, and begins playing it. The animals come around; a small tiger cub (standing upright) attempts to play the piano, as Mickey tries to shoo him away. Then, a gorilla, after playing a 4-hands piece with his feet, destroys the piano. Mickey runs away and accidentally wakes a lion. The lion chases Mickey to a stream, where he jumps onto a rock that turns out to be right next to a crocodile. The lion lunges for Mickey, misses, and ends up in the croc's mouth; Mickey ties the Lion's tail around the crocodile's maw, subduing both carnivores. Mickey then discovers that the rock he's standing on is a giant turtle, who swims away with Mickey aboard.
+
+==Characters==
+*[[Mickey Mouse]] (voiced by [[Walt Disney]])
+
+==Notes==
+*Appears as a transition level in ''[[Epic Mickey]]''.
+*Reuses animation from ''[[Wild Waves]]'' and ''[[Jungle Rhythm]]''.
+*The Castaway's director, Wilfred Jackson, stated that it was his least favorite Mickey project.
+
+==Releases==
+===Television===
+* ''[[Donald's Quack Attack]]'', episode #70
+* ''[[The Ink and Paint Club]]'', episode #1.50: "Storyteller Mickey"
+
+===Home video===
+* ''[[Walt Disney Treasures]]: Mickey Mouse in Black and White, Volume 2'' (DVD)
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150">
+13705.jpg
+13706.jpg|Mickey eating bananas
+13707.jpg
+13710.jpg
+13711.jpg
+13712.jpg
+</gallery>
+
+{{DEFAULTSORT:Castaway, The}}
+
+{{Mickey-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Epic Mickey transition levels]]
+[[Category:1931 shorts]]

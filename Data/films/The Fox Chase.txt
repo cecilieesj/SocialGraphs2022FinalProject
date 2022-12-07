@@ -1,0 +1,61 @@
+{{Infobox_film
+|image = Fox_chase.jpg
+|name = The Fox Chase
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]<br>George Winkler
+|editor = [[Ub Iwerks]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Universal Studios|Universal Pictures]]
+|release = [[June 25]], [[1928]]<ref>[https://archive.org/details/motionpic37moti/page/n761 "Universal Short Subjects" - Motion Picture News (1928)]</ref>
+|time = 5 minutes, 16 seconds
+|language = English
+|preceded = ''[[Poor Papa]]''
+|followed = ''[[Tall Timber]]''
+}}
+'''''The Fox Chase''''' is an animated [[Oswald the Lucky Rabbit]] short released on [[June 25]], [[1928]].
+
+==Synopsis==
+A comic running-of-the-fox with Oswald atop a reluctant horse against a smarter-than-usual fox.
+
+==Characters==
+*[[Oswald the Lucky Rabbit]]
+*[[Horace Horsecollar]] (prototype)
+
+==Home video releases==
+'''DVD'''
+* ''[[Walt Disney Treasures]]: The Adventures of Oswald the Lucky Rabbit''
+
+==Gallery==
+<gallery>
+pdvd010m.jpg
+8905.jpg
+8906.jpg
+8907.jpg
+8910.jpg
+8911.jpg
+8912.jpg
+1928-fox-2.jpg
+1928-fox-3.jpg
+1928-fox-4.jpg
+1928-fox-5.jpg
+FOX CHASE (1).png
+FOX CHASE (2).png
+FOX CHASE (3).png
+FOX CHASE (4).png
+FOX CHASE (5).png
+FOX CHASE (6).png
+FOX CHASE (7).png
+FOX CHASE (8).png
+pdvd000j.jpg
+pdvd002a.jpg
+pdvd003xyj.jpg
+pdvd004c.jpg
+</gallery>
+
+==References==
+<references/>
+
+{{DEFAULTSORT:Fox Chase, The}}
+[[Category:Animated shorts]]
+[[Category:Oswald the Lucky Rabbit shorts]]
+[[Category:1928 shorts]]

@@ -1,0 +1,50 @@
+{{Infobox character
+|image = St.png
+|name = 
+|films = 
+|shorts = 
+|shows = ''[[Jessie (TV series)|Jessie]]''
+|games = 
+|rides = 
+|actor = [[Brian Stepanek]]
+|actress = 
+|animator = 
+|voice = 
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = 
+|personality = 
+|appearance = 
+|occupation = Music teacher
+|alignment = Bad
+|affiliations = 
+|goal = 
+|home = 
+|family = 
+|pets = 
+|friends = 
+|minions = 
+|enemies = 
+|likes = 
+|dislikes = 
+|powers = 
+|possessions = 
+|weapons = 
+|fate = 
+|quote = }}'''Mr. Collinsworth''' is the school music teacher at Walden Academy. He is known for rejecting students to join the Walden band.
+
+{{CharacterStub}}
+{{DEFAULTSORT:Collinsworth, Mr.}}
+[[Category:Villains]]
+[[Category:Jessie characters]]
+[[Category:Schoolteachers]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Live-action villains]]
+[[Category:Live-action characters]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:American characters]]

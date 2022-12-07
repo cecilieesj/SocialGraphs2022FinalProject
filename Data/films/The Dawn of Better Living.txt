@@ -1,0 +1,42 @@
+{{Infobox film
+|image = Dawn_of_better_living.jpg
+|imagewidth = 250px
+|name = The Dawn of Better Living
+|director = 
+|producer = [[Walt Disney]]
+|writer = 
+|studio = [[Walt Disney Productions]]
+|distributor = Westinghouse Electric
+|language = English
+|release = [[May 28]], [[1945]]
+}}
+'''''The Dawn of Better Living''''' is a [[1945]] Disney animated short film. It was sponsored by Westinghouse Electric.
+
+==Synopsis==
+This short illustrated the development of improved lighting systems from the log cabin era up to the 1940s.
+
+==Gallery==
+<gallery position="center" widths="150" spacing="small" captionalign="center">
+1945-dawn-better-living-02.jpg
+1945-dawn-better-living-03.jpg
+1945-dawn-better-living-04.jpg
+1945-dawn-better-living-05.jpg
+1945-dawn-better-living-06.jpg
+1945-dawn-better-living-07.jpg
+1945-dawn-better-living-08.jpg
+1945-dawn-better-living-09.jpg
+1945-dawn-better-living-10.jpg
+1945-dawn-better-living-11.jpg
+1945-dawn-better-living-12.jpg
+1945-dawn-better-living-13.jpg
+1945-dawn-better-living-15.jpg
+1945-dawn-better-living-16.jpg
+1945-dawn-better-living-17.jpg
+1945-dawn-better-living-18.jpg
+1945-dawn-better-living-19.jpg
+1945-dawn-better-living-20.jpg
+</gallery>
+
+{{DEFAULTSORT:Dawn of Better Living, The}}
+[[Category:1945 shorts]]
+[[Category:Animated shorts]]

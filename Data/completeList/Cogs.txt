@@ -1,0 +1,55 @@
+{{Group Infobox
+|image = Webcogs.jpg
+|name = Cogs
+|shows = [[DuckTales (2017 series)|''DuckTales'' (2017 series)]] (mentioned)
+|games = ''[[Toontown Online]]''
+|leaders = The Chairman
+|goal = Turning Toontown into a corporate wasteland
+|headquarters = Cog Headquarters}}
+'''Cogs''' are the main villains in ''[[Toontown Online]]''. They are business-minded robots trying to take over [[Toontown]] and transform it into a dull corporate wasteland. [[Toon]]s must defeat them using gags, which are the Toons' weapons.
+
+The Cogs were created accidentally by [[Scrooge McDuck]] when he matched blue and red wires inside a robot [[Gyro Gearloose]] was working on. The robot grew evil and started to create smaller robots called Cogs. It is rumored that the evil robot is the Chairman, the leader of all Cogs.
+
+The Cogs have four different corporate ladders, each of which has eight Cog positions (along with a Boss Cog in the respective headquarters). Cogs have a five-level range as well as their own set of attacks. Their hit points and attack damage vary according to their positions on the corporate ladders. Cogs frequently roam the streets of Toontown, and will take control of Toon buildings by converting them into Cog buildings. From time to time, a certain type of Cog will invade all of Toontown for a certain period of time.
+
+Cogs have different levels of difficulty to defeat. When a Toon's attack is strong enough, the Cog will explode and the Toon does a victory dance. If a Cog manages to defeat a Toon, the Toon goes sad and the Cogs do a victory dance.
+
+==Types of Cogs==
+'''[[Sellbots]]:''' The Sellbots are the masters of sales; they're the dealmakers and the marketers. Their headquarters is located off Daisy Gardens on Oak Street.
+
+'''[[Cashbots]]:''' The Cashbots have a love for money, and consist of accountants and megawealths. Their headquarters is located off Pajama Place in Donald's Dreamland.
+
+'''[[Lawbots]]:''' The Lawbots have a thing for legalities; this group is made of lawyers and judges. Their headquarters is located off Polar Place in the Brrrgh.
+
+'''[[Bossbots]]:''' The Bossbots are the bosses and managers, and they enjoy pushing others around and being on top. Their headquarters is located just off Chip 'n Dale's MiniGolf.
+
+===Other Types===
+*'''Skelecogs:''' The skeletal framework of Cogs that lack any outer covering, but still have the same attacks as the Cogs on which they are based. They are often encountered in Cog Facilities.
+
+*'''Goons:''' Security guard robots who patrol areas. If a Toon should end up in their searchlights, the Toon will lose laff points. The Goons can be momentarily disabled by jumping on their heads.
+
+==Trivia==
+*The Cogs are referenced in one episode of the [[DuckTales (2017 series)|''DuckTales'' reboot]], "[[The Great Dime Chase!]]" When Gyro's notepad shows a list of inventions that have gone bad, the Cogs are at the top of list.
+
+==Gallery==
+<gallery position="center" spacing="small">
+BossbotHD.png|The Bossbot icon.
+LawbotHD.png|The Lawbot icon.
+CashbotHD.png|The Cashbot icon.
+SellbotHD.png|The Sellbot icon.
+Gyro's Inventions Gone Bad.png|A reference to the Cogs on Gyro's notepad
+</gallery>
+
+{{CharacterStub}}
+{{Toontown Online}}
+[[Category:Toontown villains]]
+[[Category:Robots]]
+[[Category:Characters]]
+[[Category:Characters in video games]]
+[[Category:Characters introduced in video games]]
+[[Category:Villains]]
+[[Category:DuckTales characters]]
+[[Category:Animated characters]]
+[[Category:TV Animation characters]]
+[[Category:Disney characters]]
+[[Category:Main antagonists]]

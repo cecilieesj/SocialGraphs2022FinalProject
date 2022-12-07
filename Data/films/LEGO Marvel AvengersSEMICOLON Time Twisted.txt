@@ -1,0 +1,107 @@
+{{Marvel Database:Film Template 
+|Image                    = LEGO Marvel Avengers Time Twisted poster 001.jpg
+|Aliases                  = 
+
+| Directors               = Ken Cunningham
+| Producers               = 
+| Writers                 = Gavin Hignight
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = Damon Fulford
+| Distributors            = 
+| Running Time            = 23 minutes
+| Rating                  = 
+| Budget                  = 
+| IMDB ID                 = 
+| Release Date            = January 17, 2022 
+
+| Plot                    = While on a morning coffee and donut run for the team, Ant-Man discovers that someone has stolen his van that holds the Quantum Tunnel! Turns out it was Thanos and he’s partnered with Red Skull to travel back in time to recruit a powerful army of villains, including Iron Monger, Ultron, Hydra…and another Red Skull? It’s now up to Ant-Man and The Avengers to find Thanos and prevent him from changing history and destroying the world. Oh, and reclaim Ant-Man’s van, too. Avengers assemble!
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{a|[[Avengers (Earth-13122)|Avengers]]}}
+** {{1st|[[Avengers (Earth-TRN977)|Avengers (Earth-TRN977)]]}}
+** {{a|[[Scott Lang (Earth-13122)|Ant-Man]]}}
+** {{a|[[Thor Odinson (Earth-13122)|Thor]]}}
+*** {{1st|[[Thor Odinson (Earth-TRN977)|Thor (Earth-TRN977)]]}} 
+** {{a|[[Anthony Stark (Earth-13122)|Iron Man (Tony Stark)]]}} 
+*** {{1st|[[Anthony Stark (Earth-TRN975)|Iron Man (Earth-TRN975)]]}}
+*** {{1st|[[Anthony Stark (Earth-TRN977)|Iron Man (Earth-TRN977)]]}}
+** {{a|[[Steven Rogers (Earth-13122)|Captain America (Steve Rogers)]]}} 
+*** {{1st|[[Steven Rogers (Earth-TRN976)|Captain America (Earth-TRN976)]]}}
+*** {{1st|[[Steven Rogers (Earth-TRN977)|Captain America (Earth-TRN977)]]}}
+** {{a|[[Bruce Banner (Earth-13122)|Hulk (Bruce Banner)]]}}
+*** {{1st|[[Bruce Banner (Earth-TRN977)|Hulk (Earth-TRN977)]]}} 
+** {{a|[[Natalia Romanova (Earth-13122)|Black Widow (Natasha Romanoff)]]}}
+*** {{1st|[[Natalia Romanova (Earth-TRN977)|Black Widow (Earth-TRN977)]]}}
+** {{a|[[Clinton Barton (Earth-13122)|Hawkeye (Clint Barton)]]}} 
+*** {{1st|[[Clinton Barton (Earth-TRN977)|Hawkeye (Earth-TRN977)]]}}
+** {{a|[[Wanda Maximoff (Earth-13122)|Scarlet Witch]]}} 
+*** {{1st|[[Wanda Maximoff (Earth-TRN977)|Scarlet Witch (Earth-TRN977)]]}}
+** {{a|[[T'Challa (Earth-13122)|Black Panther]]}} 
+'''Antagonists:'''
+* {{a|[[Thanos (Earth-13122)|Thanos]]}}
+* {{a|[[Hydra (Earth-13122)|Hydra]]}}
+** {{a|[[Johann Shmidt (Earth-13122)|Red Skull]]}}
+*** {{1st|[[Johann Shmidt (Earth-TRN976)|Red Skull (Earth-TRN976)]]}}
+* [[Chitauri]]
+** Unnamed Chitauri Soldiers
+* {{1st|[[Obadiah Stane (Earth-TRN975)|Iron Monger (Earth-TRN975)]]}}
+* {{1st|[[Ultron (Earth-TRN977)|Ultron (Earth-TRN977)]]}}
+* {{a|[[Ultron Drones]]}}
+'''Other Characters:'''
+* {{1st|[[Virginia Potts (Earth-TRN975)|Pepper Potts (Earth-TRN975)]]}}
+* {{mentioned|[[X-Con Security Consultants (Earth-13122)|X-Con Security]]}}
+* {{a|[[Ant-Man's Ants]]}}
+* {{mentioned|[[Howard Stark (Earth-13122)|Howard Stark]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Asgardians]]}}
+* {{a|[[Chitauri]]}}
+'''Locations:'''
+* {{a|[[Earth-13122]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[New York City]]}}
+***** {{a|[[Stark Tower|Avengers Tower]]}}
+***** {{Photo|[[Statue of Liberty]]}}
+** Hydra Base
+* {{1st|[[Earth-TRN975]]}}
+* {{1st|[[Earth-TRN976]]}}
+* {{1st|[[Earth-TRN977]]}}
+** {{a|[[Sokovia]]}}
+'''Items:'''
+* {{a|[[Ant-Man's Helmet]]}}
+* {{a|[[Iron Man Armor (Earth-199999)|Iron Man Armor]]}}
+** Sakaraan [[Hulkbuster Armor]] <!--From What If? Gamora Episode-->
+** {{a|[[Iron Man Armor MK XLIV (Earth-199999)|Hulkbuster Armor]]}}
+* {{a|[[Iron Monger Armor (Earth-199999)|Iron Monger Armor]]}}
+* {{a|[[Captain America's Shield]]}}
+* {{a|[[Stormbreaker]]}}
+* {{a|[[Hawkeye's Bow]]}} and {{a|[[Trick Arrows]]}}
+* {{a|[[Pym Particles]]}}
+* {{a|[[Space Stone|Tesseract]]}}
+* {{a|[[Hydra Stomper Armor]]}}
+'''Vehicles:'''
+* {{a|[[Ant-Van]]}}
+** {{a|[[Quantum Tunnel]]}}
+* {{a|[[Quinjet]]}}
+
+| Cast = 
+* James Blight as [[Bruce Banner (Earth-13122)|Hulk (Bruce Banner)]]
+* Micheal Daingerfield as [[Steven Rogers (Earth-13122)|Captain America (Steve Rogers)]]
+* Michael Dobson as [[Ultron (Earth-13122)|Ultron]]
+* {{WP|Ian Hanlin}} as [[Scott Lang (Earth-13122)|Ant-Man]] and [[Thor Odinson (Earth-13122)|Thor]]
+* Elyse Maloway as [[Virginia Potts (Earth-13122)|Pepper Potts]] and [[Wanda Maximoff (Earth-13122)|Scarlet Witch]]
+* Omari Newton as [[T'Challa (Earth-13122)|Black Panther]]
+* Deven Mack as [[Thanos (Earth-13122)|Thanos]]
+* Nicole Oliver as [[Natalia Romanova (Earth-13122)|Black Widow (Natasha Romanoff)]]
+* Adrian Petriw as [[Clinton Barton (Earth-13122)|Hawkeye (Clint Barton)]]
+* {{WP|Giles Panton}} as [[Anthony Stark (Earth-13122)|Iron Man (Tony Stark)]] 
+* Alex Zahara as [[Johann Shmidt (Earth-13122)|Red Skull]]
+
+| Notes           = 
+* The [[X-Con Security Consultants (Earth-13122)|X-Con Security]] app which tracks down the location of the [[Ant-Van]], pinpoints it to a "deserted island in the middle of the ocean". The map they zoom into shows the location to be either the [[United Kingdom]] or somewhere nearby.
+
+[[Category:Short Films]]
+}}

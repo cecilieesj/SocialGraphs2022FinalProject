@@ -1,0 +1,74 @@
+{{Marvel Database:Film Template
+| Image                   = Captain America II Death Too Soon.jpg
+| Aliases                 = 
+
+| Directors               = Ivan Nagy
+| Producers               = Martin M. Goldstein
+| ComicWriters            = [[Joe Simon]]; [[Jack Kirby]]
+| StoryWriters            = 
+| ScreenplayWriters       = Wilton Schiller; Patricia Payne
+| Musicians               = Pete Carpenter & Mike Post
+| Cinematographers        = Vincent A. Martinelli
+| Editors                 = Michael S. Murphy
+| Distributors            = NBCUniversal Television Distribution (CBS)
+| Running Time            = 83 minutes
+| Rating                  = Not Rated
+| Budget                  = 
+| Release Date            = November 23, 1979
+
+| AM ID                   = captain-america-ii-death-too-soon-v8077
+| IMDB ID                 = 0078938
+| Marvel Movies           = Captain America II: Death Too Soon
+
+| Previous Film           = Captain America (1979 film)
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Final|[[Steven Rogers (Earth-600043)|Captain America (Steven Rogers)]]}}
+'''Supporting Characters:'''
+* {{Final|[[Simon Mills (Earth-600043)|Dr. Simon Mills]]}}
+* {{Final|[[Wendy Day (Earth-600043)|Dr. Wendy Day]]}}
+'''Antagonists:'''
+* {{Only Dies|[[Miguel (Earth-600043)|General Miguel]]}}
+'''Other Characters:'''
+* {{Only|[[Ian Ilson (Earth-600043)|Professor Ian Ilson]]}}
+* {{Only|[[Everett Bliss (Earth-600043)|Everett Bliss]]}}
+* {{Only|[[Helen Moore (Earth-600043)|Helen Moore]]}}
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* {{Final|[[Earth-600043]]}}
+** {{Final|[[Earth]]}}
+*** {{Final|[[United States of America]]}}
+**** {{Only|[[Oregon (State)|Oregon]]}}
+***** {{Only|[[Portland (Oregon)|Portland]]}}
+****** {{Only|[[Waterford Prison]]}}
+**** {{Only|[[New Jersey (State)|New Jersey]]}}
+***** {{Only|[[Belleville (New Jersey)|Belleville]]}}
+**** {{Only|[[Greenwood]]}}
+*** {{Mentioned|[[Copenhagen|Copenhagen, Denmark]]}}
+*** {{Mentioned|[[Ecuador]]}}
+'''Items:'''
+* {{Final|[[Captain America's Shield]]}}
+* {{Final|[[Captain America's Uniform]]}}
+'''Vehicles:'''
+* {{Final|[[Captain America's Van]]}}
+* {{Final|[[Captain America's Motorcycle]]}}
+
+| Plot                    = International terrorist General Miguel kidnaps Professor Ian Ilson and forces him to develop an age-speeding chemical to use as a weapon. Miguel tests it in the population of Belleville and then blackmails the American government by spreading it in Portland.
+
+However, an ally of Ilson, Dr. Mills, recruits Captain America to track Miguel. Captain America convinces one inhabitant of Belleville, Helen Moore, to help him, and finally finds Miguel's lair in a federal penitentiary. Captain America fights Miguel's minions, and finally Miguel is accidentally infected with the chemical. The villain dies of old age in a few seconds, and Captain America grabs enough antidote to heal the Portlanders.
+
+| Cast                    = * Reb Brown as [[Steven Rogers (Earth-600043)|Captain America (Steven Rogers)]]
+* Connie Selleca as [[Wendy Day (Earth-600043)|Dr. Wendy Day]]
+* Len Birman as [[Simon Mills (Earth-600043)|Dr. Simon Mills]]
+* Christopher Lee as [[Miguel (Earth-600043)|General Miguel]]
+* Katherine Justice as [[Helen Moore (Earth-600043)|Helen Moore]]
+* Christopher Cary as [[Ian Ilson (Earth-600043)|Professor Ian Ilson]]
+* Ken Swofford as [[Everett Bliss (Earth-600043)|Everett Bliss]]<ref>[http://www.imdb.com/title/tt0078938/fullcredits?ref_=tt_cl_sm#cast Captain America II: Death Too Soon's cast at IMDb]</ref>
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [[Marvel Films#Television Films|Marvel Films]]
+}}
+[[Category:Universal Pictures]]

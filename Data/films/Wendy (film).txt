@@ -1,0 +1,74 @@
+{{Infobox film
+|name = Wendy
+|image = Wendy Theatrical Poster.jpg
+|director = Benh Zeitlin
+|producer = Becky Glupczynski<br>Dan Janvey<br>Paul Mezey<br>Josh Penn
+|writer = Benh Zeitlin<br>Eliza Zeitlin
+|starring = Devin France<br>Tommie Lynn Milazzo<br>Shay Walker
+|music = Dan Romer<br>Benh Zeitlin
+|cinematography = Sturla Brandth Grøvlen
+|editor = Affonso Gonçalves
+|studio = [[Searchlight Pictures]]<br>Cinereach<br>Court 13<br>[[TSG Entertainment]]
+|distributor = Searchlight Pictures
+|release = [[February 28]], [[2020]]
+|time =112 minutes 
+|country = United States
+|language = English
+|budget =$6 million 
+|gross =$143,518
+|imdb_id = 2420124}}
+'''''Wendy''''' is an American drama film written and directed by Benh Zeitlin and star Devin France. It was released on [[February 28]], [[2020]], by [[Walt Disney Studios Motion Pictures]] through the [[Searchlight Pictures]] label. The film serves as a re-imagining of the story of ''[[Peter Pan (1953 movie)|Peter Pan]]'', from the point of view of [[Wendy Darling]].<ref>[https://www.theadvocate.com/gambit/new_orleans/film/article_b68ae6c8-f12d-11e9-ade1-0bad40543141.html 'Wendy,' new film from 'Beasts of the Southern Wild' director Benh Zeitlin, to open in Feb. 2020 | Film coverage | theadvocate.com]</ref>
+
+==Synopsis==
+Wendy finds herself stranded on a mysterious island where aging and time have come unstuck. She must fight to save her family, her freedom and the joyous spirit of youth.
+
+==Cast==
+*Devin France as [[Wendy]]
+*Gage Naquin as Douglas
+*Ahmad Cage as Sweet Heavy
+*Yashua Mack as [[Peter Pan]]
+*Gavin Naquin as [[Captain Hook]]
+*Krzysztof Meyn as Thomas
+*Romyri Ross as Cudjoe Head
+*Tommie Milazzo as Baby Wendy
+
+==Production==
+In August 2015, it was announced Benh Zeitlin would write and direct the film.<ref>{{cite web|url=https://www.indiewire.com/2015/08/beasts-of-the-southern-wild-director-benh-zeitlin-gearing-up-new-film-wendy-261090/|title=‘Beasts Of The Southern Wild’ Director Benh Zeitlin Gearing Up New Film ‘Wendy’|website=IndieWire|first=Kevin|last=Jagernauth|date=August 6, 2015|accessdate=March 21, 2019}}</ref> Production began in March 2017.<ref>{{cite web|url=https://www.indiewire.com/2017/03/benh-zeitlin-wendy-beasts-of-souther-wild-new-film-production-photos-1201789239/|title=Benh Zeitlin May Finally Be Shooting His Follow-Up to ‘Beasts of the Southern Wild’ in the Caribbean|website=IndieWire|first=Zack|last=Sharf|date=March 2, 2017|accessdate=March 21, 2019}}</ref>
+
+==Release==
+In April 2018, [[Searchlight Pictures]] bought the North American distribution rights to the film.<ref>{{cite web|url=http://www.foxsearchlight.com/post/4300/fox-searchlight-pictures-announces-searchlight-television-for-broadcast-cable-and-streaming/|title=FOX SEARCHLIGHT PICTURES ANNOUNCES SEARCHLIGHT TELEVISION FOR BROADCAST, CABLE AND STREAMING|website=[[Fox Searchlight Pictures]]|date=April 11, 2018|accessdate=March 21, 2019}}</ref> It was released on February 28, 2020 by Searchlight Pictures.<ref>{{cite web|url=https://twitter.com/kylebuchanan/status/1184863943199641600|title=Benh Zeitlin is back! It’s been 84 years, etc|website=Twitter|date=October 17, 2019|accessdate=October 17, 2019}}</ref>
+
+==Gallery==
+<gallery>
+Wendy_poster.jpg|Teaser Poster
+Wendy promotional image.jpg|Promotional image<ref>[https://www.syfy.com/syfywire/peter-pan-riff-wendy-first-look-the-shed-trailer-the-stand-greg-kinnear WIRE BUZZ: PETER PAN RIFF 'WENDY' DROPS SURPRISE FIRST LOOK; THE SHED TRAILER; MORE - SyFy.com]</ref>
+Wendy promotional image 2.jpg|Promotional image<ref>[https://www.hollywoodreporter.com/news/benh-zeitlins-peter-pan-movie-wendy-lands-february-2020-release-date-1248506 Benh Zeitlin's 'Wendy' Lands Late February 2020 Release Date From Fox Searchlight - Hollywood Reporter]</ref>
+</gallery>
+
+==Videos==
+<gallery position="center" captionalign="center">
+WENDY Official Trailer HD FOX Searchlight
+WENDY Introducing Wendy FOX Searchlight
+Wendy Now On Digital FOX Searchlight
+</gallery>
+
+==Trivia==
+*This was the last Disney live action movie to be released in theaters before the COVID-19 pandemic.
+{{FilmStub}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.searchlightpictures.com/wendy/ Official website]
+*{{WP|Wendy (film)|Wendy}}
+*[https://www.facebook.com/WendyMovie Facebook page]
+{{DISPLAYTITLE:''Wendy''}}
+[[Category:2020 films]]
+[[Category:Live-action films]]
+[[Category:Films based on books]]
+[[Category:20th Century Studios films]]
+[[Category:PG-13 rated films]]
+[[Category:Films Distributed by Disney in certain countries]]
+[[Category:Non-Disney]]
+[[Category:Peter Pan]]

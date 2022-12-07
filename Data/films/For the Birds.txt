@@ -1,0 +1,76 @@
+{{Infobox Film
+|image = For the Birds - Poster.jpg
+|director = [[Ralph Eggleston]]
+|producer = Karen Dufilho-Rosen<br>[[John Lasseter]]
+|writer = Ralph Eggleston
+|music = Riders in the Sky
+|studio = [[Pixar|Pixar Animation Studios]]<br>[[Walt Disney Pictures]]
+|distributor = [[Buena Vista Pictures]]
+|release = [[June 5]], [[2000]]
+|time = 3 minutes, 27 seconds
+|preceded = ''[[Geri's Game]]''
+|followed = ''[[Mike's New Car]]''
+|website = https://www.pixar.com/for-the-birds}}'''''For the Birds''''' is a [[Pixar]] computer-animated short film written and directed by [[Ralph Eggleston]]. Its worldwide debut occurred at the Annecy Film Festival in France on [[June 5]], [[2000]]. It would later premiere in the United States at the 27th annual Siggraph conference on July 24 of that same year, and was attached to the theatrical release of ''[[Monsters, Inc.]]'' in [[2001]]. It was re-released on [[December 19]], [[2012]] with ''[[Monsters, Inc.]]'' in 3D. The film won the Academy Award for Best Animated Short Film.
+
+==Plot==
+Fifteen blue [[Birds (For the Birds)|birds]] land one-by-one on a power line, where they encounter a huge and goofy-looking bird. They mimic and tease him, but he goes on the wire, anyway. Since the big bird is heavier than the smaller ones, the wire drops under his weight. To make him let go of the wire, the little birds start pecking on his toes. They successfully get him off, but when the big bird falls off, the birds are flung away into the sky when the wire snaps back up. When they come back down, we see that they have all lost their feathers, making them the goofy-looking ones now. The short ends with the big bird laughing hysterically as the other birds hide behind him.
+
+The first four small birds to land on the power line are named Bully, Chipper, Snob and Neurotic.
+
+==Production==
+Ralph Eggleston had this to say about his inspiration for the short:
+
+:''"Probably visits to my aunt when I was a kid. She lived in the country and I spent long rides to her house peering out the car window at birds on a wire. Also, I did a project in my design class at CalArts that my friend, Ken Bruce, told me might make a good film. I boarded it out at CalArts, but frankly, I couldn’t imagine the difficulty of drawing all those birds. Little did I know it would be just as difficult on the computer!"''
+
+==Trivia==
+*There is a boat in ''[[Finding Nemo]]'' entitled "For the Birds."
+*The title of the short is referencing to the idiom of the same name. Meaning being worthless, undesirable, crazy and ridiculous.
+*The background music in this short, titled "Big High Wire Hop," is performed by Riders in the Sky. It is included in the band's [[2002]] album, ''[[Monsters, Inc. Scream Factory Favorites]]''.
+*The small birds on the power line make a cameo appearance in the movie ''[[Cars]]'' during the Life is a Highway scene. Unlike many of the other "animals" in the films, the birds aren't car-ified.
+*The background is actually just painted.
+*This short originally started off as an idea for a student film by [[Ralph Eggleston]] but was never made because it would have taken forever to draw all of the birds.
+*Concept art for ''[[Toy Story 3]]'' showed that a toy version of one of the small birds was going to be one of the toys strapped to the garbage truck that [[Lots-o'-Huggin' Bear|Lotso]] ended up on.
+*The Big Bird resembles either a shoebill or a hammerkop, while Bully and his flock appear to be some sort of waxbill (even having the same squeaks).
+*This is Pixar's first attempt at animating both feathers and moving backgrounds.
+*At the end of the short, the words "the end" appear to be written on what appears to be bird feces splattered onto a black background. Ironically, bird excrement is actually white, not brown.
+*The birds from this short have been reused as brief cameos in ''[[Inside Out|Inside&nbsp;Out]]''.
+
+==Gallery==
+<gallery spacing="small" widths="150" position="center" captionalign="center">
+big_bird_friends.jpg
+File:For_the_Birds_title_card.png
+For the Birds 002.jpg
+For the Birds 003.jpg
+For the Birds 004.jpg
+For the Birds 005.jpg
+For the Birds 006.jpg
+For the Birds 007.jpg
+For the Birds 008.jpg
+For the Birds 009.jpg
+For the Birds 010.jpg
+Humility.png|One of the smaller birds upon realizing he is flightless and bare, losing his vanity.
+A_massive_bout_of_Humility.png|All the small birds realize they have lost their flight and feathers.
+Nemoforthebirds.jpg|"For the Birds" boat in ''[[Finding Nemo]]''
+Carsforthebirds.jpg|The birds on the power line in ''[[Cars]]''
+forthebirds plush.jpg
+For the Birds - Poster 3.jpg
+For the Birds - Poster 2.jpg
+For The Birds - Portuguese European Title.jpg|Portuguese European Title
+</gallery>
+
+==External links==
+*{{Interwiki|https://vignette.wikia.nocookie.net/pixar/images/6/64/Favicon.ico|pixar|For the Birds|Pixar Wiki}}
+[[ar:من أجل الطيور]]
+[[es:For the Birds]]
+[[fr:Drôles d'oiseaux sur une ligne à haute tension]]
+[[pt-br:Coisas de Pássaros]]
+[[zh:鸟！鸟！鸟！]]
+[[it:Pennuti spennati]]
+[[Category:Animated shorts]]
+[[Category:Monsters, Inc.]]
+[[Category:Pixar shorts]]
+[[Category:Best Short Academy Award winners]]
+[[Category:2000 shorts]]
+[[Category:3-D films]]
+[[Category:Academy Award winning films]]
+[[Category:Annie Award Winner]]

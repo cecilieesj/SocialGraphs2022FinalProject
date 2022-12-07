@@ -1,0 +1,35 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox_film
+|image=
+|name = Seconds
+|director = Blake Lively
+|producer = [[Edgar Wright]]<br>Marc Platt
+|writer = [[Edgar Wright]]
+|starring = 
+|music =	
+|cinematography = 
+|editor =
+|studio = [[Searchlight Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time =
+|language = English
+|budget =
+|gross =
+|website =
+|tv_com_id =
+|imdb_id = }}
+'''''Seconds''''' is an upcoming American film based on the graphic novel of the same name by Bryan Lee O’Malley. 
+
+==Production==
+On April 29, 2022, ''The Hollywood Reporter'' reporter that [[Searchlight Pictures]] was developing a ''Seconds'' film based on the graphic novel with Blake Lively making directorial debut, and [[Edgar Wright]] writing and producing.<ref>[https://www.hollywoodreporter.com/movies/movie-news/blake-lively-directorial-debut-seconds-1235138164/ Blake Lively to Make Film Directorial Debut With Adaptation of Bryan Lee O’Malley Graphic Novel ‘Seconds’ (Exclusive)]</ref>
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{DISPLAYTITLE:''Seconds''}}
+[[Category:Live-action films]]
+[[Category:20th Century Studios films]]
+[[Category:20th Century Studios]]
+[[Category:Films based on comics]]

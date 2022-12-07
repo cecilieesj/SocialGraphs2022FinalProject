@@ -1,0 +1,65 @@
+{{Upcoming|media=film}}
+{{Infobox film
+|image = Armor Wars New Logo.jpg
+|name= Armor Wars
+|director = 
+|writer = Yassir Lester
+|producer = [[Kevin Feige]]
+|starring = [[Don Cheadle]]<br>[[Sam Rockwell]]<br>[[Walton Goggins]]
+|cinematography = 
+|music = 
+|editor = 
+|studio = [[Marvel Studios]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|time = 
+|language = English
+|budget = 
+|gross = 
+|website = https://www.marvel.com/movies/armor-wars
+|imdb_id = 13623128}}
+'''''Armor Wars''''' is an upcoming American superhero film based on the character of the [[War Machine|same name]] and a sequel to ''[[Secret Invasion]]''. It is an installment of the [[Marvel Cinematic Universe]].
+
+==Synopsis==
+[[War Machine|James Rhodes]] must confront one of [[Iron Man|Tony Stark]]'s greatest fears when Stark's tech falls into the wrong hands.
+
+==Cast==
+*[[Don Cheadle]] as [[War Machine|James Rhodes/War Machine]]
+*[[Sam Rockwell]] as [[Justin Hammer]]<ref>Nathan Earley is listed as his assistant on IMDb</ref>
+*[[Walton Goggins]] as [[Sonny Burch]]<ref>Rex Riddick is listed as his stunt double on IMDb</ref>
+
+==Production==
+On [[December 10]], [[2020]], [[Kevin Feige]] officially announced the series at the Disney Investors Day.<ref>[https://deadline.com/2020/12/disney-to-launch-marvel-series-ironheart-moon-knight-armor-wars-secret-invasion-1234654568/ Disney+ To Launch Marvel Series ‘Ironheart’, ‘Armor Wars’, ‘Secret Invasion’ & ‘Moon Knight’]</ref>
+
+On [[August 20]], [[2021]], ''Variety'' reported that Yassir Lester was enlisted as head writer.<ref>{{Cite web|url=https://variety.com/2021/tv/news/armor-wars-disney-plus-series-don-cheadle-yassir-lester-head-writer-1235045820/|title=‘Armor Wars’ Disney Plus Series Starring Don Cheadle Enlists Yassir Lester as Head Writer|website=Variety|date=[[August 20]], [[2021]]}}</ref>
+
+On April 16, 2022, it was revealed that filming is scheduled to begin this fall.<ref>[https://cinemastudies.sas.upenn.edu/events/2022/04/23/wolf-conference-2022-idea-film Wolf Conference 2022 | From Idea to Film]</ref>
+
+On September 10, 2022, it was announced that filming will begin in 2023, and that the series is directly tied into ''[[Secret Invasion]]''.<ref>[https://www.cbr.com/secret-invasion-lead-into-armor-wars-mcu-disney-plus/ Marvel’s Secret Invasion Will Lead Into Armor Wars]</ref>
+
+On September 29, 2022, ''The Hollywood Reporter'' reported that ''Armor Wars'' was being redeveloped as a feature film instead of a television series.<ref>[https://www.hollywoodreporter.com/movies/movie-news/marvels-iron-wars-to-be-movie-don-cheadle-1235230012/ Marvel Shakes Up ‘Armor Wars’: Don Cheadle Series Now Being Developed As a Movie (Exclusive)]</ref>
+
+==Trivia==
+*This is the first appearance of [[Justin Hammer]] since ''[[Marvel One-Shot: All Hail the King]]''.
+
+==Gallery==
+<gallery>
+Armor Wars Logo.jpg|Original Logo
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External Links==
+*{{WP|Armor Wars (film)|Armor Wars}}
+*[[w:c:marvelcinematicuniverse:Armor Wars|Armor Wars]] on [[w:c:marvelcinematicuniverse:Marvel_Cinematic_Universe_Wiki|Marvel Cinematic Universe Wiki]]
+
+{{FilmStub}}
+{{Marvel Cinematic Universe}}
+{{DISPLAYTITLE:''Armor Wars''}}
+[[Category:Upcoming films]]
+[[Category:Films]]
+[[Category:Armor Wars]]
+[[Category:Films based on comics]]
+[[Category:Marvel Comics]]
+[[Category:Marvel Cinematic Universe films]]
+[[Category:Live-action films]]

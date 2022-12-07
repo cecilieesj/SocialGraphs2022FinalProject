@@ -1,0 +1,34 @@
+{{Infobox film
+|image = Img8A17.jpg
+|name = Mickey and the Goat Man
+|starring = [[Wayne Allwine]]<br>[[Russi Taylor]]<br>[[Maurice LaMarche]]<br>[[Corey Burton]]
+|studio = [[Walt Disney Television Animation]]
+|release = [[May 18]], [[2002]]
+|time = 5 minutes
+|language = English}}'''''Mickey and the Goat Man''''' is a short from ''[[House of Mouse]]'' starring [[Mickey Mouse]], featured in the episode "[[Dennis the Duck (House of Mouse)|Dennis the Duck]]". Unlike other shorts which were made in color, this one is made in black-and-white, which evokes the aesthetics of the original black-and-white classic Disney cartoons of the 1920s and 1930s.
+
+==Plot==
+[[Mickey Mouse|Mickey]], [[Minnie Mouse|Minnie]] and [[Mortimer Mouse|Mortimer]] are kidnapped by the mysterious [[Goat Man]] while performing their vaudeville act.
+
+==Cast==
+* [[Wayne Allwine]] as [[Mickey Mouse]]
+* [[Russi Taylor]] as [[Minnie Mouse]]
+* [[Maurice LaMarche]] as [[Mortimer Mouse]]
+* [[Corey Burton]] as [[Goat Man]]
+
+==Gallery==
+<gallery position="center" spacing="small">
+img8B9.jpg
+2001-tousenboiteS2-13-02.jpg
+Goat Man.jpg
+img8C14.jpg
+Goat Man sitting on his throne.png
+Goatman and Mortimer.png
+</gallery>
+
+{{Mickey-Series}}
+{{Minnie-Series}}
+
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:House of Mouse]]

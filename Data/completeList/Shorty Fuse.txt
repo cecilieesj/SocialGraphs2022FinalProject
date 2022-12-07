@@ -1,0 +1,19 @@
+{{Infobox character
+|image = Shorty Fuse.png
+|name = Shorty Fuse
+|games = ''[[Toontown Online]]''
+|appearance = Small, thin yellow mouse
+|alignment = Good/Neutral}}
+'''Shorty Fuse '''is a thin small yellow mouse and a NPC of [http://toontown.wikia.com/wiki/The_Kaboomery The Kaboomery].
+
+==Toontasks==
+﻿Only Just for Fun! or Gag Training comes from the Shopkeeper.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Mice]]
+[[Category:Males]]
+[[Category:Characters in video games]]
+[[Category:Characters introduced in video games]]
+[[Category:Animated characters]]
+{{Toontown Online}}

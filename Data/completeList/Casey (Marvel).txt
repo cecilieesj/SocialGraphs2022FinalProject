@@ -1,0 +1,72 @@
+{{Infobox_character
+|image = Profile - Casey.png
+|name = Casey
+|shows = ''[[Loki (TV series)|Loki]]''
+|actor = [[Eugene Cordero]]
+|inspiration = 
+|alias = '''New TVA''':<br>Hunter K-5E 
+|occupation = '''Original TVA''':<br>Clerk of the [[Time Variance Authority]]<br>'''New TVA''':<br>Hunter of the Time Variance Authority 
+|affiliations = [[Time Variance Authority]] 
+|home = [[Sacred Timeline]] (formerly)<br>TVA Headquarters
+|likes = Working for the TVA
+|dislikes = Being in danger, losing his cart, having his drink taken
+|paraphernalia = '''Original TVA''':<br>[[Infinity Stones]]<br>'''New TVA''':<br>Time Stick
+|status = Active}}
+
+{{Dialogue2|Loki|How do you not know what a fish is?|Casey|I've lived my entire life behind a desk.|attr=[[Loki Laufeyson#Variant L1130|Loki]] and Casey|src=Glorious Purpose}}
+
+'''Casey''' is a [[Marvel Cinematic Universe]] character from the [[Disney+]] series ''[[Loki (TV series)|Loki]]''. He is an employee that works as a clerk at the [[Time Variance Authority]] headquarters.
+
+==Background==
+Casey previously had a normal life on the [[Sacred Timeline]], but under unknown circumstances, he created a nexus event which caused his timeline to branch. He was then captured by the [[Time Variance Authority]] and his timeline was destroyed. However, instead of being pruned and sent to [[the Void]] like several other [[Variants]], he had his memories erased to become a worker of the TVA, turning him into a clerk at the TVA headquarters. In addition of not having memories from his past, Casey was told at the TVA that the [[Time Keepers]] are the creators of the organization of all its workers, so he is unaware that the Time Keepers are in reality mindless androids controlled by real founder of the TVA, [[He Who Remains]].
+
+==Appearances==
+===[[Marvel Cinematic Universe]]===
+====''[[Loki (TV series)|Loki]]''====
+=====Season One=====
+[[File:Casey Tesseract - Loki EP1.png|thumb|left|250px|Hunter B-15 gives the Tesseract to Casey.]]
+
+In the [[Glorious Purpose|first episode]], after [[Loki Laufeyson#Variant L1130|Loki]] stole the [[Tesseract]] and was captured by a Minutemen unit led by [[Hunter B-15]], he is brought to the [[Time Variance Authority]] headquarters, where Casey is at the front desk, filling and collecting evidence from the prisoners that were captured. Hunter B-15 gives the Tesseract to Casey and tells him to register it as evidence. Casey then holds the [[Infinity Stones|Infinity Stone]] and asks what it is. Loki replies that it is the Tesseract and he should be careful with it. Casey tells him that the name sounds stupid.
+
+{{Dialogue2|Loki|What? [[Infinity Stones]]? How... How do you have these?|Casey|Oh, we actually get a lot of those. Yeah. Some of the guys use them as paperweights.|attr=[[Loki Laufeyson#Variant L1130|Loki]] and Casey|src=Glorious Purpose}}
+
+[[File:Loki and Casey - Loki EP1.png|thumb|right|250px|Loki finds Casey and threats him to have Tesseract back.]]
+
+Later, when Loki manages to steal a Time Twister from [[Mobius|Agent Mobius]] and escapes the Time Theater where he was being interrogated, he goes to retrieve the Tesseract and finds Casey, who recognizes him as the criminal that was carrying a "blue box". Loki asks for his name and then threatens to gut Casey like a fish if he does not give him back the Tesseract. However, Casey then asks Loki what a fish is. Loki questions how he does not know, so Casey explains that he lived his whole life behind a desk. Loki asks him why it would make any difference knowing what a fish is and Casey says that he wants to know what he is being threatened with before complying. When Loki tells him that he is being threatened with violent and painful death, Casey decides to comply. Casey opens a drawer from his cart and picks the Tesseract, giving it back to Loki. However, Loki then looks inside the drawer and is surprised upon seeing several other Infinity Stones which were rendered powerless inside the TVA. He asks Casey how he has those stones, and Casey replies that they normally get many of them and some workers even use the stones as paperweights. Hearing this, Loki becomes perplexed, he looks around and wonders if the TVA holds the greatest power in the entire universe. 
+
+Then, Hunter B-15, who has been searching for Loki since he escaped from the Time Theater, appears alongside her Minutemen and attempts to prune Loki with her Time Stick. Loki manages to escape using the Time Twister, but B-15 hits and disintegrates the cart with the Infinity Stones and almost hits Casey. After almost being pruned, Casey complains to B-15, but she just ignores him and leaves to search for Loki again, making him say that he won't forgive her for this. Casey is later seen with two judges of the TVA, telling them how Loki threatened to turn him into a fish before B-15 showed up and pruned his cart. Suddenly, B-15 appears in front of him after Loki managed to sent her away using the Time Twister. Casey tells B-15 that Loki got away, but she just looks at him irritated and goes to look for Loki again.
+
+[[File:Loki takes Casey's drink - Loki EP2.png|thumb|left|250px|Loki takes Casey's drink while explaining his theory to Mobius at the lunch room.]]
+
+In the [[The Variant|second episode]], when Loki goes to talk with Mobius at the lunch room, Casey is sitting at one of the tables and eating his lunch. As Loki has a theory that apocalypse events are great hiding places for a Variant, he picks Mobius' lunch and starts to throw salt and pepper while explaining the theory, but when he needs something to represent the apocalypse, he picks up the can Mobius is drinking from and realizes that it is empty, so he turns around and goes to Casey's table. Casey immediately recognizes Loki and starts to talk to him. But before Casey can say anything else, Loki quickly greets him and takes his drink, saying that he needs it for a second. Loki then goes back to explain his theory to Mobius while Casey looks at him confused from his table.
+
+In the [[For All Time. Always.|final episode]] of the season, after [[Sylvie Laufeydottir|Sylvie]] killed the creator of the TVA, [[He Who Remains]], the [[Sacred Timeline]] branches innumerous times. This allows a Variant of He Who Remains, [[Kang]], to found a new version of the organization, where a Variant of Casey works as the Hunter K-5E. While the timeline is branching, Hunter K-5E and the Minutemen are called to the armory to help to protect the Sacred Timeline.
+
+==Gallery==
+<gallery position="center" widths="185" spacing="small">
+Casey - Loki EP1.png
+Casey Tesseract - Loki EP1.png
+Loki and Casey - Loki EP1.png
+Loki fascinated.jpg
+Loki takes Casey's drink - Loki EP2.png
+</gallery>
+
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/disney/images/c/cb/MCU_Favicon.png|marvelcinematicuniverse|Casey|Marvel Cinematic Universe Wiki}}
+
+{{Marvel Cinematic Universe}}
+
+{{DISPLAYTITLE:Casey}}
+[[Category:Males]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Live-action characters]]
+[[Category:Time Variance Authority agents]]
+[[Category:Neutral characters]]
+[[Category:Time travelers]]
+[[Category:Soldiers]]
+[[Category:Commanders]]
+[[Category:Henchmen]]
+[[Category:Adults]]
+[[Category:Loki characters]]
+[[Category:Alternate Timeline Versions]]
+[[Category:Interdimensional characters]]

@@ -1,0 +1,43 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|name = No One Will Save You
+|image = 
+|director = Brian Duffield
+|producer = Brian Duffield<br>Tim White<br>Trevor White<br>Allan Mandelbaum
+|writer = Brian Duffield
+|starring = Kaitlyn Dever
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[20th Century Studios]]<br>Star Thrower Entertainment
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = 
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = }}
+'''''No One Will Save You''''' is an upcoming American film written and directed by Brian Duffield. It is produced by [[20th Century Studios]].
+
+==Cast==
+*Kaitlyn Dever as TBA
+
+==Production==
+On April 19, 2021, it was reported that 20th Century Studios had acquired the spec script ''No One Will Save You''. Brian Duffield wrote the film and will direct it, with Kaitlyn Dever set to star in the film.<ref>[https://deadline.com/2021/04/20th-century-no-one-will-save-you-kaitlyn-dever-attached-to-star-1234739719/ 20th Century Lands Spec Script 'No One Will Save You' With Kaitlyn Dever Attached to Star]</ref>
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+
+{{DISPLAYTITLE:''No One Will Save You''}}
+[[Category:Upcoming films]]
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:20th Century Studios films]]
+[[Category:20th Century Studios]]

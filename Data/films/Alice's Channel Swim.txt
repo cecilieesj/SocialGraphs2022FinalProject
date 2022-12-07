@@ -1,0 +1,25 @@
+{{NeedImage}}
+{{Infobox film
+|name = Alice's Channel Swim
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[June 13]], [[1927]]
+|preceded = ''[[Alice's Picnic]]''
+|followed = ''[[Alice in the Klondike]]''
+}}
+'''''Alice's Channel Swim''''' is a [[1927]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+[[Julius the Cat|Julius]] and [[Pete]] match swimming skills in a race across the English Channel with [[Alice]] as the referee.
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=62 Alice's Channel Swim] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+{{FilmStub}}
+[[Category:Animated shorts]]
+[[Category:1927 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Lost cartoons]]
+[[Category:Pete Shorts]]

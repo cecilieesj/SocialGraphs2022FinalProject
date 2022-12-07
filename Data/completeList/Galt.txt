@@ -1,0 +1,26 @@
+{{Infobox character
+|name = Galt
+|image = Galt.png
+|shows = ''[[Tron: Uprising]]''
+|voice = [[Adam DeVine]]
+|fate = Gets derezzed by Kobol|enemies = [[Beck]] [[Tron]] [[Lux]]|alignment = Bad}}
+
+'''Galt''' is a young program from the [[Disney XD]] series ''[[Tron: Uprising]]''. In "[[Identity]]", Galt steals [[Beck]]'s [[Identity Disc]] and sells it. When [[Beck]], [[Tron (character)|Tron]], and [[Lux (Tron: Uprising)|Lux]] go to a club, they see Galt and chase him down a hallway. A hand with a disc breaks through the wall and derezzes Galt.
+==Gallery==
+<gallery>
+Galt disc.png|Galt with [[Beck]]'s disc.
+</gallery>
+
+{{Tron}}
+{{CharacterStub}}
+[[Category:Tron characters]]
+[[Category:Programs]]
+[[Category:Males]]
+[[Category:TV Animation characters]]
+[[Category:Tron: Uprising characters]]
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Animated characters]]
+[[Category:Deceased characters]]
+[[Category:Villains]]
+[[Category:Disney XD characters]]

@@ -1,0 +1,29 @@
+{{Infobox_character|
+|image = TownCrier.PNG
+|films = ''[[Cinderella (2015 film)|Cinderella]]''
+|actor = Alex MacQueen
+|occupation = Town Crier
+|quote = "Here ye, here ye!"
+|alignment = Neutral|
+enemies = [[Lady Tremaine]], [[Anastasia Tremaine]], [[Drizella Tremaine]]
+|friends = [[Cinderella (character)|Ella]], [[The King (Cinderella)|The King]], [[Prince Charming|Kit]], [[Captain (Cinderella 2015)|Captain]]
+|status = Active}}
+{{Quote|There shall be held at the palace a royal ball. Every maiden in the kingdom, be they noble or common, is invited to attend.|The Town Crier}}
+
+The '''Town Crier''' is a minor character in the [[2015]] adaptation of ''[[Cinderella (2015 film)|Cinderella]]''.
+
+==History==
+In this version, the town crier is the liaison between the royalty and the common folk of the kingdom. He appears in the movie on three separate occasions. The first in the market when he announces a royal ball which every maiden in the kingdom is invited to. The second at the ball itself when he is announcing each person attending the ball. The third and final time he appears is when he informs every maiden to try on the [[Glass Slipper]].
+
+{{CharacterStub}}
+{{Cinderella}}
+[[Category:Cinderella characters]]
+[[Category:Disney characters]]
+[[Category:Males]]
+[[Category:Adults]]
+[[Category:Mayors]]
+[[Category:Characters]]
+[[Category:Live-action characters]]
+[[Category:Neutral characters]]
+[[Category:European characters]]
+[[Category:Characters introduced in remakes]]

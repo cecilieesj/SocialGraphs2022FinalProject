@@ -1,0 +1,50 @@
+{{Episode
+|series = [[Walt Disney anthology series|The Disney Sunday Movie]]
+|title = Love Leads the Way: A True Story
+|season = 30
+|number = 
+|image = 224.jpg
+|caption = 
+|production = 
+|airdate = [[October 7]], [[1984]] (original date)<br>[[May 4]], [[1986]] (re-airing)
+|writer = Henry Denker<br>Jimmy Hawkins
+|director = Delbert Mann
+|previous = "[[Robin Hood]]"
+|next = "[[Young Again]]"}}
+'''''Love Leads the Way: A True Story''''' is a [[1984]] television film that originally aired on the [[Disney Channel]] on [[October 7]], [[1984]]. It was later re-aired on ''[[Walt Disney anthology series|The Disney Sunday Movie]]'' on [[ABC]] on [[May 4]], [[1986]] as '''''Love Leads the Way'''''. The telefilm was directed by Delbert Mann and written by Henry Denker and Jimmy Hawkins.
+
+==Synopsis==
+A recently blinded man becomes one of the first American users of a seeing eye dog and must fight to remove the legal barriers impeding its use.
+
+==Cast==
+*Timothy Bottoms as Morris Frank
+*Susan Dey as Beth
+*Glynnis O'Connor as Lois
+*Richard Speight Jr. as Jimmy
+*[[Arthur Hill]] as Mr. Frank
+*Patricia Neal as Mrs. Frank
+*Eva Marie Saint as Mrs. Eustes
+*Bill Ewin as Emmett (the postman)
+*Ralph Bellamy as Sen. Christi
+*Ernest Borgnine as Sen. Brighton
+*Pilot as Buddie - the dog
+*Michael Anderson Jr. as Hank
+*Gerald Hiken as Jack
+*Richard Roat as Proprietor
+*Stephen Young as Mike McShane
+*Eugene Pidgeon as Nate
+*Henry O. Arnold as Bus Driver
+*George Wallace Blind as Institute Director
+
+==Gallery==
+<gallery position="center" spacing="small">
+Love-leads-the-way-600x600.jpg
+91KrB+5yCUL. SL1500 .jpg
+</gallery>
+
+{{Disney Channel Movies}}
+[[Category:Disney films]]
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:1984 films]]
+[[Category:Disney Channel Original Movies]]

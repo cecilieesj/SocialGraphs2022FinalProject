@@ -1,0 +1,112 @@
+{{Marvel Database:Film Template
+| Image                   = Big Hero (film) poster 006.jpg
+| Image2                  = Big Hero 6 Logo.png
+| Image3                  = Big Hero (film) poster 001.jpg
+| Image4                  = Big Hero (film) poster 002.jpg
+| Image5                  = Big Hero (film) poster 003.jpg
+| Image6                  = Big Hero (film) poster 004.jpg
+| Image7                  = Big Hero (film) poster 005.jpg
+| Image8                  = Big Hero (film) poster 007.jpg
+| Image9                  = Big Hero (film) poster 008.jpg
+| Image10                 = Big Hero (film) poster 009.jpg
+| Aliases                 = Baymax <small>(Japanese & German title)</small>
+
+| Directors               = Don Hall; Chris Williams
+| Producers               = Roy Conli
+| ScreenplayWriters       = Robert L. Baird; Dan Gerson; Jordan Roberts
+| StoryWriters            = Don Hall; Jordan Roberts
+| Musicians               = Henry Jackman
+| Cinematographers        = Julia Mocot
+| Editors                 = Tim Mertens
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Walt Disney Pictures; Walt Disney Animation Studios
+| Running Time            = 102 minutes
+| Rating                  = '''MPAA:''' Rated PG for action and peril, some rude humor, and thematic elements
+| Budget                  = $165 million
+| Release Date            = November 7, 2014
+
+| AM ID                   = big-hero-6-v572990
+| IMDB ID                 = 2245084
+| Marvel Movies           = Big Hero 6 (film)
+
+| Previous Film           = 
+| Next Film               = Big Hero 6: The Series Season 1 1
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Big Hero 6 (Earth-14123)|Big Hero 6]]}}
+** {{1st|[[Hiro Hamada (Earth-14123)|Hiro Hamada]]}} {{Joins}}
+** {{1st|[[Ethel Tomago (Earth-14123)|GoGo Tomago]]}} {{Joins}}
+** {{1st|[[Wasabi (Earth-14123)|Wasabi]]}} {{Joins}}
+** {{1st|[[Honey Lemon (Earth-14123)|Honey Lemon]]}} {{Joins}}
+** {{1st|[[Frederick Frederickson IV (Earth-14123)|Fred]]}} {{Joins}}
+** {{1st|[[Baymax (Earth-14123)|Baymax]]}} {{Joins}}
+'''Supporting Characters:'''
+* {{Only Dies|[[Tadashi Hamada (Earth-14123)|Tadashi Hamada]]}}
+* {{1st|[[Aunt Cass (Earth-14123)|Aunt Cass]]}}
+'''Antagonists:'''
+* {{1st|[[Mr. Yama (Earth-14123)|Mr. Yama]]}}
+* {{1st|[[Bot Fight Ringleader (Earth-14123)|Ringleader]]}}
+* {{1st|[[Robert Callaghan (Earth-14123)|Yokai (Professor Robert Callaghan)]]}}
+'''Other Characters:'''
+* {{1st|[[Alistair Krei (Earth-14123)|Alistair Krei]]}}
+* Judy
+* {{1st|[[Abigail Callaghan (Earth-14123)|Abigail Callaghan]]}}
+* {{1st|[[Heathcliff (Earth-14123)|Heathcliff]]}}
+* {{1st|[[Frederick Frederickson III (Earth-14123)|Frederick Frederickson III]]}} {{Cameo}}
+* {{1st|[[Mochi (Earth-14123)|Mochi]]}}
+* Fred's mom
+* {{Drawing|[[Monark (Earth-7643)|Monark]]}}
+* {{Drawing|[[Ulysses (Robot Falcon) (Earth-7643)|Ulysses]]}}
+'''Locations:'''
+* {{1st|[[Earth-14123]]}}
+** [[San Francisco|San Fransokyo]]
+*** Aunt Cass' house
+*** San Fransokyo's Institute of Technology
+*** Krei Tech headquarters
+'''Items:'''
+* {{1st|[[Microbots]]}}
+* {{1st|[[Baymax Armor]]}}
+** Baymax 1.0
+** Baymax 2.0
+* {{1st|[[Hiro's Battlesuit]]}}
+* {{1st|[[Go-Go Tomago's Battlesuit|GoGo Tomago's Battlesuit]]}}
+* {{1st|[[Power Purse]]}}
+* {{1st|[[Wasabi's Battlesuit]]}}
+* {{cl|Marvel Premiere Vol 1 32}}
+'''Vehicles:'''
+* Wasabi's Van
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Ryan Potter|Ryan Potter]] as Hiro Hamada<ref name="Voice Cast">{{cite web|url=http://www.usatoday.com/story/life/movies/2014/07/13/big-hero-6-character-reveal-exclusive/12535005/|title=Meet the saviors of San Fransokyo in 'Big Hero 6'|last=Truitt|first=Brian|work=USA Today|date=13 July 2014|accessdate=14 July 2014}}</ref>
+
+* [[wikipedia:Scott Adsit|Scott Adsit]] as Baymax<ref name="Voice Cast"/>
+
+* [[Wikipedia:T. J. Miller|T. J. Miller]] as Fred<ref>{{cite web|url=http://www.rotoscopers.com/2014/03/27/comedian-tj-miller-is-first-voice-actor-announced-for-disneys-big-hero-6/|title=Comedian TJ Miller is First Voice Actor Announced for Disney’s ‘Big Hero 6′ – He’s Voicing Fred!|last=Stradling|first=Morgan|date=28 March 2014|accessdate=29 March 2014|work=Rotoscopers}}</ref>
+
+* [[wikipedia:Jamie Chung|Jamie Chung]] as Go Go Tomago<ref name="Maya">{{cite web|url=http://www.thewrap.com/disneys-big-hero-6-adds-maya-rudolph-top-secret-voice-cast-exclusive/|title=Disney's 'Big Hero 6' Adds Maya Rudolph to Top-Secret Voice Cast (Exclusive)|last=Sneider|first=Jeff|work=The Wrap|date=28 April 2014|accessdate=29 April 2014}}</ref>
+
+* [[wikipedia:Génesis Rodríguez|Génesis Rodríguez]] as Honey Lemon<ref name="Voice Cast"/>
+
+* [[wikipedia:Damon Wayans, Jr.|Damon Wayans, Jr.]] as Wasabi<ref name="Voice Cast"/>
+
+* [[wikipedia:Maya Rudolph|Maya Rudolph]] as Aunt Cass<ref name="Maya"/><ref name="Slides">{{cite web|url=http://blogs.disney.com/oh-my-disney/2014/07/13/six-reasons-we-cant-wait-to-see-big-hero-6/|title=Cast Announcement: Six Reasons We Can’t Wait to See Big Hero 6|work=Disney.com|date=13 July 2014|accessdate=14 July 2014}}</ref>
+
+* [[wikipedia:James Cromwell|James Cromwell]] as Professor Robert Callaghan<ref name="Slides"/>
+
+* [[wikipedia:Alan Tudyk|Alan Tudyk]] as Alistair Krei<ref name="Slides"/>
+
+* [[wikipedia:Daniel Henney|Daniel Henney]] as Tadashi Hamada<ref name="Slides"/>
+
+* [[Stan Lee|Stan Lee]] as [[Frederick Frederickson III (Earth-14123)|Frederick Frederickson III]]
+
+| Notes                   = * In March 2016, it was announced that a [[Big Hero 6: The Series|2D-animated tv-series]] of ''Big Hero 6'' was under development, planned for a 2017 release on Disney XD.<ref>{{cite news | first = Bryn Elise| last = Sandberg| url = http://www.hollywoodreporter.com/live-feed/big-hero-6-tv-series-872040| title = 'Big Hero 6' TV Series Set for Disney XD| work = Hollywood Reporter| date = 2016-03-02| accessdate = 2016-12-14}}</ref>
+| Trivia                  = * This was the first theatrically-released animated film based on the Marvel Comics.
+* This film became the first comic book film to win an [[wikipedia:Academy Award for Best Animated Feature|Oscar for Best Animated Feature]].
+* As revealed on Disney Interactive's Twitter account, this film would later be adapted into the ''Kingdom Hearts'' video game series for ''[[w:c:kingdomhearts:Kingdom Hearts III|Kingdom Hearts III]]'', which made it the first Marvel-related production to be placed into that series.<ref>{{cite web|url= https://twitter.com/DisneyInteract/status/632979757576024064|title= Just announced: @KINGDOMHEARTS III will feature a world based on #BigHero6! #D23Expo|accessdate= 2016-12-14|author= Disney Interactive|date= 2015-08-16|year= 2015|month= 08|work= Twitter|archiveurl= http://archive.is/zrIHr|archivedate=2016-12-14}}</ref>
+| Links                   = *[[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[es:Grandes Héroes (película)]]
+[[pl:Wielka Szóstka (2014)]]
+[[tr:6 Süper Kahraman (film)]]

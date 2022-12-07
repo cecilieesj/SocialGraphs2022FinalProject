@@ -1,0 +1,36 @@
+{{Species Infobox
+|image = Puffer Pig.png
+|name = Puffer Pig
+|shows = ''[[Star Wars Rebels]]''
+|games = ''[[Disney Infinity: 3.0 Edition]]''
+|inspiration = Pig<br>Puffer fish
+|alias = Pig
+|appearance = 
+|behaviour = 
+|occupation = 
+|alignment = Neutral
+|abilities = Inflate<br>Strong sense of smell}}A '''Puffer Pig''' is an alien mammal-like species that, when scared, will blow itself to massive size similar to the Puffer-fish or Blow Fish on Earth. It is also capable of detecting underground minerals more sensitively than any droid. The Puffer Pig appeared in ''[[Star Wars Rebels]]''. It is owned by [[Lando Calrissian]].
+
+==Gallery==
+<gallery position="center">
+Puffer Pig Info.jpg
+</gallery>
+
+==External links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/starwars/images/6/64/Favicon.ico|starwars|Puffer pig|Wookieepedia}}
+*{{SW|url=/databank/puffer-pig|text=Puffer pig}}
+
+{{CharacterStub}}
+{{Star Wars}}
+{{Disney Infinity}}
+[[Category:Characters]]
+[[Category:Creatures]]
+[[Category:Aliens]]
+[[Category:Animated characters]]
+[[Category:Star Wars Rebels]]
+[[Category:Pigs]]
+[[Category:TV Animation characters]]
+[[Category:Star Wars creatures]]
+[[Category:Neutral characters]]
+[[Category:Characters in video games]]
+[[Category:Disney Infinity characters]]

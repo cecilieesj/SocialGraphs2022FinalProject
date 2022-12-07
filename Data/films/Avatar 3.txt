@@ -1,0 +1,74 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox_film
+|image = 
+|director = [[James Cameron]]
+|producer = James Cameron<br>Jon Landau
+|writer = James Cameron<br>Rick Jaffa<br>Amanda Silver
+|starring = Sam Worthington<br>[[Zoe Saldana]]<br>Stephen Lang<br>Giovanni Ribisi<br>Joel David Moore<br>[[Kate Winslet]]<br>Dileep Rao<br>[[C.C.H. Pounder]]<br>Matt Gerald<br>[[Sigourney Weaver]]
+|music = Simon Franglen 
+|cinematography = Russell Carpenter
+|editor = David Brenner<br>James Cameron<br>John Refoua<br>Stephen E. Rivkin
+|studio = [[20th Century Studios]]<br>Lightstorm Entertainment 
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = [[December 20]], [[2024]]
+|language = English
+|budget = $333 million
+|preceded = ''[[Avatar: The Way of Water]]''
+|followed = ''[[Avatar 4]]''
+|website = https://www.avatar.com/
+|imdb_id = 1757678}}
+'''''Avatar 3''''' is an upcoming epic science fiction film directed by [[James Cameron]] and produced by [[20th Century Studios]]. It is a direct sequel to ''[[Avatar: The Way of Water]]'' and it is set to be released on [[December 20]], [[2024]].<ref>[https://collider.com/avatar-sequels-new-release-dates-delayed/ The ‘Avatar’ Sequels Have Been Delayed Again, So I Guess Things Are Returning to Normal]</ref>
+
+==Cast==
+===Na'vi===
+*Sam Worthington as Jake Sully: A former human who fell in love with Neytiri and befriended the Na'vi after becoming a part of the Avatar Program, eventually taking their side in their conflict with humans and leading them to victory; at the end of the first film, he becomes the new leader of the Omaticaya (the Na'vi clan central to the story) alongside Mo'at and transfers his mind into his avatar permanently.
+*[[Zoe Saldana]] as Neytiri: Daughter to the previous clan chief, future Tsahìk of the clan, and mate to Jake Sully.
+*C.C.H Pounder as Mo'at: The Omaticaya's spiritual leader and Neytiri's widowed mother.
+*Cliff Curtis as Tonowari: The leader of the reef people clan of Metkayina.
+*Jamie Flatters as Neteyam: Jake and Neytiri's first son and oldest child.
+*Britain Dalton as Lo'ak: Jake and Neytiri's second son.
+*Trinity Bliss as Tuktirey: Jake and Neytiri's eight-year-old daughter and their youngest child.
+*Bailey Bass as Tsireya: A graceful and strong free-diver of the Metkayina.
+*Filip Geljo as Aonung: A young male hunter and free-diver of the Metkayina.
+*Duane Evans Jr. as Rotxo: A young male hunter and free-diver of the Metkayina.
+*[[Kate Winslet]] as as Ronal: A free-diver of the Metkayina.
+
+===Humans===
+*Giovanni Ribisi as Parker Selfridge: The corporate administrator for the RDA mining operation in the first film.
+*Joel David Moore as Dr. Norm Spellman: A former part of the Avatar Program who chose to side with the Na'vi in the first film.
+*Dileep Rao as Dr. Max Patel: A scientist who worked in the Avatar Program and came to support Jake's rebellion against the RDA in the first film.
+*Matt Gerald as Corporal Lyle Wainfleet: A mercenary who fought for the RDA against the Na'vi in the first film.
+*Jack Champion as Miles "Spider" Socorro: A teenager born on Hell's Gate (the human base on Pandora in the first film) but who "prefers his time in the Pandoran rainforest".
+*Edie Falco as General Ardmore: The commander in charge of the RDA's interests.
+*Brendan Cowell as Captain Mick Scoresby: The head of a private sector marine hunting vessel on the planet of Pandora.
+*[[Michelle Yeoh]] as Dr. Karina Mogue
+*Jemaine Clement as Dr. Ian Garvin: A Marine biologist.
+*Stephen Lang as Colonel Miles Quaritch
+*Oona Chaplin as Varang
+
+==Production==
+On July 31, 2017, it was announced that the New Zealand-based visual effects studio Weta Digital had commenced work on the ''Avatar'' sequels.<ref>[https://variety.com/2017/artisans/news/avatar-sequels-progress-to-next-level-as-weta-digital-begins-visual-effects-work-on-the-films-james-cameron-1202510639/ 'Avatar' Sequels Progress to Next Level as Weta Digital Begins Visual Effects Work]</ref>
+
+Principal photography on ''[[Avatar 2]]'' and ''3'' began simultaneously on September 25, 2017, in Manhattan Beach, [[California]].<ref>[https://deadline.com/2017/09/avatar-james-cameron-four-consecutive-sequels-1-billion-budget-1202176798/ 'Avatar' Starts Production Today On Four Consecutive Sequels At Over $1 Billion Budget]</ref> Filming on the next two sequels will begin after wrapping the post-production on first two sequels.<ref>[https://www.hollywoodreporter.com/features/james-cameron-doubles-down-wonder-woman-critique-details-avatar-sequels-1043026 Kames Cameron Doubles Down on 'Wonder Woman' Critique, Details the 'Avatar' Sequels]</ref>
+
+According to producer Jon Landau, live-action filming for ''Avatar 3'' and its predecessor commenced in New Zealand in early 2019.<ref>[https://collider.com/avatar-sequels-filming-live-action/ Exclusive: 'Avatar' Sequels Begin Filming Live-Action Sequences This Spring in New Zealand]</ref>
+
+In September 2020, Cameron announced that 95% of ''Avatar 3'' had been completed.<ref>[https://deadline.com/2020/09/james-cameron-avatar-2-complete-avatar-3-95-percent-finished-covid-new-zealand-video-1234586091/ James Cameron Says 'Avatar 2' Filming Is 100% Complete, 'Avatar 3' 95% Finished; Praises New Zealand COVID Response]</ref>
+
+==References==
+{{Reflist}}
+
+==External Links==
+*{{WP}}
+*{{IMDb|title/tt1757678}}
+*[[w:c:james-camerons-avatar:Avatar 3|Avatar 3]] on [[w:c:james-camerons-avatar|Avatar Wiki]]
+{{Avatar}}
+{{DISPLAYTITLE:''Avatar 3''}}
+[[Category:Avatar]]
+[[Category:Live-action films]]
+[[Category:Sequel films]]
+[[Category:20th Century Fox films]]
+[[Category:2024 films]]
+[[Category:3-D films]]
+[[Category:4DX films]]

@@ -1,0 +1,56 @@
+{{Episode
+| series     = [[Walt Disney anthology series|The Disney Sunday Movie]]
+| title      = Young Harry Houdini
+| season     = 31
+| number     = 20
+| image      = 1987-houdini-1.jpg
+| caption    = 
+| production = 
+| airdate    = [[March 15]], [[1987]]
+| writer     = James Orr<br>Jim Cruickshank
+| director   = James Orr
+| previous   = "[[Bigfoot (1987 telefilm)|Bigfoot]]"
+| next       = "[[Bedknobs and Broomsticks]]"}}
+'''''Young Harry Houdini''''' is a made-for-television movie, originally broadcast as an episode of ''[[Walt Disney anthology series|The Disney Sunday Movie]]'' on [[March 15]], [[1987]].
+
+==Synopsis==
+This biographical movie depicts the youth of the magician [[Harry Houdini ]] (1874 - 1926). As a boy his name was Eric Weiss and his father wanted him to become a locksmith. But he ran away and joined the traveling show of Dr. Grimaldi, where he learned the tricks of a magician and a little mystery from his Indian assistant, too.
+
+==Cast==
+*[[Wil Wheaton]] ... Ehrich Weiss / Young [[Harry Houdini]]
+*Jeffrey DeMunn ... Adult Harry Houdini
+*Kerri Green ... Calpernia
+*Barry Corbin ... Elmore
+*[[Roy Dotrice]]... Sir Arthur Conan Doyle
+*J. Reuben Silverbird ... John Parker
+*Rossie Harris ... Theo (as Ross Harris)
+*José Ferrer ... Dr. Tybalt Grimaldi (as Jose Ferrer)
+*Phil Brock ... Wesley
+*Michael Alldredge ... Yardbull
+*Sean McClory ... Sean O'Casey (as Seán McClory)
+*Lee de Broux ... Marshall
+*Rita Zohar ... Mrs. Weiss
+*J.C. Quinn ... Slats
+*Mike Pniewski ... Large Miner (as Michael Pniewski)
+*Mark Lonow ... Assistant
+*Byrne Piven ... Rabbi Weiss
+*Tony Becker ... Albert
+*[[Val Bettin]] ... Dr. Allworth
+*Alan David Gelman ... Bobby
+*Oliver Muirhead ... Bobby
+*Billy McComb ... Merlin
+*Arlee Reed ... Policeman
+*Bob Stephens ... Bartender
+
+==Gallery==
+<gallery position="center">
+1987-houdini-2.jpg
+1987-houdini-3.jpg
+1987-houdini-4.jpg
+</gallery>
+[[Category:1987 films]]
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Walt Disney anthology series episodes]]
+[[Category:Television episodes]]
+[[Category:Biographical films]]

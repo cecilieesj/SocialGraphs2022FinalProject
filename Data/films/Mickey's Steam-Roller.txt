@@ -1,0 +1,66 @@
+{{Infobox film
+|image = Mickeyssteamrollertitle.jpg
+|director = [[David Hand]]
+|producer = [[Walt Disney]]
+|starring = [[Walt Disney]]<br>[[Marcellite Garner]]
+|music = [[Frank Churchill]]<br>Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[United Artists]]
+|release = [[June 16]], [[1934]]
+|time = 7:00
+|language = English
+|preceded = ''[[Gulliver Mickey]]''
+|followed = ''[[Orphan's Benefit (1934)|Orphan's Benefit]]''
+|imdb_id = 0025498
+}}
+'''''Mickey's Steam-Roller''''' is a ''[[Mickey Mouse]]'' cartoon that was released on [[June 16]], [[1934]]. It is notably the first animated appearance of Mickey's nephews, [[Morty and Ferdie Fieldmouse]].
+
+==Plot==
+While streetworker Mickey romances Minnie, Mickey's nephews Morty and Ferdie take control of his steamroller and it's full speed ahead on a very destructive ride.
+
+==Trivia==
+*The short appears as a transition level in ''[[Epic Mickey]]''.
+
+==Characters==
+*[[Mickey Mouse]] (voiced by [[Walt Disney]])
+*[[Minnie Mouse]] (voiced by [[Marcellite Garner]])
+*[[Morty and Ferdie Fieldmouse]]
+
+==Releases==
+===Television===
+*''[[The Ink and Paint Club]]'', episode #1.23: "The "Other" Mice"
+
+===Home video===
+'''VHS'''
+*''Mickey's Family Album''
+
+'''Laserdisc'''
+*''Mickey Mouse: A Star is Born''
+*''Mickey's Family Album''
+
+'''DVD'''
+*''[[Walt Disney Treasures]]: Mickey Mouse in Black-and-White''
+*''[[Vintage Mickey]]''
+
+==Gallery==
+<gallery position="center" spacing="small" widths="150">
+20805.jpg
+20806.jpg
+20807.jpg
+20810.jpg
+20811.jpg
+20812.jpg
+MICKEYS STEAMROLLER.png
+Mickey's steamroller 1.jpg
+Mickey's Steamroller Projector.png
+Ml35pop2.jpg
+The steamroller poster.jpg
+</gallery>
+
+{{Mickey-Series}}
+{{Minnie-Series}}
+[[Category:Animated shorts]]
+[[Category:Mickey Mouse shorts]]
+[[Category:Minnie Mouse shorts]]
+[[Category:1934 shorts]]
+[[Category:Epic Mickey transition levels]]

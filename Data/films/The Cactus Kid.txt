@@ -1,0 +1,68 @@
+{{Infobox film
+|image = Cactus-main-01.jpg
+|imagewidth = 250px
+|name = The Cactus Kid
+|director = [[Walt Disney]]
+|producer = [[Walt Disney]]
+|writer = 
+|starring = [[Walt Disney]]<br>[[Marcellite Garner]]<br>[[Pinto Colvig]]
+|music = Bert Lewis
+|studio = [[Walt Disney Productions]]
+|distributor = [[Columbia Pictures]]
+|language = English
+|release = [[May 15]], [[1930]]
+|time = 7:25
+|preceded = ''[[The Barnyard Concert]]''
+|followed = ''[[The Fire Fighters]]''
+}}
+'''''The Cactus Kid''''' is a ''[[Mickey Mouse]]'' cartoon that debuted [[May 15]], [[1930]].
+
+==Synopsis==
+Riding in on Horace, Mickey enters a western town, fails to impress a Mexican Minnie with his mischievous antics, but succeeds in saving her from the dastardly Pegleg Pedro.
+
+==Characters==
+*[[Mickey Mouse]] (voiced by [[Walt Disney]])
+*[[Minnie Mouse]] (voiced by [[Marcellite Garner]])
+*[[Pete]] (voiced by [[Pinto Colvig]])
+*[[Horace Horsecollar]]
+
+==Trivia==
+*The film's copyright was renewed on [[December 16]], [[1957]].<ref>[https://archive.org/details/catalogofcopyrig3111213li/page/110/mode/1up Catalog of Copyright Entries (1957 renewals)]</ref>
+*Marcellite Garner makes her debut as the official voice of Minnie Mouse.
+
+==Releases==
+===Television===
+* ''[[Mickey's Mouse Tracks]]'', episode #31
+* ''[[Donald's Quack Attack]]'', episode #22
+* ''[[The Ink and Paint Club]]'', episode #1.11: "The Many Lives of Pegleg Pete"
+===Home video===
+* ''[[Walt Disney Treasures]]: Mickey Mouse in Black and White, Volume 2'' (DVD)
+
+==Gallery==
+<gallery spacing="small" position="center" widths="150">
+12005.jpg
+12006.jpg
+12007.jpg
+12010.jpg
+12011.jpg
+12012.jpg
+CactusKidAnim1.JPG
+CactusKidAnim2.jpg
+CactusKidAnim3.JPG
+Cactus kid mickey 1930.jpg
+Re29f1d2279bd0c0ea5692d015cc19044.jpeg
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Mickey-Series}}
+{{Minnie-Series}}
+
+{{DEFAULTSORT:Cactus Kid, The}}
+[[Category:Animated shorts|Cactus Kid, The]]
+[[Category:Mickey Mouse shorts|Cactus Kid, The]]
+[[Category:Minnie Mouse shorts]]
+[[Category:Western Films]]
+[[Category:1930 shorts]]
+[[Category:Pete Shorts]]

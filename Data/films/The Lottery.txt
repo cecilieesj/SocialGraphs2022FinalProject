@@ -1,0 +1,36 @@
+{{Infobox_film
+|image = The Lottery.png
+|name = The Lottery
+|director = [[Garry Marshall]]
+|music = Jimmy Dunne
+|cinematography = Billy Williams
+|studio = [[The Walt Disney Company]]
+|release = [[May 1]], [[1989]]
+|time = 3 minutes
+|language = English
+|imdb_id = 0204453}}
+'''''The Lottery''''' is a [[1989]] film directed by [[Garry Marshall]] shown at the then [[Disney's Hollywood Studios|Disney MGM Studios]] in line for the first versions of the [[Studio Backlot Tour]]. It was a short comedy film, demonstrating special effects and production making, it stars [[Bette Midler]] as a lady who chases a lottery ticket around New York.
+
+The film was shot at Disney MGM Studios on the New York Set. It took a crew of over 100 people to produce.<ref>[http://vimeo.com/6108702/]</ref>
+
+== Cast ==
+* [[Bette Midler]]
+
+==Gallery==
+<gallery position="center">
+The Lottery at Disney-MGM Studios
+</gallery>
+
+== External references ==
+{{Reflist}}
+
+{{Wikipedia|The Lottery (1989 film)}}
+{{Disney's Hollywood Studios}}
+{{DEFAULTSORT:Lottery, The}}
+{{DISPLAYTITLE:''The Lottery''}}
+[[Category:Articles with Wikipedia content]]
+[[Category:1989 shorts]]
+[[Category:Live-action films]]
+[[Category:Disney films]]
+[[Category:Disney's Hollywood Studios]]
+[[Category:Film attractions]]

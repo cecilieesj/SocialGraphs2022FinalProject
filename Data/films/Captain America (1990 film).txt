@@ -1,0 +1,101 @@
+{{Marvel Database:Film Template
+| Image                   = Captain America (1990 film) poster.jpg
+| Aliases                 = Captain America
+
+| Directors               = Albert Pyun
+| Producers               = Menahem Golan; Stan Lee; Joseph Calamari; Tom Karnowski
+| ComicWriters            = [[Joe Simon]]; [[Jack Kirby]]
+| StoryWriters            = Stephen Tolkin; Lawrence Block
+| ScreenplayWriters       = Stephen Tolkin
+| Musicians               = Barry Goldberg
+| Cinematographers        = Philip Alan Waters
+| Editors                 = Jon Poll
+| Production Companies    = Marvel Entertainment Group; Jadran Film; 21st Century Film Corporation
+| Distributors            = 20/20 Vision (foreign)<br>Columbia Tristar Home Video (domestically)
+| Running Time            = 97 minutes
+| Rating                  = '''MPAA:''' Rated PG-13
+| Budget                  = $3 million
+| Release Date            = December 14, 1990
+| US Release Date         = July 22, 1992
+
+| AM ID                   = captain-america-v8076
+| IMDB ID                 = 0103923
+| Marvel Movies           = Captain America (1990)
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[Steven Rogers (Earth-697064)|Captain America (Steven Rogers)]]}}
+'''Supporting Characters:'''
+* {{Only Dies|[[Maria Vaselli (Earth-697064)|Doctor Maria Vaselli]]}}
+* {{Only Dies|[[Bernice Stewart (Earth-697064)|Bernice Stewart]]}}
+* [[Louis (Earth-697064)|Lieutenant Colonel Louis]] {{Only}}
+* {{Only|[[Thomas Kimball (Earth-697064)|President Tom Kimball]]}}
+* {{Only Dies|[[Sam Kolawetz (Earth-697064)|Sam Kolawetz]]}}
+* {{Only|[[Sharon Stewart (Earth-697064)|Sharon Cooperman]]}}
+* {{Only|[[Jack Cooperman (Earth-697064)|Jack Cooperman]]}}
+'''Antagonists:'''
+* {{1st|[[National Socialist German Workers Party (Earth-697064)|Nazi Germany]]}}
+** {{Only Dies|[[Tadzio de Santis (Earth-697064)|Red Skull (Tadzio de Santis)]]}}
+** {{Only Dies|[[Richard Erlich (Earth-697064)|Richard Erlich]]}}
+** {{Only Dies|[[Valentina de Santis (Earth-697064)|Valentina de Santis]]}}
+* {{Only|[[Fleming (Earth-697064)|General Fleming]]}}
+'''Other Characters:'''
+* {{Only|[[Sarah Rogers (Earth-697064)|Mrs. Rogers]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+'''Locations:'''
+* {{Only|[[Earth-697064]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[Italy]]}}
+**** [[Wikipedia:Porto Venere|Porto Venere]]
+***** Fortress Lorenzo
+*** {{a|[[United States of America]]}}
+**** {{a|[[Washington, D.C.]]}}
+***** {{a|[[White House]]}}
+**** {{a|[[California (State)|California]]}}
+***** {{a|[[Los Angeles]]}}
+**** {{a|[[Alaska (State)|Alaska]]}}
+*** {{a|[[Germany]]}}
+*** {{a|[[Canada]]}}
+*** {{Mentioned|[[Vietnam]]}}
+'''Items:'''
+* {{a|[[Super-Soldier Serum]]}}
+* {{a|[[Captain America's Shield]]}}
+* {{a|[[Captain America's Uniform]]}}
+'''Vehicles:'''
+* Red Skull's Rocket
+
+| Plot                    = When loyal all-American Steven Rogers is excluded from the World War II draft due to polio, he volunteers for a top-secret government program testing a "Super Serum". The serum elevates Rogers to the peak of human perfection, and he takes up the mantle of Captain America and serves under a junior officer by the name of Thomas Kimball. Rogers also forms a romance with a young woman named Bernice Stewart. One of Mussolini's underlings, a scientist named Tadzio de Santis, is experimenting with biological warfare in the hopes of guaranteeing an Axis victory. De Santis was originally a little boy from a remote village in Italy which had been attacked by Fascist troops and claimed for Mussolini. The Italian army chose to spare the young Tadzio when it was realized his brilliance outshone that of other children, so instead, he was taken to a citadel and placed under the tutelage of Maria Vaselli, an Axis scientist. Vaselli's attempts to create an Axis mirror of the "Super Serum" were tested on her protegee Tadzio, but it ate away at his flesh and warped his mind even further, causing him to forget Mussolini's attack on his village and even murder Maria. Now known as Red Skull, he vows to destroy Captain America. However, a fight causes Captain America to be frozen solid, and Red Skull takes over the citadel as his Italian headquarters.
+
+When Rogers awakens, he finds a much different America. One thing that comforts Rogers is that his former superior officer and old mentor, Thomas Kimball, is still alive has now been elected President of the United States. Steve reunites with his old girlfriend Bernice, only to see she is now elderly and married a long time ago because she thought Rogers had died in the Second World War. However, Bernice's granddaughter Sharon seems taken with Steve Rogers, and offers to help acclimate him to 1990. Through a series of study and history videos about the 1950s, 60s, et cetera. Rogers learns what has happened to American society during his time in stasis, and is largely impressed.
+
+However, Captain America is upset over one thing; his old enemy Red Skull is still alive. Through a series of complex plastic surgeries, Red Skull has been able to somewhat retransform into Tadzio de Santis and has taken charge of a Mafia family that partners with groups that hire him to assassinate leaders they disagree with. Captain America finds out that Red Skull was behind the assassinations of Martin King, Robert Kennedy, and President John Kennedy, as well as the assassination of Elvis Presley (for an unknown reason, as Red Skull says it was his most expensive murder and STILL people cannot accept the assassination). Due to President Kimball announcing his endorsement of the 1990 Environmental Protection Act (a real-life event), Red Skull has been hired by anti-environmentalists to thwart the bill by assassinating Kimball. However, Red Skull has a different plan, as his earlier assassinations made all four men martyrs. Instead of assassinating President Kimball, Red Skull will kidnap Kimball and do a brain transplant. Thus Kimball will be trapped in the body of a freak while Red Skull, as the President, will only pass legislation favorable to the Mafia family and their allies. President Kimball is in Rome as part of a summit, where Red Skull sees his chance as the President is right here in his native country. The Mafia family kidnaps President Kimball from the summit, thanks in part to an American flag officer who has secretly been working for Red Skull. Red Skull starts the mind swap, but the process takes longer than anticipated. Captain America and Sharon are able to free Kimball. In an effort to get Red Skull to regain his humanity, Cap plays a recording of the de Santis family's last night together before Mussolini's attack. However, this only serves to depress Red Skull, who is now willing to commit suicide. Captain America takes advantage of the distraction to throw his shield at Red Skull, causing him to plunge off the citadel walls to his supposed death.
+
+The film ends with a message imploring viewers to support the 1990 Endangered Species Act.
+
+| Cast                    = * [[wikipedia:Matt Salinger|Matt Salinger]] as [[Steven Rogers (Earth-697064)|Captain America / Steve Rogers]]
+* [[wikipedia:Ronny Cox|Ronny Cox]] as [[Thomas Kimball (Earth-697064)|President Tom Kimball]]
+** Garrette Ratliffe portrays President Kimball as a boy
+* Scott Paulin as [[Tadzio de Santis (Earth-697064)|Red Skull / Tadzio de Santis]]
+** Massimilio Massimi portrays Tadzio de Santis as a boy, before his transformation into the Red Skull
+* [[wikipedia:Ned Beatty|Ned Beatty]] as [[Sam Kolawetz (Earth-697064)|Sam Kolawetz]]
+** Thomas Beatty, Ned's son, portrays Sam Kolawetz as a boy
+* [[wikipedia:Darren McGavin|Darren McGavin]] as [[General Fleming (Earth-697064)|General Fleming]]
+** [[wikipedia:Bill Mumy|Bill Mumy]] portrays a younger Fleming
+* [[wikipedia:Francesca Neri|Francesca Neri]] as [[Valentina de Santis (Earth-697064)|Valentina de Santis]]
+* [[wikipedia:Michael Nouri|Michael Nouri]] as Lt. Col. Louis
+* Kim Gillingham as [[Sharon Stewart (Earth-697064)|Sharon Cooperman]] and [[Bernice Stewart (Earth-697064)|Bernice Stewart]]
+* [[wikipedia:Melinda Dillon|Melinda Dillon]] as [[Sarah Rogers (Earth-697064)|Sarah Rogers]]
+* [[wikipedia:Carla Cassola|Carla Cassola]] as [[Maria Vaselli (Earth-697064)|Dr. Maria Vaselli]]
+* [[wikipedia:Wayde Preston|Wayde Preston]] as [[Jack Cooperman (Earth-697064)|Jack Cooperman]]
+* [[wikipedia:Gary Epper|Gary Epper]] as [[Richard Erlich (Earth-697064)|Richard Erlich]]
+
+| Notes                   = * While the film was released theatrically around the world in 1990, it was only released on home video in America, in 1992.
+* The movie was badly received by fans and critics, scoring a 8% at Rotten Tomatoes.<ref>[https://www.rottentomatoes.com/m/captain_america_1990 Captain America at Rotten Tomatoes]</ref>
+| Trivia                  = * Lt. Col. Louis compares Captain America to the DC Comics hero [[w:c:dc:Superman|Superman]] when Dr. Vaselli transforms Steve Rogers into the super soldier.
+* The young Tom Kimball and Sam Kolawetz wonder if the person Tom saw strapped to the Red Skull's rocket could have been the [[Namor|Sub-Mariner]] or the [[Jim Hammond|Human Torch]]. Sam suggests they should use their [[wikipedia:Captain Midnight|Captain Midnight]] decoder ring.
+| Links                   = *[[Marvel Films#Direct-to-Video Films|Marvel Films]]
+}}

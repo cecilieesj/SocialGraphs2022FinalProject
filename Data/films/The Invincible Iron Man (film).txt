@@ -1,0 +1,123 @@
+{{Marvel Database:Film Template
+| Image                   = The Invincible Iron Man (film) poster 001.jpg
+| Image2                  = The Invincible Iron Man.jpg
+| Aliases                 = 
+
+| Directors               = Patrick Archibald; Jay Oliva
+| Producers               = Bob Richardson; Stan Lee
+| ComicWriters            = 
+| StoryWriters            = Avi Arad; Greg Johnson; Craig Kyle
+| ScreenplayWriters       = Greg Johnson;
+| Musicians               = Guy Michelmore
+| Cinematographers        = 
+| Editors                 = George Rizkallah
+| Distributors            = Lionsgate
+| Running Time            = 83 minutes
+| Rating                  = '''MPAA''': PG-13
+| Budget                  = 
+| Release Date            = January 23, 2007
+
+| AM ID                   = the-invincible-iron-man-v379100
+| IMDB ID                 = 0903135
+| Marvel Movies           = The Invincible Iron Man
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{Only|[[Anthony Stark (Earth-199673)|Iron Man (Tony Stark)]]}}
+'''Supporting Characters:'''
+* {{Only|[[James Rhodes (Earth-199673)|Jim "Rhodey" Rhodes]]}}
+* {{Only|[[Virginia Potts (Earth-199673)|Pepper Potts]]}}
+* {{Only Dies|[[Li Mei (Earth-199673)|Li Mei]]}} {{Flashback}} 
+* {{Only|[[Howard Stark (Earth-199673)|Howard Stark]]}}
+* {{Only Dies|[[Ho Yin (Earth-199673)|Ho Yin]]}} 
+'''Antagonists:'''
+* {{Only Dies|[[Mandarin (Earth-199673)|The Mandarin]]}}
+* {{Only|[[Demon Elementals (Earth-199673)|Demon Elementals]]}}
+** Earth Elemental {{Destroyed}}
+** Fire Elemental {{Destroyed}}
+** Wind Elemental {{Destroyed}}
+** Ice Elemental {{Destroyed}}
+** {{Only|[[Fin Fang Foom (Earth-199673)|Fin Fang Foom]]}}
+* {{Only Dies|[[Wong-Chu (Earth-199673)|Master Wong Chu]]}}
+'''Other Characters:'''
+* Mr. Ling {{Only}}
+* Jade Dragons {{Only}}
+* Stark Enterprise Board of Directors {{Only}}
+** Boyer {{Only}}
+* Li Mei's father {{Only}} {{FlashOnly}}
+* Agent Drake {{Only}}
+'''Locations:'''
+* {{Only|[[Earth-199673]]}}
+** {{Only|[[Earth]]}}
+*** {{Only|[[China]]}}
+**** Ancient City {{Only}}
+*** {{Only|[[Stark Tower|Stark Towers]]}}
+**** Hall of Armor {{Only}}
+*** Trafalgar Square {{Only}}
+*** Undersea monastery {{Only}}
+*** Volcano {{Only}}
+'''Items:'''
+* [[Iron Man Armor]] {{Only}}
+** [[Iron Man Armor Model 1|Grey "Iron Knight" Armor]] {{Only}}
+** Lava-Proof Armor {{Only}}
+** [[Iron Man Armor Model 6|Deep Sea Armor]] {{Only}}
+* {{Only|[[Mandarin's Rings|Bands of the Underworld]]}}
+'''Vehicles:'''
+* Tony Stark's bulletproof car {{Only}}
+
+| Plot                    = At an excavation of an ancient Chinese architecture in [[China]], a worker hears a statue of the Mandarin whispering. When the statue's eyes start glowing, the worker falls off his platform and runs away screaming about the Mandarin. [[James Rhodes (Earth-199673)|James Rhodes]] watches the excavation from afar before talking with his project manager, Mr. Ling. The manager warns Rhodes that if the rivers continue to swell, the ruins could collapse. Rhodes says that they are behind schedule because of the Jade Dragon's "commando raids".
+
+With the arrival of another shipment of steel, Rhodes tells Mr. Ling that they have enough to start pumping it under the excavation to raise the ancient city above the ground. Another Jade Dragon raid attacks the campsite, and Rhodes calls playboy [[Anthony Stark (Earth-199673)|Tony Stark]], interrupting his romantic desert with an attractive woman. Rhodes questions Star on why he sent them a shipment of weapons, but Stark denies sending any such shipment and promises to fly right over to see it for himself.
+
+However, Stark instead chooses to stay and visit with his Board of Directors. Boyer questions their decision to give him his own advanced technology division. First Boyer brings up their massive spending on the excavation in China, but Tony replies that the Chinese government is willing to pay twenty times more than what they are currently spending. Boyer then questions Tony on the half a billion dollars spent on his secret project, but Tony says that this project is Stark Enterprises' future. Not content with these answers, Boyer asks the rest of the board that they shut down Tony's division. Tony pleads with his father, [[Howard Stark (Earth-199673)|Howard Stark]], but he sides with the board of directors.
+
+Later that evening, Rhodes raises the ancient city of the Mandarin to ground level. by expanding liquid steel underneath the city's ruins. Outside, the Jade Dragons plan on another attack. Master [[Wong-Chu (Earth-199673)|Wong-Chu]] threatens [[Li Mei (Earth-199673)|Li Mei]] to make her take part in the raid. While Mr. Ling explains that some people fear that by raising the [[Mandarin (Earth-199673)|Mandarin]]'s temple, it is inviting the history of the Mandarin's tyrannical rule to repeat itself.
+
+During the Jade Dragon raid, Rhodey encounters Li Mei and knocks her down before she can shoot. However, another Jade Dragon kidnaps Rhodey, and [[Virginia Potts (Earth-199673)|Pepper Potts]] delivers the news to Tony. Tony flies to China immediately and travels to the excavation site in an armored tank. They encounter an obstruction in the road and drive into the Jade Dragons' trap. Tony Stark gets injured severely and the Jade Dragons kidnap him.
+
+Tony wakes up and finds he has suffered great heart damage. Wong Chu explains that they need Tony alive to lower the city. While Rhodey fashions an iron lung for Tony, Li Mei shows some concern for Tony and Wong Chu threatens to kill her. However, Li Mei's defiance in the face of death keeps her alive and Wong Chu reminds her of her responsibility as a Jade Dragon.
+
+Outside the Mandarin's temple, four of the [[Five Elementals (Earth-199673)|Five Elementals]] awaken and a Jade Dragon warns Wong Chu. At Stark Enterprises, a lawyer tells Howard Stark that the Chinese government is wondering how the Jade Dragons acquired technology from Stark Enterprises. The lawyer suggests blaming the mishap on Tony Stark.
+
+Tony Stark wakes up in his new iron lung and thanks Rhodey and Ho Yin for saving his life. Tony meets Li Mei, who leaves as soon as he asks her why they are both prisoners. Outside, Li Mei remembers inheriting her bracelet from her dying father. Her father expresses his anger for not facing the Mandarin when she failed to get the other rings.
+
+The Four Elementals attack Trafalgar Square and steal a ring from a monk buried beneath the city. In China, Ho Yin explains the prophecy of the Mandarin's return to Tony as the Demon Elementals recover the four [[Mandarin's Rings|Bands of the Underworld]] stolen by four monks upon the Mandarin's death. Ho Yin gives Tony the location of the bands and urges Tony to stop the Elementals. Wong Chu forces Tony to come up with the technology needed to reverse what he has done to the Mandarin's ancient city. For added incentive, Wong Chu kills Ho Yin and threatens Rhodey.
+
+However, during the following week, Tony and Rhodey instead work on armor for Tony to wear during their escape. When Wong Chu asks them to demonstrate their "device" Rhodey starts adjusting its settings while Tony slips away. Chu soon discovers their deception and prepares to kill Rhodey. However, Li Mei kills Wong Chu with two bullets to the back. Wong Chu's guards appear and prepare to attack Rhodey. However, Tony Stark, wearing the full-body armor, appears and they start attacking him. Tony Stark's armor deflects most of their bullets and defeats them. Before escaping with Rhodey, Iron Man tries to convince Li Mei to join them, but she refuses.
+
+Back at the Jade Dragon headquarters, Li Mei views the prophecy the prophecy stating the Iron Knight will battle risen the Mandarin, and that one of the two will die. Tony and Rhodey fly back home on a jet, but S.H.I.E.L.D. Agent Drake puts them under arrest for dealing arms to the Jade Dragons. He claims they have received documents linking Tony Stark to the sale. After seeing Howard Stark, Tony and Rhodey evade arrest by driving off in a bulletproof car.
+
+A group of the Jade Dragons led by Li Mei go on a mission to destroy the Mandarin's temple. Although some of her members worry about the [[Fin Fang Foom (Earth-199673)|fifth elemental]], Li Mei reassures them that the fifth elemental will fall once they destroy the temple. The fifth elemental, Fing Fang Foom, quickly disposes of Li Mei's Jade Dragons. Li Mei, however, bows down to the dragon and pleas for forgiveness.
+
+As fugitives, Tony decides to go after the third ring. He and Rhodey get into [[Stark Tower]] with the help of Pepper Potts. Tony opens the entrance to a secret room and shows Rhodey his "secret project", a series of interactive exo-suits. Tony takes his aquatic model for the next ring. Rhodey is frustrated that Tony did not trust him enough to involve him in this project.
+
+The four Elementals uncover the third ring at an undersea monastery in the Atlantic. Iron Man dives in and the Earth Elemental pushes him back. When the Fire Elemental attacks, Iron Man fights back and destroys her. The Air Elemental pushes Iron Man into the monastery and the Earth Elemental caves it in. Although Iron Man does not get crushed during the cave in, the room floods and his armor supports starts to fail. Iron Man uses his rocket jets to escape the watery grave.
+
+Tony returns to the hall of armors and realizes that this is all his fault for raising the city. Tony starts to take his frustration out on his father for the phony arms deal. Howard denies the arms deal but says that Rhodey needed arms to protect his crew from the Jade Dragon attacks. Agent Drake trails Tony on his way back to the hall of armors, but Tony evades him with the help of Pepper. Agent Drake takes Pepper into custody.
+
+To get the fourth ring, Rhodey lures the S.H.I.E.L.D. agents away while Tony flies to Central America. Using a heat resistant armor, Iron Man flies to the center of an active volcano and finds the three remaining Elementals. Iron Man witnesses the Earth Elemental putting the ring into his belt. The Elementals attack Iron Man, sending him on a rock drifting over the lava. The Air Elemental materializes behind Iron Man and grabs him. However, Iron Man resists his grip long enough to evade the Water Elemental's attack, which instead destroys the Air Elemental. Iron grabs onto the Air Elemental and sends him into the lava. Iron Man attacks the Earth Elemental, managing to destroy its head and take the ring from its belt. However, the Earth Elemental just rebuilds its head and continues attacking Iron Man until he manages to fly away.
+
+Tony goes back to Stark Tower, only to find he is still wanted. Li Mei approaches him and urges him to give her the ring because it is her responsibility. Tony calls his father asks if he can find a way to get him in. Howard secretly warns Tony to go away. Instead, Li Mei and Tony steal a jet and Tony dons his old Iron Man armor.
+
+At the Mandarin's monastery, the Earth Elemental uncovers the Mandarin's carved army. Iron Man attacks the Elemental from the sky, but he just gets up out of the crater and picks Iron man up. Iron Man flies up into the sky and the Earth Elemental holds onto him. Iron Man starts falling out of the sky and the Earth Elemental prepares to crush him. However, Iron Man starts flying up straight toward the Earth Elemental and fires his energy blasters. The four rings fall to the ground and Iron Man offers them to Li Mei, preparing to recover the fifth ring. However, Li Mei informs Tony that her bracelet is the fifth band. She reveals that she gave the government the documents so that they would arrest him.
+
+Li Mei goes into the monastery to resurrect the Mandarin, leaving Iron Man to fight the army of statues and Fin Fang Foom. Iron Man freezes the dragon with the sonar beams used to raise the city from beneath the ground. The Mandarin possesses Li Mei's body and tells her to finish off Iron Man. Tony urges her to fight the Mandarin's control, reminding her that she is Li Mei. Resisting the Mandarin's control, Li Mei takes off the rings and the Mandarin disintegrates, unfortunately, she dies in Tony's arms.
+
+At the next board of directors meeting, Boyer says that he is happy that the Chinese government has cleared him of all charges. Boyer says that, over the last week, someone has been buying so much stock from Stark Enterprises that they no longer have a controlling interest. Stark admits that he is that stockholder and gives two orders of interests: promoting Rhodey to chief engineer of advanced technologies and handing control of the company to Howard. As his first order of business, Howard fires the entire board of directors.
+
+| Cast                    = 
+* Marc Worden as Iron Man/Tony Stark
+* Gwendolyn Yeo as Li Mei
+* Rodney Saulsberry as Rhodey
+* Elisa Gabrielli as Pepper Potts
+* John McCook as Howard Stark
+* James Sie as Wong Chu
+* Fred Tatasciore as Mandarin
+
+| Notes                   = *Despite not possessing any score at Rotten Tomatoes, the movie partially pleased the fans and critics.<ref>[https://www.rottentomatoes.com/m/the_invincible_iron_man? The Invincible Iron Man at Rotten Tomatoes]</ref>
+| Trivia                  = 
+| Links                   = *[[Marvel Films#Direct-to-Video Films|Marvel Films]]
+}}

@@ -1,0 +1,113 @@
+{{Marvel Database:Film Template
+| Image                   = Guardians of the Galaxy - Mission BREAKOUT! (attraction) 001.jpg
+| Aliases                 = 
+| Universe                = 
+| Directors               = [[James Gunn]]
+| Producers               = [[Kevin Feige]]; [[Joe Quesada]]
+| Writers                 = [[Joe Rohde]]
+| Musicians               = [[Tyler Bates]]{{r|{{cite web|url=http://ew.com/movies/2017/04/21/disneyland-guardians-of-the-galaxy-ride-behind-the-scenes/|title=Go behind the scenes of Disney’s new Guardians of the Galaxy ride|work=Entertainment Weekly|first=Devan|last=Coggan|date=21 April 2017|accessdate=12 May 2017}}}}
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = Approximately 3 minutes
+| Rating                  = 
+| Language                = English
+| Budget                  = 
+| Release Date            = May 27, 2017
+
+| Previous Film           = 
+| Next Film               = Guardians of the Galaxy: Monsters After Dark
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{1st|[[Guardians of the Galaxy (Earth-TRN971)|Guardians of the Galaxy]]}}
+** {{1st|[[Peter Quill (Earth-TRN971)|Star-Lord (Peter Quill)]]}}
+** {{1st|[[Gamora (Earth-TRN971)|Gamora]]}}
+** {{1st|[[89P13 (Earth-TRN971)|Rocket (89P13)]]}}
+** {{1st|[[Groot (Earth-TRN971)|Groot]]}}
+** {{1st|[[Drax (Earth-TRN971)|Drax the Destroyer]]}}
+** {{1st|[[Mantis (Earth-TRN971)|Mantis]]}}
+'''Antagonists:'''
+* {{1st|[[Tivan Group (Earth-TRN971)|Tivan Group]]}}
+** {{1st|[[Taneleer Tivan (Earth-TRN971)|The Collector (Taneleer Tivan)]]}}
+'''Other Characters:'''
+* {{1st|[[Stan Lee (Earth-TRN971)|Stan Lee]]}}
+* {{1st|[[Cosmo (Earth-TRN971)|Cosmo]]}}
+'''Races and Species:'''
+* {{a|[[Cosmic Beings]]}}
+* {{a|[[Yeti (Race)|Yeti]]}}
+* {{a|[[Human-Celestial Hybrids]]}}
+* {{a|[[Zen-Whoberis|Zehoberei]]}}
+* {{a|[[Halfworlders]]}}
+* {{a|[[Flora colossi]]}}
+* {{a|[[Abilisks]]}}
+* {{a|[[Dogs]]}}
+'''Locations:'''
+* {{a|[[Earth-TRN971|Unnamed reality]]}}
+** {{1st|[[Collector's Museum|The Collector’s Fortress]]}}
+'''Items:'''
+* {{1st|[[Warlock's Eye]]}}
+* {{1st|[[Crystal of Conquest]]}}
+* [[Wikipedia:Walkman|Star-Lord's Sony Walkman]] {{1st}}
+'''Vehicles:'''
+* {{1st|[[Milano]]}}
+
+| Plot                    = The [[Guardians of the Galaxy]] have been captured by [[Collector|The Collector]] to become the newest prized attraction in the [[Collector's Museum|The Collector’s Fortress]]. However, [[Rocket Raccoon|Rocket]] was able to escape. With the help of [[Earth-1218#Residents|numerous unnamed Terrans]], Rocket was able to hack into the Collector's system, take over the gantry lifts, free the other Guardians, and play music from Star-Lord's [[Awesome Mix]].
+
+After being freed, the Guardians were picked up by [[Mantis]] in the [[Milano]].
+
+| Cast                    = * [[Wikipedia:Chris Pratt|Chris Pratt]] as [[Star-Lord|Star-Lord / Peter Quill]]{{r|{{cite web|url=http://www.cbr.com/sdcc-marvel-studios-reveals-latest-phase-3-secrets/|title=SDCC: Marvel Studios Reveals Latest Phase 3 Secrets|work=CBR|first=Albert|last=Ching|date=23 July 2016|accessdate=12 May 2017}}}}
+* [[Wikipedia:Zoe Saldana|Zoe Saldana]] as [[Gamora (Earth-199999)|Gamora]]{{r|{{cite web|url=http://www.cbr.com/sdcc-marvel-studios-reveals-latest-phase-3-secrets/|title=SDCC: Marvel Studios Reveals Latest Phase 3 Secrets|work=CBR|first=Albert|last=Ching|date=23 July 2016|accessdate=12 May 2017}}}}
+* [[Wikipedia:Dave Bautista|Dave Bautista]] as [[Drax the Destroyer]]{{r|{{cite web|url=http://www.cbr.com/sdcc-marvel-studios-reveals-latest-phase-3-secrets/|title=SDCC: Marvel Studios Reveals Latest Phase 3 Secrets|work=CBR|first=Albert|last=Ching|date=23 July 2016|accessdate=12 May 2017}}}}
+* [[Wikipedia:Bradley Cooper|Bradley Cooper]] as [[Rocket Raccoon|Rocket / 89P13]]{{r|{{cite web|url=http://ew.com/movies/2017/04/21/disneyland-guardians-of-the-galaxy-ride-behind-the-scenes/|title=Go behind the scenes of Disney’s new Guardians of the Galaxy ride|work=Entertainment Weekly|first=Devan|last=Coggan|date=21 April 2017|accessdate=12 May 2017}}}}
+* [[Wikipedia:Pom Klementieff|Pom Klementieff]] as [[Mantis]]{{r|{{cite web|url=http://www.insidethemagic.net/2017/05/james-gunn-confirms-pom-klementieff-mantis-guardians-galaxy-mission-breakout-attraction-coming-disneyland/|title=James Gunn confirms all the "Guardians of the Galaxy" stars - including Mantis - will appear in new Disneyland ride|work=Inside the Magic|first=Mike|last=Celestino|date=5 May 2017|accessdate=12 May 2017}}}}
+* [[Wikipedia:Benicio del Toro|Benicio del Toro]] as [[Collector|The Collector / Taneleer Tivan]]{{r|{{cite web|url=http://ew.com/movies/2017/04/21/disneyland-guardians-of-the-galaxy-ride-behind-the-scenes/|title=Go behind the scenes of Disney’s new Guardians of the Galaxy ride|work=Entertainment Weekly|first=Devan|last=Coggan|date=21 April 2017|accessdate=12 May 2017}}}}
+
+| Notes                   = * The attraction was announced by [[wikipedia:The Walt Disney Company|The Walt Disney Company]] during the 2016 San Diego Comic-Con.{{r|{{cite web|url=http://www.cbr.com/sdcc-marvel-studios-reveals-latest-phase-3-secrets/|title=SDCC: Marvel Studios Reveals Latest Phase 3 Secrets|work=CBR|first=Albert|last=Ching|date=23 July 2016|accessdate=12 May 2017}}}}
+* The attraction is not part of the [[Earth-199999|Marvel Cinematic Universe]], but of a new, separate universe.{{r|{{cite web|url=http://io9.gizmodo.com/the-new-guardians-of-the-galaxy-ride-exists-in-its-own-1795437971|title=The New Guardians of the Galaxy Ride Exists in Its Own Unique Marvel Universe|work=io9|first=Germain|last=Lussier|date=2017|accessdate=30 May 2017}}}}{{r|[https://mobile.twitter.com/JamesGunn/status/867818525074669568 James Gunn on Twitter]}}
+* The attraction includes six unique ride profiles each featuring one of six classic rock song:{{r|{{cite web|url=http://www.ocregister.com/2017/04/25/new-guardians-of-the-galaxy-ride-at-disneyland-will-feature-music-from-the-movies/|title=New Guardians of the Galaxy Ride at Disneyland Will Feature Music from the Movies|work=Orange County Register|first=Mark|last=Eades|date=25 April 2017|accessdate=12 May 2017}}}}
+** [[Wikipedia:Hit Me with Your Best Shot|"Hit Me With Your Best Shot"]] by [[Wikipedia:Pat Benatar|Pat Benatar]]
+** [[Wikipedia:Give Up the Funk (Tear the Roof off the Sucker)|"Give Up The Funk"]] by [[Wikipedia:Parliament (band)|Parliament]]
+** [[Wikipedia:Born to Be Wild|"Born To Be Wild"]] by [[Wikipedia:Steppenwolf (band)|Steppenwolf]]
+** [[Wikipedia:I Want You Back|"I Want You Back"]] by [[Wikipedia:The Jackson 5|The Jackson 5]]
+** [[Wikipedia:Free Ride (song)|"Free Ride"]] by [[Wikipedia:Edgar Winter|The Edgar Winters Group]]
+** [[Wikipedia:Burning Love|"Burning Love"]] by [[Wikipedia:Elvis Presley|Elvis Presley]]
+
+| Trivia                  = * The attraction originally opened as the [[Wikipedia:The Twilight Zone Tower of Terror|''The Twilight Zone'' Tower of Terror]] in 2004 before being rethemed in 2017.
+* Despite the ride's soundtrack, there are six songs:
+** One featured in Shrek Forever After
+** One featured in Undercover Brother
+** One featured in Rayman Raving Rabbids: TV Party
+** One featured at the end of Guardians of the Galaxy (2014)
+** One featured in Henchmen (2018)
+** One featured in the trailer of Planes: Fire & Rescue
+* Lead Imagineer Joe Rohde worked with [[James Gunn]], [[Kevin Feige]], [[Joe Quesada|Joe Quesada]], [[Tyler Bates]], and many others in developing the story experience of the attraction.
+* This attraction was the second Disney attraction to be based on a Marvel property, following [[Iron Man Experience]], which opened at [[Wikipedia:Hong Kong Disneyland|Hong Kong Disneyland]] in January 2017.
+* Some of the items in the Collector's Museum include:
+** [[Warlock's Eye]]
+** [[Crystal of Conquest]]
+** [[Stormbreaker]]
+** [[Hridgandr]], [[Fimbuldraugr]], Volstagg's Axe, and Lady Sif's shield and sword
+** [[Wikipedia:Walkman|Star-Lord's Sony Walkman]]
+** [[Crimson Bands of Cyttorak]]
+** [[Golden Apples of Idunn]]
+** [[Terrigen Crystals]]
+** [[Brazier of Bom'Galiath]]
+** [[Nova Helmet (Supernovas)|Nova Corps uniforms]]
+** [[Stan Lee]]
+** [[Cosmo]]
+** [[Ultron Drones]]
+** [[Howard the Duck]]
+** [https://en.wikipedia.org/wiki/Figment_(Disney) Figment]
+
+| Links                   = 
+* [[Ant-Man and the Wasp: Nano Battle!]]
+* [[Guardians of the Galaxy: Cosmic Rewind]]
+* [[Guardians of the Galaxy - Awesome Mix Live!]]
+* [[Iron Man Experience]]
+* [[WEB SLINGERS: A Spider-Man Adventure|W.E.B. Slingers: A Spider-Man Adventure]]
+}}
+[[Category:Attractions]]
+[[Category:James Gunn/Director]]
+[[Category:Disneyland California Adventure Park]]

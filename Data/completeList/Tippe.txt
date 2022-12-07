@@ -1,0 +1,28 @@
+{{Infobox character
+|image = Tippe.png
+|name = Tippe
+|inspiration = Mouse, Fairy
+|alignment = Good
+|appearance = Fairy like, small, cute
+|occupation = Kilala Reno's Pet
+|goal = To aid Kilala Reno
+|friends = [[Kilala Reno]], [[Rei]]
+|enemies = [[Sylphy]] (formerly), [[Valdou]]}}
+'''Tippe''' is Kilala's pet flying mouse and one of the main characters in ''[[Kilala Princess]]''. She is pink and has a ribbon on her back. In Volume 2 Tippe talks, and it surprises Kilala and Rei.
+
+==Gallery==
+<gallery position="center" captionalign="center" widths="185">
+Tippe.jpg
+</gallery>
+
+{{CharacterStub}}
+
+{{Kilala Princess}}
+[[Category:Kilala Princess characters]]
+[[Category:Comic characters]]
+[[Category:Pets]]
+[[Category:Mice]]
+[[Category:Characters who fly]]
+[[Category:Females]]
+[[Category:Disney characters]]
+[[Category:Heroines]]

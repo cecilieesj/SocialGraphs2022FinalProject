@@ -1,0 +1,39 @@
+{{Infobox character
+|image = FRIDAY.jpg
+|films = ''[[Avengers: Age of Ultron]]<br>[[Captain America: Civil War]]<br>[[Spider-Man: Homecoming]]<br>[[Avengers: Infinity War]]<br>[[Avengers: Endgame]]''
+|shows = ''[[Avengers Assemble]]''
+|voice = Kerry Condon ([[Marvel Cinematic Universe]])<br>[[Jennifer Hale]] ([[Avengers Assemble|Marvel Animated Universe]])<br>[[Tabitha St. Germain]] (''Marvel Super Hero Adventures'')
+|inspiration = Friday from Marvel Comics<br>[[J.A.R.V.I.S.]]
+|owner = [[Iron Man|Tony Stark]] † (creator)
+|status = Active}}
+
+'''F.R.I.D.A.Y.''' is a character from [[Marvel Comics]] and first appeared in the film ''[[Avengers: Age of Ultron]]''. She is [[Iron Man|Tony Stark]]'s backup A.I. in case her predecessor [[J.A.R.V.I.S.]] is destroyed. F.R.I.D.A.Y. is programmed to serve the same functions as J.A.R.V.I.S. As such, she is the A.I. that control all the technology Tony uses, including the [[Iron Man (armor)|Iron Man armors]], and she runs Stark Mansion. She sees Tony as a father figure and is eager to help Tony in his time of need. F.R.I.D.A.Y. speaks with an Irish accent.
+
+F.R.I.D.A.Y. was created by Mike Grell, Derek Fridolfs and Ryan Odagawa.
+
+==Gallery==
+<gallery position="center">
+FRIDAY_-_A.I_Chip_(Age_of_Ultron).png
+</gallery>
+
+==External Links==
+*{{Interwiki|https://vignette3.wikia.nocookie.net/marvelcinematicuniverse/images/6/64/Favicon.ico|marvelcinematicuniverse|F.R.I.D.A.Y.|Marvel Cinematic Universe Wiki}}
+
+{{Marvel Animated Universe}}
+{{Marvel Cinematic Universe}}
+[[Category:Characters]]
+[[Category:Heroines]]
+[[Category:Live-action characters]]
+[[Category:TV Animation characters]]
+[[Category:Marvel Comics characters]]
+[[Category:The Avengers characters]]
+[[Category:Captain America characters]]
+[[Category:Avengers Assemble characters]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Programs]]
+[[Category:Spider-Man characters]]
+[[Category:Animated characters]]
+[[Category:Acquired characters]]
+[[Category:Avengers Campus characters]]
+[[Category:Characters in Disney parks]]
+[[Category:Disney XD characters]]

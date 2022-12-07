@@ -1,0 +1,36 @@
+{{Infobox character
+|image = Gremlin Jamface.JPG
+|name = Gremlin Jamface
+|games = ''[[Epic Mickey 2: The Power of Two|Epic Mickey 2]]''
+|voice = [[Dana Snyder]]
+|home = [[The Wasteland]]
+|alias = 
+|likes = Fixing, helping Mickey and Oswald
+|weapons = His wrench
+|quote = "Oh-ho! Mickey!"
+|personality = Kind, polite, helpful}}
+{{Quote|Jamface is Gus' right hand man, and inventor of the projector network that links the lands of Wasteland together. When something needs fixing, Jamface is usually there getting his hands dirty.|Epic Mickey Facebook page description}}
+'''Gremlin Jamface''' is a [[Gremlins|Gremlin]] from ''[[Gremlins|The Gremlins]]'' book. He later appeared in ''[[Epic Mickey 2: The Power of Two|Epic Mickey&nbsp;2: The Power of Two]]. ''In the game, he acts as the caretaker of the projectors, replacing Gremlin Markus from the first game. He is first encountered in [[Mean Street]] North, where he tasks [[Mickey Mouse|Mickey]] and [[Oswald the Lucky Rabbit|Oswald]] with finding scrap metal so that he can repair the windmill, allowing them to progress.
+
+==Trivia==
+*Gremlin Jamface originally intended to appear in ''[[Epic Mickey]]'', but was scrapped early on in development. His only known appearance was in an unreleased gameplay prototype created for Game Informer #199, the issue that officially revealed ''Epic Mickey'' as its cover story. ​​​​​​
+**Though he does not appear in the final game, his dialogue can still be found within the game's code. <ref>https://u.cubeupload.com/RampantLeaf/gidemoinfo.png</ref><ref>https://epicmickey.fandom.com/wiki/User:Oswaldiscool/Findings_Sandbox</ref>
+**According to the leftover code, Gremlin Jamface was originally green.
+*In the novel, he is one of only three Gremlins to be named.
+*His official ''Epic Mickey 2'' profile states he invented the Projector Screens Network. This contradicts ''[[Epic Mickey: The Graphic Novel]]'', where [[Gremlin Gus]] states that [[Oswald the Lucky Rabbit|Oswald]] created them.
+
+==Gallery==
+<gallery widths="130">
+char 85354.jpg
+Mean Street North 1.jpeg
+</gallery>
+
+== References ==
+<references />{{Epic Mickey}}
+[[Category:Epic Mickey characters]]
+[[Category:Males]]
+[[Category:English characters]]
+[[Category:French characters]]
+[[Category:Gremlins]]
+[[Category:Mechanics]]
+[[Category:Characters introduced in video games]]

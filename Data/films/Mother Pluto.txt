@@ -1,0 +1,51 @@
+{{Infobox film
+|image = MotherPlutoTitle.jpeg
+|imagewidth = 250px
+|name = Mother Pluto
+|director = [[Wilfred Jackson]]
+|producer = [[Walt Disney]]
+|writer = [[Earl Hurd]]<br>[[Ted Sears]]
+|starring = [[Pinto Colvig]]<br>[[Florence Gill]]
+|music = [[Leigh Harline]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[United Artists]]
+|release = [[November 14]], [[1936]]
+|language = English
+|preceded = ''[[The Country Cousin]]''
+|followed = ''[[More Kittens]]''
+}}
+'''''Mother Pluto''''' is a ''[[Silly Symphonies]]'' cartoon starring [[Pluto]] that was released on [[November 14]], [[1936]].
+
+==Synopsis==
+Pluto plays mother hen to a handful of chicks who have just hatched in his doghouse.
+
+==Characters==
+*[[Pluto]] (voiced by [[Pinto Colvig]])
+*Mother Chicken (voiced by [[Florence Gill]])
+*Father Chicken
+
+==Releases==
+===Television===
+*''[[Donald's Quack Attack]]'', episode #52
+*''[[Mickey's Mouse Tracks]]'', episode #33
+
+===DVD===
+*''[[Walt Disney Treasures: Wave One|Walt Disney Treasures]]: Silly Symphonies''
+
+==Gallery==
+<gallery widths="150" spacing="small" position="center">
+Mother pluto 4large.jpg
+Mother pluto 6large.jpg
+Ss mpluto img1.jpg
+Mother pluto 5large.jpg
+Mother pluto 7large.jpg
+pluto and chicks2.jpg
+Mother pluto 3large.jpg
+</gallery>
+
+{{Pluto-Series}}
+{{Silly Symphony}}
+[[Category:Animated shorts]]
+[[Category:Silly Symphonies]]
+[[Category:Pluto shorts]]
+[[Category:1936 shorts]]

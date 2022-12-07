@@ -1,0 +1,54 @@
+{{Template:Infobox character
+|image = Doctor_Cooper.png
+|shows = ''[[TaleSpin]]''
+|voice = [[Alan Young]]
+|personality = Nice, cranky, helpful, polite
+|appearance = Green anthropomorphic turtle with glasses and a necktie
+|occupation = Doctor
+|alignment = Good/Neutral
+|goal = To help Baloo's friend Joe Magee
+|friends = [[Baloo]], [[Joe Magee]], [[Kit Cloudkicker]], [[Wildcat]]
+|likes = Helping people
+|fate = 
+|quote = "Joe Magee?"
+}}
+'''Doctor Cooper''' is a character from ''[[TaleSpin]]'', who makes an appearance in the episode "[[The Old Man and the Sea Duck]]".
+
+==Bio==
+When [[Baloo#TaleSpin|Baloo]] flies into town to get help for [[Joe Magee]], he comes across Doctor Cooper, an elderly anthropomorphic turtle.
+
+Baloo takes the doctor to the [[Sea Duck]], telling him about an emergency. But when Baloo brings the doctor (along with [[Kit Cloudkicker|Kit]] and [[Wildcat]]) back to the flight school, it is completely deserted.
+
+Doctor Cooper starts to grow impatient until he hears Baloo mention Magee's name. The doctor says the airfield hasn't been used since the entrance was almost completely blocked by a landslide. Cooper explains that Joe Magee injured his leg saving fellow pilots from a burning plane. The injured leg left Magee unable to fly again, and sometime after, built the flying school and trained a number of the best pilots.
+
+Finally, the doctor tells Baloo that Magee had passed away twenty years ago.
+
+==Trivia==
+*Cooper's voice actor was [[Alan Young]], who was best known for voicing [[Scrooge McDuck]] from [[1974]] until his death in [[2016]].
+
+==Gallery==
+<gallery position="center" spacing="small">
+Doc Cooper 001.jpg
+The-Old-Man-and-the-Sea-Duck-58.png
+Doc Cooper 003.jpg
+Doc Cooper 004.jpg|"Have you got an injured man here or not?"
+Doc Cooper 006.jpg|"Joe Magee?"
+Doc Cooper 007.jpg
+Doc Cooper 013.jpg
+</gallery>
+
+{{CharacterStub}}
+{{TaleSpin}}
+
+{{DEFAULTSORT:Cooper}}
+[[Category:TaleSpin characters]]
+[[Category:Neutral characters]]
+[[Category:TV Animation characters]]
+[[Category:Animated characters]]
+[[Category:Anthropomorphic characters]]
+[[Category:Turtles]]
+[[Category:The Disney Afternoon characters]]
+[[Category:Doctors]]
+[[Category:Elderly characters]]
+[[Category:Disney characters]]
+[[Category:Adults]]

@@ -1,0 +1,42 @@
+{{upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Merlin
+|director = Michael Matthews<ref name="Merlin" />
+|producer = Gil Netter 
+|writer = Chris Weitz
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release =
+|time = 
+|language = English 
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id =
+|tv_com_id = }}
+'''''Merlin''''' is an upcoming live-action film based on the character [[Merlin|of the same name]].
+
+==Cast==
+*TBA as [[Merlin]]
+
+==Production==
+On [[October 15]], [[2021]], ''Deadline'' reported that a live-action film based on Merlin is in development with Michael Matthews directing and Gil Netter producing. [[Ridley Scott]] was originally set to direct the feature, but dropped out due to scheduling conflicts.<ref name="Merlin">[https://deadline.com/2021/10/love-and-monsters-michael-matthews-disneys-merlin-1234856523/ ‘Love and Monsters’ Director Michael Matthews Boards Disney’s ‘Merlin’]</ref>
+{{The Sword in the Stone}}
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{DISPLAYTITLE:''Merlin''}}
+[[Category:Merlin]]
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Films based on books]]
+[[Category:The Sword in the Stone]]

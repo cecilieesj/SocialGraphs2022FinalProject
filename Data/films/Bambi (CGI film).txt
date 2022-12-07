@@ -1,0 +1,40 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|name = Bambi
+|director = 
+|producer = Chris Weitz<br>Paul Weitz<br>Andrew Miano
+|writer = Geneva Robertson-Dworet<br>Lindsey Beer
+|voice = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|hidec = 
+|release = 
+|time = 
+|language = English}}
+'''''Bambi''''' is an upcoming American photorealistic computer-animated remake  of the [[1942]] [[Bambi (film)|traditionally animated feature of the same name]], which itself is based on the of the book ''Bambi: A Life in the Woods'' by Felix Salten. The film was announced on [[January 24]], [[2020]], but no release date has been confirmed.<ref>[https://variety.com/2020/film/news/bambi-disney-remake-1203479063/ ‘Bambi’ Is Next Up for Disney ‘Live-Action’ Remake]</ref>
+
+==Development==
+On January 24, 2020, it was announced that Geneva Robertson-Dworet and Lindsey Beer will write the screenplay, while Chris Weitz, Paul Weitz, and Andrew Miano will produce the film. The film is reported to be seen by Disney as "a type of companion piece" to the live-action/CGI remake of ''[[The Jungle Book (2016 film)|The Jungle Book]]'' and the CGI remake of ''[[The Lion King (2019 film)|The Lion King]]''.
+
+On May 10, 2022, it was reported that Lindsey Beer has finished writing the script for the film.<ref>[https://deadline.com/2022/05/pet-sematary-writer-director-lindsey-beer-paramount-susie-thunder-1235020009/ ‘Pet Sematary’ Writer-Director Lindsey Beer Signs Overall Deal With Paramount, ‘Susie Thunder’ Pic In Development As Part Of Deal]</ref>
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{Bambi}}
+{{DISPLAYTITLE:''Bambi''}}
+[[Category:Upcoming films]]
+[[Category:Articles that need a picture]]
+[[Category:Films]]
+[[Category:Film stubs]]
+[[Category:Bambi]]
+[[Category:Live-action films]]
+[[Category:Remakes]]
+[[Category:Films based on books]]
+[[Category:Disney films]]
+[[Category:Animated films]]
+[[Category:Hybrid films]]

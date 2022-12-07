@@ -1,0 +1,61 @@
+''Not to be confused with [http://toontown.wikia.com/wiki/SOS_Toon_(Field_Office) SOS Toon (Field Office)].''
+
+{{NeedImage}}
+'''SOS Toons''' are caged Toons in the [http://toontown.wikia.com/wiki/VP VP] Battle. They are normal Toontown NPCs that have been kidnapped, and must be released to win the battle. When released, the Toon will reward you with two identical SOS Cards. You can hold up to 16 different SOS Cards at a time. You can also have more of the same SOS Toon you've rescued ''(only if you have not used it yet).''
+
+==SOS Types==
+﻿There are 29 SOS Toons in total. They are divided in rarity ''(1-star being the most common, 5-star being the rarest)'' and their purpose.
+
+===Toon-Up===
+The SOS will Toon Up all Toons in battle ''(Including the Toon who is using the SOS)''. All Toon-Up SOS Toons will use [http://toontown.wikia.com/wiki/Juggling_Balls Juggling Balls] for the Toon Up ''(However, the maximum laff healed varies from the SOS Toon).''
+
+[http://toontown.wikia.com/wiki/Madam_Chuckle Madam Chuckle], [http://toontown.wikia.com/wiki/Daffy_Don Daffy Don], and [http://toontown.wikia.com/wiki/Flippy Flippy] are Toon-Up SOS Toons.
+===Trap===
+The SOS will set up [http://toontown.wikia.com/wiki/Trapdoor Trapdoors] on all the non-lured Cogs currently in battle. A Toon will need to lure the Cogs ''(With a [http://toontown.wikia.com/wiki/Lure_Gags Lure Gag] or SOS)'' into the trap in order for the SOS to take effect. The damage of the Trapdoors depends on the SOS.
+
+[http://toontown.wikia.com/wiki/Clerk_Will Clerk Will], [http://toontown.wikia.com/wiki/Clerk_Penny Clerk Penny], and [http://toontown.wikia.com/wiki/Clerk_Clara Clerk Clara] are Trap SOS Toons.
+
+===Lure===
+The SOS will lure all the non-lured Cogs currently in battle. The SOS Toon will use [http://toontown.wikia.com/wiki/Hypno_Goggles Hypno Goggles] for the lure. The number of turns the Cogs will be lured depend on the SOS. This SOS is capable of missing.
+
+[http://toontown.wikia.com/wiki/Nancy_Gas Nancy Gas], [http://toontown.wikia.com/wiki/Stinky_Ned Stinky Ned], and [http://toontown.wikia.com/wiki/Lil_Oldman Lil Oldman] are Lure SOS Toons.
+
+===Sound===
+The SOS will use a [http://toontown.wikia.com/wiki/Fog_Horn Fog Horn] on all the Cogs currently in battle. The damage of the Fog Horn depends on the SOS. This SOS is capable of missing.
+
+[http://toontown.wikia.com/wiki/Barbara_Seville Barbara Seville], [http://toontown.wikia.com/wiki/Sid_Sonata Sid Sonata], and [http://toontown.wikia.com/wiki/Moe_Zart Moe Zart] are Sound SOS Toons.
+
+===Drop===
+The SOS will use [http://toontown.wikia.com/wiki/Grand_Piano Grand Pianos] on all the Cogs currently in battle. The damage of the Grand Piano depends on the SOS. This SOS is capable of missing ''(and will miss on lured cogs)''.
+
+[http://toontown.wikia.com/wiki/Clumsy_Ned Clumsy Ned], [http://toontown.wikia.com/wiki/Franz_Neckvein Franz Neckvein], and [http://toontown.wikia.com/wiki/Barnacle_Bessie Barnacle Bessie] are Drop SOS Toons.
+===Restock Gags===
+The SOS will restock a certain Gag on all the Toons currently in battle. The SOS Toon will use [http://toontown.wikia.com/wiki/Lipstick Lipstick]. The type of Gag restocked depends on the SOS.
+
+[http://toontown.wikia.com/wiki/Professor_Guffaw Professor Guffaw], [http://toontown.wikia.com/wiki/Clerk_Ray Clerk Ray], [http://toontown.wikia.com/wiki/Doctor_Drift Doctor Drift], [http://toontown.wikia.com/wiki/Melody_Wavers Melody Wavers], [http://toontown.wikia.com/wiki/Baker_Bridget Baker Bridget], [http://toontown.wikia.com/wiki/Sophie_Squirt Sophie Squirt], [http://toontown.wikia.com/wiki/Shelly_Seaweed Shelly Seaweed], and [http://toontown.wikia.com/wiki/Professor_Pete Professor Pete] are Restock Gag SOS Toons.
+===Toons Hit===
+The SOS will use [http://toontown.wikia.com/wiki/Pixie_Dust Pixie Dust] on all the Toons currently in battle, making the Toon's Gags hit for the current turn. All Toons Hit SOS Cards last for the turn they were used.
+
+[http://toontown.wikia.com/wiki/Soggy_Nell Soggy Nell], [http://toontown.wikia.com/wiki/Sticky_Lou Sticky Lou], and [http://toontown.wikia.com/wiki/Soggy_Bottom Soggy Bottom] are Toons Hit SOS Toons.
+===Cogs Miss===
+The SOS will use [http://toontown.wikia.com/wiki/Pixie_Dust Pixie Dust] on all the Cogs currently in battle, making them laugh and miss for the current turn. All Cogs Miss SOS Cards last for the turn they were used.
+
+[http://toontown.wikia.com/wiki/Mr._Freeze Mr. Freeze], [http://toontown.wikia.com/wiki/Flim_Flam Flim Flam], and [http://toontown.wikia.com/wiki/Julius_Wheezer Julius Wheezer] are Cogs Miss SOS Toons.
+==Field Office SOS Types==
+﻿''Main article: [[SOS Toon (Field Office)]]''
+
+Field Office SOS Toons value from no-star to 2-stars. These SOS Toons can only be received from Field Office. These [http://toontown.wikia.com/wiki/Cog_Buildings Cog Buildings] can be quite common, making these SOS Toons weaker than V.P. SOS Toons. There are a total of 12 Field Office SOS Toons.
+==Trivia==
+*Some Toons go [http://toontown.wikia.com/wiki/SOS_Shopping SOS Shopping] for certain SOS Cards.
+*[http://toontown.wikia.com/wiki/Throw_Gags Throw] and [http://toontown.wikia.com/wiki/Squirt_Gags Squirt] are the only Gags that don't have an SOS Toon.
+*Although the SOS Toons are categorized by rarity, this does not mean that the rarer the card, the less likely you will encounter this Toon in the VP. ''(For example, you have the same chance of getting Sophie Squirt or Barnacle Bessie.)''
+*''All Toons hit or Cog miss are rare.''
+*Sound SOS Toons can rarely miss when other toons use their Sound, but when the Toons Sound misses, the SOS hits.
+*When Field Offices were released, Pigs made their first appearance as SOS Toons, which are [http://toontown.wikia.com/wiki/Al_Capella Al Capella] and [http://toontown.wikia.com/wiki/Anne_Ville Anne Ville].
+*In 2011, Field Offices brought new SOS Toons in the game, but can only be rewarded in Field Offices.
+*Clerk Clara's Trap SOS is as strong as one maxed [http://toontown.wikia.com/wiki/TNT TNT], dealing a maximum damage of 180. Her Trapdoors are the strongest Trapdoors, even when your Trapdoor is organic.
+**She is also the strongest offensive SOS Toon.
+*Flippy's SOS card is the rarest SOS card which is a five star SOS Toon-up.
+[[Category:Toontown characters]]
+[[Category:Characters]]
+{{Toontown Online}}

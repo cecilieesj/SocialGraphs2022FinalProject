@@ -1,0 +1,41 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|title = Untitled Figment film
+|director = 
+|producer = [[Seth Rogen]]
+|writer = Dan Hernandez<br>Benji Samit
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release = 
+|time = 
+|language = 
+|budget = 
+|gross = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = }}
+The '''''Untitled Figment film''''' is an upcoming American film based on the character of the [[Figment|same name]]. It's being written by Dan Hernandez and Benji Samit, and produced by [[Seth Rogen]]. 
+
+==Cast==
+*TBA as [[Figment]]
+
+==Production==
+On September 28, 2022, ''Deadline'' reported that a new film based on [[Figment]] is in development, with Dan Hernandez and Benji Samit writing the script and [[Seth Rogen]] producing.<ref>[https://deadline.com/2022/09/disney-character-figment-feature-film-seth-rogen-dan-hernandez-benji-samit-1235129748/ Disney Dragon Character Figment Getting Feature Treatment From Seth Rogen, Dan Hernandez & Benji Samit]</ref>
+
+==References==
+{{Reflist}}
+
+{{FilmStub}}
+{{Disney theatrical animated features}}
+[[Category:Upcoming films]]
+[[Category:Films]]
+[[Category:Disney films]]
+[[Category:Figment]]

@@ -1,0 +1,80 @@
+{{Infobox character
+|image = Cal Kestis.png
+|games = ''[[Star Wars Jedi: Fallen Order]]<br>[[Star Wars Jedi: Survivor]]''
+|designer =
+|voice = [[Cameron Monaghan]]
+|model = Cameron Monaghan (motion-capture)
+|fullname =
+|alias =
+|occupation = Padawan (formerly)<br>Jedi Knight
+|affiliations = [[Jedi|Jedi Order]]<br>[[Galactic Republic]]
+|home = [[Coruscant]] (formerly)<br>[[Bracca]] (formerly)
+|likes = The light side of the Force, his friends, younglings
+|dislikes = The dark side of the Force, his master's death, being deceived, the Empire, his friends in danger
+|powers = [[The Force]]
+|paraphernalia = [[Lightsaber]] (formerly)<br>[[Lightsaber|Double-bladed lightsaber]]
+|status = Active}}
+'''Cal Kestis''' is the protagonist the video game ''[[Star Wars Jedi: Fallen Order]]''. He is a Jedi Knight and one of the few Jedi who survived the Great Jedi Purge.
+
+==Background==
+===Personality===
+Having been raised in the Jedi Order, Cal is a selfless individual with a strong moral compass and a deep-seated sense of honor. He is usually calm and collected and shows great respect for all lifeforms and even droids, no matter how hostile they act towards him. Despite his heroic qualities, Cal was heavily traumatized by Order 66 and the subsequent death of his master, refusing to talk to anyone about it for many years. After confronting the vision of his master on Dathomir a second time, however, Cal accepted the events of the past and grew from the experience, becoming wiser and even mentor-like to everyone he meets. Cal's compassion even extends to people he's never met, as seen when he destroyed the Jedi holocron, making it harder for the Empire to find other Force sensitives.
+
+===Powers and Abilities===
+====Powers====
+*'''[[The Force]]:''' Cal has a very strong connection to the Force.
+**'''Telekinesis:''' Cal can telekinetically move objects or other individuals without physically touching them, and he utilized it for offensive or defensive purposes.
+***'''Force Push:''' Cal can telekinetically send her opponents flying through the air, causing serious injury or temporarily incapacitating/knocking them unconscious, depending on how much power is unleashed.
+***'''Force Pull:''' Cal can telekinetically pull his opponents or objects towards him.
+***'''Force Stasis:''' Cal can telekinetically slow down or completely halt the motion of a target, holding them in place with a paralyzing grip, albeit often temporarily.
+***'''Force Repulse:''' Cal can generate a telekinetic explosion that would blast away anything within the power's blast radius, allowing him to repel opponents and destroy obstacles.
+**'''Force Sense:''' Cal can sense another sentient being's emotions, the future, ripples in the Force caused by momentous, traumatic events, or impending danger and the presence of other light or dark side Force-users.
+**'''Psychometry:''' Cal can deduce information about events, individuals and places; simply by touching the objects that he held.
+
+====Abilities====
+*'''Expert Lightsaber Duelist:''' Cal is a highly skilled lightsaber duelist.
+**'''Form IV:''' Cal is highly skilled in Ataru.
+**'''Form V:''' Cal is highly skilled in Shien/Djem So.
+**'''Jar'Kai:''' Cal is highly skilled in Jar'Kai.
+*'''Expert Engineer:''' Cal is amazingly skilled in engineering. He was able to repair and modify BD-1 as well as make repairs to his mentor, Jaro Tapal's damaged double-bladed lightsaber.
+*'''Multilingual:''' Cal is capable of fluently speaking Basic and Binary.
+*'''Parkour:''' Under Jaro Topal's tutelage, Cal is a skilled freerunner, capable of jumping, climbing, wallrunning, sliding, balancing on beams and swinging from ropes without tiring, amplified by his connection to the Force.
+
+===Weapons and Equipment===
+====Lightsaber====
+Cal's valued weapon and possession is his dual-bladed lightsaber. He has had three lightsabers. The saber's default color is blue, but at special workbenches, Cal can customize his weapon's hilt and crystal color to his liking.
+*'''[[Lightsaber]]:''' Cal had built his first blue-bladed lightsaber on [[Ilum]]. It would remain in his possession until [[Clone Troopers|clone troopers]] shot the weapon out of his hand.
+*'''[[Lightsaber|First Double-bladed lightsaber]]:''' After Cal had lost his lightsaber on the Albedo Brave, his mentor, Jaro Tapal in his dying moment, gave Cal his blue-double-bladed lightsaber. It would remain in his possession until the weapon was destroyed on [[Dathomir]].
+*'''[[Lightsaber|Second Double-bladed lightsaber]]:''' After his master's lightsaber is destroyed on Dathomir, Cal travels to Ilum to build a new one using half of Cere Junda's lightsaber. The weapon can split into two lightsabers when Cal uses Jar'Kai.
+*'''Healing Stim:''' Whenever he is injured, Cal can ask BD-1 for a healing stim. The stims can be upgraded to completely replenish Cal's health and even his Force energy. Cal keeps the stims in a compartment in BD-1 when not in use.
+*'''Rebreather:''' A gift from one of Saw Gererra's Partisans, this allows Cal to freely explore underwater areas without fear of drowning.
+*'''Climbing claws:''' Cal acquired a pair of these from a dead Nightbrother after fighting off the giant bat-like creature Gorgara. The palm-mounted claws allow Cal to quickly move up climbable surfaces, including the fire lichen native to Dathomir.
+
+==Appearances==
+===''[[Star Wars Jedi: Fallen Order]]''===
+Cal Kestis is a former Jedi Padawan who managed to survive Order 66 and go into hiding. Five years into the Galactic Empire's reign, Cal scrapes out a living in the scrapyards of the planet Bracca alongside his friend and co-worker, Prauf. One day, while helping disassemble a Republic cruiser, Cal and Prauf come across a Jedi starfighter on the top of the wreck, reminding Cal of his time in the Jedi Order. Suddenly, the ship collapses out from under them and Prauf nearly falls to his death, but Cal uses the Force to save him. On the train ride home, Cal makes plans to leave Bracca as soon as possible and Prauf agrees to keep his secret safe. 
+
+Following a dream about his master, Jaro Topal, the train is stopped and Cal and the other passengers are ordered outside for questioning. A probe droid had spotted Cal using the Force, prompting the Empire to send two of its Inquisitors, the Second Sister and the Ninth Sister, to hunt him down. The Second Sister demands that the Jedi come forward or she will have all the scrappers killed. Despite Cal's insistence, Prauf confesses to being the Jedi and the Second Sister kills him without hesitation, causing Cal to attack her in anger. The Ninth Sister drops Cal off a cliff, but he manages to land on a passing train. Fighting his way to the front, Cal is nearly killed by an Imperial fighter, but is saved by the ''Stinger Mantis'', whose leader, Cere Junda, urges him to keep moving. At the end of the line, the Second Sister catches up to Cal and nearly kills him, but the ''Mantis'' crew saves him just in time.
+
+Once safe in hyperspace, Cal is properly introduced to the crew of the ''Mantis'': Cere Junda (another Jedi survivor) and Greez Dritus (the captain and pilot). Cere explains that she plans to rebuild the Jedi Order using a holocron containing the names and locations of Force-sensitive children throughout the galaxy, hidden away in a temple on the planet Bogano. Having nowhere else to go, Cal agrees to help. On Bogano, Cal makes the acquaintance of BD-1, a friendly droid that used to belong to another Jedi named Eno Cordova, and slowly begins to heal his connection to the Force. Exploring the planet, Cal discovers that Cordova was investigating an ancient race of Force-sensitives called the Zeffo. 
+
+Inside the temple, Cal learns from an old recording of Cordova that in order to receive the holocron, he’ll need to find the tombs of three Zeffo Sages, one on the planet Zeffo itself and another on the dark world Dathomir. Back at the ''Mantis'', Cal learns that Cordova was Cere’s old master and asks why she stopped being a Jedi. She explains that an event in her past changed her perspective, but still believes that reforming the Jedi is the best chance of defeating the Empire. Cal agrees, and orders Greez to set course for Zeffo.
+
+Upon arriving, Cal investigates a strong Imperial presence on the planet.
+
+==Trivia==
+*Cal Kestis is the second Star Wars character whose actor, [[Cameron Monaghan]] portrayed the Joker in ''Gotham''. The first one is [[Mark Hamill]], who played [[Luke Skywalker]] prior to voicing the Joker in the DCAU.
+
+==External links==
+*{{SWW|Cal Kestis}}
+
+{{Star Wars}}
+[[pt-br:Cal Kestis]]
+[[Category:Star Wars characters]]
+[[Category:Protagonists]]
+[[Category:Heroes]]
+[[Category:Jedi]]
+[[Category:Knights]]
+[[Category:Swordsmen]]
+[[Category:Characters introduced in video games]]
+[[Category:Males]]

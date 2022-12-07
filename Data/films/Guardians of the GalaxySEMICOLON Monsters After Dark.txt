@@ -1,0 +1,61 @@
+{{Marvel Database:Film Template
+| Image                   = Guardians of the Galaxy Monsters After Dark (attraction) 001.jpg
+| Aliases                 = 
+| Universe                = 
+| Directors               = 
+| Producers               = [[Kevin Feige]]; [[Joe Quesada]]
+| Writers                 = 
+| Musicians               = [[Tyler Bates]]
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Walt Disney Studios Motion Pictures
+| ProductionCompanies     = Marvel Studios
+| Running Time            = Approximately 3 minutes
+| Rating                  = 
+| Language                = English
+| Budget                  = 
+| Release Date            = September, 2017
+
+| Previous Film           = Guardians of the Galaxy - Mission: BREAKOUT!
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{a|[[Guardians of the Galaxy (Earth-TRN971)|Guardians of the Galaxy]]}}
+** {{a|[[89P13 (Earth-TRN971)|Rocket (89P13)]]}}
+** {{a|[[Groot (Earth-TRN971)|Groot]]}}
+'''Antagonists:'''
+* {{a|[[Tivan Group (Earth-TRN971)|Tivan Group]]}}
+** {{a|[[Taneleer Tivan (Earth-TRN971)|The Collector (Taneleer Tivan)]]}}
+'''Races and Species:'''
+* {{a|[[Cosmic Beings]]}}
+* {{a|[[Yeti (Race)|Yeti]]}}
+* {{a|[[Halfworlders]]}}
+* {{a|[[Flora colossi]]}}
+'''Locations:'''
+* {{a|[[Earth-TRN971|Unnamed reality]]}}
+** {{1st|[[Collector's Museum|The Collector’s Fortress]]}}
+'''Items:'''
+* {{1st|[[Warlock's Eye]]}}
+* {{1st|[[Crystal of Conquest]]}}
+* [[Wikipedia:Walkman|Star-Lord's Sony Walkman]] {{1st}}
+'''Vehicles:'''
+* {{1st|[[Milano]]}}
+
+| Plot                    = Story continues from {{sl|Guardians of the Galaxy - Mission: BREAKOUT!}}. Groot has been accidentally left behind in [[Collector's Museum|The Collector’s Fortress]] and must be rescued by [[89P13 (Earth-TRN971)|Rocket]]
+
+| Cast                    = 
+
+| Notes                   = Starting in the Fall of 2017, the {{sl|Guardians of the Galaxy - Mission: BREAKOUT!}} attraction is converted into "Guardians of the Galaxy: Monsters After Dark" for the Halloween season
+
+| Trivia                  = 
+
+| Links                   = 
+* [[Ant-Man and the Wasp: Nano Battle!]]
+* [[Guardians of the Galaxy: Cosmic Rewind]]
+* [[Guardians of the Galaxy - Awesome Mix Live!]]
+* [[Iron Man Experience]]
+* [[WEB SLINGERS: A Spider-Man Adventure|W.E.B. Slingers: A Spider-Man Adventure]]
+}}
+[[Category:Attractions]]
+[[Category:Disneyland California Adventure Park]]

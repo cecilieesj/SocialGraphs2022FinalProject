@@ -1,0 +1,103 @@
+{{Marvel Database:Film Template
+| Image                   = Guardians of the Galaxy - Awesome Mix Live! 001.jpg
+| Aliases                 = 
+| Universe                = 
+
+| Directors               = 
+| Producers               = 
+| Writers                 = 
+| Musicians               = 
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = 
+| ProductionCompanies     = 
+| Language                = English
+| Running Time            = Approximately 20 minutes
+| Rating                  = 
+| Budget                  = 
+
+| Release Date            = June 9th, 2018
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* [[Guardians of the Galaxy]]
+** [[Star-Lord|Star-Lord (Peter Quill)]]
+** [[Gamora]]
+** [[Groot]] {{OnScreen}}
+'''Supporting Characters:'''
+* [[Nova Corps]] {{1st}} {{OnScreen}}
+** [[Kara Jayley|Nova Kara Jayley]] {{1st}} {{OnScreen}}
+* [[Xandarian Chamber Orchestra|Xandarian Chamber Orchestra /]] [[Star-Lord|The Star-Lords]] {{1st}} {{g|First appearance as [[Star-Lord|The Star-Lords]]}} 
+** Numerous unnamed members
+'''Antagonists:'''
+* [[Sovereign (Race)|Sovereign]] {{BTS}}
+'''Other Characters:'''
+* [[Earth-1218#Residents|Numerous unnamed terrans]]
+* [[Zardu Hasselfrau (Earth-199999)|Zardu Hasselfrau]] {{Invoked}}
+* [[wikipedia:Aretha Franklin|Aretha Franklin]] {{Mentioned}}
+* [[wikipedia:David Hasselhoff|David Hasselhoff]] {{Mentioned}}
+* [[wikipedia:Mr. Miyagi|Mr. Miyagi]] {{Mentioned}}
+* [[wikipedia:Daniel LaRusso|Daniel-san (Daniel LaRusso)]] {{Mentioned}}
+* [[Guardians of the Galaxy]]
+** [[Rocket Raccoon|Rocket (89P13)]] {{Mentioned}}
+** [[Drax the Destroyer]] {{Mentioned}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Terrans]]}}
+* {{a|[[Xandarians]]}}
+* {{a|[[Krylorians]]}}
+* {{a|[[Human-Celestial Hybrids|Terran-Celestial Hybrids]]}}
+* {{a|[[Zen-Whoberis|Zehoberei]]}}
+* {{OnScreen|[[Flora colossi]]}}
+* [[wikipedia:Raccoon|Procyon lotor]] {{Invoked}}
+'''Locations:'''
+* Unnamed reality <!-- Theme Park universe -->
+** {{a|[[Milky Way]]}}
+*** {{a|[[Sol|Sol System]]}}
+**** {{a|[[Earth|Terra / "Planet Epcot" (Earth)]]}}
+***** {{1st|[[United States of America]]}}
+****** {{1st|[[Florida (State)|Florida]]}}
+******* {{1st|[[Orlando (Florida)|Orlando]]}}
+******** {{1st|[[Disney World|Walt Disney World]]}}
+********* {{1st|[[Epcot]]}}
+** {{1st|[[Andromeda Galaxy]]}} {{OnScreen}}
+*** {{1st|[[Tranta (System)|Tranta System]]}} {{OnScreen}}
+**** {{1st|[[Xandar]]}} {{OnScreen}}
+'''Items:'''
+* {{a|[[Star-Lord Armor|Star-Lord's Helmet]]}}
+* {{a|[[Element Gun|Quad Blasters]]}}
+* {{a|[[Godslayer|Gamora's Sword]]}}
+* {{a|[[Awesome Mix Vol. 1]]}}
+* {{a|[[Awesome Mix Vol. 2]]}}
+'''Vehicles:'''
+* {{OnScreen|[[Star Blaster|Star Blasters]]}}
+* {{OnScreen|[[Benatar]]}}
+* [[wikipedia:KITT|KITT (Knight Industries Two Thousand)]] {{Mentioned}}
+* {{BTS|[[Sovereign Drone Ships]]}}
+
+| Plot                    = After being saved by the [[Guardians of the Galaxy]], the [[Nova Corps]], now aware of [[Earth]] sent the [[Xandarian Chamber Orchestra]] to its cultural epicenter, [[Epcot]], in order to teach a [[Earth-1218#Residents|crowd of terrans]] about their culture through music.
+
+Aware of this, [[Star-Lord]] and [[Gamora]] go to Epcot, in order to save the galaxy from "bad music". With help from [[Groot]], aboard the [[Benatar]], Star-Lord sends tunes from his [[Awesome Mix]] to the Orchestra's headsets. Star-Lord helps the orchestra play 4 different songs, while Gamora reiterates to him that "bad music" is not a serious emergency that warrants their presence. Star-Lord concedes, and begins to leave after the fourth song, but the Orchestra choose to play [[wikipedia:The Jackson 5|The Jackson 5]]'s [[wikipedia:I Want You Back|"I Want You Back"]] without his help. The Guardians stay to watch, but Groot alerts them that a fleet of [[Sovereign Drone Ships]] is attacking the Benatar. The two leave, but Star-Lord tells the Orchestra to choose a new name if they want to become a truly great cover band, and the Orchestra takes the name "The Star-Lords" in his honor, before finishing their song.
+
+| Cast                    = 
+
+| Notes                   = * The stage show attraction includes covers of five classic rock song including:
+** [[wikipedia:Hooked on a Feeling|"Hooked on a Feeling"]] by [[Wikipedia:Blue Swede|Blue Swede]]
+** [[wikipedia:Come and Get Your Love|"Come and Get Your Love"]] by [[wikipedia:Redbone (band)|Redbone]]
+** [[wikipedia:Hit Me with Your Best Shot|"Hit Me With Your Best Shot"]] by [[wikipedia:Pat Benatar|Pat Benatar]]
+** [[wikipedia:Don’t Stop Me Now|"Don't Stop Me Now"]] by [[wikipedia:Queen (band)|Queen]]
+** [[wikipedia:I Want You Back|"I Want You Back"]] by [[wikipedia:The Jackson 5|The Jackson 5]]
+* Although most songs featured in this stage show were selected from [[Awesome Mix Vol. 1]] and [[Awesome Mix Vol. 2]], neither [[Wikipedia:Hit Me with Your Best Shot|"Hit Me With Your Best Shot"]] by [[Wikipedia:Pat Benatar|Pat Benatar]] nor [[Wikipedia:Don’t Stop Me Now|"Don’t Stop Me Now"]] by [[Wikipedia:Queen (band)|Queen]] were part of the [[Earth-199999|Marvel Cinematic Universe]] version of these compilations.
+[[File:Guardians of the Galaxy - Awesome Mix Live! 002.jpg|300px|right|thumb|The marquee advertising the Guardians of the Galaxy – Awesome Mix Live! showtimes at the American Gardens Theatre by the Shore]]
+* This attraction operated as a stage show at the American Gardens Theatre in the American Adventure Pavilion in [[Disney World|Epcot]]'s World Showcase.<ref name="returning">{{cite web|url=https://disneyparks.disney.go.com/blog/2019/06/guardians-of-the-galaxy-awesome-mix-live-returns-to-epcot/|title=‘Guardians of the Galaxy – Awesome Mix Live!’ Returns to Epcot|work=Disney Parks Blog|first=Thomas|last=Smith|date=14 June 2019|accessdate=17 Feb 2021}}</ref>
+* This stage show attraction ran from June 9th through August 19th, 2018. The stage show later returned from June 14th to August 18th, 2019.<ref name="returning"/>
+* Despite looking like the [[Earth-199999]] ship, the ''[[Milano]]'', the Guardians' ship is referred to as the ''[[Benatar]]'' by [[Gamora]].
+
+| Trivia                  = * This is the second Disney Theme Park attraction inspired by the [[Guardians of the Galaxy]], with the first being [[Guardians of the Galaxy - Mission: BREAKOUT!]] in [[Wikipedia:Disney_California_Adventure|Disney California Adventure]] which opened on May 27, 2017.
+
+| Links                   = * [[Guardians of the Galaxy - Mission: BREAKOUT!]]
+* [[Guardians of the Galaxy: Cosmic Rewind]]
+}}
+[[Category:Attractions]]

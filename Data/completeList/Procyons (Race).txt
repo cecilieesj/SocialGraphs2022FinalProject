@@ -1,0 +1,36 @@
+{{Cleanup}}
+{{Species Infobox
+|image = Procyon_Aliens.png
+|name = Procyons
+|games = ''[[Treasure Planet: Battle at Procyon]]''
+|voice = [[Patrick Pinney]]
+|inspiration = Raccoons
+|behaviour = Inventive, territorial, predatory
+|appearance = Raccoon-like Humanoids
+|home = Laar
+|members = [[Admiral Evar]], Rygan, Duke Fenras
+}}
+The '''Procyons''' are a race of raccoon-like aliens from the icy planet of Laar. They were featured in the video game ''[[Treasure Planet: Battle at Procyon]]'' and referenced by [[Captain Amelia|Admiral Amelia]] in the film, ''[[Treasure Planet]]''.
+
+Procyons are generally hostile toward the [[Terran Empire]], and the two powers have engaged in multiple wars throughout their history. As a result, they serve as antagonists in the game.
+
+==Physiology==
+Despite being slightly smaller than humans, Procyons have a 20% higher muscle-to-bone ratio and a greater degree of movement which gives them a sinuous grace despite their smallish stature. They have also kept the body fur that most other humanoid species have evolved away from as an adaptation to their homeworld, Laar. As a result, indoors and aboard ship, most Procyon clothing is used for ornamental and protective purposes rather than warmth. 
+
+Procyon fur ranges from various shades of brown and rust to jet-black and can include white-striping and greying streaks in older members. The size and intricacies of the patches under the eyes reflects social rank, and the noblest of Procyon families have the largest patches. Because of this, Procyons who have managed to rise through the military and social ranks will wear ornamental eye masks in order to enhance their appearance among their peers.
+
+==History==
+
+==Gallery==
+<gallery>
+ProcyonAmbassador.jpg|The Procyon Ambassador, Evar
+</gallery>
+
+{{Treasure Planet}}
+[[Category:Characters]]
+[[Category:Disney characters]]
+[[Category:Characters in video games]]
+[[Category:Treasure Planet characters]]
+[[Category:Characters introduced in video games]]
+[[Category:Aliens]]
+[[Category:Raccoons]]

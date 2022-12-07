@@ -1,0 +1,23 @@
+{{NeedImage}}
+{{Infobox film
+|name = Alice's Medicine Show
+|director = [[Walt Disney]]
+|producer = [[Charles Mintz]]
+|studio = [[Walt Disney Productions|Walt Disney Studio]]<br>[[Winkler Pictures]]
+|distributor = [[Film Booking Offices]]
+|release = [[July 11]], [[1927]]
+|preceded = ''[[Alice in the Klondike]]''
+|followed = ''[[Alice the Whaler]]''
+}}
+'''''Alice's Medicine Show''''' is a [[1927]] short film by the Walt Disney Studio and Winkler Pictures. It is part of the [[Alice Comedies]].
+
+==Summary==
+Alice and Julius sell patent medicine as part of a travelling medicine show.
+
+==External links==
+*[http://www.disneyshorts.org/shorts.aspx?shortID=64 Alice's Medicine Show] at [http://www.disneyshorts.org/ The Encyclopedia of Disney Animated Shorts]
+
+[[Category:Animated shorts]]
+[[Category:1927 shorts]]
+[[Category:Alice Comedies]]
+[[Category:Lost cartoons]]

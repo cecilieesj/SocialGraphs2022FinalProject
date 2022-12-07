@@ -1,0 +1,304 @@
+{{Marvel Database:Film Template
+| Image                   = Spider-Man No Way Home poster 003.jpg
+| Aliases                 = Serenity Now (working title), The November Project (working title), Spider-Man: Homecoming 3, Spider-Man 3, Spider-Man: Phone Home, Spider-Man: Home Wrecker, Spider-Man: Home Slice
+
+| Directors               = [[Jon Watts]]
+| Producers               = [[Kevin Feige]]; [[Amy Pascal]]
+| ScreenplayWriters       = Chris McKenna; Erik Sommers
+| ComicWriters            = [[Stan Lee]]; [[Steve Ditko]]
+| StoryWriters            = 
+| Musicians               = Michael Giacchino<br>Danny Elfman<br>Christopher Young<br>James Horner<br>Hans Zimmer
+| Cinematographers        = Mauro Fiore
+| Editors                 = Jeffrey Ford; Leigh Folsom Boyd 
+| Distributors            = Sony Pictures Releasing
+| ProductionCompanies     = Columbia Pictures, Marvel Studios, Pascal Pictures
+| Running Time            = 148 minutes
+| Rating                  = '''MPAA''': Rated PG-13 for sequences of action/violence, some language and brief suggestive comments
+| Budget                  = $200 million
+| Release Date            = December 15, 2021
+| US Release Date         = December 17, 2021
+
+| IMDB ID                 = 10872600
+| Marvel Movies           = Spider-Man:_No_Way_Home
+| MCU                     = Spider-Man:_No_Way_Home
+| Spider-Man Films        = {{PAGENAME}}
+
+| Previous Film           = Spider-Man: Far From Home
+| Previous Film2          = {{sld|Spider-Man 3 (film)}}{{sld|The Amazing Spider-Man 2 (film)}}{{sld|Venom: Let There Be Carnage}}
+| Next Film               = Morbius (film)
+| Next Film2              = {{sld|Doctor Strange in the Multiverse of Madness}}
+| Tagline                 = The Multiverse Unleashed. 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{apn|[[Peter Parker (Earth-199999)|Spider-Man (Peter Parker)]]|Spider-Man: Far From Home|-}} {{Flashback}}
+'''Supporting Characters:'''
+* {{apn|[[Michelle Jones (Earth-199999)|Michelle "MJ" Jones-Watson]]|Spider-Man: Far From Home|-}} {{g|Full name revealed}}
+* {{apn|[[Edward Leeds (Earth-199999)|Ned Leeds]]|Spider-Man: Far From Home|-}}
+* {{apn|[[Maybelle Parker (Earth-199999)|May Parker]]|Spider-Man: Far From Home|-}} {{death}}
+* {{apn|[[Harold Hogan (Earth-199999)|Happy Hogan]]|Spider-Man: Far From Home|-}}
+* {{apn|[[Stephen Strange (Earth-199999)|Doctor Strange (Stephen Strange)]]|Avengers: Endgame|Doctor Strange in the Multiverse of Madness}}
+* {{1st|[[Otto Octavius (Earth-TRN926)|Doctor Octopus (Dr. Otto Octavius)]]}}
+* {{apn|[[Peter Parker (Earth-96283)|Spider-Man (Peter Parker-96283)]]|Spider-Man 3 (film)|-}}
+* {{apn|[[Peter Parker (Earth-120703)|Spider-Man (Peter Parker-120703)]]|The Amazing Spider-Man 2 (film)|-}}
+'''Antagonists:'''
+* {{1st|[[Norman Osborn (Earth-TRN925)|Green Goblin (Dr. Norman Osborn)]]}} {{g|Depowered}}
+* {{1st|[[Curtis Connors (Earth-TRN928)|The Lizard (Dr. Curtis Connors)]]}} {{g|Depowered}}
+* {{apn|[[Maxwell Dillon (Earth-TRN929)|Electro (Max Dillon)]]|-|TheDailyBugle.net (web series) Season 2 4}} {{1stChron}} {{g|Depowered}}
+* {{apn|[[Flint Marko (Earth-TRN927)|Sandman (Flint Marko)]]|-|TheDailyBugle.net (web series) Season 2 4}} {{1stChron}} {{g|Depowered}}
+'''Other Characters:'''
+* {{OnScreenOnly|[[Quentin Beck (Earth-199999)|Mysterio ("Quentin Beck")]]}}
+* {{a|[[Daily Bugle (Earth-199999)|Daily Bugle]]}}
+** {{apn|[[John Jonah Jameson (Earth-199999)|J. Jonah Jameson]]|Venom: Let There Be Carnage|TheDailyBugle.net (web series) Season 2 4}}
+* {{a|[[Department of Damage Control (Earth-199999)|U.S. Department of Damage Control]]}}
+** {{1st|[[P. Cleary (Earth-199999)|P. Cleary]]}}
+* {{a|[[Stark Industries (Earth-199999)|Stark Industries]]}}
+* {{mentioned|[[Talos (Earth-199999)|"Nick Fury"]]}}
+* {{mentioned|[[Nicholas Fury (Earth-199999)|Nick Fury]]}}
+* {{mentioned|[[Adrian Toomes (Earth-199999)|Vulture (Adrian Toomes)]]}}
+* {{apn|[[Matthew Murdock (Earth-199999)|Matt Murdock]]|Marvel's Daredevil Season 3 13|She-Hulk: Attorney at Law Season 1 8}}
+* {{a|[[Food, Emergency Aid, Shelter and Training (Earth-199999)|F.E.A.S.T.]]}} {{1stChron}}
+* {{a|[[New York City Police Department (Earth-199999)|NYPD]]}}
+* {{apn|[[Elizabeth Brant (Earth-199999)|Betty Brant]]|TheDailyBugle.net (web series) Season 2 13|TheDailyBugle.net (web series) Season 2 4}}
+* {{apn|[[Klev (Earth-199999)|Klev]]|Shang-Chi and the Legend of the Ten Rings|-}} {{g|Voice}} {{g|Off-screen}}
+* {{apn|[[Eugene Thompson (Earth-199999)|Flash Thompson]]|Spider-Man: Far From Home|-}}
+* {{apn|[[Roger Harrington (Earth-199999)|Roger Harrington]]|Spider-Man: Far From Home|-}}
+* {{apn|[[Julius Dell (Earth-199999)|Julius Dell]]|Spider-Man: Far From Home|-}}
+* {{apn|[[Andre Wilson (Earth-199999)|Coach Wilson]]|Spider-Man: Homecoming|-}}
+* {{a|[[Masters of the Mystic Arts (Earth-199999)|Masters of the Mystic Arts]]}}
+** {{apn|[[Wong (Earth-199999)|Wong]]|Shang-Chi and the Legend of the Ten Rings|Doctor Strange in the Multiverse of Madness}}
+* {{photo|[[Elizabeth Allan (Earth-199999)|Liz Allan]]}}
+* {{mentioned|[[Avengers (Earth-199999)|Avengers]]}}
+** {{mentioned|[[Anthony Stark (Earth-199999)|Tony Stark]]}}
+** {{mentioned|[[Steven Rogers (Earth-199999)|Captain America (Steve Rogers)]]}}
+** {{mentioned|[[Bruce Banner (Earth-199999)|Hulk (Bruce Banner)]]}}
+* {{Mentioned|[[Mary Jane Watson (Earth-TRN926)]]}}
+* {{Mentioned|[[Peter Parker (Earth-TRN926)|Spider-Man (Peter Parker-TRN926)]]}}
+* {{Mentioned|[[Norman Osborn (Earth-TRN926)|Green Goblin (Norman Osborn-TRN926)]]}} {{Deceased}}
+* [[w:c:scoobydoo:Scooby-Doo|Scooby-Doo]] {{Mentioned}}
+* {{Mentioned|[[Peter Parker (Earth-TRN928)|Spider-Man (Peter Parker-TRN928)]]}}
+* {{Mentioned|[[Curtis Connors (Earth-TRN929)|The Lizard (Dr. Curt Connors-TRN929)]]}}
+* {{Mentioned|[[Oscorp Industries (Earth-TRN929)|Oscorp (Earth-TRN929)]]}}
+* {{Mentioned|[[Norman Osborn (Earth-TRN927)|Green Goblin (Norman Osborn-TRN927)]]}} {{Deceased}}
+* {{Mentioned|[[Otto Octavius (Earth-TRN927)|Doctor Octopus (Otto Octavius-TRN927)]]}} {{Deceased}}
+* {{Mentioned|[[Peter Parker (Earth-TRN927)|Spider-Man (Peter Parker-TRN927)]]}}
+* {{Mentioned|[[Oscorp Industries (Earth-TRN925)|Oscorp (Earth-TRN925)]]}}
+* {{Mentioned|[[Oscorp Industries (Earth-TRN928)|Oscorp (Earth-TRN928)]]}}
+** {{Mentioned|[[Maxwell Dillon (Earth-TRN928)|Max Dillon (Earth-TRN928)]]}}
+* {{Mentioned|[[Peter Parker (Earth-TRN929)|Spider-Man (Peter Parker-TRN929)]]}}
+* {{Mentioned|[[Peter Parker (Earth-TRN925)|Spider-Man (Peter Parker-TRN925)]]}}
+* {{Mentioned|[[Harold Osborn (Earth-TRN925)|Harry Osborn (Earth-TRN925)]]}}
+* {{Mentioned|[[Mary Jane Watson (Earth-TRN925)]]}}
+* {{Mentioned|[[Otto Octavius (Earth-TRN925)]]}}
+* {{Mentioned|[[Penny Marko (Earth-TRN927)|Penny Marko (Earth-TRN927)]]}}
+* {{Invoked|[[Yahweh (Earth-199999)|God (Yahweh)]]}}
+* {{Mentioned|[[Mary Jane Watson (Earth-96283)|Mary Jane Watson (Earth-96283)]]}}
+* {{Mentioned|[[Gwendolyne Stacy (Earth-120703)|Gwen Stacy (Earth-120703)]]}} {{Deceased}}
+* {{Mentioned|[[Benjamin Parker (Earth-96283)|Uncle Ben Parker (Earth-96283)]]}} {{Deceased}}
+* {{Mentioned|[[Dennis Carradine (Earth-96283)|Dennis Carradine (Earth-96283)]]}} {{Deceased}}
+* {{Mentioned|[[Benjamin Parker (Earth-120703)|Uncle Ben Parker (Earth-120703)]]}} {{Deceased}}
+* {{Mentioned|[[Curtis Connors (Earth-120703)|The Lizard (Dr. Curt Connors-120703)]]}}
+* {{Mentioned|[[Norman Osborn (Earth-96283)|Green Goblin (Norman Osborn-96283)]]}} {{Deceased}}
+* {{Mentioned|[[Harold Osborn (Earth-96283)|Harry Osborn (Earth-96283)]]}} {{Deceased}}
+* {{Mentioned|[[Maxwell Dillon (Earth-120703)|Electro (Max Dillon-120703)]]}} {{Deceased}}
+* {{Mentioned|[[Venom (Symbiote) (Earth-96283)|Black Suit (Venom Symbiote-96283)]]}} {{Deceased}}
+* {{Mentioned|[[Thanos (Earth-TRN734)|Thanos (2014)]]}} {{Deceased}}
+* {{Mentioned|[[Thanos (Earth-199999)|Thanos]]}} {{Deceased}}
+* {{Mentioned|[[Aleksei Sytsevich (Earth-120703)|Rhino (Aleksei Sytsevich-120703)]]}}
+* {{Minor|[[Aleksei Sytsevich (Earth-Unknown)|Rhino]]}} {{g|First appearance; silhouette}}
+* {{Minor|[[Sergei Kravinoff (Earth-Unknown)|Kraven the Hunter]]}} {{g|First appearance; silhouette}}
+* {{Minor|[[MacDonald Gargan (Earth-Unknown)|Scorpion]]}} {{g|First appearance; silhouette}}
+* {{Minor|[[Felicia Hardy (Earth-Unknown)|Black Cat]]}} {{g|First appearance; silhouette}}
+* {{Minor|[[Otto Octavius (Earth-Unknown)|Superior Spider-Man]]}} {{g|First appearance; silhouette}}
+* {{Minor|[[Quentin Beck (Earth-Unknown)|Mysterio]]}} {{g|First appearance; silhouette}}
+* {{Minor|[[Cindy Moon (Earth-Unknown)|Silk]]}} {{g|First appearance; silhouette}}
+* {{Minor|[[Peter Parker (Earth-Unknown)|Man-Spider]]}} {{g|First appearance; silhouette}}
+* {{Minor|[[Doppelganger (Spider-Man) (Earth-Unknown)|Doppelganger]]}} {{g|First appearance; silhouette}}
+* Several unknown silhouettes
+* {{apn|[[Venom (Symbiote) (Earth-TRN688)|Venom Symbiote]]|Venom: Let There Be Carnage|-}}
+* {{apn|[[Edward Brock (Earth-TRN688)|Venom (Eddie Brock)]]|Venom: Let There Be Carnage|-}}
+* Venom Offshoot {{1st}}
+* {{Photo|[[Even Dead, I'm The Hero (Earth-199999)|E.D.I.T.H.]]}}
+'''Races and Species:'''
+* {{Flashback|[[Humans (Homo sapiens)|Humans]]}}
+* {{a|[[Symbiotes]]}}
+* {{Mentioned|[[Radioactive Spider (Earth-199999)|Radioactive Spider]]}}
+* {{Mentioned|[[Lizards]]}}
+* {{Mentioned|[[Dinosaurs]]}}
+* {{Mentioned|[[Cyborgs]]}}
+* {{Mentioned|[[Titans (Eternals)|Titans]]}}
+* {{Mentioned|[[Eels|Electric Eels]]}}
+'''Locations:'''
+* {{Mentioned|[[Multiverse]]}}
+** {{a|[[Earth-199999]]}}
+*** {{a|[[Earth]]}}
+**** {{a|[[North America]]}}
+***** {{a|[[United States of America]]}}
+****** {{a|[[New York (State)|New York]]}}
+******* {{a|[[New York City]]}}
+******** {{a|[[Manhattan]]}}
+********* {{a|[[Times Square]]}}
+********* {{a|[[Madison Square Garden]]}}
+********* {{a|[[Greenwich Village]]}}
+********** {{a|[[Sanctum Sanctorum]]}}
+********* {{a|[[Central Park]]}}
+********* {{Mentioned|[[Chrysler Building]]}}
+********* {{Mentioned|[[Empire State Building]]}}
+********* {{a|[[Rockefeller Center]]}}
+******** {{a|[[Queens]]}}
+********* {{a|[[Queensboro Bridge]]}}
+********* {{Cameo|[[Delmar's Deli-Grocery]]}}
+********* {{a|[[Aunt May's House|Parker Residence]]}}
+********* {{a|[[Midtown High School|Midtown School of Science & Technology]]}}
+******** {{a|[[Upper New York Bay]]}}
+********* {{a|[[Liberty Island]]}}
+********** {{a|[[Statue of Liberty]]}}
+******* {{a|[[Long Island]]}}
+******** Happy Hogan's apartment {{1stChron}}
+****** {{Mentioned|[[Massachusetts (State)|Massachusetts]]}}
+******* {{Mentioned|[[Massachusetts Institute of Technology|M.I.T.]]}}
+******* {{Mentioned|[[Boston]]}}
+****** {{a|[[Arizona (State)|Arizona]]}} {{g|In Mirror Dimension}}
+******* {{a|[[Grand Canyon]]}} {{g|In Mirror Dimension}}
+***** {{OnScreenOnly|[[United Kingdom]]}}
+****** {{OnScreenOnly|[[London (England)|London]]}}
+******* {{OnScreenOnly|[[Tower Bridge]]}}
+**** {{Mentioned|[[Kamar-Taj]]}}
+**** {{Mentioned|[[Siberia]]}}
+** {{Mentioned|[[Earth-96283]]}}
+** {{Mentioned|[[Earth-120703]]}}
+* {{a|[[Mirror Dimension]]}}
+'''Items:'''
+* {{a|[[Spider-Man's Suit|Spider-Man's Suits]]}} and {{a|[[Web-Shooters]]}}
+** {{a|[[Iron Spider Armor]]}}
+* {{a|[[Stark Industries Drones]]}}
+* {{a|[[Dum-E]]}}
+* {{a|[[Tony Stark's Sunglasses]]}}
+* {{Cameo|[[Crimson Bands of Cyttorak]]}}
+* {{Cameo|[[Daggers of Daveroth]]}}
+* {{a|[[Cloak of Levitation]]}}
+* {{a|[[Sling Ring]]}}
+* {{a|[[Eye of Agamotto (Knowledge)|Eye of Agamotto]]}}
+* {{a|[[Doctor Octopus' Tentacles]]}}
+* {{a|[[Goblin Glider]]}}
+* {{a|[[Goblin Armor]]}}
+* {{a|[[Pumpkin Bomb]]}}
+* {{a|[[Razor Bat]]}}
+* {{a|[[Arc Reactor]]}}
+* {{1st|[[Runes of Kauf-Kaul]]}}
+* {{Destruction|[[Macchina di Kadavus]]}}
+* Goblin Formula Cure
+* {{Mentioned|[[Infinity Stones]]}}
+** {{Mentioned|[[Time Stone]]}}
+* {{Statue|[[Captain America's Shield]]}}
+* {{Mentioned|[[Rhino Armor]]}}
+
+| Plot                    = Quentin Beck frames Peter Parker for his death and reveals his identity to the world as Spider-Man, so Parker and his girlfriend MJ flee to their apartment. Though unsuccessful, Peter tries to hide the fact that his identity was exposed from Aunt May and Happy Hogan. Peter Parker, MJ, his best friend Ned Leeds, and his Aunt May are questioned by Damage Control. Parker's lawyer Matt Murdock has Parker cleared of all his charges but they are received negatively by the public. Parker, MJ, and Ned's MIT applications are denied due to the recent "controversy" surrounding them so Parker visits Stephen Strange at the New York Sanctum to ask him to wipe the world's memory of his secret identity. Strange begins the spell but due to Parker repeatedly asking him to alter the spell so his loved ones can know and gets out of control. Strange manages to close the spell and makes Parker leave. 
+
+Parker asks an MIT administrator to reconsider denying the applications of his friends but is attacked by Otto Octavius. Octavius' tentacles bond with Parker's nanotechnology, allowing Parker to disable them. Norman Osborn then arrives but he and Octavius are teleported back to the New York Sanctum and Octavius is placed in a cell. Strange reveals he has also imprisoned Curt Connors and reveals that the spell he casted caused people who knew Spider-Man's identity to cross over from other universes. He then tells Parker, MJ, and Ned to bring back the other villains. Parker manages to retrieve Max Dillon and Flint Marko. 
+
+Osborn regains control from his Green Goblin persona and finds May, who comforts him until Parker arrives. Parker learns from the villains that most of them were taken from their universes just before their deaths. Strange prepares to send the villains back and meet their fates but Parker disagrees and fights Strange, eventually stealing the spell and leaving him trapped in the Mirror Dimension. Parker and May then take the villains to Happy Hogan's apartment, and Parker manages to cure Octavius but Osborn's Green Goblin persona comes into control again and convinces the other uncured villains to betray Parker. Before the villains escape, Green Goblin fatally impales May with his glider, and as she dies in Parker's arms she tells him "with great power, there must also come great responsibility". 
+
+Ned discovers he can open portals with Strange's sling ring and attempts to locate Parker, only to accidentally bring over alternate versions of him from the same universes as the villains. The two Spider-Men find Parker and tell him how they lost their lost ones, convincing him not to give up. Green Goblin and Marko's Spider-Man is nicknamed "Peter-Two" and Connor and Dillon's Spider-Man is nicknamed "Peter-Three". The three Spider-Men develop cures for the villains and lure them to the Statue of Liberty, where they are assisted by Ned, MJ, and Octavius in fighting them. 
+
+Marko is second to be cured by Peter-Two at the top of the Statue of Liberty. Dillon is cured with the help of Octavius and is convinced to give up his villainous tendencies by Peter-Three. As Peter-One cures Connors, Ned uses a portal to free Strange from the Mirror Dimension. Peter-Two and Octavius are reunited and have a heart-felt reunion together. A furious Strange takes back the Macchina di Kadavus however The Green Goblin arrives and destroys the contained spell, which starts to bring in more people from different universes. Parker angrily tries to kill Green Goblin to avenge his Aunt May but he is calmed down by the Spider-Man from Goblin's universe Peter-Two, who is then stabbed in the back by Goblin. Peter-Three helps Peter-One inject Goblin with the cure, freeing Osborn from the Goblin forever. Parker realizes the only way to save the multiverse is by making the world completely forget his existence, and has Strange cast a spell to do so. As he says his final goodbyes to his friends, he promises to find them again. Strange's spell also sends the alternate Spider-Man and the redeemed villains back to their universes. Two weeks later, Parker decides Ned and MJ's lives are better without him and does not remind them of who he is. He then visits May's graves and makes a homemade suit for himself, continuing independent crime-fighting to honour his aunt's memories. 
+
+In a post-credit scene, Eddie Brock is returned to his universe as a result of Strange's spell but inadvertently leaves a part of the Venom symbiote behind.
+| Cast                    = * {{WP|Tom Holland}} as [[Peter Parker (Earth-199999)|Spider-Man / Peter Parker]]<ref name="Spider-Man Return">{{cite web|url=https://variety.com/2019/film/news/sony-marvel-tom-holland-spider-man-1203351489/|title=Spider-Man Will Stay in the Marvel Cinematic Universe|first=Brent|last=Lang|work=Variety|date=27 September 2019|accessdate=25 February 2021}}</ref>
+
+* {{WP|Zendaya}} as [[Michelle Jones (Earth-199999)|Michelle "MJ" Jones]]
+
+* {{WP|Jacob Batalon}} as [[Edward Leeds (Earth-199999)|Ned Leeds]]<ref name="Doctor Strange">{{cite web|url= https://www.hollywoodreporter.com/heat-vision/benedict-cumberbatch-joins-spider-man-3-as-doctor-strange-exclusive|title= Benedict Cumberbatch Joins ‘Spider-Man 3’ as Doctor Strange (Exclusive)|work= THR|last= Kit|first= Borys|date= October 8, 2020|accessdate= February 24, 2021}}</ref>
+
+* {{WP|Marisa Tomei}} as [[Maybelle Parker (Earth-199999)|Aunt May Parker]]
+
+* {{WP|Jamie Foxx}} as [[Maxwell Dillon (Earth-TRN929)|Electro / Max Dillon]]{{r|{{cite web|url= https://www.hollywoodreporter.com/heat-vision/spider-man-3-jolt-jamie-foxx-returning-as-electro-exclusive|title= 'Spider-Man 3' Jolt: Jamie Foxx Returning as Electro (Exclusive)|work= THR|last= Kit|first= Borys|date= October 1, 2020|accessdate= February 24, 2021}}}}
+
+* {{WP|Benedict Cumberbatch}} as [[Stephen Strange (Earth-199999)|Doctor Strange / Stephen Strange]]<ref name="Doctor Strange"/>
+
+* {{WP|Willem Dafoe}} as [[Norman Osborn (Earth-TRN925)|Green Goblin / Norman Osborn]]
+** Dafoe was digitally de-aged to resemble the character's 2002 self.
+
+* {{WP|Alfred Molina}} as [[Otto Octavius (Earth-TRN926)|Doctor Octopus / Otto Octavius]]{{r|{{cite web|url= https://www.hollywoodreporter.com/heat-vision/spider-man-3-alfred-molina-returning-as-doctor-octopus|title= 'Spider-Man 3': Alfred Molina Returning as Doctor Octopus|work= THR|last= Couch|first= Aaron|coauthors= Kit, Borys|date= December 8, 2020|accessdate= February 24, 2021}}}}
+** In response to Molina's confusion about the fate of Doctor Octopus from the film {{sl|Spider-Man 2 (film)}}, director [[Jon Watts]] told Molina, “In this universe, no one really dies.” Early conversations Molina and Watts had about ''Spider-Man: No Way Home'' had his character pick up from his death in ''Spider-Man 2''. Digital de-aging effects were used on Molina.<ref>{{cite web|url=https://variety.com/2021/film/news/alfred-molina-spider-man-no-way-home-doc-ock-1234953527/|title=Alfred Molina Details Doc Ock’s Return in ‘Spider-Man: No Way Home’: ‘The Tentacles Do All the Work’ (EXCLUSIVE)|date=16 April 2021|accessdate=19 April 2021|last=Arthur|first=Kate|coauthors=|work=Variety}}</ref>
+
+* {{WP|Benedict Wong}} as [[Wong (Earth-199999)|Wong]]
+
+* {{WP|Tony Revolori}} as [[Eugene Thompson (Earth-199999)|Eugene "Flash" Thompson]]
+
+* {{WP|Angourie Rice}} as [[Elizabeth Brant (Earth-199999)|Betty Brant]]{{r|{{cite web|url= https://www.instagram.com/p/CLsZqR6B-6_/|title= Arachnid-Boy: Will He Ever Get to His House? - only in movie theatres this Christmas|work= Instagram|author= angourierice|date= February 25, 2021|accessdate= February 25, 2021}}}}
+
+* {{WP|J. B. Smoove}} as [[Julius Dell (Earth-199999)|Julius Dell]]{{r|{{cite web|url= https://www.iheart.com/podcast/105-the-daily-zeitgeist-28516718/episode/disney-not-racist-enough-almost-goat-81640946/|title= Disney Not Racist Enough? Almost GOAT Wedding? 4.26.21|work= iHeartRadio|author= The Daily Zeitgeist|date= April 26, 2021|accessdate= April 27, 2021}}}}
+
+* {{WP|Jon Favreau}} as [[Harold Hogan (Earth-199999)|Harold "Happy" Hogan]]
+
+* {{WP|Thomas Haden Church}} as [[Flint Marko (Earth-TRN927)|Sandman / Flint Marko]]
+
+* {{WP|Rhys Ifans}} as [[Curtis Connors (Earth-TRN928)|Doctor Curtis Connors]]
+
+* {{WP|Andrew Garfield}} as [[Peter Parker (Earth-120703)|Spider-Man (Peter Parker)-120703]]
+
+* {{WP|Tobey Maguire}} as [[Peter Parker (Earth-96283)|Spider-Man (Peter Parker)-96283]]
+
+* {{WP|Charlie Cox}} as [[Matthew Murdock (Earth-199999)|Matt Murdock]]
+
+Additionally, {{WP|Tom Hardy}} makes an uncredited cameo as [[Edward Brock (Earth-TRN688)|Eddie Brock]] / [[Venom (Symbiote) (Earth-TRN688)|Venom]], in a mid-credits scene. Harry Holland, Tom's younger brother, was set to make a cameo appearance as a drug dealer{{r|{{cite web|url= https://www.youtube.com/watch?v=hP8dOUm2qgc|title= Tom Holland Shows Off His Viral Pants-less Look for Virtual Interviews|work= Youtube|author= The Tonight Show Starring Jimmy Fallon|date= February 24, 2021|accessdate= February 25, 2021}}}} however these were removed.{{r|{{cite web|url=https://screenrant.com/spiderman-no-way-home-harry-holland-scene-cut|title=Spider-Man: No Way Home Cut Scene with Tom Holland's Brother Harry|first=Dan|last=Zinski|work=Screen Rant|date=4 December 2021|accessdate=16 December 2021}}}}
+
+| Notes                   = * Right after the release of {{sl|Spider-Man: Far From Home}}, negotiations between [[Marvel Studios]] and Sony Pictures largely regarding the shares of the revenue of the ''Spider-Man'' films broke down, thus ending Sony's deal to have [[Peter Parker (Earth-199999)|Spider-Man]] appear in the [[Earth-199999|Marvel Cinematic Universe]].<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/sony-fires-back-at-marvel-spider-man-movie-divorce-1233490|title='Spider-Man' Studio Sony Goes Public With Marvel Movie Divorce: "We Are Disappointed" (Exclusive)|first=Borys|last=Kit|work=The Hollywood Reporter|date=20 August 2019|accessdate=25 February 2021}}</ref> Due to the fan backlash and [[wikipedia:Tom Holland (actor)|Tom Holland]]'s pleading with the then-Disney CEO {{WP|Bob Iger}}, negotiations were resumed a few weeks later.<ref>{{cite web|url=https://deadline.com/2019/09/sony-walt-disneys-marvel-team-on-third-spider-man-homecoming-title-with-superhero-to-appear-in-future-marvel-pics-1202746497/|title=Spider-Man Back In Action As Sony Agrees To Disney Co-Fi For New Movie, Return To MCU: How Spidey’s Web Got Untangled|first=Anthony|last=D'Alessandro|work=Deadline|date=27 September 2019|accessdate=25 February 2021}}</ref> At the end of September 2019, the two companies announced that they'd continue their collaboration for a third ''Spider-Man'' film and another MCU movie where Spider-Man would appear.<ref name="Spider-Man Return"/>
+* Originally scheduled with the American release date of July 16, 2021,<ref name="Spider-Man Return"/> it was pushed back to November 5, 2021,<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/spider-man-sequel-delays-release-november-2021-sony-date-shuffle-1291805|title='Spider-Man' Sequel Delays Release to November 2021 Amid Sony Date Shuffle|first=Pamela|last=McClintock|coauthors=Couch, Aaron|work=The Hollywood Reporter|date=24 April 2020|accessdate=25 February 2021}}</ref> then again to December 17, 2021, due to the [[wikipedia:COVID-19 pandemic|COVID-19 pandemic]].<ref>{{cite web|url=https://variety.com/2020/film/news/spider-man-far-from-home-sequel-delayed-1234715451/|title=‘Spider-Man: Far From Home’ Sequel Delayed to December 2021|first=Jordan|last=Moreau|work=Variety|date=23 July 2020|accessdate=25 February 2021}}</ref>
+* Filming started on October 16 2020, in Queens.
+* The title of the film was revealed via Twitter by Sony on February 24, 2021.<ref>{{cite web|url=https://twitter.com/SpiderManMovie/status/1364631273226919937|title=This, we can confirm. #SpiderManNoWayHome only in movie theaters this Christmas.|work=Twitter|date=24 February 2021|accessdate=24 February 2021}}</ref>
+* The post-credits scene is the first trailer for {{sl|Doctor Strange in the Multiverse of Madness}}.
+
+| Trivia                  = *A lot of quotes and scenes in this movie are direct references to scenes from previous Spider-Man movies, namely those directed by [[Sam Raimi]] and [[Marc Webb]].
+** When held in captivity, Osborn tells Parker that he can help him saying ''I'm something of a scientist myself''. This quote is lifted directly from {{sl|Spider-Man (2002 film)}} where Osborn says the same quote to [[Peter Parker (Earth-96283)|Peter-Two]].
+** Similarly, Octavius is quoted multiple times as saying ''The power of the sun, in the palm of my hand'', a phrase he commonly used to describe his reactor in {{sl|Spider-Man 2 (film)}}.
+** As MJ is falling from the Statue of Liberty, Parker initially fails in catching her but she is instead caught by [[Peter Parker (Earth-120703)|Peter-Three]]. This is a reference to {{sl|The Amazing Spider-Man 2 (film)}} in which Peter-Three failed to catch [[Gwendolyne Stacy (Earth-120703)|Gwen Stacy]].
+
+==Gallery==
+===Alternate Posters===
+<gallery>
+Spider-Man No Way Home Logo.jpg
+Spider-Man No Way Home banner 001.jpg
+Spider-Man No Way Home poster 001.jpg
+Spider-Man No Way Home poster 001 textless.jpg
+Spider-Man No Way Home poster 002.jpg
+Spider-Man No Way Home poster 002 Textless.jpg
+Spider-Man No Way Home poster 003 Textless.jpg
+Spider-Man No Way Home poster 004.png
+Spider-Man No Way Home poster 004 Textless.jpg
+Spider-Man No Way Home poster 005.jpg
+Spider-Man No Way Home poster 005 Textless.jpg
+Spider-Man No Way Home poster 010.jpg
+Spider-Man No Way Home poster 010 Textless.jpg
+Spider-Man No Way Home poster 011.jpg
+Spider-Man No Way Home poster 011 Textless.jpg
+Spider-Man No Way Home poster 006.jpg
+Spider-Man No Way Home poster 007.jpg
+Spider-Man No Way Home poster 007 Textless.jpg
+Spider-Man No Way Home poster 008.jpg
+Spider-Man No Way Home poster 008 Textless.jpg
+Spider-Man No Way Home poster 009.jpg
+Spider-Man No Way Home poster 009 Textless.jpg
+Spider-Man No Way Home poster 012.jpg
+Spider-Man No Way Home poster 013.jpg
+Spider-Man No Way Home poster 013 textless.jpg
+</gallery>
+===Videos===
+====Trailers====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+SPIDER-MAN- NO WAY HOME - Official Teaser Trailer
+SPIDER-MAN- NO WAY HOME - Official Trailer
+</gallery>
+====Teasers====
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+The New Spider-Man Title is…
+</gallery>
+| Links                   = * [[Marvel Films#Theatrically Released Films|Marvel Films]]
+}}
+[[es:Spider-Man: Sin Camino a Casa]]
+[[it:Spider-Man: No Way Home]]
+[[tr:Örümcek-Adam: Eve Dönüş Yok]]
+[[Ru:Человек-паук: Нет пути домой]]
+[[Category:Marvel Studios]]
+[[Category:Sony Pictures Entertainment]]

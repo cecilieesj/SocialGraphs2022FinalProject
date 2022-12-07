@@ -1,0 +1,50 @@
+{{Infobox character
+|name=Castor
+|image=Castor.png
+|films=''[[Tron: Legacy]]''
+|games=''[[Tron: Evolution]]''
+|actor=[[Michael Sheen]]
+|voice= James Frain
+|inspiration=[[David Bowie]]
+|alias = Zeus
+|status = Derezzed}}
+
+'''Castor''' (formerly known as '''Zuse''') is a program in ''[[Tron: Legacy]]''. He is a flamboyant and vivacious program that owns and operates the [[End of Line Club]], a nightclub located on top of the tallest tower in Tron City.
+
+==Biography==
+Disparate accounts of Castor's origin exist. He was reputedly designed and created by Kevin Flynn in TC30 as an interpreter but quickly and naturally exceeded his original directives. Unconfirmed conflicting reports describe his origin as a "low-priority actuarial algorithm illegally co-opted identity of the obsolete protocol. More investigation required for verification."
+
+As Zuse, he was involved in [[CLU 2.0]]'s purge fighting alongside the [[ISO|Isomorphic Algorithms]]. After the Purge, he found a need to reinvent himself for self-protection, thus adopting the new persona of Castor. He is known to have a past history with the ISO, [[Quorra]].
+
+Castor's first appearance in ''[[TRON: Legacy]]'' was when [[Gem]] guided [[Sam Flynn]] to him at the [[End of Line Club]] where Castor was posing as a middle man between those who are seeking Zuse and Zuse himself. Knowing full well of Sam's connection to his father, he eventually revealed himself as Zuse and agreed to help Sam make his exit. This meeting was interrupted when a squad of [[Black Guard]]s raided the club, revealing Castor's duplicitous connection with Clu. Kevin and Quorra intervened and thus changed the tide of battle, prompting Castor to withdraw to safety. As the trio escaped, however, a surviving Black Guard snatched the Identity Disc from Kevin's back, but was himself beaten when Castor blew a hole through him with his cane. Castor triumphantly retrieved the disc that was his prize all along.
+
+In the aftermath of the battle, Clu paid a visit to the End of Line Club to retrieve Kevin's disc from Castor. The deal was to give Castor complete control of Tron City in exchange for Kevin's identity disc. Clu evidently had no intention of holding up his end of the bargain and simply took the disc, his Black Guards planting Light Grenades on the walls as they left. Castor was left standing speechless - the master of negotiations and the self-proclaimed player of "all the angles" had himself been played. A short time later the End of Line Club was ripped apart by the guardsmen's explosives.
+
+==Trivia==
+*Michael Sheen had to wear light blue contacts for the role of Castor.
+*The symbol on his forehead may be a modification of the Ubuntu logo. This, coupled with the name Castor is most likely a reference to the Castor Project, and in particular the "castor" ubuntu package. Compare with Suse and Opensuse, a Linux distribution.
+*The name Zuse is possibly either a reference to the Zuse Z3, which was one of the first fully functional programmable computers, or its inventor: Konrad Zuse.
+*Castor is named after a very bright star in the Gemini constellation.
+
+==Gallery==
+<gallery position="center">
+TronLegacyClu.jpg
+Casterplayinghiscane.jpg
+</gallery>
+
+{{Tron}}
+[[Category:Tron characters]]
+[[Category:Programs]]
+[[Category:Disney characters]]
+[[Category:Characters]]
+[[Category:Businesspeople]]
+[[Category:Neutral characters]]
+[[Category:Wonderful World of Color]]
+[[Category:Presumably Deceased characters]]
+[[Category:Live-action characters]]
+[[Category:Villains]]
+
+[[Category:Males]]
+[[Category:Characters in video games]]
+[[Category:Live-action villains]]
+[[Category:Those destroyed]]

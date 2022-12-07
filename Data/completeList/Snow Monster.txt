@@ -1,0 +1,64 @@
+{{Infobox character
+|image = Dtr-snow-monster.gif 
+|name = 
+|films = 
+|shorts = 
+|shows = 
+|games = ''[[DuckTales (video game)|DuckTales]]''<br>''[[DuckTales Remastered]]'' 
+|rides = 
+|actor = 
+|actress = 
+|animator = 
+|voice = [[Frank Welker]]
+|model = 
+|designer = 
+|inspiration = 
+|awards = 
+|fullname = 
+|alias = 
+|personality = 
+|appearance = 
+|occupation = 
+|alignment = Bad, later neutral
+|affiliations = 
+|goal = 
+|home = 
+|family = 
+|pets = 
+|friends = 
+|minions = 
+|enemies = 
+|likes = 
+|dislikes = 
+|powers = 
+|possessions = 
+|weapons = 
+|fate = 
+|quote = }}The '''Snow Monster''', also known as The '''Abominable Snowman''', appears in the video games ''[[DuckTales (video game)|DuckTales]]'' and ''[[DuckTales Remastered]]'' as the boss of the Himalayas level.
+In ''Remastered'', her sounds were supplied by [[Frank Welker]].
+
+<gallery>
+Snow Monster NES.png|The Abominable Snowman boss fight in ''[[DuckTales (video game)|DuckTales]]''
+DTNES - Abominable Snowman (Nintendo Power).png|Artwork from ''Nintendo Power''
+</gallery>
+
+==Trivia==
+The Snow Monster's design in [[DuckTales Remastered]] strongly resembles [[Bigfoot]]'s original design from "[[A Goofy Movie]]."
+
+{{CharacterStub}}
+{{DuckTales}}
+[[Category:Characters]]
+[[Category:DuckTales characters]]
+[[Category:Video game bosses]]
+[[Category:Females]]
+[[Category:Monsters]]
+[[Category:Giants]]
+
+[[Category:Disney characters]]
+[[Category:Snowmen]]
+[[Category:Animated characters]]
+[[Category:Adults]]
+[[Category:Neutral characters]]
+[[Category:Characters introduced in video games]]
+[[Category:Villains]]
+[[Category:Apes]]

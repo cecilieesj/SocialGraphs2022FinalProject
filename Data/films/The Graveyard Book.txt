@@ -1,0 +1,33 @@
+{{Upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = The Graveyard Book
+|director = Marc Forster
+|writer = David Magee
+|starring = 
+|producer = Renée Wolfe<br>Gil Netter
+|studio = [[Walt Disney Pictures]]<br>2Dux2
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|cinematography = 
+|music = 
+|editor = 
+|time = 
+|language = English
+|release = 
+|budget = 
+|website = 
+|imdb_id = }}
+'''''The Graveyard Book''''' is an upcoming American film based on the young adult novel of the {{WPS|The Graveyard Book|same name}}.
+
+==Production==
+On July 19, 2022, ''Deadline'' reported that [[Walt Disney Pictures]] was developing an adaptation of ''The Graveyard Book''.<ref>[https://deadline.com/2022/07/marc-forster-renee-wolfe-disney-the-graveyard-book-1235072324/ Marc Forster And Producing Partner Renée Wolfe Developing Adaptation Of Neil Gaiman’s ‘The Graveyard Book’ At Disney]</ref>
+
+==References==
+{{Reflist}}
+
+{{DISPLAYTITLE:''The Graveyard Book''}}
+[[Category:Upcoming films]]
+[[Category:Disney films]]
+[[Category:Films based on books]]
+[[Category:Live-action films]]

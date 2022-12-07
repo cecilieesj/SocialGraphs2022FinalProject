@@ -1,0 +1,39 @@
+{{Infobox film
+|image = Without-you.jpg
+|name = Without You
+|director = Robert Cormack
+|producer = [[Walt Disney]]
+|writer = 
+|studio = [[Walt Disney Productions]]
+|distributor = [[RKO Radio Pictures]]
+|release = [[August 15]], [[1946]]
+|language = English
+}}
+'''''Without You''''' is an animated short of the segment in the special, ''[[Make Mine Music]]''.
+
+==Synopsis==
+"A Ballad in Blue" is a series of impressionistic images set to Andy Russell's rendition of the title song.
+
+==Lyrics==
+{{Main|Without You (song)}}
+
+==Gallery==
+<gallery position="center" widths="150" captionalign="center" spacing="small">
+41705.jpg
+41706.jpg
+41707.jpg
+41708.jpg
+41709.jpg
+41710.jpg
+41711.jpg
+41712.jpg
+41713.jpg
+41714.jpg
+Tumblr myul5o6kEs1qhcrb0o1 1280.jpg
+</gallery>
+
+{{Make Mine Music}}
+[[Category:1946 shorts]]
+[[Category:Animated shorts]]
+[[Category:Make Mine Music]]
+[[Category:Make Mine Music segments]]

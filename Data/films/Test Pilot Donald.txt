@@ -1,0 +1,60 @@
+{{Infobox film
+|image = Test pilot donald poster.jpg
+|imagewidth = 250px
+|name = Test Pilot Donald
+|director = [[Jack Hannah]]
+|producer = [[Walt Disney]]
+|writer = Nick George<br>[[Bill Berg]]
+|starring = [[Clarence Nash]]<br>[[Jimmy MacDonald]]<br>[[Dessie Flynn]]
+|music = [[Paul Smith|Paul J. Smith]]
+|studio = [[Walt Disney Productions]]
+|distributor = [[RKO Radio Pictures]]
+|release = [[June 8]], [[1951]]
+|time = 7:05
+|language = English
+|preceded = ''[[Corn Chips]]''
+|followed = ''[[Lucky Number]]''}}
+'''''Test Pilot Donald''''' is a [[1951]] [[Donald Duck|''Donald Duck'']] and [[Chip and Dale|''Chip and Dale'']] animated short.
+
+==Synopsis==
+Dale dreams of flying and finds a perfect opportunity when Donald's remote control airplane gets stuck in their tree.
+
+==Characters==
+*[[Donald Duck]] (voiced by [[Clarence Nash]])
+*[[Chip and Dale]] (voiced by [[Jimmy MacDonald]] and [[Dessie Flynn]])
+
+==Trivia==
+*The ''Walt Disney Cartoon Classics: The Continuing Adventures of Chip & Dale with Doanld Duck'' VHS uses the original opening and closing titles of this cartoon. They were used on Disney Channel and Toon Disney airings up until 2002. The original titles were restored for the ''Walt Disney Treasures: The Chronological Donald, Vol. 4'' DVD.
+
+==Releases==
+===Television===
+* ''[[Walt Disney anthology series|Disneyland]]'', episode #3.13: "[[Your Host, Donald Duck]]"
+* ''[[The Mouse Factory]]'', episode #1.14: "Aviation"
+* ''[[The_Mickey_Mouse_Club#1970s_revival:_The_New_Mickey_Mouse_Club|The New Mickey Mouse Club]]'', episodes C-057 (May 6, 1977) and D-072 (April 25, 1978)
+* ''[[Good Morning, Mickey]]'', episode #66
+* ''[[Come Fly With Disney]]''
+* ''[[Mickey's Mouse Tracks]]'', episode #20
+* ''[[Donald's Quack Attack]]'', episode #63
+* ''[[The Ink and Paint Club]]'', episode #1.48: "The Return of Chip 'n Dale"
+
+===Home video===
+* ''[[Walt Disney Cartoon Classics]]: The Continuing Adventures of Chip 'n' Dale with Donald Duck'' (VHS)
+* ''[[Walt Disney Treasures: Wave Eight|Walt Disney Treasures]]: The Chronological Donald, Volume Four'' (DVD)
+
+==Gallery==
+<gallery widths="150" spacing="small" position="center">
+Test-Pilot-Donald.jpg|Title card
+1951-donald-pilote-essai-04.jpg
+1951-donald-pilote-essai-03.jpg
+1951-donald-pilote-essai-02.jpg
+1951-donald-pilote-essai-01.jpg
+</gallery>
+
+{{Donald-Series}}
+{{Chip 'n Dale-Series}}
+[[ar:الطيار الأول بطوط]]
+[[nl:Donald als Testpiloot]]
+[[Category:Animated shorts]]
+[[Category:Donald Duck shorts]]
+[[Category:Chip 'n' Dale shorts]]
+[[Category:1951 shorts]]

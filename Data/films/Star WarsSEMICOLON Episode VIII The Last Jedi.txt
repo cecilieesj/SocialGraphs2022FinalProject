@@ -1,0 +1,1608 @@
+{{Top|real|can|title=''Star Wars'': Episode VIII ''The Last Jedi''}}
+{{Otheruses|The Last Jedi}}
+{{Movie
+|image=[[File:TheLastJediTheatricalPoster.jpg]]
+|movie name=''Star Wars'': Episode VIII<br />''The Last Jedi''
+|director=[[Rian Johnson]]<ref name="Credits">''Star Wars'': Episode VIII ''The Last Jedi'' credits</ref>
+|producer=*[[Kathleen Kennedy]]<ref name="Credits" />
+*[[Ram Bergman]]<ref name="Credits" />
+*[[J.J. Abrams]] {{C|executive producer}}<ref name="Credits" />
+*[[Jason McGatlin]] {{C|executive producer}}<ref name="Credits" />
+*[[Tom Karnowski]] {{C|executive producer}}<ref name="Credits" />
+|writer=Rian Johnson<ref name="Credits" />
+|starring=*[[Mark Hamill]]<ref name="Credits" />
+*[[Carrie Fisher]]<ref name="Credits" />
+*[[Adam Driver]]<ref name="Credits" />
+*[[Daisy Ridley]]<ref name="Credits" />
+*[[John Boyega]]<ref name="Credits" />
+*[[Oscar Isaac]]<ref name="Credits" />
+*[[Andy Serkis]]<ref name="Credits" />
+*[[Lupita Nyong'o]]<ref name="Credits" />
+*[[Domhnall Gleeson]]<ref name="Credits" />
+*[[Anthony Daniels]]<ref name="Credits" />
+*[[Gwendoline Christie]]<ref name="Credits" />
+*[[Kelly Marie Tran]]<ref name="Credits" />
+*[[Laura Dern]]<ref name="Credits" />
+*[[Benicio Del Toro]]<ref name="Credits" />
+|music=[[John Williams]]<ref name="Credits" />
+|release date=[[December 15]], [[2017]]<ref name="Release Date">{{SW|url=news/star-wars-episode-viii-to-open-december-15-2017|text=''Star Wars'': Episode VIII to Open December 15, 2017}}</ref>
+|runtime=152 minutes<ref name="BBFC">{{Cite_web|url=http://www.bbfc.co.uk/releases/star-wars-last-jedi-2017|title=Star Wars: The Last Jedi (2017)|work=[https://www.bbfc.co.uk bbfc.co.uk]|publisher=[[Wikipedia:British Board of Film Classification|British Board of Film Classification]]|archivedate=20171204111930}}</ref>
+|budget=$317 million<ref name="Budget">{{Cite_web|url=https://www.boxofficemojo.com/title/tt2527336|title=Star Wars: Episode VIII - The Last Jedi|work=[[Wikipedia:Box Office Mojo|Box Office Mojo]]|archivedate=20200803100618}}</ref>
+|language=English<ref name="Credits" />
+|timeline=[[34 ABY]]<ref name="Date Note">''[[Star Wars: Galactic Atlas]]'' places the events of [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] in [[34 ABY]]. ''Star Wars'': Episode VIII ''The Last Jedi'' takes place immediately after the end of ''The Force Awakens''.</ref>
+|series=[[Sequel trilogy]], [[Star Wars saga|''Star Wars'' saga]]
+|preceded by=[[Star Wars: Episode VII The Force Awakens|Episode VII ''The Force Awakens'']]
+|followed by=[[Star Wars: Episode IX The Rise of Skywalker|Episode IX ''The Rise of Skywalker'']]}}
+{{Quote|The ultimate intent was not to strip away&mdash;the intent was to get to the basic, fundamental power of myth. And ultimately I hope the film is an affirmation of the power of the myth of Star Wars in our lives.|Writer-director Rian Johnson|<ref name="Johnson Empire 2022">{{Cite_web|url=https://www.empireonline.com/movies/news/rian-johnson-even-more-proud-star-wars-last-jedi-five-years-on-exclusive|title=Rian Johnson Is 'Even More Proud' Of Star Wars: The Last Jedi Five Years On – Exclusive|author=Travis, Ben|date=2022-08-30|work=[[Wikipedia:Empire (magazine)|''Empire'']]|archivedate=20220830170359}}</ref>}}
+'''''Star Wars'': Episode VIII ''The Last Jedi''''', marketed as '''''Star Wars: The Last Jedi''''', is a [[2017]] film written and directed by [[Rian Johnson]] and produced by [[Kathleen Kennedy]] and [[Ram Bergman]], along with executive producer [[J.J. Abrams]]. It is the second part of the ''[[Star Wars]]'' [[sequel trilogy]]. The film sees the return of [[Mark Hamill]], [[Carrie Fisher]], [[Adam Driver]], [[Daisy Ridley]], [[John Boyega]], [[Oscar Isaac]], [[Lupita Nyong'o]], [[Domhnall Gleeson]], [[Anthony Daniels]], [[Gwendoline Christie]], and [[Andy Serkis]]. New cast members include [[Benicio Del Toro]], [[Laura Dern]], and [[Kelly Marie Tran]].
+
+''The Last Jedi'' begins immediately after the events of [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], set thirty [[Standard year|years]] after the [[Star Wars: Episode VI Return of the Jedi|conclusion]] of the [[Original trilogy|original ''Star Wars'' trilogy]]. It continues the story of [[Rey Skywalker|Rey]] and her discovery of the [[Exile (punishment)|exiled]] [[Jedi Master]] [[Luke Skywalker]], along with the story of the [[First Order-Resistance War|war]] between [[General]] [[Leia Skywalker Organa Solo|Leia Organa's]] [[Resistance]] and the [[First Order]].
+
+The film was released on [[December 14]], 2017 in Hong Kong, Mexico, Latin America, and European countries; [[December 15]], 2017 in North America; and [[January 5]], [[2018]] in China. Some North American theaters offered special limited advance showings on the evening of December 14th rather than the traditional midnight showing. ''The Last Jedi'' garnered four nominations at the [[Wikipedia:90th Academy Awards|90th Academy Awards]], including [[Wikipedia:Academy Award for Best Original Score|Best Original Score]] and [[Wikipedia:Academy Award for Best Visual Effects|Best Visual Effects]]. The following and final installment of the sequel trilogy, [[Star Wars: Episode IX The Rise of Skywalker|''Star Wars'': Episode IX ''The Rise of Skywalker'']], was released on [[December 20]], [[2019]].
+
+==Opening crawl==
+{{Opening crawl
+|name=Episode VIII<br />THE LAST JEDI
+|text=The FIRST ORDER reigns.
+Having decimated the peaceful
+Republic, Supreme Leader Snoke
+now deploys his merciless
+legions to seize military
+control of the galaxy.
+
+Only General Leia Organa's
+band of RESISTANCE fighters
+stand against the rising
+tyranny, certain that Jedi
+Master Luke Skywalker will
+return and restore a spark of
+hope to the fight.
+
+But the Resistance has been
+exposed. As the First Order
+speeds toward the Rebel base,
+the brave heroes mount a
+desperate escape....}}
+
+==Synopsis==
+===Evacuating D'Qar===
+{{Quote|There were heroes on that mission.''"<br />"''Dead heroes. No leaders.|Poe Dameron and Leia Organa|<ref name="Movie">{{Film|VIII}}</ref>}}
+[[File:Black_One_vs_Fulminatrix_.jpg|thumb|left|250px|Poe flies the ''Black One'' against the ''Fulminatrix''.]]
+Following [[Battle of Starkiller Base|their successful operation to destroy Starkiller Base]], [[Resistance]] fighters [[Battle of D'Qar|evacuate]] their [[Resistance base|main base]] on the planet [[D'Qar]] onto their [[Resistance navy|fleet]]. Before they can complete their evacuation, a [[First Order]] fleet of [[Resurgent-class Star Destroyer|''Resurgent''-class Star Destroyers]] under [[General]] [[Armitage Hux]] arrive. Seeking to destroy the Resistance, Hux orders [[Captain]] [[Moden Canady]] to destroy the Resistance fleet and base with his [[Mandator IV-class Siege Dreadnought|''Mandator IV''-class Siege Dreadnought]] ''[[Fulminatrix]]''.
+
+After the ''Fulminatrix'' exits hyperspace, one of General Hux's officers reports that a single fighter is flying to confront them. Together with [[Gender|his]] [[BB-series astromech droid]], [[BB-8]], [[Poe Dameron]] confronts the ''Fulminatrix'' in his [[T-70 X-wing starfighter|X-wing]] ''[[Black One]]''. General [[Leia Skywalker Organa Solo|Leia Organa]], now [[Marriage|widowed]] by the [[Death|murder]] of [[Han Solo]] at the [[Limb|hands]] of their own son [[Ben Solo|Ben, alias Kylo Ren]], cautiously approves Poe's reckless plan. Over the intercom, Poe taunts Hux and pretends to ignore his threat to wipe out the Resistance. However, this verbal exchange turns out to be a ruse for Poe to power up his X-wing's cannons for an assault on the dreadnought.
+
+Poe's X-wing quickly takes out the dreadnought's [[Point-defense laser cannon|point-defense cannons]]. When General Hux demands to know why Captain Canady is not shooting down the enemy fighter, Canady replies that the ship is too small and at too close range. He bellows orders to scramble the fighters, realizing that Poe wants to take out his cannons. Despite being attacked by [[TIE/fo space superiority fighter|TIE/fo fighters]] and [[TIE/sf space superiority fighter|TIE/sf fighters]], Poe calls upon BB-8 to fix the ship's cannons so they can take out the dreadnought's last cannon.
+
+Canady's dreadnought manages to destroy the Resistance base from orbit but not before the last transport led by [[Lieutenant]] [[Kaydel Ko Connix]] escapes into space. With the evacuation complete, General Organa wants to evacuate the Resistance forces but Poe wants to take out the dreadnought. Disobeying General Organa's orders to disengage, Poe continues with the assault. BB-8 completes the repairs and Poe takes out the last cannon before shooting down the two pursuing TIE fighters.
+
+===Bomber run===
+[[File:The_Last_Jedi_Space_Battle.png|thumb|right|250px|Resistance StarFortress bombers advancing on the First Order.]]
+With the Dreadnought's cannon's knocked out, [[MG-100 StarFortress SF-17|Resistance bombers]] advanced on the ''Fulminatrix''. Despite having starfighter escorts led by [[Blue Leader]] [[Tallissan Lintra]], several of the slow moving bombers are destroyed by TIE fighters. Captain Canady orders that the dreadnought's auto cannons be recharged so that they can target the Resistance cruisers. Several Resistance bombers are destroyed by a colliding TIE fighter, leaving [[Paige Tico]]'s ''[[Cobalt Hammer]]'' as the last remaining bomber.
+
+As the auto cannons recharge, Canady orders his TIE fighters to destroy the last bomber. Poe contacts Paige who heads down to her bomber's bay only to find the bombardier [[Nix Jerd]] knocked unconscious. After a colliding TIE fighter kills the pilot [[Finch Dallow]], Paige manually releases the bomb load just as the Dreadnought's auto-cannon finishes recharging. The ''Fulminatrix'' and the ''Cobalt Hammer'' are destroyed in the ensuing explosions.
+
+Despite the elimination of the dreadnought, General Organa is displeased by the high casualties including the loss of all of the Resistance's bombers. The Resistance vessels escape by jumping to [[hyperspace]].
+
+Shortly later, [[Supreme Leader]] [[Snoke]] confronts Hux via hologram transmission for his failure to block the evacuation and the loss of a dreadnought. He publicly humiliates Hux by using [[the Force]] to spin him on the floor. Despite Snoke's disappointment, Hux insists the Resistance cannot escape for long because they have them "tied on the end of a string."
+
+Aboard the [[MC85 Star Cruiser]] [[Raddus (MC85 Star Cruiser)|''Raddus'']], [[Finn]], comatose after losing a fight with Ren on Starkiller Base, awakens and immediately starts looking for his friend, [[Rey Skywalker|Rey]]. Poe welcomes Finn back upon his return, telling him Rey has already left.
+
+===Finding Skywalker===
+[[File:Rey_returns_lightsaber_TLJ.jpg|thumb|left|250px|Rey meeting Luke Skywalker.]]
+Having arrived on the water world of [[Ahch-To]] with the [[Wookiee]] [[Chewbacca]] and [[astromech droid]] [[R2-D2]] aboard the ''[[Millennium Falcon]]'', the [[Force-sensitive]] Rey meets Jedi Master [[Luke Skywalker]]. She hands him [[Skywalker lightsaber|Skywalker's lightsaber]] but he tosses it over his shoulder and walks away. A puzzled Rey follows Luke into his hut in the nearby [[Jedi village]].
+
+Outside his door, Rey tells him that he needs his help. She returns to retrieve Skywalker's lightsaber and spots Skywalker's [[T-65B X-wing starfighter]] submerged beneath the sea. Later, Rey has Chewbacca break down Skywalker's door. Skywalker recognizes Chewbacca and Rey tells them that they came on the ''Falcon''. Skywalker asks where is Han Solo.
+
+===Snoke's lair===
+[[File:Episode_VIII_Snoke_and_Kylo_Ren.png|thumb|right|250px|Kylo Ren in the presence of Supreme Leader Snoke.]]
+Kylo Ren exits a [[turbolift]] and enter Supreme Leader Snoke's [[Snoke's throne room|throne room]] aboard the [[Mega-class Star Dreadnought|''Mega''-class Star Dreadnought]] ''[[Supremacy]]''. Snoke commends Hux for his plan and sends him to the bridge to oversee the pursuit of the Resistance. After Hux leaves, Snoke recalls seeing in Ren the potential to become a new [[Anakin Skywalker|Darth Vader]], but now doubts his apprentice's resolve to fully embrace the [[dark side of the Force]].
+
+He orders Ren to remove his helmet, and upon seeing his scarred face&mdash;the result of his loss to Rey on Starkiller Base&mdash;he states that Ren has too much of Han's heart in him. Ren protests, claiming he embraced the dark side by killing Han, but Snoke furiously retorts that Ren instead psychologically weakened himself in committing the murder, causing him to be defeated by Rey, a junk scavenger who had previously never even wielded a lightsaber.
+
+Ren reacts angrily to the insult, but Snoke repulses him with [[Force lightning]] and dismisses him as just "a child in a mask." Enraged, Ren destroys his helmet by violently smashing it to pieces against the walls of an elevator, before setting out in his personal [[TIE/vn space superiority fighter|TIE silencer]] to attack the Resistance fleet.
+
+===The elusive teacher===
+{{Quote|I will never train another generation of Jedi. I came to this island to die. It's time for the Jedi...to end.|Luke Skywalker, to Rey|<ref name="Movie" />}}
+[[File:Green_milk.png|thumb|left|250px|Skywalker was disillusioned by the failure of Ben Solo.]]
+Back on Ahch-To, Rey updates him about the First Order's [[First Order-Resistance War|invasion]] of the galaxy. She tells him that they need his help and that they need Luke Skywalker. Skywalker refuses to help because he believes he stands little chance against the First Order and walks away. Rey insists that she is not leaving and follows him through the [[Temple Island]].
+
+She finds Skywalker milking a [[Thala-siren]] but he avoids her. Skywalker uses a long pole to reach the other side of the cliff and catch a large fish. Rey follows him through the rain back to his quarters, fingering her [[S-thread transmitter bracelet|cloaked binary beacon]]. While following Skywalker up a mountain in the mist, she senses a voice calling to her from the [[Tree library]]. Inside, she finds the [[Sacred Jedi texts]].
+
+Skywalker follows her and explains that the tree library was built a thousand generations ago to keep the sacred Jedi texts. Rey says that she saw this place in a dream. When Rey tells Skywalker that the Resistance sent her, he asks about her identity, homeworld, and motivations for coming here. Rey tells him that Resistance needs his help because of the First Order. When Skywalker asks what she is doing here, she tells him that she needs his help to master the Force. Skywalker refuses to teach her, believing that it is time for the Jedi to end. Rey says his sister Leia sent him and that they deserve to know why.
+
+===Pursuing the Resistance fleet===
+[[File:AttackOnTheResistanceFleet-TLJ.jpg|thumb|right|250px|The ''Supremacy'' pursuing the Resistance fleet through space.]]
+While the ''Raddus'' travels through hyperspace, General Organa grieves over the loss of Han. After the fleet exits hyperspace, Leia angrily reprimands and demotes Poe to captain for disobeying orders and leading Cobalt Squadron to their deaths. Poe protests but Leia tells him that there are things that he cannot solve by getting into an X-wing and blowing things up. Poe says that the fallen were heroes but Leia responds that they need living fighters and not dead heroes.
+
+When Finn asks General Organa how Rey is going to find them, she shows him her cloaked binary beacon. Leia tells hers subordinates that their priorities now is to find a new Resistance base. They are soon followed by a First Order fleet led by Snoke's personal command ship, the ''Supremacy'', which has somehow tracked them through space. Poe thinks they should do another hyperspace jump but Leia realizes that the First Order has tracked them through lightspeed, and another jump would use up the rest of their [[fuel]]. Poe gets General Organa's permission to lead a starfighter defense.
+
+Kylo Ren flies his TIE silencer, accompanied by three Special Forces TIE fighters, which inflict significant damage on the Resistance fleet. Before Poe and BB-8 can board their X-wing, Kylo Ren fires a pair of [[Torpedo/Legends|torpedos]] into the ''Raddus''<nowiki/>' starboard hangar which destroy all the parked fighters and kill several pilots, including Lintra. Poe and a damaged BB-8 survive the explosion. Meanwhile, General Organa and [[Admiral]] [[Gial Ackbar|Ackbar]] order the remaining Resistance ships to move out of range of the Star Destroyers.
+
+Lining up for a bombing run on the ''Raddus''<nowiki/>' bridge, Ren hesitates to fire after sensing his mother's presence on board. However, his TIE fighter escorts take the shot, destroying the primary bridge and killing most of the Resistance's high command, including Admiral Ackbar. Ren then retreats to the ''Supremacy'' after General Hux warns that the fleet cannot protect him and his escort TIE fighters. A long pursuit begins, with the Resistance relying on their spaceships' mobility and [[deflector shield]]s to stay out of effective weapons range while their fuel supplies dwindle.
+
+Leia survives exposure to space by using the Force to fly back to the door of the ''Raddus''<nowiki/>' bridge. Leia is rescued by her Resistance comrades but is rendered comatose by the ordeal. As she is being transported to the sick bay, the binary beacon falls out of her hand. Finn picks it up.
+
+===A change of heart===
+[[File:Dont_eat_our_friends.png|thumb|left|250px|A group of porgs confronting Chewbacca over the loss of their kin.]]
+While Rey sleeps in her hut, Chewbacca roasts a [[porg]] over the fire. While settling to his meal, he is confronted by the porg's kin. Chewbacca tries to shoo them away but is struck by the sight of a sad-faced porg.
+
+Meanwhile, Luke Skywalker visits the ''Falcon'' where he finds [[Han Solo's dice]], a memento to his fallen friend. Skywalker also has a brief reunion with R2-D2. Skywalker refuses to come back but R2-D2 plays back the old [[hologram]] message from his sister Leia calling [[Obi-Wan Kenobi]] for help. Leia's message causes Luke to reconsider his decision. He visits Rey and agrees to give her three lessons, beginning tomorrow morning. Skywalker promises to teach her the ways of the [[Jedi]].
+
+===A new commander===
+[[File:Amilyn_Holdo_Ellen.png|250px|thumb|Vice-Admiral Amilyn Holdo assumes leadership of the Resistance.]]
+Back aboard the ''Raddus'', [[Commander]] [[Larma D'Acy]] informs the assembled Resistance that General Organa is stable but in a coma. She regrets to inform them that Admiral Ackbar and the [[Resistance High Command]] perished aboard the bridge of the ''Raddus''. D'Acy tells them that if Leia were here, she would tell them to save their sorrow till after the fight. The chain of command falls to [[Vice Admiral]] [[Amilyn Holdo|Holdo]] of the cruiser ''[[Ninka]]''. Holdo gives a brief rousing speech before dismissing them to their posts.
+
+Poe warns Vice-Admiral Holdo that they will eventually run out of fuel. When he asks her what is their plan, Holdo reminds Poe of his demotion and dismisses him as a "hot-head" pilot whose recklessness she deems a liability. Holdo orders him to stick to his post and follow her orders. Holdo's actions grate Poe, who doesn't trust his new commander.
+
+Finn, fearing for Rey's safety if she eventually returns to the fleet, decides to go looking for her and heads for the [[escape pod]] bay. There, he finds a young Resistance mechanic, [[Rose Tico]], mourning her older sister Paige, who perished during the bombing run Poe led over D'Qar. Rose mistakes Finn for a deserter. Before he can explain himself, she [[stun]]s him.
+
+After awakening on a gurney, Finn tries to tell Rose about his plan to find Rey. Rose thinks that Finn is being selfish. He manages to gain her trust by convincing her that he can help take out the First Order's [[hyperspace tracker]], which he is privy to due to his time with the First Order. The two come up with a plan to infiltrate the Mega-Destroyer and take out the hyperspace tracker.
+
+Finn and Rose share their plan with Poe and C-3PO in Leia's [[Medical bay]] room. Not trusting Vice-Admiral Holdo's leadership, Poe agrees to the plan, believing that it can save the Resistance and Rey. C-3PO says that Holdo will not agree to their plan but Poe is determined to proceed. Since they can't get through the First Order security, they contact [[Maz Kanata]], who is embroiled in a union dispute. While exchanging fire, Maz tells them to seek out the [[Master Codebreaker]] in the casino city [[Canto Bight]]. Before leaving to [[Mission to Canto Bight|seek out]] the Master Codebreaker, Finn passes Leia's binary beacon to Poe.
+
+===Rey's first lesson===
+[[File:Rey_and_Luke_First_Lesson_TLJ.jpg|thumb|left|250px|Luke teaching Rey about the nature of the Force]]
+Meanwhile on Ahch-To, Rey and Kylo Ren begin communicating with each other through involuntary shared [[Force vision|visions]]. Rey is hostile to Kylo due to their last encounter. Startled by Ren, Rey shoots a hole through the roof of a hut, which annoys the native [[Lanai]] caretakers, who have maintained the Jedi structures since they were built.
+
+Later that morning, Luke leads Rey through a cave into the [[First Jedi Temple]]. Skywalker quizzes Rey about her knowledge of the Force, telling her that the Force is not simply a power but is the energy that binds all things. For her first lesson, he tells her to close her eyes, breathe and reach out. Luke tickles her with a leaf.
+
+During the lesson, Skywalker tells her to breathe and reach out with her feelings while touching rocks. Through the Force, Rey sees the island, the cycle of life and death, warmth, cold, peace, and violence. When prompted, she tells Luke that she sense the Force inside. Skywalker explains that the Force does not belong to the Jedi, urging her to reject her simplistic view of the Force as cleanly defined between the [[Light side of the Force|light]] and the dark sides of the Force.
+
+Rey senses a [[Mirror cave|place beneath]] that is strong in the dark side beneath the island. Rey senses it calling out to her as the stones beneath her float. This summons a geyser of water. Rey says that it was trying to show her something Luke is alarmed that Rey showed little inclination to resist the dark side. Not being able to sense Skywalker in the Force, Rey realizes that Skywalker has cut himself off from the Force. Skywalker says he has seen this raw strength before in Ben Solo and that he regrets not taking action back then.
+
+Later, Chewbacca has befriended several porgs, who have made their home aboard the ''Falcon''. Rey asks Chewbacca if they have heard anything from the Resistance to which he replies in [[Shyriiwook]] that he hasn't. Rey and Ren continue to experience shared visions, and Rey excoriates him for murdering Han Solo, while Ren mocks her need to find replacement parental figures, first in Han and now Luke. Kylo Ren asks Rey if Skywalker told him [[Destruction of the Jedi Temple|what happened]] at [[Jedi Temple of Luke Skywalker|his Jedi Temple]].
+
+===Misadventures on Canto Bight===
+[[File:Canto_Bight_TLJ.png|thumb|right|250px|Finn and Rose traveled to Canto Bight to seek the Master Codebreaker]]
+With the help of Poe, Finn, Rose, and BB-8 slip out of the Resistance fleet in a [[Resistance transport pod]]. Poe warns them that their mission is urgent because they only have 18 hours of fuel left. The travel to Canto Bight on the planet [[Cantonica]] in the [[Corporate Sector]]. The three Resistance operatives park their transport on a public beach, antagonizing the [[Abednedo]] businessman [[Slowen Lo]], who alerts the [[Canto Bight Police Department]] and tells them that the offworlders went to the [[Canto Casino and Racetrack|Canto Casino]].
+
+While Finn is mesmerized by the wealth and opulence of the Canto Bight, Rose tells him that the city is built on exploitation. While watching a [[fathier]] race at the Canto Bight racetrack, she explains that she came from a mining system that was exploited by the First Order, who later tested their weapons on them. The two witness a child racer being beaten by the overseer [[Bargwill Tomder]]. Finn realizes that Canto Bight is the haunt of wealthy war profiteers who sell weapons to both the First Order and the Resistance.
+
+BB-8 spots the Master Codebreaker dancing with "[[Lovey]]" and alerts Finn and Rose. However, they are spotted by Slowen Lo. Finn and Rose are stunned by the Canto Bight police officers, who have them arrested for committing parking violation 27B/6. Lovey notices the commotion but the Master Codebreaker is engrossed with a game of dice. BB-8 is thrown out of the casino by the police.
+
+===Rey's second lesson===
+After parrying with her staff, Rey practices with Skywalker's lightsaber while Luke watches. She uses her lightsaber to cut through a pillar of rock, which smashes a wagon belonging to two Lanai caretakers. Later that evening, Skywalker explains that now that the Jedi are extinct, they are deified and romanticized. He believes that the legacy of the Jedi is failure, arrogance and hubris because they failed to prevent the rise of [[Darth Sidious]] and his [[Galactic Empire]].
+
+Skywalker reminds Rey that it was a Jedi Master who was responsible for training Darth Vader. Rey reminds Skywalker about the redemption of his father. However, Luke is still tormented by the guilt of his failure to keep Ben Solo from falling to the dark side, believing that he failed his sister and Han. Luke explains that he he sensed the darkness growing in Ren. When he went to confront him, Skywalker claims that Solo turned on him. When he awoke, Skywalker found his temple in flames and that Ben had taken some of his students and slaughtered the rest. Leia blamed Snoke but Luke blamed himself. Rey reassures Luke that the galaxy made him a legend and that she needs his help to find her place in this.
+
+===Escaping Canto Bight===
+{{Quote|It's all a machine, partner. Live free. Don't join.|DJ, to Finn|<ref name="Movie" />}}
+[[File:DJ_in_Jail.jpg|thumb|left|250px|Unable to find the Master Codebreaker, Finn and Rose sought the help of DJ instead.]]
+In space, General Hux orders the destruction of the Resistance [[Nebulon-C escort frigate|medical frigate]] [[Anodyne (Nebulon-C)|''Anodyne'']]. However, the [[Unidentified Anodyne pilot|captain]] has already evacuated the ship and stays behind as it is engulfed. Vice-Admiral Holdo watches in horror. When Lieutenant Connix reminds her that they only have six hours of fuel left, she orders the emergency bridge crew to remain on their current cause. Poe worries about Finn and Rose's mission and sends a message that they are running on fumes.
+
+At the [[Canto Bight police headquarters]], Finn and Rose encounter the [[slicer]] [[DJ]], who offers to help them disable the First Order's hyperspace tracker in return for freedom. With the help of BB-8, the Resistance operatives and DJ escape the police headquarters through the sewers. Pursued by the police, they head to the fathier stables, where Rose convinces the stable children to help them escape, leaving one of them, [[Temiri Blagg]], a Resistance [[ring]].
+
+Temiri releases the fathiers, creating a stampede that allows Finn and Rose to escape through the streets of Canto Bight. Riding on a fathier, the two flee to the beach in an attempt to reach their transport pod. However, it is destroyed by pursuing [[Canto Bight Mounted Police]]'s [[Zephyr GB-134 speeder|speeders]]. Their fathier carries them up a hill to the outskirts of the city where they narrowly avoid falling off a cliff. Rose frees their fathier. Before the Mounted Police can catch up with them, they are picked up by DJ and BB-8, who have stolen the luxury [[yacht]] ''[[Libertine]]''.
+
+===The cave===
+[[File:Mirror_mirror_on_the_wall.png|thumb|right|250px|Rey faces her own reflection in the cave.]]
+Back on Ahch-To, Luke revisits the cliff-side outcrop where he first began training Rey and attempts to re-open his connection to the Force, succeeding when he makes mental contact with an unconscious Leia. Meanwhile, Rey continues her conversation with Kylo Ren and demands to know why he hated his father Han. Noticing he is bare-chested, she asks if Kylo has something he can put on. Kylo Ren claims that his father treated him like garbage and that he was taken advantage of by Luke and his parents.
+
+Recounting his version of his falling out with Skywalker. Ren claims to Rey that Luke grew afraid of Ren's growing power and tried to murder him while he was asleep and defenseless. He tells Rey to let the past die and to kill it if she has to, adding that it is the only way to realize her potential. Sensing the call of the dark side, Rey travels to a cavern beneath the island where the dark side is powerful and experiences a vision while touching a reflective rock wall, asking to see her parents but seeing only her own reflection.
+
+===Revelations===
+[[File:Luke_interrupting_Rey_and_Kylo_Ren.png|thumb|left|250px|Luke discovering Rey and Kylo Ren communing with each other.]]
+Unable to find answers about her origins and family, she resolves to abandon her Jedi training and leave Ahch-To. Rey returns to her hut where she communes with Kylo Ren. Finding a kindred spirit in Ren, she reaches out through the Force connection to hold his hand. They are soon discovered by Luke, by now reconnected to the Force. Luke angrily destroys Rey's hut with the Force and demands that she leave Ahch-To immediately, but Rey attacks him in her rage.
+
+Luke fends off Rey's attacks and disarms her, but submits when she threatens him with his own lightsaber. He confessed that he contemplated killing a sleeping Ben Solo upon discovering his corruption by Snoke but instantly relented when he realized that it was a passing moment. Ben, however, awoke to see Luke standing over him with an ignited lightsaber and immediately counterattacked, destroying Luke's new Jedi Temple and disappearing to become Kylo Ren.
+
+Rey believes that Kylo Ren can still be saved from the dark side. Skywalker warns her that it is not going to end the way that she thinks. Rey is adamant despite Skywalker's warnings. She tries to return his lightsaber to him but he lets her keep it. Rey believes that Kylo Ren is their last hope. Unable to convince Luke to join the Resistance, Rey leaves Ahch-To without him to confront Ren, hoping to turn him to the light side, succeeding where Luke failed.
+
+===An unexpected reunion===
+[[File:Yoda_and_Luke_TLJ.png|thumb|right|250px|Luke and Yoda discuss the importance of masters.]]
+Following Rey's departure aboard the ''Falcon'', Luke returns to the Tree library with a torch, intending to destroy the ancient Jedi texts. However, he is interrupted by the [[Force spirit]] of [[Yoda]]. As Luke hesitates at the task, Yoda himself summons a thunderbolt to destroy the library. Skywalker tries to enter the tree but is driven back by the flames.
+
+Yoda remarks that he has missed Skywalker. Seeing the tree burning, Skywalker believes that it is time for the Jedi to end. Yoda counters that it is time to look past "old books." When Skywalker reminds him about the sacred Jedi texts, Yoda responds they were not "page-turners" which contained wisdom but that wisdom already exist. He tells Skywalker not to focus too much on the horizon but to pay attention to his immediate needs.
+
+Skywalker blames himself for the loss of Ben Solo. Skywalker is unconfident teaching Rey, but Yoda encourages him to passed on what he has learnt. Yoda counsels Skywalker that failure can be the greatest teacher. As he and Skywalker watch the burning tree, he tells Luke "We are what they grow beyond. That is the burden of all masters."
+
+===The hyperspace tracker attempt===
+[[File:UndercoverFO.png|thumb|left|250px|Finn, Rose, and DJ disguised as First Order officers.]]
+While traveling through hyperspace aboard the ''Libertine'', Rose asks DJ if he can disable help them to infiltrate the ''Supremacy'' and disable the hyperspace tracker. When DJ asks for a price, Rose and Finn promise that the Resistance can pay him later. DJ agrees to help in return for receiving Rose's [[gold]] pendant as upfront payment for his services. Finn, knowing how much the pendant means to her, orders DJ to return it, to which the criminal tells him his philosophy: "don't join." Finn also discovers that DJ and BB-8 stole the yacht from an arms dealer selling weapons to both the First Order and Resistance.
+
+Proceeding with their plan, Finn, Rose, DJ, and BB-8 infiltrate the massive ''Supremacy''. After DJ slices through the First Order's sensor systems, he flies the ''Libertine'' inside the massive warship. They steal [[First Order officer]] uniforms from an automated launderette and make their way to a hyperspace tracker. BB-8 is hidden under a trash container. However, the intruders are spotted by the First Order astromech droid [[BB-9E]].
+
+While DJ is tinkering with the tracker's systems, Finn tells Poe to be ready to jump into lightspeed at his signal. DJ managed to unlock the inner chamber of the hyperspace tracker. However, Finn and his team are soon apprehended by First Order stormtroopers led by [[First Order Security Bureau]] [[Colonel]] [[Ansiv Garmuth]] and Captain [[Phasma]], who gloatingly welcomes Finn home. BB-8, still disguised, is able to evade capture.
+
+===Poe's mutiny===
+[[File:Poe_meets_Holdo.jpg|thumb|right|250px|Poe clashed with Holdo over the future of the Resistance.]]
+By now, the Resistance fleet is down to the ''Raddus'' and General Hux is confident of victory. Aboard the ''Raddus'', Poe angrily confronts Vice-Admiral Holdo for being secretive about her plans. He is anxious that the Resistance is down to one ship and asks what hope they have. Holdo responds that hope is a fleeting faith.
+
+Starring at a computer screen, Poe realizes that Holdo has ordered the refueling of all the [[U-55 orbital loadlifter|Resistance transports]]. He is outraged that Holdo is abandoning the ''Raddus'' and denounces her as both a coward and a traitor. Holdo orders the guards to remove Poe from the bridge. Poe also contacts Finn, who tells him that they managed to find a code-breaker and convinces Poe to buy them more time.
+
+Back on the ''Raddus'', Poe tells Holdo about his unsanctioned plan to send Finn and Rose to disable the First Order's hyperspace tracker. Believing that Poe has placed the Resistance in even more danger, she orders that the transports be prepared for departure.
+
+In response, Poe instigates a mutiny, apprehending Holdo and her command staff. Poe and the mutineers including Lieutenant Connix take over the ship's emergency command bridge and try to restart the ''Raddus''. However, Holdo snatches a blaster and frees herself. C-3PO refuses to take part in the mutiny and heads to the door, which is being disintegrated. When the door collapses, he is startled to encounter a recovered General Organa, who stuns him.
+
+Connix and C-3PO also surrender, ending the mutiny and allowing the evacuation to begin. In the hangar, Leia remarks that Poe is a troublemaker while Holdo remarks that she likes him. Holdo volunteers to stay behind and pilot the cruiser. Leia is unwilling to risk anymore losses but Holdo tells Leia that she taught her how. The two friends part following a handshake.
+
+Later, a dismayed Poe awakes to see the transports evacuating from the ''Raddus''. Commander D'Acy tells Poe that they are evacuating to an old [[Alliance to Restore the Republic|Rebel Alliance]] base on nearby [[Crait]]. Leia tells Poe that she approved of Holdo's evacuation plan, and that Holdo was more concerned with protecting the light than being a hero. Holdo wishes her comrades godspeed on the bridge of the ''Raddus''.
+
+===Snoke's trap===
+{{Quote|Well done, my good and faithful apprentice. My faith in you is restored.|Snoke praised Kylo Ren for capturing Rey|<ref name="Movie" />}}
+[[File:Snoke_chillin_like_a_villain.png|thumb|left|250px|Snoke "welcomes" Rey into his throne room.]]
+As the ''Millennium Falcon'' travels through hyperspace, Rey tells Chewbacca to get to safety as soon as he gets her signal to rendezvous. Rey climbs into her escape pod which is jettisoned out the ''Falcon'' after exiting hyperspace. Rey flies the pod into the hangar where she is greeted by Kylo Ren and a pair of [[Stormtrooper (First Order)|stormtroopers]], who place her in binder cuffs.
+
+As Kylo Ren takes Rey up the turbolift to Supreme Leader Snoke's throne room, she tells him that she feels the good in him and that she saw his future. She promises to help him. Kylo Ren responds that he foresaw that she will turn to him and claims to know who her parents are. Snoke is pleased with his apprentice for delivering Rey, telling him that his faith is restored.
+
+Snoke bids Rey to come closer, admiring Rey's strength and remarking that lightness has emerged to meet the rising darkness. Snoke says that he warned Kylo Ren that as his powers grew stronger, so would his equal in the light. He then snatches Skywalker's lightsaber from Ren's hand with the Force. Snoke uses the Force to bring Rey closer to him.
+
+Rey warns him that he underestimates Skywalker, Ben Solo, and her; and that it would be downfall. Snoke claims that he was responsible for the mental connection between her and Ren as part of a plan to find and destroy Luke; exploiting their emotions and desires. Snoke demands that Rey reveal Skywalker's location but she remains defiant. Snoke uses the Force to levitate Rey and probes her mind for Skywalker's location.
+
+Having probed Rey's mind and learned Skywalker's location, Snoke releases his Force grip on Rey and mocks Skywalker for his "wisdom." He vows to destroy Skywalker and the Jedi Order. Rey tries to seize Skywalker's lightsaber with the Force but Snoke uses the Force to hurl it at her. He then uses the Force to levitate her and force her to watch the destruction of the Resistance fleet through a viewport. Rey grabs [[Kylo Ren's lightsaber]] with the Force but the [[Elite Praetorian Guard]]s flash their weapons. Rey charges at Snoke but he uses the Force to throw her to the ground. Kylo retrieves his lightsaber.
+
+===Resistance in peril===
+[[File:Episode_VIII_Stormtroopers.png|thumb|right|250px|Finn and Rose faced a public execution in the presence of First Order officers, soldiers, and pilots.]]
+Meanwhile, in the ''Supremacy''{{'s}} hangar bay, Finn and Rose are brought out for a public execution in the presence of General Hux, Captain Phasma, and many First Order officers, soldiers, and pilots. Hux slaps Finn and thanks Phasma for her services. Finn and Rose learn that DJ has sold them out for his own freedom and financial gain.
+
+Rose calls DJ a "lying snake" and struggles against her captors. DJ replies that they got caught and that the First Order was offering a better deal. DJ also reveals the Resistance's evacuation plan to the First Order, which is confirmed by the departure of 30 transports from the ''Raddus''. General Hux orders the ''Supremacy'' to open fire on the Resistance transports, destroying several ships and inflicting heavy losses on the Resistance. Vice-Admiral Holdo orders the transports to continue their journey to Crait.
+
+Finn denounces DJ for his treachery but the criminal is indifferent to their struggle, remarking that "they blow you up today and you blow them up tomorrow." DJ claims that it is just business but Finn disagrees. Believing Finn and Rose to be a waste of [[blaster]] bolts, Phasma orders [[Executioner trooper]]s to behead them with [[BL-155 Laser ax]]es.
+
+===Killing Snoke===
+{{Quote|You think you can turn him? Pathetic child. I cannot be betrayed. I cannot be beaten. I see his mind. I see his every intent. Yes...I see him turning the lightsaber to strike true. And now, foolish child, he ignites it, and kills his true enemy!|Snoke, to Rey as his final words|<ref name="Movie" />}}
+[[File:ReyKyloVsGuards.png|thumb|left|250px|Rey and Kylo join forces against Snoke's guards.]]
+Snoke orders Kylo Ren to kill Rey with his lightsaber. Believing he can read Ren's mind, Snoke is jubilant and mocks Rey. However, Kylo Ren uses the Force to activate Skywalker's lightsaber, which impales and cuts Snoke in half, killing the Supreme Leader. Ren uses the Force to pass Skywalker's lightsaber to Rey and the two join forces as the Praetorian guards converge upon them to avenge their fallen master. Kylo kills one with his lightsaber.
+
+Rey manages to kill a Praetorian with her lightsaber but a second Praetorian wraps his [[Bilari electro-chain whip]] around her blade. Rey manages to break free by impaling the guard with her blade. A third guard divides his [[Vibro-arbir blade]] in half and charges at Rey. Ren is cornered by three guards but he breaks free and impales one, before throwing his body into a generator where he is disintegrated. As the three other guards converge on him, Kylo kills two but is grabbed by one who traps him in a headlock.
+
+Rey is trapped by the other guard but manages to break free by dropping her blade and then slashing him. Rey helps Kylo to kill the last guard by handing him Skywalker's lightsaber, which he uses to impale the guard through the head, killing him. Rey implores Kylo Ren to order the First Order gunners to stop bombarding the Resistance fleet but Ren tells her to let the past die including the Jedi, Sith, Resistance and the First Order. He invites her to rule the galaxy by his side.
+
+When Rey refuses, Kylo compels Rey to admit what she thinks she knew all along: that her parents were insignificant junkers who sold her for drinking money, and that they are dead and buried in the wastes of Jakku. He tells her that she comes from nothing and is nothing but not to him. Ren pleads with Rey to join him by his side.
+
+===Holdo's sacrifice===
+[[File:Finn_vs_Phasma.jpg|thumb|right|250px|Finn fighting Captain Phasma.]]
+Seeing the Resistance fleet in peril, Holdo climbs into the helm of the ''Raddus''. Not realizing Holdo's plans, Hux orders the ''Supremacy'' to continue firing. Using the Force, Rey and Kylo struggle for possession of Skywalker's lightsaber until it breaks into two, causing a large explosion.
+
+Watching the ''Raddus'' powering away, Connix thinks she is running away but Poe disagrees. Holdo sacrifices herself to ram the ''Raddus'' into the ''Supremacy'' at [[lightspeed]], cleaving it in two and destroying much of its escort fleet instantly. The resulting explosion sets the ''Supremacy''{{'s}} cargo hold aflame and interrupts Finn and Rose's execution.
+
+Amidst the inferno, Rose helps Finn up and the two search for a shuttle. However, Finn and Rose are cornered by Phasma and several stormtroopers. Before she can eliminate them, BB-8 commandeers a docked First Order [[First Order All Terrain Scout Transport|AT-ST]] [[walker]] and intervenes, blasting the troopers. Finn and Phasma duel amidst the chaos. Phasma manages to knock Finn to the ground with her staff. Rose and Phasma exchange fire.
+
+With Phasma distracted, Finn knocks her to the ground with his [[Z6 riot control baton]]. With her helmet shattered, Phasma denounces him as "scum" but Finn retorts that he is "rebel scum." Phasma falls to her death in a fiery chasm when the floor beneath her gives way. Finn, Rose, and BB-8 then flee the ''Supremacy'', commandeering a [[Xi-class light shuttle|''Xi''-class light shuttle]].
+
+In Snoke's chamber, Hux surveys the corpses of Snoke and his guards in disbelief. He sees the unconscious Ren and prepares to shoot him, but is forced to relent when Ren awakes. Learning that Rey has escaped on [[Snoke's escape shuttle]], Ren frames her for Snoke's death, but Hux knew that he was lying. Ren then orders Hux to prepare for a ground assault on Crait. This causes Hux to explode in fury at his rival's presumptuousness, but Ren angrily [[Force choke]]s him into submission, declaring himself the new Supreme Leader.
+
+===Battle of Crait===
+[[File:Swtlj-Crait-700x300.jpg|left|thumb|The Resistance ski speeders fly towards the First Order.|250px]]
+On Crait, the surviving Resistance fighters regroup at the [[Crait outpost|abandoned rebel base]], which was once a mine. General Organa orders her forces to shut the shield door. Pursued by TIE fighters, Finn, Rose, and BB-8 crash-land their stolen shuttle inside the base. Following a brief shootout, a brief reunion ensues with Poe hugging BB-8. Rose leads the search for weapons and finds rusted ammunition and several old [[V-4X-D ski speeder|ski speeders]]. Poe and Leia also send a distress signal to their allies in the [[Outer Rim Territories]], seeking help.
+
+Shortly later, they sense the earth shaking while the [[vulptex|vulptices]] scurry away. They realize that the [[First Order Army]] has arrived with a phalanx of [[First Order All Terrain Armored Transport|AT-AT]], [[All Terrain MegaCaliber Six|AT-M6]] walkers and a [[superlaser siege cannon]]. C-3PO informs the others that BB-8 has done a schematics of the cave and found that there is only one entrance. Finn encourages the Resistance by reassuring them that allies will come and proposes that they take out the siege cannon.
+
+While Resistance soldiers under General [[Caluan Ematt]] man the trenches and laser batteries, Poe, Finn, and Rose lead a charge with 13 old ski speeders to destroy the First Order assault force's massive siege cannon. Realizing that the Resistance is in the mine, Kylo Ren orders his forces to push them and dispatches TIE fighters. The speeders try to break off but several are destroyed by TIE fighters, which also strafe the trenches, killing many Resistance soldiers.
+
+Rose is pursued by three TIE fighters but Rey and Chewbacca arrive in the ''Falcon'', shooting them down. The ''Falcon'' also draws the TIE fighters away, shooting down several. Kylo Ren orders his forces to take that "piece of junk out of the skies." The ''Falcon'' leads the pursuing TIE fighters into a canyon. The ship's rear cannon is crushed against the rocks, but several TIE fighters also collide with the rocks. Chewbacca, with a porg watching, fly the ''Falcon'' into a canyon that leads to the surface.
+
+Finn and Rose approach the superlaser siege cannon, which begins powering up. Supreme Leader Ren and General Hux order their walkers to concentrate fire on the speeders, destroying several. Poe thinks it is a suicide mission and orders Finn to retreat but Finn is determined to take out the cannon. He accelerates his speeder, ignoring Rose's pleas.
+
+Before Finn can complete his suicide mission, Rose prevents Finn from sacrificing himself to destroy the battering ram cannon, which then blasts a hole in the fortress. Poe and the surviving Abednedo pilot retreat into the trenches with the surviving soldiers. Finn climbs out of his wrecked speeder and rescues an injured Rose. When he asks why she stopped his mission, Rose replies that they survive by "saving what we love."
+
+As the superlaser burns through the gate of the Crait base, Kylo Ren orders his forces to storm the base and show no quarter to the Resistance. Connix informs D'Acy that the Resistance broadcast has reached multiple points but that they have received no response. Leia laments that the galaxy has lost hope.
+
+===Light versus darkness===
+{{Quote|The Resistance is dead! The war is over! And when I kill you, I will have killed the last Jedi!''"<br />"''Amazing. Every word of what you just said was wrong. The Rebellion is reborn today. The war is just beginning. And I will not be the last Jedi.|Kylo Ren and Luke Skywalker|<ref name="Movie" />}}
+[[File:Luke_Skywalker_on_Crait.png|thumb|right|250px|Luke makes his stand against Kylo Ren.]]
+However, Luke suddenly arrives to comfort Leia. After exchanging pleasantries, Luke apologizes and tells Leia that he has come to confront Ren. Leia thinks her son is gone but Luke reassure her that nobody is gone. After handing Han's lucky dice to Leia, Luke walks out through the gate to confront Ren and the First Order while C-3PO and the rest of the Resistance look on.
+
+Outside, Luke confronts Ren alone outside the breached door, giving the surviving Resistance fighters time to escape. Ren orders the First Order walkers to unleash a massive volley of turbolaser fire on Luke's position. Hux questions the amount of firepower but Luke emerges from the blast crater completely unscathed and mocks the First Order's firepower with a brush of his shoulder. Ren resolves to confront Skywalker despite Hux's objections, whom he shoves against the hull of the [[Upsilon-class command shuttle|''Upsilon''-class command shuttle]]'s cockpit.
+
+Finn drags a wounded Rose on a makeshift stretcher into the Crait base while Ren lands his shuttle. Watching the battle, Finn wants to help but Poe realizes that Skywalker is buying them time to escape. Poe says that they are the "spark of resistance" that will burn the First Order down. After seeking C-3PO's advice, Poe decides to follow the vulptices, hoping they would lead them to a hole.
+
+Meanwhile, Rey uses the beacon to track down her Resistance comrades' movements. She manages to track them down by following a group of vulptices. Finn and the Resistance encounter a pile of rocks which the vulptices are able to slip through but is too small for them. Outside, Rey discovers the pile of rocks and uses the Force to lift them. As the Resistance fighters stream out, Rey hugs Finn.
+
+Outside, Kylo Ren confronts his uncle personally in a lightsaber duel on the salt plain outside the base, and asks Luke if he has come to forgive him or to save his soul. Luke replies no as the two draw their blades. Kylo charges at Luke but his uncle repeatedly evades Ren's attacks. Luke apologizes to Ren for failing him, but Ren angrily rejects his apology, declaring the Resistance is dead and the war over, and that with Luke's death shall come the ultimate death of the Jedi.
+
+Luke counters by saying that both the Jedi and the Rebellion are born anew in Rey and the Resistance, and invites Ren to strike him down but tells he will always be with him just like Han. Ren tries, but is surprised to see Luke is still standing. He pokes his blade through Luke's torso, and to his horror it passes through him as if he were a ghost, revealing that Luke is physically still on Ahch-To and has been stalling for time via a non-corporeal [[Force projection]] of himself. Luke says goodbye to his fallen nephew before his projection fades away, leaving Ren furious.
+
+===The Rebellion is reborn===
+{{Quote|How do we build a rebellion from this?''"<br />"''We have everything we need.|Rey and Leia Organa|<ref name="Movie" />}}
+[[File:Luke_fades_into_the_Force.png|thumb|left|250px|Luke becoming one with the Force.]]
+The effort to create the projection was too much for Luke, and he collapses from exhaustion. With the last of his strength, he climbs up to the cliff where he trained Rey and stares out towards Ahch-To's binary sunset, similar to the one he saw on [[Tatooine]] [[Star Wars: Episode IV A New Hope|thirty-four years earlier]], before he became a Jedi. Luke then dies, and his body vanishes as he becomes one with the Force.
+
+On Crait, Leia and Rey sense Luke's death. The First Order storms the base, but are too late to prevent the remaining Resistance fighters from escaping aboard the ''Falcon'', albeit not before Ren shares another force bond moment with Rey, who eventually shuts him out, much to his dismay.
+
+After leaving Crait, Chewbacca hugs Leia. Finn opens a drawer on the ''Falcon'' to get a blanket for the gravely injured Rose, revealing briefly to the audience that Rey stole all of the books from the original Jedi library and Yoda did not destroy them after all. After being formally introduced to Poe, Rey laments Luke's death as she looks hopelessly at his broken lightsaber and the group's small numbers. Leia, however, notes that Luke is now at peace and that the Rebellion has all it needs to rise again.
+
+Later, on Canto Bight, the stable children regale themselves with a story about Luke's adventures. They are interrupted by Bargwill Tomder who angrily orders the children to get back to work. Outside, Temiri Blagg, still wearing the Resistance Ring that Rose gave him, summons his broom with the Force and hopefully gazes up to the stars.
+
+==Development==
+{{Quote|When Rian who I admire enormously and adore, came on board, we met and talked with him about all the things we were working on and playing with, and he as a spectacular writer and director has taken those things and has written an AMAZING script that I think will be an incredible next chapter, some of which incorporating things we were thinking of and other things are things we could never of dreamed of.|J.J. Abrams|<ref name="Slashfilm Abrams Johnson">{{Cite_web|url=https://www.slashfilm.com/how-j-j-abrams-and-rian-johnson-collaborated-to-create-the-future-of-star-wars/2|title=How J.J. Abrams and Rian Johnson Collaborated to Create the Future of Star Wars|author=Sciretta, Peter|date=2015-12-14|work=[[Wikipedia:/Film|/Film]]|archivedate=20200109132805}}</ref>}}
+[[File:Rian_Johnson_Headshot.jpg|thumb|right|200px|Rian Johnson, writer and director of ''The Last Jedi'']]
+On [[June 20]], [[2014]], a spokesperson for director [[Rian Johnson]] confirmed that he would write and direct Episode VIII. [[Ram Bergman]], Johnson's frequent collaborator, was also brought on to the project as a producer, working alongside [[Kathleen Kennedy]].<ref name="LA Times">{{Cite_web|url=https://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-rian-johnson-star-wars-franchise-writer-directorter-20140620-story.html|title=Rian Johnson boarding 'Star Wars' franchise as writer and director|author=Keegan, Rebecca|date=2014-06-20|work=[[Wikipedia:Los Angeles Times|''Los Angeles Times'']]|archivedate=20200305083413}}</ref> As Lucasfilm had not developed a story beyond that of [[Star Wars: Episode VII The Force Awakens|''The Force Awakens'']],<ref>{{Cite_web|url=https://screenrant.com/star-wars-8-9-sequel-trilogy-story|title=Star Wars 8 & 9 Weren't Mapped Out When Rian Johnson Joined|author=Agar, Chris|date=2017-05-29|work=[[Wikipedia:Screen Rant|''Screen Rant'']]|archivedate=20190824053557}}</ref> Johnson was allowed to develop his own story based on access to the script,<ref>{{Cite_web|url=https://www.nytimes.com/2017/09/06/movies/star-wars-the-last-jedi-director-rian-johnson.html|title=The Fate of 'The Last Jedi' Is in His Hands|author=Itzkoff, Dave|date=2017-09-06|work=[[Wikipedia:The New York Times|''The New York Times'']]|archivedate=20200525182025}}</ref> as well as footage screened for him by ''The Force Awakens'' director [[J.J. Abrams]].<ref>{{Cite_web|url=https://www.wired.com/2015/11/star-wars-force-awakens-jj-abrams-interview|title=Lucky VII: Superfan J.J. Abrams on Directing ''The Force Awakens''|author=Dadich, Scott|partialdate=2015-11|work=[[Wikipedia:Wired (magazine)|''Wired'']]|archivedate=20200621162230}}</ref> After developing his story, Johnson pitched it to Abrams for approval.<ref>{{Cite_web|url=https://www.cinemablend.com/news/1745629/what-jj-abrams-thinks-about-the-last-jedi-according-to-rian-johnson|title=What J.J. Abrams Thinks About The Last Jedi, According To Rian Johnson|author=Schwerdtfeger, Conner|date=2017-12-18|work=[https://www.cinemablend.com Cinemablend]|archivedate=20190722032954}}</ref> Johnson explained: "From the very start, Kathy [Kennedy] at Lucasfilm, but also Bob Iger, Alan Horn, Alan Bergman, the folks at Disney that we dealt with, they not only allowed to make the movie I wanted to make, I was actively encouraged to find what was personal in it and to go after that."<ref>{{Cite_web|url=https://deadline.com/2017/12/star-wars-the-last-jedi-rian-johnson-ram-bergman-interview-spoilers-deleted-scenes-lucasfilm-plans-1202227741|title=Rian Johnson & Ram Bergman Talk 'Star Wars: The Last Jedi' Deleted Scenes And Finding Light In The Dark Of Episode VIII|author=Utichi, Joe|date=2017-12-15|work=[[Wikipedia:Deadline Hollywood|''Deadline'']]|archivedate=20200115220505}}</ref>
+
+Johnson partially derived his story from one of [[George Lucas]]'s ideas for Episode VII, in which Luke lives in seclusion in a [[Jedi temple]] and reluctantly trains a young girl named Kira.<ref>''[[The Art of Star Wars: The Last Jedi]]''</ref><ref>{{Cite_web|url=https://www.starwarsnewsnet.com/2018/01/pablo-hidalgo-sheds-more-light-on-george-lucass-influence-on-the-sequel-trilogy.html|title=Pablo Hidalgo Sheds More Light On George Lucas's Influence On The Sequel Trilogy|author=Davis, Grant|date=2018-01-04|work=[https://www.starwarsnewsnet.com Star Wars News Net]|archivedate=20190605023151}}</ref> According to Johnson, "I saw it as the job of this middle chapter to challenge all of those characters—let's see what happens if we knock the stool out from under them. [&hellip;.] I started by writing the names of each of the characters, and thinking, 'What's the hardest thing they could be faced with?'" While writing, Johnson regularly met with the [[Lucasfilm Story Group]] and members of the cast to share ideas and drafts of the script;<ref>{{Cite_web|url=https://www.vanityfair.com/hollywood/2017/05/star-wars-the-last-jedi-cover-portfolio|title=Cover Story: ''Star Wars: The Last Jedi'', the Definitive Preview|author=Kamp, David|date=2017-05-24|work=[[Wikipedia:Vanity Fair (magazine)|''Vanity Fair'']]|archivedate=20200720133915}}</ref><ref>{{Cite_web|url=https://www.hollywoodreporter.com/heat-vision/star-wars-last-jedi-director-survived-pressure-by-trusting-his-fan-1030350|title='Last Jedi' Filmmaker Survived the Pressure by Trusting His "Inner Fan"|author=McMillan, Graeme|date=2017-08-16|work=[[Wikipedia:The Hollywood Reporter|''The Hollywood Reporter'']]|archivedate=20200324002120}}</ref> "For me, I outline outline outline, and I notebook notebook notebook, then the last 10 percent of the process is actually typing the script. I plan it all out first. So while I was doing that, I was going in twice a week and sitting down and just vomiting these ideas out and talking them through with [[Kiri Hart]] and her whole group."<ref name="14 Things">{{Cite_web|url=https://www.rollingstone.com/movies/movie-features/14-things-we-learned-about-star-wars-the-last-jedi-124729|title=14 Things We Learned About 'Star Wars: The Last Jedi'|author=Hiatt, Brian|date=2017-12-06|work=[[Wikipedia:Rolling Stone|''Rolling Stone'']]|archivedate=20200701103142}}</ref> Johnson also screened select classic films such as [[Wikipedia:The Bridge on the River Kwai|''The Bridge on the River Kwai'']], [[Wikipedia:Gunga Din (film)|''Gunga Din'']], [[Wikipedia:Letter Never Sent (film)|''Letter Never Sent'']], [[Wikipedia:Sahara (1943 film)|''Sahara'']], [[Wikipedia:Three Outlaw Samurai|''Three Outlaw Samurai'']], [[Wikipedia:To Catch a Thief|''To Catch a Thief'']], and [[Wikipedia:Twelve O'Clock High|''Twelve O'Clock High'']].<ref name="sun times">{{Cite_web|url=http://chicago.suntimes.com/entertainment/rian-johnson-on-star-wars-episode-viii|title=Rian Johnson on 'Star Wars: Episode VIII'|author=Weber, Wendy|date=2014-07-27|work=[[Wikipedia:Chicago Sun Times|''Chicago Sun Times'']]|archivedate=20160527015102}}</ref><ref>{{Cite_web|url=https://ew.com/article/2016/07/17/episode-viii-young-han-solo-star-wars-celebration|title=Star Wars Celebration: Updates on Episode VIII and young Han Solo movie|author=Breznican, Anthony|date=2016-09-17|work=''[[Entertainment Weekly]]''|archivedate=20200620173612}}</ref><ref name="Johnson Empire 2017">{{Cite_web|url=https://www.empireonline.com/movies/features/rian-johnson-last-jedi-interview|title=Rian Johnson On The Last Jedi's Progress, Influences, And Surprises|author=Freer, Ian|date=2017-01-25|work=[[Wikipedia:Empire (magazine)|''Empire'']]|archivedate=20200109023501}}</ref>
+
+There was some confusion over Abrams' relationship with Johnson's script. [[Daisy Ridley]] said that Abrams had written an outline for the film, and that it had been rewritten by Johnson.<ref>{{Cite_web|url=https://www.ign.com/articles/2018/03/02/jj-abrams-wrote-drafts-for-star-wars-8-and-9-says-daisy-ridley|title=J.J. Abrams Wrote Drafts For Star Wars 8 and 9, Says Daisy Ridley|author=Skrebels, Joe|date=2018-03-02|work=[[Wikipedia:IGN|''IGN'']]|archivedate=20200215105034}}</ref> However, Abrams denied this, saying "We don't write a treatment but there are countless times we came up with something and said 'oh, this would be so great for Episode VIII!' or 'Thats what we could get to in IX!' [&hellip;] We also knew that certain things were inevitable in our minds but that didn't mean it would be inevitable for whoever came in next."<ref name="Slashfilm Abrams Johnson" /> "Larry Kasdan and I, who wrote the script together, definitely were setting things up and were conscious of the fact&hellip; which is a really weird opportunity in features to know that this was going to be the beginning of a three-picture story. So we were working on versions of what we knew we would have done or wanted to do and had meetings with Rian and Ram [Bergman], who is a producer, very early on and went over what we were thinking. But also knew that Rian had his own ideas coming in. He was going to take this thing in the place that he felt right."<ref>{{Cite_web|url=https://www.cinemablend.com/new/How-J-J-Abrams-Involved-Creatively-With-Star-Wars-Beyond-Force-Awakens-99187.html|title=How J.J. Abrams Will Be Involved Creatively With Star Wars Beyond The Force Awakens|author=Eisenberg, Eric|date=2015-12-09|work=[https://www.cinemablend.com Cinemablend]|archivedate=20181224220547}}</ref> "So the story he told took what we were doing and went in the direction that he felt was best but that is very much in line with what we were thinking as well."<ref>{{Cite_web|url=https://www.wired.com/2015/11/star-wars-force-awakens-jj-abrams-interview|title=J.J. Abrams, Star Wars Superfan, on Directing The Force Awakens|author=Dadich, Scott|partialdate=2015-12|work=[[Wikipedia:Wired (magazine)|''Wired'']]|archivedate=20200621162230}}</ref> [[Greg Grunberg]] also claimed that Abrams was so impressed by the script that he regretted not directing it himself.<ref>{{Cite_web|url=https://www.washingtonpost.com/news/comic-riffs/wp/2015/12/22/why-j-j-abrams-now-regrets-deboarding-the-star-wars-chair-before-episode-viii|title=Why J.J. Abrams reflects regret over deboarding Star Wars before Episode VIII|author=Cavna, Michael|date=2015-12-22|work=[[Wikipedia:The Washington Post|''The Washington Post'']]|archivedate=20200509143842}}</ref> Abrams later clarified: "I think that my enthusiasm for VIII is enormous. I think [Grunberg] also might have invented a couple of the quotes that he gave, but I am very much excited for and very jealous of anyone, especially Rian, who gets to work so closely with this extraordinary cast and crew."<ref>{{Cite_web|url=http://www.eonline.com/news/730814/j-j-abrams-knows-who-rey-s-parents-are-in-star-wars|title=J.J. Abrams Knows Who Rey's Parents Are in ''Star Wars''|author=Johnson, Zach|date=2016-01-13|work=[[Wikipedia:E!|E!]]|archivedate=20170308223643}}</ref>
+
+===Production===
+{{Quote|['The Force Awakens'] sets up a lot of stuff. There's a lot of people to deal with. And Rian took on that job and he's going to change it, because he's Rian. And I'm sure Colin will change what Rian does.... These movies will all be so different. Rian Johnson is a friend of mine -- he's going to make some weird thing. If you've seen Rian's work, you know it's not going be like anything that's ever been in 'Star Wars.'"|[[Lawrence Kasdan]]|<ref name=">{{Cite_web|url=http://www.latimes.com/entertainment/movies/herocomplex/la-et-hc-lawrence-kasdan-star-wars-han-solo-20151221-story.html|title=Lawrence Kasdan on the 'crazy different' Han Solo film and where 'Star Wars' will go from here|author=Rottenberg, Josh|date=2015-12-22|work=[[Wikipedia:Los Angeles Times|''Los Angeles Times'']]|archivedate=20151223093710}}</ref>}}
+Preliminary filming took place in [[September]] [[2015]] on [[Wikipedia:Skellig Michael|Skellig Michael]], an island off the coast of mainland [[Wikipedia:Ireland|Ireland]].<ref name="EW Ireland">{{Cite_web|url=https://ew.com/article/2015/09/09/star-wars-force-awakens-will-undergo-reshoots-ireland|title=Updated: Star Wars: Episode VIII will shoot in Ireland this month|author=Breznican, Anthony|date=2015-09-09|work=''[[Entertainment Weekly]]''|archivedate=20200702003614}}</ref> The island stood in for the planet Ahch-To, which first appeared at the end of ''The Force Awakens'', but is featured prominently in ''The Last Jedi''; production design was inspired by the real-world elements of Skellig Michael.<ref>{{Cite_web|url=https://ew.com/movies/2017/08/09/star-wars-last-jedi-porgs-caretakers|title=''The Last Jedi'': Meet the porgs and 'The Caretakers' from Luke Skywalker's island|author=Breznican, Anthony|date=2017-08-09|work=''[[Entertainment Weekly]]''|archivedate=20200701093758}}</ref><ref>{{Cite_web|url=https://www.hollywoodreporter.com/heat-vision/star-wars-last-jedi-rian-johnson-luke-is-dark-1050514|title='The Last Jedi' Director on a Key Spot He Avoided Green Screen|author=Riefe, Jordan|date=2017-10-20|work=[[Wikipedia:The Hollywood Reporter|''The Hollywood Reporter'']]|archivedate=20190726100805}}</ref> This sequence was filmed with [[Wikipedia:IMAX|IMAX]] cameras.<ref>{{Cite_web|url=https://movieweb.com/star-wars-last-jedi-luke-skywalker-imax-scenes|title=Star Wars: The Last Jedi Luke Skywalker Scenes Were Shot in IMAX|author=Orange, B. Alan|date=2016-02-22|work=[[Wikipedia:MovieWeb|MovieWeb]]|archivedate=20200227111356}}</ref> Before leaving, the crew donated [[Wikipedia:Euro|€]]10,000 to the ferry service that had transported them to and from the island.<ref>{{Cite_web|url=http://www.irishtimes.com/news/ireland/irish-news/star-wars-producers-donate-10-000-to-valentia-lifeboat-1.2374488|title=Star Wars producers donate €10,000 to Valentia Lifeboat|author=Lucey, Anne|date=2015-10-01|work=[[Wikipedia:The Irish Times|''The Irish Times'']]|archivedate=20160411080156}}</ref>
+
+[[File:Johnson_Fisher_TLJ.png|thumb|left|250px|Rian Johnson directing Carrie Fisher on the set of ''Star Wars: The Last Jedi'']]
+Production officially began in [[Wikipedia:England|England]] in February [[2016]],<ref name="Release Date" /><ref>{{Cite_web|url=https://ew.com/article/2016/02/10/star-wars-episode-viii-production|title=''Star Wars: Episode VIII'' has started filming|author=Breznican, Anthony|date=2016-02-10|work=''[[Entertainment Weekly]]''|archivedate=20200701122449}}</ref> under the working title of ''Space Bear''.<ref>{{Cite_web|url=https://collider.com/star-wars-episode-8-title-revealed|title='Star Wars: Episode VIII' Working Title Revealed|author=Goldberg, Matt|date=2016-02-20|work=[[Wikipedia:Collider (website)|''Collider'']]|archivedate=20200109000507}}</ref> It utilized 14 stages at [[Pinewood Studios]] and a total of 125 sets,<ref>{{Cite_web|url=https://www.hollywoodreporter.com/heat-vision/star-wars-last-jedi-script-called-160-sets-1065958|title=Original 'Star Wars: The Last Jedi' Script Called for a "Ridiculous Amount of Sets"|author=Riefe, Jordan|date=2017-12-13|work=[[Wikipedia:The Hollywood Reporter|''The Hollywood Reporter'']]|archivedate=20200710185322}}</ref> with many of the crew from Episode VII returning.<ref name="Target Bonus">{{Film|VII}} Blu-ray Target Exclusive "Inside the Armory" featurette</ref> Several cast members had to undergo extensive physical training prior to shooting.<ref>{{Cite_web|url=https://nypost.com/2017/12/18/the-weird-cold-sleeve-that-got-the-star-wars-cast-in-shape|title=The weird cold sleeve that got the 'Star Wars' cast in shape|author=Steussy, Lauren|date=2017-12-18|work=[[Wikipedia:New York Post|''New York Post'']]|archivedate=20190401191537}}</ref> As with the [[original trilogy]], the character of Yoda was an entirely practical effect, with a new puppet created based on original molds for ''The Empire Strikes Back'', and [[Frank Oz]] returning to operate and voice the character.<ref>{{Cite_web|url=https://www.wired.com/story/rian-johnson-star-wars-last-jedi|title=Star Wars: The Last Jedi's Rian Johnson on the Future of the Franchise|author=Watercutter, Angela|date=2017-12-19|work=[[Wikipedia:Wired (magazine)|''Wired'']]|archivedate=20200305102928}}</ref> From March 9 to 16, production took place in [[Wikipedia:Dubrovnik|Dubrovnik]], [[Wikipedia:Croatia|Croatia]],<ref>{{Cite_web|url=http://www.tzdubrovnik.hr/get/vijesti/63155/vazna_obavijest.html|title=Važna obavijest (Important information)|date=2016-02-19|work=[https://tzdubrovnik.hr tzdubrovnik.hr]|publisher=Turistička zajednica grada Dubrovnika [Dubrovnik Tourist Board]|language=[[Wikipedia:Croatian language|croatian]]|archivedate=20170718220716}}</ref><ref>{{Cite_web|url=http://thedubrovniktimes.com/news/dubrovnik/item/324-star-wars-set-in-dubrovnik-under-construction|title=Star Wars set in Dubrovnik "under construction"|date=2016-02-22|work=[https://www.thedubrovniktimes.com ''The Dubrovnik Times'']|archivedate=20170608144800}}</ref> followed by a return to Ireland for twelve weeks in [[Wikipedia:County Cork|County Cork]].<ref>{{Cite_web|url=https://www.telegraph.co.uk/news/2016/03/20/star-wars-episode-viii-brings-power-of-the-force-to-new-location|title=Star Wars Episode VIII returns to new locations in Ireland|author=Barrett, David|date=2016-03-20|work=[[Wikipedia:The Daily Telegraph|''The Telegraph'']]|archivedate=20190728224921}}</ref> Several members of the production likened the experience of making the film to working on an [[Wikipedia:Independent film|independent production]].<ref>{{Cite_web|url=https://www.latimes.com/entertainment/herocomplex/la-et-hc-oscar-isaac-on-star-wars-episode-viii-20160417-story.html|title=Oscar Isaac on 'Star Wars: Episode VIII': 'It feels like we're making an independent film'|author=Rottenberg, Josh|date=2016-04-18|work=[[Wikipedia:Los Angeles Times|''Los Angeles Times'']]|archivedate=20200109212507}}</ref><ref>{{Cite_web|url=http://ew.com/movies/2017/12/03/star-wars-last-jedi-press-conference-recap|title=''The Last Jedi'': All the details from Sunday's press conference|author=Sollosi, Mary|date=2017-12-03|work=''[[Entertainment Weekly]]''|archivedate=20180802011315}}</ref><ref>{{Cite_web|url=http://www.syfy.com/syfywire/rian-johnson-explains-how-he-crafted-the-last-jedis-character-arcs|title=Rian Johnson explains how he crafted The Last Jedi's character arcs|author=Bennett, Tara|date=2017-12-04|work=[[Wikipedia:Syfy|Syfy]]|archivedate=20180417025350}}</ref> Johnson took a lot of the behind-the-scenes photographs himself.<ref name="SWCO 2017: 10 Things We Learned">{{SW|url=news/swco-2017-10-things-we-learned-from-the-star-wars-the-last-jedi-panel|text=SWCO 2017: 10 Things We Learned from the ''Star Wars: The Last Jedi'' Panel}}</ref> He also filmed a brief bit of content for Episode IX; This was requested by former Episode IX director [[Colin Trevorrow]],<ref>{{Cite_web|url=https://screenrant.com/star-wars-9-rian-johnson-colin-trevorrow|title=Star Wars 9: Rian Johnson Shot Scene For Colin Trevorrow|author=Agar, Chris|date=2017-06-19|work=[[Wikipedia:Screen Rant|''Screen Rant'']]|archivedate=20191004045013}}</ref> who also asked Johnson to include the shot of Poe and Rey introducing themselves.<ref name="Trevorrow Empire">{{Cite_web|url=https://www.empireonline.com/movies/news/colin-trevorrow-star-wars-rise-skywalker-last-jedi|title=Star Wars: Colin Trevorrow On His Rise Of Skywalker Writing Credit And His Last Jedi Contribution &ndash; Exclusive|author=De Semlyen, Nick|date=2019-11-22|work=[[Wikipedia:Empire (magazine)|''Empire'']]|archivedate=20200701053935}}</ref> [[Carrie Fisher]] worked with Johnson on some of the dialogue, in sessions that he described as "stream-of-consciousness ad-lib."<ref name="SWCO 2017: 10 Things We Learned" /> Per a suggestion from Fisher, several of the film's characters wear jewelry of some type.<ref>{{Twitter|rianjohnson|status/926340223918678017|[[Rian Johnson]]|quote=In rehearsals Carrie grabbed my arm and told me with great urgency that we needed "space jewelry." I thought that was a fabulous idea. So.|archivefile=File:RJNov22017.png}}</ref> Hamill was surprised by the changes in his character, and had to formulate a personal backstory for the character so as to play the character effectively.<ref>{{Cite_web|url=http://www.eonline.com/news/892111/mark-hamill-luke-skywalker-hasn-t-gone-to-the-dark-side-in-star-wars-the-last-jedi|title=Has Luke Skywalker Gone to the Dark Side in ''Star Wars: The Last Jedi''? Mark Hamill Weighs In|author=Johnson, Zach|date=2017-11-07|work=[[Wikipedia:E!|E!]]|archivedate=20180418051656}}</ref><ref>{{Cite_web|url=https://ew.com/movies/2017/12/04/star-wars-mark-hamill-luke-skywalker-backstory|title=Mark Hamill created a devastating backstory for Luke Skywalker|author=Breznican, Anthony|date=2017-12-04|work=''[[Entertainment Weekly]]''|archivedate=20200225081718}}</ref> In an interview with [[Wikipedia:Polygon (website)|''Polygon'']], Hamill described the security measures on set: "You get your pages in the morning, and they take them from you as you walk so they can shred them before it somehow leaks. You have security lines you have to walk through, both to and from set. And, not to mention, you have to wear these big monk hoods to protect your costume from drones."<ref>{{Cite_web|url=https://www.polygon.com/2016/11/16/13649874/mark-hamill-star-wars-batman-joker-dc-marvel|title=Mark Hamill talks new show, Jared Leto's Joker, Star Wars: Episode 8 and Donald Trump|author=Alexander, Julia|date=2016-11-16|work=[[Wikipedia:Polygon (website)|''Polygon'']]|archivedate=20191221041347}}</ref> By June 2016, filming was "in the home stretch."<ref>{{Cite_web|url=http://www.ign.com/articles/2016/06/09/star-wars-episode-8-nears-end-of-filming-director-shares-image-of-luke-skywalkers-cloak|title=Star Wars: Episode 8 Nears End of Filming, Director Shares Image of Luke Skywalker's Cloak|author=Osborn, Alex|date=2016-06-08|work=[[Wikipedia:IGN|''IGN'']]|archivedate=20160817192506}}</ref> Principal photography wrapped on July 22, 2016.<ref>{{Cite_web|url=https://ew.com/article/2016/07/22/star-wars-episode-8-wraps-filming-rian-johnson|title=''Star Wars: Episode VIII'' director Rian Johnson announces end of production|author=Romano, Nick|date=2016-07-22|work=''[[Entertainment Weekly]]''|archivedate=20200225062844}}</ref>
+
+===Post-production===
+Johnson began editing on [[August 15]], 2016.<ref>{{Cite_web|url=http://www.hollywoodreporter.com/heat-vision/star-wars-8-director-rian-920132|title='Star Wars: Episode VIII' Director Shares Look at First Day of Editing|author=Flesch, Eli|date=2016-08-16|work=[[The Hollywood Reporter|''The Hollywood Reporter'']]|archivedate=20171031100645}}</ref> His first cut ran over three hours, and included full sequences that were cut from the final film.<ref>{{Cite_web|url=https://collider.com/star-wars-the-last-jedi-3-hour-cut-rian-johnson|title=Rian Johnson Says His First Cut of 'The Last Jedi' Was Over 3 Hours; Talks Deleted Scenes|author=Chitwood, Adam|date=2017-12-04|work=[[Wikipedia:Collider (website)|''Collider'']]|archivedate=20200112111710}}</ref> Carrie Fisher passed away on [[December 27]], 2016. Though she had completed filming,<ref>{{Cite_web|url=https://ew.com/movies/2017/03/23/disney-ceo-star-wars-han-solo-movie-details|title=Han Solo movie will reveal how smuggler 'got his name,' says Disney head|author=Breznican, Anthony|date=2017-03-23|work=''[[Entertainment Weekly]]''|archivedate=20190930003900}}</ref><ref>{{Cite_web|url=https://www.hollywoodreporter.com/heat-vision/star-wars-bob-iger-reveals-new-han-solo-details-talks-what-happens-episode-ix-988348|title='Star Wars': Bob Iger Reveals New Han Solo Details and Talks What Happens After 'Episode IX'|author=Giardina, Carolyn|coauthors=Aaron Couch|date=2017-03-23|work=[[The Hollywood Reporter|''The Hollywood Reporter'']]|archivedate=20200223160902}}</ref> she hadn't recorded all of her [[Wikipedia:Dubbing (filmmaking)#ADR/post-sync|ADR]]. This required significant work by the film's sound editors.<ref name="14 Things" /> Relatively few [[Wikipedia:Pick-up (filmmaking)|pick-ups]] were required, mostly dealing with the Canto Bight sequence and refining the Holdo character.<ref>{{Cite_web|url=https://www.slashfilm.com/star-wars-the-last-jedi-deleted-scenes|title=Star Wars: The Last Jedi Deleted Scenes: Everything We Know|author=Sciretta, Peter|date=2017-12-20|work=[[Wikipedia:/Film|''/Film'']]|archivedate=20200619011452}}</ref> [[John Williams]] returned to compose the score, which was recorded from December 2016 to June 2017. He utilized a 101-piece orchestra and a 64-voice choir.<ref>{{Cite_web|url=https://variety.com/2018/music/awards/john-williams-could-set-oscar-record-1202658996|title=John Williams Is on Target to Set Yet Another Oscar Record|author=Burlingame, Jon|date=2018-01-10|work=[[Wikipedia:Variety (magazine)|''Variety'']]|archivedate=20200616163105}}</ref> On [[September 21]], 2017, Johnson revealed that post-production was complete.<ref>{{Cite_web|url=https://ew.com/movies/2017/09/22/star-wars-last-jedi-wrapped-rian-johnson|title=''Star Wars: The Last Jedi'' has officially wrapped, says director Rian Johnson|author=Coggan, Devan|date=2017-09-22|work=''[[Entertainment Weekly]]''|archivedate=20200728080439}}</ref>
+
+==Release==
+Disney chairman Bob Iger originally announced the release date for Episode VIII of [[May 26]], [[2017]], forty years and one day after the release of ''Star Wars'': Episode IV ''A New Hope'',<ref name="Rogue One SW.com">{{SW|url=news/rogue-one-is-the-first-star-wars-stand-alone-film-rian-johnson-to-write-and-direct-star-wars-episode-viii|text=''Rogue One'' is the First ''Star Wars'' Stand-Alone Film, Rian Johnson to Write and Direct ''Star Wars'': Episode VIII}}</ref> though the release date was later pushed back to [[December 15]], 2017.<ref name="Release Date" /> Rian Johnson first publicly discussed the film in a panel at [[Celebration Europe (2016)|Celebration Europe]].<ref>{{SW|url=news/future-filmmakers-come-together-for-special-panel-at-star-wars-celebration-europe-2016|text='Future Filmmakers' Come Together for Special Panel at ''Star Wars'' Celebration Europe 2016}}</ref> The film's title, ''The Last Jedi'', was announced on [[January 23]], 2017. The title announcement was accompanied with a release of a logo for the film featuring the ''Star Wars'' logo in red rather than its traditional yellow. This color change, previously seen with ''Return of the Jedi'' and with "[[Brothers]]" and "[[Revenge (episode)|Revenge]]," installments of ''[[Star Wars: The Clone Wars]]'' focused on [[Maul|Darth Maul]], led some to speculate that the film's creators may have been hinting at dark events within the film.<ref name="sithred">{{Cite_web|url=https://www.wired.com/2017/01/bad-feeling-sith-red-star-wars-logo|title=We Have a Bad Feeling About That Sith-Red Star Wars Logo|author=Mcmillan, Graeme|date=2017-01-23|work=[[Wired (magazine)|''Wired'']]|archivedate=20181002124614}}</ref> The title's announcement also launched a frenzy of online speculation in regard to the identity of the "last Jedi," with some noting that the term "Jedi" can be used plurally.<ref name="cnet">{{Cite_web|url=https://www.cnet.com/news/star-wars-episode-8-gets-a-name-the-last-jedi|title=Star Wars Episode VIII gets a name: 'The Last Jedi' But is that Jedi singular, or plural?|author=Stein, Scott|date=2017-01-23|work=[[Wikipedia:CNET|''CNET'']]|archivedate=20180106165006}}</ref> (Foreign translations also had the title as plural.<ref>{{Twitter|StarWarsDE|status/832548868315369474|[[Star Wars|''Star Wars'' DE]]|quote=#StarWars: #DieLetztenJedi kommt im Dezember 2017 in unsere Kinos.|archivedate=20191129223551}}</ref><ref>{{Twitter|StarWarsSpain|status/832517146345369600|[[Star Wars|''Star Wars'' España]]|quote=#StarWars: #LosÚltimosJedi, 15 de Diciembre en cines.|archivedate=20200709113348}}</ref><ref>{{Twitter|StarWarsBR|status/832603653970227203|[[Star Wars|Star Wars Brasil]]|quote=''Star Wars: Os Últimos Jedi'', em dezembro nos cinemas!|archivedate=20190906183530}}</ref>) However, Rian Johnson later said that it refers specifically to Luke Skywalker.<ref name="Rian Johnson Luke Skywalker">{{Twitter|rianjohnson|status/917611834181431296|[[Rian Johnson]]|quote=It's Luke.|archivedate=20171201063808}}</ref>
+
+Footage of ''The Last Jedi'' was shared with Disney shareholders in March 2017, including a look at the beginning of the film, which happens immediately following the ending of ''The Force Awakens''.<ref name="shareholders">{{Cite_web|url=https://gadgets.ndtv.com/entertainment/news/star-wars-last-jedi-first-clip-disney-luke-skywalker-rey-1667983|title=Star Wars: The Last Jedi's First Clip Shown to Disney Shareholders|author=Arora, Akhil|date=2017-03-09|work=[https://gadgets360.com Gadgets360]|archivedate=20181123024708}}</ref> Disney CEO Bob Iger, having seen the film, referred to it as a "perfect chapter" in the saga, stating, "I can promise you it's worth the wait."<ref name="perfectchapter">{{Cite_web|url=https://comicbook.com/starwars/news/star-wars-8-last-jedi-best-epsiode-saga-bog-iger|title=Disney CEO Calls Star Wars: The Last Jedi a 'Perfect Chapter' of the Saga|author=Outlaw, Kofi|date=2017-03-08|work=[https://comicbook.com Comicbook.com]|archivedate=20200730205613}}</ref> On [[April 11]], Hamill and Ridley appeared on [[Wikipedia:Good Morning America|''Good Morning America'']] to promote the Force for Change charity;<ref>{{Cite_web|url=https://www.hollywoodreporter.com/heat-vision/star-wars-force-change-charity-campaign-offers-last-jedi-premiere-trip-992661|title='Star Wars' Charity Campaign Offers 'Last Jedi' Premiere Trip and Han Solo Movie Role|author=McMillan, Graeme|date=2017-04-11|work=[[Wikipedia:The Hollywood Reporter|''The Hollywood Reporter'']]|archivedate=20180906112631}}</ref> one of the three rewards was a trip for two to the premiere of ''The Last Jedi''.<ref>{{SW|url=news/be-a-force-for-change-for-the-chance-to-win-a-trip-to-the-star-wars-the-last-jedi-premiere-and-more|text=Be a ''Force For Change'' for the Chance to Win a Trip to the ''Star Wars: The Last Jedi'' Premiere and More}}</ref> Cast and crew featured in a ''Last Jedi'' panel at [[Celebration Orlando]].<ref>{{SW|url=news/kathleen-kennedy-and-star-wars-the-last-jedi-director-rian-johnson-to-appear-at-star-wars-celebration|text=Kathleen Kennedy and ''Star Wars: The Last Jedi'' Director Rian Johnson to Appear at ''Star Wars'' Celebration}}</ref> At the end of the panel, Johnson debuted a teaser poster and teaser trailer.<ref name="The Last Jedi panel">{{SWYoutube|Mh4X4N-8fEM|Star Wars: The Last Jedi Panel &#124; Star Wars Celebration Orlando 2017 (US)|archivedate=20200127152624}}</ref> The film was featured in the May 2017 issue of [[Wikipedia:Vanity Fair (magazine)|''Vanity Fair'']] (for which the cast and crew were photographed on-set by [[Wikipedia:Annie Leibovitz|Annie Leibovitz]]) and both the August and December 2017 issues of ''[[Entertainment Weekly]]''.<ref>{{Cite_web|url=https://www.vanityfair.com/hollywood/2017/05/star-wars-the-last-jedi-cover-portfolio|title=Cover Story: ''Star Wars: The Last Jedi'', the Definitive Preview|author=Kamp, David|date=2017-05-24|work=''[[Wikipedia:Vanity Fair (magazine)|''Vanity Fair'']]|archivedate=20200720133915}}</ref><ref>{{Cite_web|url=https://ew.com/movies/2017/08/09/star-wars-last-jedi-ew-fall-movie-preview-cover|title=''The Last Jedi'' rules the galaxy as the cover of EW's Fall Movie Preview|author=Breznican, Anthony|date=2017-08-09|work=''[[Entertainment Weekly]]''|archivedate=20200506225729}}</ref><ref>{{Cite_web|url=https://ew.com/movies/2017/11/19/star-wars-the-last-jedi-ew-cover|title=''The Last Jedi'': Venture into the ''Star Wars'' galaxy with four new EW covers|author=Breznican, Anthony|date=2017-11-19|work=''[[Entertainment Weekly]]''|archivedate=20190902193353}}</ref> Johnson and the cast again appeared at July's [[Wikipedia:D23 (Disney)|D23]], during which a behind-the-scenes featurette was released.<ref>{{SW|url=news/d23-2017-new-star-wars-the-last-jedi-behind-the-scenes-footage-revealed-and-more|text=D23 2017: New ''Star Wars: The Last Jedi'' Behind-the-Scenes Footage Revealed and More}}</ref> In the lead-up to release, cast and crew made various media appearances to promote the film, including [[Wikipedia:The Ellen DeGeneres Show|''Ellen'']],<ref>{{Cite_web|url=http://ew.com/movies/2017/10/18/star-wars-the-last-jedi-laura-dern-admiral-holdo|title=Laura Dern shares new photo of her purple-haired ''The Last Jedi'' character|author=Coggan, Devan|date=2017-10-18|work=''[[Entertainment Weekly]]''|archivedate=20180603192334}}</ref> ''Good Morning America'',<ref>{{Cite_web|url=http://abcnews.go.com/Entertainment/star-wars-actress-daisy-ridley-surprised-jedi-plot/story?id=51428119|title='Star Wars' star Daisy Ridley says she was 'surprised' by 'Last Jedi' plot|author=McCarthy, Kelly|date=2017-11-28|work=[[Wikipedia:ABC News|ABC News]]|archivedate=20190310135308}}</ref><ref>{{Cite_web|url=http://abcnews.go.com/Entertainment/star-wars-star-john-boyega-reveals-mark-hamill/story?id=51455436|title='Star Wars' star John Boyega reveals Mark Hamill 'comes back strong' in 'The Last Jedi'|author=McCarthy, Kelly|date=2017-11-29|work=[[Wikipedia:ABC News|ABC News]]|archivedate=20180420160507}}</ref> [[Wikipedia:Live with Kelly and Ryan|''Live with Kelly and Ryan'']], [[Wikipedia:The Tonight Show Starring Jimmy Fallon|''The Tonight Show'']], [[Wikipedia:Jimmy Kimmel Live!|''Jimmy Kimmel Live!'']],<ref>{{Cite_web|url=http://www.starwarsunderworld.com/2017/11/the-last-jedi-cast-talk-show.html|title='The Last Jedi' Cast Talk Show Appearances Begin Next Week|author=Jones, Dominic|date=2017-11-23|work=[https://www.starwarsunderworld.com The Star Wars Underworld]|archivedate=20200111105629}}</ref> [[Wikipedia:Conan (talk show)|''Conan'']],<ref>{{Youtube|video=ms9j25XkYoU|text=Andy Serkis: Supreme Leader Snoke Is Motivated By Fear &ndash; CONAN on TBS|channel=c/TeamCoco|channelname=Team Coco|archivedate=20200708062857}}</ref> and [[Wikipedia:The Late Show With Stephen Colbert|''The Late Show With Stephen Colbert'']].<ref>{{Cite_web|url=https://www.avclub.com/mark-hamill-indulges-stephen-colberts-inner-star-wars-g-1821145930|title=Mark Hamill indulges Stephen Colbert's inner ''Star Wars'' geek on ''The Late Show''|author=Perkins, Dennis|date=2017-12-19|work=[[Wikipedia:The A.V. Club|''The A.V. Club'']]|archivedate=20191121120959}}</ref> Cast members were also spotlighted in contemporary issues of [[Wikipedia:Elle|''Elle'']],<ref>{{Cite_web|url=https://www.elle.com/culture/movies-tv/a13151110/laura-dern-women-in-hollywood-november-2017|title=Laura Dern Finally Gets to Be Complicated|author=Goodman, Lizzy|date=2017-11-13|work=[[Wikipedia:Elle (magazine)|''Elle'']]|archivedate=20200605100612}}</ref><ref>{{Cite_web|url=https://www.elle.com/uk/life-and-culture/culture/longform/a39903/daisy-ridley-elle-uk-december-cover-star|title=Daisy Ridley Is ELLE UK's December Cover Star|date=2017-11-13|work=[[Wikipedia:Elle (magazine)|''Elle'' UK]]|archivedate=20200501113740}}</ref> [[Wikipedia:Time (magazine)|''TIME'']],<ref>{{Cite_web|url=https://time.com/5027043/new-last-jedi-characters-help-the-star-wars-galaxy-look-more-like-our-own|title=Two New Last Jedi Characters Help the ''Star Wars'' Galaxy Look More Like Our Own|author=Dockterman, Eliana|date=2017-11-16|work=[[Wikipedia:Time (magazine)|''TIME'']]|archivedate=20191026030246}}</ref> [[Wikipedia:Esquire (magazine)|''Esquire'']],<ref>{{Cite_web|url=https://www.esquire.com/entertainment/movies/a13587773/adam-driver-star-wars-the-last-jedi|title=Adam Driver Is a Force to Be Reckoned With|author=Mason, Wyatt|date=2017-11-19|work=[[Wikipedia:Esquire (magazine)|''Esquire'']]|archivedate=20200727060515}}</ref><ref>{{Cite_web|url=https://www.esquire.com/uk/culture/film/a18451/oscar-isaac-interview|title=Oscar Isaac: High Flyer|author=Collinge, Miranda|date=2017-11-15|work=[[Wikipedia:Esquire (magazine)|''Esquire'' UK]]|archivedate=20190903032839}}</ref> [[Wikipedia:Rolling Stone|''Rolling Stone'']]<ref>{{Cite_web|url=https://www.rollingstone.com/movies/movie-features/jedi-confidential-inside-the-dark-new-star-wars-movie-122234|title=Jedi Confidential: Inside the Dark New 'Star Wars' Movie|author=Hiatt, Brian|date=2017-11-29|work=[[Wikipedia:Rolling Stone|''Rolling Stone'']]|archivedate=20200724093452}}</ref> and [[Wikipedia:The New York Times|''The New York Times'']],<ref>{{Cite_web|url=https://www.nytimes.com/2017/12/08/movies/last-jedi-star-wars.html|title=The All-Stars of 'Star Wars'|author=Itzkoff, Dave|date=2017-12-08|work=[[Wikipedia:The New York Times|''The New York Times'']]|archivedate=20200119170556}}</ref> and Johnson and the cast participated in Facebook/Twitter Q&As.<ref>{{Cite_web|url=https://dorksideoftheforce.com/2017/11/27/the-last-jedi-rian-johnson-q-and-a|title=The Last Jedi director Rian Johnson hosting live Q and A's this Tuesday|author=Harrington, Neil|date=2017-11-27|work=[https://dorksideoftheforce.com Dork Side Of the Force]|archivedate=20200731173222}}</ref><ref>{{Cite_web|url=https://collider.com/star-wars-the-last-jedi-fan-questions-rian-johnson-video|title=Watch: 'Star Wars: The Last Jedi' Director Rian Johnson Answers Burning Fan Questions|author=Chitwood, Adam|date=2017-11-28|work=[[Wikipedia:Collider (website)|''Collider'']]|archivedate=20200104112304}}</ref>
+
+The theatrical trailer and poster debuted on [[October 9]], 2017 during [[Wikipedia:Monday Night Football|''Monday Night Football'']], after which tickets went on sale.<ref>{{Cite_web|url=https://ew.com/movies/2017/10/08/star-wars-last-jedi-tickets-trailer|title=''Star Wars: The Last Jedi'' tickets go on sale Monday night after new trailer debut|author=Breznican, Anthony|date=2017-10-08|work=''[[Entertainment Weekly]]''|archivedate=20190606111944}}</ref><ref>{{SW|url=news/star-wars-the-last-jedi-theatrical-poster-revealed|text=''Star Wars: The Last Jedi'' Theatrical Poster Revealed}}</ref> Johnson advised spoiler-wary fans to avoid the trailer.<ref>{{Twitter|rianjohnson|status/917049537843183618|[[Rian Johnson]]|quote=I a[m] legitimately torn. If you want to come in clean, absolutely avoid it. But it's gooooood&hellip;..|archivefile=File:RJOct82017.png}}</ref> On [[October 24]], [[Wikipedia:USA Today|''USA Today'']] published an exclusive behind-the-scenes video.<ref>{{Cite_web|url=https://www.usatoday.com/story/life/movies/2017/10/24/star-wars-last-jedi-see-exclusive-new-behind-the-scenes-video-carrie-fisher/793390001|title='Star Wars: The Last Jedi': See exclusive new video with Rian Johnson and Carrie Fisher|author=Truitt, Brian|date=2017-10-24|work=[[Wikipedia:USA Today|''USA Today'']]|publisher=usatoday.com|archivedate=20200610211351}}</ref> A TV spot known as "Awake" debuted during the [[November 1]] broadcast of the [[Wikipedia:World Series|World Series]].<ref>{{SW|url=news/star-wars-the-last-jedi-tv-spot-new-glimpses-luke-rey-more|text=''Star Wars: The Last Jedi'' TV Spot Features New Glimpses of Luke, Rey, and More}}</ref> Behind-the-scenes content was shown before theatrical screenings of other Disney movies.<ref>{{Cite_web|url=http://www.hollywoodreporter.com/news/disney-partnership-will-bring-behind-scenes-content-theaters-1043731|title=Disney Partnership Will Bring Behind-the-Scenes Content to Theaters|author=Bond, Paul|date=2017-09-27|work=[[Wikipedia:The Hollywood Reporter|''The Hollywood Reporter'']]|archivedate=20170928003116}}</ref> The official ''Star Wars'' [[Wikipedia:Tumblr|Tumblr]] held a contest in which fan art was showcased at the film's world premiere,<ref>{{Tumblr|tumblrurl=starwars|url=post/168446894413/the-stars-and-filmmakers-of-star-wars-the-last|tumblrname=Star Wars|postname=The stars and filmmakers of Star Wars: The Last&hellip;|date=2017-12-12|quote=|archivedate=20181218123324}}</ref> which was held on [[December 9]], 2017.<ref>{{SW|url=news/watch-star-wars-the-last-jedi-red-carpet-live-at-starwars-com|text=Watch the ''Star Wars: The Last Jedi'' Red Carpet Live at StarWars.com}}</ref>
+
+===Merchandising===
+The film's product line debuted on [[September 1]], 2017, known as [[Force Friday|Force Friday II]];<ref>{{SW|url=news/star-wars-force-friday-ii-coming-september-1-2017|text=''Star Wars'' Force Friday II Coming September 1, 2017}}</ref> [[Wikipedia:Target Corporation|Target]] launched its Force Friday campaign early with a video centered on Rey and female fans.<ref>{{Cite_web|url=https://ew.com/movies/2017/08/29/star-wars-force-friday-video-target|title=Empowering ''Star Wars'' Force Friday video puts Rey front and center|author=Coggan, Devan|date=2017-08-29|work=''[[Entertainment Weekly]]''|archivedate=20191024065600}}</ref> [[Journey to Star Wars: The Force Awakens|Like with]] ''The Force Awakens'',<ref name="Journey to TFA">{{SW|url=news/journey-to-star-wars-the-force-awakens-publishing-program-coming-fall-2015|text="Journey to ''Star Wars: The Force Awakens''" Publishing Program Coming Fall 2015}}</ref> the months leading up to the debut of ''The Last Jedi'' saw the release of several novels, short stories, comics, reference books, and activity books known collectively as [[Journey to Star Wars: The Last Jedi|Journey to ''Star Wars: The Last Jedi'']]. The media, written and created by several different authors, cover various topics related to ''The Last Jedi'' as well as other aspects of the ''Star Wars'' universe.<ref name="Journey to TLJ">{{SW|url=news/swco-2017-first-look-at-journey-to-star-wars-the-last-jedi-covers-and-more-reveals-from-lucasfilms-writers-roundtable-discussion|text=SWCO 2017: First Look at Journey to ''Star Wars: The Last Jedi'' Covers and More Reveals from Lucasfilm's Writers Roundtable Discussion}}</ref> Toy merchandise includes many plush toys based on the porgs introduced in the film,<ref name="popsugar">{{Cite_web|url=https://www.popsugar.com/moms/Star-Wars-Porg-Toy-44244837|title=The 1 Star Wars Toy Your Kid Will Obsessively Want For the Holidays|author=Williams, Macy|date=2017-11-10|work=[[Wikipedia:Popsugar|PopSugar]]|archivedate=20180102041322}}</ref><ref name="i4u">{{Cite_web|url=https://www.i4u.com/2017/10/125057/talking-chewbacca-porg-plush-cutest-star-wars-toy-holidays|title=Talking Chewbacca with Porg Plush is Cutest Star Wars Toy for the Holidays|author=Lugmayr, Luigi|date=2017-10-24|work=[https://www.i4u.com i4u]|archivedate=20171222232912}}</ref> as well as various action figures, including action figures of porgs.<ref name="flickeringmyth">{{Cite_web|url=https://www.flickeringmyth.com/2017/10/hasbro-unveils-its-star-wars-the-last-jedi-black-series-porg-action-figures|title=Hasbro unveils its Star Wars: The Last Jedi Black Series Porg action figures|author=Collinson, Gary|date=2017-10-30|work=[https://www.flickeringmyth.com Flickering Myth]|archiveurl=https://archive.is/KsxwG}}</ref>
+
+Lucasfilm arranged licensing tie-ins with [https://www.amplehills.com Ample Hills],<ref>{{Cite_web|url=https://www.bloomberg.com/news/articles/2017-11-10/star-wars-last-jedi-ice-cream-hits-with-butter-cake-fudge-swirls|title=Star Wars 'Last Jedi' Ice Cream Arrives with Butter Cake, Fudge Swirls|author=Zimberoff, Larissa|date=2017-11-10|work=[[Wikipedia:Bloomberg News|Bloomberg News]]|archivedate=20180104211208}}</ref> [[Wikipedia:Build-A-Bear Workshop|Build-A-Bear Workshop]],<ref>{{Cite_web|url=https://ew.com/movies/2017/10/30/star-wars-the-last-jedi-build-a-bear|title=''Star Wars: The Last Jedi'' Build-a-Bear line has a cuddly porg, Chewbacca, and more|author=Derschowitz, Jessica|date=2017-10-30|work=''[[Entertainment Weekly]]''|archivedate=20190726100924}}</ref> [[Wikipedia:Cargo (cosmetics)|Cargo Cosmetics]],<ref>{{Cite_web|url=https://www.popsugar.com/beauty/Star-Wars-Cargo-Cosmetics-Makeup-44040112|title=Cargo Is Launching a Star Wars Makeup Collection — Your Exclusive First Look!|author=Levinson, Lauren|date=2017-09-19|work=[[Wikipedia:Popsugar|PopSugar]]|archivedate=20191102125833}}</ref> [[Wikipedia:Christian Louboutin|Christian Louboutin]],<ref>{{SW|url=news/christian-louboutin-on-the-force-powered-fashion-of-his-star-wars-the-last-jedi-shoes|text=Christian Louboutin on the Force-Powered Fashion of His ''Star Wars: The Last Jedi'' Shoes}}</ref> [[Wikipedia:Dole Food Company|Dole]],<ref>{{Cite_web|url=https://www.thepacker.com/article/dole-star-wars-launch-18-week-promotion|title=Dole, Star Wars launch 18-week promotion|author=Nicole, Ashley|date=2017-10-03|work=[[Wikipedia:The Packer|''The Packer'']]|archivedate=20171228182111}}</ref> [[Wikipedia:General Mills|General Mills]],<ref name="Six Tie-Ins">{{Cite_web|url=https://deadline.com/2017/09/star-wars-receive-promotional-help-tie-ins-brands-general-mills-nissan-verizon-1202172967|title='Star Wars' Will Receive Promotional Help From Tie-Ins With Six Major Brands|author=Lieberman, David|date=2017-09-19|work=[[Wikipedia:Deadline Hollywood|''Deadline'']]|archivedate=20191020211500}}</ref> [[Wikipedia:Hot Topic|Hot Topic]],<ref>{{Cite_web|url=https://ew.com/movies/star-wars-hot-topic-clothing-line|title=Hot Topic unveils Star Wars fashion collection from a galaxy far, far away|author=Weldon, Sarah|date=2017-11-28|work=''[[Entertainment Weekly]]''|archivedate=20190419083349}}</ref> [[Wikipedia:Nissan|Nissan]], [[Wikipedia:Philips|Philips]],<ref name="Six Tie-Ins" /> [[Wikipedia:rag & bone|rag & bone]],<ref>{{Cite_web|url=https://www.latimes.com/fashion/la-ig-wwd-rag-and-bones-star-wars-20171106-story.html|title=Rag & Bone joins 'Star Wars: The Last Jedi' adventure|author=Lockwood, Lisa|date=2017-11-06|work=[[Wikipedia:Los Angeles Times|''Los Angeles Times'']]|archivedate=20190209185340}}</ref> [[Wikipedia:Samsung|Samsung]],<ref>{{Cite_web|url=http://mentalfloss.com/article/516443/samsungs-star-wars-vacuums-offer-everything-you-want-droid|title=Samsung's Star Wars Vacuums Offer Everything You Want in a Droid|author=Ward, Alvin|date=2017-11-17|work=[[Wikipedia:Mental Floss|''Mental Floss'']]|archivedate=20190917064344}}</ref> [[Wikipedia:Verizon Communications|Verizon]] and [[Wikipedia:Vizio|Vizio]].<ref name="Six Tie-Ins" /> The UK's [[Wikipedia:Royal Mail|Royal Mail]] released a series of ''The Last Jedi''&ndash;themed postal stamps.<ref>{{Cite_web|url=http://fortune.com/2017/09/05/star-wars-stamps-the-last-jedi|title=Here's Where Star Wars Stamps Are Landing Next Month Ahead of 'The Last Jedi'|author=Huddleston, Jr., Tom|date=2017-09-05|work=[[Wikipedia:Fortune (magazine)|''Fortune'']]|archivedate=20171024094822}}</ref> Disney added ''The Last Jedi''&ndash;themed content to its ''[[Star Tours: The Adventures Continue]]'' ride,<ref>{{DPB|url=2016/11/star-wars-themed-land-at-disneys-hollywood-studios-to-dazzle-at-night-new-star-tours-adventure-coming|text=''Star Wars''-themed Land at Disney's Hollywood Studios To Dazzle at Night, New Star Tours Adventure Coming|archivedate=20200628055600}}</ref> including the new planet Crait.<ref>{{DPB|url=2017/04/new-star-tours-adventure-revealed-at-star-wars-celebration|text=New Star Tours Adventure Revealed at ''Star Wars'' Celebration|archivedate=20190404075150}}</ref> The video game ''[[Star Wars Battlefront II]]'' features sequel-trilogy characters as they appear in ''The Last Jedi''.<ref>{{Cite_web|url=https://mashable.com/article/the-last-jedi-costumes-first-look|title=Here's a first look at Kylo Ren and Rey's costumes from 'The Last Jedi' and OMG|author=Gilmer, Marcus|date=2017-04-28|work=[[Wikipedia:Mashable|''Mashable'']]|archivedate=20201020011555}}</ref> ''[[Star Wars: Galaxy of Heroes]]'' introduced ''The Last Jedi'' characters and material.<ref>{{EA|subdomain=forums.galaxy-of-heroes.starwars|url=discussion/142251/content-update-11-8-2017|text=Content Update 11/8/2017|archivedate=20200731234456}}</ref> [[LEGO]] released an online minigame, "The Last Jedi" 360 Experience.<ref>{{LEGOWebCite|url=en-us/starwars/games/videoexperience|text="The Last Jedi" 360 Experience|archivedate=20180206223544}}</ref> [[ILMxLAB]]'s ''[[Star Wars: Droid Repair Bay]]'' is a virtual-reality experience that ties into the film.<ref>{{SW|url=news/become-a-resistance-mechanic-in-the-new-vr-experience-star-wars-droid-repair-bay|text=Become a Resistance Mechanic in the New VR Experience ''Star Wars: Droid Repair Bay''}}</ref>
+
+The film's [[Star Wars: The Last Jedi (soundtrack)|soundtrack]] was released in physical form and digital download on December 15, 2017, the same date as the film's theatrical premiere.<ref name="soundtrack">{{Amazon|url=Star-Wars-Last-John-Williams/dp/B0758KSWZK|text=Star Wars: The Last Jedi|archivedate=20180112043455}}</ref> Many of the books previously announced on Force Friday were also released on this day; the rest, including the [[Star Wars: The Last Jedi: Expanded Edition|novelization]] and a number of other adaptations, were released in early [[2018]].
+
+===Home video===
+The film was released on digital platforms on [[March 13]], 2018 and on physical media on [[March 27]].<ref name="Home">{{SW|url=news/star-wars-the-last-jedi-comes-home|text=''Star Wars: The Last Jedi'' Comes Home}}</ref> Multiple physical editions were released:
+*[[Wikipedia:Best Buy|Best Buy]] exclusive (Blu-ray/DVD/Digital; SteelBook packaging)<ref name="Home" />
+*Best Buy exclusive (4k/Blu-ray/Digital; SteelBook packaging)<ref name="Home" />
+*DVD only<ref name="Movie Club">{{Youtube|5VVQlK7E574|Quick Notice: Disney Movie Club The Last Jedi "Multi-Screen" Edition Includes DVD|channel/UCKy9UDSoAZIEf9EzKuMy-aQ|Nathan Butler|archivedate=20191101225033}}</ref>
+*Multi-screen Edition (Blu-ray/Digital)<ref name="Home" />
+**Disney Movie Club&ndash;exclusive Multi-screen Edition (includes DVD copy and lithograph)<ref name="Movie Club" />
+*[[Wikipedia:Target Corporation|Target]] exclusive (Blu-ray/DVD/Digital; includes "Meet the Porgs" featurette and a 40-page booklet)<ref name="Home" />
+*Ultimate Collector's Edition (4K/Blu-ray/Digital)<ref name="Home" />
+*[[Wikipedia:Walmart|Walmart]] exclusive (Blu-ray/DVD/Digital; interchangeable covers)<ref>{{Cite_web|url=http://www.blu-ray.com/movies/Star-Wars-Episode-VIII-The-Last-Jedi-Blu-ray/195642|title=Star Wars: Episode VIII - The Last Jedi Blu-ray|work=[https://www.blu-ray.com blu-ray.com]|archivedate=20180911143744}}</ref>
+
+Bonus features include:
+*''The Director and the Jedi'' – Go deep behind the scenes with writer-director Rian Johnson on an intimate and personal journey through the production of the movie—and experience what it's like to helm a global franchise and cultural phenomenon.
+*''Balance of the Force'' – Explore the mythology of the Force and why Rian Johnson chose to interpret its role in such a unique way.
+*Scene Breakdowns
+**"Lighting the Spark: Creating the Space Battle" – Get a close-up look at the epic space battle, from the sounds that help propel the action, through the practical and visual effects, to the characters who bring it all to life.
+**"Snoke and Mirrors" – Motion capture and Star Wars collide as the filmmakers take us through the detailed process of creating the movie's malevolent master villain.
+**"Showdown on Crait" – Break down everything that went into creating the stunning world seen in the movie's final confrontation, including the interplay between real-word locations and visual effects, reimagining the walkers, designing the crystal foxes, and much more.
+*''Andy Serkis Live! (One Night Only)'' – Writer-director Rian Johnson presents two exclusive sequences from the movie featuring Andy Serkis' riveting, raw on-set performance before his digital makeover into Snoke.
+*''Deleted Scenes'' – With an introduction and optional commentary by writer-director Rian Johnson.
+*''Audio Commentary'' – View the movie with in-depth feature audio commentary by writer-director Rian Johnson.
+
+Each purchase also grants access to a music-only version of the film.<ref>{{Cite_web|url=https://www.hollywoodreporter.com/heat-vision/star-wars-last-jedi-blu-ray-includes-silent-film-version-1094305|title='Star Wars: The Last Jedi' Home Release Includes "Silent Film" Version|author=McMillan, Graeme|date=2018-03-13|work=[[Wikipedia:The Hollywood Reporter|''The Hollywood Reporter'']]|archivedate=20180314204841}}</ref>
+
+==Reception==
+The film topped polls from both [http://www.fandango.com Fandango] and [https://www.rottentomatoes.com Rotten Tomatoes] as the most anticipated film of 2017.<ref>{{Cite_web|url=http://variety.com/2016/film/news/star-wars-episode-8-2017-movies-1201949589|title='Star Wars: Episode VIII' Tops Fandango List of Most Anticipated 2017 Movies|author=McNary, Dave|date=2016-12-29|work=[[Wikipedia:Variety (magazine)|''Variety'']]|archivedate=20180204134234}}</ref><ref>{{Cite_web|url=http://ew.com/movies/2017/01/05/star-wars-blade-runner-rotten-tomatoes-most-anticipated-movies-survey|title=''Star Wars'', ''Blade Runner'' top Rotten Tomatoes' most anticipated movies of 2017 survey|author=Desantis, Rachel|date=2017-01-05|work=''[[Entertainment Weekly]]''|archivedate=20170628235315}}</ref> It generated the highest level of film discussion on social media for late 2017,<ref>{{Cite_web|url=https://variety.com/2017/film/news/star-wars-the-last-jedi-social-media-buzz-2-1202547496|title='Star Wars: The Last Jedi' Tops Social Media Buzz With New Set Images|author=McNary, Dave|date=2017-09-05|work=[[Wikipedia:Variety (magazine)|''Variety'']]|archivedate=20190827210130}}</ref><ref>{{Cite_web|url=http://variety.com/2017/film/news/star-wars-the-last-jedi-social-media-buzz-world-series-1202607808|title='Star Wars: The Last Jedi' Tops Social Media Buzz With World Series Spot|author=McNary, Dave|date=2017-11-06|work=[[Wikipedia:Variety (magazine)|''Variety'']]|archivedate=20180519035224}}</ref><ref>{{Cite_web|url=http://variety.com/2017/film/news/star-wars-the-last-jedi-social-media-buzz-premiere-1202619277|title='Star Wars: The Last Jedi' Rules Social Media Buzz Ahead of Premiere|author=McNary, Dave|date=2017-11-20|work=[[Wikipedia:Variety (magazine)|''Variety'']]|archivedate=20180430020708}}</ref><ref>{{Cite_web|url=http://variety.com/2017/film/news/star-wars-the-last-jedi-social-media-1202623480|title='Star Wars: The Last Jedi' Awakens Social Media Buzz Again|author=McNary, Dave|date=2017-11-27|work=[[Wikipedia:Variety (magazine)|''Variety'']]|archivedate=20180528095907}}</ref> and analysts expected a $200 million opening.<ref>{{Cite_web|url=https://variety.com/2017/film/news/star-wars-the-last-jedi-box-office-predictions-1202621273|title=Box Office: 'Star Wars: The Last Jedi' Tracking for Stellar $200 Million Opening Weekend|author=McNary, Dave|date=2017-11-22|work=[[Wikipedia:Variety (magazine)|''Variety'']]|archivedate=20200726050024}}</ref> The film holds a 90% Fresh rating on the review aggregation website Rotten Tomatoes, with 425/470 Fresh reviews and average rating of 8.08/10. The site's consensus for the film states that "''Star Wars: The Last Jedi'' honors the saga's rich legacy while adding some surprising twists -- and delivering all the emotion-rich action fans could hope for."<ref name="rottentomatoes">{{Cite_web|url=https://www.rottentomatoes.com/m/star_wars_the_last_jedi|title=Star Wars: The Last Jedi|work=[[Wikipedia:Rotten Tomatoes|Rotten Tomatoes]]|archivedate=20200723055732}}</ref> At [[Wikipedia:Metacritic|Metacritic]], ''Star Wars: The Last Jedi'' has a weighted average of 85 out of 100 based on fifty-six critics, indicating "universal acclaim."<ref name="Metascore">{{Cite_web|url=https://www.metacritic.com/movie/star-wars-episode-viii---the-last-jedi|title=Star Wars: Episode VIII - The Last Jedi|date=2017-12-15|work=[[Wikipedia:Metacritic|Metacritic]]|archivedate=20200115213613}}</ref>
+
+Stephen Whitty of the ''Newark Star-Ledger'' praised it, saying that "Rian Johnson clearly remembers something that Lucas' most fervent followers sometimes forget: These are movies for the young, or at least the young at heart,"<ref name="whitty">{{Cite_web|url=https://www.nj.com/entertainment/2017/12/star_wars_the_last_jedi_review_force_full.html|title='Star Wars: The Last Jedi' is here and it's a Force full|author=Whitty, Stephen|date=2017-12-12|work=[[Wikipedia:NJ.com|NJ.com]]|archivedate=20191013091336}}</ref> while Peter Howell of the ''Toronto Star'' praised Johnson's ability to "find the humanity within technology," similar to his well-known film ''Looper''.<ref name="howell">{{Cite_web|url=https://www.thestar.com/entertainment/movies/review/2017/12/12/the-last-jedi-is-a-star-wars-movie-that-seeks-love-and-deserves-it.html|title=The Last Jedi is a Star Wars movie that seeks love, and deserves it|author=Howell, Peter|date=2017-12-12|work=[[Wikipedia:Toronto Star|''Toronto Star'']]|archivedate=20200324184513}}</ref> ''Star Wars'' creator George Lucas called the film "beautifully made."<ref>{{Cite_web|url=https://www.hollywoodreporter.com/heat-vision/star-wars-george-lucas-thinks-last-jedi-was-beautifully-made-1067092|title=George Lucas Thinks 'The Last Jedi' Was "Beautifully Made"|author=Parker, Ryan|date=2017-12-12|work=[[Wikipedia:The Hollywood Reporter|''The Hollywood Reporter'']]|archivedate=20200729223800}}</ref> Conversely, actor Mark Hamill voiced: "I'm sort of like a musician. I read the music, and I try to play it to the best of my ability. That doesn't necessarily mean I like the tune, but that's not my job."<ref name="Hamill-DenofGeek">{{Cite_web|url=https://www.denofgeek.com/uk/tv/mark-hamill/63749/mark-hamill-on-trading-a-lightsaber-for-a-medieval-sword-in-knightfall-season-2|title=Mark Hamill on trading a lightsaber for a medieval sword in Knightfall season 2|author=Wheeler, Gem|date=2019-03-04|work=[[Wikipedia:Den of Geek|''Den of Geek'']]|archivedate=20190704030312}}</ref>
+
+Audience reception from scientific polling methods was highly positive. Audiences polled at random by [[Wikipedia:CinemaScore|CinemaScore]] gave the film an "A" grade on average, on an "A+" to "F" scale. Additionally, [[Wikipedia:PostTrak|comScore's PostTrak]] surveys found that 89% of audience members graded the film positively.<ref name="Deadline audiences">{{Cite_web|url=https://deadline.com/2017/12/star-wars-the-last-jedi-rotten-tomatoes-metacritic-imdb-users-cinemascore-posttrak-1202228837|title=Did Audiences Enjoy 'Star Wars: The Last Jedi'? Deciphering Online User Reviews From Exit Polls|author=D'Alessandro, Anthony|date=2017-12-17|work=[[Wikipedia:Deadline Hollywood|''Deadline'']]|archivedate=20190113181153}}</ref> However, user-generated reviews on Rotten Tomatoes and Metacritic, which lack controlled sampling, contained scores that were far more negative, with ratings of 43% and 4.3/10, respectively.<ref name="rottentomatoes" /><ref name="Metacritic">{{Cite_web|url=https://www.metacritic.com/movie/star-wars-episode-viii---the-last-jedi/user-reviews|title=Read User Reviews and Submit your own for Star Wars: Episode VIII - The Last Jedi|work=[[Wikipedia:Metacritic|Metacritic]]|archivedate=20200705133244}}</ref> Several reviewers speculated that the low user scores were the result of manipulation, either by coordinated vote brigading from internet groups or from bots.<ref name="Vox TLJ backlash">{{Cite_web|url=https://www.vox.com/culture/2017/12/18/16791844/star-wars-last-jedi-backlash-controversy|title=The "backlash" against Star Wars: The Last Jedi, explained|author=VanDerWerff, Todd|date=2017-12-19|work=[[Wikipedia:Vox (website)|''Vox'']]|archivedate=20200610040214}}</ref><ref name="HuffPost Surprise">{{Cite_web|url=https://www.huffingtonpost.ca/entry/rotten-tomatoes-last-jedi-ratings-bots_n_5a38cb78e4b0860bf4aab5b1|title=Surprise, Surprise: The 'Alt-Right' Claims Credit For 'Last Jedi' Backlash|date=2017-12-21|work=[[Wikipedia:HuffPost|''Huffington Post'']]|archivedate=20190907221320}}</ref> In an initial response to tampering claims, Rotten Tomatoes released a statement that they did not detect any unusual activity aside from a noticeable "uptick in the number of written user reviews" on ''The Last Jedi''.<ref name="Screenrant TLJ">{{Cite_web|url=https://screenrant.com/rotten-tomatoes-last-jedi-user-score|title=Rotten Tomatoes Says Last Jedi User Score is Accurate|author=Chapman, Tom|date=2017-12-20|work=[[Wikipedia:Screen Rant|''Screen Rant'']]|archivedate=20200302215533}}</ref> However, in [[2019]], a spokesperson for Rotten Tomatoes stated that films such as ''The Last Jedi'' and [[Wikipedia:Captain Marvel (film)|''Captain Marvel'']] had been "seriously targeted" by [[Wikipedia:Review bomb|review-bombing]] campaigns. As a direct response, the website added a ticket-verification system for audience reviews.<ref name="Verge-RT">{{Cite_web|url=https://www.theverge.com/2019/3/7/18254548/film-review-sites-captain-marvel-bombing-changes-rotten-tomatoes-letterboxd|title=How movie sites are dealing with review-bombing trolls|author=Robertson, Adi|date=2019-05-07|work=[[Wikipedia:The Verge|''The Verge'']]|archivedate=20191006201811}}</ref>
+
+Regarding more mixed online user scores for the film, Dave Hollis, President of Disney theatrical distribution, commented, "Rian Johnson, the cast, and the Lucasfilm team have delivered an experience that is totally ''Star Wars'' yet at the same time fresh, unexpected and new. That makes this a ''Star Wars'' film like audiences have never seen – it's got people talking, puzzling over its mysteries, and it's a lot to take in, and we see that as all positive, that should help set the film up for great word-of-mouth and repeat viewing as we enter the lucrative holiday period."<ref name="Deadline audiences" /> When asked about the backlash, Johnson himself commented "Lucas never made a 'Star Wars' movie by sitting down and thinking, 'What do the fans want to see?' And I knew if I wrote wondering what the fans would want, as tempting as that is, it wouldn't work, because people would still be shouting at me, 'Fuck you, you ruined "Star Wars,{{" '}} and I would make a bad movie. And ultimately, that's the one thing nobody wants."<ref>{{Cite_web|url=https://www.businessinsider.fr/us/star-wars-rian-johnson-interview-about-the-last-jedi-fan-backlash-2017-12|title='Star Wars: The Last Jedi' director Rian Johnson reacts to the backlash and addresses the movie's most shocking moments|author=Guerrasio, Jason|date=2017-12-18|work=[[Wikipedia:Business Insider|''Business Insider'']]|archivedate=20200701215233}}</ref> In an interview conducted by ''USA Today'', actress Daisy Ridley was asked if the backlash against Johnson came as a surprise to her. Ridley responded: "I wasn't surprised, no. It's just a different thing. Everyone's going to have an opinion now anyway on the Internet, but I also think it's fair. If people hold something incredibly dear and think they know how it should be and it's not like that, it's fair for people to think they were done wrong," adding, "It doesn't mean they were."<ref name="Ridley-USAToday">{{Cite_web|url=https://www.usatoday.com/story/entertainment/movies/2019/07/01/daisy-ridley-talks-star-wars-last-jedi-backlash-feminist-ophelia/1612188001|title=Daisy Ridley 'wasn't surprised' fans hated 'Last Jedi,' teases 'emotional' Star Wars ending|author=Ryan, Patrick|date=2019-07-01|work=[[Wikipedia:USA Today|''USA Today'']]|archivedate=20190702034629}}</ref>
+
+As projected, the film took a domestic box office in its opening weekend of well over $200 million, a final figure of an estimated $220 million, and an overall global box office of approximately $450 million. It was predicted to break the billion-dollar barrier within days, as fans flocked to the box office for the Christmas holiday weekend.<ref name="rottenboxoffice">{{Cite_web|url=https://editorial.rottentomatoes.com/article/box-office-colossal-450m-global-launch-for-last-jedi|title=Box Office: Colossal $450M Global Launch for The Last Jedi|author=Pandya, Gitesh|date=2017-12-17|work=[[Wikipedia:Rotten Tomatoes|Rotten Tomatoes]]|archivedate=20190506040348}}</ref> In 2018, the film received four [[Wikipedia:Academy Awards|Academy Award]] nominations (including Original Score, Visual Effects, Sound Editing, and Sound Mixing),<ref>{{SW|url=news/star-wars-the-last-jedi-receives-4-oscar-nominations|text=''Star Wars: The Last Jedi'' Receives 4 Oscar Nominations}}</ref> and won [[Wikipedia:AARP|AARP's]] "Best Movie for Grownups" Award.<ref>{{Cite_web|url=https://variety.com/2018/film/news/star-wars-the-last-jedi-best-movie-for-grownups-award-1202688723|title='Star Wars: The Last Jedi' Wins Best Movie for Grownups Award|author=McNary, Dave|date=2018-02-05|work=[[Wikipedia:Variety (magazine)|''Variety'']]|archivedate=20180713023835}}</ref>
+
+In late 2019, JJ Abrams, director of ''The Force Awakens'' and ''The Rise of Skywalker'', told ''Rolling Stone'': "When I read his first draft, it made me laugh, because I saw that was his take and his voice. I got to watch cuts of the movie as he was working on it, as an audience member. And I appreciated the choices he made as a filmmaker that would probably be very different from the choices that I would have made. Just as he would have made different choices if he had made Episode VII."<ref>{{Cite_web|url=https://www.rollingstone.com/movies/movie-news/star-wars-jj-abrams-secrets-of-skywalker-912362|title=J.J. Abrams and the Secrets of 'Skywalker'|author=Hiatt, Brian|date=2019-11-21|work=[[Wikipedia:Rolling Stone|''Rolling Stone'']]|archivedate=20200729141710}}</ref> He also told ''The New York Times'': "On the other hand, it's a bit of a meta approach to the story. I don't think that people go to 'Star Wars' to be told, 'This doesn't matter.'" Abrams added that the sequel trilogy was "a story that I think needed a pendulum swing in one direction in order to swing in the other."<ref>{{Cite_web|url=https://www.nytimes.com/2019/12/11/movies/star-wars-the-rise-of-skywalker-jj-abrams.html|title=Will 'Star Wars' Stick the Landing? J.J. Abrams Will Try|author=Itzkoff, Dave|date=2019-12-11|work=[[Wikipedia:The New York Times|''The New York Times'']]|archivedate=20200201204045}}</ref>
+
+==Continuity==
+The film shows Rey and Poe meeting for the first time. Their meeting was originally depicted in a scene cut from ''Star Wars: The Force Awakens'', which appeared in the film's [[Star Wars: The Force Awakens (novelization)|novelization]].<ref name="TwitterPabloContinuity">{{Twitter|pablohidalgo|status/948220194207363073|[[Pablo Hidalgo]]|quote=Their meeting was cut from TFA. It made the novel, but novels end up having abandoned threads like that. Which is why when asked if novelizations are canon, I say that those are aways tricky since they're written before the movie is done by someone who hasn't seen it.|archivefile=File:Pablo_Hidalgo_Rey_and_Poe_meet_TFA_deleted_scene.png}}</ref>
+
+In a discussion about Vice Admiral Holdo's tactic used to destroy the ''Supremacy'', Lucasfilm Story Group member [[Pablo Hidalgo]] cited a similar maneuver that appeared in an episode of ''Star Wars: The Clone Wars'', and that Holdo's maneuver was under unique circumstances<ref name="Pablo Holdo Tweet">{{Twitter|pablohidalgo|status/1142565975620870144|[[Pablo Hidalgo]]|quote=When this first came up, we figured something made it exceptional since it wasn't common, and the one instance of something similar happening (Clone Wars, season one) had enough of the requisite factors that it counted as precedent. But all of that pales to, 'Does it look cool?'|archivefile=File:HidalgoTwitter06222019.png}}</ref>&mdash;echoing a 2018 comment made by Johnson to [[Wikipedia:/Film|/Film]]: "The fact that Hux doesn't see it coming means it's probably not a standard military maneuver. I think it was something that Holdo pulled out of her butt in the moment."<ref name="HoldoSlashfilm">{{Cite_web|url=https://www.slashfilm.com/the-holdo-maneuver|title=Rian Johnson Talks About The Holdo Maneuver, One of 'The Last Jedi's Most Breathtaking Moments|author=Pearson, Ben|date=2018-01-24|work=[[Wikipedia:/Film|''/Film'']]|archivedate=20180128075312}}</ref>
+
+==Media==
+===Poster gallery===
+{{Scroll_box|content=
+<gallery>
+File:TheLastJediPoster.jpg|Announcement poster
+File:Star Wars Episode VIII The Last Jedi.png|Teaser poster, unveiled at Star Wars Celebration Orlando
+File:TheLastJediTheatricalPoster.jpg|Final theatrical poster
+File:Daisy_Ridley_Rey_The_Last_Jedi_Teaser_Poster.jpg|Rey teaser poster, posted by Daisy Ridley on social media
+File:John_Boyega_Finn_The_Last_Jedi_Teaser_Poster.jpg|Finn teaser poster, posted by John Boyega on social media
+File:Carrie_Fisher_General_Leia_Organa_The_Last_Jedi_Teaser_Poster.jpg|General Leia Organa teaser poster, posted on official Star Wars social media
+File:Mark_Hammil_Luke_Skywalker_The_Last_Jedi_Teaser_Poster.jpg|Luke Skywalker teaser poster, posted by Mark Hamill on social media
+File:Oscar_Isaac_Poe_Dameron_The_Last_Jedi_Teaser_Poster.jpg|Poe Dameron teaser poster, posted by Oscar Isaac on social media
+File:Adam_Driver_Kylo_Ren_The_Last_Jedi_Teaser_Poster.jpg|Kylo Ren teaser poster, posted on official Star Wars social media
+File:TheLastJediOfficialImaxPoster.png|[[Wikipedia:IMAX|IMAX]] Poster
+File:TLJ Dolby Cinema Exclusive Poster.jpg|[[Wikipedia:Dolby Cinema|Dolby Cinema]] exclusive poster
+File:TLJ Amc IMAX poster.jpg|AMC Commemorative IMAX Poster #1
+File:TLJ Amc IMAX poster -2.jpg|AMC Commemorative IMAX Poster #2
+File:TLJ Amc IMAX poster 3.jpg|AMC Commemorative IMAX Poster #3
+File:TLJ AMC IMAX Poster 4.jpg|AMC Commemorative IMAX Poster #4
+</gallery>}}
+
+===Cover gallery===
+{{Scroll_box|content=
+====North American releases====
+<gallery>
+File:TheLastJedi-MultiScreenEdition.jpg|Multi-screen Edition
+File:TheLastJedi-UltimateCollectorsEdition.jpg|4K Ultra HD Collector's Edition
+File:TheLastJedi-BestBuy4K.jpg|Best Buy Exclusive 4K Ultra HD SteelBook
+File:TheLastJedi-BestBuyBluray.jpg|Best Buy Exclusive Blu-ray SteelBook
+File:TheLastJedi-Target.jpg|Target Exclusive Filmmaker Edition Blu-ray
+File:TheLastJedi-Walmart.jpg|Walmart Exclusive Blu-ray
+File:TheLastJedi-DVD.jpg|DVD
+File:TheLastJedi-BestBuy4KInside.jpg|Best Buy Exclusive 4K Ultra HD SteelBook product layout
+File:TheLastJedi-BestBuyBlurayInside.jpg|Best Buy Exclusive Blu-ray SteelBook product layout
+File:TheLastJedi-TargetInside.jpg|Target Exclusive Filmmaker Edition Blu-ray product layout with Gallery Book
+</gallery>
+
+====International releases====
+<gallery>
+File:TheLastJedi-Bluray3D.jpg|Blu-ray 3D
+File:TheLastJedi-MovieNEX.jpg|4K UHD MovieNEX Premium Box (Japan)
+File:TheLastJedi-MovieNEXInside.jpg|4K UHD MovieNEX Premium Box product layout (Japan)
+</gallery>}}
+
+==Credits==
+{{Credits
+|cast=
+*'''[[Mark Hamill]]''' as '''[[Luke Skywalker]]'''<ref name="Credits" /> and '''[[Dobbu Scay]]'''<ref name="Hamill role">{{Cite_web|url=https://www.thesun.co.uk/tvandshowbiz/5155379/details-easter-eggs-the-last-jedi|title=Mark Hamill's OTHER role, Joseph Gordon-Levitt and a hidden X-wing… the details and Easter Eggs you missed in The Last Jedi|date=2017-12-16|work=[[Wikipedia:The Sun (United Kingdom)|''The Sun'']]|archivedate=20171220004701}}</ref>
+*'''[[Carrie Fisher]]''' as '''[[Leia Skywalker Organa Solo|Leia Organa]]'''<ref name="Credits" />
+*'''[[Adam Driver]]''' as '''[[Ben Solo|Kylo Ren]]'''<ref name="Credits" />
+*'''[[Daisy Ridley]]''' as '''[[Rey Skywalker|Rey]]'''<ref name="Credits" />
+*'''[[John Boyega]]''' as '''[[Finn]]'''<ref name="Credits" />
+*'''[[Oscar Isaac]]''' as '''[[Poe Dameron]]'''<ref name="Credits" />
+*'''[[Andy Serkis]]''' as '''[[Snoke]]'''<ref name="Credits" />
+*'''[[Lupita Nyong'o]]''' as '''[[Maz Kanata]]'''<ref name="Credits" />
+*'''[[Domhnall Gleeson]]''' as General '''[[Armitage Hux|Hux]]'''<ref name="Credits" />
+*'''[[Anthony Daniels]]''' as '''[[C-3PO]]'''<ref name="Credits" />
+*'''[[Gwendoline Christie]]''' as Captain '''[[Phasma]]'''<ref name="Credits" />
+*'''[[Kelly Marie Tran]]''' as '''[[Rose Tico]]'''<ref name="Credits" />
+*'''[[Laura Dern]]''' as Vice Admiral '''[[Amilyn Holdo|Holdo]]'''<ref name="Credits" />
+*'''[[Benicio Del Toro]]''' as '''[[DJ]]'''<ref name="Credits" />
+*'''[[Frank Oz]]''' as '''[[Yoda]]'''<ref name="Credits" />
+*'''[[Billie Lourd]]''' as Lieutenant '''[[Kaydel Ko Connix|Connix]]'''<ref name="Credits" />
+*'''[[Joonas Suotamo]]''' as '''[[Chewbacca]]'''<ref name="Credits" />
+*'''[[Amanda Lawrence]]''' as Commander '''[[Larma D'Acy|D'Acy]]'''<ref name="Credits" />
+*'''[[Jimmy Vee]]''' as '''[[R2-D2]]'''<ref name="Credits" />
+*'''[[Justin Theroux]]''' as '''[[Master Codebreaker]]'''<ref name="Credits" />
+*'''[[Tim Rose]]''' as Admiral '''[[Gial Ackbar|Ackbar]]'''<ref name="Credits" />
+*'''[[Tom Kane]]''' as Admiral '''[[Gial Ackbar|Ackbar]]''' (voice)<ref name="Credits" />
+*'''[[Adrian Edmondson]]''' as Captain '''[[Edrison Peavey|Peavey]]'''<ref name="Credits" />
+*'''[[Mark Lewis Jones]]''' as Captain '''[[Moden Canady|Canady]]'''<ref name="Credits" />
+*'''[[Hermione Corfield]]''' as A-Wing Pilot '''[[Tallissan Lintra|Tallie]]'''<ref name="Credits" />
+*'''[[Veronica Ngo]]''' as '''[[Paige Tico]]'''<ref name="Credits" />
+*'''[[Noah Segan]]''' as X-Wing Pilot '''[[Stomeroni Starck|Starck]]'''<ref name="Credits" />
+*'''[[Jamie Christopher]]''' as X-Wing Pilot '''[[Jaycris Tubbs|Tubbs]]'''<ref name="Credits" />
+*'''[[Paul Kasey]]''' as '''[[C'ai Threnalli]]'''<ref name="Credits" />
+*'''[[Michaela Coel]]''' as '''[[Unidentified tactical officer|Resistance Monitor]]'''
+*'''[[Jonathan Harden]]''' as '''Resistance Monitor'''
+*'''[[Dan Euston]]''' as '''[[Edon Kappehl|Resistance Bombardier]]'''
+*'''[[Priyanga Burford]]''' as '''Resistance Medical Officer'''
+*'''[[Navin Chowdhry]]''' as '''[[Nodin Chavdri|Resistance Cargo Pilot]]'''
+*'''[[Andrew Jack]]''' as General '''[[Caluan Ematt|Ematt]]'''
+*'''[[Crystal Clarke]]''' as '''[[Pammich Nerro Goode|Resistance Transport Pilot]]'''
+*'''[[Aki Omoshaybi]]''' as '''[[Guila Angira|Resistance Bridge Officer]]'''
+*'''[[Togo Igawa]]''' as '''[[Idrosen Gawat|Resistance Bridge Officer]]'''
+*'''[[Hugh Skinner]]''' as '''[[Geno Namit|Holdo's First Officer]]'''
+*'''[[Tim Steed]]''' as '''[[Nossit Cicer|Holdo's First Officer]]'''
+*'''[[Simon Lowe]]''' as '''Resistance Hangar Captain'''
+*'''[[Joe Van Moyland]]''' as '''Temporary Command Center Resistance Pilot'''
+*'''[[Shauna Macdonald]]''' as '''Temporary Command Center Resistance Pilot'''
+*'''[[Darren Morfitt]]''' as '''Transport Deck Officer'''
+*'''[[Gerard Monaco]]''' as '''First Order Commander'''
+*'''[[Kate Dickie]]''' as '''[[Armitage Hux's First Order monitor|Hux's First Order Monitor]]'''
+*'''[[Patrick O'Kane]]''' as '''[[Tritt Opan|Hux's First Order Monitor]]'''
+*'''[[Paul Bazely]]''' as '''[[Lank Paze|Hux's First Order Monitor]]'''
+*'''[[Orion Lee]]''' as '''[[Suday Bascus|Canady's First Order Monitor]]'''
+*'''[[Amira Ghazalla]]''' as '''[[Goneril|Canady's First Order Commander]]'''
+*'''[[Ralph Ineson]]''' as '''[[Ansiv Garmuth|Senior First Order Officer]]'''
+*'''[[Akshay Kumar]]''' as '''[[Rumitar Shay|Mega-Destroyer First Order Monitor]]'''
+*'''[[Michael Jibson]]''' as '''[[Jober Tavson|Kylo's Shuttle Pilot]]'''
+*'''[[Luke Neal]]''' as '''Canto Cop'''
+*'''[[Andy Nyman]]''' as '''Jail Guard'''
+*'''[[Temirlan Blaev]]''' as '''[[Temiri Blagg|Stable Boy]]'''
+*'''[[Josiah Oniha]]''' as '''[[Oniho Zaya|Stable Kid]]'''
+*'''[[Sara Heller]]''' as '''[[Arashell Sar|Stable Kid]]'''
+*'''[[Matthew Sharp]]''' as '''[[Sharp (Resistance)|Resistance Trench Sergeant 'Salty']]'''
+*'''[[Lily Cole]]''' as '''Party Girl [[Lovey]]'''
+*'''[[Warwick Davis]]''' as '''[[Wodibin]]'''<ref name="Credits" />
+*'''[[Joseph Gordon-Levitt]]''' as '''[[Slowen Lo]]''' (voice)<ref name="Credits" />
+*'''[[Kiran Shah]]''' as '''[[Neepers Panpick]]'''<ref name="Credits" />
+*'''[[Mike Quinn]]''' as '''[[Nien Nunb]]'''<ref name="Credits" />
+*'''[[Gareth Edwards]]''' as '''[[Unidentified male Resistance soldier|Resistance Trench Soldier]]'''
+*'''[[Jack Greenlees]]''' as '''[[Huetrin Jones|Resistance Evacuation Officer]]'''
+*'''[[Danny Sapani]]''' as '''[[Unidentified Anodyne pilot|Medical Frigate Captain]]'''
+*'''[[Kevin Layne]]''' as '''[[Finch Dallow|Resistance Bomber Pilot #1]]'''
+*'''[[Ben Morris]]''' as '''[[Ben Teene|Resistance Bomber Pilot Teene]]'''
+
+After the main credits a special section was dedicated to Carrie Fisher reading the following: '''In Loving Memory of our Princess Carrie Fisher'''<ref name="Credits" />
+
+|crew=
+*Director &mdash; [[Rian Johnson]]<ref name="Credits" />
+*Producers &mdash; [[Kathleen Kennedy]] and [[Ram Bergman]]<ref name="Credits" />
+*Executive producers &mdash; [[J.J. Abrams]], [[Jason McGatlin]] and [[Tom Karnowski]]<ref name="Credits" />
+*Co-Producers &mdash; [[Pippa Anderson]], [[Candice Campos]], [[Kiri Hart]]<ref name="Credits" />
+*Screenplay &mdash; Rian Johnson<ref name="Credits" />
+*Music by &mdash; [[John Williams]]<ref name="Credits" />
+*Production designer &mdash; [[Rick Heinrichs]]<ref name="Credits" />
+*Cinematographer &mdash; [[Steve Yedlin]]<ref name="Credits" />
+*Costume designer &mdash; [[Michael Kaplan]]<ref name="Credits" />
+*Prop Master &mdash; [[Jamie Wilkinson]]<ref name="Credits" />
+*Standby Art Director &mdash; [[Ben Munro]]<ref name="Credits" />
+
+|uncredited=
+*'''[[Samantha Alleyne]]''' as '''First Order stormtrooper'''<ref name="Alleyne">{{Cite_web|url=https://showmastersonline.com/forums/index.php?/topic/98378-latest-guest-announcement-samantha-alleyne|title=Latest Guest Announcement - SAMANTHA ALLEYNE|date=2020-01-17|work=[https://showmastersonline.com Showmaster Events]|archiveurl=https://archive.is/mPZ7l}}</ref>
+*'''[[Gary Barlow]]''' as '''Resistance pilot'''<ref name="Jonathon Ross Show">{{Youtube|video=0mXogmkG028|text=Gary Barlow had a big role in Star Wars|channel=c/thejonathanrossshow+|channelname=The Jonathon Ross Show|archivedate=20211202114009}}</ref>
+*'''[[Joe Cornish]]''' as '''Resistance Trooper'''<ref name="Director Cameos">{{Cite_web|url=http://www.ign.com/articles/2017/12/08/star-wars-the-last-jedi-director-reveals-spoilerish-cameos|title=Star Wars: The Last Jedi Director Reveals SPOILERISH Cameos|author=Robson, Daniel|date=2017-12-08|work=[[Wikipedia:IGN|''IGN'']]|archivedate=20180915044822}}</ref>
+*'''[[Gareth Edwards]]''' as '''Resistance Trooper'''<ref name="Edwards">{{SW|url=news/swce-2016-future-filmmaker-discussion-and-closing-ceremony-liveblog|text=SWCE 2016: Future Filmmaker Discussion Liveblog}}</ref>
+*'''[[Tom Hardy]]'''<ref name="Hardy 1">{{Cite_web|url=https://www.indiewire.com/2017/12/tom-hardy-star-wars-last-jedi-cameo-deleted-scene-1201910252|title=Tom Hardy Was Cut From 'Star Wars: The Last Jedi,' But Here's What His Cameo Looked Like|author=Sharf, Zack|date=2017-12-21|work=[[Wikipedia:IndieWire|IndieWire]]|archivedate=20200727003307}}</ref><ref name="Hardy 2">{{Cite_web|url=https://io9.gizmodo.com/all-the-new-things-we-learned-from-the-star-wars-the-l-1823756546|title=All the New Things We Learned From the ''Star Wars: The Last Jedi'' Blu-Ray|author=Lussier, Germain|date=2018-03-14|work=[[Wikipedia:Gizmodo|''Gizmodo'']]|archivedate=20200316142412}}</ref>
+*'''[[Prince Harry]]''' as '''First Order stormtrooper'''<ref name="Royals Cameo 1">{{Cite_web|url=https://www.screendaily.com/news/john-boyega-confirms-royal-cameos-in-star-wars/5121500.article|title=John Boyega confirms Prince William, Harry and Tom Hardy cameos in 'Star Wars: The Last Jedi'|author=Wiseman, Andreas|date=2017-08-18|work=[[Wikipedia:Screen International|Screen International]]|archivedate=20200108050339}}</ref><ref name="Royals Cameo 2">{{Cite_web|url=https://io9.gizmodo.com/john-boyega-says-british-royalty-was-nearly-in-star-war-1797977611|title=John Boyega Says British Royalty Was Nearly in ''Star Wars: The Last Jedi''|author=Whitbrook, James|date=2017-08-18|work=[[Wikipedia:Gizmodo|''Gizmodo'']]|archivedate=20190531150102}}</ref>
+*'''[[Nick Kellington]]''' as '''[[Snook Uccorfay]]'''<ref name="Kellington">{{Cite_web|url=https://www.starwarsinterviews.com/sequel-trilogy/episode-viii-the-last-jedi/nick-kellington-snook-uccorfay|title=Nick Kellington - Snook Uccorfay (The Last Jedi)|author=Pellegrom, Dennis|work=[https://www.starwarsinterviews.com Star Wars Interviews]|archivedate=20180112193203}}</ref>
+*'''[[Ben Munro]]''' as '''Resistance personnel'''<ref name="TLJ commentary">{{Film|VIII}} audio commentary</ref>
+*'''[[Prince William]]''' as '''First Order stormtrooper'''<ref name="Royals Cameo 1" /><ref name="Royals Cameo 2" />
+*'''[[Edgar Wright]]''' as '''Resistance Trooper'''<ref name="Director Cameos" />
+}}
+
+==Appearances==
+{{Incomplete list|oou=1}}
+{{App
+|characters=
+*[[2BB-2]] {{1stc}}
+*[[926]] {{Del}}
+*[[Gial Ackbar]]
+*[[Alcida-Auka]] {{1st}}
+*[[Alissyndrex delga Cantonica Provincion]]
+*[[Guila Angira]] {{1st}}
+*[[Guswan Askreeth]] {{1st}}
+*[[Sommel Atandu]] {{1st}}
+*[[Yasto Attsmun]]
+*[[Auk-Waimanu]] {{Del}}
+*[[Awgree]] {{1st}}
+*[[B-U4D]]
+*[[Suday Bascus]] {{1st}}
+*[[BB-4]] {{1stc}}
+*[[BB-8]]
+*[[BB-9E]] {{1stc}}
+*[[Korfé Bennux-Ai]] {{1stm}} {{Imo}}
+*[[Temiri Blagg]] {{1st}}
+*[[Ronith Blario]] {{1st}}
+*[[Derham Boyce]] {{1st}}
+*[[Pemmin Brunce]]
+*[[Trypto Buball]] {{1st}}
+*[[C-3PO]]
+*[[Moden Canady]] {{1st}}
+*[[Nodin Chavdri]] {{1st}}
+*[[Chewbacca]]
+*[[Nossit Cicer]] {{1st}}
+*[[Kaydel Ko Connix]]
+*[[Corm-Kairuku]] {{Del}}
+*[[Larma D'Acy]] {{1st}}
+*[[Finch Dallow]] {{1st}}
+*[[Poe Dameron]]
+*[[Vober Dand]]
+*[[Dathan]] {{Imo}}
+*[[Dhuz]] {{Del}}
+*[[Dillon]] {{C|Mentioned on uniform only}}
+*"[[DJ]]" {{1st}}
+*[[Dodibin]]
+*[[Wolfid Dorna]] {{1st}}
+*[[Daxo Ecloss]] {{1st}}
+*[[Edmo Ectacle]] {{1st}}
+*[[Eighth Guard]] {{1st}}
+*[[Gatha Elbaphay]] {{1st}}
+*[[Caluan Ematt]]
+*[[Glowen Faquidde]] {{1st}}
+*[[Finn]]
+*[[First Guard]] {{1st}}
+*[[Sturg Ganna]] {{Del}}
+*[[Ansiv Garmuth]] {{1st}}
+*[[Idrosen Gawat]] {{1st}}
+*[[Ubialla Gheal]]
+*[[Goneril]] {{1st}}
+*[[Pamich Nerro Goode]]
+*[[Parallela Grammus]]
+*[[Rhomby Grammus]]
+*[[Grebe-Korora]] {{Del}}
+{{!}}
+*[[Hal (Imperial officer)|Hal]] {{C|Mentioned on uniform only}}
+*[[Soburi Hannemtin]] {{1st}}
+*[[Hesper-Inguza]] {{Del}}
+*[[Hhex]] {{Del}}
+*[[Amilyn Holdo]]
+*[[Armitage Hux]]
+*[[Armitage Hux's mother]] {{Mo}}
+*[[Armitage Hux's First Order monitor]] {{1st}}
+*[[Terrib Igmusk]] {{1st}}
+*[[Nix Jerd]] {{1st}}
+*[[Jhat]] {{Del}}
+*[[Huetrin Jones]] {{1st}}
+*[[Shuma Kalamo]] {{1st}}
+*[[Maz Kanata]] {{Hologram}}
+*[[Edon Kappehl]] {{1st}}
+*[[Obi-Wan Kenobi]] {{Mo}}
+*[[Salaka Kuchimba]] {{1st}}
+*[[Sosear Latta]] {{1st}}
+*[[Anglang Lehet]]
+*[[Poldin LeHuse]] {{1st}}
+*[[Tallissan Lintra]]
+*[[Slowen Lo]] {{1st}}
+*[[Jio Loster]] {{1st}}
+*"[[Lovey]]" {{1st}}
+*[[Armo Malou]] {{1st}}
+*[[Master Codebreaker]] {{1st}}
+*[[Peera Maso]] {{1st}}
+*[[Koo Millham]] {{1st}}
+*[[Saile Minnau]] {{1st}}
+*[[Miramir]] {{Imo}}
+*[[Ubbla Mollbro]] {{1st}}
+*[[Geno Namit]] {{1st}}
+*[[Cova Nell]] {{1st}}
+*[[Pinrado Noza]] {{1st}}
+*[[Nien Nunb]]
+*[[Brun Obatsun]] {{1st}}
+*[[Tritt Opan]] {{1st}}
+*[[Bail Prestor Organa|Bail Organa]] {{Mo}}
+*[[Leia Skywalker Organa Solo|Leia Organa]]
+*[[Neepers Panpick]]
+*[[Letrun Pay]] {{1st}}
+*[[Lank Paze]] {{1st}}
+*[[Edrison Peavey]] {{1st}}
+*[[Phasma]]
+*[[Phi]] {{1stm}} {{C|Mentioned on helmet}}
+*[[Derla Pidys]]
+*[[Porg Stowaway]] {{1stc}}
+*[[Clyss Power]] {{C|Mentioned on uniform only}}
+*[[Prime Jedi]] {{C|First appearance; depicted in a mosaic}}
+*[[Bollie Prindel]]
+*[[PZ-4CO]]
+*[[Dynym Quid]] {{1st}}
+*[[R2-D2]]
+*[[R4-X2]] {{1st}}
+*[[Ben Solo|Kylo Ren]]
+*[[Centada Ressad]] {{1st}}
+*[[Rey Skywalker|Rey]]
+*[[Ro]] {{C|Mentioned on uniform only}}
+{{!}}
+*[[Riva Rosetta]] {{1st}}
+*[[Nandan Roty]] {{1st}}
+*[[Arashell Sar]] {{1st}}
+*[[Torreb Savato]] {{1st}}
+*[[Dobbu Scay]] {{1st}}
+*[[Seventh Guard]] {{1st}}
+*[[Sharp (Resistance)|"Salty" Sharp]] {{1st}}
+*[[Rumitar Shay]] {{1st}}
+*[[Kedpin Shoklop]] {{Del}}
+*[[Darth Sidious]] {{Mo}}
+*[[Luke Skywalker]]
+*[[Snoke]]
+*[[Han Solo]] {{Mo}}
+*[[Loatha Sommover]] {{1st}}
+*[[Kaljach Sonmi]]
+*[[Lexo Sooger]] {{Del}}
+*[[Spennie]] {{1st}}
+*[[Stomeroni Starck]] {{1st}}
+*[[Karlus Stee]] {{1st}}
+*[[Stella]] {{1stm}} {{C|Mentioned on helmet}}
+*[[Grayla Stindy]] {{1st}}
+*[[Defancio Storsilt]] {{1st}}
+*[[Hoth Stuff]] {{1st}}
+*[[Lusica Stynnix]] {{1st}}
+*[[Wayulia Tagge-Simoni]] {{1st}} {{Hologram}}
+*[[Sibos Tammis]] {{1st}}
+*[[Cobel Tansirch]] {{1st}}
+*[[Wilhuff Tarkin]] {{C|Mentioned on uniform only}}
+*[[Jober Tavson]] {{1st}}
+*[[Ted]] {{1stm}} {{C|Mentioned on helmet}}
+*[[Ben Teene]] {{1st}}
+*[[Olvin Teeps]] {{1st}}
+*[[Vylla Tendeil]] {{1st}}
+*[[Terna-Gentu]] {{1st}}
+*[[Stepheden Thaldree]] {{1st}}
+*[[Thamm]]
+*[[Third Guard]] {{1st}}
+*[[Thodibin]]
+*[[C'ai Threnalli]]
+*[[Paige Tico]] {{1st}}
+*[[Rose Tico]]
+*[[Bargwill Tomder]]
+*[[Goss Toowers]]
+*[[Jaycris Tubbs]] {{1st}}
+*[[Snook Uccorfay]] {{1st}}
+*[[Unidentified Anodyne pilot|Unidentified ''Anodyne'' pilot]] {{1st}}
+*[[Unidentified flight engineer]] {{1st}}
+*[[Unidentified male Resistance soldier]] {{1st}}
+*[[Unidentified tactical officer]] {{1st}}
+*[[Unidentified transport pilot]] {{1st}} {{Hologram}}
+*[[Rigfu Urcolla]] {{1st}}
+*[[Anakin Skywalker|Darth Vader]] {{Mo}}
+*[[Thomkins Watam]] {{1st}}
+*[[Wodibin]]
+*[[Y5-X2]] {{1st}}
+*[[Yoda]] {{Ghost}}
+*[[Arca Yroca]] {{1st}}
+*[[Oniho Zaya]] {{1st}}
+|creatures=
+*[[Bird]]
+**[[Bloggin]] {{C|as leather}}
+**[[Porg]]
+*[[Dog]] {{Mo}}
+*[[Fathier]]
+*[[Fish]]
+**[[Billfish]] {{C|Beak only}} {{C|Cut}}
+**[[Scalefin fish]] {{1st}} {{Corpse}}
+***[[Coppergrin]] {{1st}} {{Corpse}}
+***[[Fingerlip garpon]] {{1st}} {{Corpse}}
+***[[Needlegawp]] {{1st}} {{Corpse}}
+**[[Spetan channelfish]] {{1st}} {{Corpse}}
+**[[Twinfin hyacander]] {{1st}} {{Corpse}}
+**[[Unidentified fish (Opah-bladder bagpipes)]] {{Corpse}} {{C|Cut}}
+*[[Fox]]
+**[[Canid]]
+***[[Vulptex]]
+*[[Govath]] {{C|Wool only}}
+*[[Jekoon]] {{1st}}
+*[[Pinniped]] {{1st}} {{C|Skin only}}
+*[[Runyip]] {{C|as leather}}
+*[[Sheffi]] {{1st}}
+*[[Snake]] {{Mo}}
+*[[Thala-siren]] {{1st}}
+*[[Unidentified Ahch-To sea creature]] {{1st}}
+*[[Wharlithan]] {{C|Horn only}} {{C|Cut}}
+*[[Whoop hog]] {{1stm}} {{Del}}
+|droids=
+*[[Astromech droid]]
+**[[BB-series astromech droid]]
+**[[R-series]]
+***[[R2 series astromech droid]]
+***[[R4 astromech droid]]
+***[[R5 series astromech droid|R5 unit]]
+*[[Labor droid]]
+**[[Heavy loader droid]]
+*[[Medical droid]]
+**[[IT-S00.2 medical droid]] {{1st}}
+**[[MD-15C medical droid]] {{1st}}
+*[[Patrol droid]]
+**[[Patrol droid (First Order)]]
+*[[Protocol droid]]
+**[[3PO-series protocol droid]]
+**[[PZ protocol droid]]
+*[[Repair droid]]
+**[[MSE series]]
+***[[MSE-6 series repair droid]]
+*[[Service droid]]
+**[[Laundry droid]]
+***[[SO-1P autovalet droid]] {{1st}}
+**[[SE8 waiter droid]]
+|events=
+*[[Battle of Chyron Belt]] {{1stm}}
+*[[Clone Wars]] {{Mo}}
+*[[First Order-Resistance War]]
+**[[Battle of Crait]]
+**[[Battle of Oetchi]]
+**[[Battle of Starkiller Base]] {{Mo}}
+**[[Battle of D'Qar|Evacuation of D'Qar]]
+**[[Hosnian Cataclysm]] {{Imo}}
+*[[Great Jedi Purge]] {{Imo}}
+*[[Mission to Canto Bight]] {{1st}}
+*[[New Republic Era]] {{Flash}}
+**[[Destruction of the Jedi Temple]] {{Mo}}
+*[[Proclamation of the New Order]] {{Imo}}
+*[[Secret mission to Tatooine]] {{Imo}}
+|locations=
+*[[Alderaan]] {{Mo}}
+*[[Chyron Belt]] {{1stm}}
+*[[Jakku]] {{Mo}}
+*[[Outer Rim Territories]]
+**[[Auril sector]] {{Flash}}
+***[[Adega system]] {{Flash}}
+****[[Ossus]] {{Flash}}
+*****[[Jedi Temple of Luke Skywalker]] {{Flash}}
+**[[Corporate Sector]]
+***[[Cantonica system]]
+****[[Cantonica]]
+*****[[Canto Bight]]
+******[[Café Raduli]]
+******[[Canto Bight police headquarters]]
+******[[Canto Casino and Racetrack]]
+******[[Old Town (Canto Bight)|Old Town]] {{1st}}
+*****[[Sea of Cantonica]]
+**[[Crait system]]
+***[[Crait]]
+****[[Crait outpost]]
+***[[Crait (star)]] {{1st}}
+**[[Oetchi system]]
+**[[Otomok system]] {{Imo}}
+**[[Rothana]] {{C|Mentioned in hologram only}}
+**[[Sanbra sector]]
+***[[Ileenium system]]
+****[[D'Qar]]
+*****[[Resistance base]]
+*[[Unknown Regions]]
+**[[Ahch-To system]]
+***[[Ahch-To]]
+****[[Temple Island]]
+*****[[Cove of the Visitors]] {{1stm}}
+*****[[First Jedi Temple]] {{1st}}
+*****[[Jedi village]]
+******[[Luke's hut]] {{1st}}
+******[[Rey's hut]] {{1st}}
+*****[[Mirror cave]] {{1st}}
+*****[[Saddle (Ahch-To)|Saddle]]
+*****[[Tree library]] {{1st}}
+*****[[Windwailer]] {{1st}}
+***[[Ahch-To's second sun]]
+***[[Moon of Ahch-To]] {{1st}}
+**[[Starkiller Base]] {{Mo}}
+|organizations=
+*[[Alliance to Restore the Republic]] {{Mo}}
+*[[Arms dealer]] {{Mo}}
+*[[Bodyguard]]
+*[[Bouncer (occupation)|Bouncer]]
+*[[Caretakers]] {{1st}}
+**[[Clan Matron|Matron]] {{1st}}
+*[[Casino Security (Canto Casino)|Casino Security]] {{1st}}
+*[[First Order]]
+**[[Attendants]] {{1st}}
+**[[Elite Praetorian Guard]]
+**[[First Order military]]
+***[[First Order Army]]
+****[[Stormtrooper Corps (First Order)|Stormtrooper Corps]]
+*****[[Executioner trooper]]
+*****[[Flametrooper]]
+*****[[Megablaster heavy assault trooper]]
+*****[[Riot control stormtrooper (First Order)|Riot control stormtrooper]]
+*****[[Snowtrooper]]
+*****[[Stormtrooper (First Order)|Stormtrooper]]
+***[[First Order Navy]]
+****[[First Order fleet engineer]]
+****[[First Order starfighter corps]]
+*****[[First Order TIE Fighter Pilot]]
+*****[[Kylo Ren's personal squadron]]
+****[[Transport Corps]] {{1st}}
+****[[Unidentified First Order task force]] {{1st}}
+***[[First Order officer]]
+***[[First Order Special Forces]]
+**[[First Order Security Bureau]]
+**[[Supreme Leader]]
+*[[Galactic Empire]] {{Mo}}
+*[[Gangster]]
+*[[Grammus sisters]]
+*[[Gunner]]
+*[[House of Organa]]
+**[[Prince]]ss {{Hologram}}
+*[[Incom-FreiTek Corporation]] {{C|Mentioned in hologram only; misspelled "Incom-Frie-Tek"}}
+*[[Jedi Order]]
+**[[Jedi]]
+**[[Jedi Master]]
+**[[Padawan]]
+*[[Jockey]]
+*[[Junk dealer]] {{Mo}} {{1stID|junk trader}}
+*[[Kuat Drive Yards|KDY]] {{C|Mentioned in hologram only}}
+*[[Knights of Ren]]
+**[[Ren]]
+*[[Law enforcement agency]]
+**[[Canto Bight Police Department]]
+***[[Canto Bight Mounted Police]] {{1st}}
+***[[Uniformed Branch]]
+*[[Lord]] {{Mo}}
+{{!}}
+*[[Navigator]]
+*[[New Republic]] {{Mo}}
+**[[New Republic Defense Fleet]] {{Mo}}
+*[[Officer]]
+**[[Adjutant]]
+**[[Admiral]]
+**[[Captain]]
+**[[Commander]]
+**[[Flight Officer]] {{1st}}
+**[[General]]
+**[[Lieutenant]]
+**[[Major]] {{C|Impersonated}}
+**[[Quartermaster]]
+**[[Vice Admiral]]
+*[[Pilot]]
+*[[Pirate]] {{Hologram}}
+*[[Poet]] {{Mo}}
+*[[Police officer]]
+*[[Prisoner]]
+*[[Resistance]]
+**[["Reb" Squadron]]
+**[[Resistance Army]]
+***[[Resistance trooper]]
+**[[Resistance ground crew]]
+***[[Ground Logistics Division]]
+****[[Controller]]
+**[[Resistance High Command]]
+**[[Resistance navy]]
+***[[Bridge guard]] {{1st}}
+***[[Fleet Command (Resistance)|Fleet Command]] {{1st}}
+***[[Gunnery officer]]
+***[[Resistance Starfighter Corps]]
+****[[Blue Squadron (Resistance)|Blue Squadron]]
+*****[[Blue Leader]]
+****[[Cobalt Squadron]]
+****[[Crimson Squadron]] {{1st}}
+****[[Green Squadron (Resistance)|Green Squadron]] {{1stm}}
+****[[Resistance pilot]]
+**[[Resistance officer]]
+**[[Resistance technician]]
+*[[Rothana Heavy Engineering]] {{C|Mentioned in hologram only}}
+*[[Sacred Circle]] {{1st}}
+*[[Scavenger]]
+*[[Sienar-Jaemus Fleet Systems]] {{C|Mentioned in hologram only}}
+*[[Sith]] {{Mo}}
+**[[Darth]] {{Mo}}
+**[[Sith Lord]] {{Imo}}
+*[[Skywalker family]]
+*[[Slicer]]
+*[[Smuggler]]
+*[[Soldier]]
+*[[Solo family|Solo]]
+*[[Teacher]]
+*[[Technician]]
+*[[Thief]] {{Mo}}
+*[[Tico family]]
+*[[Visitors]] {{Del}}
+*[[Warlord]]
+|species=
+*[[Abednedo]]
+*[[Alissyndrex delga Cantonica Provincion's species]]
+*[[Armo Malou's species]]
+*[[Blutopian]]
+*[[Bufopel]] {{1st}}
+*[[Caskadag]]
+*[[Cloddogran]]
+*[[Derla Pidys' species]] {{1stp}}
+*[[Dor Namethian]] {{Del}}
+*[[Dynym Quid's Species]] {{1st}}
+*[[Grayla Stindy's species]] {{Del}}
+*[[Heptooinian]]
+*[[Human]]
+**[[Alderaanian]]
+**[[Chandrilan]]
+**[[Coruscanti]]
+**[[Cyborg]]
+*[[Keteerian]] {{1st}}
+*[[Lanai]] {{1st}}
+*[[Moldwarp]] {{1st}}
+*[[Mon Calamari]]
+*[[Neeva's species]] {{1st}}
+*[[Ongidae]]
+*[[Palandag]] {{Del}}
+*[[Shozer]]
+*[[Silvasu Fi's species]] {{1st}}
+*[[Suerton]]
+*[[Sullustan]]
+*[[Tarsunt]]
+*[[Troglof]]
+*[[Ungrila]]
+*[[Unidentified horse-like species]] {{1st}}
+*[[Unidentified insectoid species]] {{1st}}
+*[[Unidentified species (Canto Bight)]] {{1st}}
+*[[Unidentified species (Snook Uccorfay)]] {{1st}}
+*[[Unidentified species (Sosear Latta)]] {{1st}}
+*[[Urodel]]
+*[[Wermal]] {{Del}}
+*[[Whippomorn]] {{Del}}
+*[[Wookiee]]
+*[[Xi'Dec]] {{1st}}
+*[[Yoda's species]] {{Ghost}}
+|vehicles=
+*[[Death Star]] {{Mo}}
+*[[Escape pod]]
+**[[Model CEC Class-1]] {{1st}}
+*[[Repulsorcraft]]
+**[[Speeder]]
+***[[Airspeeder]]
+****[[V-4 series]]
+*****[[V-4X-D ski speeder]]
+***[[Zephyr GB-134 speeder]]
+***[[Landspeeder]]
+****[[SolarNova TT-86]] {{1st}}
+****[[Tri-Vanquish 7]] {{1st}}
+*[[Starship]]
+**[[Bomber]]
+***[[MG-100 StarFortress SF-17]] {{1st}}
+****''[[Cobalt Hammer]]'' {{1st}}
+****''[[Crimson Hailstorm]]'' {{1st}}
+****''[[Crimson Smiter]]'' {{1st}}
+**[[Capital ship]]
+***[[Battlecruiser]]
+****[[Resurgent-class Star Destroyer|''Resurgent''-class Star Destroyer]]
+*****''[[Fellfire]]''
+*****''[[Finalizer]]''
+***[[Dreadnought]]
+****[[Star Dreadnought]]
+*****[[Siege Dreadnought]]
+******[[Mandator line|''Mandator'' line]]
+*******[[Mandator IV-class Siege Dreadnought|''Mandator IV''-class Siege Dreadnought]]
+********''[[Fulminatrix]]''
+*****[[Mega-class Star Dreadnought|''Mega''-class Star Dreadnought]]
+******''[[Supremacy]]''
+*******[[Kylo's chambers]] {{1st}}
+*******[[Snoke's throne room]] {{1st}}
+***[[Star Cruiser]]
+****[[MC85 Star Cruiser]]
+*****[[Raddus (MC85 Star Cruiser)|''Raddus'']]
+**[[Corvette]]
+***[[Free Virgillia-class Bunkerbuster|''Free Virgillia''-class Bunkerbuster]]
+****''[[Ninka]]''
+**[[Cruiser]]
+**[[Dropship]]
+***[[First Order dropship]] {{1st}}
+**[[Freighter]]
+***[[Light freighter]]
+****[[YT-1300 light freighter]]
+*****''[[Millennium Falcon]]''
+**[[Frigate]]
+***[[Nebulon-C escort frigate]] {{1st}}
+****[[Anodyne (Nebulon-C)|''Anodyne'']] {{1st}}
+***[[Vakbeor-class cargo frigate|''Vakbeor''-class cargo frigate]] {{1st}}
+****''[[Vigil]]'' {{1st}}
+**[[Heavy cruiser]]
+**[[Shuttle]]
+***[[Snoke's escape shuttle|Snoke's escape craft]] {{1stm}}
+***[[Upsilon-class command shuttle|''Upsilon''-class command shuttle]]
+****[[Kylo Ren's command shuttle]]
+***[[Xi-class light shuttle|''Xi''-class light shuttle]]
+**[[Starfighter]]
+***[[A-wing starfighter]]
+****[[RZ-2 A-wing interceptor]]
+*****[[Tallissan Lintra's RZ-2 A-wing interceptor]]
+***[[TIE line]]
+****[[TIE/IN interceptor]] {{Hologram}}
+****[[TIE/ln space superiority starfighter]] {{Hologram}}
+****[[TIE/fo space superiority fighter]]
+****[[TIE/sf space superiority fighter]]
+****[[TIE/vn space superiority fighter]]
+*****[[Kylo Ren's TIE silencer]]
+****[[TIE Boarding Craft]] {{Hologram}}
+***[[X-wing starfighter]]
+****[[T-65B X-wing starfighter]] {{Wreck}}
+*****[[Red Five (T-65B X-wing starfighter)|''Red Five'']] {{Wreck}}
+****[[T-70 X-wing starfighter]]
+*****''[[Black One]]''
+**''[[Tantive IV]]'' {{Imo}}
+**[[Transport]]
+***[[Resistance transport pod]] {{1st}}
+***[[Troop transport]]
+****[[AAL-1971/9.1 Troop Transport]]
+***[[Yacht|Star yacht]]
+****''[[Libertine]]'' {{1st}}
+***[[U-55 orbital loadlifter]]
+*[[T-17]] {{Mo}}
+*[[Walker]]
+**[[All-terrain vehicle]]
+***[[All Terrain Armored Transport]]
+****[[First Order All Terrain Armored Transport]] {{1st}}
+***[[All Terrain Heavy Hauler]] {{1st}}
+***[[All Terrain MegaCaliber Six]]
+***[[All Terrain Scout Transport]]
+****[[First Order All Terrain Scout Transport]]
+*[[Yacht (aquatic)|Yacht]]
+**''[[Undisputed Victor]]'' {{1stp}}
+|technology=
+*[[Active tracker]] {{1st}}
+**[[A-class process]] {{1stm}}
+*[[Armor]]
+**[[Kylo Ren's helmet]]
+**[[Pauldron]]
+**[[Stormtrooper armor]]
+***[[First Order stormtrooper armor]]
+****[[Phasma's armor]]
+*[[Audio sensor]] {{Mo}} {{1stID|audio sensor}}
+*[[Baton]]
+**[[Phasma's baton]]
+**[[Z6 riot control baton]]
+*[[Ben Solo's calligraphy set]] {{1st}} {{Flash}}
+*[[Bherring-24 blinkcode processing indicator]] {{1st}}
+*[[Bilari electro-chain whip]] {{1st}}
+*[[Bio-hexacrypt]] {{1st}}
+*[[Blaster]]
+**[[Blaster pistol]]
+***[[Defender sporting blaster pistol]]
+****[[Satine's Lament]]
+***[[Defender-5 sporting blaster]] {{1st}}
+****[[Holdo's blaster]] {{1st}}
+***[[Glie-44 blaster pistol]]
+****[[Finn's blaster pistol]]
+***[[NN-14 blaster pistol]]
+****[[Rey's NN-14 blaster pistol]]
+***[[Relby K-25 blaster]] {{1st}}
+***[[SE-44C blaster pistol]]
+**[[Blaster rifle]]
+***[[DH-17 blaster rifle]]
+***[[EL-16HFE blaster rifle]]
+***[[F-11D blaster rifle]]
+****[[Phasma's blaster rifle]]
+***[[Repeating blaster]]
+****[[FWMB-10 repeating blaster]]
+*[[Cannon]]
+**[[Superlaser siege cannon]] {{1st}}
+*[[Computer]]
+**[[Targeting computer]]
+*[[Computer virus]]
+**[[Slicer virus]] {{1st}}
+*[[Cybernetics]]
+**[[Mechno-arm]]
+*[[Datapad]]
+**[[MDS-440 datapad]] {{1st}}
+*[[Electro-shock prod]]
+*[[Electrocrop]] {{1st}}
+*[[Engine]]
+**[[d'Lanseaux engine]] {{1st}}
+**[[Overdrive Thruster]] {{1st}}
+*[[Flexpoly bacta suit]] {{1st}}
+*[[Glowrod]]
+**[[Police glowrod]]
+*[[Headset]]
+*[[Hepta-mag ammunition carrier belt]] {{1st}}
+*[[Hologram]]
+**[[Holo-map]]
+*[[Holotable]]
+*[[Homing beacon]]
+**[[S-thread transmitter bracelet]] {{1st}}
+*[[Hyperspace]]
+**[[Hyperspace tracker]] {{1st}}
+*[[Jedi star compass]]
+*[[Jetpack]] {{Hologram}}
+*[[Laser cannon]]
+**[[EM-1919 paired repeating laser cannon]] {{1st}}
+**[[GO-4 laser cannon]]
+**[[Heavy laser cannon]]
+**[[Point-defense laser cannon]]
+**[[Quad laser cannon]]
+***[[AG-2G quad laser cannon]]
+*[[Lightsaber]]
+**[[Crossguard lightsaber]]
+***[[Kylo Ren's lightsaber]]
+**[[Luke Skywalker's green lightsaber]] {{Flash}}
+**[[Skywalker lightsaber]]
+*[[Liquid-cable launcher]]
+*[[Medpac]] {{Mo}}
+*[[Melee weapon]]
+**[[Ax]]
+***[[BL-155 Laser ax]] {{1st}}
+**[[Electro-bisento]] {{1st}}
+**[[Staff]]
+***[[Quarterstaff]]
+****[[Rey's quarterstaff]]
+**[[Sword]] {{Mo}}
+**[[Vibro-arbir blade]] {{1st}}
+**[[Vibro-voulge]] {{1st}}
+*[[Missile]]
+**[[Mag-pulse warhead]]
+*[[Neural wave relaxer helmet]] {{1st}}
+*[[Oculus (device)|Oculus]] {{1st}}
+*[[Orbital autocannon]] {{1st}}
+*[[Plasma bomb]]
+*[[Proton bomb]]
+*[[Proton torpedo]]
+*[[Proximity alarm]]
+*[[Pulmonary resuscitation kit]] {{1st}}
+*[[Rectenna]]
+*[[Repulsor gurney]] {{1st}}
+*[[Shipboard Tracking Control Complex]] {{1st}}
+*[[Stuncuffs]]
+*[[Superlaser]]
+*[[Turbolaser]]
+**[[MegaCaliber Six turbolaser cannon]]
+*[[v-120 artillery emplacement]]
+*[[v-232 artillery emplacement]]
+|miscellanea=
+*[[Alcohol]]
+*[[Alien]]
+*[[Amber (material)|Amber]] {{1st}}
+*[[Asteroid]]
+*[[Asteroid field]]
+*[[Aurebesh]]
+**[[Unidentified Aurebesh numerals]] {{1st}}
+*[[Aurodium]]
+*[[Auropyle fabric]] {{1st}}
+*[[Bacta]]
+*[[Bandolier]]
+*[[Barbel]]
+*[[Beach]]
+*[[Blood]]
+*[[Book]]
+**[[Paper]]
+*[[Braid]]
+**[[Alderaanian mourning braid]] {{1st}}
+*[[Bridge (starship)|Bridge]]
+*[[Brismoss-fiber]] {{1st}}
+*[[Capital]]
+*[[Carbonite]]
+*[[Casino]]
+*[[Cave]]
+*[[Chromium]]
+*[[City]]
+*[[Clothing]]
+**[[Belt]]
+**[[Cape]]
+**[[Cloak]]
+**[[First Order military uniforms]]
+**[[Flight jacket]]
+***[[Resistance fighter jacket]]
+**[[Flight suit]]
+***[[Flight helmet]]
+**[[Flotation vest]] {{C|Cut}}
+**[[Gaberwool]]
+**[[Robe]]
+***[[Jedi robes]]
+***[[Khalat robes]] {{1st}}
+**[[Sackcloth]]
+**[[Snoke's slippers]] {{1st}}
+**[[Tuxedo coat]] {{1st}}
+*[[Cockpit]]
+*[[Color]]
+*[[Coma]]
+*[[Croupier stick]]
+*[[Crystal]]
+**[[Aurodium]]
+**[[Kyber crystal]]
+*[[Currency]]
+**[[Aurei]] {{1st}}
+**[[Cantocoin]] {{1stp}}
+**[[Peggat]]
+**[[Zemid]] {{1st}}
+*[[Death]]
+*[[Deity]] {{Mo}}
+**[[God]] {{Mo}}
+*[[Distress signal]] {{Mo}}
+*[[Ear]]
+*[[Egg]]
+*[[Electrocrop]] {{1st}}
+*[[Death penalty|Execution]] {{Mo}}
+*[[Eye]]
+*[[Farrier rasp]] {{1st}}
+*[[Fathier racing]]
+*[[Fineweave]] {{1st}}
+*[[First Order insignia]]
+*[[Fishing]]
+*[[Flight harness]]
+*[[The Force]]
+**[[Dark side of the Force]]
+**[[Force-bond]]
+**[[Force-sensitive]]
+**[[Force power]]
+***[[Force choke]]
+***[[Force lightning]]
+***[[Force projection]] {{1st}}
+***[[Force vision]]
+***[[Levitation]]
+***[[Sever Force]] {{Mo}}
+***[[Telekinesis]]
+**[[Force spirit]]
+**[[Light side of the Force]]
+**[[Vergence]]
+*[[Fuel]]
+*[[The galaxy]]
+*[[Gambling]]
+**[[Binspo]] {{1st}}
+**[[Chance cube]]
+***[[Han Solo's dice]]
+***[[Hazard Toss dice]]
+***[[Spike die]]
+**[[Fantafly polyhedral dice]] {{1st}}
+**[[Hazard Toss]]
+***[[Rolling cup]] {{1st}}
+**[[Slot machine]]
+*[[Gold]]
+*[[Goggles]] {{Hologram}}
+*[[Govath-wool]]
+*[[Hair]]
+*[[Hangar]]
+*[[Haysian smelt]] {{1st}}
+{{!}}
+*[[Heart]]
+*[[Humanoid]]
+*"[[I have a bad feeling about this]]"
+*[[Immortality]]
+*[[Jedi Code]]
+*[[Jedi temple]]
+*[[Jedi training]]
+*[[Language]]
+**[[Abednedish]]
+**[[Binary]]
+**[[Cantonican]] {{1st}}
+**[[Cloddogran (language)|Cloddogran]] {{1st}}
+**[[Cruly-3]]
+**[[Galactic Basic Standard]]
+**[[Khamarese]] {{1st}}
+**[[Lanai's language]] {{1st}}
+**[[Shyriiwook]]
+**[[Taarja]] {{1st}}
+*[[Leather]]
+**[[Bloggin-leather]]
+**[[Kodyok-leather]] {{1st}}
+**[[Runyip-leather]] {{1st}}
+*[[Library]]
+*[[Lightsaber combat]]
+**''[[Cadence]]'' {{1st}}
+**[[Lightsaber duel]]
+*[[Lightspeed]]
+*[[Lycresh]] {{1st}}
+*"[[May the Force be with you]]"
+*[[Medal]]
+**[[Haysian ore medallion]]
+***[[Paige's medallion]] {{1st}}
+***[[Rose's medallion]] {{1st}}
+*[[Meditation]]
+*[[Milk]]
+**[[Green milk]] {{1st}}
+*[[Mineral]]
+**[[Serendibite]] {{1st}}
+*[[Mountain]]
+*[[Mouth]]
+*[[Music|Musical instrument]]
+**[[F'nonc horn]] {{1st}}
+*[[Necklace]]
+**[[Jedi Crusader pendant]] {{1st}}
+**[[Onyx Bands of Cato Neimoidia]] {{1stp}}
+*[[Nose]]
+*[[Nova Sundari-style hairdo]] {{1st}}
+*[[Ocean]]
+*[[Onyx]] {{1stp}}
+*[[Orbital bombardment]]
+*[[Osmium]] {{1st}}
+*[[Osmium tiara]] {{1st}}
+**[[Amilyn Holdo's osmium tiara]] {{1st}}
+*[[Parent]]
+*[[Parsec]] {{Mo}}
+*[[Pillow]]
+*[[Planet]]
+*[[Planetary ring]]
+*[[Plant]]
+**[[Flower]]
+***[[Plom bloom]] {{1st}}
+**[[Grass]]
+**[[Moss]]
+**[[Reed (plant)|Reed]] {{1st}}
+**[[Tree]]
+***[[Chinar tree]] {{1stp}}
+***[[Uneti tree]]
+****[[Jedi Tree]] {{1st}}
+*[[Platinum]]
+*[[Prison]]
+**[[Brig]] {{Mo}}
+*[[Resistance rank badge]]
+*[[Rhodochrosite]]
+*[[Ring]]
+**[[Codebreaker's platinum ring]] {{1st}}
+**[[DJ's ring]] {{1st}}
+**[[Rose Tico's Resistance ring]] {{1st}}
+**[[Shara Bey's wedding ring]] {{1st}}
+**[[Signet ring]]
+***[[Leia Organa's signet ring]]
+**[[Snoke's ring]] {{1st}}
+*[[Sacred Jedi texts]] {{1st}}
+**''[[Aionomica]]'' {{1st}}
+**''[[Poetics of a Jedi]]'' {{1st}}
+**''[[Rammahgon]]'' {{1st}}
+**[[Unidentified sacred Jedi text]] {{1st}}
+*[[Saddle]]
+*[[Salt]]
+*[[Gender|Sexes]]
+*[[Silk]]
+**[[Synthsilk]] {{1st}}
+*[[Skeleton key]] {{1st}}
+*[[Sleep]]
+*[[Snub-fighter]]
+*[[Species]]
+*[[Star]]
+**[[Binary star]]
+*[[Star map]]
+*[[Stone]]
+**[[Limestone]] {{Del}}
+*[[Stun]]
+*[[Suicide]]
+*[[Surface warfare]]
+**[[Trench warfare]]
+*[[Synth-hide]] {{1st}}
+*[[Throne]]
+*[[Time]]
+**[[Standard hour]]
+**[[Standard minute]]
+**[[Standard week]]
+**[[Standard year]]
+*[[Toast]] {{Mo}}
+*[[Toast (ritual)]]
+*[[Torture]]
+*[[Transparisteel]]
+*[[Uneti-wood]]
+*[[Universe]]
+*[[Veers Formation]] {{1st}}
+*[[Water]]
+*[[Youngling]]
+}}
+
+==Sources==
+{{Scroll_box|content=
+{{Mediacat|imagecat=Images from Star Wars: Episode VIII The Last Jedi}}
+*{{InsiderCite|26|An Exclusive Interview with George Lucas}}
+*{{SW|url=news/new-star-wars-movies-announced-as-disney-enters-agreement-to-acquire-lucasfilm-ltd|text=New ''Star Wars'' Movies Announced as Disney Enters Agreement to Acquire Lucasfilm Ltd.}}
+*{{SW|url=news/on-the-brink-of-the-future|text=On the Brink of the Future}}
+*{{SW|url=news/the-long-winding-and-shapeshifting-trail-to-episodes-vii-viii-ix|text=The Long, Winding, and Shapeshifting Trail to Episodes VII, VIII & IX}}
+*{{SW|url=news/star-wars-will-be-forever|text=''Star Wars'' Will Be Forever}}
+*{{SW|url=news/the-legendary-star-wars-expanded-universe-turns-a-new-page|text=The Legendary ''Star Wars'' Expanded Universe Turns a New Page}}
+*{{InsiderCite|151|Launchpad|Launch Pad}}
+*{{SW|url=news/rogue-one-is-the-first-star-wars-stand-alone-film-rian-johnson-to-write-and-direct-star-wars-episode-viii|text=''Rogue One'' is the First ''Star Wars'' Stand-Alone Film, Rian Johnson to Write and Direct ''Star Wars'': Episode VIII}}
+*{{InsiderCite|157|The Saga Continues}}
+*{{InsiderCite|158|Launchpad|Launch Pad}}
+*{{SW|url=news/galaxy-wire-star-wars-news-from-around-the-web-october-13-2015|text=Galaxy Wire: ''Star Wars'' News from Around the Web – October 13, 2015}}
+*{{SW|url=news/meet-the-brooklyn-nets-jedi-center-an-interview-with-brook-lopez|text=Meet the Brooklyn Nets' Jedi Center: An Interview with Brook Lopez}}
+*{{SW|url=news/star-wars-episode-viii-to-open-december-15-2017|text=''Star Wars'': Episode VIII to Open December 15, 2017}}
+*{{SW|url=news/star-wars-episode-viii-now-filming|text=Star Wars Episode VIII Now Filming}}
+*{{SW|url=news/8-reasons-star-wars-bloodline-will-be-essential-reading|text=8 Reasons ''Star Wars: Bloodline'' Will Be Essential Reading}}
+*{{InsiderCite|165|Launchpad}}
+*{{SW|url=news/designing-the-force-awakens-james-clyne-and-iain-mccaig-discuss-creating-concept-art|text=Designing ''The Force Awakens'': James Clyne and Iain McCaig Discuss Creating Concept Art}}
+*{{SW|url=news/future-filmmakers-come-together-for-special-panel-at-star-wars-celebration-europe-2016|text='Future Filmmakers' Come Together for Special Panel at ''Star Wars'' Celebration Europe 2016}}
+*{{SW|url=news/swce-2016-future-filmmaker-discussion-and-closing-ceremony-liveblog|text=SWCE 2016: Future Filmmaker Discussion Liveblog}}
+*{{SWYoutube|TVWo9EL1H_s|Future Filmmakers Panel Recap &#124; Star Wars Celebration Europe 2016|archivedate=20191225224610}}
+*{{SW|url=news/star-wars-episode-viii-wraps-shooting|text=''Star Wars'': Episode VIII Wraps Shooting}}
+*{{SW|url=news/the-official-title-for-star-wars-episode-viii-revealed|text=The Official Title for ''Star Wars'': Episode VIII Revealed}}
+*{{SWYoutube|UtI2BJcrrsY|Star Wars Episode VIII Title Revealed! &#124; The Star Wars Show|archivedate=20190514131027}}
+*{{SWYoutube|HHCBAUuJWco|Talking the Future of Star Wars on the Set of Rogue One. The Star Wars Show Returns! &#124; The Star Wars Show|archivedate=20190305184531}}
+*{{SWYoutube|XzgzFv2YKN4|The Last Jedi Filmmakers At Celebration and Kitster Attempts a High-Five (Again)|archivedate=20180424183903}}
+*{{SW|url=news/kathleen-kennedy-and-star-wars-the-last-jedi-director-rian-johnson-to-appear-at-star-wars-celebration|text=Kathleen Kennedy and ''Star Wars: The Last Jedi'' Director Rian Johnson to Appear at ''Star Wars'' Celebration}}
+*{{SW|url=news/star-wars-force-friday-ii-coming-september-1-2017|text=''Star Wars'' Force Friday II Coming September 1, 2017}}
+*{{SW|url=news/star-wars-celebration-orlando-panel-schedule-sneak-peek|text=''Star Wars'' Celebration Orlando: Panel Schedule Sneak Peek}}
+*{{SW|url=news/new-star-wars-the-last-jedi-products-coming-in-support-of-force-for-change|text=New ''Star Wars: The Last Jedi'' Products Coming in Support of ''Force for Change''}}
+*{{SW|url=news/star-wars-force-for-change-celebrates-40-years-of-star-wars-with-special-fundraising-event-and-amazing-prizes|text=''Star Wars: Force For Change'' Celebrates 40 Years of ''Star Wars'' with Special Fundraising Event and Amazing Prizes}}
+*{{SWYoutube|kn05kOhUQyo|Mark Hamill & Daisy Ridley's Epic Star Wars: Force For Change Announcement|archivedate=20200621093046}}
+*{{SWYoutube|Mh4X4N-8fEM|Star Wars: The Last Jedi Panel &#124; Star Wars Celebration Orlando 2017 (US)|archivedate=20200127152624}}
+*{{SWYoutube|zB4I68XVPzQ|Star Wars: The Last Jedi Official Teaser|archivedate=20200815163125}}
+*{{SW|url=news/swco-2017-5-highlights-from-the-star-wars-the-last-jedi-teaser|text=SWCO 2017: 5 Highlights from the ''Star Wars: The Last Jedi Teaser''}}
+*{{SW|url=news/swco-2017-marvel-reveals-captain-phasma-miniseries-exclusive|text=SWCO 2017: Marvel Reveals ''Captain Phasma'' Miniseries Bridging ''The Force Awakens'' and ''The Last Jedi'' &ndash; Exclusive}}
+*{{SW|url=news/swco-2017-10-things-we-learned-from-the-star-wars-the-last-jedi-panel|text=SWCO 2017: 10 Things We Learned from the ''Star Wars: The Last Jedi'' Panel}}
+*{{SW|url=news/swco-2017-first-look-at-journey-to-star-wars-the-last-jedi-covers-and-more-reveals-from-lucasfilms-writers-roundtable-discussion|text=SWCO 2017: First Look at Journey to ''Star Wars: The Last Jedi'' Covers and More Reveals from Lucasfilm's Writers Roundtable Discussion}}
+*{{SWYoutube|QuJzxV4i5IM|The Last Jedi Director Rian Johnson, the Best of Celebration, & The Star Wars Show CANNON!|archivedate=20181020161916}}
+*{{SW|url=news/be-a-force-for-change-for-the-chance-to-win-a-trip-to-the-star-wars-the-last-jedi-premiere-and-more|text=Be a ''Force For Change'' for the Chance to Win a Trip to the ''Star Wars: The Last Jedi'' Premiere and More}}
+*{{SW|url=news/poll-what-is-the-best-moment-in-the-star-wars-the-last-jedi-teaser|text=Poll: What is the Best Moment in the ''Star Wars: The Last Jedi'' Teaser?}}
+*{{SWYoutube|2jNuZnQMzY8|The Last Jedi Cast Talks Teaser & The Freemaker Adventures S2 Preview!|archivedate=20200123195542}}
+*{{SWYoutube|Nj93GnoxhRE|New Star Wars: The Last Jedi Characters and City Revealed|archivedate=20171116004904}}
+*{{SWYoutube|NxJZQJL4SHg|New The Last Jedi Details, Talking Thrawn with Timothy Zahn & the 40th Anniversary of Star Wars|archivedate=20200116173013}}
+*{{SW|url=news/vanity-fair-reveals-star-wars-the-last-jedi-special-issue|text=Vanity Fair Reveals ''Star Wars: The Last Jedi'' Special Issue}}
+*{{SW|url=news/thank-you-for-donating-force-for-change-40th-anniversary|text=Thank You for Donating to ''Force for Change''{{'s}} ''Star Wars'' 40th Anniversary Campaign}}
+*{{SW|url=news/d23-2017-carrie-fisher-and-mark-hamill-named-disney-legends|text=D23 2017: Carrie Fisher and Mark Hamill Named Disney Legends}}
+*{{SWYoutube|ye6GCY_vqYk|Star Wars: The Last Jedi Behind The Scenes|archivedate=20180201215347}}
+*{{SW|url=news/d23-2017-new-star-wars-the-last-jedi-behind-the-scenes-footage-revealed-and-more|text=D23 2017: New ''Star Wars: The Last Jedi'' Behind-the-Scenes Footage Revealed and More}}
+*{{SWYoutube|tMTExpDs7WA|Kylo Ren's New Ship, The Last Jedi Cast at D23, & Star Wars: Galaxy's Edge!|archivedate=20200112070955}}
+*{{SW|url=news/star-wars-the-last-jedi-props-and-costumes-on-display-at-sdcc|text=''Star Wars: The Last Jedi'' Props and Costumes on Display at SDCC}}
+*{{SW|url=news/introducing-porgs-the-cute-new-creatures-from-star-wars-the-last-jedi|text=Introducing Porgs, the Cute New Creatures from ''Star Wars: The Last Jedi''}}
+*{{SW|url=news/new-star-wars-the-last-jedi-books-and-more-revealed-at-sdcc-2017|text=New ''Star Wars: The Last Jedi'' Books and More Revealed at SDCC 2017}}
+*{{SWYoutube|3Qv8RdPK8E4|New The Last Jedi Images, The Star Wars Show Goes Hollywood, Lost Lucasfilm Loot, & More!|archivedate=20190803212814}}
+*{{SWYoutube|hib2cnhE_fQ|The Last Jedi Director Talks With the Director of Hamilton, Making BB-8 Sounds, and More!|archivedate=20190923041334}}
+*{{SWYoutube|vTNJNRXfSIg|New The Last Jedi Vehicles Revealed, Exploring Lucasfilm's Vaults, and More!|archivedate=20171018032344}}
+*{{SW|url=news/inside-two-deadly-new-first-order-vehicles-from-the-last-jedi|text=Inside Two Deadly New First Order Vehicles from ''The Last Jedi''}}
+*{{SW|url=news/the-last-jedi-speaks|text=The Last Jedi Speaks}}
+*{{SW|url=news/nycc-2017-star-wars-the-last-jedi-props-gallery|text=NYCC 2017: ''Star Wars: The Last Jedi'' Prop Gallery}}
+*{{SW|url=news/nycc-2017-inside-hasbro-new-star-wars-the-last-jedi-3-75-inch-figures|text=NYCC 2017: Inside Hasbro's New ''Star Wars: The Last Jedi'' 3.75-Inch Figures}}
+*{{SW|url=news/star-wars-the-last-jedi-ticket-offers-and-giveaways|text=''Star Wars: The Last Jedi'' Ticket Offers and Giveaways}}
+*{{SW|url=news/star-wars-the-last-jedi-theatrical-poster-revealed|text=''Star Wars: The Last Jedi'' Theatrical Poster Revealed}}
+*{{SW|url=news/discussing-the-star-wars-publishing-landscape-with-lucasfilm-michael-siglain|text=Discussing the ''Star Wars'' Publishing Landscape with Lucasfilm's Michael Siglain}}
+*{{SWYoutube|hg_68He4-38|The Last Jedi Poster Revealed! &#124; The Star Wars Show|archivedate=20190904232247}}
+*{{SWYoutube|Q0CbN8sfihY|Star Wars: The Last Jedi Trailer (Official)|archivedate=20200817195709}}
+*{{SW|url=news/5-highlights-from-the-star-wars-the-last-jedi-trailer|text=5 Highlights from the ''Star Wars: The Last Jedi'' Trailer}}
+*{{SWYoutube|6-W4CoeMd7A|Star Wars: The Last Jedi Trailer Reactions, Dave Filoni Talks Rebels Season 4, and More!|archivedate=20180107070019}}
+*{{SW|url=news/here-are-all-of-rian-johnsons-twitter-and-instagram-updates-on-star-wars-the-last-jedi|text=Here Are All of Rian Johnson's Twitter and Instagram Updates on ''Star Wars: The Last Jedi''}}
+*{{SW|url=news/poll-what-is-your-favorite-moment-in-the-star-wars-the-last-jedi-trailer|text=Poll: What is Your Favorite Moment in the ''Star Wars: The Last Jedi'' Trailer?}}
+*{{SW|url=news/thank-you-for-supporting-star-wars-the-last-jedi|text=Thank You for Supporting ''Star Wars: The Last Jedi''}}
+*{{SWYoutube|lNjwsz8bLLI|Star Wars: The Last Jedi New York Comic Con Experience|archivedate=20171210020538}}
+*{{SW|url=news/quiz-how-well-do-you-know-star-wars-the-last-jedi-so-far|text=Quiz: How Well Do You Know ''Star Wars: The Last Jedi'' So Far?}}
+*{{SW|url=video/directing-the-last-jedi|text=Directing ''The Last Jedi''}}
+*{{SWYoutube|tm32FFFbAOk|Lucasfilm President Kathleen Kennedy on All Things Star Wars, Kylo Ren in Battlefront II, and More!|archivedate=20200809055117}}
+*{{SW|url=video/star-wars-the-last-jedi-awake|text=''Star Wars: The Last Jedi'' "Awake"}}
+*{{SW|url=news/star-wars-the-last-jedi-tv-spot-new-glimpses-luke-rey-more|text=''Star Wars: The Last Jedi'' TV Spot Features New Glimpses of Luke, Rey, and More}}
+*{{SW|url=news/rag-bone-celebrates-the-star-wars-saga-with-new-collection|text=Rag & Bone Celebrates the ''Star Wars'' Saga with New Collection}}
+*{{SW|url=news/rian-johnson-writer-director-of-star-wars-the-last-jedi-to-create-all-new-star-wars-trilogy|text=Rian Johnson, Writer-Director of ''Star Wars: The Last Jedi'', to Create All-New ''Star Wars'' Trilogy}}
+*{{SWYoutube|RSBEm1oNLT4|New Star Wars Trilogy Announced! &#124; The Star Wars Show|archivedate=20191002213944}}
+*{{SW|url=news/were-giving-away-sets-of-the-alamo-drafthouses-awesome-mondo-designed-star-wars-the-last-jedi-glasses|text=We're Giving Away Sets of the Alamo Drafthouse's Awesome Mondo-Designed ''Star Wars: The Last Jedi'' Glasses}}
+*{{SW|url=news/check-out-the-beautiful-star-wars-the-last-jedi-imax-poster|text=Check Out the Beautiful ''Star Wars: The Last Jedi'' IMAX Poster}}
+*{{SWYoutube|znKxu09P_H8|Star Wars: The Last Jedi "Heroes" (:30)|archivedate=20190510184628}}
+*{{SW|url=news/finn-poe-rey-star-new-star-wars-the-last-jedi-tv-spot|text=Finn, Poe, and Rey Star in New ''Star Wars: The Last Jedi'' TV Spot}}
+*{{SWYoutube|44szOPIixaU|Star Wars: The Last Jedi "Tempt" (:30)|archivedate=20200706003101}}
+*{{SWYoutube|SJNfysZRmf4|Star Wars: The Last Jedi &#124; Evolution of the Crystal Fox|archivedate=20200616024852}}
+*{{SWYoutube|J4mSlKf-vgY|The Latest on The Last Jedi, Thrawn: Alliances Cover Revealed, and More!|archivedate=20180208045619}}
+*{{SWYoutube|s0PIlLHFG4A|Star Wars: The Last Jedi "Back" (:15)|archivedate=20200703130150}}
+*{{SW|url=news/inside-ilm-talking-with-david-weitzberg-he-blows-things-up-in-star-wars|text=Inside ILM: Talking with David Weitzberg &ndash; He Blows Things Up in ''Star Wars''}}
+*{{InsiderCite|177|}}
+*{{SWYoutube|jEBgOF8AjFI|Kelly Marie Tran's The Last Jedi Prank and Google Home's Star Wars Trivia BTS|archivedate=20180208045422}}
+*{{SWYoutube|-py2awmME8s|Star Wars: The Last Jedi &#124; Training Featurette|archivedate=20200627211711}}
+*{{SW|url=news/check-out-these-new-pop-icon-star-wars-the-last-jedi-posters|text=Check Out the Bold, New ''Star Wars: The Last Jedi'' "Pop Icon" Posters}}
+*{{SW|url=news/how-josh-rossi-won-the-holidays-with-his-familys-the-last-jedi-card|text=How Josh Rossi Won the Holidays with His Family's ''The Last Jedi'' Card}}
+*{{SW|url=news/artist-paul-shipper-on-his-stunning-star-wars-the-last-jedi-theatrical-poster|text=Artist Paul Shipper on His Stunning ''Star Wars: The Last Jedi'' Theatrical Poster}}
+*{{SW|url=news/highlights-from-the-star-wars-the-last-jedi-press-event|text=Highlights from the ''Star Wars: The Last Jedi'' Press Event}}
+*{{SWYoutube|SA01xwFl61c|We Talk with the Cast of The Last Jedi, Go to Anthony Daniels' Droid School, and More!|archivedate=20181020165016}}
+*{{SW|url=news/watch-star-wars-the-last-jedi-red-carpet-live-at-starwars-com|text=Watch the ''Star Wars: The Last Jedi'' Red Carpet Live at StarWars.com}}
+*{{SW|url=news/the-first-order-arrives-in-the-star-wars-app|text=The First Order Arrives&hellip;in the ''Star Wars'' App}}
+*{{SWYoutube|oao0bFkV4sA|Star Wars: The Last Jedi &#124; Droid School Featurette|archivedate=20191110101102}}
+*{{SW|url=news/poll-which-character-are-you-most-excited-to-see-in-star-wars-the-last-jedi|text=Poll: Which Character Are You Most Excited to See in ''Star Wars: The Last Jedi''?}}
+*{{SW|url=news/a-guide-to-every-star-wars-the-last-jedi-related-book-coming-december-15|text=A Guide to Every ''Star Wars: The Last Jedi''-Related Book Coming December 15}}
+*{{SW|url=video/worlds-of-the-last-jedi|text=Worlds of ''The Last Jedi''}}
+*{{SWYoutube|UVNIEszp2UQ|Live From The Red Carpet Of Star Wars: The Last Jedi|archivedate=20200813183517}}
+*{{SWYoutube|rfalezebi4g|Star Wars: The Last Jedi &#124; Red Carpet World Premiere|archivedate=20180208045435}}
+*{{SW|url=news/we-had-such-a-great-time-rian-johnson-on-the-path-to-star-wars-the-last-jedi|text="We Had Such a Great Time": Rian Johnson on the Path to ''Star Wars: The Last Jedi''}}
+*{{SW|url=news/these-star-wars-the-last-jedi-cosplayers-from-the-red-carpet-premiere-are-most-impressive|text=These ''Star Wars: The Last Jedi'' Cosplayers from the Red Carpet Premiere Are Most Impressive}}
+*{{SW|url=news/christian-louboutin-on-the-force-powered-fashion-of-his-star-wars-the-last-jedi-shoes|text=Christian Louboutin on the Force-Powered Fashion of His ''Star Wars: The Last Jedi'' Shoes}}
+*{{SWYoutube|_CZHqpIpN4k|The Last Jedi Cast Answers YOUR Questions, Behind the Scenes of the Red Carpet Live Stream, & More!|archivedate=20180208045419}}
+*{{SW|url=news/designing-star-wars-the-last-jedi-part-1-how-porgs-were-hatched|text=Designing ''Star Wars: The Last Jedi'', Part 1: How Porgs Were Hatched}}
+*{{SW|url=news/designing-star-wars-the-last-jedi-part-2-creating-the-caretakers|text=Designing ''Star Wars: The Last Jedi'', Part 2: Creating the Caretakers}}
+*{{SW|url=news/designing-star-wars-the-last-jedi-part-3-bb-9e|text=Designing ''Star Wars: The Last Jedi'', Part 3: Developing BB-9E, a Droid Fit for the First Order}}
+*{{SWYoutube|SFxZb-GHbrQ|Star Wars: The Last Jedi &#124; Becoming Rose|archivedate=20200401072412}}
+*{{SW|url=news/thats-star-wars-production-designer-rick-heinrichs-on-the-unmistakable-visual-language-of-the-last-jedi|text="That's ''Star Wars''!": Production Designer Rick Heinrichs on the Unmistakable Visual Language of ''The Last Jedi''}}
+*{{SWYoutube|p09c0MXDxto|Star Wars: The Last Jedi Secrets Explained|archivedate=20200811211210}}
+*{{SW|url=news/star-wars-the-last-jedi-receives-4-oscar-nominations|text=''Star Wars: The Last Jedi'' Receives 4 Oscar Nominations}}
+*{{SW|url=news/abc-news-nightline-explores-the-force-of-sound|text=''ABC News Features'' Explores "The Force of Sound"}}
+*{{SWYoutube|Ecd4eA067P0|Star Wars: Star Wars: The Last Jedi In-Home Trailer (Official)|archivedate=20200615120251}}
+*{{SW|url=news/star-wars-the-last-jedi-comes-home|text=''Star Wars: The Last Jedi'' Comes Home}}
+*{{SWYoutube|s4jIW3zbE28|The Last Jedi Comes Home, Solo Books Revealed & New Star Wars Toys from Toy Fair 2018!|archivedate=20191110101101}}
+*{{SWYoutube|PXBbfXtUFMU|Star Wars Rebels Nears Its End, Inside The Last Jedi's Sound Design with Ren Klyce, and More!|archivedate=20190305184503}}
+*{{SW|url=news/5-things-we-learned-from-the-force-of-sound|text=5 Things We Learned from "The Force of Sound"}}
+*{{SWYoutube|HjoJqZDjxgI|New The Last Jedi Deleted Scene, Star Wars Rebels Says Goodbye, and More!|archivedate=20200619025558}}
+*{{SWYoutube|KfTalQLQi3o|Creating Crystal Foxes &ndash; Showdown on Crait &#124; Star Wars: The Last Jedi|archivedate=20181018071112}}
+*{{SWYoutube|6xBRvmA78D8|Star Wars: The Last Jedi &#124; Now on Digital and Movies Anywhere|archivedate=20190514144411}}
+*{{SWYoutube|L376bLr_xso|Star Wars: The Last Jedi &#124; The Director and the Jedi|archivedate=20200817200911}}
+*{{SWYoutube|UzeIb-TZo_I|Star Wars: The Last Jedi &#124; Phasma's End &ndash; Deleted Scene|archivedate=20200817200913}}
+*{{SW|url=news/get-a-sneak-peek-at-star-wars-the-last-jedi-bonus-features|text=Get a Sneak Peek at ''Star Wars: The Last Jedi'' Bonus Features}}
+*{{SWYoutube|-hwnDSXZwmg|Star Wars: The Last Jedi &#124; World of White and Red|archivedate=20200615143643}}
+*{{SWYoutube|SNje_YmkWq4|Star Wars: The Last Jedi &#124; Luke's Internal Struggle|archivedate=20190604195730}}
+*{{SW|url=news/bb-8-and-porg-puppeteer-brian-herring-on-his-journey-to-the-last-jedi|text="It Was All I'd Ever Wanted to Do": BB-8 and Porg Puppeteer Brian Herring on His Journey to ''The Last Jedi''}}
+*{{SWYoutube|CsI_-j3ItVY|Star Wars: The Last Jedi &#124; The New Walker|archivedate=20200502015140}}
+*{{SW|url=news/5-things-we-learned-from-the-last-jedi-documentary-the-director-and-the-jedi|text=5 Things We Learned from ''The Last Jedi'' Documentary ''The Director and the Jedi''}}
+*{{SWYoutube|1lsDuNPr2FU|Star Wars: The Last Jedi &#124; Snoke and Mirrors|archivedate=20200812143701}}
+*{{SWYoutube|BQRZ0ODUUzQ|Star Wars: The Last Jedi &#124; Resistance Bomber Design|archivedate=20191110101101}}
+*{{SWYoutube|mV_iLEC7yNU|Star Wars: The Last Jedi &#124; Carrie Fisher & Rian Johnson|archivedate=20191103002643}}
+*{{SWYoutube|_5wbBkDeshc|Star Wars: The Last Jedi &#124; Score Only Featurette|archivedate=20200630114044}}
+*{{SWYoutube|tDa2vt1_KBs|Star Wars: The Last Jedi &#124; Peace & Purpose|archivedate=20200507022724}}
+*{{SWYoutube|-LuYDrzGcMY|LEGO Star Wars: The Last Jedi in 2 Minutes|archivedate=20190524210134}}
+*{{SW|url=news/from-fan-to-film-lee-towersey-bringing-droids-to-life-the-last-jedi|text=From Fan to Film: Lee Towersey on Bringing Droids to Life in ''The Last Jedi''}}
+*{{SW|url=news/7-things-we-learned-from-rian-johnsons-the-last-jedi-commentary|text=7 Things We Learned from Rian Johnson's ''The Last Jedi'' Commentary}}
+*{{SW|url=news/from-a-certain-point-of-view-what-is-the-best-scene-in-star-wars-the-last-jedi|text=From a Certain Point of View: What is the Best Scene in ''Star Wars: The Last Jedi''?}}
+*{{SWYoutube|Cl8ARQBZqDY|Star Wars: The Last Jedi &#124; Kylo's Choice|archivedate=20191103002400}}
+*{{SW|url=news/inside-ilm-layout-artist-megan-dolman-talks-kylo-ren-vs-luke-skywalker-and-more|text=Inside ILM: Layout Artist Megan Dolman Talks Kylo Ren Vs. Luke Skywalker and More}}
+*{{SW|url=news/happy-beeps-download-print-starwars-com-exclusive-star-wars-the-last-jedi-blu-ray-covers|text=Happy Beeps: Download and Print StarWars.com Exclusive ''Star Wars: The Last Jedi'' Blu-ray Covers}}
+*{{SW|url=news/inside-the-director-and-the-jedi|text=Inside ''The Director and the Jedi'': An Honest, Emotional Look at the Making of ''Star Wars: The Last Jedi''}}
+*{{SW|url=news/the-art-of-star-wars-toy-photography|text=The Art of ''Star Wars'' Toy Photography}}
+*{{SWYoutube|uk2S6QdUogs|Why An Old Door Hangs on the Wall at Lucasfilm, Star Wars Pinball: The Last Jedi Revealed, and More!|archivedate=20180525173808}}
+*{{SWYoutube|DAi3GgwhDR0|Star Wars: The Last Jedi &#124; Blooper Reel|archivedate=20190807184028}}
+*{{SW|url=news/check-out-the-star-wars-the-last-jedi-set-and-scoring-stage-in-stunning-360-vr|text=Check Out the ''Star Wars: The Last Jedi'' Set and Scoring Stage in Stunning 360 VR}}
+*{{SW|url=news/dan-mumford-on-his-incredible-star-wars-the-last-jedi-art|text=Dan Mumford on His Incredible ''Star Wars: The Last Jedi'' Art}}
+*{{SW|url=news/star-wars-best-of-2018|text=''Star Wars'': Best of 2018}}
+*''[[The Art of Star Wars Rebels]]''
+*''[[Star Wars: The Lightsaber Collection]]''
+*{{SWYoutube|VSRBvBhqGVY|Exciting Lucasfilm Announcements, A New Story From The High Republic, and More!|archivedate=20201217202150}}
+*{{SW|url=news/lego-star-wars-holiday-special-easter-eggs|text=15 Easter Eggs to Find in the ''LEGO Star Wars Holiday Special''}}
+*''[[Star Wars: The Skywalker Saga: The Official Collector's Edition]]''
+*{{SW|url=news/star-wars-summer-reading-list|text=Looking for a ''Star Wars'' Summer Reading List? Found One, You Have!}}
+*{{SW|url=news/justina-ireland-out-of-the-shadows|text="Nothing is the Same After This Book": Justina Ireland on ''Out of the Shadows''}}
+*{{SWKidsYoutube|hclyuq9GD8I|Animal Actors &#124; Star Wars Full Circle|archiveurl=https://archive.is/212XT}}
+*{{SW|url=news/10-reasons-we-love-the-lego-star-wars-holiday-special|text=10 Reasons We Love the ''LEGO Star Wars Holiday Special''}}
+*{{SW|url=news/the-book-of-boba-fett-chapter-6-highlights|text=The Best of ''The Book of Boba Fett'': 5 Highlights from "Chapter 6: From the Desert Comes a Stranger"}}
+*{{SWYoutube|duTUfetIdts|Go Beyond The Spires in Virtual Reality: Making of ILMxLab's Tales From The Galaxy's Edge SWCA 2022|archivedate=20220530112928}}
+*{{SW|url=news/marvel-star-wars-25-exclusive-preview|text=Lessons of the Skywalker Saga in Marvel's ''Star Wars'' #25 &ndash; Exclusive Preview}}
+*{{SW|url=news/saga-chronicles-obi-wan-kenobi-sound|text=Saga Chronicles: Skywalker Sound's Danielle Dupre and Jon Borland on their ''Obi-Wan Kenobi'' Journey}}
+*{{SW|url=news/lego-star-wars-summer-vacation-easter-eggs|text=20 Easter Eggs from ''LEGO Star Wars Summer Vacation''}}
+*{{SW|url=news/from-the-pages-of-star-wars-insider-the-galaxys-greatest-villains|text=From the Pages of ''Star Wars Insider'': Captain Phasma and the Galaxy's Greatest Villains}}
+*{{SW|url=series/andor/andor-season-1-episode-2-episode-guide|text=''Andor'' &#124; Season 1, Episode 2 &ndash; Episode Guide}}}}
+
+==Notes and references==
+{{Scroll_box|content={{Reflist}}}}
+
+==External links==
+*{{SW|url=films/star-wars-episode-viii-the-last-jedi|text=''Star Wars'': Episode VIII ''The Last Jedi''}}
+*{{SW|url=the-last-jedi|text=''Star Wars: The Last Jedi'' Official Site}}
+*{{WP|Star Wars: The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi''}}
+*{{Imdb|url=title/tt2527336|title={{PAGENAME}}}}
+
+{{Episode_VIII_multimedia}}
+{{Star_Wars}}
+
+{{Interlang
+|cs=Star Wars: Epizoda VIII Poslední z Jediů
+|de=Episode VIII – Die letzten Jedi#kanon
+|el=Star Wars: Επεισόδιο 8 - Οι Τελευταίοι Τζεντάι
+|es=Star Wars: Episodio VIII Los Últimos Jedi
+|fa=جنگ ستارگان: اپیزود هشتم آخرین جدای
+|fi=Tähtien sota: Episodi VIII – The Last Jedi
+|fr=Star Wars épisode VIII : Les Derniers Jedi
+|hu=Csillagok háborúja VIII: Az utolsó Jedik
+|is=The Last Jedi
+|it=Star Wars Episodio VIII: Gli Ultimi Jedi
+|ja=スター・ウォーズ エピソード8/最後のジェダイ
+|ka=ვარსკვლავური ომები, ეპიზოდი VIII: უკანასკნელი ჯედაი
+|ko=스타워즈: 에피소드 8 라스트 제다이
+|nl=Star Wars Episode VIII: The Last Jedi
+|pl=Ostatni Jedi
+|pt=Star Wars Episódio VIII: Os Últimos Jedi
+|ru=Звёздные войны. Эпизод VIII: Последние джедаи
+|sr=Zvezdani ratovi: Poslednji džedaji
+|sv=Star Wars: Episod VIII The Last Jedi
+|tr=Star Wars: Bölüm VIII Son Jedi
+|uk=Зоряні війни. Епізод VIII: Останні джедаї
+}}
+
+[[Category:Saga films|8]]
+[[Category:2017 releases]]

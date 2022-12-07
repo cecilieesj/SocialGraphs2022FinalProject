@@ -1,0 +1,38 @@
+{{upcoming|media=film}}
+{{NeedImage}}
+{{Infobox film
+|image = 
+|name = Penelope
+|director = 
+|producer = Will Gluck
+|writer = Robert Sudduth
+|starring = 
+|music = 
+|cinematography = 
+|editor = 
+|studio = [[Walt Disney Pictures]]<br>Olive Bridge
+|distributor = [[Walt Disney Studios Motion Pictures]]
+|release =
+|time = 
+|language = English 
+|budget = 
+|gross = 
+|preceded = 
+|followed = 
+|hidec = 
+|website = 
+|imdb_id = 
+|tv_com_id = }}
+'''''Penelope''''' is an upcoming adaptation of ''The Princess and the Pea'' by [[Hans Christian Andersen]].
+
+==Synopsis==
+The film is a musical adaptation of ''The Princess and the Pea'', "with a twist".<ref>[https://deadline.com/2022/07/disney-penelope-robert-sudduth-1235074129/ Disney Developing New Musical Comedy ‘Penelope’ With Robert Sudduth Writing Script]</ref>
+
+==References==
+{{Reflist}}
+{{FilmStub}}
+{{DISPLAYTITLE:''Penelope''}}
+[[Category:Films]]
+[[Category:Live-action films]]
+[[Category:Films based on fairy tales]]
+[[Category:Disney films]]

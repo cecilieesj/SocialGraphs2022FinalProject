@@ -1,0 +1,91 @@
+{{Infobox film
+| name           = The Great Locomotive Chase
+| image          = The_Great_Locomotive_Chase.jpg
+| alt            =
+| caption        =
+| director       = Francis D. Lyon
+| producer       = Lawrence Edward Watkin<br>[[Walt Disney]]
+| writer         = Lawrence Edward Watkin
+| starring       = [[Fess Parker]]<br>Jeffrey Hunter<br>John Lupton<br>[[Jeff York]]<br>[[Slim Pickens]]
+| music          = [[Paul Smith]]
+| cinematography = Charles Boyle
+| editing        = 
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]]
+| released       = 
+| runtime        = 
+| country        = 
+| language       = English
+| gross          = $1.7 million
+|editor = Ellsworth Hoagland|release = [[June 8]], [[1956]]|time = 85 minutes|website = https://movies.disney.com/the-great-locomotive-chase|imdb_id = tt0049279}}
+
+'''''The Great Locomotive Chase''''' is a [[1956]] [[Walt Disney Productions]] CinemaScope adventure film based on the real Great Locomotive Chase that occurred in 1862 during the American Civil War. The film stars [[Fess Parker]] as James J. Andrews, the leader of a group of Union soldiers from various Ohio regiments who volunteered to go behind Confederate lines in civilian clothes, steal a Confederate train north of Atlanta, and drive it back to Union lines in Tennessee, tearing up railroad tracks and destroying bridges and telegraph lines along the way.
+
+Written and produced by Lawrence Edward Watkin and directed by Francis D. Lyon, the 85-minute full-color film also features Jeffrey Hunter, John Lupton, Kenneth Tobey, Don Megowan, and [[Slim Pickens]]. [[Paul Smith]] composed the score. Filmed in [[Georgia]] and [[North Carolina]], along the now abandoned Tallulah Falls Railway, it was released in U.S. theaters by [[Walt Disney Studios Motion Pictures|Buena Vista Distribution]] on [[June 8]], [[1956]], and capitalized on Parker's growing fame as an actor from his portrayal of [[Davy Crockett]]. The film re teamed him with [[Jeff York]] (Mike Fink).
+
+The steam engine upon which the film is based ("The General") is preserved at the Southern Museum of Civil War and Locomotive History in Kennesaw, Georgia. Representing the locomotive in the film is American-type steam engine #25 ("William Mason"), built in 1856 and preserved in operating condition at the B&O Railroad Museum.
+
+The final locomotive used by Conductor Fuller and the pursuers, "The Texas," has been restored and is on display at Grant Park in Atlanta, also home to the Cyclorama mural painting of the Battle of Atlanta.
+==Cast==
+*[[Fess Parker]] as James J. Andrews, Union spy and leader of the volunteers
+*Jeffrey Hunter as William A. Fuller, conductor of the Confederate train
+*[[Jeff York]] as William Campbell, Union soldier ("worth ten in a fight"){actually Campbell was a civilian volunteer}
+*John Lupton as Cpl. William Pittenger, Union soldier
+*Eddie Firestone as Robert Buffum, Union soldier
+*Kenneth Tobey as Anthony Murphy, Confederate engineer
+*Don Megowan as Marion A. Ross, Union soldier
+*Claude Jarman, Jr. as Jacob Parrott, Union soldier, first Medal of Honor recipient
+*Harry Carey, Jr. as William Bensinger, Union soldier
+*Leonard P. Geer as James A. Wilson (as Lennie Geer), Union soldier
+*George Robotham as William Knight, Union civilian train engineer/fireman
+*Stan Jones as Wilson Brown, Union civilian train engineer/fireman
+*Marc Hamilton as John Wollam, Union soldier
+*John Wiley as John M. Scott, Union soldier
+*[[Slim Pickens]] as Pete Bracken
+*Morgan Woodward as Unnamed Confederate soldier on troop train
+*Dick Sargent as Unnamed Union soldier (uncredited)
+*Dale Van Sickel as Alonzo Martin (uncredited)
+*Douglas Bleckley as Henry Haney, Fireman of "The Texas"
+*Robert Kent as A Switchman
+
+==Releases==
+The film was released on DVD twice, first by Anchor Bay Entertainment in 2000, and by Disney in 2004, but these DVDs have been seldom advertised, as well as being rather "bare bone" releases (not having any bonus material, etc.), and have not been released outside of the United States.
+==Song==
+Sons of Old Aunt Dinah" - lyrics by Lawrence Edward Watkin and music by Stan Jones
+
+==Gallery==
+<gallery widths="185">
+Tumblr n72svr6sVy1qhcrb0o1 1280.jpg
+54059590.jpg
+54059585.jpg
+54059584.jpg
+54059581.jpg
+Tumblr mraizyuOhK1qiceiuo2 1280.jpg
+Great locomotive chase william mason.jpg
+Inyo great locomotive chase.png
+Tumblr nqv7uk34XY1sa3t1go2 500.jpg
+Tumblr nqv7uk34XY1sa3t1go1 1280.jpg
+Great locomotive chase french poster.jpg|Poster from the release in [[France]] on [[December 19]], [[1956]]
+Great locomotive chase italian poster.jpg|Poster from the release in [[Italy]] on [[July 15]], [[1958]], paired with ''[[Men Against the Arctic]]''
+Great locomotive chase japanese poster.jpg|Poster from the release in [[Japan]] on [[May 5]], [[1957]]
+Los-valientes-tambien-huyen-img-42637-1-.jpg|Lobby card from the release in [[Mexico]] (1950s)
+Heroes de hierro.jpg|Poster from the release in [[Spain]] on [[December 24]], 1957
+Den stora lokomotivjakten 55 i.jpg|Poster from the release in [[Sweden]] on [[February 11]], 1957
+Uptown poster2010ww.jpg|Poster from the release in the [[United Kingdom]] on [[August 17]], 1956
+</gallery>
+
+==Trivia==
+*The film's copyright was renewed on [[January 23]], [[1984]].<ref>[https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First&Search_Arg=RE0000191447&Search_Code=REGS Online Copyright Catalog search (form autofilled, pressing "begin search" brings up the entry)]</ref>
+*The engines on the trains are old 4-4-0 engines or American type steam locomotives, except Yonah as a 4-2-0. These locomotives of this wheel arrangement were used most common on American railroads during the 1800s and 1830s until 1928.
+*The locomotive that played the "General" made a second appearance in [[Tuck Everlasting]].
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Great Locomotive Chase, The}}
+[[Category:Disney films]]
+[[Category:Live-action films]]
+[[Category:1956 films]]
+[[Category:The Great Locomotive Chase]]
+[[Category:Unrated_films]]
+[[Category:Cinemascope Films]]

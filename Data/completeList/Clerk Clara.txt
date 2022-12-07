@@ -1,0 +1,30 @@
+{{Infobox character
+|image = Clerk Clara.jpg
+|name = Clerk Clara
+|games = ''[[Toontown Online]]''
+|occupation = Clerk
+|alignment = Good/Neutral}}
+'''Clerk Clara''' is a [http://toontown.wikia.com/wiki/NPC NPC] in the discontinued online video game, ''[[Toontown Online]]''. She is one of the two clerks working in the [http://toontown.wikia.com/wiki/Toontown_Central Toontown Central] [http://toontown.wikia.com/wiki/Goofy%27s_Gag_Shop Goofy's Gag Shop] (along with [http://toontown.wikia.com/wiki/Clerk_Clark Clerk Clark]). She can be found in Toontown Central's Gag Shop.
+==SOS Toon==
+
+Clara is also an NPC that you may have to rescue in the [http://toontown.wikia.com/wiki/VP Sellbot VP] Battle ''(Therefore, she is a [http://toontown.wikia.com/wiki/SOS_Toons SOS Toon]).'' Completing the battle and rescuing her will give you her SOS Card, which is a 5-star [http://toontown.wikia.com/wiki/Trap_Gags Trap] SOS.
+
+When called upon, she will use [http://toontown.wikia.com/wiki/Trapdoor Trapdoors] to all Cogs in battle. Her Trapdoors deal a damage of 180, enough to destroy level 11 cogs.
+==Trivia==
+*Clara's Trap SOS requires a successful [http://toontown.wikia.com/wiki/Lure_Gags Lure Gag] or Lure SOS to deal damage.
+
+*All Trap SOS Toons are Clerk NPCs that work in a Goofy's Gag Shop ''(Clara included)''
+
+*Clerk Clara has the "rarest" and most damaging Trap SOS Card ''(Also being the strongest offensive SOS Card)'' Clara's Trap SOS is capable of dealing 180 damage to all [http://toontown.wikia.com/wiki/Cogs Cogs] if used.
+
+*When you go to the Trolley and finished it your first time, Clara will teach you how to shop for Gags (with a preview of every Squirt and Throw Gags) on your 2nd task.
+
+{{CharacterStub}}
+[[Category:Toontown characters]]
+[[Category:Rabbits]]
+[[Category:Females]]
+[[Category:Characters]]
+[[Category:Characters introduced in video games]]
+[[Category:Characters in video games]]
+[[Category:Animated characters]]
+{{Toontown Online}}

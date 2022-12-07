@@ -1,0 +1,101 @@
+{{Marvel Database:Film Template
+| Image                   = Marvel's Hulk Where Monsters Dwell.jpg
+| Aliases                 = 
+
+| Directors               = Mitch Schauer
+| Producers               = Alan Fine; Dan Buckley; Joe Quesada; Jeph Loeb; Cort Lane
+| ComicWriters            = 
+| StoryWriters            = 
+| ScreenplayWriters       = Marty Isenberg; Dave McDermott
+| Musicians               = Michael McCuistion; Kristopher Carter; Lolita Ritmanis
+| Cinematographers        = 
+| Editors                 = 
+| Distributors            = Walt Disney Studios Home Entertainment
+| Running Time            = 75 Minutes
+| Rating                  = 
+| Budget                  = 
+| Release Date            = October 21, 2016
+| IMDB ID                 = 6173902
+| Marvel Movies           = Hulk: Where Monsters Dwell
+
+| Previous Film           = 
+| Next Film               = 
+
+| Appearances             = 
+'''Featured Characters:'''
+* {{a|[[Bruce Banner (Earth-12041)|Hulk (Bruce Banner)]]}}
+'''Supporting Characters:'''
+* {{a|[[Stephen Strange (Earth-12041)|Doctor Strange (Stephen Strange)]]}}
+* {{a|[[Howling Commandos (S.H.I.E.L.D.) (Earth-12041)|Howling Commandos]]}}
+** {{1stChron|[[Theodore Sallis (Earth-12041)|Man-Thing (Ted Sallis)]]}}
+** {{1st|[[Warwolf (Earth-12041)|Warwolf]]}}
+** {{1st|[[Nina Price (Earth-12041)|Vampire by Night (Nina Price)]]}}
+** {{1st|[[Jasper Sitwell (Earth-12041)|Zombie Jasper Sitwell]]}}
+** {{1st|[[Benito Serrano (Earth-12041)|Minotaur]]}} {{Joins}}
+'''Antagonists:'''
+* {{a|[[Nightmare (Earth-12041)|Nightmare]]}}
+** {{a|[[Dreamstalker (Earth-12041)|Dreamstalker]]}}
+* {{1st|[[Gayle (Earth-12041)|Sporr]]}}
+* {{1st|[[Ana (Earth-12041)|Rorgg, King of the Spider-Men]]}}
+* {{1st|[[Eric (Earth-12041)|Zzutak]]}}
+'''Other Characters:'''
+* {{Mentioned|[[Johnathon Blaze (Earth-12041)|Ghost Rider (Johnny Blaze)]]}}
+* {{Mentioned|[[Avengers (Earth-12041)|Avengers]]}}
+* {{Mentioned|[[Anthony Stark (Earth-12041)|Iron Man (Tony Stark)]]}}
+* {{Mentioned|[[Peter Parker (Earth-12041)|Spider-Man (Peter Parker)]]}}
+* {{Mentioned|[[Balthakk (Earth-12041)|Balthakk]]}}
+* {{Mentioned|[[Cyttorak (Earth-12041)|Cyttorak]]}}
+* {{Mentioned|[[Denak (Earth-12041)|Denak]]}}
+* {{Mentioned|[[Faltine]]}}
+* {{Mentioned|[[Ikthalon (Earth-12041)|Ikthalon]]}}
+* {{Mentioned|[[Krakkan (Earth-12041)|Krakkan]]}}
+* {{Mentioned|[[Morpheus (Earth-12041)|Morpheus]]}}
+* {{Mentioned|[[Vishanti (Earth-12041)|Vishanti]]}}
+** {{Mentioned|[[Oshtur (Earth-12041)|Oshtur]]}}
+** {{Mentioned|[[Agamotto (Earth-12041)|Agamotto]]}}
+* {{Mentioned|[[Raggadorr (Earth-12041)|Raggadorr]]}}
+* {{Mentioned|[[Seraphim (Earth-12041)|Seraphim]]}}
+* {{Mentioned|[[Valtorr (Earth-12041)|Valtorr]]}}
+* {{Mentioned|[[Watoomb (Earth-12041)|Watoomb]]}}
+'''Races and Species:'''
+* <br/>
+'''Locations:'''
+* {{a|[[Earth-12041]]}}
+** {{a|[[Earth]]}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[New York (State)|New York]]}}
+***** {{a|[[New York City]]}}
+****** {{a|[[Manhattan]]}}
+******* {{a|[[Greenwich Village]]}}
+******** {{a|[[Bleecker Street]]}}
+********* {{a|[[Sanctum Sanctorum]]}}
+** {{a|[[Dream Dimension|Dimension of Dreams]]}}
+'''Items:'''
+* {{a|[[Eye of Agamotto (Knowledge)|Eye of Agamotto]]}}
+* {{a|[[Cloak of Levitation]]}}
+* {{a|[[Crimson Bands of Cyttorak]]}}
+'''Vehicles:'''
+* <br/>
+
+| Plot                    = 
+
+| Cast                    = * [[wikipedia:Fred Tatasciore|Fred Tatasciore]] as the Hulk
+** [[wikipedia:Jesse Burch|Jesse Burch]] as Bruce Banner
+* [[wikipedia:Liam O'Brien|Liam O'Brien]] as Dr. Strange
+* Edward Bosco as Warwolf and Minotaur
+* [[wikipedia:Chiara Zanni|Chiara Zanni]] as Vampire by Night / Nina Price
+* Mike Vaughn as Jasper Sitwell
+* Matthew Waterson as Nightmare
+* Michael Robles as Benito
+
+| Notes                   = * The animated film ''Marvel's Hulk: Where Monsters Dwell'' was announced at San Diego Comic-Con 2016. Marvel's staffers promised the feature will be more "adult-oriented" than Marvel's animated series currently on Disney XD, comparing it to the [[wikipedia:DC Universe Animated Original Movies|animated movies]] based on DC Comics.<ref>{{cite web|url=http://www.newsarama.com/30366-marvel-s-secret-wars-gets-animated.html|title=SECRET WARS & CIVIL WAR Animated Series, HULK Movie, GUARDIANS OF GALAXY Renewed by MARVEL ANIMATION|last=Arrant|first=Chris|work=Newsarama|date=24 July 2016|accessdate=8 October 2016}}</ref>
+* The film premiered at New York Comic Con 2016.
+* Despite not having any critic reviews on Rotten Tomatoes, the film possesses a 18% of audience approval score, with an average rating of 2.5/5.{{r|{{cite web|url=https://www.rottentomatoes.com/m/marvels_hulk_where_monsters_dwell|title=Marvel's Hulk: Where Monsters Dwell (2016) Rotten Tomatoes|work=Rotten Tomatoes|accessdate=18 March 2018}}}}
+| Trivia                  = * The subtitle for this film is based after the comic series {{cl|Where Monsters Dwell Vol 1}}.
+===Videos===
+<gallery position="center" widths="300" spacing="small" hideaddbutton="true">
+Marvel's Hulk Where Monsters Dwell - Clip 1
+</gallery>
+| Links                   = * [[Marvel Films#Animated|Marvel Films]]
+}}
+[[ru:Халк: Где обитают чудовища]]
