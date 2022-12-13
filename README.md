@@ -1,5 +1,5 @@
 # SocialGraphs2022FinalProject
-Data, edgelist and notebooks use for the final project in the course 02805 Social Graphs and Interaction.
+Data, edgelist and notebooks used for the final project in the course 02805 Social Graphs and Interaction.
 
 The Explainer notebook contains all analysis showed as results in the paper "*Identifying the level of gender bias in the Disney network*" made by Cecilie Jürgens, Harald Lissau and Nojan Rezvani.
 
